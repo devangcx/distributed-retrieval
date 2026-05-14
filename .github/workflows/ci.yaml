@@ -1,0 +1,27 @@
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+    release-on-github:
+        name: Release on GitHub
+        runs-on: ubuntu-latest
+        if: github.ref == 'refs/heads/master' && github.repository_owner == 'devangcx'
+        steps:
+            - uses: actions/checkout@v6
+
+            - name: Set up Node
+              uses: actions/setup-node@v6
+              with:
+                  node-version: 25
+
+            - name: Run semantic release
+              id: new_release
+              run: |
+                  nextRelease="$(npx semantic-release --dryRun | grep -oP 'Published release \K.*? ' || true)"
+                  npx semantic-release
+                  echo "tag=$nextRelease" >> $GITHUB_OUTPUT
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        outputs:
+            tag: ${{ steps.new_release.outputs.tag }}

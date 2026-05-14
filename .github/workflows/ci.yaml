@@ -22,6 +22,6 @@ jobs:
                   npx semantic-release
                   echo "tag=$nextRelease" >> $GITHUB_OUTPUT
         env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         outputs:
             tag: ${{ steps.new_release.outputs.tag }}

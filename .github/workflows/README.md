@@ -1,4 +1,4 @@
-# Setup Environment
+# Environment Prerequisites
 
 ## Windows PC
 

@@ -1,6 +1,10 @@
+# Folders to ignore
 /target
 /report
 /data/processed/
+
+# Python virtual environment
 /venv
 
+# Environment variables
 .env

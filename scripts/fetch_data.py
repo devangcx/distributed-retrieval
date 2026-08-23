@@ -192,6 +192,17 @@ def normalize_movie(movie: JsonObject) -> JsonObject:
     }
 
 
+def normalize_usable_movie(movie: JsonObject) -> JsonObject | None:
+    """Normalize a movie only when its required text fields are non-blank."""
+    title = movie.get("title")
+    overview = movie.get("overview")
+    if not isinstance(title, str) or not title.strip():
+        return None
+    if not isinstance(overview, str) or not overview.strip():
+        return None
+    return normalize_movie(movie)
+
+
 def discover_candidates(client: httpx.Client) -> dict[int, JsonObject]:
     """Discover and deduplicate US English and Indian Hindi movies by ID."""
     discovery_groups = (
@@ -236,8 +247,9 @@ def prepare_movies(
 
     for index, movie_id in enumerate(movies, start=1):
         movie = fetch_movie(client, movie_id, raw_dir)
-        if movie.get("overview"):
-            normalized_movies.append(normalize_movie(movie))
+        normalized_movie = normalize_usable_movie(movie)
+        if normalized_movie is not None:
+            normalized_movies.append(normalized_movie)
         print(f"{index}/{candidate_count}: {movie.get('title')}")
 
     return normalized_movies
@@ -250,8 +262,9 @@ def prepare_cached_movies(raw_dir: Path) -> list[JsonObject]:
 
     for raw_path in raw_paths:
         movie = json.loads(raw_path.read_text(encoding="utf-8"))
-        if movie.get("overview"):
-            normalized_movies.append(normalize_movie(movie))
+        normalized_movie = normalize_usable_movie(movie)
+        if normalized_movie is not None:
+            normalized_movies.append(normalized_movie)
 
     return normalized_movies
 

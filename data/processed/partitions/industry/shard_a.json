@@ -1,0 +1,29 @@
+{
+  "schema_version": "1",
+  "partition_strategy": "industry",
+  "shard_id": "a",
+  "input_checksum": "8b9c3bbec6c8020b3596a11bca15900c4c77b3ddc66adfe8b7badcd633ee626e",
+  "source_record_count": 40,
+  "shard_record_count": 19,
+  "movie_ids": [
+    155,
+    278,
+    557,
+    559,
+    652,
+    1930,
+    24428,
+    83533,
+    102382,
+    157336,
+    271110,
+    299536,
+    315635,
+    324857,
+    429617,
+    569094,
+    634649,
+    822119,
+    1084242
+  ]
+}

@@ -1,0 +1,56 @@
+name: distributed-retrieval
+
+services:
+  postgres-shard-a:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: retrieval
+      POSTGRES_USER: retrieval
+      POSTGRES_PASSWORD: retrieval_dev_password
+    ports:
+      - "5433:5432"
+    volumes:
+      - postgres-shard-a-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U retrieval -d retrieval"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+
+  postgres-shard-b:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: retrieval
+      POSTGRES_USER: retrieval
+      POSTGRES_PASSWORD: retrieval_dev_password
+    ports:
+      - "5434:5432"
+    volumes:
+      - postgres-shard-b-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U retrieval -d retrieval"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+
+  qdrant-shard-a:
+    image: qdrant/qdrant:v1.13.6
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - qdrant-shard-a-data:/qdrant/storage
+
+  qdrant-shard-b:
+    image: qdrant/qdrant:v1.13.6
+    ports:
+      - "6335:6333"
+      - "6336:6334"
+    volumes:
+      - qdrant-shard-b-data:/qdrant/storage
+
+volumes:
+  postgres-shard-a-data:
+  postgres-shard-b-data:
+  qdrant-shard-a-data:
+  qdrant-shard-b-data:

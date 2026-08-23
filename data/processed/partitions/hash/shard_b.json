@@ -1,0 +1,24 @@
+{
+  "schema_version": "1",
+  "partition_strategy": "hash",
+  "shard_id": "b",
+  "input_checksum": "8b9c3bbec6c8020b3596a11bca15900c4c77b3ddc66adfe8b7badcd633ee626e",
+  "source_record_count": 40,
+  "shard_record_count": 14,
+  "movie_ids": [
+    155,
+    557,
+    559,
+    10757,
+    20453,
+    83533,
+    315635,
+    324857,
+    429617,
+    634649,
+    784651,
+    822119,
+    1190511,
+    1569947
+  ]
+}

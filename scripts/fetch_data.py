@@ -1,5 +1,6 @@
 """Discover TMDB movies, cache their raw metadata, and build a JSON dataset."""
 
+import argparse
 import json
 import os
 import time
@@ -26,6 +27,17 @@ LATEST_RELEASE_DATE = "2026-08-01"
 TMDB_TOKEN_ENV_VAR = "TMDB_API_READ_ACCESS_TOKEN"
 
 JsonObject = dict[str, Any]
+
+
+def parse_args() -> argparse.Namespace:
+    """Parse command-line options for fetching or rebuilding the dataset."""
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--from-cache",
+        action="store_true",
+        help="rebuild movies.json from cached raw responses without calling TMDB",
+    )
+    return parser.parse_args()
 
 
 def create_tmdb_client(token: str) -> httpx.Client:
@@ -107,9 +119,13 @@ def determine_industry_proxy(language: str | None, countries: list[str]) -> str:
 
 
 def extract_directors(credits: JsonObject) -> list[JsonObject]:
-    """Extract directors from a TMDB credits response."""
+    """Extract directors with the stable IDs required for idempotent loading."""
     return [
-        {"person_id": person["id"], "name": person["name"]}
+        {
+            "credit_id": person["credit_id"],
+            "person_id": person["id"],
+            "name": person["name"],
+        }
         for person in credits.get("crew", [])
         if person.get("job") == "Director"
     ]
@@ -123,41 +139,56 @@ def extract_cast(credits: JsonObject) -> list[JsonObject]:
     )
     return [
         {
+            "credit_id": person["credit_id"],
             "person_id": person["id"],
             "name": person["name"],
-            "character": person.get("character"),
-            "order": person.get("order"),
+            "character_name": person.get("character"),
+            "cast_order": person.get("order"),
         }
         for person in cast_by_billing_order[:10]
     ]
 
 
+def extract_genres(movie: JsonObject) -> list[JsonObject]:
+    """Normalize TMDB genres to the PostgreSQL genre field names."""
+    return [
+        {"genre_id": genre["id"], "name": genre["name"]}
+        for genre in movie.get("genres", [])
+    ]
+
+
+def extract_countries(movie: JsonObject) -> list[JsonObject]:
+    """Normalize production countries to the PostgreSQL country fields."""
+    return [
+        {"country_code": country["iso_3166_1"], "name": country["name"]}
+        for country in movie.get("production_countries", [])
+    ]
+
+
 def normalize_movie(movie: JsonObject) -> JsonObject:
     """Convert detailed TMDB metadata into the dataset's movie schema."""
-    production_countries = movie.get("production_countries", [])
-    country_codes = [country["iso_3166_1"] for country in production_countries]
+    countries = extract_countries(movie)
+    country_codes = [country["country_code"] for country in countries]
     language = movie.get("original_language")
     release_date = movie.get("release_date") or None
     credits = movie.get("credits", {})
+    vote_average = movie.get("vote_average")
 
     return {
         "movie_id": movie["id"],
         "title": movie.get("title"),
         "original_title": movie.get("original_title"),
+        "original_language": language,
         "release_date": release_date,
-        "release_year": int(release_date[:4]) if release_date else None,
-        "genres": movie.get("genres", []),
+        "overview": movie.get("overview"),
+        "runtime_minutes": movie.get("runtime"),
+        "vote_average": round(vote_average, 1) if vote_average is not None else None,
+        "vote_count": movie.get("vote_count", 0),
+        "industry": determine_industry_proxy(language, country_codes),
+        "genres": extract_genres(movie),
+        "countries": countries,
         "directors": extract_directors(credits),
         "cast": extract_cast(credits),
-        "overview": movie.get("overview"),
-        "original_language": language,
-        "production_countries": production_countries,
-        "production_companies": movie.get("production_companies", []),
-        "runtime": movie.get("runtime"),
-        "vote_average": movie.get("vote_average"),
-        "vote_count": movie.get("vote_count"),
-        "popularity": movie.get("popularity"),
-        "industry_proxy": determine_industry_proxy(language, country_codes),
     }
 
 
@@ -212,6 +243,19 @@ def prepare_movies(
     return normalized_movies
 
 
+def prepare_cached_movies(raw_dir: Path) -> list[JsonObject]:
+    """Normalize every usable cached TMDB movie without network access."""
+    normalized_movies = []
+    raw_paths = sorted(raw_dir.glob("*.json"), key=lambda path: int(path.stem))
+
+    for raw_path in raw_paths:
+        movie = json.loads(raw_path.read_text(encoding="utf-8"))
+        if movie.get("overview"):
+            normalized_movies.append(normalize_movie(movie))
+
+    return normalized_movies
+
+
 def write_movies(movies: list[JsonObject], output_path: Path) -> None:
     """Write normalized movies as a UTF-8 JSON array."""
     output_path.write_text(
@@ -231,12 +275,16 @@ def get_tmdb_token() -> str:
 
 def main() -> None:
     """Build the processed movie dataset from TMDB discovery results."""
+    args = parse_args()
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
 
-    with create_tmdb_client(get_tmdb_token()) as client:
-        candidates = discover_candidates(client)
-        normalized_movies = prepare_movies(client, candidates, RAW_DIR)
+    if args.from_cache:
+        normalized_movies = prepare_cached_movies(RAW_DIR)
+    else:
+        with create_tmdb_client(get_tmdb_token()) as client:
+            candidates = discover_candidates(client)
+            normalized_movies = prepare_movies(client, candidates, RAW_DIR)
 
     write_movies(normalized_movies, OUTPUT_PATH)
     print(f"\nSaved {len(normalized_movies)} usable movies to {OUTPUT_PATH}")

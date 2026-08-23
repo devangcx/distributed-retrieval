@@ -22,13 +22,49 @@ pip install -r scripts/dev-requirements.txt
 
 ## Fetching Data
 
-To fetch data from the TMDB API, run the following script:
+Fetching movies data from TMDB requires the `TMDB_API_READ_ACCESS_TOKEN` environment variable. Run the following command to fetch and cache the data. This will create
+two folders `data/raw/movies` and `data/processed/movies.json`.
 
 ```bash
 python scripts/fetch_data.py
 ```
 
-Monitor the console for any errors.
+To rebuild the processed dataset using only the existing
+files in `data/raw/movies`, run:
+
+```bash
+python scripts/fetch_data.py --from-cache
+```
+
+The cache-only mode makes no TMDB requests and does not require credentials.
+
+Run `python scripts/fetch_data.py --help` for the complete command help.
+
+## Generating Partition Manifests
+
+After producing `movies.json`, generate the hash and industry shard manifests:
+
+```bash
+python scripts/generate_partitions.py
+```
+
+The manifests are written beneath `data/processed/partitions`. They contain
+movie IDs and audit metadata; running this command does not load PostgreSQL or
+Qdrant. Generate only one strategy when needed:
+
+```bash
+python scripts/generate_partitions.py --strategy hash
+python scripts/generate_partitions.py --strategy industry
+```
+
+Custom paths are also supported:
+
+```bash
+python scripts/generate_partitions.py --input path/to/movies.json --output-dir path/to/partitions
+```
+
+Run `python scripts/generate_partitions.py --help` for the complete command
+help.
 
 # Data Model
 

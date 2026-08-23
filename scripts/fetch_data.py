@@ -1,4 +1,17 @@
-"""Discover TMDB movies, cache their raw metadata, and build a JSON dataset."""
+"""Discover TMDB movies, cache their raw metadata, and build a JSON dataset.
+
+Usage:
+    python scripts/fetch_data.py
+        Discover movies through TMDB, reuse cached detail responses when
+        available, and write the canonical dataset.
+
+    python scripts/fetch_data.py --from-cache
+        Rebuild the canonical dataset exclusively from existing raw cache
+        files. This mode does not require credentials or network access.
+
+Output:
+    data/processed/movies.json
+"""
 
 import argparse
 import json
@@ -31,7 +44,10 @@ JsonObject = dict[str, Any]
 
 def parse_args() -> argparse.Namespace:
     """Parse command-line options for fetching or rebuilding the dataset."""
-    parser = argparse.ArgumentParser(description=__doc__)
+    parser = argparse.ArgumentParser(
+        description=__doc__,
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+    )
     parser.add_argument(
         "--from-cache",
         action="store_true",

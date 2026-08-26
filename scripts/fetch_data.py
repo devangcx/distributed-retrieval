@@ -1,9 +1,9 @@
 """Discover TMDB movies, cache their raw metadata, and build a JSON dataset.
 
 Usage:
-    python scripts/fetch_data.py
-        Discover movies through TMDB, reuse cached detail responses when
-        available, and write the canonical dataset.
+    python scripts/fetch_data.py --target-size 20000
+        Discover multiple pages of movies through TMDB, reuse cached discovery
+        and detail responses, and write up to 20,000 usable canonical records.
 
     python scripts/fetch_data.py --from-cache
         Rebuild the canonical dataset exclusively from existing raw cache
@@ -14,6 +14,7 @@ Output:
 """
 
 import argparse
+import hashlib
 import json
 import os
 import time
@@ -27,6 +28,7 @@ BASE_URL = "https://api.themoviedb.org/3"
 
 # Data directories and output paths
 RAW_DIR = Path("data/raw/movies")
+DISCOVERY_RAW_DIR = Path("data/raw/discovery")
 PROCESSED_DIR = Path("data/processed")
 OUTPUT_PATH = PROCESSED_DIR / "movies.json"
 
@@ -35,6 +37,15 @@ MAX_REQUEST_ATTEMPTS = 6
 REQUEST_TIMEOUT_SECONDS = 30
 EARLIEST_RELEASE_DATE = "1990-01-01"
 LATEST_RELEASE_DATE = "2026-08-01"
+MINIMUM_VOTE_COUNT = 20
+DEFAULT_TARGET_SIZE = 20_000
+DEFAULT_MAX_PAGES_PER_GROUP = 500
+TMDB_MAX_DISCOVERY_PAGES = 500
+
+DISCOVERY_GROUPS = (
+    ("US", "en"),
+    ("IN", "hi"),
+)
 
 # Environment variable for the TMDB API token
 TMDB_TOKEN_ENV_VAR = "TMDB_API_READ_ACCESS_TOKEN"
@@ -53,7 +64,31 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="rebuild movies.json from cached raw responses without calling TMDB",
     )
+    parser.add_argument(
+        "--target-size",
+        type=positive_integer,
+        default=DEFAULT_TARGET_SIZE,
+        help=f"maximum usable movies to write (default: {DEFAULT_TARGET_SIZE})",
+    )
+    parser.add_argument(
+        "--max-pages-per-group",
+        type=positive_integer,
+        default=DEFAULT_MAX_PAGES_PER_GROUP,
+        help=(
+            "discovery-page safety limit for each country/language group "
+            f"(default: {DEFAULT_MAX_PAGES_PER_GROUP}, TMDB maximum: "
+            f"{TMDB_MAX_DISCOVERY_PAGES})"
+        ),
+    )
     return parser.parse_args()
+
+
+def positive_integer(value: str) -> int:
+    """Parse a command-line value that must be greater than zero."""
+    parsed_value = int(value)
+    if parsed_value <= 0:
+        raise argparse.ArgumentTypeError("value must be greater than zero")
+    return parsed_value
 
 
 def create_tmdb_client(token: str) -> httpx.Client:
@@ -100,29 +135,82 @@ def tmdb_get(
     raise RuntimeError(f"TMDB request failed after retries: {path}")
 
 
+def discovery_params(country: str, language: str) -> dict[str, object]:
+    """Return the stable, page-independent filters for a discovery group."""
+    return {
+        "include_adult": "false",
+        "include_video": "false",
+        "language": "en-US",
+        "sort_by": "popularity.desc",
+        "with_origin_country": country,
+        "with_original_language": language,
+        "primary_release_date.gte": EARLIEST_RELEASE_DATE,
+        "primary_release_date.lte": LATEST_RELEASE_DATE,
+        "vote_count.gte": MINIMUM_VOTE_COUNT,
+    }
+
+
+def discovery_cache_dir(raw_dir: Path, country: str, language: str) -> Path:
+    """Build a query-specific cache path so changed filters cannot mix pages."""
+    serialized_query = json.dumps(
+        discovery_params(country, language),
+        sort_keys=True,
+        separators=(",", ":"),
+    )
+    query_hash = hashlib.sha256(
+        serialized_query.encode("utf-8")).hexdigest()[:12]
+    return raw_dir / f"{country}-{language}" / query_hash
+
+
+def fetch_discovery_page(
+    client: httpx.Client,
+    country: str,
+    language: str,
+    page: int,
+    raw_dir: Path,
+) -> JsonObject:
+    """Load one raw discovery response from cache or fetch and cache it."""
+    cache_dir = discovery_cache_dir(raw_dir, country, language)
+    raw_path = cache_dir / f"page_{page:03d}.json"
+    if raw_path.exists():
+        return json.loads(raw_path.read_text(encoding="utf-8"))
+
+    response = tmdb_get(
+        client,
+        "/discover/movie",
+        {**discovery_params(country, language), "page": page},
+    )
+    cache_dir.mkdir(parents=True, exist_ok=True)
+    raw_path.write_text(
+        json.dumps(response, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    return response
+
+
 def discover_movies(
     client: httpx.Client,
     country: str,
     language: str,
+    max_pages: int,
+    raw_dir: Path,
 ) -> list[JsonObject]:
-    """Discover popular movies for an origin country and original language."""
-    response = tmdb_get(
-        client,
-        "/discover/movie",
-        {
-            "include_adult": "false",
-            "include_video": "false",
-            "language": "en-US",
-            "sort_by": "popularity.desc",
-            "with_origin_country": country,
-            "with_original_language": language,
-            "primary_release_date.gte": EARLIEST_RELEASE_DATE,
-            "primary_release_date.lte": LATEST_RELEASE_DATE,
-            "vote_count.gte": 20,
-            "page": 1,
-        },
-    )
-    return response["results"]
+    """Discover and cache a deterministic sequence of TMDB result pages."""
+    movies = []
+    page = 1
+    page_limit = min(max_pages, TMDB_MAX_DISCOVERY_PAGES)
+
+    while page <= page_limit:
+        response = fetch_discovery_page(
+            client, country, language, page, raw_dir
+        )
+        movies.extend(response.get("results", []))
+        total_pages = min(int(response.get("total_pages", 1)), page_limit)
+        if page >= total_pages:
+            break
+        page += 1
+
+    return movies
 
 
 def determine_industry_proxy(language: str | None, countries: list[str]) -> str:
@@ -219,11 +307,16 @@ def normalize_usable_movie(movie: JsonObject) -> JsonObject | None:
     return normalize_movie(movie)
 
 
-def discover_candidates(client: httpx.Client) -> dict[int, JsonObject]:
-    """Discover and deduplicate US English and Indian Hindi movies by ID."""
+def discover_candidates(
+    client: httpx.Client,
+    max_pages_per_group: int,
+    raw_dir: Path,
+) -> dict[int, JsonObject]:
+    """Discover configured groups and deduplicate candidates by stable ID."""
     discovery_groups = (
-        discover_movies(client, country="US", language="en"),
-        discover_movies(client, country="IN", language="hi"),
+        discover_movies(client, country, language,
+                        max_pages_per_group, raw_dir)
+        for country, language in DISCOVERY_GROUPS
     )
     return {
         movie["id"]: movie
@@ -243,6 +336,7 @@ def fetch_movie(client: httpx.Client, movie_id: int, raw_dir: Path) -> JsonObjec
         f"/movie/{movie_id}",
         {"append_to_response": "credits", "language": "en-US"},
     )
+    raw_dir.mkdir(parents=True, exist_ok=True)
     raw_path.write_text(
         json.dumps(movie, ensure_ascii=False, indent=2),
         encoding="utf-8",
@@ -256,22 +350,28 @@ def prepare_movies(
     client: httpx.Client,
     movies: dict[int, JsonObject],
     raw_dir: Path,
+    target_size: int,
 ) -> list[JsonObject]:
-    """Fetch, filter, and normalize all discovered movie candidates."""
+    """Normalize candidates by movie ID until the usable target is reached."""
     normalized_movies = []
     candidate_count = len(movies)
 
-    for index, movie_id in enumerate(movies, start=1):
+    for index, movie_id in enumerate(sorted(movies), start=1):
         movie = fetch_movie(client, movie_id, raw_dir)
         normalized_movie = normalize_usable_movie(movie)
         if normalized_movie is not None:
             normalized_movies.append(normalized_movie)
         print(f"{index}/{candidate_count}: {movie.get('title')}")
+        if len(normalized_movies) >= target_size:
+            break
 
     return normalized_movies
 
 
-def prepare_cached_movies(raw_dir: Path) -> list[JsonObject]:
+def prepare_cached_movies(
+    raw_dir: Path,
+    target_size: int | None = None,
+) -> list[JsonObject]:
     """Normalize every usable cached TMDB movie without network access."""
     normalized_movies = []
     raw_paths = sorted(raw_dir.glob("*.json"), key=lambda path: int(path.stem))
@@ -281,6 +381,8 @@ def prepare_cached_movies(raw_dir: Path) -> list[JsonObject]:
         normalized_movie = normalize_usable_movie(movie)
         if normalized_movie is not None:
             normalized_movies.append(normalized_movie)
+        if target_size is not None and len(normalized_movies) >= target_size:
+            break
 
     return normalized_movies
 
@@ -309,11 +411,20 @@ def main() -> None:
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
 
     if args.from_cache:
-        normalized_movies = prepare_cached_movies(RAW_DIR)
+        normalized_movies = prepare_cached_movies(RAW_DIR, args.target_size)
     else:
         with create_tmdb_client(get_tmdb_token()) as client:
-            candidates = discover_candidates(client)
-            normalized_movies = prepare_movies(client, candidates, RAW_DIR)
+            candidates = discover_candidates(
+                client,
+                args.max_pages_per_group,
+                DISCOVERY_RAW_DIR,
+            )
+            normalized_movies = prepare_movies(
+                client,
+                candidates,
+                RAW_DIR,
+                args.target_size,
+            )
 
     write_movies(normalized_movies, OUTPUT_PATH)
     print(f"\nSaved {len(normalized_movies)} usable movies to {OUTPUT_PATH}")

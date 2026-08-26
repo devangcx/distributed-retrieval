@@ -20,6 +20,32 @@ pip install -r scripts/requirements.txt
 pip install -r scripts/dev-requirements.txt
 ```
 
+## Testing
+
+Run the complete Python test suite from the repository root:
+
+```bash
+python -m pytest
+```
+
+To run one test module or one specific test, pass its path and optional test
+name:
+
+```bash
+python -m pytest tests/python/scripts/test_fetch_data.py
+```
+
+Run the Rust tests and compile the Rust test targets with:
+
+```bash
+cargo test
+```
+
+The Python tests use temporary data and mocked TMDB responses, so they do not
+require API credentials or make network requests.
+
+# Data
+
 ## Fetching Data
 
 Fetching movies data from TMDB requires the `TMDB_API_READ_ACCESS_TOKEN` environment variable. Run the following command to fetch and cache the data. This will create
@@ -66,7 +92,7 @@ python scripts/generate_partitions.py --input path/to/movies.json --output-dir p
 Run `python scripts/generate_partitions.py --help` for the complete command
 help.
 
-# Data Model
+## Data Model
 
 - PostgreSQL is the authoritative store for movie metadata and relationships.
 - Qdrant is a derived, rebuildable retrieval index.

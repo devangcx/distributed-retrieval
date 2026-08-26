@@ -1,0 +1,513 @@
+{
+  "adult": false,
+  "backdrop_path": "/aIcYXAxxQhPnYOgJrY5tXE3ctPc.jpg",
+  "belongs_to_collection": {
+    "id": 343297,
+    "name": "My Little Pony: Equestria Girls Collection",
+    "poster_path": "/scEge4ND9KaCwzOwoKQ39ug5IPJ.jpg",
+    "backdrop_path": "/3gyFno9XfwglgQhjYqgUYesZMYR.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://equestriagirls.hasbro.com/en-us/movies/loe",
+  "id": 405314,
+  "imdb_id": "tt5474644",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "My Little Pony: Equestria Girls - Legend of Everfree",
+  "overview": "When Canterlot Highschool goes on a trip to Camp Everfree, they’re surprised to find a magical force is causing strange things to happen around camp. With the help of the Mane 6 and especially Sunset Shimmer, Twilight Sparkle must confront the dark “Midnight Sparkle” within herself  and embrace her newfound magical abilities to save the camp.",
+  "popularity": 3.2163,
+  "poster_path": "/fo9LoPjqK7wLv7g7zZM1LcnqsVg.jpg",
+  "production_companies": [
+    {
+      "id": 7225,
+      "logo_path": "/qcGIZjdRc1YOJPyWhBj9L2Rf3q9.png",
+      "name": "DHX Media",
+      "origin_country": "CA"
+    },
+    {
+      "id": 22826,
+      "logo_path": "/37ZxE1qShQ44VdsRPkO1zOtnMKi.png",
+      "name": "Hasbro Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2016-10-01",
+  "revenue": 0,
+  "runtime": 73,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "My Little Pony: Equestria Girls - Legend of Everfree",
+  "video": false,
+  "vote_average": 7.473,
+  "vote_count": 130,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15762,
+        "known_for_department": "Acting",
+        "name": "Tara Strong",
+        "original_name": "Tara Strong",
+        "popularity": 3.8197,
+        "profile_path": "/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg",
+        "cast_id": 0,
+        "character": "Twilight Sparkle / Midnight Sparkle (voice)",
+        "credit_id": "577f1d9492514173ce0006b3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1240646,
+        "known_for_department": "Acting",
+        "name": "Rebecca Shoichet",
+        "original_name": "Rebecca Shoichet",
+        "popularity": 0.7913,
+        "profile_path": "/2VTrlND9ycbtTWGZsTnQg692sJI.jpg",
+        "cast_id": 1,
+        "character": "Sunset Shimmer (voice) / Twilight Sparkle (singing voice)",
+        "credit_id": "577f1db69251413ac1001aac",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 94481,
+        "known_for_department": "Acting",
+        "name": "Ashleigh Ball",
+        "original_name": "Ashleigh Ball",
+        "popularity": 1.5229,
+        "profile_path": "/ovPv8tKP5ZYUtJ7AsKMvjwecsQT.jpg",
+        "cast_id": 2,
+        "character": "Rainbow Dash / Applejack / Lyra Heartstrings (voice)",
+        "credit_id": "577f1dcac3a36868fd004e30",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 74368,
+        "known_for_department": "Acting",
+        "name": "Andrea Libman",
+        "original_name": "Andrea Libman",
+        "popularity": 1.4824,
+        "profile_path": "/6R2ekkbQ7OFsktfasLvXzhd0IJ.jpg",
+        "cast_id": 3,
+        "character": "Pinkie Pie / Fluttershy / Bon Bon (voice)",
+        "credit_id": "577f1dda9251417281000631",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 74360,
+        "known_for_department": "Acting",
+        "name": "Tabitha St. Germain",
+        "original_name": "Tabitha St. Germain",
+        "popularity": 1.5366,
+        "profile_path": "/bscsV3Gg7bmaZvvcbyS1265QaVT.jpg",
+        "cast_id": 4,
+        "character": "Rarity / Vice Principal Luna / Muffins (voice)",
+        "credit_id": "577f1de6c3a36830fb001ce7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 94479,
+        "known_for_department": "Acting",
+        "name": "Cathy Weseluck",
+        "original_name": "Cathy Weseluck",
+        "popularity": 1.0485,
+        "profile_path": "/jpvwGwZ9eDL6f2WCkbLk06WlObh.jpg",
+        "cast_id": 10,
+        "character": "Spike (voice)",
+        "credit_id": "5792c42e9251413ce10048b1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 79152,
+        "known_for_department": "Acting",
+        "name": "Enid-Raye Adams",
+        "original_name": "Enid-Raye Adams",
+        "popularity": 1.079,
+        "profile_path": "/dFKzV1ZSfnT3goiUs49I6dohHmV.jpg",
+        "cast_id": 16,
+        "character": "Gloriosa Daisy (voice)",
+        "credit_id": "57bcf9039251410529002715",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1304599,
+        "known_for_department": "Acting",
+        "name": "Brian Doe",
+        "original_name": "Brian Doe",
+        "popularity": 0.5245,
+        "profile_path": "/fvHUUrejySoFX43VPexhBXP4oRa.jpg",
+        "cast_id": 15,
+        "character": "Timber Spruce (voice)",
+        "credit_id": "579a14b2c3a36821d30041d0",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 74370,
+        "known_for_department": "Acting",
+        "name": "Nicole Oliver",
+        "original_name": "Nicole Oliver",
+        "popularity": 1.5442,
+        "profile_path": "/plAsVfhTrYaU78JrZbJSQ4uXpX1.jpg",
+        "cast_id": 8,
+        "character": "Principal Celestia (voice)",
+        "credit_id": "5792c410c3a368631c002fe5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1240645,
+        "known_for_department": "Acting",
+        "name": "Vincent Tong",
+        "original_name": "Vincent Tong",
+        "popularity": 3.141,
+        "profile_path": "/lpgVwZPewejru3WcgQEBMNWm4ze.jpg",
+        "cast_id": 17,
+        "character": "Flash Sentry / Sandalwood (voice)",
+        "credit_id": "57bcf922c3a3682eac00db97",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74364,
+        "known_for_department": "Acting",
+        "name": "Brian Drummond",
+        "original_name": "Brian Drummond",
+        "popularity": 1.3565,
+        "profile_path": "/oNKCHFuMZTASvyayEj3cRXLEjJL.jpg",
+        "cast_id": 19,
+        "character": "Filthy Rich (voice)",
+        "credit_id": "57bcf99e925141558500df5d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74362,
+        "known_for_department": "Acting",
+        "name": "Michael Dobson",
+        "original_name": "Michael Dobson",
+        "popularity": 1.22,
+        "profile_path": "/AjzZvcIWkq6mUC5dIxgGsPCv8bk.jpg",
+        "cast_id": 18,
+        "character": "Bulk Biceps (voice)",
+        "credit_id": "57bcf978c3a3682eac00dbcb",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45923,
+        "known_for_department": "Acting",
+        "name": "Kathleen Barr",
+        "original_name": "Kathleen Barr",
+        "popularity": 1.4888,
+        "profile_path": "/X2aSMT2oxsk1xzSigV8fIqxTtU.jpg",
+        "cast_id": 9,
+        "character": "Trixie Lulamoon (voice)",
+        "credit_id": "5792c42592514169c5002d90",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 153783,
+        "known_for_department": "Acting",
+        "name": "Richard Ian Cox",
+        "original_name": "Richard Ian Cox",
+        "popularity": 1.0123,
+        "profile_path": "/pF7esxIeumjZnTjYTSoM9ZkPm8.jpg",
+        "cast_id": 20,
+        "character": "Snails (voice)",
+        "credit_id": "57f0c673c3a3683f20008a62",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74359,
+        "known_for_department": "Acting",
+        "name": "Lee Tockar",
+        "original_name": "Lee Tockar",
+        "popularity": 1.1873,
+        "profile_path": "/eloBMEfs9q0ypUzXueVg5qe4CJe.jpg",
+        "cast_id": 21,
+        "character": "Snips (voice)",
+        "credit_id": "57f0c6849251416d14001616",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 221843,
+        "known_for_department": "Acting",
+        "name": "Shannon Chan-Kent",
+        "original_name": "Shannon Chan-Kent",
+        "popularity": 1.3969,
+        "profile_path": "/pt8rq0yQXPHxXBDi1xbeVBjfqiD.jpg",
+        "cast_id": 11,
+        "character": "Pinkie Pie (singing voice)",
+        "credit_id": "5792c4a1c3a368636b003173",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 569211,
+        "known_for_department": "Acting",
+        "name": "Kazumi Evans",
+        "original_name": "Kazumi Evans",
+        "popularity": 1.2647,
+        "profile_path": "/kYetwOsDrFRWDtTsQswNVPgVV4N.jpg",
+        "cast_id": 12,
+        "character": "Rarity (singing voice)",
+        "credit_id": "5792c4b4c3a36828a60044f8",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 94478,
+        "known_for_department": "Acting",
+        "name": "Kelly Metzger",
+        "original_name": "Kelly Metzger",
+        "popularity": 0.8462,
+        "profile_path": "/stE2VTi1FefZRtNTCNb0fHunuQy.jpg",
+        "cast_id": 22,
+        "character": "Gloriosa Daisy (singing voice)",
+        "credit_id": "57f0c720c3a3683fac009641",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 219954,
+        "known_for_department": "Writing",
+        "name": "Lauren Faust",
+        "original_name": "Lauren Faust",
+        "popularity": 1.288,
+        "profile_path": "/yoN9rhztaouYw5FxNPx02gMbLBE.jpg",
+        "credit_id": "61bbf6210443c90087515d12",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1183756,
+        "known_for_department": "Sound",
+        "name": "Daniel Ingram",
+        "original_name": "Daniel Ingram",
+        "popularity": 0.4505,
+        "profile_path": null,
+        "credit_id": "577f1e51c3a36879b30007e7",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1646981,
+        "known_for_department": "Directing",
+        "name": "Katrina Hadley",
+        "original_name": "Katrina Hadley",
+        "popularity": 0.4519,
+        "profile_path": null,
+        "credit_id": "577f1e33c3a368794400067e",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1363227,
+        "known_for_department": "Directing",
+        "name": "Ishi Rudell",
+        "original_name": "Ishi Rudell",
+        "popularity": 0.5624,
+        "profile_path": "/2JDv6j4eue1KfI7l5uVNwmLjkGx.jpg",
+        "credit_id": "577f1e0c92514172550006a1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1237745,
+        "known_for_department": "Writing",
+        "name": "Joanna Lewis",
+        "original_name": "Joanna Lewis",
+        "popularity": 0.528,
+        "profile_path": null,
+        "credit_id": "5793d5d2c3a368631c00c23d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1655114,
+        "known_for_department": "Writing",
+        "name": "Kristine Songco",
+        "original_name": "Kristine Songco",
+        "popularity": 0.4159,
+        "profile_path": null,
+        "credit_id": "5793d5ffc3a3684078001fc6",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1183757,
+        "known_for_department": "Production",
+        "name": "Meghan McCarthy",
+        "original_name": "Meghan McCarthy",
+        "popularity": 0.7103,
+        "profile_path": null,
+        "credit_id": "57f0c8129251416d1400169f",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1687948,
+        "known_for_department": "Production",
+        "name": "Angela Belyea",
+        "original_name": "Angela Belyea",
+        "popularity": 0.3181,
+        "profile_path": null,
+        "credit_id": "57f0c842c3a3683c3e0093b4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1252099,
+        "known_for_department": "Production",
+        "name": "Stephen Davis",
+        "original_name": "Stephen Davis",
+        "popularity": 0.5822,
+        "profile_path": null,
+        "credit_id": "57f0c7bb9251416d1400167b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1183750,
+        "known_for_department": "Production",
+        "name": "Sarah Wall",
+        "original_name": "Sarah Wall",
+        "popularity": 0.4547,
+        "profile_path": null,
+        "credit_id": "57f0c7e8925141592500a2b6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 62903,
+        "known_for_department": "Production",
+        "name": "Kirsten Newlands",
+        "original_name": "Kirsten Newlands",
+        "popularity": 0.3562,
+        "profile_path": null,
+        "credit_id": "57f0c7d69251416d31001864",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1687951,
+        "known_for_department": "Art",
+        "name": "Jeremy Tin",
+        "original_name": "Jeremy Tin",
+        "popularity": 0.2554,
+        "profile_path": null,
+        "credit_id": "57f0c86dc3a3683fac0096a6",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1183755,
+        "known_for_department": "Sound",
+        "name": "William Kevin Anderson",
+        "original_name": "William Kevin Anderson",
+        "popularity": 0.562,
+        "profile_path": null,
+        "credit_id": "67f95d637f70ac1a21d97658",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

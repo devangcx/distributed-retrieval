@@ -1,0 +1,226 @@
+{
+  "adult": false,
+  "backdrop_path": "/axSaeKvV5xF3zGYwXaSF8rUxaO1.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "http://www.avatarmovie.com",
+  "id": 183392,
+  "imdb_id": "tt1778212",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Capturing Avatar",
+  "overview": "Capturing Avatar is a feature length behind-the-scenes documentary about the making of Avatar. It uses footage from the film's development, as well as stock footage from as far back as the production of Titanic in 1995. Also included are numerous interviews with cast, artists, and other crew members. The documentary was released as a bonus feature on the extended collector's edition of Avatar.",
+  "popularity": 2.7388,
+  "poster_path": "/26SMEXJl3978dn2svWBSqHbLl5U.jpg",
+  "production_companies": [
+    {
+      "id": 31473,
+      "logo_path": null,
+      "name": "Mob Scene",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2010-11-16",
+  "revenue": 0,
+  "runtime": 98,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Capturing Avatar",
+  "video": false,
+  "vote_average": 6.95,
+  "vote_count": 111,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2710,
+        "known_for_department": "Directing",
+        "name": "James Cameron",
+        "original_name": "James Cameron",
+        "popularity": 5.8627,
+        "profile_path": "/2Hh4Jos62luf90CCglP5K32qaWO.jpg",
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "52fe4ca09251416c75120581",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65731,
+        "known_for_department": "Acting",
+        "name": "Sam Worthington",
+        "original_name": "Sam Worthington",
+        "popularity": 6.0976,
+        "profile_path": "/vM1WIfYQ1HUBtlVPwB9Hp9fLcn8.jpg",
+        "cast_id": 2,
+        "character": "Self",
+        "credit_id": "52fe4ca09251416c75120585",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8691,
+        "known_for_department": "Acting",
+        "name": "Zoe Saldaña",
+        "original_name": "Zoe Saldaña",
+        "popularity": 9.6233,
+        "profile_path": "/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg",
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "52fe4ca09251416c75120589",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8529,
+        "known_for_department": "Production",
+        "name": "Jon Landau",
+        "original_name": "Jon Landau",
+        "popularity": 0.823,
+        "profile_path": "/9KKHK9oiK87aqahsLazQr4Lvyq4.jpg",
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "52fe4ca09251416c7512058d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32747,
+        "known_for_department": "Acting",
+        "name": "Stephen Lang",
+        "original_name": "Stephen Lang",
+        "popularity": 4.5095,
+        "profile_path": "/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg",
+        "cast_id": 5,
+        "character": "Self",
+        "credit_id": "52fe4ca09251416c75120591",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1771,
+        "known_for_department": "Acting",
+        "name": "Giovanni Ribisi",
+        "original_name": "Giovanni Ribisi",
+        "popularity": 4.3792,
+        "profile_path": "/8EAiS9D3YtGOrwNM0OrwmDpWK7s.jpg",
+        "cast_id": 6,
+        "character": "Self",
+        "credit_id": "52fe4ca09251416c75120595",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10205,
+        "known_for_department": "Acting",
+        "name": "Sigourney Weaver",
+        "original_name": "Sigourney Weaver",
+        "popularity": 5.4704,
+        "profile_path": "/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg",
+        "cast_id": 7,
+        "character": "Self",
+        "credit_id": "52fe4ca09251416c75120599",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17647,
+        "known_for_department": "Acting",
+        "name": "Michelle Rodriguez",
+        "original_name": "Michelle Rodriguez",
+        "popularity": 4.4482,
+        "profile_path": "/wVcbrae4eRqGMFZz8Eh52Dl1biP.jpg",
+        "cast_id": 8,
+        "character": "Self",
+        "credit_id": "52fe4ca09251416c7512059d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6347,
+        "known_for_department": "Production",
+        "name": "Margery Simkin",
+        "original_name": "Margery Simkin",
+        "popularity": 1.0334,
+        "profile_path": "/4k2WBcsejt4VJtz3V5NDZP24eKN.jpg",
+        "cast_id": 10,
+        "character": "Self",
+        "credit_id": "559687479251414e06001390",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18265,
+        "known_for_department": "Camera",
+        "name": "Mauro Fiore",
+        "original_name": "Mauro Fiore",
+        "popularity": 0.621,
+        "profile_path": "/zWenMq5JMuHMU7Nx1Qaicy6fizC.jpg",
+        "cast_id": 12,
+        "character": "Self",
+        "credit_id": "66df824337f2a083972b8683",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 936584,
+        "known_for_department": "Directing",
+        "name": "Laurent Bouzereau",
+        "original_name": "Laurent Bouzereau",
+        "popularity": 0.9307,
+        "profile_path": "/1gVpS5EGGwXXry6xSXo8xfkDlBu.jpg",
+        "credit_id": "52fe4ca09251416c751205a3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1042212,
+        "known_for_department": "Directing",
+        "name": "Thomas C. Grane",
+        "original_name": "Thomas C. Grane",
+        "popularity": 0.7609,
+        "profile_path": null,
+        "credit_id": "5d76c43a51f99a000f83f265",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "adult": false,
+  "backdrop_path": "/rvG9irR3D0HrxAA0Jh577Rik2Ck.jpg",
+  "belongs_to_collection": null,
+  "budget": 13000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 285803,
+  "imdb_id": "tt2309764",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "सिंघम रिटर्न्स",
+  "overview": "Owing to the wrongdoings affiliated with evils similar to black money, an honest but ferocious police officer returns as the Deputy Commissioner of Police with the prospect of wiping out injustice.",
+  "popularity": 1.5594,
+  "poster_path": "/k8CDjZLYG8bCIuXWAg4gukxf0BE.jpg",
+  "production_companies": [
+    {
+      "id": 7294,
+      "logo_path": "/kK4PRgceWp9KNrycD8xx8seWxYU.png",
+      "name": "Reliance Entertainment",
+      "origin_country": "IN"
+    },
+    {
+      "id": 128365,
+      "logo_path": "/9UnLNX7mfB1FzieJcjA9xyni8wY.png",
+      "name": "Ajay Devgn FFilms",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2014-08-15",
+  "revenue": 26000000,
+  "runtime": 142,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Singham Returns",
+  "video": false,
+  "vote_average": 6.115,
+  "vote_count": 135,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42803,
+        "known_for_department": "Acting",
+        "name": "Ajay Devgn",
+        "original_name": "Ajay Devgan",
+        "popularity": 2.3821,
+        "profile_path": "/vnHQQFzTjJ0sv14DGMIoKa3qTxN.jpg",
+        "cast_id": 0,
+        "character": "Bajirao Singham",
+        "credit_id": "53e4bc670e0a262b890069f8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 37233,
+        "known_for_department": "Acting",
+        "name": "Kareena Kapoor Khan",
+        "original_name": "करीना कपूर खान",
+        "popularity": 1.9139,
+        "profile_path": "/kp9xnwDALUt6nuPBGuJHlvnxGnM.jpg",
+        "cast_id": 1,
+        "character": "Avni Kamat",
+        "credit_id": "53e4bc870e0a262b91006682",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52773,
+        "known_for_department": "Acting",
+        "name": "Amole Gupte",
+        "original_name": "Amole Gupte",
+        "popularity": 0.5583,
+        "profile_path": "/wBGlaN2N16y3Hoco2piGRwhNTX5.jpg",
+        "cast_id": 2,
+        "character": "Swami Ji",
+        "credit_id": "53e4bca90e0a262b89006a00",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6217,
+        "known_for_department": "Acting",
+        "name": "Anupam Kher",
+        "original_name": "Anupam Kher",
+        "popularity": 1.9559,
+        "profile_path": "/kgU5Ap1Kf9RnicB5DMcXEZqed2f.jpg",
+        "cast_id": 4,
+        "character": "Guruji",
+        "credit_id": "53e4bcd90e0a262b83006a71",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85694,
+        "known_for_department": "Acting",
+        "name": "Vineet Sharma",
+        "original_name": "Vineet Sharma",
+        "popularity": 0.7472,
+        "profile_path": "/6S9cNAfvUd03YV1Ehixp95orP0.jpg",
+        "cast_id": 16,
+        "character": "Sub-Inspector Dev Phadnis",
+        "credit_id": "612b5ba62c6b7b004359928a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85658,
+        "known_for_department": "Acting",
+        "name": "Dayanand Shetty",
+        "original_name": "Dayanand Shetty",
+        "popularity": 0.6975,
+        "profile_path": "/3wVmr5BpnoQdb5D2adV7be4SB5l.jpg",
+        "cast_id": 3,
+        "character": "Daya",
+        "credit_id": "53e4bcc00e0a262b89006a06",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85656,
+        "known_for_department": "Acting",
+        "name": "Zakir Hussain",
+        "original_name": "Zakir Hussain",
+        "popularity": 1.1606,
+        "profile_path": "/etiL0ANjzBhTiyvUblZl6vwIog9.jpg",
+        "cast_id": 10,
+        "character": "Prakash Rao",
+        "credit_id": "5f2048c1c50ad20034b33ed3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85456,
+        "known_for_department": "Acting",
+        "name": "Mahesh Manjrekar",
+        "original_name": "Mahesh Manjrekar",
+        "popularity": 1.6294,
+        "profile_path": "/4lFytre6m4SruIUpUIoyNjsMo7F.jpg",
+        "cast_id": 11,
+        "character": "CM Vikram Adhikari",
+        "credit_id": "5f2048e38a0e9b0035f98a27",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 125931,
+        "known_for_department": "Acting",
+        "name": "Sameer Dharmadhikari",
+        "original_name": "Sameer Dharmadhikari",
+        "popularity": 0.7007,
+        "profile_path": "/1Mwd5xW7jFyfiGK3Zg4AfAuMbWI.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "53e4bcfc0e0a262b83006a76",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1179460,
+        "known_for_department": "Acting",
+        "name": "Pankaj Tripathi",
+        "original_name": "Pankaj Tripathi",
+        "popularity": 0.9961,
+        "profile_path": "/f3Vxz0QB7PHeyPcXrfJX14Xkxnu.jpg",
+        "cast_id": 12,
+        "character": "Altaf Khan",
+        "credit_id": "5f2048fb4a2226003562a0ee",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85657,
+        "known_for_department": "Acting",
+        "name": "Ashwini Kalsekar",
+        "original_name": "Ashwini Kalsekar",
+        "popularity": 1.2733,
+        "profile_path": "/mS2nPxyyplKNvwbc5TSCLAEgdvP.jpg",
+        "cast_id": 13,
+        "character": "Reporter Meera Shorey",
+        "credit_id": "5f20490eb4a5430034387f75",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55066,
+        "known_for_department": "Acting",
+        "name": "Sharat Saxena",
+        "original_name": "Sharat Saxena",
+        "popularity": 1.154,
+        "profile_path": "/ArW6nQ23bjVfbcFmNVl4W9zpd7X.jpg",
+        "cast_id": 14,
+        "character": "Commissioner Shiv Rathod",
+        "credit_id": "5f20492f5c5cc80036ca4bc1",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85659,
+        "known_for_department": "Acting",
+        "name": "Govind Namdeo",
+        "original_name": "Govind Namdeo",
+        "popularity": 0.7856,
+        "profile_path": "/4PYvzEHjEXScVjYuiQxVpNpvQ18.jpg",
+        "cast_id": 15,
+        "character": "Singham's Father",
+        "credit_id": "5f20494c5c5cc80035cb62ae",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86783,
+        "known_for_department": "Directing",
+        "name": "Rohit Shetty",
+        "original_name": "Rohit Shetty",
+        "popularity": 0.9722,
+        "profile_path": "/9ZRyKwijT7OAMjIEEPATeTZ2ZQn.jpg",
+        "credit_id": "53e4bd460e0a262b86006b2c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1264504,
+        "known_for_department": "Writing",
+        "name": "Sajid Samji",
+        "original_name": "Sajid Samji",
+        "popularity": 0.6838,
+        "profile_path": null,
+        "credit_id": "584580d3c3a36844c00030aa",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1264503,
+        "known_for_department": "Writing",
+        "name": "Farhad Samji",
+        "original_name": "Farhad Samji",
+        "popularity": 0.8324,
+        "profile_path": null,
+        "credit_id": "584580dec3a3684722016850",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3865877,
+        "known_for_department": "Production",
+        "name": "Harinderpal Chahal",
+        "original_name": "Harinderpal Chahal",
+        "popularity": 0.4109,
+        "profile_path": "/6kGGLqdfrYkDvyB4nwgSaGBOtfs.jpg",
+        "credit_id": "63ee0c2b813cb60096ab769f",
+        "department": "Production",
+        "job": "Additional Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1078260,
+        "known_for_department": "Sound",
+        "name": "Yo Yo Honey Singh",
+        "original_name": "Yo Yo Honey Singh",
+        "popularity": 0.6584,
+        "profile_path": "/w54B446zi7xrdq0vEBNplMDMM6K.jpg",
+        "credit_id": "5d6532d8bcf8c9001176e8f1",
+        "department": "Sound",
+        "job": "Playback Singer"
+      }
+    ]
+  }
+}

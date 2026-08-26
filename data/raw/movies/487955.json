@@ -1,0 +1,181 @@
+{
+  "adult": false,
+  "backdrop_path": "/njTetQiY5sqQDvg491gxx033byq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 487955,
+  "imdb_id": "tt5911072",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Nebulous Dark",
+  "overview": "A man, Apollo, wakes up in the future to realize the human race has been wiped out because of an ancient virus.",
+  "popularity": 2.8656,
+  "poster_path": "/jlD83akcKog1txatpNz9mv16v5u.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-07-09",
+  "revenue": 0,
+  "runtime": 75,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Mind-bending terror from the sky!",
+  "title": "Nebulous Dark",
+  "video": false,
+  "vote_average": 5.4,
+  "vote_count": 24,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 125787,
+        "known_for_department": "Acting",
+        "name": "Shahin Sean Solimon",
+        "original_name": "Shahin Sean Solimon",
+        "popularity": 0.7227,
+        "profile_path": "/3ETWxdvnbi92mFHNmUJVgzMaH72.jpg",
+        "cast_id": 1,
+        "character": "Apollo",
+        "credit_id": "60e832ef43250f002d1aef64",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3151313,
+        "known_for_department": "Acting",
+        "name": "Ginger Christie",
+        "original_name": "Ginger Christie",
+        "popularity": 0.725,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Nephele",
+        "credit_id": "60e8339d6ee3d70046c8312b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2123722,
+        "known_for_department": "Acting",
+        "name": "Kent Hatch",
+        "original_name": "Kent Hatch",
+        "popularity": 0.5927,
+        "profile_path": "/6CxSKYvrHsFvHvassjke9TjwAOA.jpg",
+        "cast_id": 5,
+        "character": "Lone Wolf",
+        "credit_id": "60e833bb8de0ae00469def98",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2437203,
+        "known_for_department": "Acting",
+        "name": "Lili Fox-Lim",
+        "original_name": "Lili Fox-Lim",
+        "popularity": 0.4114,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Phoebe",
+        "credit_id": "60e834a19979d2004602887f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1517533,
+        "known_for_department": "Acting",
+        "name": "Kevin Lukata",
+        "original_name": "Kevin Lukata",
+        "popularity": 0.5152,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Neptune",
+        "credit_id": "60e834b483ee670046fe11ab",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3151316,
+        "known_for_department": "Acting",
+        "name": "Minerva Mendez",
+        "original_name": "Minerva Mendez",
+        "popularity": 0.872,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Athena",
+        "credit_id": "60e834c48de0ae007e86417c",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1637666,
+        "known_for_department": "Acting",
+        "name": "Brian Erickson",
+        "original_name": "Brian Erickson",
+        "popularity": 0.5322,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Octalien",
+        "credit_id": "60e834dbb76cbb0073ea1ef1",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 125787,
+        "known_for_department": "Acting",
+        "name": "Shahin Sean Solimon",
+        "original_name": "Shahin Sean Solimon",
+        "popularity": 0.7227,
+        "profile_path": "/3ETWxdvnbi92mFHNmUJVgzMaH72.jpg",
+        "credit_id": "60e83307b76cbb0073ea1c9e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 125787,
+        "known_for_department": "Acting",
+        "name": "Shahin Sean Solimon",
+        "original_name": "Shahin Sean Solimon",
+        "popularity": 0.7227,
+        "profile_path": "/3ETWxdvnbi92mFHNmUJVgzMaH72.jpg",
+        "credit_id": "60e833114ca67600462a0992",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

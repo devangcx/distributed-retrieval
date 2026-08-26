@@ -1,0 +1,372 @@
+{
+  "adult": false,
+  "backdrop_path": "/quo7dRc6HQqtZKcRoKuegkegFp4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 774301,
+  "imdb_id": "tt13603778",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "American Murderer",
+  "overview": "The True story of how charismatic con man Jason Derek Brown bankrolls his extravagant lifestyle through a series of scams. On Brown’s trail: Lance Leising, a dogged FBI special agent determined to put Brown behind bars. When Brown’s funds run low and his past catches up with him, he plots his most elaborate scheme yet, pitting himself against Leising in a deadly game of cat and mouse — and becoming the most unlikely and elusive fugitive on the FBI’s most-wanted list.",
+  "popularity": 2.9534,
+  "poster_path": "/sfCmTkVVtwoW4yNu1Cs4ZDtCTa5.jpg",
+  "production_companies": [
+    {
+      "id": 39043,
+      "logo_path": null,
+      "name": "Traveling Picture Show Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 7499,
+      "logo_path": "/wz3wmwDfoVomvWFAoSKFGMvmVUe.png",
+      "name": "Gigi Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-10-21",
+  "revenue": 0,
+  "runtime": 101,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Based on the incredible true crime story.",
+  "title": "American Murderer",
+  "video": false,
+  "vote_average": 5.91,
+  "vote_count": 67,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 207442,
+        "known_for_department": "Acting",
+        "name": "Tom Pelphrey",
+        "original_name": "Tom Pelphrey",
+        "popularity": 2.5044,
+        "profile_path": "/eRmK7HvM5FK1Czx9oQspRERbf0o.jpg",
+        "cast_id": 1,
+        "character": "Jason Derek Brown",
+        "credit_id": "5fd0da28f92532003da80f9a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11864,
+        "known_for_department": "Acting",
+        "name": "Ryan Phillippe",
+        "original_name": "Ryan Phillippe",
+        "popularity": 3.1847,
+        "profile_path": "/fgneZFXn0fGG1o7tMzJvHqfHHF7.jpg",
+        "cast_id": 5,
+        "character": "Special Agent Lance Leising",
+        "credit_id": "5fd0daecc7a7e00040031ebe",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19394,
+        "known_for_department": "Acting",
+        "name": "Idina Menzel",
+        "original_name": "Idina Menzel",
+        "popularity": 2.7948,
+        "profile_path": "/eGsyJmAZNV5tUU4RYy2DIRlFVpW.jpg",
+        "cast_id": 2,
+        "character": "Melanie",
+        "credit_id": "5fd0da33f90b19003d8c8d92",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 94423,
+        "known_for_department": "Acting",
+        "name": "Shantel VanSanten",
+        "original_name": "Shantel VanSanten",
+        "popularity": 4.067,
+        "profile_path": "/pjTcORzZ8TUKtJwYBuzgmT9aLsO.jpg",
+        "cast_id": 16,
+        "character": "Jamie Brown",
+        "credit_id": "63590bfd4a4bf60090aa2ab1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67837,
+        "known_for_department": "Acting",
+        "name": "Jacki Weaver",
+        "original_name": "Jacki Weaver",
+        "popularity": 2.5465,
+        "profile_path": "/zalCqZnNQMKseFmwQwOlLrl3w2P.jpg",
+        "cast_id": 3,
+        "character": "Jeanne",
+        "credit_id": "5fd0da42325a51003a71fe86",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2887580,
+        "known_for_department": "Acting",
+        "name": "Laura Dennis",
+        "original_name": "Laura Dennis",
+        "popularity": 0.3524,
+        "profile_path": "/1tLt0QKVCaIM8TkLx5fquviKOjy.jpg",
+        "cast_id": 4,
+        "character": "Stacey",
+        "credit_id": "5fd0da6ad18fb90040f87a3b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15684,
+        "known_for_department": "Acting",
+        "name": "Paul Schneider",
+        "original_name": "Paul Schneider",
+        "popularity": 1.3641,
+        "profile_path": "/69tLX644rRr1RT9gxajsWlNrf0Y.jpg",
+        "cast_id": 17,
+        "character": "David Brown",
+        "credit_id": "63590c0f2b9320007d8620f9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57412,
+        "known_for_department": "Acting",
+        "name": "Moisés Arias",
+        "original_name": "Moisés Arias",
+        "popularity": 2.2959,
+        "profile_path": "/fc7krDmEA4VkIY4KOJjpMXGdsfg.jpg",
+        "cast_id": 18,
+        "character": "Kyle Wallace",
+        "credit_id": "63590c5663d937007b95ccd6",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18472,
+        "known_for_department": "Acting",
+        "name": "Kevin Corrigan",
+        "original_name": "Kevin Corrigan",
+        "popularity": 7.2598,
+        "profile_path": "/obSUGc68mQDvFONalMg25Xw5GZM.jpg",
+        "cast_id": 19,
+        "character": "David Brown Sr.",
+        "credit_id": "63590c6dc439c0007b25217a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3830266,
+        "known_for_department": "Acting",
+        "name": "Kylie Rohead",
+        "original_name": "Kylie Rohead",
+        "popularity": 0.4088,
+        "profile_path": "/cn19PS5RoJWuDglZOSdvmnglzZR.jpg",
+        "cast_id": 20,
+        "character": "Pretty girl at bar",
+        "credit_id": "63994d09e263bb0080fad051",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3830269,
+        "known_for_department": "Acting",
+        "name": "Emilyne Guglietti",
+        "original_name": "Emilyne Guglietti",
+        "popularity": 0.2195,
+        "profile_path": "/nGnoIZepckMhuQ0oJslzsVLBOj8.jpg",
+        "cast_id": 21,
+        "character": "Stripper",
+        "credit_id": "63994ec6e263bb007a55ec39",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1564188,
+        "known_for_department": "Directing",
+        "name": "Matthew Gentile",
+        "original_name": "Matthew Gentile",
+        "popularity": 0.3209,
+        "profile_path": null,
+        "credit_id": "5fd0db34d18fb9003ef840f6",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1882677,
+        "known_for_department": "Camera",
+        "name": "Kalilah Robinson",
+        "original_name": "Kalilah Robinson",
+        "popularity": 0.3704,
+        "profile_path": null,
+        "credit_id": "5fd0db8a0ce1bc003ff0ecc3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1659972,
+        "known_for_department": "Production",
+        "name": "Carissa Buffel",
+        "original_name": "Carissa Buffel",
+        "popularity": 0.4023,
+        "profile_path": null,
+        "credit_id": "5fd0db5c325a51003c71e389",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1659971,
+        "known_for_department": "Production",
+        "name": "Kevin Matusow",
+        "original_name": "Kevin Matusow",
+        "popularity": 0.3243,
+        "profile_path": null,
+        "credit_id": "5fd0db70798c940040c1bec8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1477486,
+        "known_for_department": "Art",
+        "name": "Scott Hinckley",
+        "original_name": "Scott Hinckley",
+        "popularity": 0.3686,
+        "profile_path": null,
+        "credit_id": "5fd0db81d18fb9003ef841a2",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2887589,
+        "known_for_department": "Editing",
+        "name": "Matt Allen",
+        "original_name": "Matt Allen",
+        "popularity": 0.2361,
+        "profile_path": null,
+        "credit_id": "5fd0dbf2d18fb90040f87c96",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1564188,
+        "known_for_department": "Directing",
+        "name": "Matthew Gentile",
+        "original_name": "Matthew Gentile",
+        "popularity": 0.3209,
+        "profile_path": null,
+        "credit_id": "5fd0db12e9c0dc003c375494",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1831713,
+        "known_for_department": "Production",
+        "name": "Gia Walsh",
+        "original_name": "Gia Walsh",
+        "popularity": 0.3835,
+        "profile_path": null,
+        "credit_id": "5fd0db67d7cd06003e7d2627",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 969958,
+        "known_for_department": "Production",
+        "name": "Kara Baker",
+        "original_name": "Kara Baker",
+        "popularity": 0.5696,
+        "profile_path": "/rsQuzaIhK6oSfYqJy5UyBlTPGdt.jpg",
+        "credit_id": "5fd0db548e87020040d64229",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2869415,
+        "known_for_department": "Editing",
+        "name": "Christopher Young",
+        "original_name": "Christopher Young",
+        "popularity": 0.5319,
+        "profile_path": "/zN5SEGp5Ltx8eh9FJSn6oPksiBK.jpg",
+        "credit_id": "5fd0dc99d7cd06003d7d38be",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5130190,
+        "known_for_department": "Art",
+        "name": "Ashley Russell",
+        "original_name": "Ashley Russell",
+        "popularity": 0.26,
+        "profile_path": null,
+        "credit_id": "6a24d2c2b08e2049d278d0a3",
+        "department": "Art",
+        "job": "Set Decoration Buyer"
+      }
+    ]
+  }
+}

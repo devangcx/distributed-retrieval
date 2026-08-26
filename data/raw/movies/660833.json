@@ -1,0 +1,475 @@
+{
+  "adult": false,
+  "backdrop_path": "/ycylamLkpWFMpt7Mn7aCjeii8nB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 660833,
+  "imdb_id": "tt8953768",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Entangled",
+  "overview": "Four brilliant university students are forced to confront themselves in terrifying ways when their Quantum Physics experiment leads to an entangled parallel existence that leaves them questioning who they are and what is real.",
+  "popularity": 2.7706,
+  "poster_path": "/jMhWb00KXwnYbneENxImQslRzUs.jpg",
+  "production_companies": [
+    {
+      "id": 76992,
+      "logo_path": "/mw3j3P8SUQJKLSJQrLKuSDO9Xr6.png",
+      "name": "Saban Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2021-11-12",
+  "revenue": 0,
+  "runtime": 93,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Some doors should never be opened.",
+  "title": "Multiverse",
+  "video": false,
+  "vote_average": 6.632,
+  "vote_count": 348,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1257753,
+        "known_for_department": "Acting",
+        "name": "Paloma Kwiatkowski",
+        "original_name": "Paloma Kwiatkowski",
+        "popularity": 1.3764,
+        "profile_path": "/nvMkEC7kISakRzb71gVYqOiZ408.jpg",
+        "cast_id": 3,
+        "character": "Loretta",
+        "credit_id": "5e10e0d38e87020016c0c2fa",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1228341,
+        "known_for_department": "Acting",
+        "name": "Munro Chambers",
+        "original_name": "Munro Chambers",
+        "popularity": 1.012,
+        "profile_path": "/oxlRO2MATRp9cMKUgmelbZ07yKv.jpg",
+        "cast_id": 4,
+        "character": "Gerry",
+        "credit_id": "5e10e0ea663b870015823e2e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19797,
+        "known_for_department": "Acting",
+        "name": "Marlee Matlin",
+        "original_name": "Marlee Matlin",
+        "popularity": 1.9164,
+        "profile_path": "/1iV3yA07kdj7RFj2yyzwO2T6M8o.jpg",
+        "cast_id": 2,
+        "character": "Dierdre",
+        "credit_id": "5e10e0c458361b0010c32d6b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 450366,
+        "known_for_department": "Acting",
+        "name": "Robert Naylor",
+        "original_name": "Robert Naylor",
+        "popularity": 0.9451,
+        "profile_path": "/z1x8347dHK8bzYniK4bPWcPRBly.jpg",
+        "cast_id": 5,
+        "character": "Danny",
+        "credit_id": "614a5bcedaf57c00610759d0",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1997501,
+        "known_for_department": "Acting",
+        "name": "Sandra Mae Frank",
+        "original_name": "Sandra Mae Frank",
+        "popularity": 1.3133,
+        "profile_path": "/giviV3KhxVeem0WhGBm7VlJbR2d.jpg",
+        "cast_id": 6,
+        "character": "Amy",
+        "credit_id": "614a5bf2a6ddcb008c03aaf3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 116486,
+        "known_for_department": "Acting",
+        "name": "Shauna Black",
+        "original_name": "Shauna Black",
+        "popularity": 0.5637,
+        "profile_path": "/l2EGSzYP5vHaBX5LNMXsKbd6VLk.jpg",
+        "cast_id": 10,
+        "character": "Amy 2 (voice)",
+        "credit_id": "638c39de0e64af00adaacf90",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1234102,
+        "known_for_department": "Writing",
+        "name": "Michael MacKenzie",
+        "original_name": "Michael MacKenzie",
+        "popularity": 0.427,
+        "profile_path": "/mHrwoCXDczOnhDf44ZdJstgfg2x.jpg",
+        "credit_id": "614a5cc29a9e200021f7145c",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 23801,
+        "known_for_department": "Writing",
+        "name": "Doug Taylor",
+        "original_name": "Doug Taylor",
+        "popularity": 0.6555,
+        "profile_path": null,
+        "credit_id": "614a5c71d2c0c1006680eec5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1417938,
+        "known_for_department": "Production",
+        "name": "Rachel Forbes",
+        "original_name": "Rachel Forbes",
+        "popularity": 0.3994,
+        "profile_path": null,
+        "credit_id": "638c3a740e64af009e8f6876",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1461702,
+        "known_for_department": "Camera",
+        "name": "Ivan Gekoff",
+        "original_name": "Ivan Gekoff",
+        "popularity": 0.4703,
+        "profile_path": null,
+        "credit_id": "638c3b1b8d77c4007c4aa1e3",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1810403,
+        "known_for_department": "Production",
+        "name": "Melissa A. Smith",
+        "original_name": "Melissa A. Smith",
+        "popularity": 0.4402,
+        "profile_path": null,
+        "credit_id": "638c3b9615376c00865b3a70",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2914608,
+        "known_for_department": "Editing",
+        "name": "Angelica Falco",
+        "original_name": "Angelica Falco",
+        "popularity": 0.3041,
+        "profile_path": null,
+        "credit_id": "638c3b467d5db50fb78c125f",
+        "department": "Editing",
+        "job": "Online Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2092542,
+        "known_for_department": "Art",
+        "name": "Alexandra Pozdeeva",
+        "original_name": "Alexandra Pozdeeva",
+        "popularity": 0.3283,
+        "profile_path": null,
+        "credit_id": "638c3bbec3aa3f00c89c8f7b",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2504093,
+        "known_for_department": "Production",
+        "name": "Andrew Chang-Sang",
+        "original_name": "Andrew Chang-Sang",
+        "popularity": 0.4208,
+        "profile_path": null,
+        "credit_id": "638c3a5d15376c00834b910b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3814567,
+        "known_for_department": "Production",
+        "name": "Ty Reinhardt",
+        "original_name": "Ty Reinhardt",
+        "popularity": 0.5491,
+        "profile_path": null,
+        "credit_id": "638c3abf0e64af00adaacfdf",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1031990,
+        "known_for_department": "Sound",
+        "name": "Ramachandra Borcar",
+        "original_name": "Ramachandra Borcar",
+        "popularity": 0.3789,
+        "profile_path": null,
+        "credit_id": "638c3b060e64af009e8f68ba",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 23801,
+        "known_for_department": "Writing",
+        "name": "Doug Taylor",
+        "original_name": "Doug Taylor",
+        "popularity": 0.6555,
+        "profile_path": null,
+        "credit_id": "638c3a038a84d20084795aed",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1999156,
+        "known_for_department": "Production",
+        "name": "William G. Santor",
+        "original_name": "William G. Santor",
+        "popularity": 0.4821,
+        "profile_path": null,
+        "credit_id": "638c3ad31283e900a8a34a43",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3814569,
+        "known_for_department": "Editing",
+        "name": "Alex Coulson",
+        "original_name": "Alex Coulson",
+        "popularity": 0.3047,
+        "profile_path": null,
+        "credit_id": "638c3b3042022800d91926fd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2331572,
+        "known_for_department": "Production",
+        "name": "Jason Ross Jallet",
+        "original_name": "Jason Ross Jallet",
+        "popularity": 0.4636,
+        "profile_path": "/1gd9IigmoRuHJkLDrq7cVrZZfh0.jpg",
+        "credit_id": "638c3a891283e9007c747fb2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3564518,
+        "known_for_department": "Production",
+        "name": "Jessica Labi",
+        "original_name": "Jessica Labi",
+        "popularity": 0.3009,
+        "profile_path": null,
+        "credit_id": "638c3aa08d77c400cad245c3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2519879,
+        "known_for_department": "Production",
+        "name": "Michelle Aseltine",
+        "original_name": "Michelle Aseltine",
+        "popularity": 0.3766,
+        "profile_path": null,
+        "credit_id": "638c3a3142022800b845d0e8",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2914610,
+        "known_for_department": "Editing",
+        "name": "Scott Hannigan",
+        "original_name": "Scott Hannigan",
+        "popularity": 0.3247,
+        "profile_path": null,
+        "credit_id": "638c3b59c3aa3f007f35819b",
+        "department": "Editing",
+        "job": "Online Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2602984,
+        "known_for_department": "Art",
+        "name": "Justin Reu",
+        "original_name": "Justin Reu",
+        "popularity": 0.5046,
+        "profile_path": null,
+        "credit_id": "638c3ba91283e900c77c0878",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 180495,
+        "known_for_department": "Acting",
+        "name": "Ron Simons",
+        "original_name": "Ron Simons",
+        "popularity": 0.6535,
+        "profile_path": "/hfECgLrIgd7JwUBy1KgLdFZep1e.jpg",
+        "credit_id": "638c3aec15376c007b37bb3a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3814566,
+        "known_for_department": "Production",
+        "name": "Bev Bliss",
+        "original_name": "Bev Bliss",
+        "popularity": 0.2859,
+        "profile_path": null,
+        "credit_id": "638c3a478d77c400989a3934",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2717730,
+        "known_for_department": "Sound",
+        "name": "David Hermiston",
+        "original_name": "David Hermiston",
+        "popularity": 0.2736,
+        "profile_path": "/niXZlZegQTT0XRBB4WkPAamakqM.jpg",
+        "credit_id": "638c3b6d420228007b028f35",
+        "department": "Editing",
+        "job": "Online Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3724,
+        "known_for_department": "Production",
+        "name": "Judy Henderson",
+        "original_name": "Judy Henderson",
+        "popularity": 0.5364,
+        "profile_path": null,
+        "credit_id": "638c3b8142022800b845d195",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2311999,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rosie Fex",
+        "original_name": "Rosie Fex",
+        "popularity": 0.3709,
+        "profile_path": null,
+        "credit_id": "638c3bd31283e9008322ebe4",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1092315,
+        "known_for_department": "Directing",
+        "name": "Gaurav Seth",
+        "original_name": "Gaurav Seth",
+        "popularity": 0.4202,
+        "profile_path": null,
+        "credit_id": "5e10e0b18e87020012c0c7f5",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

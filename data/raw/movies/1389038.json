@@ -1,0 +1,279 @@
+{
+  "adult": false,
+  "backdrop_path": "/tjOYNmVEO98WoK8SGhUq5aw8qTh.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://ondisneyplus.disney.com/movie/mickey-and-the-very-many-christmases",
+  "id": 1389038,
+  "imdb_id": "tt34614991",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mickey and the Very Many Christmases",
+  "overview": "Mickey makes a magical wish that every day could be Christmas — but winds up having second thoughts when his wish actually comes true!",
+  "popularity": 4.4008,
+  "poster_path": "/j8HNzRSIsiiCfSzsU1FU8U60VAd.jpg",
+  "production_companies": [
+    {
+      "id": 3475,
+      "logo_path": "/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png",
+      "name": "Disney Television Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 79543,
+      "logo_path": "/xxQesITWRfZ0rETKHJ13WfD5AEn.png",
+      "name": "ICON Creative Studio",
+      "origin_country": "CA"
+    },
+    {
+      "id": 91138,
+      "logo_path": "/um4BQ5N9HK8QKZfNgKURH0uPr18.png",
+      "name": "Wild Canary",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2024-12-01",
+  "revenue": 0,
+  "runtime": 22,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Mickey and the Very Many Christmases",
+  "video": false,
+  "vote_average": 6.429,
+  "vote_count": 21,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1235060,
+        "known_for_department": "Acting",
+        "name": "Bret Iwan",
+        "original_name": "Bret Iwan",
+        "popularity": 0.8873,
+        "profile_path": "/14m82iewt4tDjaaOmsYWMr6TKQ8.jpg",
+        "cast_id": 6,
+        "character": "Mickey Mouse (voice)",
+        "credit_id": "674efb512ce4ce7dd60957e3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1382187,
+        "known_for_department": "Acting",
+        "name": "Kaitlyn Robrock",
+        "original_name": "Kaitlyn Robrock",
+        "popularity": 1.2565,
+        "profile_path": "/1joOQrgyU9ap9W1cvimh01XmKcO.jpg",
+        "cast_id": 7,
+        "character": "Minnie Mouse (voice)",
+        "credit_id": "674efb9c2ce4ce7dd60957fc",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84213,
+        "known_for_department": "Acting",
+        "name": "Bill Farmer",
+        "original_name": "Bill Farmer",
+        "popularity": 1.5268,
+        "profile_path": "/lhezx68R12s5Bsv7d77BrQb7tWA.jpg",
+        "cast_id": 8,
+        "character": "Goofy (voice)",
+        "credit_id": "674efbc8679ec153288265f0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34478,
+        "known_for_department": "Acting",
+        "name": "Tony Anselmo",
+        "original_name": "Tony Anselmo",
+        "popularity": 1.274,
+        "profile_path": "/8ocCq9OxVg7A0g7hf7EqeT0QenX.jpg",
+        "cast_id": 9,
+        "character": "Donald Duck (voice)",
+        "credit_id": "674efc03b209e01eaa8994a5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 34983,
+        "known_for_department": "Acting",
+        "name": "Tress MacNeille",
+        "original_name": "Tress MacNeille",
+        "popularity": 2.6709,
+        "profile_path": "/gI2LsgByvSffQY34vabVnPmrHzw.jpg",
+        "cast_id": 10,
+        "character": "Daisy Duck (voice)",
+        "credit_id": "674efc3783871727d139dca3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1504518,
+        "known_for_department": "Acting",
+        "name": "Stuart Ambrose",
+        "original_name": "Stuart Ambrose",
+        "popularity": 0.5362,
+        "profile_path": "/nQrNQGEi13CNGqSHEEbQt6C7iUJ.jpg",
+        "cast_id": 11,
+        "character": "Male Caroler (voice)",
+        "credit_id": "674efc58f595235acbe3c0a2",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1249820,
+        "known_for_department": "Acting",
+        "name": "Romi Dames",
+        "original_name": "Romi Dames",
+        "popularity": 0.8413,
+        "profile_path": "/lksMAPU7jTJQDc8Jvk5gOeWzU88.jpg",
+        "cast_id": 12,
+        "character": "Daisy Duck (voice)",
+        "credit_id": "674efc842ce4ce7dd6095825",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1684099,
+        "known_for_department": "Acting",
+        "name": "Brock Powell",
+        "original_name": "Brock Powell",
+        "popularity": 0.8533,
+        "profile_path": "/8ge9ffuWkfzNup1XW6p5qaIouLa.jpg",
+        "cast_id": 13,
+        "character": "Santa Claus (voice)",
+        "credit_id": "674efccf1222adbb63df16ad",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1238891,
+        "known_for_department": "Acting",
+        "name": "Ashley Argota",
+        "original_name": "Ashley Argota",
+        "popularity": 1.0036,
+        "profile_path": "/mFOCkmcwukbLrNx7XrDLetFTKio.jpg",
+        "cast_id": 14,
+        "character": "Female Caroler (voice)",
+        "credit_id": "674efd26aa844dc6ee9461f7",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3006362,
+        "known_for_department": "Art",
+        "name": "Greg Rankin",
+        "original_name": "Greg Rankin",
+        "popularity": 0.3781,
+        "profile_path": null,
+        "credit_id": "674efa2cb209e01eaa899402",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4287839,
+        "known_for_department": "Art",
+        "name": "Janice S. Rim",
+        "original_name": "Janice S. Rim",
+        "popularity": 0.2684,
+        "profile_path": null,
+        "credit_id": "674efa58b209e01eaa89940d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 207538,
+        "known_for_department": "Writing",
+        "name": "Kim Duran",
+        "original_name": "Kim Duran",
+        "popularity": 0.6403,
+        "profile_path": null,
+        "credit_id": "674efa72b209e01eaa89941b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2331548,
+        "known_for_department": "Writing",
+        "name": "Tom Rogers",
+        "original_name": "Tom Rogers",
+        "popularity": 0.3269,
+        "profile_path": null,
+        "credit_id": "674efad2679ec153288265c8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 995479,
+        "known_for_department": "Writing",
+        "name": "Rachel Ruderman",
+        "original_name": "Rachel Ruderman",
+        "popularity": 0.7636,
+        "profile_path": null,
+        "credit_id": "674efaf983871727d139dc38",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "adult": false,
+  "backdrop_path": "/pNYr9xlUr8lJ4l1DcHe6oNK7u0q.jpg",
+  "belongs_to_collection": {
+    "id": 1141913,
+    "name": "Hanuman Collection",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 117361,
+  "imdb_id": "tt1169841",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Return Of Hanuman",
+  "overview": "A young boy, Minku, ridiculed by his friends, begs the gods to send him down to Earth, and his wish is granted.",
+  "popularity": 0.8385,
+  "poster_path": "/sBPYBOiyYnlCZdTKZvi4FLdWFh6.jpg",
+  "production_companies": [
+    {
+      "id": 41246,
+      "logo_path": null,
+      "name": "Perception Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 101760,
+      "logo_path": null,
+      "name": "Toonz Animation India",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2007-12-28",
+  "revenue": 740000,
+  "runtime": 120,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Return Of Hanuman",
+  "video": false,
+  "vote_average": 6.571,
+  "vote_count": 21,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4118641,
+        "known_for_department": "Acting",
+        "name": "Malak Shah",
+        "original_name": "Malak Shah",
+        "popularity": 0.2502,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Maruti (Voice)",
+        "credit_id": "648f383e2f8d0900e3860f7e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4118642,
+        "known_for_department": "Acting",
+        "name": "Suraj",
+        "original_name": "Suraj",
+        "popularity": 0.2142,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Minkoo (Voice)",
+        "credit_id": "648f3864559d220139be58f5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4118649,
+        "known_for_department": "Acting",
+        "name": "Akshatha",
+        "original_name": "Akshatha",
+        "popularity": 0.3017,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Munni (Voice)",
+        "credit_id": "648f3a5d42bf0100e49f31c8",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4118647,
+        "known_for_department": "Acting",
+        "name": "Archie Maitra",
+        "original_name": "Archie Maitra",
+        "popularity": 0.3221,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Tunnu (Voice)",
+        "credit_id": "648f3a2542bf01013bbda498",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4118648,
+        "known_for_department": "Acting",
+        "name": "Aditya Rao",
+        "original_name": "Aditya Rao",
+        "popularity": 0.2942,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Dadoo (Voice)",
+        "credit_id": "648f3a452f8d0900ad355ac3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1873664,
+        "known_for_department": "Acting",
+        "name": "Ayesha Raza Mishra",
+        "original_name": "Ayesha Raza Mishra",
+        "popularity": 0.925,
+        "profile_path": "/cKC6Gj5AbeoLpH0bxnSj8SEzewi.jpg",
+        "cast_id": 10,
+        "character": "Maruti's Mother (Voice)",
+        "credit_id": "648f38dac2ff3d00ffbc0f53",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1555087,
+        "known_for_department": "Acting",
+        "name": "Pratibha Sharma",
+        "original_name": "Pratibha Sharma",
+        "popularity": 0.3351,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Minkoo's Mother (Voice)",
+        "credit_id": "648f39a342bf0100ae320495",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4118644,
+        "known_for_department": "Acting",
+        "name": "Rajeev Raj",
+        "original_name": "Rajeev Raj",
+        "popularity": 0.2831,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Narad (Voice)",
+        "credit_id": "648f3944559d2200ad82c9f1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110709,
+        "known_for_department": "Acting",
+        "name": "Rajendra Gupta",
+        "original_name": "Rajendra Gupta",
+        "popularity": 0.8898,
+        "profile_path": "/AkfIGMNBv1dAwhha6Xh7krVjv5o.jpg",
+        "cast_id": 14,
+        "character": "Sage Sukracharya (Voice)",
+        "credit_id": "648f397a42bf0100c7fc0700",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2258827,
+        "known_for_department": "Acting",
+        "name": "Girish Sahdev",
+        "original_name": "Girish Sahdev",
+        "popularity": 0.2803,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Professor Antariksh (Voice)",
+        "credit_id": "648f39db42bf0100ae3204ae",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1860114,
+        "known_for_department": "Acting",
+        "name": "Kenny Desai",
+        "original_name": "Kenny Desai",
+        "popularity": 0.3773,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Professor Jwalamukhi (Voice)",
+        "credit_id": "648f39f2c2ff3d00ffbc0fa4",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1637846,
+        "known_for_department": "Acting",
+        "name": "Narendra Jha",
+        "original_name": "Narendra Jha",
+        "popularity": 0.619,
+        "profile_path": "/yubB6AJ2psFHD4R9VV3AxoQmoCX.jpg",
+        "cast_id": 22,
+        "character": "Rahu, Ketu (Voice)",
+        "credit_id": "648f3a7b45765d011dbfb104",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3667769,
+        "known_for_department": "Acting",
+        "name": "Parminder Ghumman",
+        "original_name": "Parminder Ghumman",
+        "popularity": 0.2396,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "One-Eyed Man (Voice)",
+        "credit_id": "648f3aac263462010cbc645e",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2050189,
+        "known_for_department": "Sound",
+        "name": "Sudesh Bhosle",
+        "original_name": "Sudesh Bhosle",
+        "popularity": 0.4632,
+        "profile_path": "/sGKoZuZUsnYY5gefmutOgF7hXn.jpg",
+        "cast_id": 13,
+        "character": "Owner (Voice)",
+        "credit_id": "648f3956559d220139be5959",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 86027,
+        "known_for_department": "Acting",
+        "name": "Gurpal Singh",
+        "original_name": "Gurpal Singh",
+        "popularity": 0.5735,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Principal Bhullar (Voice)",
+        "credit_id": "648f3a0e2f8d0900c666531d",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1166714,
+        "known_for_department": "Acting",
+        "name": "Uday Sabnis",
+        "original_name": "Uday Sabnis",
+        "popularity": 0.4735,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Brahma (Voice)",
+        "credit_id": "648f388ec2ff3d011cba0ddb",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4118656,
+        "known_for_department": "Acting",
+        "name": "Trilok Patel",
+        "original_name": "Trilok Patel",
+        "popularity": 0.3376,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Vishnu (Voice)",
+        "credit_id": "648f3ad026346200ae1c648c",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4118643,
+        "known_for_department": "Acting",
+        "name": "Dhananjay Shreshtha",
+        "original_name": "Dhananjay Shreshtha",
+        "popularity": 0.2018,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Indra Deva (Voice)",
+        "credit_id": "648f38b1c2ff3d00c59a98a2",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2021304,
+        "known_for_department": "Acting",
+        "name": "Ajay Singhal",
+        "original_name": "Ajay Singhal",
+        "popularity": 0.3517,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Maruti's Father (Voice)",
+        "credit_id": "648f3aea42bf0100e49f31fe",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1241430,
+        "known_for_department": "Acting",
+        "name": "Chetanya Adib",
+        "original_name": "Chetanya Adib",
+        "popularity": 0.4223,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Hanuman (Voice)",
+        "credit_id": "648f39022f8d0900c66652c7",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85670,
+        "known_for_department": "Directing",
+        "name": "Anurag Kashyap",
+        "original_name": "Anurag Kashyap",
+        "popularity": 1.5049,
+        "profile_path": "/wS1aF7dFDnKC44ZbFkbDcIpmFq5.jpg",
+        "credit_id": "52fe4bb2c3a36847f82100a7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2033630,
+        "known_for_department": "Writing",
+        "name": "Amit Babbar",
+        "original_name": "Amit Babbar",
+        "popularity": 0.3214,
+        "profile_path": null,
+        "credit_id": "5ae7ed6b9251410cfa011f8d",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85670,
+        "known_for_department": "Directing",
+        "name": "Anurag Kashyap",
+        "original_name": "Anurag Kashyap",
+        "popularity": 1.5049,
+        "profile_path": "/wS1aF7dFDnKC44ZbFkbDcIpmFq5.jpg",
+        "credit_id": "5ae7ed740e0a26105e013529",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1427447,
+        "known_for_department": "Sound",
+        "name": "Tapas Relia",
+        "original_name": "Tapas Relia",
+        "popularity": 0.3515,
+        "profile_path": null,
+        "credit_id": "648f37c742bf0100c7fc067f",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4118640,
+        "known_for_department": "Editing",
+        "name": "Rajkumar Didwania",
+        "original_name": "Rajkumar Didwania",
+        "popularity": 0.2018,
+        "profile_path": null,
+        "credit_id": "648f38082f8d0900c6665260",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

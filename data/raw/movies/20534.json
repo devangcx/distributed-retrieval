@@ -1,0 +1,443 @@
+{
+  "adult": false,
+  "backdrop_path": "/yYq4WLdTQcGdlOciSgrIdb7yLpq.jpg",
+  "belongs_to_collection": {
+    "id": 484529,
+    "name": "Murder Collection",
+    "poster_path": "/aKPlQwfmTmsPyssPh0387onFohl.jpg",
+    "backdrop_path": "/zKvn9nhlmGzWOTdEC4VPUXtEzoV.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 20534,
+  "imdb_id": "tt0405507",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Murder",
+  "overview": "To escape a secure but stifling life with her workaholic husband Sudhir, bored housewife Simran begins an affair with Sunny, an ex-boyfriend from her college days. However, when Sudhir grows suspicious and hires a private detective, the infidelity soon comes to light.",
+  "popularity": 1.4675,
+  "poster_path": "/j14NjDFy7QQWHDSzfO9EkZvc9ZF.jpg",
+  "production_companies": [
+    {
+      "id": 3749,
+      "logo_path": "/54N3BYPtuETnYumu6gjv97dg6H8.png",
+      "name": "Vishesh Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2004-04-02",
+  "revenue": 0,
+  "runtime": 130,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "She is married, she is lonely, she is having an affair......",
+  "title": "Murder",
+  "video": false,
+  "vote_average": 5.103,
+  "vote_count": 39,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 70689,
+        "known_for_department": "Acting",
+        "name": "Mallika Sherawat",
+        "original_name": "Mallika Sherawat",
+        "popularity": 1.2057,
+        "profile_path": "/noitukrZDaruVA6YlBfULqZ7zTt.jpg",
+        "cast_id": 1,
+        "character": "Simran",
+        "credit_id": "52fe43ecc3a368484e00611b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85969,
+        "known_for_department": "Acting",
+        "name": "Emraan Hashmi",
+        "original_name": "इमरान हाशमी",
+        "popularity": 2.2624,
+        "profile_path": "/kflgvFCFZnpTRbKmJWn5T0G5EKI.jpg",
+        "cast_id": 2,
+        "character": "Sunny",
+        "credit_id": "52fe43ecc3a368484e00611f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86282,
+        "known_for_department": "Acting",
+        "name": "Ashmit Patel",
+        "original_name": "Ashmit Patel",
+        "popularity": 0.7459,
+        "profile_path": "/dAY58fZjzZlLH4KmIgSRzLw6uqR.jpg",
+        "cast_id": 3,
+        "character": "Sudhir",
+        "credit_id": "52fe43ecc3a368484e006123",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4454841,
+        "known_for_department": "Acting",
+        "name": "Surabhi Vanzara",
+        "original_name": "Surabhi Vanzara",
+        "popularity": 0.3812,
+        "profile_path": "/9QW1pnSSZMfAoaTyHfTtsmElGiE.jpg",
+        "cast_id": 28,
+        "character": "Radhika",
+        "credit_id": "696ab0919c5fc7c17ce1f41b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76790,
+        "known_for_department": "Acting",
+        "name": "Raj Zutshi",
+        "original_name": "Raj Zutshi",
+        "popularity": 0.9253,
+        "profile_path": "/aJmWL08uj2oVGd2cJmBuzNSO2LY.jpg",
+        "cast_id": 4,
+        "character": "Inspector Rajvir Singh",
+        "credit_id": "52fe43ecc3a368484e006127",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1246564,
+        "known_for_department": "Acting",
+        "name": "Sheeba Chaddha",
+        "original_name": "शीबा चड्ढा",
+        "popularity": 2.1476,
+        "profile_path": "/yWBQeR47GmnGJn33w4c8QzakkSh.jpg",
+        "cast_id": 8,
+        "character": "Nargis Mehmood",
+        "credit_id": "596f6d24c3a3686b5a01a8a7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1694517,
+        "known_for_department": "Acting",
+        "name": "Indira Roy",
+        "original_name": "Indira Roy",
+        "popularity": 0.5298,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Raj",
+        "credit_id": "696ab0f64633ac15ad4124d2",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5944043,
+        "known_for_department": "Acting",
+        "name": "Krish Chawla",
+        "original_name": "Krish Chawla",
+        "popularity": 0.2243,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Kabir Sehgal",
+        "credit_id": "696ab0bf7241fd6760bf2a53",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5944044,
+        "known_for_department": "Acting",
+        "name": "Prantik Shah",
+        "original_name": "Prantik Shah",
+        "popularity": 0.2777,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Pratik",
+        "credit_id": "696ab0e22a9b4d2ee2ad1b96",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86283,
+        "known_for_department": "Acting",
+        "name": "Kashmera Shah",
+        "original_name": "Kashmera Shah",
+        "popularity": 0.8295,
+        "profile_path": "/ITOuD1fj5FKo2p98wjfVdDtEpv.jpg",
+        "cast_id": 5,
+        "character": "Special Appearance in Song 'Dil Ko Hazaar'",
+        "credit_id": "52fe43ecc3a368484e00612b",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119819,
+        "known_for_department": "Directing",
+        "name": "Anurag Basu",
+        "original_name": "Anurag Basu",
+        "popularity": 0.7788,
+        "profile_path": "/o1hGaRlxLaPrJ0CIhm6fMtmrudb.jpg",
+        "credit_id": "52fe43ecc3a368484e006131",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88802,
+        "known_for_department": "Production",
+        "name": "Mukesh Bhatt",
+        "original_name": "Mukesh Bhatt",
+        "popularity": 0.739,
+        "profile_path": "/yHEtla0qYbPGXGXSaYGIlKWERLT.jpg",
+        "credit_id": "60f957fbe24b930075b66576",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119819,
+        "known_for_department": "Directing",
+        "name": "Anurag Basu",
+        "original_name": "Anurag Basu",
+        "popularity": 0.7788,
+        "profile_path": "/o1hGaRlxLaPrJ0CIhm6fMtmrudb.jpg",
+        "credit_id": "5c3c93530e0a263c4f8d3ff3",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1296195,
+        "known_for_department": "Writing",
+        "name": "Subodh Chopra",
+        "original_name": "Subodh Chopra",
+        "popularity": 0.5074,
+        "profile_path": null,
+        "credit_id": "5c3c93610e0a2638678d4020",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 123224,
+        "known_for_department": "Crew",
+        "name": "Fuwad Khan",
+        "original_name": "Fuwad Khan",
+        "popularity": 0.3223,
+        "profile_path": null,
+        "credit_id": "5c3c9370c3a36869493cf3c8",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85400,
+        "known_for_department": "Art",
+        "name": "Rajat Poddar",
+        "original_name": "Rajat Poddar",
+        "popularity": 0.4272,
+        "profile_path": null,
+        "credit_id": "5c3c9396c3a36859f53cebc9",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 227202,
+        "known_for_department": "Production",
+        "name": "Kulthep Narula",
+        "original_name": "Kulthep Narula",
+        "popularity": 0.4723,
+        "profile_path": null,
+        "credit_id": "5c3c9329c3a36805733cd0f7",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119819,
+        "known_for_department": "Directing",
+        "name": "Anurag Basu",
+        "original_name": "Anurag Basu",
+        "popularity": 0.7788,
+        "profile_path": "/o1hGaRlxLaPrJ0CIhm6fMtmrudb.jpg",
+        "credit_id": "5c3c9358c3a36859f53ceb67",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37241,
+        "known_for_department": "Sound",
+        "name": "Anu Malik",
+        "original_name": "Anu Malik",
+        "popularity": 0.7303,
+        "profile_path": "/6TqNRZ8pm0woMxNXAtQrQjkcnfB.jpg",
+        "credit_id": "5c3c938c0e0a2655c48d63f7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2203798,
+        "known_for_department": "Production",
+        "name": "Sadashiv Athule",
+        "original_name": "Sadashiv Athule",
+        "popularity": 0.4802,
+        "profile_path": null,
+        "credit_id": "5c3c93439251415318abe9f7",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 120478,
+        "known_for_department": "Editing",
+        "name": "Akiv Ali",
+        "original_name": "Akiv Ali",
+        "popularity": 0.3956,
+        "profile_path": null,
+        "credit_id": "5c3c939e0e0a2655c48d6487",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1758563,
+        "known_for_department": "Production",
+        "name": "Rachvin Narula",
+        "original_name": "Rachvin Narula",
+        "popularity": 0.4986,
+        "profile_path": null,
+        "credit_id": "5c3c9332c3a36859f53ceb3e",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1046503,
+        "known_for_department": "Sound",
+        "name": "Sonu Nigam",
+        "original_name": "Sonu Nigam",
+        "popularity": 0.8454,
+        "profile_path": "/lWoKKVb4caU4YeaP00DewHOE5Jp.jpg",
+        "credit_id": "5e01bb6f75110d0018d9dc3a",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2063732,
+        "known_for_department": "Sound",
+        "name": "Anuradha Paudwal",
+        "original_name": "Anuradha Paudwal",
+        "popularity": 0.5304,
+        "profile_path": "/p45pOdRfsjufTZN0HF5vv7WHMhY.jpg",
+        "credit_id": "5e01bb77d1a89300128d90a4",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1798847,
+        "known_for_department": "Writing",
+        "name": "Rahat Indori",
+        "original_name": "Rahat Indori",
+        "popularity": 0.2897,
+        "profile_path": null,
+        "credit_id": "5e01bb47d236e6001292e4f1",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2292142,
+        "known_for_department": "Sound",
+        "name": "Kunal Ganjawala",
+        "original_name": "Kunal Ganjawala",
+        "popularity": 0.4017,
+        "profile_path": null,
+        "credit_id": "5e01bb4fd1a89300128d8fb5",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2050191,
+        "known_for_department": "Sound",
+        "name": "Alisha Chinai",
+        "original_name": "Alisha Chinai",
+        "popularity": 0.4379,
+        "profile_path": null,
+        "credit_id": "5e01bb58d1a89300128d904a",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2452041,
+        "known_for_department": "Writing",
+        "name": "Sayeed Quadri",
+        "original_name": "Sayeed Quadri",
+        "popularity": 0.4442,
+        "profile_path": "/vgi5EDuH6tV0pODuCEiC1QO8LwV.jpg",
+        "credit_id": "5e01bb1965686e001598beea",
+        "department": "Writing",
+        "job": "Lyricist"
+      }
+    ]
+  }
+}

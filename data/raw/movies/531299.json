@@ -1,0 +1,612 @@
+{
+  "adult": false,
+  "backdrop_path": "/lACkr9PRjVfo199hjWOquMkKRHy.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 531299,
+  "imdb_id": "tt8535180",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Kill Chain",
+  "overview": "A hotel room shootout between two assassins kicks off a long night where bodies fall like dominoes, as we follow a chain of crooked cops, gangsters, hitmen, a femme Fatale and an ex-mercenary through a relay of murder, betrayal, revenge and redemption.",
+  "popularity": 2.7705,
+  "poster_path": "/bFfUDQkCh6Zxgs4qyVgVTuS2PXN.jpg",
+  "production_companies": [
+    {
+      "id": 10399,
+      "logo_path": null,
+      "name": "CineTel Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 63611,
+      "logo_path": "/bHPC39cG5aAcuFnViWmRD59gzZ8.png",
+      "name": "ETA films",
+      "origin_country": "US"
+    },
+    {
+      "id": 124327,
+      "logo_path": null,
+      "name": "Killing Link Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 124328,
+      "logo_path": null,
+      "name": "Old City SAS",
+      "origin_country": ""
+    },
+    {
+      "id": 831,
+      "logo_path": "/vLENXiYTyITnMDrTKabUXhgTKX2.png",
+      "name": "Saturn Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 1020,
+      "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+      "name": "Millennium Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 54827,
+      "logo_path": "/ctXs8RMflxZc39zv1b41pn18D8a.png",
+      "name": "64A Films",
+      "origin_country": "CO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2020-02-20",
+  "revenue": 0,
+  "runtime": 92,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kill Chain",
+  "video": false,
+  "vote_average": 5.094,
+  "vote_count": 181,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2963,
+        "known_for_department": "Acting",
+        "name": "Nicolas Cage",
+        "original_name": "Nicolas Cage",
+        "popularity": 10.1095,
+        "profile_path": "/y1RtezurZYveYkVNRht7CwEgSYY.jpg",
+        "cast_id": 2,
+        "character": "Araña",
+        "credit_id": "5b2aae62c3a3683e11000bce",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1008273,
+        "known_for_department": "Acting",
+        "name": "Anabelle Acosta",
+        "original_name": "Anabelle Acosta",
+        "popularity": 1.2328,
+        "profile_path": "/qcoHPJRoPIYSEG4MKM0M9YecKH9.jpg",
+        "cast_id": 3,
+        "character": "The Woman In Red",
+        "credit_id": "5da8ca846e44bf00170493c0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15029,
+        "known_for_department": "Acting",
+        "name": "Enrico Colantoni",
+        "original_name": "Enrico Colantoni",
+        "popularity": 2.2498,
+        "profile_path": "/yxxy8IrGRwnRPbLmgyfwF26Feve.jpg",
+        "cast_id": 4,
+        "character": "The Old Sniper",
+        "credit_id": "5da8cab46e44bf001b04842b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133212,
+        "known_for_department": "Acting",
+        "name": "Ryan Kwanten",
+        "original_name": "Ryan Kwanten",
+        "popularity": 2.5076,
+        "profile_path": "/vvbEabUWIeaHMBA2wrUChiLTjch.jpg",
+        "cast_id": 5,
+        "character": "Ericson",
+        "credit_id": "5da8cac96332f700192951a3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 120557,
+        "known_for_department": "Acting",
+        "name": "Angie Cepeda",
+        "original_name": "Angie Cepeda",
+        "popularity": 1.745,
+        "profile_path": "/azShCjdzK93jcBBOJSs5lFUd7CH.jpg",
+        "cast_id": 6,
+        "character": "The Very Bad Woman",
+        "credit_id": "5da8cadcce6c4c0012b5c285",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 172166,
+        "known_for_department": "Acting",
+        "name": "Eddie Martinez",
+        "original_name": "Eddie Martinez",
+        "popularity": 1.0959,
+        "profile_path": "/77nwrGFFTWa3otlKKfTBxAlMJom.jpg",
+        "cast_id": 7,
+        "character": "Sanchez",
+        "credit_id": "5da8cb17ce6c4c0012b5c2e5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 165284,
+        "known_for_department": "Acting",
+        "name": "Alimi Ballard",
+        "original_name": "Alimi Ballard",
+        "popularity": 1.5616,
+        "profile_path": "/7gIoTGYnLZ24tc1GXQq5TUayE6g.jpg",
+        "cast_id": 13,
+        "character": "The Curious Assassin",
+        "credit_id": "5da8cdecce6c4c0012b5c7a5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 727467,
+        "known_for_department": "Acting",
+        "name": "Jon Mack",
+        "original_name": "Jon Mack",
+        "popularity": 0.9019,
+        "profile_path": "/6VLFPxaTZINsSqWmUpjTL5SG0P2.jpg",
+        "cast_id": 32,
+        "character": "Gigi's Friend",
+        "credit_id": "5e900d0ce640d600151e88e7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1837637,
+        "known_for_department": "Acting",
+        "name": "Luna Baxter",
+        "original_name": "Luna Baxter",
+        "popularity": 0.9607,
+        "profile_path": "/mS4Ca0NA07rzDHcLiJQEwH7PDiO.jpg",
+        "cast_id": 33,
+        "character": "Gigi",
+        "credit_id": "5e900d2515959f0019ed064f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2090235,
+        "known_for_department": "Acting",
+        "name": "Pedro Calvo",
+        "original_name": "Pedro Calvo",
+        "popularity": 0.3174,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "The Mean Assassin",
+        "credit_id": "5e900d5137b3a9001b898f28",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70278,
+        "known_for_department": "Writing",
+        "name": "Ken Sanzel",
+        "original_name": "Ken Sanzel",
+        "popularity": 0.5663,
+        "profile_path": null,
+        "credit_id": "5b2aae510e0a26480e000eab",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70278,
+        "known_for_department": "Writing",
+        "name": "Ken Sanzel",
+        "original_name": "Ken Sanzel",
+        "popularity": 0.5663,
+        "profile_path": null,
+        "credit_id": "5b2aae569251417088000bf6",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60557,
+        "known_for_department": "Sound",
+        "name": "Mario Grigorov",
+        "original_name": "Mario Grigorov",
+        "popularity": 0.4378,
+        "profile_path": null,
+        "credit_id": "5da8cc07e92d8300159a4e22",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1209461,
+        "known_for_department": "Editing",
+        "name": "Alex Kopit",
+        "original_name": "Alex Kopit",
+        "popularity": 0.4978,
+        "profile_path": null,
+        "credit_id": "5da8cc226e44bf0015047ea1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1031848,
+        "known_for_department": "Crew",
+        "name": "Manuel Castañeda",
+        "original_name": "Manuel Castañeda",
+        "popularity": 0.3462,
+        "profile_path": null,
+        "credit_id": "5da8cc3bb2681f00148e1087",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2435097,
+        "known_for_department": "Production",
+        "name": "Hernán García",
+        "original_name": "Hernán García",
+        "popularity": 0.1647,
+        "profile_path": null,
+        "credit_id": "5da8ccac3d355700166989b3",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2435101,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tulia Díaz",
+        "original_name": "Tulia Díaz",
+        "popularity": 0.2962,
+        "profile_path": null,
+        "credit_id": "5da8ccf26e44bf001504801d",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1024837,
+        "known_for_department": "Production",
+        "name": "Eric Brenner",
+        "original_name": "Eric Brenner",
+        "popularity": 0.451,
+        "profile_path": null,
+        "credit_id": "5e3cedef9603310017e8d66f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16830,
+        "known_for_department": "Production",
+        "name": "Boaz Davidson",
+        "original_name": "Boaz Davidson",
+        "popularity": 1.338,
+        "profile_path": "/6GfBPoefCrLhuvtpFXRt88Qt8ZU.jpg",
+        "credit_id": "5e3cedfc9603310019e8cc73",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2531454,
+        "known_for_department": "Production",
+        "name": "Nancy Fernández",
+        "original_name": "Nancy Fernández",
+        "popularity": 0.3682,
+        "profile_path": null,
+        "credit_id": "5e3cee0898f1f100180d50ed",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2531455,
+        "known_for_department": "Production",
+        "name": "Yalile Giordanelli",
+        "original_name": "Yalile Giordanelli",
+        "popularity": 0.3389,
+        "profile_path": null,
+        "credit_id": "5e3cee1243250f0015c9ff44",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1409852,
+        "known_for_department": "Production",
+        "name": "Jeffrey Greenstein",
+        "original_name": "Jeffrey Greenstein",
+        "popularity": 0.5773,
+        "profile_path": null,
+        "credit_id": "5e3cee1c0c2710001a798b34",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 42367,
+        "known_for_department": "Production",
+        "name": "Lisa M. Hansen",
+        "original_name": "Lisa M. Hansen",
+        "popularity": 0.6715,
+        "profile_path": "/iS82mbV6v0EBORdd0ZobS03IeAc.jpg",
+        "credit_id": "5e3cee2b0c2710001878c582",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42368,
+        "known_for_department": "Production",
+        "name": "Paul Hertzberg",
+        "original_name": "Paul Hertzberg",
+        "popularity": 0.6893,
+        "profile_path": "/pTRoxhCLmfZLTQCak4dP0e0XH4z.jpg",
+        "credit_id": "5e3cee409603310019e8cc8e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17209,
+        "known_for_department": "Production",
+        "name": "Avi Lerner",
+        "original_name": "Avi Lerner",
+        "popularity": 1.0204,
+        "profile_path": "/tjQG1pIvtGL0wgvRlo76pMkUX0b.jpg",
+        "credit_id": "5e3cee4f9603310019e8cc9a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 727467,
+        "known_for_department": "Acting",
+        "name": "Jon Mack",
+        "original_name": "Jon Mack",
+        "popularity": 0.9019,
+        "profile_path": "/6VLFPxaTZINsSqWmUpjTL5SG0P2.jpg",
+        "credit_id": "5e3cee739603310013e8ce4c",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2531459,
+        "known_for_department": "Production",
+        "name": "Sonya Moreno",
+        "original_name": "Sonya Moreno",
+        "popularity": 0.3432,
+        "profile_path": null,
+        "credit_id": "5e3cee810c2710001878c626",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 130405,
+        "known_for_department": "Production",
+        "name": "Gary Preisler",
+        "original_name": "Gary Preisler",
+        "popularity": 0.5317,
+        "profile_path": null,
+        "credit_id": "5e3cee8d98f1f100180d5168",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2531460,
+        "known_for_department": "Production",
+        "name": "Diego F. Ramírez",
+        "original_name": "Diego F. Ramírez",
+        "popularity": 0.6025,
+        "profile_path": null,
+        "credit_id": "5e3cee9b0c2710001a798be9",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2522575,
+        "known_for_department": "Production",
+        "name": "Juan Pablo Solano",
+        "original_name": "Juan Pablo Solano",
+        "popularity": 0.5245,
+        "profile_path": null,
+        "credit_id": "5e3ceea743250f0017c8e128",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2531461,
+        "known_for_department": "Production",
+        "name": "German Michael Torres",
+        "original_name": "German Michael Torres",
+        "popularity": 0.3354,
+        "profile_path": null,
+        "credit_id": "5e3ceeb20c2710001a798c09",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1409855,
+        "known_for_department": "Production",
+        "name": "Jonathan Yunger",
+        "original_name": "Jonathan Yunger",
+        "popularity": 0.6228,
+        "profile_path": "/pnn5PwmyTJSBIjK2n8HPJn2GqtK.jpg",
+        "credit_id": "5e3ceebd9603310017e8d863",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2177401,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lili Bonil",
+        "original_name": "Lili Bonil",
+        "popularity": 0.2673,
+        "profile_path": null,
+        "credit_id": "5e3ceee998f1f1000f0cfee6",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1407255,
+        "known_for_department": "Sound",
+        "name": "David Barbee",
+        "original_name": "David Barbee",
+        "popularity": 0.7002,
+        "profile_path": null,
+        "credit_id": "5e3ceef598f1f100180d51b2",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2531462,
+        "known_for_department": "Sound",
+        "name": "Augusto Hernández Bruechet",
+        "original_name": "Augusto Hernández Bruechet",
+        "popularity": 0.8021,
+        "profile_path": null,
+        "credit_id": "5e3cef079603310017e8d8ca",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3096672,
+        "known_for_department": "Sound",
+        "name": "Johnny Stanley",
+        "original_name": "Johnny Stanley",
+        "popularity": 0.3655,
+        "profile_path": "/sGR5PhHtWD5BUo75GDPNx0kCF04.jpg",
+        "credit_id": "66f7542ea6293e3d76a1e6ef",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1329068,
+        "known_for_department": "Sound",
+        "name": "Christopher Bremus",
+        "original_name": "Christopher Bremus",
+        "popularity": 0.411,
+        "profile_path": "/pQXZ3fNWjoa1kIl7ykjOefTGvHI.jpg",
+        "credit_id": "66f7544ba6293e3d76a1e6f3",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1324427,
+        "known_for_department": "Sound",
+        "name": "Steven Schwalbe",
+        "original_name": "Steven Schwalbe",
+        "popularity": 0.37,
+        "profile_path": null,
+        "credit_id": "66f7548e621e8616b45f09fb",
+        "department": "Crew",
+        "job": "Additional Music"
+      }
+    ]
+  }
+}

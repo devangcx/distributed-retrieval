@@ -1,0 +1,260 @@
+{
+  "adult": false,
+  "backdrop_path": "/rOIaKlAX0SeNC25dFbM0y1mFsH6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 1698863,
+  "imdb_id": "tt41605854",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Odyssey",
+  "overview": "Based on the Ancient Greek epic. After ten years of war, King Odysseus sets sail for Ithaca, eager to reunite with his beloved. But his journey home is far more treacherous than the battlefield, as he must face deadly monsters and vengeful gods to survive.",
+  "popularity": 93.7718,
+  "poster_path": "/xBHCRB7zLIW41w8QskfwJhm32YF.jpg",
+  "production_companies": [
+    {
+      "id": 1311,
+      "logo_path": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+      "name": "The Asylum",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-07-03",
+  "revenue": 0,
+  "runtime": 86,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The most epic voyage of all time!",
+  "title": "The Odyssey",
+  "video": false,
+  "vote_average": 4.015,
+  "vote_count": 343,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1718171,
+        "known_for_department": "Acting",
+        "name": "Myrom Kingery",
+        "original_name": "Myrom Kingery",
+        "popularity": 0.8369,
+        "profile_path": "/g5cGIzYnaNv9LILT0IGtXa9Uw9k.jpg",
+        "cast_id": 9,
+        "character": "Odysseus",
+        "credit_id": "6a5c67ad6b4bb43e8cfadd8e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4499806,
+        "known_for_department": "Acting",
+        "name": "Morgan Flanagan",
+        "original_name": "Morgan Flanagan",
+        "popularity": 0.7423,
+        "profile_path": "/5Qb68qsULMlUz83At9cHixtLkDN.jpg",
+        "cast_id": 3,
+        "character": "Penelope",
+        "credit_id": "6a0d178da4d5e72a47833517",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3068552,
+        "known_for_department": "Acting",
+        "name": "Patrick Byrnes",
+        "original_name": "Patrick Byrnes",
+        "popularity": 0.6329,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Telemachus",
+        "credit_id": "6a0d177404e2f24df98332b4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23790,
+        "known_for_department": "Acting",
+        "name": "Dominic Keating",
+        "original_name": "Dominic Keating",
+        "popularity": 1.4691,
+        "profile_path": "/eRe4BJz9fTztlRKikDRHhmss6ee.jpg",
+        "cast_id": 5,
+        "character": "Antinous",
+        "credit_id": "6a0d17b26f82c851996a36b9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2722294,
+        "known_for_department": "Acting",
+        "name": "Llana Barron",
+        "original_name": "Llana Barron",
+        "popularity": 1.0132,
+        "profile_path": "/ynxZ9Bu8L9wUGygwkBaLbQu84ie.jpg",
+        "cast_id": 1,
+        "character": "Athena",
+        "credit_id": "6a0d172aa1760e113d833afd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5865503,
+        "known_for_department": "Acting",
+        "name": "Jordan Iverach",
+        "original_name": "Jordan Iverach",
+        "popularity": 0.3213,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Polites",
+        "credit_id": "6a0d179f8b248cb4c86a3e78",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4318191,
+        "known_for_department": "Acting",
+        "name": "Tony Wood",
+        "original_name": "Tony Wood",
+        "popularity": 0.4671,
+        "profile_path": "/y6aYdxRT0rO7R3l0rdC4vTg0ZNI.jpg",
+        "cast_id": 10,
+        "character": "Alkimos",
+        "credit_id": "6a5c67dd458c458cef212f62",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3135567,
+        "known_for_department": "Acting",
+        "name": "Ashton Rogers",
+        "original_name": "Ashton Rogers",
+        "popularity": 0.5072,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Eurylochus",
+        "credit_id": "6a6b568196d47e90c5d2f5e4",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2953599,
+        "known_for_department": "Acting",
+        "name": "Angelo Kern",
+        "original_name": "Angelo Kern",
+        "popularity": 0.5714,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Lycaon",
+        "credit_id": "6a5c67a16b4bb43e8cfadd8a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2831424,
+        "known_for_department": "Sound",
+        "name": "Martin Richard Chappell",
+        "original_name": "Martin Richard Chappell",
+        "popularity": 0.6011,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Narrator",
+        "credit_id": "6a6b09e2f7b77936e827dc52",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 228632,
+        "known_for_department": "Directing",
+        "name": "Marcel Walz",
+        "original_name": "Marcel Walz",
+        "popularity": 1.1487,
+        "profile_path": "/zorcLcvnUGTa4hirNuOhvYcg7lF.jpg",
+        "credit_id": "6a0d17dc8b248cb4c86a3e7d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2008336,
+        "known_for_department": "Writing",
+        "name": "Joshua Pruett",
+        "original_name": "Joshua Pruett",
+        "popularity": 0.7696,
+        "profile_path": null,
+        "credit_id": "6a0d17fea4d5e72a47833525",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131286,
+        "known_for_department": "Directing",
+        "name": "Mark David",
+        "original_name": "Mark David",
+        "popularity": 0.6306,
+        "profile_path": "/cmNYk1fozoQe1vxM6uPGfIeSYpN.jpg",
+        "credit_id": "6a5c682941e76e029293da36",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9812,
+        "known_for_department": "Writing",
+        "name": "Homer",
+        "original_name": "Homer",
+        "popularity": 1.3621,
+        "profile_path": "/sa8ZwKAApWurh2QW87miNQcv6iA.jpg",
+        "credit_id": "6a78d6177b98dda1e2b4eeb5",
+        "department": "Crew",
+        "job": "Poem"
+      }
+    ]
+  }
+}

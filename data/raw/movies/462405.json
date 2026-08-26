@@ -1,0 +1,100 @@
+{
+  "adult": false,
+  "backdrop_path": "/8nemIwb5qVnnFTkiPK9WHNe7s1w.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 462405,
+  "imdb_id": "tt7020272",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Zakir Khan: Haq Se Single",
+  "overview": "In Haq Se Single, Zakir's narrative takes you through his own journey of becoming the ultimate #SakhtLaunda. The guy who's survived rejection, love, heart breaks and adulthood - who's single and proud of it!",
+  "popularity": 0.6698,
+  "poster_path": "/ybNEKl4BMLCjlAxCok6t8DHb9x0.jpg",
+  "production_companies": [
+    {
+      "id": 90529,
+      "logo_path": null,
+      "name": "OML Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2017-07-09",
+  "revenue": 0,
+  "runtime": 92,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Zakir Khan: Haq Se Single",
+  "video": false,
+  "vote_average": 8.273,
+  "vote_count": 22,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1835237,
+        "known_for_department": "Writing",
+        "name": "Zakir Khan",
+        "original_name": "Zakir Khan",
+        "popularity": 0.9698,
+        "profile_path": "/eKhj8gb45jNDOG9Gpv4l7wZZ2dW.jpg",
+        "cast_id": 2,
+        "character": "Self",
+        "credit_id": "59468072c3a36816e4027fd3",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1835235,
+        "known_for_department": "Directing",
+        "name": "Angshuman Ghosh",
+        "original_name": "Angshuman Ghosh",
+        "popularity": 0.4753,
+        "profile_path": "/32q8EGnH45NJriJn6u7doRSfcZq.jpg",
+        "credit_id": "5946804b9251413ff4028bc7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1835237,
+        "known_for_department": "Writing",
+        "name": "Zakir Khan",
+        "original_name": "Zakir Khan",
+        "popularity": 0.9698,
+        "profile_path": "/eKhj8gb45jNDOG9Gpv4l7wZZ2dW.jpg",
+        "credit_id": "59468059c3a368170f029e30",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

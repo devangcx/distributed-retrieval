@@ -1,0 +1,423 @@
+{
+  "adult": false,
+  "backdrop_path": "/3emn7fR8QWUtIvT1qo3pUwTrDly.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 39001,
+  "imdb_id": "tt0112444",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "My Teacher's Wife",
+  "overview": "Todd Boomer is a college student aspiring to get into University. His chances are looking poor when his maths teacher, fails him in every maths test. Help arrives in the guise of the gorgeous Vicki, a mathematical genius who decides to tutor Todd. As the relationship develops,Todd finds himself in an affair with Vicki unknowing of her marriage to his math teacher.",
+  "popularity": 2.9133,
+  "poster_path": "/4esN7mSfMoDUF9Y3fWP0TeUvZW4.jpg",
+  "production_companies": [
+    {
+      "id": 4063,
+      "logo_path": "/psOuT9ReSYhcBEB5ptnw7D2FdsE.png",
+      "name": "Trimark Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 11343,
+      "logo_path": null,
+      "name": "Fried Films",
+      "origin_country": ""
+    },
+    {
+      "id": 11308,
+      "logo_path": "/txpvD9MPdBfC7B1Z9qn0MHfzyLV.png",
+      "name": "Savoy Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1999-11-10",
+  "revenue": 0,
+  "runtime": 89,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Todd Boomer is embracing his homework like never before!",
+  "title": "My Teacher's Wife",
+  "video": false,
+  "vote_average": 5.122,
+  "vote_count": 45,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52474,
+        "known_for_department": "Acting",
+        "name": "Jason London",
+        "original_name": "Jason London",
+        "popularity": 1.9295,
+        "profile_path": "/bFkC2ZRcurTQzbjBuuMljFCKfEv.jpg",
+        "cast_id": 1,
+        "character": "Todd Boomer",
+        "credit_id": "52fe46f19251416c91064e15",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13445,
+        "known_for_department": "Acting",
+        "name": "Tia Carrere",
+        "original_name": "Tia Carrere",
+        "popularity": 3.0591,
+        "profile_path": "/keNGO3NAGVhiFzHhGPjGw4TzqJ5.jpg",
+        "cast_id": 2,
+        "character": "Vicky Mueller",
+        "credit_id": "52fe46f19251416c91064e19",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 42377,
+        "known_for_department": "Acting",
+        "name": "Alexondra Lee",
+        "original_name": "Alexondra Lee",
+        "popularity": 0.6835,
+        "profile_path": "/lEbjSMcwMJ7QbIO2v6xSQ7wudQ6.jpg",
+        "cast_id": 3,
+        "character": "Kirsten Beck",
+        "credit_id": "52fe46f19251416c91064e1d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6212,
+        "known_for_department": "Acting",
+        "name": "Zak Orth",
+        "original_name": "Zak Orth",
+        "popularity": 1.818,
+        "profile_path": "/ldywlWMt89PO3qLDL174TpTc0ce.jpg",
+        "cast_id": 5,
+        "character": "Paul Faber",
+        "credit_id": "52fe46f19251416c91064e27",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19469,
+        "known_for_department": "Acting",
+        "name": "Leslie Lyles",
+        "original_name": "Leslie Lyles",
+        "popularity": 0.8691,
+        "profile_path": "/pTEfzFH2gaWoabfVoCTZmetXlf0.jpg",
+        "cast_id": 6,
+        "character": "Elaine Boomer",
+        "credit_id": "52fe46f19251416c91064e2b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4175,
+        "known_for_department": "Acting",
+        "name": "Jeffrey Tambor",
+        "original_name": "Jeffrey Tambor",
+        "popularity": 2.5018,
+        "profile_path": "/e4IkxsEo5O4oUWrIpXlEhWa6lqB.jpg",
+        "cast_id": 7,
+        "character": "Jack Boomer",
+        "credit_id": "52fe46f19251416c91064e2f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4443,
+        "known_for_department": "Acting",
+        "name": "Christopher McDonald",
+        "original_name": "Christopher McDonald",
+        "popularity": 3.4996,
+        "profile_path": "/gK1XhbfD9Xd8s3VXRPpgDCluyZp.jpg",
+        "cast_id": 8,
+        "character": "Roy Mueller",
+        "credit_id": "52fe46f19251416c91064e33",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 73403,
+        "known_for_department": "Acting",
+        "name": "Joanna Canton",
+        "original_name": "Joanna Canton",
+        "popularity": 0.7802,
+        "profile_path": "/cXUeE9tR26Mnu5vb6bsWWGblBsI.jpg",
+        "cast_id": 9,
+        "character": "Kim O'Brien",
+        "credit_id": "52fe46f19251416c91064e37",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 171167,
+        "known_for_department": "Acting",
+        "name": "Phyllis Yvonne Stickney",
+        "original_name": "Phyllis Yvonne Stickney",
+        "popularity": 0.8581,
+        "profile_path": "/dN1s9eHgBnZNgS3nkUawTjSPzUV.jpg",
+        "cast_id": 26,
+        "character": "Harvard Officer",
+        "credit_id": "64574db86aa8e00156462728",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 198148,
+        "known_for_department": "Directing",
+        "name": "Bruce Leddy",
+        "original_name": "Bruce Leddy",
+        "popularity": 0.6171,
+        "profile_path": null,
+        "credit_id": "52fe46f19251416c91064e23",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 160077,
+        "known_for_department": "Writing",
+        "name": "Seth Greenland",
+        "original_name": "Seth Greenland",
+        "popularity": 0.5155,
+        "profile_path": null,
+        "credit_id": "547f6662c3a3683d940001e6",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1416673,
+        "known_for_department": "Directing",
+        "name": "Rebecca Long",
+        "original_name": "Rebecca Long",
+        "popularity": 0.3939,
+        "profile_path": null,
+        "credit_id": "5558a7a3c3a368776c008312",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1468127,
+        "known_for_department": "Art",
+        "name": "Natalie Wilson",
+        "original_name": "Natalie Wilson",
+        "popularity": 0.4586,
+        "profile_path": null,
+        "credit_id": "5558a7449251412de8000077",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6480,
+        "known_for_department": "Art",
+        "name": "Eve Cauley",
+        "original_name": "Eve Cauley",
+        "popularity": 0.4995,
+        "profile_path": null,
+        "credit_id": "5558a7309251412de8000073",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54797,
+        "known_for_department": "Production",
+        "name": "Robert N. Fried",
+        "original_name": "Robert N. Fried",
+        "popularity": 0.5682,
+        "profile_path": null,
+        "credit_id": "5558a6ac92514129b7002355",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2952,
+        "known_for_department": "Production",
+        "name": "Avy Kaufman",
+        "original_name": "Avy Kaufman",
+        "popularity": 1.1666,
+        "profile_path": "/9hh0HIAmLgPqMTn1keJvh1MF1DR.jpg",
+        "credit_id": "5558a71ac3a368777200923a",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27569,
+        "known_for_department": "Editing",
+        "name": "Norman Hollyn",
+        "original_name": "Norman Hollyn",
+        "popularity": 0.3686,
+        "profile_path": null,
+        "credit_id": "5558a70992514133f4002075",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 72108,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Laura Goldsmith",
+        "original_name": "Laura Goldsmith",
+        "popularity": 0.3745,
+        "profile_path": null,
+        "credit_id": "5558a77292514129b7002361",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1468126,
+        "known_for_department": "Sound",
+        "name": "Kevin Gilbert",
+        "original_name": "Kevin Gilbert",
+        "popularity": 0.3973,
+        "profile_path": null,
+        "credit_id": "5558a6df92514133f400206c",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1437639,
+        "known_for_department": "Production",
+        "name": "Richard J. Zinman",
+        "original_name": "Richard J. Zinman",
+        "popularity": 0.346,
+        "profile_path": null,
+        "credit_id": "5558a6c8c3a3687779008006",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1468128,
+        "known_for_department": "Crew",
+        "name": "Skye Dent",
+        "original_name": "Skye Dent",
+        "popularity": 0.4107,
+        "profile_path": null,
+        "credit_id": "5558a7bdc3a36877820099cd",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1304697,
+        "known_for_department": "Camera",
+        "name": "Zoltán David",
+        "original_name": "Zoltán David",
+        "popularity": 0.4591,
+        "profile_path": null,
+        "credit_id": "5558a6f09251411e5b008880",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 21162,
+        "known_for_department": "Art",
+        "name": "Marthe Pineau",
+        "original_name": "Marthe Pineau",
+        "popularity": 0.4148,
+        "profile_path": null,
+        "credit_id": "5558a75ac3a368777e008824",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1484966,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Anne Morgan",
+        "original_name": "Anne Morgan",
+        "popularity": 0.6048,
+        "profile_path": "/i4OXPeBd0RTM1MwJsufZ4aVCccr.jpg",
+        "credit_id": "5da1e6b3b84f940015996657",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51689,
+        "known_for_department": "Production",
+        "name": "Stan Wlodkowski",
+        "original_name": "Stan Wlodkowski",
+        "popularity": 0.6794,
+        "profile_path": null,
+        "credit_id": "5da1e675e860170014ad33d1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1521518,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Kathryn Bihr",
+        "original_name": "Kathryn Bihr",
+        "popularity": 0.498,
+        "profile_path": null,
+        "credit_id": "5da1e6a7e860170014ad3458",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      }
+    ]
+  }
+}

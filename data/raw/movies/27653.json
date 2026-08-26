@@ -1,0 +1,444 @@
+{
+  "adult": false,
+  "backdrop_path": "/jy18bZ82yg8db16uRfIbPX44szv.jpg",
+  "belongs_to_collection": {
+    "id": 8783,
+    "name": "An American Tail Collection",
+    "poster_path": "/spEFy5eHaNuINNHhwtCWKy1bBiY.jpg",
+    "backdrop_path": "/WRgAzhlujb9BRnSj97TZVMIvpz.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 27653,
+  "imdb_id": "tt0197230",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "An American Tail: The Mystery of the Night Monster",
+  "overview": "Follow the clues to fun and excitement as the beloved little mouse takes on a big monster in this charming, full-length adventure. When a ferocious, mouse-nabbing creature puts fear into the hearts of New York City's rodents, Fievel and his friends team up with a reporter to chase after the scoop of the century and -- just maybe -- get a close-up look at the bad guy himself!",
+  "popularity": 3.0606,
+  "poster_path": "/oTV5TwZ4i6wDcWxoNpczk4CQBbM.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 4285,
+      "logo_path": "/2lYBhGMYUUUToRssPb2Oxka5MrP.png",
+      "name": "Universal Cartoon Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1999-10-06",
+  "revenue": 0,
+  "runtime": 78,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "An American Tail: The Mystery of the Night Monster",
+  "video": false,
+  "vote_average": 6.319,
+  "vote_count": 155,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34199,
+        "known_for_department": "Acting",
+        "name": "Thomas Dekker",
+        "original_name": "Thomas Dekker",
+        "popularity": 1.9428,
+        "profile_path": "/vO72HH4PfesrCwEioBJn2gR6ebC.jpg",
+        "cast_id": 2,
+        "character": "Fievel Mousekewitz (voice)",
+        "credit_id": "52fe455dc3a368484e055d21",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 22082,
+        "known_for_department": "Acting",
+        "name": "Lacey Chabert",
+        "original_name": "Lacey Chabert",
+        "popularity": 4.0478,
+        "profile_path": "/1q9Xe7QVi5oayhPMEiRPgd6FFKG.jpg",
+        "cast_id": 3,
+        "character": "Tanya Mousekewitz (voice)",
+        "credit_id": "52fe455dc3a368484e055d25",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 193140,
+        "known_for_department": "Acting",
+        "name": "Jane Singer",
+        "original_name": "Jane Singer",
+        "popularity": 0.5151,
+        "profile_path": "/qDM8MO6l0Dlk9pWQ1tD0LvUcERj.jpg",
+        "cast_id": 4,
+        "character": "Mama Mousekewitz (voice)",
+        "credit_id": "52fe455dc3a368484e055d29",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3160,
+        "known_for_department": "Acting",
+        "name": "Nehemiah Persoff",
+        "original_name": "Nehemiah Persoff",
+        "popularity": 1.247,
+        "profile_path": "/vJoqhr7HVxP9HLTqt2rxo5OsSvq.jpg",
+        "cast_id": 5,
+        "character": "Papa Mousekewitz (voice)",
+        "credit_id": "52fe455dc3a368484e055d2d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1052214,
+        "known_for_department": "Acting",
+        "name": "Susan Boyd",
+        "original_name": "Susan Boyd",
+        "popularity": 0.7915,
+        "profile_path": "/13hsDXQ319OQEP1bJpknx5opAR0.jpg",
+        "cast_id": 6,
+        "character": "Nellie Brie (voice)",
+        "credit_id": "52fe455dc3a368484e055d31",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14416,
+        "known_for_department": "Acting",
+        "name": "Robert Hays",
+        "original_name": "Robert Hays",
+        "popularity": 1.5501,
+        "profile_path": "/pqu0hSAdHGItjP0iqkbTg4Ocv9w.jpg",
+        "cast_id": 7,
+        "character": "Reed Daley (voice)",
+        "credit_id": "52fe455dc3a368484e055d35",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35349,
+        "known_for_department": "Acting",
+        "name": "Pat Musick",
+        "original_name": "Pat Musick",
+        "popularity": 1.1023,
+        "profile_path": "/rGny7ACgjXXKWZc6Sajyuhe40Xj.jpg",
+        "cast_id": 8,
+        "character": "Tony Toponi (voice)",
+        "credit_id": "52fe455dc3a368484e055d39",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6844,
+        "known_for_department": "Acting",
+        "name": "Dom DeLuise",
+        "original_name": "Dom DeLuise",
+        "popularity": 2.115,
+        "profile_path": "/lM8TIK0ngNjBnYp5aJUD3BC6qES.jpg",
+        "cast_id": 9,
+        "character": "Tiger (voice)",
+        "credit_id": "52fe455dc3a368484e055d3d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 95257,
+        "known_for_department": "Acting",
+        "name": "Candi Milo",
+        "original_name": "Candi Milo",
+        "popularity": 1.8006,
+        "profile_path": "/tUjXMG2118Oagj7IjWJDEdmtCRW.jpg",
+        "cast_id": 18,
+        "character": "Madame Mousey (voice)",
+        "credit_id": "5678767992514111870007c5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34982,
+        "known_for_department": "Acting",
+        "name": "Jeff Bennett",
+        "original_name": "Jeff Bennett",
+        "popularity": 2.8161,
+        "profile_path": "/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg",
+        "cast_id": 11,
+        "character": "Slug (voice)",
+        "credit_id": "52fe455dc3a368484e055d45",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35158,
+        "known_for_department": "Acting",
+        "name": "John Mariano",
+        "original_name": "John Mariano",
+        "popularity": 1.1744,
+        "profile_path": "/WJbEhM4040D2XBb1ko7OHR7t2q.jpg",
+        "cast_id": 12,
+        "character": "Twitch (voice)",
+        "credit_id": "52fe455dc3a368484e055d49",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 167667,
+        "known_for_department": "Acting",
+        "name": "Joe Lala",
+        "original_name": "Joe Lala",
+        "popularity": 0.7381,
+        "profile_path": "/pIdGG4DyptUAe0BiQk2SPAQXEL.jpg",
+        "cast_id": 13,
+        "character": "Bootlick (voice)",
+        "credit_id": "52fe455dc3a368484e055d4d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54859,
+        "known_for_department": "Acting",
+        "name": "Sherman Howard",
+        "original_name": "Sherman Howard",
+        "popularity": 1.0611,
+        "profile_path": "/oaFzlV0kddSSSelh4VSIJaKt7Gf.jpg",
+        "cast_id": 14,
+        "character": "Haggis (voice)",
+        "credit_id": "52fe455dc3a368484e055d51",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 167656,
+        "known_for_department": "Acting",
+        "name": "John Garry",
+        "original_name": "John Garry",
+        "popularity": 0.5471,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Lone Woof (voice)",
+        "credit_id": "52fe455dc3a368484e055d55",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 108097,
+        "known_for_department": "Directing",
+        "name": "Larry Latham",
+        "original_name": "Larry Latham",
+        "popularity": 0.6165,
+        "profile_path": "/7Ejy1kBlYns1XCMrmPkliqJla9A.jpg",
+        "credit_id": "52fe455dc3a368484e055d1d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13596,
+        "known_for_department": "Production",
+        "name": "David Kirschner",
+        "original_name": "David Kirschner",
+        "popularity": 1.1586,
+        "profile_path": "/fFrozlPmX6rsBaTes0n3eTHQEbM.jpg",
+        "credit_id": "52fe455dc3a368484e055d5b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 160097,
+        "known_for_department": "Writing",
+        "name": "Len Uhley",
+        "original_name": "Len Uhley",
+        "popularity": 0.6527,
+        "profile_path": null,
+        "credit_id": "52fe455dc3a368484e055d61",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58289,
+        "known_for_department": "Sound",
+        "name": "Michael Tavera",
+        "original_name": "Michael Tavera",
+        "popularity": 0.6712,
+        "profile_path": "/iMuERxeiLH9xL826VWx0gFq4ru1.jpg",
+        "credit_id": "6664af5af37d0694b2e998c8",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1616207,
+        "known_for_department": "Production",
+        "name": "Victor Villegas",
+        "original_name": "Victor Villegas",
+        "popularity": 0.2595,
+        "profile_path": null,
+        "credit_id": "5e7fe5f41d6c5f00141be78a",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 108097,
+        "known_for_department": "Directing",
+        "name": "Larry Latham",
+        "original_name": "Larry Latham",
+        "popularity": 0.6165,
+        "profile_path": "/7Ejy1kBlYns1XCMrmPkliqJla9A.jpg",
+        "credit_id": "5e7fe594ce5d820017e8a2ae",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2570741,
+        "known_for_department": "Acting",
+        "name": "Barbara Beck",
+        "original_name": "Barbara Beck",
+        "popularity": 0.3035,
+        "profile_path": null,
+        "credit_id": "5e7fe5d4ce5d820014e8a924",
+        "department": "Production",
+        "job": "Executive In Charge Of Production"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19548,
+        "known_for_department": "Acting",
+        "name": "Susan Blu",
+        "original_name": "Susan Blu",
+        "popularity": 1.2882,
+        "profile_path": "/xDtrH8YqqVc11kAUThxG80AaaHP.jpg",
+        "credit_id": "5e7fe5bea127e500145578aa",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 90868,
+        "known_for_department": "Editing",
+        "name": "Jay Bixsen",
+        "original_name": "Jay Bixsen",
+        "popularity": 0.5544,
+        "profile_path": null,
+        "credit_id": "5e7fe5b21d6c5f00161bd790",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1219426,
+        "known_for_department": "Production",
+        "name": "Patty Jausoro",
+        "original_name": "Patty Jausoro",
+        "popularity": 0.3488,
+        "profile_path": null,
+        "credit_id": "5e7fe5e3a127e5001855451f",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 108097,
+        "known_for_department": "Directing",
+        "name": "Larry Latham",
+        "original_name": "Larry Latham",
+        "popularity": 0.6165,
+        "profile_path": "/7Ejy1kBlYns1XCMrmPkliqJla9A.jpg",
+        "credit_id": "5e7fe622a4f03c0012b5964b",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94028,
+        "known_for_department": "Production",
+        "name": "Robert Taylor",
+        "original_name": "Robert Taylor",
+        "popularity": 0.6028,
+        "profile_path": "/6FcK6D1kj4TTOyh6TJHaLCFKq7V.jpg",
+        "credit_id": "5e7fe64676484100133c4dae",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      }
+    ]
+  }
+}

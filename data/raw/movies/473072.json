@@ -1,0 +1,313 @@
+{
+  "adult": false,
+  "backdrop_path": "/pMYSFleKKpLGhIbTiqd3o5r96jo.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 473072,
+  "imdb_id": "tt7326248",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "2036: Nexus Dawn",
+  "overview": "This in-world short film takes place in the year 2036 and revolves around Jared Leto’s character, Niander Wallace. In this short, Wallace introduces a new line of “perfected” replicants called the Nexus 9, seeking to get the prohibition on replicants repealed. This no doubt has serious ramifications that will be crucial to the plot of Blade Runner 2049.",
+  "popularity": 2.5055,
+  "poster_path": "/qPci3811kFmPPEevGrnjeKWokD4.jpg",
+  "production_companies": [
+    {
+      "id": 1088,
+      "logo_path": "/9WOE5AQUXbOtLU6GTwfjS8OMF0v.png",
+      "name": "Alcon Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 4545,
+      "logo_path": "/k9dErisrlWRJLvIkJYgKrIZVSnO.png",
+      "name": "RSA Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 94364,
+      "logo_path": null,
+      "name": "3AM",
+      "origin_country": ""
+    },
+    {
+      "id": 1645,
+      "logo_path": "/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png",
+      "name": "Scott Free Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2017-08-30",
+  "revenue": 0,
+  "runtime": 7,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "2036: Nexus Dawn",
+  "video": false,
+  "vote_average": 6.856,
+  "vote_count": 423,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7499,
+        "known_for_department": "Acting",
+        "name": "Jared Leto",
+        "original_name": "Jared Leto",
+        "popularity": 4.4228,
+        "profile_path": "/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg",
+        "cast_id": 0,
+        "character": "Niander Wallace",
+        "credit_id": "59a5980d9251412f3e00eda6",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30082,
+        "known_for_department": "Acting",
+        "name": "Benedict Wong",
+        "original_name": "Benedict Wong",
+        "popularity": 4.7087,
+        "profile_path": "/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg",
+        "cast_id": 2,
+        "character": "Lawmaker",
+        "credit_id": "59a59e35c3a368403b00f5da",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 110322,
+        "known_for_department": "Acting",
+        "name": "Ania Marson",
+        "original_name": "Ania Marson",
+        "popularity": 0.922,
+        "profile_path": "/mqHopPpXsCkwbxq7A2oDPcs80CR.jpg",
+        "cast_id": 17,
+        "character": "Lawmaker No. 4",
+        "credit_id": "59cda0fa9251416c6d003ef9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63362,
+        "known_for_department": "Acting",
+        "name": "Ned Dennehy",
+        "original_name": "Ned Dennehy",
+        "popularity": 1.9638,
+        "profile_path": "/gSEtkD9YwYnIPbnagDc797kMVJ2.jpg",
+        "cast_id": 15,
+        "character": "Lawmaker No. 2",
+        "credit_id": "59cda0dec3a3686a23003ff6",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1006807,
+        "known_for_department": "Acting",
+        "name": "Ade Sapara",
+        "original_name": "Ade Sapara",
+        "popularity": 0.5248,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Lawmaker No. 3",
+        "credit_id": "59cda0eb9251416c77003cb3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1883460,
+        "known_for_department": "Acting",
+        "name": "Set Sjöstrand",
+        "original_name": "Set Sjöstrand",
+        "popularity": 0.6905,
+        "profile_path": "/eBGpOwqhNRZ8XKCObY2105purPW.jpg",
+        "cast_id": 11,
+        "character": "Nexus-9 Replicant",
+        "credit_id": "59b12bd69251417e4002fc51",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 190090,
+        "known_for_department": "Directing",
+        "name": "Luke Scott",
+        "original_name": "Luke Scott",
+        "popularity": 0.6489,
+        "profile_path": "/uijtW2Hkrrs8Cs9udxLPfSyJ4Ry.jpg",
+        "credit_id": "59a59828c3a368405600ef47",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 578,
+        "known_for_department": "Directing",
+        "name": "Ridley Scott",
+        "original_name": "Ridley Scott",
+        "popularity": 4.5114,
+        "profile_path": "/97SO7H0UlS3racqjeW5JTy8c6GM.jpg",
+        "credit_id": "59a7547e92514157f60077bf",
+        "department": "Writing",
+        "job": "Screenstory"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 191937,
+        "known_for_department": "Writing",
+        "name": "Michael Green",
+        "original_name": "Michael Green",
+        "popularity": 1.5179,
+        "profile_path": "/A7zyzx1U5Fc5Cq979WkbEVpSepy.jpg",
+        "credit_id": "59a754b192514157c60075ca",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39515,
+        "known_for_department": "Production",
+        "name": "Jules Daly",
+        "original_name": "Jules Daly",
+        "popularity": 0.5305,
+        "profile_path": null,
+        "credit_id": "59a754c492514157a50077f4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1879585,
+        "known_for_department": "Production",
+        "name": "Hannah Ireland",
+        "original_name": "Hannah Ireland",
+        "popularity": 0.3459,
+        "profile_path": null,
+        "credit_id": "59a754ec92514157f6007865",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1879586,
+        "known_for_department": "Editing",
+        "name": "Nick Temple",
+        "original_name": "Nick Temple",
+        "popularity": 0.2609,
+        "profile_path": null,
+        "credit_id": "59a75511925141579d00793b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1879584,
+        "known_for_department": "Crew",
+        "name": "Chris Eyerman",
+        "original_name": "Chris Eyerman",
+        "popularity": 0.287,
+        "profile_path": null,
+        "credit_id": "59a754e0c3a3683c4d00754f",
+        "department": "Crew",
+        "job": "Creative Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 578,
+        "known_for_department": "Directing",
+        "name": "Ridley Scott",
+        "original_name": "Ridley Scott",
+        "popularity": 4.5114,
+        "profile_path": "/97SO7H0UlS3racqjeW5JTy8c6GM.jpg",
+        "credit_id": "59a7548792514158080079f5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1033055,
+        "known_for_department": "Crew",
+        "name": "Robert Pik",
+        "original_name": "Robert Pik",
+        "popularity": 0.2895,
+        "profile_path": null,
+        "credit_id": "59c7c14a9251415b8705751d",
+        "department": "Crew",
+        "job": "Compositors"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 583,
+        "known_for_department": "Acting",
+        "name": "Hampton Fancher",
+        "original_name": "Hampton Fancher",
+        "popularity": 1.1448,
+        "profile_path": "/4kyGARNdkYefnPfUG7KrcPuSd8H.jpg",
+        "credit_id": "59bef78992514147560070ba",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25744,
+        "known_for_department": "Camera",
+        "name": "Pierre Gill",
+        "original_name": "Pierre Gill",
+        "popularity": 0.5319,
+        "profile_path": "/3ArCxrQdXL1s7l16EsOvbPxsZpd.jpg",
+        "credit_id": "699a909b7bfe84d275fc2313",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

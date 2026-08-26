@@ -1,0 +1,516 @@
+{
+  "adult": false,
+  "backdrop_path": "/Afyi0GsowUlLs39yBStYHti03db.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 38440,
+  "imdb_id": "tt0495032",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Gangster",
+  "overview": "An alcoholic barmaid is distraught when her former lover, a notorious gangster, re-enters her life. She is forced to relive painful past experiences and choose between the gangster and a pleasant singer she has found comfort in.",
+  "popularity": 1.4601,
+  "poster_path": "/uZzJxx7ETfZVV1rVNKmNVCKaiji.jpg",
+  "production_companies": [
+    {
+      "id": 116165,
+      "logo_path": null,
+      "name": "Bhatt Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 3749,
+      "logo_path": "/54N3BYPtuETnYumu6gjv97dg6H8.png",
+      "name": "Vishesh Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2006-04-28",
+  "revenue": 0,
+  "runtime": 120,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "She fell in love with him the day she betrayed him...",
+  "title": "Gangster",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 50,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85470,
+        "known_for_department": "Acting",
+        "name": "Kangana Ranaut",
+        "original_name": "Kangana Ranaut",
+        "popularity": 1.0218,
+        "profile_path": "/GmIRKLKP3xEx1mgF7VrFurIEbz.jpg",
+        "cast_id": 15,
+        "character": "Simran",
+        "credit_id": "52fe46ba9251416c9105daf5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85969,
+        "known_for_department": "Acting",
+        "name": "Emraan Hashmi",
+        "original_name": "इमरान हाशमी",
+        "popularity": 2.2624,
+        "profile_path": "/kflgvFCFZnpTRbKmJWn5T0G5EKI.jpg",
+        "cast_id": 10,
+        "character": "Akash",
+        "credit_id": "52fe46ba9251416c9105dae5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55064,
+        "known_for_department": "Acting",
+        "name": "Shiney Ahuja",
+        "original_name": "Shiney Ahuja",
+        "popularity": 0.7196,
+        "profile_path": "/w0HPmQoxelpCLqTxhlsEMAtPn5T.jpg",
+        "cast_id": 11,
+        "character": "Daya Shankar",
+        "credit_id": "52fe46ba9251416c9105dae9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4251398,
+        "known_for_department": "Acting",
+        "name": "Hitanshu Lodhiya",
+        "original_name": "Hitanshu Lodhiya",
+        "popularity": 0.4154,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Bittu",
+        "credit_id": "64f4c2685f2b8d011b4e841b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86223,
+        "known_for_department": "Acting",
+        "name": "Vicky Ahuja",
+        "original_name": "Vicky Ahuja",
+        "popularity": 0.5896,
+        "profile_path": "/l64U51yETyga2XbQnkgAkERvneh.jpg",
+        "cast_id": 14,
+        "character": "Usman",
+        "credit_id": "52fe46ba9251416c9105daf1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42208,
+        "known_for_department": "Acting",
+        "name": "Gulshan Grover",
+        "original_name": "Gulshan Grover",
+        "popularity": 1.1555,
+        "profile_path": "/hmGFOgCnYVUpeY1gTc0gx4QUCOF.jpg",
+        "cast_id": 13,
+        "character": "Khan Bhai",
+        "credit_id": "52fe46ba9251416c9105daed",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2142208,
+        "known_for_department": "Sound",
+        "name": "Zubeen Garg",
+        "original_name": "Zubeen Garg",
+        "popularity": 0.5787,
+        "profile_path": "/BUyjR6sTkn34qWvvZxmTOzvOil.jpg",
+        "cast_id": 17,
+        "character": "Special Apperannce \"Ya Ali\" Song",
+        "credit_id": "5daafdef9661fc001241c02b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71273,
+        "known_for_department": "Sound",
+        "name": "Pritam Chakraborty",
+        "original_name": "Pritam Chakraborty",
+        "popularity": 0.7956,
+        "profile_path": "/zS8kE2DWQBTQ7ArSSZiWg0OTXvo.jpg",
+        "cast_id": 18,
+        "character": "Special Appearance in \"Bheegi Bheegi\" Song",
+        "credit_id": "5dc4f6287d2bc100133f7217",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88802,
+        "known_for_department": "Production",
+        "name": "Mukesh Bhatt",
+        "original_name": "Mukesh Bhatt",
+        "popularity": 0.739,
+        "profile_path": "/yHEtla0qYbPGXGXSaYGIlKWERLT.jpg",
+        "credit_id": "52fe46ba9251416c9105dabd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 120478,
+        "known_for_department": "Editing",
+        "name": "Akiv Ali",
+        "original_name": "Akiv Ali",
+        "popularity": 0.3956,
+        "profile_path": null,
+        "credit_id": "52fe46ba9251416c9105dae1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85894,
+        "known_for_department": "Directing",
+        "name": "Mahesh Bhatt",
+        "original_name": "Mahesh Bhatt",
+        "popularity": 0.6913,
+        "profile_path": "/hEvDopJhOKbcEPdwcuz3e4b0w4m.jpg",
+        "credit_id": "52fe46ba9251416c9105dab7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119819,
+        "known_for_department": "Directing",
+        "name": "Anurag Basu",
+        "original_name": "Anurag Basu",
+        "popularity": 0.7788,
+        "profile_path": "/o1hGaRlxLaPrJ0CIhm6fMtmrudb.jpg",
+        "credit_id": "52fe46ba9251416c9105dab1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2142208,
+        "known_for_department": "Sound",
+        "name": "Zubeen Garg",
+        "original_name": "Zubeen Garg",
+        "popularity": 0.5787,
+        "profile_path": "/BUyjR6sTkn34qWvvZxmTOzvOil.jpg",
+        "credit_id": "5daafda2b2681f0014933284",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1244564,
+        "known_for_department": "Sound",
+        "name": "Sunidhi Chauhan",
+        "original_name": "Sunidhi Chauhan",
+        "popularity": 0.9595,
+        "profile_path": "/fFo6dqP4gIEXqJbkBdwIr3uGiOY.jpg",
+        "credit_id": "5dc4f8416f8d950013c1d889",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1125754,
+        "known_for_department": "Sound",
+        "name": "Kavita Seth",
+        "original_name": "Kavita Seth",
+        "popularity": 0.4204,
+        "profile_path": "/vQk0VgTzKAIK9O5HPZUwu9wNyTG.jpg",
+        "credit_id": "5dc4f83899259c00157d450b",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 120477,
+        "known_for_department": "Camera",
+        "name": "Bobby Singh",
+        "original_name": "Bobby Singh",
+        "popularity": 0.3183,
+        "profile_path": null,
+        "credit_id": "5dc4f66e99259c00157d40ff",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71273,
+        "known_for_department": "Sound",
+        "name": "Pritam Chakraborty",
+        "original_name": "Pritam Chakraborty",
+        "popularity": 0.7956,
+        "profile_path": "/zS8kE2DWQBTQ7ArSSZiWg0OTXvo.jpg",
+        "credit_id": "5dc4f67f99259c00157d4121",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1172651,
+        "known_for_department": "Production",
+        "name": "Vishesh Bhatt",
+        "original_name": "Vishesh Bhatt",
+        "popularity": 0.3266,
+        "profile_path": null,
+        "credit_id": "5dc4f64d99259c00157d40c8",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85398,
+        "known_for_department": "Crew",
+        "name": "Raju Khan",
+        "original_name": "Raju Khan",
+        "popularity": 0.5405,
+        "profile_path": null,
+        "credit_id": "5dc4f85b99259c00187cf008",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1209389,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Aashish Dwyer",
+        "original_name": "Aashish Dwyer",
+        "popularity": 0.2595,
+        "profile_path": null,
+        "credit_id": "5dc4f8637d2bc100173fa8fc",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85400,
+        "known_for_department": "Art",
+        "name": "Rajat Poddar",
+        "original_name": "Rajat Poddar",
+        "popularity": 0.4272,
+        "profile_path": null,
+        "credit_id": "5dc4f85499259c00137cc4d1",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119819,
+        "known_for_department": "Directing",
+        "name": "Anurag Basu",
+        "original_name": "Anurag Basu",
+        "popularity": 0.7788,
+        "profile_path": "/o1hGaRlxLaPrJ0CIhm6fMtmrudb.jpg",
+        "credit_id": "5dc4f6577d2bc100133f725c",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1758706,
+        "known_for_department": "Writing",
+        "name": "Neelesh Misra",
+        "original_name": "Neelesh Misra",
+        "popularity": 0.5764,
+        "profile_path": null,
+        "credit_id": "5dc4f6b1470ead00138f5f3b",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85894,
+        "known_for_department": "Directing",
+        "name": "Mahesh Bhatt",
+        "original_name": "Mahesh Bhatt",
+        "popularity": 0.6913,
+        "profile_path": "/hEvDopJhOKbcEPdwcuz3e4b0w4m.jpg",
+        "credit_id": "5dc4f65e6f8d950017c18096",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85404,
+        "known_for_department": "Writing",
+        "name": "Girish Dhamija",
+        "original_name": "Girish Dhamija",
+        "popularity": 0.4955,
+        "profile_path": null,
+        "credit_id": "5dc4f6657d2bc100133f7284",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1457344,
+        "known_for_department": "Writing",
+        "name": "Mayur Puri",
+        "original_name": "Mayur Puri",
+        "popularity": 0.5794,
+        "profile_path": "/2FmOyvojcm8TpvhD23306kZiTjS.jpg",
+        "credit_id": "5dc4f6a9ab1bc70015fe0aa6",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2081003,
+        "known_for_department": "Sound",
+        "name": "KK",
+        "original_name": "KK",
+        "popularity": 0.5916,
+        "profile_path": "/6z8DvUO334G9d25Fv7pZkmx6B75.jpg",
+        "credit_id": "5dc4f6c7ab1bc70015fe0bf9",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2229462,
+        "known_for_department": "Sound",
+        "name": "Abhijeet Bhattacharya",
+        "original_name": "Abhijeet Bhattacharya",
+        "popularity": 0.5855,
+        "profile_path": "/8sKwvkO1o1NHNO6JHh4SosTCoH8.jpg",
+        "credit_id": "5dc4f82f7d2bc100173fa88c",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2452041,
+        "known_for_department": "Writing",
+        "name": "Sayeed Quadri",
+        "original_name": "Sayeed Quadri",
+        "popularity": 0.4442,
+        "profile_path": "/vgi5EDuH6tV0pODuCEiC1QO8LwV.jpg",
+        "credit_id": "5dc4f6a1470ead00188f7f0e",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1746043,
+        "known_for_department": "Visual Effects",
+        "name": "Pranay Agarwal",
+        "original_name": "Pranay Agarwal",
+        "popularity": 0.4988,
+        "profile_path": null,
+        "credit_id": "5dc4f87eab1bc70015fe10af",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1798845,
+        "known_for_department": "Production",
+        "name": "Kumkum Saigal",
+        "original_name": "Kumkum Saigal",
+        "popularity": 0.3847,
+        "profile_path": null,
+        "credit_id": "5dc4f6457d2bc100133f723a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2061195,
+        "known_for_department": "Crew",
+        "name": "Parvez Khan",
+        "original_name": "Parvez Khan",
+        "popularity": 0.3771,
+        "profile_path": null,
+        "credit_id": "5dc4f875ab1bc70015fe108b",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "adult": false,
+  "backdrop_path": "/oukZHooYhO4zmu4WTSjqwCoAIt7.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81639669",
+  "id": 1491570,
+  "imdb_id": "tt32307524",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Shark Whisperer",
+  "overview": "Marine conservationist and social media activist Ocean Ramsey fearlessly swims with sharks in this documentary about her risky mission to protect them.",
+  "popularity": 3.4392,
+  "poster_path": "/v0WEubJKWTfqYX8laBGIPI07Z7t.jpg",
+  "production_companies": [
+    {
+      "id": 85984,
+      "logo_path": "/2CaCVxh0IbjIpLmqvLxyAHBVGaU.png",
+      "name": "Boardwalk Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-06-30",
+  "revenue": 0,
+  "runtime": 90,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Shark Whisperer",
+  "video": false,
+  "vote_average": 6.659,
+  "vote_count": 41,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1816923,
+        "known_for_department": "Acting",
+        "name": "Ocean Ramsey",
+        "original_name": "Ocean Ramsey",
+        "popularity": 0.4812,
+        "profile_path": "/o8b4joeTU2tWDUjXPc8YhCT1e1A.jpg",
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "683dcc15239983e783fdb500",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2427632,
+        "known_for_department": "Acting",
+        "name": "Juan Oliphant",
+        "original_name": "Juan Oliphant",
+        "popularity": 0.5123,
+        "profile_path": "/o6lupvLAWjZg3uH4Ko0TbxwxZpe.jpg",
+        "cast_id": 2,
+        "character": "Self",
+        "credit_id": "683dcc1b9fe1f55b3b689f5d",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3166491,
+        "known_for_department": "Production",
+        "name": "JP Stiles",
+        "original_name": "JP Stiles",
+        "popularity": 0.3176,
+        "profile_path": null,
+        "credit_id": "683dd564f24d849af5ad80fa",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3166490,
+        "known_for_department": "Production",
+        "name": "Harrison Macks",
+        "original_name": "Harrison Macks",
+        "popularity": 0.4193,
+        "profile_path": null,
+        "credit_id": "683dd56a70bfd2cb33538629",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1688115,
+        "known_for_department": "Directing",
+        "name": "James Reed",
+        "original_name": "James Reed",
+        "popularity": 0.844,
+        "profile_path": "/1lb8JzMC2XkR61nO6YyoKwdZYFT.jpg",
+        "credit_id": "683dd5703088da4be5ad82e8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1816923,
+        "known_for_department": "Acting",
+        "name": "Ocean Ramsey",
+        "original_name": "Ocean Ramsey",
+        "popularity": 0.4812,
+        "profile_path": "/o8b4joeTU2tWDUjXPc8YhCT1e1A.jpg",
+        "credit_id": "686303dd7b07a5ee89f18586",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

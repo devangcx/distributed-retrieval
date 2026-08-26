@@ -1,0 +1,381 @@
+{
+  "adult": false,
+  "backdrop_path": "/nyaLoFMMLbKE6YIHaeiBEX52ByW.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://tv.apple.com/movie/umc.cmc.30cyxu8by31op677sm0djtm72",
+  "id": 28069,
+  "imdb_id": "tt0283987",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "A Charlie Brown Valentine",
+  "overview": "Lovesick Charlie Brown hopes – still – to get a valentine from the Little Red-Haired Girl, as does Sally from Linus, Lucy from Schroeder and Peppermint Patty from Charlie Brown.",
+  "popularity": 4.3204,
+  "poster_path": "/u1k4R64qhezeMhfr6Lxq61WHSFV.jpg",
+  "production_companies": [
+    {
+      "id": 16340,
+      "logo_path": null,
+      "name": "Lee Mendelson Film Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 16341,
+      "logo_path": null,
+      "name": "Bill Melendez Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2002-02-14",
+  "revenue": 0,
+  "runtime": 25,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Charlie Brown Valentine",
+  "video": false,
+  "vote_average": 6.295,
+  "vote_count": 56,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124665,
+        "known_for_department": "Acting",
+        "name": "Wesley Singerman",
+        "original_name": "Wesley Singerman",
+        "popularity": 0.6239,
+        "profile_path": "/iypxTXlk2O5iwelGOYUuzcSz8TY.jpg",
+        "cast_id": 1,
+        "character": "Charlie Brown (voice)",
+        "credit_id": "63e8013dd388ae0080619e91",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 124670,
+        "known_for_department": "Acting",
+        "name": "Lauren Schaffel",
+        "original_name": "Lauren Schaffel",
+        "popularity": 0.4134,
+        "profile_path": "/8PCJjXfGMH0VTrR0DpHgMRCOvTl.jpg",
+        "cast_id": 2,
+        "character": "Lucy Van Pelt (voice)",
+        "credit_id": "63e8016e1277780079f1e1a3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113917,
+        "known_for_department": "Acting",
+        "name": "Corey Padnos",
+        "original_name": "Corey Padnos",
+        "popularity": 0.6642,
+        "profile_path": "/sDucFkxWSsZIUptOTH5ABztd7CS.jpg",
+        "cast_id": 3,
+        "character": "Linus Van Pelt (voice)",
+        "credit_id": "63e801821277780081a381e6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3916386,
+        "known_for_department": "Acting",
+        "name": "Emily Lalande",
+        "original_name": "Emily Lalande",
+        "popularity": 0.3157,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Peppermint Patty (voice)",
+        "credit_id": "63e801c1d388ae007d294e05",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1215381,
+        "known_for_department": "Acting",
+        "name": "Jessica D. Stone",
+        "original_name": "Jessica D. Stone",
+        "popularity": 0.3341,
+        "profile_path": "/rp4DnjddJdixtouQ6Rz66MP9oYf.jpg",
+        "cast_id": 5,
+        "character": "Marcie (voice)",
+        "credit_id": "63e801dda2e6020081fab90f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1174402,
+        "known_for_department": "Acting",
+        "name": "Nicolette Little",
+        "original_name": "Nicolette Little",
+        "popularity": 0.5947,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Sally (voice)",
+        "credit_id": "63e801f212777800ab947f9a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 75327,
+        "known_for_department": "Acting",
+        "name": "Christopher Johnson",
+        "original_name": "Christopher Johnson",
+        "popularity": 0.4413,
+        "profile_path": "/m8C3MUhvcptWnVw5fuk5XrK4pwx.jpg",
+        "cast_id": 7,
+        "character": "Schroeder (voice)",
+        "credit_id": "63e8020712777800ab947fa4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94011,
+        "known_for_department": "Visual Effects",
+        "name": "Bill Melendez",
+        "original_name": "Bill Melendez",
+        "popularity": 1.2022,
+        "profile_path": "/se2qF1kdaKTwDa69xjzA3j2gKaG.jpg",
+        "cast_id": 8,
+        "character": "Snoopy (voice)",
+        "credit_id": "63e8021c9512e100e3d094bb",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94011,
+        "known_for_department": "Visual Effects",
+        "name": "Bill Melendez",
+        "original_name": "Bill Melendez",
+        "popularity": 1.2022,
+        "profile_path": "/se2qF1kdaKTwDa69xjzA3j2gKaG.jpg",
+        "credit_id": "5a7ba952c3a3680f9c005696",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94011,
+        "known_for_department": "Visual Effects",
+        "name": "Bill Melendez",
+        "original_name": "Bill Melendez",
+        "popularity": 1.2022,
+        "profile_path": "/se2qF1kdaKTwDa69xjzA3j2gKaG.jpg",
+        "credit_id": "675c9d436c04dc336615ae20",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123946,
+        "known_for_department": "Production",
+        "name": "Lee Mendelson",
+        "original_name": "Lee Mendelson",
+        "popularity": 0.593,
+        "profile_path": "/4hqliDGi8BU8k468k2GKyDiaiSF.jpg",
+        "credit_id": "675c9d4c465ab5b3f6b01780",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123945,
+        "known_for_department": "Writing",
+        "name": "Charles M. Schulz",
+        "original_name": "Charles M. Schulz",
+        "popularity": 1.0783,
+        "profile_path": "/g10j0ZfIcy8O9QWby7zcvKMO02R.jpg",
+        "credit_id": "675c9d55465ab5b3f6b01787",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2284420,
+        "known_for_department": "Editing",
+        "name": "Warren Taylor",
+        "original_name": "Warren Taylor",
+        "popularity": 0.2404,
+        "profile_path": null,
+        "credit_id": "675c9d62e269c682230fe1a2",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2284420,
+        "known_for_department": "Editing",
+        "name": "Warren Taylor",
+        "original_name": "Warren Taylor",
+        "popularity": 0.2404,
+        "profile_path": null,
+        "credit_id": "675c9d6ad0b2f1868d1af5ce",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3194527,
+        "known_for_department": "Production",
+        "name": "Sandy Claxton Arnold",
+        "original_name": "Sandy Claxton Arnold",
+        "popularity": 0.3213,
+        "profile_path": null,
+        "credit_id": "675c9d78d0b2f1868d1af5d9",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3745154,
+        "known_for_department": "Visual Effects",
+        "name": "Dave Rodriguez",
+        "original_name": "Dave Rodriguez",
+        "popularity": 0.3103,
+        "profile_path": null,
+        "credit_id": "675c9d84d0b2f1868d1af5df",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1541617,
+        "known_for_department": "Production",
+        "name": "Carole Barnes",
+        "original_name": "Carole Barnes",
+        "popularity": 0.4087,
+        "profile_path": null,
+        "credit_id": "675c9d90d0b2f1868d1af5e4",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 197815,
+        "known_for_department": "Sound",
+        "name": "David Benoit",
+        "original_name": "David Benoit",
+        "popularity": 0.5773,
+        "profile_path": null,
+        "credit_id": "675c9dbad0b2f1868d1af5ee",
+        "department": "Sound",
+        "job": "Music Arranger"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124563,
+        "known_for_department": "Directing",
+        "name": "Larry Leichliter",
+        "original_name": "Larry Leichliter",
+        "popularity": 0.8193,
+        "profile_path": "/ynXUAeUASvr7tV0k6Vlg2gap46A.jpg",
+        "credit_id": "675c9de5465ab5b3f6b0178f",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1130340,
+        "known_for_department": "Acting",
+        "name": "Jason Mendelson",
+        "original_name": "Jason Mendelson",
+        "popularity": 0.5082,
+        "profile_path": null,
+        "credit_id": "675c9e00f1bf96dc2477f7f0",
+        "department": "Writing",
+        "job": "Story Developer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124657,
+        "known_for_department": "Acting",
+        "name": "Glenn Mendelson",
+        "original_name": "Glenn Mendelson",
+        "popularity": 0.3727,
+        "profile_path": "/dafpwl1fHhwPSb2xYFmMroZTwTG.jpg",
+        "credit_id": "675c9e0de269c682230fe1c3",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1662634,
+        "known_for_department": "Crew",
+        "name": "Paul Vitello",
+        "original_name": "Paul Vitello",
+        "popularity": 0.2836,
+        "profile_path": null,
+        "credit_id": "675c9e1cd0b2f1868d1af61b",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      }
+    ]
+  }
+}

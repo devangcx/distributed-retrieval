@@ -1,0 +1,430 @@
+{
+  "adult": false,
+  "backdrop_path": "/llXsPTScDIdQjgsescQyKaIZA6l.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 32636,
+  "imdb_id": "tt0111590",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Vanya on 42nd Street",
+  "overview": "An uninterrupted rehearsal of Chekhov's 'Uncle Vanya' plays out by a company of actors. The setting: their run-down theater with an unusable stage and crumbling ceiling. The play is shown act by act with the briefest of breaks to move props or for refreshments. The lack of costumes, real props and scenery is soon forgotten.",
+  "popularity": 2.5925,
+  "poster_path": "/sYkkHsqXyUcFoLbXt4WNwnRRpT1.jpg",
+  "production_companies": [
+    {
+      "id": 34237,
+      "logo_path": null,
+      "name": "Mayfair Entertainment International",
+      "origin_country": "GB"
+    },
+    {
+      "id": 251088,
+      "logo_path": null,
+      "name": "The Vanya Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 58,
+      "logo_path": "/voYCwlBHJQANtjvm5MNIkCF1dDH.png",
+      "name": "Sony Pictures Classics",
+      "origin_country": "US"
+    },
+    {
+      "id": 6705,
+      "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1994-10-19",
+  "revenue": 1746050,
+  "runtime": 120,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Vanya on 42nd Street",
+  "video": false,
+  "vote_average": 6.644,
+  "vote_count": 97,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12900,
+        "known_for_department": "Acting",
+        "name": "Wallace Shawn",
+        "original_name": "Wallace Shawn",
+        "popularity": 3.7185,
+        "profile_path": "/wVaM1WlFKDce4esThwL4XtNLhOe.jpg",
+        "cast_id": 12,
+        "character": "Vanya",
+        "credit_id": "52fe44e09251416c9101fd4f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1231,
+        "known_for_department": "Acting",
+        "name": "Julianne Moore",
+        "original_name": "Julianne Moore",
+        "popularity": 6.0239,
+        "profile_path": "/3YF19rWusxWfEI59ZM33dFhasRq.jpg",
+        "cast_id": 9,
+        "character": "Yelena",
+        "credit_id": "52fe44e09251416c9101fd43",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19511,
+        "known_for_department": "Acting",
+        "name": "Larry Pine",
+        "original_name": "Larry Pine",
+        "popularity": 1.2452,
+        "profile_path": "/nsMlfqaSRFarvn5K8EcCyKZjPeB.jpg",
+        "cast_id": 10,
+        "character": "Dr. Astrov",
+        "credit_id": "52fe44e09251416c9101fd47",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 31649,
+        "known_for_department": "Acting",
+        "name": "Brooke Smith",
+        "original_name": "Brooke Smith",
+        "popularity": 3.0163,
+        "profile_path": "/zD6SyVPGnrtnHvC0QtucEDxDTk5.jpg",
+        "cast_id": 11,
+        "character": "Sonya",
+        "credit_id": "52fe44e09251416c9101fd4b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57351,
+        "known_for_department": "Acting",
+        "name": "George Gaynes",
+        "original_name": "George Gaynes",
+        "popularity": 1.196,
+        "profile_path": "/6NrhrTrjwpR55wffPDdCz7lNNHA.jpg",
+        "cast_id": 7,
+        "character": "Serybryakov",
+        "credit_id": "52fe44e09251416c9101fd3b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8792,
+        "known_for_department": "Acting",
+        "name": "Lynn Cohen",
+        "original_name": "Lynn Cohen",
+        "popularity": 1.0304,
+        "profile_path": "/gF2YATtRwDbnLB5eG0DGeHFW2QM.jpg",
+        "cast_id": 6,
+        "character": "Maman",
+        "credit_id": "52fe44e09251416c9101fd37",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 109471,
+        "known_for_department": "Acting",
+        "name": "Phoebe Brand",
+        "original_name": "Phoebe Brand",
+        "popularity": 0.6054,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Nanny",
+        "credit_id": "52fe44e09251416c9101fd33",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55459,
+        "known_for_department": "Acting",
+        "name": "Jerry Mayer",
+        "original_name": "Jerry Mayer",
+        "popularity": 0.4736,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Waffles",
+        "credit_id": "52fe44e09251416c9101fd3f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 109470,
+        "known_for_department": "Acting",
+        "name": "Andre Gregory",
+        "original_name": "Andre Gregory",
+        "popularity": 0.6422,
+        "profile_path": "/jc9sMA0kkoDViSUSc8QEi9uvi4Y.jpg",
+        "cast_id": 13,
+        "character": "Himself",
+        "credit_id": "558d6117c3a3687bfc0004c7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 195399,
+        "known_for_department": "Acting",
+        "name": "Madhur Jaffrey",
+        "original_name": "Madhur Jaffrey",
+        "popularity": 0.7108,
+        "profile_path": "/spOAkIujYaamd39H92amzj5OE8s.jpg",
+        "cast_id": 14,
+        "character": "Mrs. Chao",
+        "credit_id": "59df0b4192514124eb09ace6",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15389,
+        "known_for_department": "Directing",
+        "name": "Louis Malle",
+        "original_name": "Louis Malle",
+        "popularity": 1.6487,
+        "profile_path": "/8BKM2iXcr4b8pvx1OOcNsO9wADn.jpg",
+        "credit_id": "52fe44e09251416c9101fd1d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 109470,
+        "known_for_department": "Acting",
+        "name": "Andre Gregory",
+        "original_name": "Andre Gregory",
+        "popularity": 0.6422,
+        "profile_path": "/jc9sMA0kkoDViSUSc8QEi9uvi4Y.jpg",
+        "credit_id": "52fe44e09251416c9101fd2f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1255,
+        "known_for_department": "Writing",
+        "name": "David Mamet",
+        "original_name": "David Mamet",
+        "popularity": 1.6675,
+        "profile_path": "/3Hfebpi4fRSY0lciWUc355ylP6j.jpg",
+        "credit_id": "52fe44e09251416c9101fd29",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 109469,
+        "known_for_department": "Writing",
+        "name": "Anton Chekhov",
+        "original_name": "Антон Чехов",
+        "popularity": 0.8638,
+        "profile_path": "/jQlZSJWHZTZrBvSfqb8me8S8peP.jpg",
+        "credit_id": "52fe44e09251416c9101fd23",
+        "department": "Writing",
+        "job": "Theatre Play"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 51842,
+        "known_for_department": "Editing",
+        "name": "Nancy Baker",
+        "original_name": "Nancy Baker",
+        "popularity": 0.4453,
+        "profile_path": null,
+        "credit_id": "59df0bfec3a36861a309a373",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72584,
+        "known_for_department": "Production",
+        "name": "Fred Berner",
+        "original_name": "Fred Berner",
+        "popularity": 0.6529,
+        "profile_path": "/dZBZDAAmlTTdiW1advdVwnRFFdp.jpg",
+        "credit_id": "59df0bc5c3a36861ec09c17e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2432705,
+        "known_for_department": "Art",
+        "name": "Daniele Perna",
+        "original_name": "Daniele Perna",
+        "popularity": 0.3011,
+        "profile_path": null,
+        "credit_id": "5da508dbcb30840016954aa6",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 91054,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sharon Ilson",
+        "original_name": "Sharon Ilson",
+        "popularity": 0.4617,
+        "profile_path": null,
+        "credit_id": "5da508f1b0ba7e00192bf468",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 543194,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gary Jones",
+        "original_name": "Gary Jones",
+        "popularity": 0.6455,
+        "profile_path": null,
+        "credit_id": "5da508e6e860170017b39fca",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1085007,
+        "known_for_department": "Sound",
+        "name": "Reilly Steele",
+        "original_name": "Reilly Steele",
+        "popularity": 0.501,
+        "profile_path": null,
+        "credit_id": "5da509091967570017ae195d",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1333223,
+        "known_for_department": "Sound",
+        "name": "Philip Stockton",
+        "original_name": "Philip Stockton",
+        "popularity": 0.6768,
+        "profile_path": null,
+        "credit_id": "5da50914b0ba7e00192bf4ee",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17992,
+        "known_for_department": "Sound",
+        "name": "Tod A. Maitland",
+        "original_name": "Tod A. Maitland",
+        "popularity": 0.6849,
+        "profile_path": null,
+        "credit_id": "5da508fe1967570013ae6e71",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6117,
+        "known_for_department": "Camera",
+        "name": "Declan Quinn",
+        "original_name": "Declan Quinn",
+        "popularity": 0.7623,
+        "profile_path": "/i8VN3RSjs35HAubf9F7Z0bE12du.jpg",
+        "credit_id": "5dc14b237d2bc1001739ea9f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1860851,
+        "known_for_department": "Directing",
+        "name": "Gary Marcus",
+        "original_name": "Gary Marcus",
+        "popularity": 0.6086,
+        "profile_path": null,
+        "credit_id": "69752703ee83a4f59cae2f88",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 196726,
+        "known_for_department": "Acting",
+        "name": "Joshua Redman",
+        "original_name": "Joshua Redman",
+        "popularity": 0.479,
+        "profile_path": "/b1ZuzAkWqpZeUGLwfRByi4zkEYR.jpg",
+        "credit_id": "69e050e7d531f54c89af9776",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1534083,
+        "known_for_department": "Art",
+        "name": "Eugene Lee",
+        "original_name": "Eugene Lee",
+        "popularity": 0.5041,
+        "profile_path": null,
+        "credit_id": "6a18d6b86b495e14aec89bdc",
+        "department": "Art",
+        "job": "Production Design"
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "adult": false,
+  "backdrop_path": "/n2WschLfgBrF2Dj0SkdCL94q2jC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81744530",
+  "id": 1595481,
+  "imdb_id": "tt39140662",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Kidnapped: Elizabeth Smart",
+  "overview": "Elizabeth Smart's harrowing abduction at 14 from her family's Utah home unfolds through her own words and never-before-seen material in this documentary.",
+  "popularity": 5.8378,
+  "poster_path": "/8yuMPfz154d0PqX5PFXmgCCuTGd.jpg",
+  "production_companies": [
+    {
+      "id": 35177,
+      "logo_path": "/3QcZMjZRSqmaNkf0vFm49OhK6bA.png",
+      "name": "Minnow Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-01-20",
+  "revenue": 0,
+  "runtime": 91,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kidnapped: Elizabeth Smart",
+  "video": false,
+  "vote_average": 7.257,
+  "vote_count": 109,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1907352,
+        "known_for_department": "Acting",
+        "name": "Elizabeth Smart",
+        "original_name": "Elizabeth Smart",
+        "popularity": 0.7334,
+        "profile_path": "/3YcCbtqFrLqHaOGnT7R7BGAb8Rw.jpg",
+        "cast_id": 5,
+        "character": "Self",
+        "credit_id": "695fd7504dd67a257d661fa5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3722624,
+        "known_for_department": "Acting",
+        "name": "Steevan Glover",
+        "original_name": "Steevan Glover",
+        "popularity": 0.7094,
+        "profile_path": "/rA6tk3KTzOXPjlJUkZKwPbk9gmO.jpg",
+        "cast_id": 4,
+        "character": "Detective",
+        "credit_id": "695fd72ba8265d9bde661f83",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5530346,
+        "known_for_department": "Acting",
+        "name": "John Stableforth",
+        "original_name": "John Stableforth",
+        "popularity": 0.5067,
+        "profile_path": "/pbrRVNHtX90PqyjDhCBDvLmIZut.jpg",
+        "cast_id": 6,
+        "character": "Brian David Mitchell",
+        "credit_id": "695fd7765fe28ab0b11459d6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5926420,
+        "known_for_department": "Acting",
+        "name": "Brian David Mitchell",
+        "original_name": "Brian David Mitchell",
+        "popularity": 0.6112,
+        "profile_path": "/xrOXbDaIVhSOVX2ExeMI2d3dvSy.jpg",
+        "cast_id": 8,
+        "character": "Self (archive footage)",
+        "credit_id": "695fd9cb5fd575b582661fcb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5926422,
+        "known_for_department": "Acting",
+        "name": "Wanda Barzee",
+        "original_name": "Wanda Barzee",
+        "popularity": 0.4976,
+        "profile_path": "/gD0YbItS099q9L5cHrVKs2IrsKv.jpg",
+        "cast_id": 9,
+        "character": "Self (archive footage)",
+        "credit_id": "695fd9ddc318e267523e62ee",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1227867,
+        "known_for_department": "Acting",
+        "name": "Soledad O'Brien",
+        "original_name": "Soledad O'Brien",
+        "popularity": 0.6923,
+        "profile_path": "/o4T1zApuY1DTPw60mOKGQ6I6avG.jpg",
+        "cast_id": 10,
+        "character": "Self (archive footage)",
+        "credit_id": "697263dcca85a1a57691ab9a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 166658,
+        "known_for_department": "Acting",
+        "name": "Katie Couric",
+        "original_name": "Katie Couric",
+        "popularity": 1.167,
+        "profile_path": "/gQANKzzw0Dz21LkEX5hCDSHXFev.jpg",
+        "cast_id": 11,
+        "character": "Self (archive footage)",
+        "credit_id": "697263ef73d442e8878207a9",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3285509,
+        "known_for_department": "Directing",
+        "name": "Benedict Sanderson",
+        "original_name": "Benedict Sanderson",
+        "popularity": 0.5983,
+        "profile_path": null,
+        "credit_id": "69382a29de637bb39a6384bd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4406176,
+        "known_for_department": "Production",
+        "name": "Claire Goodlass",
+        "original_name": "Claire Goodlass",
+        "popularity": 0.3424,
+        "profile_path": null,
+        "credit_id": "69382a3b194151237b069c6e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3285508,
+        "known_for_department": "Production",
+        "name": "Sophie Jones",
+        "original_name": "Sophie Jones",
+        "popularity": 0.5817,
+        "profile_path": null,
+        "credit_id": "69382a4e9a3ffda7a8f7cdd7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4752889,
+        "known_for_department": "Production",
+        "name": "Morgan Matthews",
+        "original_name": "Morgan Matthews",
+        "popularity": 0.2624,
+        "profile_path": null,
+        "credit_id": "695fd7fdf51bd3772933a816",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "adult": false,
+  "backdrop_path": "/u3tYPd0s6uvLvgEqWVUQSM8pe47.jpg",
+  "belongs_to_collection": null,
+  "budget": 1600000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 772973,
+  "imdb_id": "tt13635702",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Inhabitant",
+  "overview": "Like any other teenage girl, Tara is just surviving high school — yet her father and mother seem strangely distant. Amidst a nearby spree of gruesome ax murders, Tara has sightings of terrifying entities, forcing her to question her own sanity and shocking ancestry.",
+  "popularity": 3.6179,
+  "poster_path": "/p1hH2FXEUHuY5kzm9bEBxEmdD8D.jpg",
+  "production_companies": [
+    {
+      "id": 44632,
+      "logo_path": "/neCKH4sJCBhZ1B4QocTM4VXCQOR.png",
+      "name": "Gravitas Ventures",
+      "origin_country": "US"
+    },
+    {
+      "id": 76991,
+      "logo_path": "/pQjdvbv4y9yuIDSHDEHc9ijJKaS.png",
+      "name": "Highland Film Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 42466,
+      "logo_path": null,
+      "name": "Steelyard Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 194918,
+      "logo_path": "/pzsC9ZzbRjHaBES0GH8n2dgtCZk.png",
+      "name": "R.U. Robot Studios",
+      "origin_country": "CZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-10-07",
+  "revenue": 36972,
+  "runtime": 97,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You can’t hide from an evil that lives within.",
+  "title": "The Inhabitant",
+  "video": false,
+  "vote_average": 5.908,
+  "vote_count": 131,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1972166,
+        "known_for_department": "Acting",
+        "name": "Odessa A'zion",
+        "original_name": "Odessa A'zion",
+        "popularity": 3.1532,
+        "profile_path": "/5Q0Z5O3nkZH5JvueTyc2q0anw2B.jpg",
+        "cast_id": 5,
+        "character": "Tara",
+        "credit_id": "6315b25afab3fa0084c21f48",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 57451,
+        "known_for_department": "Acting",
+        "name": "Leslie Bibb",
+        "original_name": "Leslie Bibb",
+        "popularity": 4.1931,
+        "profile_path": "/g3a1O9lOTZvrwQupUtg4Fc3CdTd.jpg",
+        "cast_id": 3,
+        "character": "Emily",
+        "credit_id": "5fcc304846f3540043eac5bf",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20212,
+        "known_for_department": "Acting",
+        "name": "Dermot Mulroney",
+        "original_name": "Dermot Mulroney",
+        "popularity": 6.055,
+        "profile_path": "/kkrMKD6b4vEdphVgKsenRY4NgiC.jpg",
+        "cast_id": 4,
+        "character": "Ben",
+        "credit_id": "5fcc3059d8e2250040936129",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1376782,
+        "known_for_department": "Acting",
+        "name": "Lizze Broadway",
+        "original_name": "Lizze Broadway",
+        "popularity": 1.6509,
+        "profile_path": "/4U14Q69wgdxJX4bSJO0VKI7wYFv.jpg",
+        "cast_id": 6,
+        "character": "Suzy Beemer",
+        "credit_id": "6315b27fba131b0081d17816",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3102516,
+        "known_for_department": "Acting",
+        "name": "Michael Cooper Jr.",
+        "original_name": "Michael Cooper Jr.",
+        "popularity": 0.5954,
+        "profile_path": "/8fwwcTmwu8P89zDQEl30kAMoOPw.jpg",
+        "cast_id": 7,
+        "character": "Carl",
+        "credit_id": "6344a8d325b955007a8ba5b9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2042787,
+        "known_for_department": "Acting",
+        "name": "Mary Buss",
+        "original_name": "Mary Buss",
+        "popularity": 0.7087,
+        "profile_path": "/f9GEPsT6aHRAptDadMjoHcd38Pi.jpg",
+        "cast_id": 8,
+        "character": "Aunt Diane",
+        "credit_id": "6344a8e4d55c3d0091b52dfb",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2757876,
+        "known_for_department": "Acting",
+        "name": "Jackson Dean Vincent",
+        "original_name": "Jackson Dean Vincent",
+        "popularity": 0.4654,
+        "profile_path": "/2WaiyLzcmDtBvEehQ7zrYhwASV2.jpg",
+        "cast_id": 9,
+        "character": "Caleb",
+        "credit_id": "6344a8f2b7a154007934b6fc",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1852188,
+        "known_for_department": "Acting",
+        "name": "Kenneisha Thompson",
+        "original_name": "Kenneisha Thompson",
+        "popularity": 0.5747,
+        "profile_path": "/yUZPsrW1DhT2kFlhc71dIUWD6gd.jpg",
+        "cast_id": 10,
+        "character": "Detective Childs",
+        "credit_id": "6344a906d55c3d0091b52e02",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1226119,
+        "known_for_department": "Acting",
+        "name": "Ryan Francis",
+        "original_name": "Ryan Francis",
+        "popularity": 1.3102,
+        "profile_path": "/4uqKjU32W2sLVdiWJTJzkZh5IJF.jpg",
+        "cast_id": 11,
+        "character": "Detective Gaines",
+        "credit_id": "6344a91af3b49a0079d4ff30",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1516736,
+        "known_for_department": "Acting",
+        "name": "Hartleigh Buwick",
+        "original_name": "Hartleigh Buwick",
+        "popularity": 0.5184,
+        "profile_path": "/zNvPU8KPFJX5GnGsgqJVInPGTmh.jpg",
+        "cast_id": 12,
+        "character": "Lizzie Borden",
+        "credit_id": "6344a92e5b4fed007fe79bb9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3735351,
+        "known_for_department": "Acting",
+        "name": "Lois Leftwich",
+        "original_name": "Lois Leftwich",
+        "popularity": 0.2515,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Gail Olin",
+        "credit_id": "6344a955d6c300007aa307a9",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3123230,
+        "known_for_department": "Acting",
+        "name": "Sabreena Iman",
+        "original_name": "Sabreena Iman",
+        "popularity": 0.5084,
+        "profile_path": "/nrxzvLq1bQxH7zMHtAUwlOCyVIL.jpg",
+        "cast_id": 14,
+        "character": "Dr. Sanchez",
+        "credit_id": "6344a96225b955007d72d632",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3735353,
+        "known_for_department": "Crew",
+        "name": "Krista Perry",
+        "original_name": "Krista Perry",
+        "popularity": 0.3497,
+        "profile_path": "/6EZ0IMaz8NbvU99WcsuGOoMmUl7.jpg",
+        "cast_id": 15,
+        "character": "Gina",
+        "credit_id": "6344a97b5b4fed007fe79bd1",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3735356,
+        "known_for_department": "Acting",
+        "name": "Jennifer Rader",
+        "original_name": "Jennifer Rader",
+        "popularity": 0.4607,
+        "profile_path": "/lapF6r1HjlzJWlQoz1Zl7R0FSUt.jpg",
+        "cast_id": 16,
+        "character": "Karen",
+        "credit_id": "6344a98ccffeed007c787bed",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3735357,
+        "known_for_department": "Acting",
+        "name": "Avery Baker",
+        "original_name": "Avery Baker",
+        "popularity": 0.2307,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Dawn",
+        "credit_id": "6344a9a36a300b007d211c1b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2852277,
+        "known_for_department": "Acting",
+        "name": "Jake Washburn",
+        "original_name": "Jake Washburn",
+        "popularity": 0.3279,
+        "profile_path": "/wP8LzgOaVzqW4ahRuPQjcwiFKcn.jpg",
+        "cast_id": 18,
+        "character": "Coach Banner",
+        "credit_id": "6344a9b39bcd0f008aaee84f",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1143671,
+        "known_for_department": "Writing",
+        "name": "Leone Marucci",
+        "original_name": "Leone Marucci",
+        "popularity": 0.5191,
+        "profile_path": null,
+        "credit_id": "65d2899e4d67910149d30ae6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3735353,
+        "known_for_department": "Crew",
+        "name": "Krista Perry",
+        "original_name": "Krista Perry",
+        "popularity": 0.3497,
+        "profile_path": "/6EZ0IMaz8NbvU99WcsuGOoMmUl7.jpg",
+        "credit_id": "65fd19610bc529017cb223cb",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53348,
+        "known_for_department": "Acting",
+        "name": "Petr Jákl",
+        "original_name": "Petr Jákl",
+        "popularity": 0.8131,
+        "profile_path": "/8zi7MXdHXWBIP6IuMFZB1HdWnGX.jpg",
+        "credit_id": "6470ad30c5ada5011865d661",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1257726,
+        "known_for_department": "Production",
+        "name": "Kevin Bachar",
+        "original_name": "Kevin Bachar",
+        "popularity": 0.5269,
+        "profile_path": null,
+        "credit_id": "5fcc2fe2dcf87500404288d8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2883290,
+        "known_for_department": "Directing",
+        "name": "Jerren Lauder",
+        "original_name": "Jerren Lauder",
+        "popularity": 0.4859,
+        "profile_path": null,
+        "credit_id": "5fcc302ad9554b003f56976a",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

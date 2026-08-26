@@ -1,0 +1,401 @@
+{
+  "adult": false,
+  "backdrop_path": "/iPmC9CfBKmfVnxxHJmykoyrQWhZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 46415,
+  "imdb_id": "tt0470869",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Neal 'n' Nikki",
+  "overview": "During a 21-day bachelor trip before his wedding, Neal falls in love with Nikki, a woman he slept with. Things get further complicated when Nikki turns out to be his fiancee's cousin.",
+  "popularity": 1.3117,
+  "poster_path": "/aCjfuhKLvnH4K1QaxB2GJkGicWY.jpg",
+  "production_companies": [
+    {
+      "id": 1569,
+      "logo_path": "/lvzN86o3jrP44DIvn4SMBLOl9PF.png",
+      "name": "Yash Raj Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2005-12-09",
+  "revenue": 0,
+  "runtime": 122,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Nice is out...Naughty is in",
+  "title": "Neal 'N' Nikki",
+  "video": false,
+  "vote_average": 3.929,
+  "vote_count": 21,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69709,
+        "known_for_department": "Production",
+        "name": "Uday Chopra",
+        "original_name": "Uday Chopra",
+        "popularity": 1.2194,
+        "profile_path": "/bHmH00vJNavpf5BgSuBeUSPB9bj.jpg",
+        "cast_id": 4,
+        "character": "Gurneal \"Neal\" Ahluwalia",
+        "credit_id": "52fe46f6c3a36847f811c035",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1054415,
+        "known_for_department": "Acting",
+        "name": "Tanishaa Mukerji",
+        "original_name": "Tanishaa Mukerji",
+        "popularity": 0.7474,
+        "profile_path": "/en1oVsYNPXGuXdxsv30wVEmE8lL.jpg",
+        "cast_id": 5,
+        "character": "Nikita 'Nikki' Bakshi (as Tanisha Mukerji)",
+        "credit_id": "52fe46f6c3a36847f811c039",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35793,
+        "known_for_department": "Acting",
+        "name": "Abhishek Bachchan",
+        "original_name": "अभिषेक बच्चन",
+        "popularity": 1.6264,
+        "profile_path": "/o2hWC004VnRyGLOgg8OjiP1Ch5A.jpg",
+        "cast_id": 6,
+        "character": "Man in bar",
+        "credit_id": "52fe46f6c3a36847f811c03d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 237977,
+        "known_for_department": "Acting",
+        "name": "Richa Pallod",
+        "original_name": "Richa Pallod",
+        "popularity": 0.8511,
+        "profile_path": "/2yo80bulfWF963ELDznsgfaMyGR.jpg",
+        "cast_id": 7,
+        "character": "Sweety",
+        "credit_id": "52fe46f6c3a36847f811c041",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1013936,
+        "known_for_department": "Acting",
+        "name": "Gaurav Gera",
+        "original_name": "Gaurav Gera",
+        "popularity": 0.8288,
+        "profile_path": "/l0kOZqfKusxfPp7wvkwDfNYT64K.jpg",
+        "cast_id": 8,
+        "character": "Happy",
+        "credit_id": "52fe46f6c3a36847f811c045",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35761,
+        "known_for_department": "Acting",
+        "name": "Kamini Khanna",
+        "original_name": "Kamini Khanna",
+        "popularity": 0.5216,
+        "profile_path": "/dRI63TsmXxl88zlKebkj4VFkRIm.jpg",
+        "cast_id": 9,
+        "character": "Baldev",
+        "credit_id": "52fe46f6c3a36847f811c049",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 591119,
+        "known_for_department": "Acting",
+        "name": "Susheel Parashara",
+        "original_name": "Susheel Parashara",
+        "popularity": 0.3971,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Gyaniji",
+        "credit_id": "52fe46f6c3a36847f811c04d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1288815,
+        "known_for_department": "Acting",
+        "name": "Sanaa Abdu Khazal",
+        "original_name": "Sanaa Abdu Khazal",
+        "popularity": 0.3322,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Katrina",
+        "credit_id": "52fe46f6c3a36847f811c051",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1288816,
+        "known_for_department": "Acting",
+        "name": "Zain Meghji",
+        "original_name": "Zain Meghji",
+        "popularity": 0.321,
+        "profile_path": "/2MxbALFRI6W9shAJVL7zAkycdbz.jpg",
+        "cast_id": 12,
+        "character": "Friend 1",
+        "credit_id": "52fe46f6c3a36847f811c055",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1288817,
+        "known_for_department": "Acting",
+        "name": "Garry Saran",
+        "original_name": "Garry Saran",
+        "popularity": 0.265,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Friend 2",
+        "credit_id": "52fe46f6c3a36847f811c059",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1148405,
+        "known_for_department": "Acting",
+        "name": "Kristy McQuade",
+        "original_name": "Kristy McQuade",
+        "popularity": 0.2091,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Kristy",
+        "credit_id": "52fe46f6c3a36847f811c05d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 95412,
+        "known_for_department": "Acting",
+        "name": "Samantha McLeod",
+        "original_name": "Samantha McLeod",
+        "popularity": 0.9007,
+        "profile_path": "/PPd1ol6pPt8OnpGtPog3Y0QjJP.jpg",
+        "cast_id": 15,
+        "character": "Chanel",
+        "credit_id": "52fe46f6c3a36847f811c061",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1148403,
+        "known_for_department": "Acting",
+        "name": "Priya Sachdev",
+        "original_name": "Priya Sachdev",
+        "popularity": 0.265,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Karen",
+        "credit_id": "52fe46f6c3a36847f811c065",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1288818,
+        "known_for_department": "Acting",
+        "name": "Alexandre Montez",
+        "original_name": "Alexandre Montez",
+        "popularity": 0.2307,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Trish",
+        "credit_id": "52fe46f6c3a36847f811c069",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86268,
+        "known_for_department": "Acting",
+        "name": "Serinda Swan",
+        "original_name": "Serinda Swan",
+        "popularity": 10.818,
+        "profile_path": "/mA4qtNZnn0A2oT1s4IIHseO8oiu.jpg",
+        "cast_id": 18,
+        "character": "Amanda",
+        "credit_id": "52fe46f6c3a36847f811c06d",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 631226,
+        "known_for_department": "Writing",
+        "name": "Arjun Sablok",
+        "original_name": "Arjun Sablok",
+        "popularity": 0.5979,
+        "profile_path": null,
+        "credit_id": "52fe46f6c3a36847f811c025",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 631226,
+        "known_for_department": "Writing",
+        "name": "Arjun Sablok",
+        "original_name": "Arjun Sablok",
+        "popularity": 0.5979,
+        "profile_path": null,
+        "credit_id": "52fe46f6c3a36847f811c02b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1147472,
+        "known_for_department": "Writing",
+        "name": "Anvita Dutt",
+        "original_name": "Anvita Dutt",
+        "popularity": 0.5122,
+        "profile_path": "/ayAdNgOEDktAo0Sp8CVZYeUGSEC.jpg",
+        "credit_id": "638f22e3ca0e170090da7296",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1147472,
+        "known_for_department": "Writing",
+        "name": "Anvita Dutt",
+        "original_name": "Anvita Dutt",
+        "popularity": 0.5122,
+        "profile_path": "/ayAdNgOEDktAo0Sp8CVZYeUGSEC.jpg",
+        "credit_id": "638f22ee5800c4008344c949",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35771,
+        "known_for_department": "Production",
+        "name": "Aditya Chopra",
+        "original_name": "Aditya Chopra",
+        "popularity": 1.4109,
+        "profile_path": "/eXYKfA6bg12pn9LPrWeRfxYQwcb.jpg",
+        "credit_id": "6478a983cf4b8b01031d172d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1170058,
+        "known_for_department": "Camera",
+        "name": "P. S. Vinod",
+        "original_name": "P. S. Vinod",
+        "popularity": 0.3719,
+        "profile_path": null,
+        "credit_id": "6478a9930e29a200a65f0f8f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 35773,
+        "known_for_department": "Editing",
+        "name": "Ritesh Soni",
+        "original_name": "Ritesh Soni",
+        "popularity": 0.5226,
+        "profile_path": null,
+        "credit_id": "6478a9a517497300a8180e62",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35786,
+        "known_for_department": "Sound",
+        "name": "Salim Merchant",
+        "original_name": "Salim Merchant",
+        "popularity": 0.4451,
+        "profile_path": "/acKJeVt5BbyRBXuRiaV05PkLTRM.jpg",
+        "credit_id": "6478a9b417497300de650cec",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85708,
+        "known_for_department": "Sound",
+        "name": "Sulaiman Merchant",
+        "original_name": "Sulaiman Merchant",
+        "popularity": 0.4762,
+        "profile_path": "/aKaqHM9SqCDNhIck6RDsitQebfw.jpg",
+        "credit_id": "6478a9bd1749730135001f3f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

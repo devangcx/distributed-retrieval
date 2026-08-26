@@ -1,0 +1,475 @@
+{
+  "adult": false,
+  "backdrop_path": "/mDVnHFcxxUJC9TQFVeKh1TJNBzh.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1279493,
+  "imdb_id": "tt32321803",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Get Out",
+  "overview": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
+  "popularity": 18.861,
+  "poster_path": "/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
+  "production_companies": [
+    {
+      "id": 110723,
+      "logo_path": "/27Od860h9Xc7gDS3Pph6yRlUyBI.png",
+      "name": "Nickel City Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 221397,
+      "logo_path": "/aj3EiCWM5jKxDJGZh34KV6L9HcE.png",
+      "name": "A Higher Standard",
+      "origin_country": "US"
+    },
+    {
+      "id": 219277,
+      "logo_path": null,
+      "name": "G2 Dispatch",
+      "origin_country": "AU"
+    },
+    {
+      "id": 253092,
+      "logo_path": "/c0IeAmYXNix7gMJbWzPGHzzsTwv.png",
+      "name": "Life & Soul Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 181874,
+      "logo_path": "/crrgXvLhDO9c57HYrbO4H58Vxmb.png",
+      "name": "Fifth Season",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2026-06-18",
+  "revenue": 0,
+  "runtime": 111,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The night life is dirty business.",
+  "title": "The Get Out",
+  "video": false,
+  "vote_average": 6.219,
+  "vote_count": 57,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 934,
+        "known_for_department": "Acting",
+        "name": "Russell Crowe",
+        "original_name": "Russell Crowe",
+        "popularity": 5.5407,
+        "profile_path": "/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg",
+        "cast_id": 4,
+        "character": "Manco Kapak",
+        "credit_id": "67aa3a6e38e948bd676fa9dd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114019,
+        "known_for_department": "Acting",
+        "name": "Luke Evans",
+        "original_name": "Luke Evans",
+        "popularity": 3.8637,
+        "profile_path": "/qUkYJcrDc4M0LHNYASs30luFvw0.jpg",
+        "cast_id": 16,
+        "character": "Joe Carver",
+        "credit_id": "67c744b926b4e196b1f068ab",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84497,
+        "known_for_department": "Acting",
+        "name": "Aaron Paul",
+        "original_name": "Aaron Paul",
+        "popularity": 3.9045,
+        "profile_path": "/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg",
+        "cast_id": 15,
+        "character": "Jeff",
+        "credit_id": "67c744a95e77893e05f06c35",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20374,
+        "known_for_department": "Acting",
+        "name": "Teresa Palmer",
+        "original_name": "Teresa Palmer",
+        "popularity": 3.6132,
+        "profile_path": "/sjSiLSCp9LS1Z0nyGpmquTBuUyr.jpg",
+        "cast_id": 14,
+        "character": "Sunny",
+        "credit_id": "67c0587e072a707ae935ad65",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19961,
+        "known_for_department": "Acting",
+        "name": "Nina Dobrev",
+        "original_name": "Nina Dobrev",
+        "popularity": 4.6833,
+        "profile_path": "/euHNgS3z3M3OTzLhQQAezViQddq.jpg",
+        "cast_id": 13,
+        "character": "Carrie",
+        "credit_id": "67b90246d7bcce4690f3d3ce",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1172147,
+        "known_for_department": "Acting",
+        "name": "Daniel Zovatto",
+        "original_name": "Daniel Zovatto",
+        "popularity": 1.4963,
+        "profile_path": "/gV0qvvMrNPXjDfsjgzLNNayaemj.jpg",
+        "cast_id": 17,
+        "character": "Rodriguez",
+        "credit_id": "67c744bea75500a876409a8e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4898226,
+        "known_for_department": "Acting",
+        "name": "Kartiah Vergara",
+        "original_name": "Kartiah Vergara",
+        "popularity": 0.5124,
+        "profile_path": "/je5XTyAj7gqev0j9CxENW4JLx0j.jpg",
+        "cast_id": 3,
+        "character": "Irena",
+        "credit_id": "67aa3a654982eacfd51d798d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5837297,
+        "known_for_department": "Acting",
+        "name": "Sabelle Morrow-Woods",
+        "original_name": "Sabelle Morrow-Woods",
+        "popularity": 0.5829,
+        "profile_path": "/1y5jkcSgZUicMI22Y3DxYaWcjfT.jpg",
+        "cast_id": 20,
+        "character": "Clubber",
+        "credit_id": "692778f0792b9dd8f2a757ca",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1281967,
+        "known_for_department": "Acting",
+        "name": "Josh McConville",
+        "original_name": "Josh McConville",
+        "popularity": 0.6967,
+        "profile_path": "/3Au004X5BsV5KIpOLMB8g9DuevT.jpg",
+        "cast_id": 27,
+        "character": "Slosser",
+        "credit_id": "6a84f2c40f806d487c0b8468",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1275904,
+        "known_for_department": "Acting",
+        "name": "Benedict Hardie",
+        "original_name": "Benedict Hardie",
+        "popularity": 1.8347,
+        "profile_path": "/bf02Dz4LMV23scJC6c8P4R6xji6.jpg",
+        "cast_id": 28,
+        "character": "Spence",
+        "credit_id": "6a84f2cf1784d6a8a1da42c3",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5613768,
+        "known_for_department": "Acting",
+        "name": "Steffi Gil",
+        "original_name": "Steffi Gil",
+        "popularity": 0.2902,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Lola",
+        "credit_id": "6a84f2dcc87fa276d1dcbc1f",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1550069,
+        "known_for_department": "Acting",
+        "name": "Nikki Shiels",
+        "original_name": "Nikki Shiels",
+        "popularity": 0.5316,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Becky",
+        "credit_id": "6a84f2f5d1245855799e501f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5406844,
+        "known_for_department": "Acting",
+        "name": "Tennyson Crowe",
+        "original_name": "Tennyson Crowe",
+        "popularity": 0.4631,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Nick",
+        "credit_id": "6a84f2fe2f8a2300b2b57a64",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1661479,
+        "known_for_department": "Acting",
+        "name": "Yasmin Kassim",
+        "original_name": "Yasmin Kassim",
+        "popularity": 1.052,
+        "profile_path": "/pv9ShbsTlCwmZAseUI4aud6CTkW.jpg",
+        "cast_id": 32,
+        "character": "Angela",
+        "credit_id": "6a84f30678c42ffb7bda432e",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6382599,
+        "known_for_department": "Acting",
+        "name": "Sean Richard",
+        "original_name": "Sean Richard",
+        "popularity": 0.481,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Nightclub Supervisor (uncredited)",
+        "credit_id": "6a6d368d5eae0a3681246432",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 126910,
+        "known_for_department": "Directing",
+        "name": "Derrick Borte",
+        "original_name": "Derrick Borte",
+        "popularity": 0.7191,
+        "profile_path": "/riwN6viBryfIycai9oSYFPvUKHw.jpg",
+        "credit_id": "662925c74a4bf60188778cd9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1488892,
+        "known_for_department": "Writing",
+        "name": "Daniel Forte",
+        "original_name": "Daniel Forte",
+        "popularity": 0.5358,
+        "profile_path": null,
+        "credit_id": "67aa3b27c1cef4d0581d7476",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 126910,
+        "known_for_department": "Directing",
+        "name": "Derrick Borte",
+        "original_name": "Derrick Borte",
+        "popularity": 0.7191,
+        "profile_path": "/riwN6viBryfIycai9oSYFPvUKHw.jpg",
+        "credit_id": "67aa3b374b8b37b35539e881",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1485550,
+        "known_for_department": "Production",
+        "name": "Mark Fasano",
+        "original_name": "Mark Fasano",
+        "popularity": 0.6704,
+        "profile_path": null,
+        "credit_id": "67aa3b554e98f21b426faa05",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1409852,
+        "known_for_department": "Production",
+        "name": "Jeffrey Greenstein",
+        "original_name": "Jeffrey Greenstein",
+        "popularity": 0.5773,
+        "profile_path": null,
+        "credit_id": "67aa3b7c3d48038e601d7383",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2968654,
+        "known_for_department": "Production",
+        "name": "Deborah Glover",
+        "original_name": "Deborah Glover",
+        "popularity": 0.4109,
+        "profile_path": null,
+        "credit_id": "67aa3b96c1cef4d0581d74ad",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5238650,
+        "known_for_department": "Production",
+        "name": "Mark Bower",
+        "original_name": "Mark Bower",
+        "popularity": 0.2444,
+        "profile_path": null,
+        "credit_id": "67aa3bb551c52038dc6faa07",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4914839,
+        "known_for_department": "Production",
+        "name": "Bruno Mustić",
+        "original_name": "Bruno Mustić",
+        "popularity": 0.3501,
+        "profile_path": null,
+        "credit_id": "67aa3bc4d16dc7677339ec53",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4549780,
+        "known_for_department": "Production",
+        "name": "Matthew Alex Goldberg",
+        "original_name": "Matthew Alex Goldberg",
+        "popularity": 0.2921,
+        "profile_path": null,
+        "credit_id": "6914684e6f33467683c06c9b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3851785,
+        "known_for_department": "Production",
+        "name": "Thayer Juergens",
+        "original_name": "Thayer Juergens",
+        "popularity": 0.3106,
+        "profile_path": "/t4HG6sEDXRpsHEBpuS37GnPUTmg.jpg",
+        "credit_id": "6994b02402e7f556ba2884cc",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 931956,
+        "known_for_department": "Sound",
+        "name": "Bryan Senti",
+        "original_name": "Bryan Senti",
+        "popularity": 0.4547,
+        "profile_path": null,
+        "credit_id": "6a3f7b055fddf3cfcce20628",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53841,
+        "known_for_department": "Camera",
+        "name": "Brendan Galvin",
+        "original_name": "Brendan Galvin",
+        "popularity": 0.5927,
+        "profile_path": null,
+        "credit_id": "6a84f230e7ba5a312b0b85ba",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2822571,
+        "known_for_department": "Writing",
+        "name": "Thomas Perry",
+        "original_name": "Thomas Perry",
+        "popularity": 0.3326,
+        "profile_path": null,
+        "credit_id": "6a84f2722a7ab93b9c9e5099",
+        "department": "Writing",
+        "job": "Novel"
+      }
+    ]
+  }
+}

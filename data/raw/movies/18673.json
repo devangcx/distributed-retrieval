@@ -1,0 +1,231 @@
+{
+  "adult": false,
+  "backdrop_path": "/hgJdN7Oke88UyTYrDRJu6WJRTBD.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 18673,
+  "imdb_id": "tt1105709",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "8x10 Tasveer",
+  "overview": "A forest ranger uses his mental ability to enter a photograph and re-experience the events from a person's point of view to solve the mystery behind his father's death, believed to be caused by natural reasons.",
+  "popularity": 1.0881,
+  "poster_path": "/3ojw74vrzd219WRgMKX7Oapiret.jpg",
+  "production_companies": [
+    {
+      "id": 1841,
+      "logo_path": null,
+      "name": "Percept Picture Company",
+      "origin_country": "IN"
+    },
+    {
+      "id": 3522,
+      "logo_path": "/d3u51JgEP5KwPfxS13ocqvtzZeX.png",
+      "name": "T-Series",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2009-04-03",
+  "revenue": 0,
+  "runtime": 119,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He has the power to see the past.",
+  "title": "8x10 Tasveer",
+  "video": false,
+  "vote_average": 5.25,
+  "vote_count": 28,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35070,
+        "known_for_department": "Acting",
+        "name": "Akshay Kumar",
+        "original_name": "अक्षय कुमार",
+        "popularity": 2.5711,
+        "profile_path": "/sR8nASRtTpiwXqkFHjG2jdRBZ7a.jpg",
+        "cast_id": 1,
+        "character": "Jai Puri/Jeet Puri",
+        "credit_id": "52fe47909251416c7509dfc3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 83591,
+        "known_for_department": "Acting",
+        "name": "Ayesha Takia",
+        "original_name": "Ayesha Takia",
+        "popularity": 1.3762,
+        "profile_path": "/nMwZp4tfg6W4BkkWpaXesUMUAxR.jpg",
+        "cast_id": 2,
+        "character": "Sheila Patel",
+        "credit_id": "52fe47909251416c7509dfc7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13753,
+        "known_for_department": "Acting",
+        "name": "Sharmila Tagore",
+        "original_name": "Sharmila Tagore",
+        "popularity": 0.89,
+        "profile_path": "/m2MFSVdx4aKVoLRFPJoO5u0FMon.jpg",
+        "cast_id": 3,
+        "character": "Savitri Puri",
+        "credit_id": "52fe47909251416c7509dfcb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83593,
+        "known_for_department": "Acting",
+        "name": "Girish Karnad",
+        "original_name": "Girish Karnad",
+        "popularity": 1.0132,
+        "profile_path": "/vxnh2pdWTdarTUfDoTbJwlUROYh.jpg",
+        "cast_id": 5,
+        "character": "Anil Sharma",
+        "credit_id": "52fe47909251416c7509dfcf",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86086,
+        "known_for_department": "Acting",
+        "name": "Javed Jaffrey",
+        "original_name": "Javed Jaffrey",
+        "popularity": 1.0293,
+        "profile_path": "/5JvPPxLsDEUFy6qDVawM3Itl6NV.jpg",
+        "cast_id": 13,
+        "character": "Habibullah \"Happi\" Pasha",
+        "credit_id": "6a206ebe332b8d54801fa7c2",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83595,
+        "known_for_department": "Production",
+        "name": "Bhushan Kumar",
+        "original_name": "Bhushan Kumar",
+        "popularity": 0.8873,
+        "profile_path": "/luUFnGoGwjwZ5CHAePRIQpAwT5b.jpg",
+        "credit_id": "52fe47909251416c7509dfdb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35786,
+        "known_for_department": "Sound",
+        "name": "Salim Merchant",
+        "original_name": "Salim Merchant",
+        "popularity": 0.4451,
+        "profile_path": "/acKJeVt5BbyRBXuRiaV05PkLTRM.jpg",
+        "credit_id": "52fe47909251416c7509dfe7",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 83596,
+        "known_for_department": "Production",
+        "name": "Elahe Hiptoola",
+        "original_name": "Elahe Hiptoola",
+        "popularity": 0.464,
+        "profile_path": null,
+        "credit_id": "52fe47909251416c7509dfe1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83594,
+        "known_for_department": "Directing",
+        "name": "Nagesh Kukunoor",
+        "original_name": "Nagesh Kukunoor",
+        "popularity": 0.7198,
+        "profile_path": "/km7h1Dp2TLL1TlXZIype9rN1fjX.jpg",
+        "credit_id": "52fe47909251416c7509dfd5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83594,
+        "known_for_department": "Directing",
+        "name": "Nagesh Kukunoor",
+        "original_name": "Nagesh Kukunoor",
+        "popularity": 0.7198,
+        "profile_path": "/km7h1Dp2TLL1TlXZIype9rN1fjX.jpg",
+        "credit_id": "52fe47909251416c7509dfed",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1810831,
+        "known_for_department": "Sound",
+        "name": "Bohemia",
+        "original_name": "Bohemia",
+        "popularity": 0.3479,
+        "profile_path": "/fCFFgt8bHoVf1vPWLXUaCVW6m76.jpg",
+        "credit_id": "5d637abf7f6c8d1b36edf118",
+        "department": "Sound",
+        "job": "Playback Singer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "adult": false,
+  "backdrop_path": "/eDVp3J8HqkXXMagnVKlm53dYJvJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 1285247,
+  "imdb_id": "tt29685033",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Murder Company",
+  "overview": "In the midst of the D-Day invasion, a group of US soldiers are given orders to smuggle a member of the French Resistance behind enemy lines to assassinate a high-value Nazi target.",
+  "popularity": 2.6949,
+  "poster_path": "/eUjzUUFm1dEUR6U4r0C6s9L2FEd.jpg",
+  "production_companies": [
+    {
+      "id": 205514,
+      "logo_path": null,
+      "name": "Complex Corp",
+      "origin_country": "US"
+    },
+    {
+      "id": 241938,
+      "logo_path": null,
+      "name": "Maverick Film",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-07-05",
+  "revenue": 0,
+  "runtime": 86,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Murder Company",
+  "video": false,
+  "vote_average": 5.973,
+  "vote_count": 37,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7090,
+        "known_for_department": "Acting",
+        "name": "Kelsey Grammer",
+        "original_name": "Kelsey Grammer",
+        "popularity": 3.2252,
+        "profile_path": "/5zik4VJim6YTSWDjC7tkp13wxUp.jpg",
+        "cast_id": 5,
+        "character": "General Haskel",
+        "credit_id": "66374e062a09bc01235a05e4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5528,
+        "known_for_department": "Acting",
+        "name": "William Moseley",
+        "original_name": "William Moseley",
+        "popularity": 2.4658,
+        "profile_path": "/skssqN3yL90iK5b9DtSg6fEQn1f.jpg",
+        "cast_id": 6,
+        "character": "Southern",
+        "credit_id": "66374e17470ead012512ea1e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29234,
+        "known_for_department": "Acting",
+        "name": "Joe Anderson",
+        "original_name": "Joe Anderson",
+        "popularity": 1.7191,
+        "profile_path": "/x0Fz2mIMU4Prk7I43pn87Fyno40.jpg",
+        "cast_id": 7,
+        "character": "Smith",
+        "credit_id": "66374e22358da7012d564f1f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58723,
+        "known_for_department": "Acting",
+        "name": "Gilles Marini",
+        "original_name": "Gilles Marini",
+        "popularity": 1.3914,
+        "profile_path": "/sbe1rtvd0DhLy2MW3FT6SvMsPTe.jpg",
+        "cast_id": 8,
+        "character": "Daquin",
+        "credit_id": "66374e3766565a012315c1de",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87817,
+        "known_for_department": "Acting",
+        "name": "Pooch Hall",
+        "original_name": "Pooch Hall",
+        "popularity": 1.235,
+        "profile_path": "/uG2km0S6M5JNQlsxyvzsnqFrrJd.jpg",
+        "cast_id": 9,
+        "character": "Coolidge",
+        "credit_id": "66374e40c9054f012d908f4b",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91615,
+        "known_for_department": "Writing",
+        "name": "Jesse Mittelstadt",
+        "original_name": "Jesse Mittelstadt",
+        "popularity": 0.7044,
+        "profile_path": null,
+        "credit_id": "66374dd58de0ae0126f68347",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1398279,
+        "known_for_department": "Production",
+        "name": "Ian Niles",
+        "original_name": "Ian Niles",
+        "popularity": 0.6335,
+        "profile_path": "/bpuMHhHRphHC3tHGhuhAuxWWCzY.jpg",
+        "credit_id": "66374de469c70f0128807d8d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1634529,
+        "known_for_department": "Production",
+        "name": "Richard Switzer",
+        "original_name": "Richard Switzer",
+        "popularity": 0.6802,
+        "profile_path": null,
+        "credit_id": "66374df0c9054f012d908f1e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59502,
+        "known_for_department": "Writing",
+        "name": "Shane Dax Taylor",
+        "original_name": "Shane Dax Taylor",
+        "popularity": 0.7978,
+        "profile_path": "/z8pT1ioVlAvrpvfXQS4nSDCMHOz.jpg",
+        "credit_id": "66374dc8e92d83012ad3990a",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

@@ -1,0 +1,538 @@
+{
+  "adult": false,
+  "backdrop_path": "/qcDDn7WeKBenM4nLlOPXAeJ4hpg.jpg",
+  "belongs_to_collection": null,
+  "budget": 26000000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 1280450,
+  "imdb_id": "tt4682810",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Stolen Girl",
+  "overview": "In 1993, Maureen’s six-year-old daughter Amina is snuck out of the country by her ex-husband, Karim. After years of unsuccessful attempts to find her, Maureen intersects with a professional retriever of internationally abducted children who promises to help her find Amina in exchange for her collaboration.",
+  "popularity": 10.1244,
+  "poster_path": "/fZlNXEHZsBp7unqw009MeBbMv87.jpg",
+  "production_companies": [
+    {
+      "id": 6626,
+      "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+      "name": "Voltage Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 241823,
+      "logo_path": null,
+      "name": "Vigorous Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 241824,
+      "logo_path": null,
+      "name": "Hangtime International Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 241825,
+      "logo_path": null,
+      "name": "Anjulia Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 21622,
+      "logo_path": "/2aRykuGbavtyeB4UecrHFQPX5gv.png",
+      "name": "Braven Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-09-04",
+  "revenue": 92691,
+  "runtime": 110,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "She'll cross every line just to hear her daughter's voice again.",
+  "title": "Stolen Girl",
+  "video": false,
+  "vote_average": 6.323,
+  "vote_count": 200,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3967,
+        "known_for_department": "Acting",
+        "name": "Kate Beckinsale",
+        "original_name": "Kate Beckinsale",
+        "popularity": 5.1055,
+        "profile_path": "/lveqQgmEzW6ak5unOQi4md677kM.jpg",
+        "cast_id": 1,
+        "character": "Maureen",
+        "credit_id": "662b7b8401b1ca011be4040e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 928572,
+        "known_for_department": "Acting",
+        "name": "Scott Eastwood",
+        "original_name": "Scott Eastwood",
+        "popularity": 3.8052,
+        "profile_path": "/tKJEy1bFNxvIj7sivsB7Us2ThmY.jpg",
+        "cast_id": 2,
+        "character": "Robeson",
+        "credit_id": "662b7b8cb54002011b044580",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2852633,
+        "known_for_department": "Acting",
+        "name": "Jordan Duvigneau",
+        "original_name": "Jordan Duvigneau",
+        "popularity": 0.6625,
+        "profile_path": "/radXw5TVvfcKLRptZTKewHXshdz.jpg",
+        "cast_id": 18,
+        "character": "Carl",
+        "credit_id": "670e1376d5f93a3da0bc249a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13525,
+        "known_for_department": "Acting",
+        "name": "Matt Craven",
+        "original_name": "Matt Craven",
+        "popularity": 2.5651,
+        "profile_path": "/tWF8B3Dj7zvKRmkTplp7ice6Wo9.jpg",
+        "cast_id": 13,
+        "character": "Joe",
+        "credit_id": "670e132a9f3531e6b26c528a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5001408,
+        "known_for_department": "Acting",
+        "name": "Nowar Yusuf",
+        "original_name": "Nowar Yusuf",
+        "popularity": 0.3221,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Dasia",
+        "credit_id": "670e139342e1391c5666f902",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1721791,
+        "known_for_department": "Acting",
+        "name": "Arvin Kananian",
+        "original_name": "Arvin Kananian",
+        "popularity": 1.0223,
+        "profile_path": "/hcjxh1ouEnWgDGiiW7ihcEXE8ba.jpg",
+        "cast_id": 12,
+        "character": "Karim",
+        "credit_id": "6644b1504ed040b3922d6c55",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 945958,
+        "known_for_department": "Acting",
+        "name": "Robert Farrior",
+        "original_name": "Robert Farrior",
+        "popularity": 0.6187,
+        "profile_path": "/e6oe7eswcUTYfeq2otaIgAtfzor.jpg",
+        "cast_id": 16,
+        "character": "Lewis",
+        "credit_id": "670e1357b15d97b1a93d6e61",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2755881,
+        "known_for_department": "Acting",
+        "name": "Alejandra Howard",
+        "original_name": "Alejandra Howard",
+        "popularity": 0.9239,
+        "profile_path": "/uQyvQlzqsBCe7t0SuLF6zYtRtCd.jpg",
+        "cast_id": 17,
+        "character": "Amina (11)",
+        "credit_id": "670e13669f3531e6b26c52a5",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2247364,
+        "known_for_department": "Acting",
+        "name": "Yasmine Bouabid",
+        "original_name": "Yasmine Bouabid",
+        "popularity": 0.5721,
+        "profile_path": "/se6ekKmcLZEWrGhpk0XobwUTVu2.jpg",
+        "cast_id": 22,
+        "character": "Isra",
+        "credit_id": "6901005273241d9944da07fd",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3641731,
+        "known_for_department": "Acting",
+        "name": "Maria Laila Fernandez",
+        "original_name": "Maria Laila Fernandez",
+        "popularity": 0.9028,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Maya",
+        "credit_id": "6900ffb43474360a26fb7869",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2771778,
+        "known_for_department": "Crew",
+        "name": "Zeljko Matovina",
+        "original_name": "Zeljko Matovina",
+        "popularity": 0.3466,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Jd’s Father",
+        "credit_id": "690100ab23d8a440bc4e9318",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5779872,
+        "known_for_department": "Acting",
+        "name": "Maria Georgette Saliba",
+        "original_name": "Maria Georgette Saliba",
+        "popularity": 0.5853,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Grandmother",
+        "credit_id": "690102439e50829caea6397d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5779875,
+        "known_for_department": "Acting",
+        "name": "Giovanni Cadoni",
+        "original_name": "Giovanni Cadoni",
+        "popularity": 0.2041,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Security Guard Albania",
+        "credit_id": "690102703d844179b7a63997",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5779880,
+        "known_for_department": "Acting",
+        "name": "Antonio Fasano",
+        "original_name": "Antonio Fasano",
+        "popularity": 0.1973,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Amina’s Grandfather",
+        "credit_id": "690102a0cc15534d694e9285",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1251847,
+        "known_for_department": "Acting",
+        "name": "Ana Golja",
+        "original_name": "Ana Golja",
+        "popularity": 1.0566,
+        "profile_path": "/nAbK9EeAXXzlbABwBeVTBzEQPPE.jpg",
+        "cast_id": 14,
+        "character": "Nora",
+        "credit_id": "670e1335d5f93a3da0bc248c",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1852568,
+        "known_for_department": "Acting",
+        "name": "Craig Peritz",
+        "original_name": "Craig Peritz",
+        "popularity": 0.495,
+        "profile_path": "/cTLl8FX2msgR2z1Kd445QA8PBCn.jpg",
+        "cast_id": 27,
+        "character": "Detective 1",
+        "credit_id": "690103a43f063cc886a6397d",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1675344,
+        "known_for_department": "Acting",
+        "name": "Paten Hughes",
+        "original_name": "Paten Hughes",
+        "popularity": 0.4292,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Detective 2",
+        "credit_id": "690103c9e7c12ea6349fbbd1",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1909086,
+        "known_for_department": "Acting",
+        "name": "Linda Hand",
+        "original_name": "Linda Hand",
+        "popularity": 0.2851,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Receptionist",
+        "credit_id": "690103e3bcbe08f958fb7809",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4044420,
+        "known_for_department": "Acting",
+        "name": "Giulia Bartoli",
+        "original_name": "Giulia Bartoli",
+        "popularity": 0.205,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Petra",
+        "credit_id": "6901044fc43d0599e2939402",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3465747,
+        "known_for_department": "Acting",
+        "name": "Talia Asseraf",
+        "original_name": "Talia Asseraf",
+        "popularity": 0.6712,
+        "profile_path": "/qO9bluzeNVtHqVeF5x8vc7QxfPP.jpg",
+        "cast_id": 15,
+        "character": "Natalie",
+        "credit_id": "670e134a9f3531e6b26c5298",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 211659,
+        "known_for_department": "Directing",
+        "name": "James Kent",
+        "original_name": "James Kent",
+        "popularity": 0.7066,
+        "profile_path": "/wVriFTqzZDHDgFaricNulLg13a4.jpg",
+        "credit_id": "662b7ba2f9183a011c311dec",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2542007,
+        "known_for_department": "Writing",
+        "name": "Rebecca Pollock",
+        "original_name": "Rebecca Pollock",
+        "popularity": 0.5874,
+        "profile_path": null,
+        "credit_id": "662b7c43f9183a011c311e47",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1385132,
+        "known_for_department": "Production",
+        "name": "Monika Bacardi",
+        "original_name": "Monika Bacardi",
+        "popularity": 0.6045,
+        "profile_path": null,
+        "credit_id": "662b7c763d7454011dd2366f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 93715,
+        "known_for_department": "Writing",
+        "name": "Kas Graham",
+        "original_name": "Kas Graham",
+        "popularity": 0.4136,
+        "profile_path": null,
+        "credit_id": "662b7c4d9ac535011b8f3b51",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1660825,
+        "known_for_department": "Production",
+        "name": "Luca Matrundola",
+        "original_name": "Luca Matrundola",
+        "popularity": 0.363,
+        "profile_path": null,
+        "credit_id": "662b7c9101b1ca011ce407e3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13230,
+        "known_for_department": "Production",
+        "name": "Frida Torresblanco",
+        "original_name": "Frida Torresblanco",
+        "popularity": 0.4676,
+        "profile_path": "/8MOcv3U0l0UA7aFI3umzIi2Umc1.jpg",
+        "credit_id": "662b7ca699c964011b3a3bd1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1276565,
+        "known_for_department": "Production",
+        "name": "Andrea Iervolino",
+        "original_name": "Andrea Iervolino",
+        "popularity": 0.8797,
+        "profile_path": "/fYcOinCNh1HMZIcGkO3TXGj3c1Q.jpg",
+        "credit_id": "662b7c7eb54002011d04482d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37335,
+        "known_for_department": "Production",
+        "name": "Scott Lambert",
+        "original_name": "Scott Lambert",
+        "popularity": 0.5846,
+        "profile_path": null,
+        "credit_id": "662b7c9c01b1ca011ee3f8e9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3528058,
+        "known_for_department": "Crew",
+        "name": "Doren John Farmer",
+        "original_name": "Doren John Farmer",
+        "popularity": 0.6453,
+        "profile_path": "/c3bsf8KJryw1GL08sGjFjeMLRss.jpg",
+        "credit_id": "6720190eb3d5cbb842f4b3af",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27043,
+        "known_for_department": "Camera",
+        "name": "Teo Delgado",
+        "original_name": "Teo Delgado",
+        "popularity": 0.4054,
+        "profile_path": "/lao8X6AI0XZmOkhQ87ZTbD8Cyku.jpg",
+        "credit_id": "698ead3e15d5eb9f468f501e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1417876,
+        "known_for_department": "Editing",
+        "name": "Tommy Aagaard",
+        "original_name": "Tommy Aagaard",
+        "popularity": 0.394,
+        "profile_path": null,
+        "credit_id": "698ead4ce2e0b1ae6d0c2242",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1967799,
+        "known_for_department": "Sound",
+        "name": "Sam Ewing",
+        "original_name": "Sam Ewing",
+        "popularity": 0.4912,
+        "profile_path": null,
+        "credit_id": "6a1b27f616dea3dddd19e772",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

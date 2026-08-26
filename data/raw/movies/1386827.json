@@ -1,0 +1,547 @@
+{
+  "adult": false,
+  "backdrop_path": "/9DZPzEnHXjc3Kexaynj9J6iqF3B.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.primevideo.com/detail/Coyotes/0L554POB0Y24T8LMD8DX1GDQI7",
+  "id": 1386827,
+  "imdb_id": "tt34581826",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Coyotes",
+  "overview": "Trapped in their Hollywood Hills home, a family fights for survival when caught between a raging wildfire and a pack of savage coyotes.",
+  "popularity": 3.6306,
+  "poster_path": "/fSzs9ZXYcrln0FRrjGIPCjuB6En.jpg",
+  "production_companies": [
+    {
+      "id": 179831,
+      "logo_path": "/9yUvtr26VMnSRJnePouXgOLFV7K.png",
+      "name": "Capstone Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 215935,
+      "logo_path": "/pYh0UKZbx8WGKLDZuBkq7WwvGSH.png",
+      "name": "Gramercy Park Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 164800,
+      "logo_path": "/qZHPu9QptBtyCRtHhigklmPWvaQ.png",
+      "name": "Source Management + Production",
+      "origin_country": "US"
+    },
+    {
+      "id": 155758,
+      "logo_path": "/iZi0zd9ijrcWR9zlEUUthG8d600.png",
+      "name": "Tea Shop Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 200059,
+      "logo_path": "/q4gItsJvWmKluHx7VPYEhECQ620.png",
+      "name": "Magnetic Labs",
+      "origin_country": "US"
+    },
+    {
+      "id": 83191,
+      "logo_path": "/cir3g4iXLD6UayUJeM2nspw8RAj.png",
+      "name": "Sugar Studios LA",
+      "origin_country": "US"
+    },
+    {
+      "id": 128081,
+      "logo_path": "/c7e41WNx0l9UWKwTEHmFxVwNtCd.png",
+      "name": "Jaguar Bite",
+      "origin_country": "CO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    }
+  ],
+  "release_date": "2025-10-02",
+  "revenue": 0,
+  "runtime": 91,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Eat the rich.",
+  "title": "Coyotes",
+  "video": false,
+  "vote_average": 5.318,
+  "vote_count": 77,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15033,
+        "known_for_department": "Acting",
+        "name": "Justin Long",
+        "original_name": "Justin Long",
+        "popularity": 3.6225,
+        "profile_path": "/7TGXeHw4o86IBm6xknQotpludXK.jpg",
+        "cast_id": 1,
+        "character": "Scott Stewart",
+        "credit_id": "67338c93a67e36bb668d69d2",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3214361,
+        "known_for_department": "Acting",
+        "name": "Mila Harris",
+        "original_name": "Mila Harris",
+        "popularity": 1.1141,
+        "profile_path": "/10BSVhLPqosSBsOgp0L7qaU0Uhi.jpg",
+        "cast_id": 24,
+        "character": "Chloe Stewart",
+        "credit_id": "675c7830f1bf96dc2477f273",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 943913,
+        "known_for_department": "Acting",
+        "name": "Brittany Allen",
+        "original_name": "Brittany Allen",
+        "popularity": 2.2249,
+        "profile_path": "/kGLQeglfbdEbD5IursaYRutmRx0.jpg",
+        "cast_id": 27,
+        "character": "Julie",
+        "credit_id": "675c7861b038b65eddd882ca",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7517,
+        "known_for_department": "Acting",
+        "name": "Kate Bosworth",
+        "original_name": "Kate Bosworth",
+        "popularity": 3.0125,
+        "profile_path": "/ezaM2jsyrxXWVFN1SbH3UfAgZaG.jpg",
+        "cast_id": 2,
+        "character": "Liv Stewart",
+        "credit_id": "67338c9830ee10aa1b9b1a0f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52020,
+        "known_for_department": "Acting",
+        "name": "Norbert Leo Butz",
+        "original_name": "Norbert Leo Butz",
+        "popularity": 1.2822,
+        "profile_path": "/2SMyLebGOemP26yL9pp7IFKfqG5.jpg",
+        "cast_id": 25,
+        "character": "Trip",
+        "credit_id": "675c783a72f58b3629a294eb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5287221,
+        "known_for_department": "Acting",
+        "name": "Kevin Glynn",
+        "original_name": "Kevin Glynn",
+        "popularity": 0.5,
+        "profile_path": "/jIQk6lFQ0FOg5piKabufRHfSxNc.jpg",
+        "cast_id": 32,
+        "character": "Tony",
+        "credit_id": "68e0147d8878155ac86b878a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 968006,
+        "known_for_department": "Acting",
+        "name": "Katherine McNamara",
+        "original_name": "Katherine McNamara",
+        "popularity": 2.573,
+        "profile_path": "/cuGVMcnpi6HjobaGADo1xtaDglR.jpg",
+        "cast_id": 26,
+        "character": "Kat",
+        "credit_id": "675c78479046f73f3af190dc",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2090258,
+        "known_for_department": "Acting",
+        "name": "Norma Nivia",
+        "original_name": "Norma Nivia",
+        "popularity": 0.7882,
+        "profile_path": "/hZe6OiuiPL4GJfqtB7cWabwE8sW.jpg",
+        "cast_id": 31,
+        "character": "Sheila",
+        "credit_id": "68e0145a405d71d72c9320db",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 97913,
+        "known_for_department": "Acting",
+        "name": "Judith O'Dea",
+        "original_name": "Judith O'Dea",
+        "popularity": 0.9015,
+        "profile_path": "/cCZfWRio05U5qVbQBfUgncdAMHJ.jpg",
+        "cast_id": 33,
+        "character": "(archive footage)",
+        "credit_id": "68ec10687aaf6866a7a212fc",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39213,
+        "known_for_department": "Acting",
+        "name": "Keir O'Donnell",
+        "original_name": "Keir O'Donnell",
+        "popularity": 1.4356,
+        "profile_path": "/1GYWx3q4QNXIIBdwirZPiSHFFfJ.jpg",
+        "cast_id": 28,
+        "character": "Devon",
+        "credit_id": "675c7868e269c682230fdda8",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1310518,
+        "known_for_department": "Writing",
+        "name": "Colin Minihan",
+        "original_name": "Colin Minihan",
+        "popularity": 0.6808,
+        "profile_path": "/exXYnzNugYo0laAgzS2WzkzQtl5.jpg",
+        "credit_id": "67338cc19c1a238d8a9d1ca2",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1343873,
+        "known_for_department": "Writing",
+        "name": "Daniel Meersand",
+        "original_name": "Daniel Meersand",
+        "popularity": 0.4079,
+        "profile_path": null,
+        "credit_id": "67338cd2ae484f388a3f3909",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 593079,
+        "known_for_department": "Directing",
+        "name": "Nick Simon",
+        "original_name": "Nick Simon",
+        "popularity": 0.6068,
+        "profile_path": "/kbYmb9J8lUfBaqLJIYjtYkffRzJ.jpg",
+        "credit_id": "67338cdf9c1a238d8a9d1cab",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 593079,
+        "known_for_department": "Directing",
+        "name": "Nick Simon",
+        "original_name": "Nick Simon",
+        "popularity": 0.6068,
+        "profile_path": "/kbYmb9J8lUfBaqLJIYjtYkffRzJ.jpg",
+        "credit_id": "67338ce89c1a238d8a9d1cb1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3612632,
+        "known_for_department": "Writing",
+        "name": "Tad Daggerhart",
+        "original_name": "Tad Daggerhart",
+        "popularity": 0.5137,
+        "profile_path": "/kbXws6GyHrjaghzfUVcLhn6hIqn.jpg",
+        "credit_id": "67338cf61baedda17b97d9c1",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3612632,
+        "known_for_department": "Writing",
+        "name": "Tad Daggerhart",
+        "original_name": "Tad Daggerhart",
+        "popularity": 0.5137,
+        "profile_path": "/kbXws6GyHrjaghzfUVcLhn6hIqn.jpg",
+        "credit_id": "67338cfb1baedda17b97d9c4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3560353,
+        "known_for_department": "Production",
+        "name": "Ford Corbett",
+        "original_name": "Ford Corbett",
+        "popularity": 0.501,
+        "profile_path": null,
+        "credit_id": "67338d0a30ee10aa1b9b1a41",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2618312,
+        "known_for_department": "Production",
+        "name": "Nathan Klingher",
+        "original_name": "Nathan Klingher",
+        "popularity": 0.5494,
+        "profile_path": null,
+        "credit_id": "67338d0f9c1a238d8a9d1cd7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239663,
+        "known_for_department": "Production",
+        "name": "James Harris",
+        "original_name": "James Harris",
+        "popularity": 0.9311,
+        "profile_path": "/saC2CiD6PUazSJEeKJODHoI5VWE.jpg",
+        "credit_id": "67338d1bac5dde7eb2dda358",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 20515,
+        "known_for_department": "Production",
+        "name": "Jib Polhemus",
+        "original_name": "Jib Polhemus",
+        "popularity": 0.4562,
+        "profile_path": null,
+        "credit_id": "67338d241baedda17b97d9cd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2750352,
+        "known_for_department": "Production",
+        "name": "Roman Viaris-de-Lesegno",
+        "original_name": "Roman Viaris-de-Lesegno",
+        "popularity": 0.5946,
+        "profile_path": null,
+        "credit_id": "67338d321baedda17b97d9e5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7517,
+        "known_for_department": "Acting",
+        "name": "Kate Bosworth",
+        "original_name": "Kate Bosworth",
+        "popularity": 3.0125,
+        "profile_path": "/ezaM2jsyrxXWVFN1SbH3UfAgZaG.jpg",
+        "credit_id": "67338d3a9c1a238d8a9d1d02",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15033,
+        "known_for_department": "Acting",
+        "name": "Justin Long",
+        "original_name": "Justin Long",
+        "popularity": 3.6225,
+        "profile_path": "/7TGXeHw4o86IBm6xknQotpludXK.jpg",
+        "credit_id": "67338d441baedda17b97d9f4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3418212,
+        "known_for_department": "Production",
+        "name": "Ruzanna Kegeyan",
+        "original_name": "Ruzanna Kegeyan",
+        "popularity": 0.5527,
+        "profile_path": null,
+        "credit_id": "67338d4fae484f388a3f393b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1673676,
+        "known_for_department": "Production",
+        "name": "Adam Mirels",
+        "original_name": "Adam Mirels",
+        "popularity": 0.4608,
+        "profile_path": null,
+        "credit_id": "67338d62ac5dde7eb2dda363",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1673677,
+        "known_for_department": "Production",
+        "name": "Robert Mirels",
+        "original_name": "Robert Mirels",
+        "popularity": 0.46,
+        "profile_path": null,
+        "credit_id": "67338d6b1baedda17b97da12",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2814904,
+        "known_for_department": "Production",
+        "name": "Tyler Gould",
+        "original_name": "Tyler Gould",
+        "popularity": 0.6406,
+        "profile_path": null,
+        "credit_id": "67338d81a67e36bb668d6a55",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5055214,
+        "known_for_department": "Production",
+        "name": "Michael Sklut",
+        "original_name": "Michael Sklut",
+        "popularity": 0.2384,
+        "profile_path": null,
+        "credit_id": "67338d8f12d729010b922d36",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 593079,
+        "known_for_department": "Directing",
+        "name": "Nick Simon",
+        "original_name": "Nick Simon",
+        "popularity": 0.6068,
+        "profile_path": "/kbYmb9J8lUfBaqLJIYjtYkffRzJ.jpg",
+        "credit_id": "67338da1a67e36bb668d6a67",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 568318,
+        "known_for_department": "Production",
+        "name": "Jijo Reed",
+        "original_name": "Jijo Reed",
+        "popularity": 0.6806,
+        "profile_path": null,
+        "credit_id": "67338daca67e36bb668d6a6c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3612632,
+        "known_for_department": "Writing",
+        "name": "Tad Daggerhart",
+        "original_name": "Tad Daggerhart",
+        "popularity": 0.5137,
+        "profile_path": "/kbXws6GyHrjaghzfUVcLhn6hIqn.jpg",
+        "credit_id": "67338db3ae484f388a3f3953",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 943913,
+        "known_for_department": "Acting",
+        "name": "Brittany Allen",
+        "original_name": "Brittany Allen",
+        "popularity": 2.2249,
+        "profile_path": "/kGLQeglfbdEbD5IursaYRutmRx0.jpg",
+        "credit_id": "68e014055d95eb77108e664f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1085633,
+        "known_for_department": "Crew",
+        "name": "Bradley Stuckel",
+        "original_name": "Bradley Stuckel",
+        "popularity": 0.3633,
+        "profile_path": null,
+        "credit_id": "68e014206dc9f193ec8e6649",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

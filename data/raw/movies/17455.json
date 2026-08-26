@@ -1,0 +1,531 @@
+{
+  "adult": false,
+  "backdrop_path": "/cARh4D78SYGvOiLCjTjYA5PkCxe.jpg",
+  "belongs_to_collection": {
+    "id": 8917,
+    "name": "Hellraiser Collection",
+    "poster_path": "/lIK0UgJsA18Z5I1PwpucXzgyF3A.jpg",
+    "backdrop_path": "/g0XtsgbwFcFHNZGarpk6qAOPX7T.jpg"
+  },
+  "budget": 4000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 17455,
+  "imdb_id": "tt0337636",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hellraiser: Deader",
+  "overview": "When a tough-as-nails reporter is lead to a mysterious cult and the evil Pinhead, any moment could be her last.",
+  "popularity": 3.8718,
+  "poster_path": "/mWOiwo2mA1rDJzR2idMZCFhSizy.jpg",
+  "production_companies": [
+    {
+      "id": 7405,
+      "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+      "name": "Dimension Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 3121,
+      "logo_path": null,
+      "name": "Stan Winston Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 2811,
+      "logo_path": null,
+      "name": "Neo Art & Logic",
+      "origin_country": ""
+    },
+    {
+      "id": 1370,
+      "logo_path": "/uch218gB4XWNz3JNhlc65A5Q207.png",
+      "name": "Castel Film",
+      "origin_country": "RO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RO",
+      "name": "Romania"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2005-06-07",
+  "revenue": 0,
+  "runtime": 89,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The latest, most terrifying evil.",
+  "title": "Hellraiser: Deader",
+  "video": false,
+  "vote_average": 4.6,
+  "vote_count": 386,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56152,
+        "known_for_department": "Acting",
+        "name": "Kari Wührer",
+        "original_name": "Kari Wührer",
+        "popularity": 1.3878,
+        "profile_path": "/sTWVUK4WBcSpuIotCjlU7sRaEH7.jpg",
+        "cast_id": 1,
+        "character": "Amy Klein",
+        "credit_id": "52fe47279251416c7508f731",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80365,
+        "known_for_department": "Acting",
+        "name": "Paul Rhys",
+        "original_name": "Paul Rhys",
+        "popularity": 1.6052,
+        "profile_path": "/l7uc38oZGMQbbq7WqE8rKn9xZJr.jpg",
+        "cast_id": 2,
+        "character": "Winter",
+        "credit_id": "52fe47279251416c7508f735",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10701,
+        "known_for_department": "Acting",
+        "name": "Simon Kunz",
+        "original_name": "Simon Kunz",
+        "popularity": 1.9584,
+        "profile_path": "/7Kh3IbRU4bmeiH210CgHu9lofo7.jpg",
+        "cast_id": 3,
+        "character": "Charles Richmond",
+        "credit_id": "52fe47279251416c7508f739",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70903,
+        "known_for_department": "Acting",
+        "name": "Marc Warren",
+        "original_name": "Marc Warren",
+        "popularity": 4.7055,
+        "profile_path": "/sIsnids6kyarj8QjMrlA1j9p08n.jpg",
+        "cast_id": 4,
+        "character": "Joey",
+        "credit_id": "52fe47279251416c7508f73d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 58759,
+        "known_for_department": "Acting",
+        "name": "Georgina Rylance",
+        "original_name": "Georgina Rylance",
+        "popularity": 1.2191,
+        "profile_path": "/coDjSsjfY3c8uKeNJajtBEeaCOr.jpg",
+        "cast_id": 5,
+        "character": "Marla",
+        "credit_id": "52fe47279251416c7508f741",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 86781,
+        "known_for_department": "Acting",
+        "name": "Maria Pintea",
+        "original_name": "Maria Pintea",
+        "popularity": 0.3171,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Young Amy",
+        "credit_id": "52fe47279251416c7508f745",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73040,
+        "known_for_department": "Acting",
+        "name": "Doug Bradley",
+        "original_name": "Doug Bradley",
+        "popularity": 1.2423,
+        "profile_path": "/7RRelx5RlEbWhGRSUQMqo7KPTzg.jpg",
+        "cast_id": 12,
+        "character": "Pinhead",
+        "credit_id": "52fe47279251416c7508f761",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1099270,
+        "known_for_department": "Acting",
+        "name": "Ionut Chermenski",
+        "original_name": "Ionut Chermenski",
+        "popularity": 0.3384,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Group Leader",
+        "credit_id": "52fe47279251416c7508f77d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 60654,
+        "known_for_department": "Acting",
+        "name": "Mădălina Constantin",
+        "original_name": "Mădălina Constantin",
+        "popularity": 0.4438,
+        "profile_path": "/cmSlC3mSvipVHCixTjhdxyaqImJ.jpg",
+        "cast_id": 20,
+        "character": "Anna",
+        "credit_id": "52fe47279251416c7508f781",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 555538,
+        "known_for_department": "Acting",
+        "name": "Ioana Abur",
+        "original_name": "Ioana Abur",
+        "popularity": 0.7423,
+        "profile_path": "/n9YZiwm4zMF8CFuxLHnH4wRODeC.jpg",
+        "cast_id": 40,
+        "character": "Katia",
+        "credit_id": "5a887b199251410b0104f390",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 119553,
+        "known_for_department": "Acting",
+        "name": "Catalina Alexandru",
+        "original_name": "Catalina Alexandru",
+        "popularity": 0.4774,
+        "profile_path": "/liQQW49t8SxWMQgYv8POlz0eGPJ.jpg",
+        "cast_id": 41,
+        "character": "Cenobite's Victim",
+        "credit_id": "652b56b8f2883802a25e4797",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58209,
+        "known_for_department": "Directing",
+        "name": "Rick Bota",
+        "original_name": "Rick Bota",
+        "popularity": 0.854,
+        "profile_path": null,
+        "credit_id": "52fe47279251416c7508f74b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31211,
+        "known_for_department": "Writing",
+        "name": "Clive Barker",
+        "original_name": "Clive Barker",
+        "popularity": 1.2419,
+        "profile_path": "/h6JebwvNTpOquhJGrmDh8zCYjQZ.jpg",
+        "credit_id": "52fe47279251416c7508f751",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68765,
+        "known_for_department": "Writing",
+        "name": "Tim Day",
+        "original_name": "Tim Day",
+        "popularity": 0.6027,
+        "profile_path": null,
+        "credit_id": "52fe47279251416c7508f75d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1099266,
+        "known_for_department": "Art",
+        "name": "Șerban Porupcă",
+        "original_name": "Șerban Porupcă",
+        "popularity": 0.4807,
+        "profile_path": null,
+        "credit_id": "52fe47279251416c7508f779",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65643,
+        "known_for_department": "Production",
+        "name": "Nick Phillips",
+        "original_name": "Nick Phillips",
+        "popularity": 0.3571,
+        "profile_path": "/zVbtedfHFFZJrl8aainKs3xPKXg.jpg",
+        "credit_id": "52fe47279251416c7508f78b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49668,
+        "known_for_department": "Camera",
+        "name": "Vivi Drăgan Vasile",
+        "original_name": "Vivi Drăgan Vasile",
+        "popularity": 0.6414,
+        "profile_path": "/rYBYXbX518bjCVazKHG1zsHm35n.jpg",
+        "credit_id": "52fe47279251416c7508f791",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1099542,
+        "known_for_department": "Art",
+        "name": "Dan Toader",
+        "original_name": "Dan Toader",
+        "popularity": 0.5165,
+        "profile_path": null,
+        "credit_id": "52fe47279251416c7508f797",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60261,
+        "known_for_department": "Crew",
+        "name": "Stan Winston",
+        "original_name": "Stan Winston",
+        "popularity": 1.0005,
+        "profile_path": "/k1L7O1pIQ1fveNnKBcLNICL2cIm.jpg",
+        "credit_id": "52fe47279251416c7508f79d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4394067,
+        "known_for_department": "Directing",
+        "name": "Tudor Cotovelea",
+        "original_name": "Tudor Cotovelea",
+        "popularity": 0.4211,
+        "profile_path": null,
+        "credit_id": "65614a7a497560011db122d6",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40613,
+        "known_for_department": "Sound",
+        "name": "Henning Lohner",
+        "original_name": "Henning Lohner",
+        "popularity": 0.4776,
+        "profile_path": "/AoXLOV8gZGPvrzTsP96xP3MUakD.jpg",
+        "credit_id": "5687d7fb9251414ecb014945",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63291,
+        "known_for_department": "Production",
+        "name": "Ron Schmidt",
+        "original_name": "Ron Schmidt",
+        "popularity": 0.8094,
+        "profile_path": null,
+        "credit_id": "572ca1efc3a36801400022ca",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1358021,
+        "known_for_department": "Visual Effects",
+        "name": "Jamison Scott Goei",
+        "original_name": "Jamison Scott Goei",
+        "popularity": 0.5219,
+        "profile_path": null,
+        "credit_id": "59877f05925141059d015602",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40613,
+        "known_for_department": "Sound",
+        "name": "Henning Lohner",
+        "original_name": "Henning Lohner",
+        "popularity": 0.4776,
+        "profile_path": "/AoXLOV8gZGPvrzTsP96xP3MUakD.jpg",
+        "credit_id": "59877f46c3a3681c6500f6f8",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35145,
+        "known_for_department": "Production",
+        "name": "Adrienne Stern",
+        "original_name": "Adrienne Stern",
+        "popularity": 0.4508,
+        "profile_path": "/vUTcBXvaKCLocGgbXKdwUlG9oa6.jpg",
+        "credit_id": "59897ca2c3a368755f0112a3",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1530086,
+        "known_for_department": "Production",
+        "name": "Karen Meisels",
+        "original_name": "Karen Meisels",
+        "popularity": 0.3763,
+        "profile_path": null,
+        "credit_id": "59897ccdc3a368752600e498",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6232,
+        "known_for_department": "Production",
+        "name": "Carrie Hilton",
+        "original_name": "Carrie Hilton",
+        "popularity": 1.1577,
+        "profile_path": null,
+        "credit_id": "59897cde9251414bd100ff08",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1099544,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Oana Păunescu",
+        "original_name": "Oana Păunescu",
+        "popularity": 0.4793,
+        "profile_path": "/oRLZyRn4pZ6goaX95OtQcKQaOGQ.jpg",
+        "credit_id": "59897f70c3a368786500bf19",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62824,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gary J. Tunnicliffe",
+        "original_name": "Gary J. Tunnicliffe",
+        "popularity": 0.9113,
+        "profile_path": null,
+        "credit_id": "59897fa0c3a36824a0003182",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Effects Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68768,
+        "known_for_department": "Editing",
+        "name": "Anthony Adler",
+        "original_name": "Anthony Adler",
+        "popularity": 0.4064,
+        "profile_path": null,
+        "credit_id": "598981fac3a368786500c281",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 997132,
+        "known_for_department": "Art",
+        "name": "Christian Niculescu",
+        "original_name": "Christian Niculescu",
+        "popularity": 0.3615,
+        "profile_path": "/xB7FXb3St2hptq2St7PsCwbz1uq.jpg",
+        "credit_id": "598982e79251413706003a2c",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1099261,
+        "known_for_department": "Production",
+        "name": "David S. Greathouse",
+        "original_name": "David S. Greathouse",
+        "popularity": 0.3508,
+        "profile_path": "/lKepmDqtpftTlzkhcI8RNYPm5D8.jpg",
+        "credit_id": "598985b9c3a368752600ef14",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31625,
+        "known_for_department": "Writing",
+        "name": "Neal Marshall Stevens",
+        "original_name": "Neal Marshall Stevens",
+        "popularity": 0.6715,
+        "profile_path": null,
+        "credit_id": "6643aab901635eed73c1d69e",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

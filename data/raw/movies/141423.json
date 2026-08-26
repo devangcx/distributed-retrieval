@@ -1,0 +1,224 @@
+{
+  "adult": false,
+  "backdrop_path": "/wdTiTL5SHb1fVYeBp1MLbv4LReC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 141423,
+  "imdb_id": "tt2565938",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Legend of Mor'du",
+  "overview": "The witch from Pixar's Brave uses magical illustrations to tell the legend of a power-obsessed prince who sought a magic spell that would allow him to wrest control of a kingdom from his brothers, only to destroy that kingdom and his own fate as well.",
+  "popularity": 2.9718,
+  "poster_path": "/1wdE3zpo903fHqSCrRnsxMYv2Il.jpg",
+  "production_companies": [
+    {
+      "id": 2,
+      "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 3,
+      "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+      "name": "Pixar",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2012-11-13",
+  "revenue": 0,
+  "runtime": 6,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Legend of Mor'du",
+  "video": false,
+  "vote_average": 5.975,
+  "vote_count": 179,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 477,
+        "known_for_department": "Acting",
+        "name": "Julie Walters",
+        "original_name": "Julie Walters",
+        "popularity": 3.1476,
+        "profile_path": "/bCTkV2OUgzbJdQEoCk3GesE4DXq.jpg",
+        "cast_id": 12,
+        "character": "The Witch (voice)",
+        "credit_id": "52fe4ab49251416c750eb1dd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137262,
+        "known_for_department": "Acting",
+        "name": "Steve Purcell",
+        "original_name": "Steve Purcell",
+        "popularity": 1.0642,
+        "profile_path": "/8wdCJVDq7v4g5N9Qkv8D87B3Xne.jpg",
+        "cast_id": 13,
+        "character": "The Crow (voice)",
+        "credit_id": "52fe4ab49251416c750eb1e1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1133634,
+        "known_for_department": "Acting",
+        "name": "Callum O'Neil",
+        "original_name": "Callum O'Neil",
+        "popularity": 0.2831,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Wee Dingwall (voice)",
+        "credit_id": "52fe4ab49251416c750eb1e5",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1122954,
+        "known_for_department": "Writing",
+        "name": "Brian Larsen",
+        "original_name": "Brian Larsen",
+        "popularity": 0.5545,
+        "profile_path": "/A76emQX5pOx6Kfivckf0isZz5V5.jpg",
+        "credit_id": "52fe4ab49251416c750eb1c1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7899,
+        "known_for_department": "Production",
+        "name": "Galyn Susman",
+        "original_name": "Galyn Susman",
+        "popularity": 0.9227,
+        "profile_path": "/x7eCfF09EXtGThrf5tnr83G7qm7.jpg",
+        "credit_id": "52fe4ab49251416c750eb1c7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 126638,
+        "known_for_department": "Writing",
+        "name": "Mark Andrews",
+        "original_name": "Mark Andrews",
+        "popularity": 1.0068,
+        "profile_path": "/1z6t4TK2ZehNZ5gwaN7893aNhJf.jpg",
+        "credit_id": "52fe4ab49251416c750eb1cd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1122954,
+        "known_for_department": "Writing",
+        "name": "Brian Larsen",
+        "original_name": "Brian Larsen",
+        "popularity": 0.5545,
+        "profile_path": "/A76emQX5pOx6Kfivckf0isZz5V5.jpg",
+        "credit_id": "52fe4ab49251416c750eb1d3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1133632,
+        "known_for_department": "Editing",
+        "name": "Tim Fox",
+        "original_name": "Tim Fox",
+        "popularity": 0.3074,
+        "profile_path": null,
+        "credit_id": "52fe4ab49251416c750eb1d9",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137262,
+        "known_for_department": "Acting",
+        "name": "Steve Purcell",
+        "original_name": "Steve Purcell",
+        "popularity": 1.0642,
+        "profile_path": "/8wdCJVDq7v4g5N9Qkv8D87B3Xne.jpg",
+        "credit_id": "52fe4ab49251416c750eb1eb",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7879,
+        "known_for_department": "Production",
+        "name": "John Lasseter",
+        "original_name": "John Lasseter",
+        "popularity": 2.5321,
+        "profile_path": "/xlrE4VD2VbZCDpaNdWCpH1ZihPS.jpg",
+        "credit_id": "52fe4ab49251416c750eb1f1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7982,
+        "known_for_department": "Art",
+        "name": "Louis Gonzales",
+        "original_name": "Louis Gonzales",
+        "popularity": 0.5975,
+        "profile_path": "/58IsdAjs75hdOd3POOjUaJUOyvE.jpg",
+        "credit_id": "5ba5308e9251412deb017a4f",
+        "department": "Art",
+        "job": "Production Design"
+      }
+    ]
+  }
+}

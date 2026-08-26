@@ -1,0 +1,234 @@
+{
+  "adult": false,
+  "backdrop_path": "/qJqj6VAxpbbdJB6CtzYoTSR4SNu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 546728,
+  "imdb_id": "tt8952294",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Auntie Edna",
+  "overview": "Taking place during the events of Incredibles 2, Edna Mode babysits Jack-Jack.",
+  "popularity": 3.0281,
+  "poster_path": "/ypgqNZGKPh5vLDhDAUUArv1ZSRu.jpg",
+  "production_companies": [
+    {
+      "id": 3,
+      "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+      "name": "Pixar",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-10-23",
+  "revenue": 0,
+  "runtime": 5,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Auntie Edna",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 283,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7087,
+        "known_for_department": "Directing",
+        "name": "Brad Bird",
+        "original_name": "Brad Bird",
+        "popularity": 2.1558,
+        "profile_path": "/zB9Uz0Rs1K9uwHffXRFaBwwSYI.jpg",
+        "cast_id": 1,
+        "character": "Edna Mode (voice)",
+        "credit_id": "5b905cd992514166aa0010c9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8977,
+        "known_for_department": "Acting",
+        "name": "Craig T. Nelson",
+        "original_name": "Craig T. Nelson",
+        "popularity": 2.8966,
+        "profile_path": "/rMh8qdexFKmc7mq7oLzsLLvCCjs.jpg",
+        "cast_id": 8,
+        "character": "Bob Parr (voice)",
+        "credit_id": "5bde6552c3a3682b2901baf2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59358,
+        "known_for_department": "Acting",
+        "name": "Eli Fucile",
+        "original_name": "Eli Fucile",
+        "popularity": 1.0604,
+        "profile_path": "/pcNfD0mIB9KrQMaXP0rN82VbiHY.jpg",
+        "cast_id": 2,
+        "character": "Jack-Jack Parr (voice)",
+        "credit_id": "5b905ce90e0a2665a30011a6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 981048,
+        "known_for_department": "Acting",
+        "name": "Nicholas Bird",
+        "original_name": "Nicholas Bird",
+        "popularity": 0.8738,
+        "profile_path": "/3Q9j2bOlFjrRy6JEiJZS2a2kKPL.jpg",
+        "cast_id": 12,
+        "character": "Monster Jack-Jack (voice)",
+        "credit_id": "5be9e9740e0a263c060477be",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 59359,
+        "known_for_department": "Acting",
+        "name": "Maeve Andrews",
+        "original_name": "Maeve Andrews",
+        "popularity": 0.5533,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Jack-Jack Parr (voice)",
+        "credit_id": "5bde6567c3a3682b3d01d48d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2167956,
+        "known_for_department": "Acting",
+        "name": "Noelle Zuber",
+        "original_name": "Noelle Zuber",
+        "popularity": 0.4153,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Jack-Jack Parr (voice)",
+        "credit_id": "5bde657d92514137c901a924",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15347,
+        "known_for_department": "Sound",
+        "name": "Michael Giacchino",
+        "original_name": "Michael Giacchino",
+        "popularity": 1.2552,
+        "profile_path": "/xgurVFMLVgtgz9f5bgrrCppm4xq.jpg",
+        "credit_id": "66526ba26277ad2806171154",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225977,
+        "known_for_department": "Writing",
+        "name": "Ted Mathot",
+        "original_name": "Ted Mathot",
+        "popularity": 0.4314,
+        "profile_path": null,
+        "credit_id": "5b905cba0e0a26659c00122c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225977,
+        "known_for_department": "Writing",
+        "name": "Ted Mathot",
+        "original_name": "Ted Mathot",
+        "popularity": 0.4314,
+        "profile_path": null,
+        "credit_id": "5bde64f2c3a3682b2901ba93",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1435597,
+        "known_for_department": "Editing",
+        "name": "Kevin Rose-Williams",
+        "original_name": "Kevin Rose-Williams",
+        "popularity": 0.437,
+        "profile_path": null,
+        "credit_id": "5bde654692514137cb01b974",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1703199,
+        "known_for_department": "Production",
+        "name": "Marc Sondheimer",
+        "original_name": "Marc Sondheimer",
+        "popularity": 0.4398,
+        "profile_path": null,
+        "credit_id": "5bde650f92514137cf01bb91",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7087,
+        "known_for_department": "Directing",
+        "name": "Brad Bird",
+        "original_name": "Brad Bird",
+        "popularity": 2.1558,
+        "profile_path": "/zB9Uz0Rs1K9uwHffXRFaBwwSYI.jpg",
+        "credit_id": "5bde6503c3a3682b34020520",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

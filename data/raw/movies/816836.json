@@ -1,0 +1,144 @@
+{
+  "adult": false,
+  "backdrop_path": "/cpZH1cytFcftuAgeaEOasL4xK3r.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 816836,
+  "imdb_id": "tt14167424",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Searching for Sheela",
+  "overview": "Journalists and fans await Ma Anand Sheela as the infamous former Rajneesh commune's spokesperson returns to India after decades for an interview tour.",
+  "popularity": 0.9058,
+  "poster_path": "/4uUmXmS1BNXieflgr884NnjYRFK.jpg",
+  "production_companies": [
+    {
+      "id": 150300,
+      "logo_path": null,
+      "name": "Dharmatic Entertainment",
+      "origin_country": "IN"
+    },
+    {
+      "id": 152404,
+      "logo_path": null,
+      "name": "Jouska Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2021-04-22",
+  "revenue": 0,
+  "runtime": 58,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Searching for Sheela",
+  "video": false,
+  "vote_average": 5.731,
+  "vote_count": 26,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2041714,
+        "known_for_department": "Acting",
+        "name": "Ma Anand Sheela",
+        "original_name": "Ma Anand Sheela",
+        "popularity": 0.4198,
+        "profile_path": "/v4hIaOxBgfv6WKpD6SjRQjoZQ0v.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "607139d8839d93005692d8fe",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35736,
+        "known_for_department": "Production",
+        "name": "Karan Johar",
+        "original_name": "Karan Johar",
+        "popularity": 1.4295,
+        "profile_path": "/zip1x7OXOBxXxcdYvKOgw6MnAWm.jpg",
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "6084108ac439c0002a4011a3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1277635,
+        "known_for_department": "Acting",
+        "name": "Raghu Rai",
+        "original_name": "Raghu Rai",
+        "popularity": 0.29,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Self",
+        "credit_id": "6084109365e0a20078de274c",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 930926,
+        "known_for_department": "Directing",
+        "name": "Shakun Batra",
+        "original_name": "Shakun Batra",
+        "popularity": 0.4594,
+        "profile_path": "/h28BrdAcEVLfflo0L7pYT0nrR7A.jpg",
+        "credit_id": "6074166c7c6de30040479b4a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 930926,
+        "known_for_department": "Directing",
+        "name": "Shakun Batra",
+        "original_name": "Shakun Batra",
+        "popularity": 0.4594,
+        "profile_path": "/h28BrdAcEVLfflo0L7pYT0nrR7A.jpg",
+        "credit_id": "608178e9126ec300785558f5",
+        "department": "Crew",
+        "job": "Creator"
+      }
+    ]
+  }
+}

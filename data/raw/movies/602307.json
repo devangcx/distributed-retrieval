@@ -1,0 +1,513 @@
+{
+  "adult": false,
+  "backdrop_path": "/sreACNpiCB8SxGVINQR5mY3Y4tp.jpg",
+  "belongs_to_collection": {
+    "id": 386162,
+    "name": "LEGO DC Comics Super Heroes Collection",
+    "poster_path": "/noBsTnvxo1G4DVd36kaKSbTtM1M.jpg",
+    "backdrop_path": "/xMSbYXiCstnssIdxAajbGST8lpI.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 602307,
+  "imdb_id": "tt10327712",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "LEGO DC Batman: Family Matters",
+  "overview": "Suspicion is on high after Batman, Batgirl, Robin and other DC superheroes receive mysterious invitations. However, family values must remain strong when Batman and his team encounter the villainous Red Hood, who is obsessed with destroying the Bat-family and all of Gotham City.",
+  "popularity": 2.4956,
+  "poster_path": "/rA5bdwbzEAKfvjHRzza6Q3r0otq.jpg",
+  "production_companies": [
+    {
+      "id": 2785,
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "name": "Warner Bros. Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 9993,
+      "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+      "name": "DC Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 4081,
+      "logo_path": "/9Q0SyrhQD61wWbz5KJOkL6tu2mg.png",
+      "name": "The LEGO Group",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-07-21",
+  "revenue": 0,
+  "runtime": 72,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "LEGO DC Batman: Family Matters",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 167,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 963818,
+        "known_for_department": "Acting",
+        "name": "Troy Baker",
+        "original_name": "Troy Baker",
+        "popularity": 2.1407,
+        "profile_path": "/mppX8pDkwNvx3dJzclwcGkngEb3.jpg",
+        "cast_id": 7,
+        "character": "Bruce Wayne / Batman (voice)",
+        "credit_id": "5d2797dbcaab6d6658968de3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 216973,
+        "known_for_department": "Acting",
+        "name": "Jason Spisak",
+        "original_name": "Jason Spisak",
+        "popularity": 1.4456,
+        "profile_path": "/yWxJDXNcocccr1LkEuVXapVdcXS.jpg",
+        "cast_id": 9,
+        "character": "Jason Todd / Red Hood (voice)",
+        "credit_id": "5d279a85d5191f0010a868a4",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76621,
+        "known_for_department": "Acting",
+        "name": "Will Friedle",
+        "original_name": "Will Friedle",
+        "popularity": 1.7191,
+        "profile_path": "/Ao3fp9f4loVQ1Vvk6ph8HU5p0Lu.jpg",
+        "cast_id": 10,
+        "character": "Dick Grayson / Nightwing (voice)",
+        "credit_id": "5d279aa3caab6d66599670d8",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15762,
+        "known_for_department": "Acting",
+        "name": "Tara Strong",
+        "original_name": "Tara Strong",
+        "popularity": 3.8197,
+        "profile_path": "/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg",
+        "cast_id": 11,
+        "character": "Katherine Kane / Batwoman (voice)",
+        "credit_id": "5d279ace5f6c496cb25ce640",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 58965,
+        "known_for_department": "Acting",
+        "name": "Alyson Stoner",
+        "original_name": "Alyson Stoner",
+        "popularity": 3.0713,
+        "profile_path": "/oIjU19kaJv2laaYnAHemghHfyPh.jpg",
+        "cast_id": 12,
+        "character": "Barbara Gordon / Batgirl (voice)",
+        "credit_id": "5d279ae6caab6d6659967236",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113916,
+        "known_for_department": "Acting",
+        "name": "Scott Menville",
+        "original_name": "Scott Menville",
+        "popularity": 1.8822,
+        "profile_path": "/iLoApH8LbyJSKFmdgWxNR314GGa.jpg",
+        "cast_id": 13,
+        "character": "Damian Wayne / Robin (voice)",
+        "credit_id": "5d279b2ad5191f0012a86491",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19508,
+        "known_for_department": "Acting",
+        "name": "Nolan North",
+        "original_name": "Nolan North",
+        "popularity": 2.4952,
+        "profile_path": "/gb499KZIoBTZnKCGKE4zwzlcfSe.jpg",
+        "cast_id": 14,
+        "character": "Alfred (voice) / Killer Croc (voice)",
+        "credit_id": "5d279b4bcaab6d0f719534e4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1552817,
+        "known_for_department": "Acting",
+        "name": "Christian Lanz",
+        "original_name": "Christian Lanz",
+        "popularity": 0.8775,
+        "profile_path": "/4GDmhCJvdOQHV0uRuK34XJBMiTr.jpg",
+        "cast_id": 15,
+        "character": "Harvey Dent / Two-Face (voice)",
+        "credit_id": "5d279b8bbe4b3612f49e5923",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225863,
+        "known_for_department": "Acting",
+        "name": "Zach Callison",
+        "original_name": "Zach Callison",
+        "popularity": 1.0986,
+        "profile_path": "/xZ498fu7e34DNBDVNMAs4phMrdV.jpg",
+        "cast_id": 18,
+        "character": "Billy Batson (voice)",
+        "credit_id": "5d279d115f6c4916bc5e3aaf",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60272,
+        "known_for_department": "Acting",
+        "name": "Cam Clarke",
+        "original_name": "Cam Clarke",
+        "popularity": 1.4577,
+        "profile_path": "/hScRMNVHAFge06mOfFEauKcthtO.jpg",
+        "cast_id": 20,
+        "character": "Brother Eye (voice) / Bat Computer (voice)",
+        "credit_id": "5d279e0d5f6c496cb25cf0cb",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78798,
+        "known_for_department": "Acting",
+        "name": "Tom Kenny",
+        "original_name": "Tom Kenny",
+        "popularity": 3.5943,
+        "profile_path": "/kftXtExrcoTTjyeYmSXJ0Ogr3R7.jpg",
+        "cast_id": 16,
+        "character": "Commissioner Gordon (voice) / Penguin (voice)",
+        "credit_id": "5d279bbcbe4b3612f49e5a82",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 571562,
+        "known_for_department": "Acting",
+        "name": "Steve Blum",
+        "original_name": "Steve Blum",
+        "popularity": 2.4053,
+        "profile_path": "/cpO0muunoigq1WHegeOEI1AIQAo.jpg",
+        "cast_id": 17,
+        "character": "Scarecrow (voice)",
+        "credit_id": "5d279be2caab6d001298a4c6",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 177588,
+        "known_for_department": "Acting",
+        "name": "André Sogliuzzo",
+        "original_name": "André Sogliuzzo",
+        "popularity": 1.0335,
+        "profile_path": "/lrebAFDCMthLuq6Oyzraac8MzQL.jpg",
+        "cast_id": 19,
+        "character": "The Riddler (voice)",
+        "credit_id": "5d279d46be4b3612f69e5f23",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2016862,
+        "known_for_department": "Acting",
+        "name": "Jake Green",
+        "original_name": "Jake Green",
+        "popularity": 1.0585,
+        "profile_path": "/3bfUpMgBCJw1Serr18Qm8tDJQvE.jpg",
+        "cast_id": 21,
+        "character": "Fred (voice)",
+        "credit_id": "5d279e25be4b3612f59e83c5",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20903,
+        "known_for_department": "Acting",
+        "name": "Josh Keaton",
+        "original_name": "Josh Keaton",
+        "popularity": 1.6051,
+        "profile_path": "/9ss2EXbN0VarF1tM2Qotwxy6fJs.jpg",
+        "cast_id": 22,
+        "character": "Board Member (voice)",
+        "credit_id": "5d279e4bbe4b3612f59e8419",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60286,
+        "known_for_department": "Acting",
+        "name": "Ralph Garman",
+        "original_name": "Ralph Garman",
+        "popularity": 1.0378,
+        "profile_path": "/AuDBsawi0M9m9Gd23swFI3mur1v.jpg",
+        "cast_id": 23,
+        "character": "The Wizard (voice)",
+        "credit_id": "5d279e6f5f6c4916bc5e3f28",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60279,
+        "known_for_department": "Acting",
+        "name": "Fred Tatasciore",
+        "original_name": "Fred Tatasciore",
+        "popularity": 2.5726,
+        "profile_path": "/xodxYKRC9mdvgquTdqpmYldliJ3.jpg",
+        "cast_id": 24,
+        "character": "Solomon Grundy (voice)",
+        "credit_id": "5d279e87d5191f7880a7e5f1",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1311631,
+        "known_for_department": "Sound",
+        "name": "D.J. Lynch",
+        "original_name": "D.J. Lynch",
+        "popularity": 0.3223,
+        "profile_path": null,
+        "credit_id": "62f69da9498bc20084fa343b",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1768132,
+        "known_for_department": "Editing",
+        "name": "Cris Mertens",
+        "original_name": "Cris Mertens",
+        "popularity": 0.4273,
+        "profile_path": null,
+        "credit_id": "5d266b57b3316b0011952c8d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1637776,
+        "known_for_department": "Directing",
+        "name": "Matt Peters",
+        "original_name": "Matt Peters",
+        "popularity": 0.9167,
+        "profile_path": "/twz7t4EyHuC3aTwQPedQI7ZBQXs.jpg",
+        "credit_id": "5d2798785f6c4916bc5e2f61",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1674791,
+        "known_for_department": "Writing",
+        "name": "Jeremy Adams",
+        "original_name": "Jeremy Adams",
+        "popularity": 0.8213,
+        "profile_path": null,
+        "credit_id": "5d27a6d5be4b3612f59e9b75",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141043,
+        "known_for_department": "Production",
+        "name": "Sam Register",
+        "original_name": "Sam Register",
+        "popularity": 1.1426,
+        "profile_path": "/rCJa4fFOi3CcOGjljzn06XliSsz.jpg",
+        "credit_id": "5d27a6f0d5191f7880a7fc85",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1535346,
+        "known_for_department": "Production",
+        "name": "Jason Cosler",
+        "original_name": "Jason Cosler",
+        "popularity": 0.4722,
+        "profile_path": null,
+        "credit_id": "5d27a6ffd5191f7880a7fc99",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 110643,
+        "known_for_department": "Production",
+        "name": "Jill Wilfert",
+        "original_name": "Jill Wilfert",
+        "popularity": 0.4543,
+        "profile_path": null,
+        "credit_id": "5d27a70bd5191f0010a88a48",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105642,
+        "known_for_department": "Directing",
+        "name": "Rick Morales",
+        "original_name": "Rick Morales",
+        "popularity": 0.9367,
+        "profile_path": "/qmzubkG4gb89WeFelMpa1VKvjfs.jpg",
+        "credit_id": "5d27a71bcaab6d0f7195543b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150856,
+        "known_for_department": "Writing",
+        "name": "Jim Krieg",
+        "original_name": "Jim Krieg",
+        "popularity": 1.4069,
+        "profile_path": null,
+        "credit_id": "5d27a72ccaab6d0f71955460",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1420598,
+        "known_for_department": "Sound",
+        "name": "Tim Kelly",
+        "original_name": "Tim Kelly",
+        "popularity": 0.4627,
+        "profile_path": null,
+        "credit_id": "5d27a755be4b3612f49e7626",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1903386,
+        "known_for_department": "Editing",
+        "name": "Mike Mangan",
+        "original_name": "Mike Mangan",
+        "popularity": 0.4397,
+        "profile_path": null,
+        "credit_id": "5d27a76ecaab6d665896b25d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 966797,
+        "known_for_department": "Production",
+        "name": "Collette Sunderman",
+        "original_name": "Collette Sunderman",
+        "popularity": 0.6173,
+        "profile_path": null,
+        "credit_id": "5d27a780be4b361ac49e72a2",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1438912,
+        "known_for_department": "Visual Effects",
+        "name": "Dougg Williams",
+        "original_name": "Dougg Williams",
+        "popularity": 0.5254,
+        "profile_path": null,
+        "credit_id": "5d27a7ffcaab6d0f719556d3",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2103986,
+        "known_for_department": "Production",
+        "name": "Brian E.S. Jones",
+        "original_name": "Brian E.S. Jones",
+        "popularity": 0.5174,
+        "profile_path": null,
+        "credit_id": "5d27a8435f6c4902c35e6790",
+        "department": "Production",
+        "job": "Executive In Charge Of Production"
+      }
+    ]
+  }
+}

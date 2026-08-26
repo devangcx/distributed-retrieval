@@ -1,0 +1,433 @@
+{
+  "adult": false,
+  "backdrop_path": "/3yxXZSnjGKcMt8hSBEU16L0s8oe.jpg",
+  "belongs_to_collection": null,
+  "budget": 45223,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "https://www.disneyplus.com/movies/ciao-alberto/79D7HDii6hHH",
+  "id": 876716,
+  "imdb_id": "tt15476620",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Ciao Alberto",
+  "overview": "With his best friend Luca away at school, Alberto is enjoying his new life in Portorosso working alongside Massimo—the imposing, tattooed, one-armed fisherman of few words—who's quite possibly the coolest human in the entire world as far as Alberto is concerned. He wants more than anything to impress his mentor, but it's easier said than done.",
+  "popularity": 3.2322,
+  "poster_path": "/9RKPB9IKDHaTxWQgjkS4IJao08a.jpg",
+  "production_companies": [
+    {
+      "id": 3,
+      "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+      "name": "Pixar",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-11-11",
+  "revenue": 0,
+  "runtime": 7,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They go together like pasta and pesto.",
+  "title": "Ciao Alberto",
+  "video": false,
+  "vote_average": 7.367,
+  "vote_count": 712,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1774679,
+        "known_for_department": "Acting",
+        "name": "Jack Dylan Grazer",
+        "original_name": "Jack Dylan Grazer",
+        "popularity": 1.9408,
+        "profile_path": "/wkLAOleFx9Pis97g6t3noJRhAwg.jpg",
+        "cast_id": 5,
+        "character": "Alberto Scorfano (voice)",
+        "credit_id": "6167a1b5681888008fc20c8a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2990412,
+        "known_for_department": "Acting",
+        "name": "Marco Barricelli",
+        "original_name": "Marco Barricelli",
+        "popularity": 0.7296,
+        "profile_path": "/apuu59ph3HXqTXtdXKqUzSHO2OE.jpg",
+        "cast_id": 6,
+        "character": "Massimo Marcovaldo (voice)",
+        "credit_id": "6167a1db5cea18006272646b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1277188,
+        "known_for_department": "Acting",
+        "name": "Jacob Tremblay",
+        "original_name": "Jacob Tremblay",
+        "popularity": 3.0717,
+        "profile_path": "/h8CXDp86Y36CUENF4SXJq5ZRTsf.jpg",
+        "cast_id": 9,
+        "character": "Luca Paguro (voice)",
+        "credit_id": "618d8bdd63e6fb002a167784",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2077906,
+        "known_for_department": "Acting",
+        "name": "Gino La Monica",
+        "original_name": "Gino La Monica",
+        "popularity": 0.7956,
+        "profile_path": "/zeOI8QSq5hMcLR9ldWrOAr1mJho.jpg",
+        "cast_id": 26,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6190dd70a6d93100430c1b14",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3331781,
+        "known_for_department": "Acting",
+        "name": "Arturo Sorino",
+        "original_name": "Arturo Sorino",
+        "popularity": 0.3223,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Additional Voices (voice)",
+        "credit_id": "61a7adf085c0a20044ecc87f",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1997733,
+        "known_for_department": "Directing",
+        "name": "Kelly Bonbright",
+        "original_name": "Kelly Bonbright",
+        "popularity": 0.3385,
+        "profile_path": null,
+        "credit_id": "6231c507fcadb40046fca96c",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3467607,
+        "known_for_department": "Editing",
+        "name": "Libby Blood",
+        "original_name": "Libby Blood",
+        "popularity": 0.2084,
+        "profile_path": null,
+        "credit_id": "6231c4f3c3bffe007cd64e5c",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3467608,
+        "known_for_department": "Visual Effects",
+        "name": "Henry Dean Garcia",
+        "original_name": "Henry Dean Garcia",
+        "popularity": 0.2516,
+        "profile_path": null,
+        "credit_id": "6231c596ec0c580047ceeb5d",
+        "department": "Visual Effects",
+        "job": "Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2000164,
+        "known_for_department": "Visual Effects",
+        "name": "Stephen L. Wong",
+        "original_name": "Stephen L. Wong",
+        "popularity": 0.3878,
+        "profile_path": null,
+        "credit_id": "6231c5659ac535001b10f3a3",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 3242711,
+        "known_for_department": "Directing",
+        "name": "Kenna Harris",
+        "original_name": "Kenna Harris",
+        "popularity": 1.7233,
+        "profile_path": "/phWlJr2MXOKjB1J6pLGqjQDE2j8.jpg",
+        "credit_id": "614a44a8cf1afd0043194066",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2002745,
+        "known_for_department": "Editing",
+        "name": "Matt DeMartini",
+        "original_name": "Matt DeMartini",
+        "popularity": 0.5759,
+        "profile_path": null,
+        "credit_id": "614d2ece1cac8c008cf4b970",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1993617,
+        "known_for_department": "Directing",
+        "name": "Leo Santos",
+        "original_name": "Leo Santos",
+        "popularity": 0.6022,
+        "profile_path": null,
+        "credit_id": "614d2f6e7b7b4d002d8104df",
+        "department": "Directing",
+        "job": "Layout"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 930567,
+        "known_for_department": "Directing",
+        "name": "Enrico Casarosa",
+        "original_name": "Enrico Casarosa",
+        "popularity": 0.8749,
+        "profile_path": "/1Y5cbZQN7fEZcCNCHUANPNfdVQK.jpg",
+        "credit_id": "61559175dd731b008b8e24cb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12890,
+        "known_for_department": "Directing",
+        "name": "Pete Docter",
+        "original_name": "Pete Docter",
+        "popularity": 1.8927,
+        "profile_path": "/vITDphkNpSn1LP5gUEheAnlclnl.jpg",
+        "credit_id": "616eeadcbf09d100643c4c82",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2485280,
+        "known_for_department": "Crew",
+        "name": "Beth Albright",
+        "original_name": "Beth Albright",
+        "popularity": 0.3851,
+        "profile_path": null,
+        "credit_id": "618fe64fa313b800625558f8",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1998928,
+        "known_for_department": "Editing",
+        "name": "Jennifer Neysa Jew",
+        "original_name": "Jennifer Neysa Jew",
+        "popularity": 0.5387,
+        "profile_path": null,
+        "credit_id": "618fe6685f2b8d004286e519",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1412985,
+        "known_for_department": "Sound",
+        "name": "Andre Fenley",
+        "original_name": "Andre Fenley",
+        "popularity": 0.4782,
+        "profile_path": null,
+        "credit_id": "618fe7339463180092f69825",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2005775,
+        "known_for_department": "Sound",
+        "name": "Liz Marston",
+        "original_name": "Liz Marston",
+        "popularity": 0.3771,
+        "profile_path": null,
+        "credit_id": "618fe740c3c891008bf56b5e",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2910975,
+        "known_for_department": "Sound",
+        "name": "Nick Docter",
+        "original_name": "Nick Docter",
+        "popularity": 0.5026,
+        "profile_path": null,
+        "credit_id": "618fe75966a7c30064c1e222",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1993617,
+        "known_for_department": "Directing",
+        "name": "Leo Santos",
+        "original_name": "Leo Santos",
+        "popularity": 0.6022,
+        "profile_path": null,
+        "credit_id": "618fe67fe93e950062734dc0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2524251,
+        "known_for_department": "Writing",
+        "name": "Matthias De Clercq",
+        "original_name": "Matthias De Clercq",
+        "popularity": 0.3962,
+        "profile_path": null,
+        "credit_id": "618fe6be5f2b8d008f958507",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1997857,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Michael Rutter",
+        "original_name": "Michael Rutter",
+        "popularity": 0.3203,
+        "profile_path": null,
+        "credit_id": "618fe718037264004301d85c",
+        "department": "Costume & Make-Up",
+        "job": "Set Dressing Artist"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 3242711,
+        "known_for_department": "Directing",
+        "name": "Kenna Harris",
+        "original_name": "Kenna Harris",
+        "popularity": 1.7233,
+        "profile_path": "/phWlJr2MXOKjB1J6pLGqjQDE2j8.jpg",
+        "credit_id": "618fe611d55e4d008ee91de2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1113281,
+        "known_for_department": "Writing",
+        "name": "Scott Morse",
+        "original_name": "Scott Morse",
+        "popularity": 0.5612,
+        "profile_path": null,
+        "credit_id": "618fe6cdbb260200430e22f6",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1679517,
+        "known_for_department": "Production",
+        "name": "Kiri Hart",
+        "original_name": "Kiri Hart",
+        "popularity": 0.5018,
+        "profile_path": null,
+        "credit_id": "618fe62063e6fb002a1a0430",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2001859,
+        "known_for_department": "Lighting",
+        "name": "Amy Rae Jones",
+        "original_name": "Amy Rae Jones",
+        "popularity": 0.5007,
+        "profile_path": null,
+        "credit_id": "618fe697e93e95002b4f04d6",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1155140,
+        "known_for_department": "Sound",
+        "name": "Dan Romer",
+        "original_name": "Dan Romer",
+        "popularity": 0.6266,
+        "profile_path": "/cOoq9WBHzuZ3L3BmPvUBiB7c67x.jpg",
+        "credit_id": "6190479dd55e4d00293ae26c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

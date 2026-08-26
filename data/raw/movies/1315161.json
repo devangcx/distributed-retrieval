@@ -1,0 +1,88 @@
+{
+  "adult": false,
+  "backdrop_path": "/9JRNe9pYhMdcSTgjX5kUB5avuZE.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81771853",
+  "id": 1315161,
+  "imdb_id": "tt32875161",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Joe Rogan: Burn the Boats",
+  "overview": "Podcast host Joe Rogan delivers a live stand-up set at the Majestic Theatre in San Antonio, Texas.",
+  "popularity": 2.5367,
+  "poster_path": "/1EvgC9ND9BS0tqvI1pVfMBy9gQy.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2024-08-03",
+  "revenue": 0,
+  "runtime": 67,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Joe Rogan: Burn the Boats",
+  "video": false,
+  "vote_average": 4.917,
+  "vote_count": 36,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91609,
+        "known_for_department": "Acting",
+        "name": "Joe Rogan",
+        "original_name": "Joe Rogan",
+        "popularity": 1.0634,
+        "profile_path": "/mWb6QIsGGHMdhN9yVGZXCHQIRzS.jpg",
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "668e7fa578721ae1d1048f7b",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91609,
+        "known_for_department": "Acting",
+        "name": "Joe Rogan",
+        "original_name": "Joe Rogan",
+        "popularity": 1.0634,
+        "profile_path": "/mWb6QIsGGHMdhN9yVGZXCHQIRzS.jpg",
+        "credit_id": "668f2a6dd8be8e4faea790c1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3489223,
+        "known_for_department": "Acting",
+        "name": "Anthony Giordano",
+        "original_name": "Anthony Giordano",
+        "popularity": 0.3895,
+        "profile_path": "/hmsOE4uOgZF9PRdZaYkJ31vdNP0.jpg",
+        "credit_id": "66cf067f5b362ecb33ec2e48",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

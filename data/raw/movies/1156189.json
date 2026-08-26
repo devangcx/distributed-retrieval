@@ -1,0 +1,260 @@
+{
+  "adult": false,
+  "backdrop_path": "/zS1OiCw3opLQYxjmhqhOQ7D7YyD.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1156189,
+  "imdb_id": "tt28490873",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Ryuichi Sakamoto | Opus",
+  "overview": "\"Ars longa, vita brevis\" – art is long, life is short. This is one of Japanese music icon Ryuichi Sakamoto's favorite quotes, and the message that he leaves for viewers at the end of his final concert film, shot before he succumbed to cancer in March 2023. Consisting of only Sakamoto and his piano, Opus features the final live performances of 20 songs that Sakamoto meticulously curated to encapsulate his distinguished 40-year career.",
+  "popularity": 2.7124,
+  "poster_path": "/fw0NchjBAQKz90klk4xNlw0xxuy.jpg",
+  "production_companies": [
+    {
+      "id": 188205,
+      "logo_path": null,
+      "name": "KAB",
+      "origin_country": "US"
+    },
+    {
+      "id": 11561,
+      "logo_path": "/8HB3TFUeo83keAPHfFfrNtN2MmA.png",
+      "name": "Recorded Picture Company",
+      "origin_country": "GB"
+    },
+    {
+      "id": 4667,
+      "logo_path": "/kW2HfJ2R3xBfXRW6jdevcSGavHT.png",
+      "name": "Bitters End",
+      "origin_country": "JP"
+    },
+    {
+      "id": 46298,
+      "logo_path": null,
+      "name": "Kinetic Arts",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-12-27",
+  "revenue": 0,
+  "runtime": 103,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The performance of a lifetime.",
+  "title": "Ryuichi Sakamoto | Opus",
+  "video": false,
+  "vote_average": 7.738,
+  "vote_count": 21,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11382,
+        "known_for_department": "Sound",
+        "name": "Ryuichi Sakamoto",
+        "original_name": "坂本龍一",
+        "popularity": 2.0475,
+        "profile_path": "/nYMG17bYaFkyTzs37W80G0MofPd.jpg",
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "64bfde5d8c0a4800aeefb198",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2247870,
+        "known_for_department": "Sound",
+        "name": "Takuya Kawakami",
+        "original_name": "川上拓也",
+        "popularity": 0.2191,
+        "profile_path": null,
+        "credit_id": "64ec9e0ac613ce010b8e041e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3406563,
+        "known_for_department": "Sound",
+        "name": "ZAK",
+        "original_name": "ZAK",
+        "popularity": 0.3201,
+        "profile_path": "/cd5vvaeaMHeiMknqsDVE0EDh6UC.jpg",
+        "credit_id": "64ec9ec81feac10138dbe260",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1610252,
+        "known_for_department": "Camera",
+        "name": "Bill Kirstein",
+        "original_name": "Bill Kirstein",
+        "popularity": 0.6144,
+        "profile_path": null,
+        "credit_id": "64ec9e335258ae014df3a843",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3056,
+        "known_for_department": "Production",
+        "name": "Jeremy Thomas",
+        "original_name": "Jeremy Thomas",
+        "popularity": 0.8043,
+        "profile_path": "/mENxsXYilnQ2EO52Q04X73ukYM1.jpg",
+        "credit_id": "64ec9e951feac100fe5e313e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4240016,
+        "known_for_department": "Directing",
+        "name": "Hinano Takayama",
+        "original_name": "Hinano Takayama",
+        "popularity": 0.2361,
+        "profile_path": null,
+        "credit_id": "64ed269a83901800e5d13cfd",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1526752,
+        "known_for_department": "Directing",
+        "name": "Kaori Oda",
+        "original_name": "小田香",
+        "popularity": 1.1469,
+        "profile_path": "/kdu2FtEWIpcrHs7jemobxVyQ50O.jpg",
+        "credit_id": "6641a1af108892216a019e10",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2445647,
+        "known_for_department": "Production",
+        "name": "Albert Tholen",
+        "original_name": "Albert Tholen",
+        "popularity": 0.5077,
+        "profile_path": "/anYvmSiZH0JBCtEKDUIdKDAWqDL.jpg",
+        "credit_id": "6683f1e770eace5dc91e6891",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1409382,
+        "known_for_department": "Production",
+        "name": "Eric Nyari",
+        "original_name": "Eric Nyari",
+        "popularity": 0.8908,
+        "profile_path": null,
+        "credit_id": "6683f1cc56b07a36751e6752",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2732338,
+        "known_for_department": "Production",
+        "name": "Aiko Masubuchi",
+        "original_name": "Aiko Masubuchi",
+        "popularity": 0.332,
+        "profile_path": null,
+        "credit_id": "6683f1835b60780290042fd5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2918490,
+        "known_for_department": "Production",
+        "name": "Norika Sky-Sora",
+        "original_name": "Norika Sky-Sora",
+        "popularity": 0.3216,
+        "profile_path": null,
+        "credit_id": "6683f1baf0de4f1d09bad8a9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11382,
+        "known_for_department": "Sound",
+        "name": "Ryuichi Sakamoto",
+        "original_name": "坂本龍一",
+        "popularity": 2.0475,
+        "profile_path": "/nYMG17bYaFkyTzs37W80G0MofPd.jpg",
+        "credit_id": "64bfde526ee3d701054f13e6",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2010321,
+        "known_for_department": "Directing",
+        "name": "Neo Sora",
+        "original_name": "空音央",
+        "popularity": 0.6694,
+        "profile_path": "/nojJ5TfyL4l52lIpL2oQtGAeBrn.jpg",
+        "credit_id": "64bfde44058224010fde4414",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

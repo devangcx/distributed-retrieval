@@ -1,0 +1,416 @@
+{
+  "adult": false,
+  "backdrop_path": "/9MeHubuKm7XJLx68LDEkE8yVnWZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1309083,
+  "imdb_id": "tt32639175",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dolly",
+  "overview": "Young Macy is abducted by a deranged, monstrous figure who wants to raise her as its child.",
+  "popularity": 13.068,
+  "poster_path": "/oJJquv1sg5XMTIyNHxEm0KLo696.jpg",
+  "production_companies": [
+    {
+      "id": 154462,
+      "logo_path": "/b50HZtBl1ANTbHwu7PJmSAccZk1.png",
+      "name": "Witchcraft Motion Picture Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 156293,
+      "logo_path": null,
+      "name": "Gentile Entertainment Group",
+      "origin_country": ""
+    },
+    {
+      "id": 74148,
+      "logo_path": null,
+      "name": "Mama Bear Studios",
+      "origin_country": ""
+    },
+    {
+      "id": 235412,
+      "logo_path": null,
+      "name": "Monarque Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 235413,
+      "logo_path": "/ibJpTZCuFl16aghGvzNhs60B29H.png",
+      "name": "Set Point Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-03-06",
+  "revenue": 1062322,
+  "runtime": 83,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Mommy knows best.",
+  "title": "Dolly",
+  "video": false,
+  "vote_average": 5.746,
+  "vote_count": 211,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 3420298,
+        "known_for_department": "Acting",
+        "name": "Max Lindsey",
+        "original_name": "Max Lindsey",
+        "popularity": 0.911,
+        "profile_path": "/pwSfguf7PypufQmUZRb9vaOdzxV.jpg",
+        "cast_id": 24,
+        "character": "Dolly",
+        "credit_id": "694106ce376b8a2fbda03fad",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 576223,
+        "known_for_department": "Acting",
+        "name": "Fabianne Therese",
+        "original_name": "Fabianne Therese",
+        "popularity": 0.9487,
+        "profile_path": "/w1ES3wqpERfngz7DVujVMSpLZ04.jpg",
+        "cast_id": 3,
+        "character": "Macy",
+        "credit_id": "667b7e9baacec357d63c25f8",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57599,
+        "known_for_department": "Acting",
+        "name": "Seann William Scott",
+        "original_name": "Seann William Scott",
+        "popularity": 4.1284,
+        "profile_path": "/mKc2YXdh8d4U2jYDwpLWaOY6Jwg.jpg",
+        "cast_id": 4,
+        "character": "Chase",
+        "credit_id": "667b7ea85b27d25794bcfc00",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 824,
+        "known_for_department": "Acting",
+        "name": "Ethan Suplee",
+        "original_name": "Ethan Suplee",
+        "popularity": 2.1286,
+        "profile_path": "/gGSb8P9nQdDNu0JC65zyAyMUFhS.jpg",
+        "cast_id": 5,
+        "character": "Tobe",
+        "credit_id": "667b7eb336e9e8642fbaebbd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2646693,
+        "known_for_department": "Acting",
+        "name": "Russ Tiller",
+        "original_name": "Russ Tiller",
+        "popularity": 0.825,
+        "profile_path": "/gaNEeNTknW19wx18vZ1FVfbZkwi.jpg",
+        "cast_id": 6,
+        "character": "Billy",
+        "credit_id": "667b7ebda178d198f2f9accd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2270651,
+        "known_for_department": "Production",
+        "name": "Michalina Scorzelli",
+        "original_name": "Michalina Scorzelli",
+        "popularity": 0.3719,
+        "profile_path": "/t2BJWQVX8NhAUJ6vKm2Mm6HLHIO.jpg",
+        "cast_id": 7,
+        "character": "Aunt Sadie",
+        "credit_id": "667b7ec8bfbbddfe27d22192",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1182729,
+        "known_for_department": "Acting",
+        "name": "Kate Cobb",
+        "original_name": "Kate Cobb",
+        "popularity": 0.7009,
+        "profile_path": "/k9maL6BBeYXSbHmKHBhQEMMlupL.jpg",
+        "cast_id": 27,
+        "character": "Rachel",
+        "credit_id": "698c4352c1f6e84b9e09c3c2",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1043983,
+        "known_for_department": "Directing",
+        "name": "Rod Blackhurst",
+        "original_name": "Rod Blackhurst",
+        "popularity": 0.6316,
+        "profile_path": "/dSDKoZPi605ROlMRAYAbcPixMyH.jpg",
+        "credit_id": "667b7e8036e9e8642fbaebb4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3723422,
+        "known_for_department": "Writing",
+        "name": "Brandon Weavil",
+        "original_name": "Brandon Weavil",
+        "popularity": 0.4476,
+        "profile_path": null,
+        "credit_id": "667b7f52504b878dc7aa6311",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1043983,
+        "known_for_department": "Directing",
+        "name": "Rod Blackhurst",
+        "original_name": "Rod Blackhurst",
+        "popularity": 0.6316,
+        "profile_path": "/dSDKoZPi605ROlMRAYAbcPixMyH.jpg",
+        "credit_id": "667b7e8743287745f9f9ad4c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2786790,
+        "known_for_department": "Production",
+        "name": "Joseph C. Grano",
+        "original_name": "Joseph C. Grano",
+        "popularity": 0.3429,
+        "profile_path": null,
+        "credit_id": "66ac8b9d701670e7a7b2a764",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1611558,
+        "known_for_department": "Directing",
+        "name": "Justin Oakey",
+        "original_name": "Justin Oakey",
+        "popularity": 0.5513,
+        "profile_path": "/yLZKk44Jlu7V7WmkiI27F9CWhS.jpg",
+        "credit_id": "66ac8be0264b247a70f8fe8c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4316241,
+        "known_for_department": "Directing",
+        "name": "Esteban Sánchez",
+        "original_name": "Esteban Sánchez",
+        "popularity": 0.3527,
+        "profile_path": null,
+        "credit_id": "66ac8b6f748e3303cb64ad0f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1389077,
+        "known_for_department": "Directing",
+        "name": "Bryce McGuire",
+        "original_name": "Bryce McGuire",
+        "popularity": 0.6959,
+        "profile_path": "/3snVCdfzYvzK3UHP8lJ89El3M7U.jpg",
+        "credit_id": "66ac8b2f5fce61b5c1632261",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1631084,
+        "known_for_department": "Camera",
+        "name": "Justin Derry",
+        "original_name": "Justin Derry",
+        "popularity": 0.5028,
+        "profile_path": null,
+        "credit_id": "66ac8bc8fe947b8fea509d79",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4862528,
+        "known_for_department": "Production",
+        "name": "Betty Tong",
+        "original_name": "Betty Tong",
+        "popularity": 0.1738,
+        "profile_path": null,
+        "credit_id": "66ac8b4a3957213f4582f143",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2199500,
+        "known_for_department": "Production",
+        "name": "Ross O'Connor",
+        "original_name": "Ross O'Connor",
+        "popularity": 0.3221,
+        "profile_path": null,
+        "credit_id": "66ac8b7d65780b6119cd789f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1043983,
+        "known_for_department": "Directing",
+        "name": "Rod Blackhurst",
+        "original_name": "Rod Blackhurst",
+        "popularity": 0.6316,
+        "profile_path": "/dSDKoZPi605ROlMRAYAbcPixMyH.jpg",
+        "credit_id": "66ac8babca4548c3b0b2a672",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1731654,
+        "known_for_department": "Production",
+        "name": "Isaiah Smallman",
+        "original_name": "Isaiah Smallman",
+        "popularity": 0.5571,
+        "profile_path": null,
+        "credit_id": "66ac8b54f5379e508cc02a5e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1423743,
+        "known_for_department": "Production",
+        "name": "Noah Lang",
+        "original_name": "Noah Lang",
+        "popularity": 0.5491,
+        "profile_path": null,
+        "credit_id": "66ac8b8988b49b6764a159b3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1782419,
+        "known_for_department": "Sound",
+        "name": "Nick Bohun",
+        "original_name": "Nick Bohun",
+        "popularity": 0.3608,
+        "profile_path": null,
+        "credit_id": "67820155ababbba040bb1198",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1754095,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ashley K. Thomas",
+        "original_name": "Ashley K. Thomas",
+        "popularity": 0.4982,
+        "profile_path": null,
+        "credit_id": "69129af19e0edb599f875797",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Effects Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3961339,
+        "known_for_department": "Crew",
+        "name": "Michelle Andrea Adams",
+        "original_name": "Michelle Andrea Adams",
+        "popularity": 0.6149,
+        "profile_path": "/1Xy2svtCzZInGTWnE3C78Mkp2Jm.jpg",
+        "credit_id": "6946b23246f03006098eb09d",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 995456,
+        "known_for_department": "Production",
+        "name": "Steven Schneider",
+        "original_name": "Steven Schneider",
+        "popularity": 0.734,
+        "profile_path": "/r1NAJn49iiqJyoFAE9j53Q8TssQ.jpg",
+        "credit_id": "694da9500764ddda658eaf2b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1366039,
+        "known_for_department": "Crew",
+        "name": "Corey Pierno",
+        "original_name": "Corey Pierno",
+        "popularity": 0.601,
+        "profile_path": null,
+        "credit_id": "6a75420baa436dce849c95cc",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      }
+    ]
+  }
+}

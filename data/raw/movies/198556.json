@@ -1,0 +1,426 @@
+{
+  "adult": false,
+  "backdrop_path": "/1WCES8hj3IQ086iWM1XOEeb5jvL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 198556,
+  "imdb_id": "tt1855268",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "मैं कृष्णा हूँ",
+  "overview": "In answer to an orphan boy's prayers, the divine Lord Krishna comes to Earth, befriends the boy, and helps him find a loving family.",
+  "popularity": 1.2082,
+  "poster_path": "/4fddOiJPp4Mf0jFXcp2WE8qvNW2.jpg",
+  "production_companies": [
+    {
+      "id": 3653,
+      "logo_path": "/dEpilNgoW7tElN3xacXckHxGXbo.png",
+      "name": "Eros International",
+      "origin_country": "IN"
+    },
+    {
+      "id": 119992,
+      "logo_path": null,
+      "name": "JC Film Visions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2013-01-25",
+  "revenue": 0,
+  "runtime": 135,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Main Krishna Hoon",
+  "video": false,
+  "vote_average": 6.018,
+  "vote_count": 112,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147706,
+        "known_for_department": "Acting",
+        "name": "Paresh Ganatra",
+        "original_name": "Paresh Ganatra",
+        "popularity": 0.8217,
+        "profile_path": "/cXT8wFugq8lmb09SmVYNhsEQhe2.jpg",
+        "cast_id": 4,
+        "character": "Nattubhai (Voice)",
+        "credit_id": "5d10bb730e0a264c73ca3b00",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35810,
+        "known_for_department": "Acting",
+        "name": "Juhi Chawla Mehta",
+        "original_name": "Juhi Chawla Mehta",
+        "popularity": 1.0466,
+        "profile_path": "/gyZLscSW3dYYe3N5K2YcYtRnbq5.jpg",
+        "cast_id": 3,
+        "character": "Kantaben (Voice)",
+        "credit_id": "52fe4d809251416c91118597",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2346717,
+        "known_for_department": "Acting",
+        "name": "Namit Shah",
+        "original_name": "Namit Shah",
+        "popularity": 0.3643,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Krishna (Voice)",
+        "credit_id": "5d10bb92c3a3681ab61e8a87",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78749,
+        "known_for_department": "Acting",
+        "name": "Hrithik Roshan",
+        "original_name": "ऋतिक रोशन",
+        "popularity": 2.8258,
+        "profile_path": "/d7XGTvyYgmrsA05XOn1YtxYcuY1.jpg",
+        "cast_id": 1,
+        "character": "Himself",
+        "credit_id": "52fe4d809251416c9111858f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 81869,
+        "known_for_department": "Acting",
+        "name": "Katrina Kaif",
+        "original_name": "Katrina Kaif",
+        "popularity": 1.8163,
+        "profile_path": "/gSNaBg8Q7Nh0u4HhW6pR5B0ujlL.jpg",
+        "cast_id": 2,
+        "character": "Herself",
+        "credit_id": "52fe4d809251416c91118593",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1341817,
+        "known_for_department": "Directing",
+        "name": "Rajiv S. Ruia",
+        "original_name": "Rajiv S. Ruia",
+        "popularity": 0.6023,
+        "profile_path": "/nC8FVsZAGx7sNCDDcHQ751aVnzJ.jpg",
+        "credit_id": "5d10bbc50e0a2649d1ca4a34",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2346718,
+        "known_for_department": "Directing",
+        "name": "Aashish Sinha",
+        "original_name": "Aashish Sinha",
+        "popularity": 0.2503,
+        "profile_path": null,
+        "credit_id": "5d10bbe2c3a36809b21f488b",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2346719,
+        "known_for_department": "Directing",
+        "name": "Shivanshu Pandey",
+        "original_name": "Shivanshu Pandey",
+        "popularity": 0.2744,
+        "profile_path": null,
+        "credit_id": "5d10bbeb9251412d4ab8dc81",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2346720,
+        "known_for_department": "Directing",
+        "name": "Siddheswar Ghosh",
+        "original_name": "Siddheswar Ghosh",
+        "popularity": 0.2084,
+        "profile_path": null,
+        "credit_id": "5d10bbf59251417099bf892b",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2346721,
+        "known_for_department": "Production",
+        "name": "Nandan K Mahto",
+        "original_name": "Nandan K Mahto",
+        "popularity": 0.2554,
+        "profile_path": null,
+        "credit_id": "5d10bbfe92514134ffb97363",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2346722,
+        "known_for_department": "Production",
+        "name": "Promila Hunter",
+        "original_name": "Promila Hunter",
+        "popularity": 0.2605,
+        "profile_path": null,
+        "credit_id": "5d10bc0692514134ffb97376",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2346723,
+        "known_for_department": "Production",
+        "name": "Rajiv Kashyap",
+        "original_name": "Rajiv Kashyap",
+        "popularity": 0.3349,
+        "profile_path": null,
+        "credit_id": "5d10bc1e0e0a264c73ca3bcd",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2346724,
+        "known_for_department": "Production",
+        "name": "Devender Anand",
+        "original_name": "Devender Anand",
+        "popularity": 0.2831,
+        "profile_path": null,
+        "credit_id": "5d10bc27c3a36811ee1e8993",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1004693,
+        "known_for_department": "Production",
+        "name": "Rajesh Patel",
+        "original_name": "Rajesh Patel",
+        "popularity": 0.3114,
+        "profile_path": null,
+        "credit_id": "5d10bc340e0a264c73ca3bd5",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1341817,
+        "known_for_department": "Directing",
+        "name": "Rajiv S. Ruia",
+        "original_name": "Rajiv S. Ruia",
+        "popularity": 0.6023,
+        "profile_path": "/nC8FVsZAGx7sNCDDcHQ751aVnzJ.jpg",
+        "credit_id": "5d10bc3c9251412d4ab8dcbf",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1557505,
+        "known_for_department": "Production",
+        "name": "S Sachindra",
+        "original_name": "S Sachindra",
+        "popularity": 0.323,
+        "profile_path": null,
+        "credit_id": "5d10bc45c3a36826051e99b8",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 230031,
+        "known_for_department": "Writing",
+        "name": "Sanjay Masoom",
+        "original_name": "Sanjay Masoom",
+        "popularity": 0.3942,
+        "profile_path": null,
+        "credit_id": "5d10bc4e0e0a26597dca42ac",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2346725,
+        "known_for_department": "Camera",
+        "name": "Akram Shaikh",
+        "original_name": "Akram Shaikh",
+        "popularity": 0.3413,
+        "profile_path": null,
+        "credit_id": "5d10bc56c3a3682f68254e1a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1831906,
+        "known_for_department": "Sound",
+        "name": "Amjad Nadeem",
+        "original_name": "Amjad Nadeem",
+        "popularity": 0.0623,
+        "profile_path": null,
+        "credit_id": "5d10bc5fc3a36811ee1e89f6",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35810,
+        "known_for_department": "Acting",
+        "name": "Juhi Chawla Mehta",
+        "original_name": "Juhi Chawla Mehta",
+        "popularity": 1.0466,
+        "profile_path": "/gyZLscSW3dYYe3N5K2YcYtRnbq5.jpg",
+        "credit_id": "5d10bc8cc3a36812811e836b",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1979884,
+        "known_for_department": "Sound",
+        "name": "Javed Ali",
+        "original_name": "Javed Ali",
+        "popularity": 0.5445,
+        "profile_path": "/wrzUSspdLgraaNjEuOWuKxgXJMt.jpg",
+        "credit_id": "5d10bc930e0a263a65ca4765",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1466010,
+        "known_for_department": "Sound",
+        "name": "Shweta Pandit",
+        "original_name": "Shweta Pandit",
+        "popularity": 0.4565,
+        "profile_path": "/ioICubuFReuDKc8RFAaMyD3Qovx.jpg",
+        "credit_id": "5d10bc9e925141524dbeab8e",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85581,
+        "known_for_department": "Sound",
+        "name": "Shankar Mahadevan",
+        "original_name": "Shankar Mahadevan",
+        "popularity": 0.6013,
+        "profile_path": "/dUzAQPFi8t1EOA3XVM5d0ftJCjN.jpg",
+        "credit_id": "5d10bca7c3a36810c71e98a7",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2346726,
+        "known_for_department": "Art",
+        "name": "Gyandeo Paikrao",
+        "original_name": "Gyandeo Paikrao",
+        "popularity": 0.2018,
+        "profile_path": null,
+        "credit_id": "5d10bd119251417099bf8ab3",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1794706,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Fabeha Khan",
+        "original_name": "Fabeha Khan",
+        "popularity": 0.472,
+        "profile_path": null,
+        "credit_id": "5d10bd19c3a36809b21f49e2",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2208928,
+        "known_for_department": "Editing",
+        "name": "Satish Patil",
+        "original_name": "Satish Patil",
+        "popularity": 0.3466,
+        "profile_path": null,
+        "credit_id": "5d10bd20925141524dbeac1f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2056708,
+        "known_for_department": "Crew",
+        "name": "Shabina Khan",
+        "original_name": "Shabina Khan",
+        "popularity": 0.5067,
+        "profile_path": null,
+        "credit_id": "5db58bafd2c0c1001b139279",
+        "department": "Crew",
+        "job": "Choreographer"
+      }
+    ]
+  }
+}

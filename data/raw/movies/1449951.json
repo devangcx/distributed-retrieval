@@ -1,0 +1,344 @@
+{
+  "adult": false,
+  "backdrop_path": "/78mfMIC7itMnefZnS5ff4djAmnC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 1449951,
+  "imdb_id": "tt35983585",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Snow White",
+  "overview": "When the Queen’s jealousy turns deadly, Snow White must join forces with gnomes to fight back against her stepmother’s wrath.",
+  "popularity": 3.0088,
+  "poster_path": "/ilFLHU1OxUS1YDvUMCr8K3hW28r.jpg",
+  "production_companies": [
+    {
+      "id": 1311,
+      "logo_path": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+      "name": "The Asylum",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-03-07",
+  "revenue": 0,
+  "runtime": 93,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Only one can be the fairest.",
+  "title": "Snow White",
+  "video": false,
+  "vote_average": 7.154,
+  "vote_count": 26,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 75315,
+        "known_for_department": "Acting",
+        "name": "Danny Bonaduce",
+        "original_name": "Danny Bonaduce",
+        "popularity": 1.2584,
+        "profile_path": "/A3TlkIbCKpYo4PF2BUEwVT0k63o.jpg",
+        "cast_id": 5,
+        "character": "King Fredrick White (voice)",
+        "credit_id": "67d81e409165f371180181a9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2481064,
+        "known_for_department": "Acting",
+        "name": "Jessica Chancellor",
+        "original_name": "Jessica Chancellor",
+        "popularity": 0.8377,
+        "profile_path": "/bZZ8MXYKUMU3iHXHI47mH9yrMh3.jpg",
+        "cast_id": 6,
+        "character": "Snow White (voice)",
+        "credit_id": "67d81e60f6b8d57b4a7bdad1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43961,
+        "known_for_department": "Acting",
+        "name": "D. C. Douglas",
+        "original_name": "D. C. Douglas",
+        "popularity": 1.0479,
+        "profile_path": "/suXu7UYETw3LINlZjedvpxbwtnD.jpg",
+        "cast_id": 7,
+        "character": "Mirror / Sedgwick (voice)",
+        "credit_id": "67d81ea65addf20955f17268",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 92027,
+        "known_for_department": "Acting",
+        "name": "Kim Little",
+        "original_name": "Kim Little",
+        "popularity": 0.862,
+        "profile_path": "/uDw7WsQcrwLtyvwFimtVfrOTi9Q.jpg",
+        "cast_id": 8,
+        "character": "Opal (voice)",
+        "credit_id": "67d81ebd9165f371180181ea",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3948292,
+        "known_for_department": "Production",
+        "name": "Andrew Fernie",
+        "original_name": "Andrew Fernie",
+        "popularity": 0.4279,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Wilhelm (voice)",
+        "credit_id": "67f037aa8b1f32eb79d9372e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2907351,
+        "known_for_department": "Acting",
+        "name": "Austen Moret",
+        "original_name": "Austen Moret",
+        "popularity": 0.3646,
+        "profile_path": "/qya5qN1WeJjuDvABaThy0jQF8YL.jpg",
+        "cast_id": 10,
+        "character": "Huntsman Eckhart (voice)",
+        "credit_id": "6811317d19292f098880e1da",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3010962,
+        "known_for_department": "Acting",
+        "name": "Bonnie Gordon",
+        "original_name": "Bonnie Gordon",
+        "popularity": 0.4545,
+        "profile_path": "/eGj4XjGkUd7ue1WSLR9xlhvU6cR.jpg",
+        "cast_id": 11,
+        "character": "Queen Hildegarde (voice)",
+        "credit_id": "6811319aeb1d4b06de0fec82",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2201804,
+        "known_for_department": "Acting",
+        "name": "Thea Saccoliti",
+        "original_name": "Thea Saccoliti",
+        "popularity": 0.3445,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Karnickle (voice)",
+        "credit_id": "681131aea458c27761eaafdd",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225642,
+        "known_for_department": "Acting",
+        "name": "Brandon Gibson",
+        "original_name": "Brandon Gibson",
+        "popularity": 0.5161,
+        "profile_path": "/6umvHyH27rcjkRdVUkzJiULNZT5.jpg",
+        "cast_id": 13,
+        "character": "Vogel (voice)",
+        "credit_id": "681131c1eb1d4b06de0fec8c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97697,
+        "known_for_department": "Acting",
+        "name": "John Henry Richardson",
+        "original_name": "John Henry Richardson",
+        "popularity": 0.9923,
+        "profile_path": "/eOV6fq0FKW937OA7oPuEcKc2grP.jpg",
+        "cast_id": 14,
+        "character": "Jasper (voice)",
+        "credit_id": "681131d50c125a95530ff573",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2587154,
+        "known_for_department": "Acting",
+        "name": "Joe Roche",
+        "original_name": "Joe Roche",
+        "popularity": 0.6394,
+        "profile_path": "/k48D1AmSxC6H94AqAykBcsWqdQP.jpg",
+        "cast_id": 15,
+        "character": "Pyrite (voice)",
+        "credit_id": "69d310d81812ee6ca15c6530",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4323166,
+        "known_for_department": "Acting",
+        "name": "Chelsea Krause",
+        "original_name": "Chelsea Krause",
+        "popularity": 0.2361,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Amee (voice)",
+        "credit_id": "69d310e7547c5d59be63956a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5178337,
+        "known_for_department": "Acting",
+        "name": "Kito Fortune",
+        "original_name": "Kito Fortune",
+        "popularity": 0.1931,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Feldspar (voice)",
+        "credit_id": "69d310f5a24ab1c3384d92db",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1231273,
+        "known_for_department": "Acting",
+        "name": "Lauren Pritchard",
+        "original_name": "Lauren Pritchard",
+        "popularity": 0.718,
+        "profile_path": "/oVAnDqIFWuHp4ZBIVX82yylYfp2.jpg",
+        "cast_id": 18,
+        "character": "Frau Inga (voice)",
+        "credit_id": "69d3110d963bce4528ac8114",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5863729,
+        "known_for_department": "Acting",
+        "name": "Iris Miller-Bales",
+        "original_name": "Iris Miller-Bales",
+        "popularity": 0.3132,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Gretel (voice)",
+        "credit_id": "69d31120757a9cf9439097a3",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2427740,
+        "known_for_department": "Writing",
+        "name": "Ryan Ebert",
+        "original_name": "Ryan Ebert",
+        "popularity": 0.8235,
+        "profile_path": "/7TWzBqJY7KkM9PoJBENXSMxzLut.jpg",
+        "cast_id": 20,
+        "character": "Crown Bearer (voice)",
+        "credit_id": "69d311354ec5f44465f5f689",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1011818,
+        "known_for_department": "Acting",
+        "name": "Erica Duke",
+        "original_name": "Erica Duke",
+        "popularity": 0.9664,
+        "profile_path": "/14LVo30I7lonRERZFneBhTqV6pe.jpg",
+        "credit_id": "67d81cff5963ebffde7c3833",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1742305,
+        "known_for_department": "Directing",
+        "name": "Michael Johnson",
+        "original_name": "Michael Johnson",
+        "popularity": 0.5698,
+        "profile_path": null,
+        "credit_id": "67d81dcd9165f3711801817e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2587154,
+        "known_for_department": "Acting",
+        "name": "Joe Roche",
+        "original_name": "Joe Roche",
+        "popularity": 0.6394,
+        "profile_path": "/k48D1AmSxC6H94AqAykBcsWqdQP.jpg",
+        "credit_id": "67d81de685d13921b5016839",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1231273,
+        "known_for_department": "Acting",
+        "name": "Lauren Pritchard",
+        "original_name": "Lauren Pritchard",
+        "popularity": 0.718,
+        "profile_path": "/oVAnDqIFWuHp4ZBIVX82yylYfp2.jpg",
+        "credit_id": "67d81e099165f37118018188",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

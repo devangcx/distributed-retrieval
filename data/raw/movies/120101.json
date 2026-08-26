@@ -1,0 +1,155 @@
+{
+  "adult": false,
+  "backdrop_path": "/huMnhc0c0VF7oYX2fi3KECJXpXF.jpg",
+  "belongs_to_collection": {
+    "id": 606037,
+    "name": "Kya Kool Hain Hum Collection",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 120101,
+  "imdb_id": "tt2027138",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "क्या सुपर कूल हैं हम",
+  "overview": "An aspiring actor and a struggling DJ team up to pursue the ladies they love and a diamond that rightfully belongs to their oversexed dog.",
+  "popularity": 0.8386,
+  "poster_path": "/lGxipu6pNdb3ywPlCm0nPaXb5tY.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2012-06-05",
+  "revenue": 0,
+  "runtime": 137,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kyaa Super Kool Hain Hum",
+  "video": false,
+  "vote_average": 4.708,
+  "vote_count": 36,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85891,
+        "known_for_department": "Acting",
+        "name": "Tusshar Kapoor",
+        "original_name": "Tusshar Kapoor",
+        "popularity": 0.9774,
+        "profile_path": "/5ApUsEt56R0SVQMu11fbmUSHCIi.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "52fe4a3dc3a368484e14864d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84957,
+        "known_for_department": "Acting",
+        "name": "Riteish Deshmukh",
+        "original_name": "रितेश देशमुख",
+        "popularity": 1.2629,
+        "profile_path": "/b4Mwk9dDgMS82269iBX7V1YsOpu.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "52fe4a3dc3a368484e148651",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 231596,
+        "known_for_department": "Acting",
+        "name": "Sarah-Jane Dias",
+        "original_name": "Sarah-Jane Dias",
+        "popularity": 0.808,
+        "profile_path": "/q3LZpS8iZWkZNa5EnKeoA9ZBapc.jpg",
+        "cast_id": 3,
+        "character": "Anu",
+        "credit_id": "52fe4a3dc3a368484e148655",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6217,
+        "known_for_department": "Acting",
+        "name": "Anupam Kher",
+        "original_name": "Anupam Kher",
+        "popularity": 1.9559,
+        "profile_path": "/kgU5Ap1Kf9RnicB5DMcXEZqed2f.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "52fe4a3dc3a368484e148659",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 144435,
+        "known_for_department": "Acting",
+        "name": "Neha Sharma",
+        "original_name": "Neha Sharma",
+        "popularity": 0.8953,
+        "profile_path": "/b6Zdva6mDqDLjQxA2uAZH8OlWL5.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "52fe4a3dc3a368484e14865d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2224412,
+        "known_for_department": "Acting",
+        "name": "Nalneesh Neel",
+        "original_name": "Nalneesh Neel",
+        "popularity": 0.5824,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Dog Thief",
+        "credit_id": "5d1315b1925141524dc25906",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1834634,
+        "known_for_department": "Writing",
+        "name": "Sachin Yardi",
+        "original_name": "Sachin Yardi",
+        "popularity": 0.4595,
+        "profile_path": null,
+        "credit_id": "594485db9251413fb1005177",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "adult": false,
+  "backdrop_path": "/2a3CC6VpCjqZ23Fe18GstMGg5Pj.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/82018736",
+  "id": 1400782,
+  "imdb_id": "tt34962891",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Perfect Neighbor",
+  "overview": "Police bodycam footage reveals how a long-running neighborhood dispute turned fatal in this documentary about fear, prejudice and Stand Your Ground laws.",
+  "popularity": 4.8147,
+  "poster_path": "/2NE7yN45zo19o4LJr6JFxDWmh2b.jpg",
+  "production_companies": [
+    {
+      "id": 13466,
+      "logo_path": "/d2ewBAUkCGeYMj6bv2Z9PkzL5OA.png",
+      "name": "Park Pictures Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 247422,
+      "logo_path": "/jex1WT9MboRpQBzCWcnNMI98WZ4.png",
+      "name": "Message Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 165264,
+      "logo_path": "/23NbaYVePzHRrvjSkvs8zoNdXWi.png",
+      "name": "SO'B Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-10-10",
+  "revenue": 0,
+  "runtime": 97,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Perfect Neighbor",
+  "video": false,
+  "vote_average": 6.79,
+  "vote_count": 326,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5773350,
+        "known_for_department": "Acting",
+        "name": "Susan Lorincz",
+        "original_name": "Susan Lorincz",
+        "popularity": 0.4092,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Self (archive footage)",
+        "credit_id": "68fd71791296e64ea43bf7a1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5773372,
+        "known_for_department": "Acting",
+        "name": "Ajike Owens",
+        "original_name": "Ajike Owens",
+        "popularity": 0.3273,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Self (archive footage)",
+        "credit_id": "68fd7313d3bdef8364bbf02b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5798813,
+        "known_for_department": "Acting",
+        "name": "Pamela Dias",
+        "original_name": "Pamela Dias",
+        "popularity": 0.3195,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Self (archive footage)",
+        "credit_id": "690bafaf755f5ec00c0711c0",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1106893,
+        "known_for_department": "Directing",
+        "name": "Geeta Gandbhir",
+        "original_name": "Geeta Gandbhir",
+        "popularity": 0.7113,
+        "profile_path": "/Aep5viOLzys01FhPiOesPOiJJMy.jpg",
+        "credit_id": "6759db5b8733a1c110d07dc8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18747,
+        "known_for_department": "Directing",
+        "name": "Sam Pollard",
+        "original_name": "Sam Pollard",
+        "popularity": 0.797,
+        "profile_path": "/mTbWlbu2yB4BtoouBlpByg4GSfe.jpg",
+        "credit_id": "675ffcf7de8f34e0b258ab55",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1227867,
+        "known_for_department": "Acting",
+        "name": "Soledad O'Brien",
+        "original_name": "Soledad O'Brien",
+        "popularity": 0.6923,
+        "profile_path": "/o4T1zApuY1DTPw60mOKGQ6I6avG.jpg",
+        "credit_id": "675ffd00a8d0eb560faa76c6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1095275,
+        "known_for_department": "Production",
+        "name": "Sam Bisbee",
+        "original_name": "Sam Bisbee",
+        "popularity": 0.7008,
+        "profile_path": null,
+        "credit_id": "675ffd0c551f69f77cae0bd0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2880440,
+        "known_for_department": "Production",
+        "name": "Alisa Payne",
+        "original_name": "Alisa Payne",
+        "popularity": 0.4967,
+        "profile_path": null,
+        "credit_id": "675ffd1d5bd3c72a82c1c31a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1106893,
+        "known_for_department": "Directing",
+        "name": "Geeta Gandbhir",
+        "original_name": "Geeta Gandbhir",
+        "popularity": 0.7113,
+        "profile_path": "/Aep5viOLzys01FhPiOesPOiJJMy.jpg",
+        "credit_id": "675ffd28de8f34e0b258ab58",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1094150,
+        "known_for_department": "Production",
+        "name": "Jackie Kelman Bisbee",
+        "original_name": "Jackie Kelman Bisbee",
+        "popularity": 0.3984,
+        "profile_path": null,
+        "credit_id": "675ffd417f6c808e8e01d13a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2032584,
+        "known_for_department": "Production",
+        "name": "Wendy Neu",
+        "original_name": "Wendy Neu",
+        "popularity": 0.3683,
+        "profile_path": null,
+        "credit_id": "675ffd4a7f6c808e8e01d141",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1851277,
+        "known_for_department": "Editing",
+        "name": "Viridiana Lieberman",
+        "original_name": "Viridiana Lieberman",
+        "popularity": 0.5582,
+        "profile_path": null,
+        "credit_id": "675ffd61a8d0eb560faa76ed",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2721617,
+        "known_for_department": "Production",
+        "name": "Danielle Massie",
+        "original_name": "Danielle Massie",
+        "popularity": 0.2941,
+        "profile_path": null,
+        "credit_id": "675ffe1075bd2f3e1927a2bd",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5219492,
+        "known_for_department": "Production",
+        "name": "Nikon Kwantu",
+        "original_name": "Nikon Kwantu",
+        "popularity": 0.3556,
+        "profile_path": null,
+        "credit_id": "679f1d42a57909701acb5aab",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2412609,
+        "known_for_department": "Sound",
+        "name": "Laura Heinzinger",
+        "original_name": "Laura Heinzinger",
+        "popularity": 0.5571,
+        "profile_path": null,
+        "credit_id": "679f1d5102a74dc73f953eb4",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5219494,
+        "known_for_department": "Production",
+        "name": "Takema Robinson",
+        "original_name": "Takema Robinson",
+        "popularity": 0.1924,
+        "profile_path": null,
+        "credit_id": "679f1d6aebb996240326502f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5219496,
+        "known_for_department": "Production",
+        "name": "Rose Arce",
+        "original_name": "Rose Arce",
+        "popularity": 0.2017,
+        "profile_path": null,
+        "credit_id": "679f1d8d776edf4be39527b9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5219498,
+        "known_for_department": "Production",
+        "name": "Morgan Valerie",
+        "original_name": "Morgan Valerie",
+        "popularity": 0.2163,
+        "profile_path": null,
+        "credit_id": "679f1dc5776edf4be39527cf",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5219502,
+        "known_for_department": "Crew",
+        "name": "Alfredo Del Lara",
+        "original_name": "Alfredo Del Lara",
+        "popularity": 0.1949,
+        "profile_path": null,
+        "credit_id": "679f1df71742b44a14cb59ce",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2132378,
+        "known_for_department": "Sound",
+        "name": "Filipe Messeder",
+        "original_name": "Filipe Messeder",
+        "popularity": 0.5244,
+        "profile_path": null,
+        "credit_id": "679f1e051742b44a14cb59d4",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1699916,
+        "known_for_department": "Sound",
+        "name": "Giuseppe Cappello",
+        "original_name": "Giuseppe Cappello",
+        "popularity": 0.4285,
+        "profile_path": null,
+        "credit_id": "679f1e1402a74dc73f953ed5",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2412609,
+        "known_for_department": "Sound",
+        "name": "Laura Heinzinger",
+        "original_name": "Laura Heinzinger",
+        "popularity": 0.5571,
+        "profile_path": null,
+        "credit_id": "679f1e1db06437a4ee263eb3",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4566065,
+        "known_for_department": "Editing",
+        "name": "Cara Fitts",
+        "original_name": "Cara Fitts",
+        "popularity": 0.3563,
+        "profile_path": null,
+        "credit_id": "68d54588e84d199c0959d5ee",
+        "department": "Editing",
+        "job": "Archival Footage Research"
+      }
+    ]
+  }
+}

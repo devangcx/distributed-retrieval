@@ -1,0 +1,517 @@
+{
+  "adult": false,
+  "backdrop_path": "/v8fSGyYg5EPNgDHUSsEfFofDmbW.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 218898,
+  "imdb_id": "tt2357489",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Zanjeer",
+  "overview": "A remake of the 1973 action film of the same name.",
+  "popularity": 1.2844,
+  "poster_path": "/xh9sPcIEIdco1EzBaEXmuPlZv44.jpg",
+  "production_companies": [
+    {
+      "id": 64402,
+      "logo_path": null,
+      "name": "Prakash Mehra Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 64403,
+      "logo_path": null,
+      "name": "Flying Turtles",
+      "origin_country": "IN"
+    },
+    {
+      "id": 158649,
+      "logo_path": null,
+      "name": "Rampage Motion Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 7294,
+      "logo_path": "/kK4PRgceWp9KNrycD8xx8seWxYU.png",
+      "name": "Reliance Entertainment",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2013-09-05",
+  "revenue": 0,
+  "runtime": 138,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Zanjeer",
+  "video": false,
+  "vote_average": 4.389,
+  "vote_count": 36,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147023,
+        "known_for_department": "Acting",
+        "name": "Ram Charan",
+        "original_name": "రామ్ చరణ్",
+        "popularity": 2.3703,
+        "profile_path": "/twGqYUCR0Yh33j3TcgRTZRBRhTd.jpg",
+        "cast_id": 2,
+        "character": "Inspector Vijay Khanna",
+        "credit_id": "52fe4e59c3a368484e21bc99",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89153,
+        "known_for_department": "Acting",
+        "name": "Prakash Raj",
+        "original_name": "ప్రకాష్ రాజ్",
+        "popularity": 2.188,
+        "profile_path": "/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg",
+        "cast_id": 6,
+        "character": "Teja",
+        "credit_id": "52fe4e59c3a368484e21bca5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 77234,
+        "known_for_department": "Acting",
+        "name": "Priyanka Chopra Jonas",
+        "original_name": "Priyanka Chopra Jonas",
+        "popularity": 3.6536,
+        "profile_path": "/hh48u9scic0nITGtzi9b6rJeAtT.jpg",
+        "cast_id": 4,
+        "character": "Mala",
+        "credit_id": "52fe4e59c3a368484e21bc9d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85881,
+        "known_for_department": "Acting",
+        "name": "Sanjay Dutt",
+        "original_name": "संजय दत्त",
+        "popularity": 2.4825,
+        "profile_path": "/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg",
+        "cast_id": 5,
+        "character": "Sher Khan (Hindi version)",
+        "credit_id": "52fe4e59c3a368484e21bca1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146936,
+        "known_for_department": "Acting",
+        "name": "Srihari",
+        "original_name": "Srihari",
+        "popularity": 0.7169,
+        "profile_path": "/j0sMxR2Hq69iLCJKMcVHe4XuA17.jpg",
+        "cast_id": 36,
+        "character": "Sher Khan (Telugu version)",
+        "credit_id": "6128c167957ce50029926245",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53676,
+        "known_for_department": "Acting",
+        "name": "Atul Kulkarni",
+        "original_name": "Atul Kulkarni",
+        "popularity": 0.9462,
+        "profile_path": "/z3mRRjJfYs5C9PR4jzKsbZVKTKy.jpg",
+        "cast_id": 7,
+        "character": "Jaidev",
+        "credit_id": "56099be5925141719c00021c",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86085,
+        "known_for_department": "Acting",
+        "name": "Mahie Gill",
+        "original_name": "Mahie Gill",
+        "popularity": 0.99,
+        "profile_path": "/8BaceKKti0WFxa5PQLYLLhW684N.jpg",
+        "cast_id": 8,
+        "character": "Mona Darling",
+        "credit_id": "56099bef92514171960001a0",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1246530,
+        "known_for_department": "Acting",
+        "name": "Kavita Kaushik",
+        "original_name": "Kavita Kaushik",
+        "popularity": 0.8042,
+        "profile_path": "/7deRr5I7K66n2JT465ECnZnoph.jpg",
+        "cast_id": 10,
+        "character": "Shakila Bano",
+        "credit_id": "56099c15c3a368681400022b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 930045,
+        "known_for_department": "Production",
+        "name": "Taran Bajaj",
+        "original_name": "Taran Bajaj",
+        "popularity": 0.6811,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Singh",
+        "credit_id": "56099c0c92514171960001a2",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1418576,
+        "known_for_department": "Acting",
+        "name": "Sanjay Sharma",
+        "original_name": "Sanjay Sharma",
+        "popularity": 0.4965,
+        "profile_path": "/cHsFVbVXimtSMoZeSOZYLZQVxJL.jpg",
+        "cast_id": 15,
+        "character": "Reddy",
+        "credit_id": "5b53a38bc3a3680b5b016d9b",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150478,
+        "known_for_department": "Directing",
+        "name": "Apoorva Lakhia",
+        "original_name": "Apoorva Lakhia",
+        "popularity": 0.4833,
+        "profile_path": "/sjbi6A1T1X3AMml7HOYVjJA3WuN.jpg",
+        "credit_id": "610dd3ad38469a00724e3cac",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150478,
+        "known_for_department": "Directing",
+        "name": "Apoorva Lakhia",
+        "original_name": "Apoorva Lakhia",
+        "popularity": 0.4833,
+        "profile_path": "/sjbi6A1T1X3AMml7HOYVjJA3WuN.jpg",
+        "credit_id": "610dd3c14cbe12002c603968",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85469,
+        "known_for_department": "Writing",
+        "name": "Chintan Gandhi",
+        "original_name": "Chintan Gandhi",
+        "popularity": 0.4642,
+        "profile_path": null,
+        "credit_id": "610dd3daee43e8005e47c17e",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 142632,
+        "known_for_department": "Writing",
+        "name": "Suresh Nair",
+        "original_name": "Suresh Nair",
+        "popularity": 0.7078,
+        "profile_path": "/vNuqecvbboILkrKrn5muTWosUFo.jpg",
+        "credit_id": "610dd3fc5a46900046293c3d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1579361,
+        "known_for_department": "Directing",
+        "name": "Anil V. Kumar",
+        "original_name": "Anil V. Kumar",
+        "popularity": 0.3074,
+        "profile_path": null,
+        "credit_id": "610dd445931ea10046b41be5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3189185,
+        "known_for_department": "Production",
+        "name": "Puneet Prakash Mehra",
+        "original_name": "Puneet Prakash Mehra",
+        "popularity": 0.2043,
+        "profile_path": null,
+        "credit_id": "610dd4704cbe120081926978",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3189187,
+        "known_for_department": "Production",
+        "name": "Sumeet Prakash Mehra",
+        "original_name": "Sumeet Prakash Mehra",
+        "popularity": 0.2361,
+        "profile_path": null,
+        "credit_id": "610dd495b4a54300754f6478",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1461568,
+        "known_for_department": "Production",
+        "name": "Ram Mirchandani",
+        "original_name": "Ram Mirchandani",
+        "popularity": 0.3434,
+        "profile_path": null,
+        "credit_id": "610dd4aee1ad79005d97ba17",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3189189,
+        "known_for_department": "Production",
+        "name": "Sakett Saawhney",
+        "original_name": "Sakett Saawhney",
+        "popularity": 0.2854,
+        "profile_path": null,
+        "credit_id": "610dd4e57719d7002ca8338f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 559482,
+        "known_for_department": "Production",
+        "name": "Dhiraj Shah",
+        "original_name": "Dhiraj Shah",
+        "popularity": 0.2924,
+        "profile_path": null,
+        "credit_id": "610dd502323eba00736680bd",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2288429,
+        "known_for_department": "Production",
+        "name": "Abdullah Shaikh",
+        "original_name": "Abdullah Shaikh",
+        "popularity": 0.1304,
+        "profile_path": null,
+        "credit_id": "610dd525b4a54300754f65bb",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1039576,
+        "known_for_department": "Sound",
+        "name": "Anand Raj Anand",
+        "original_name": "Anand Raj Anand",
+        "popularity": 0.5517,
+        "profile_path": null,
+        "credit_id": "610dd53bee43e80047a29959",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1139875,
+        "known_for_department": "Sound",
+        "name": "Chirantan Bhatt",
+        "original_name": "Chirantan Bhatt",
+        "popularity": 0.2382,
+        "profile_path": null,
+        "credit_id": "610dd55a5bce9e002cfb617b",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1959815,
+        "known_for_department": "Sound",
+        "name": "Harmeet Singh",
+        "original_name": "Harmeet Singh",
+        "popularity": 0.3797,
+        "profile_path": null,
+        "credit_id": "610dd574dcf8750080e1d69c",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1032979,
+        "known_for_department": "Sound",
+        "name": "Amar Mohile",
+        "original_name": "Amar Mohile",
+        "popularity": 0.4179,
+        "profile_path": null,
+        "credit_id": "610dd5b1ee43e8007f427bbc",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2325080,
+        "known_for_department": "Camera",
+        "name": "R J Gururaj",
+        "original_name": "R J Gururaj",
+        "popularity": 0.2848,
+        "profile_path": null,
+        "credit_id": "610dd5f95a469000462941e0",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3189192,
+        "known_for_department": "Editing",
+        "name": "Chintu Singh",
+        "original_name": "Chintu Singh",
+        "popularity": 0.2879,
+        "profile_path": null,
+        "credit_id": "610dd60f7719d70072cad13a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1860555,
+        "known_for_department": "Directing",
+        "name": "Gautam Parvi",
+        "original_name": "Gautam Parvi",
+        "popularity": 0.4962,
+        "profile_path": "/sRh8RiCltxZ4P2yKitlVLJZ4Y7g.jpg",
+        "credit_id": "610dd624b4a5430046b5c142",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3189193,
+        "known_for_department": "Production",
+        "name": "Vehan Thakur",
+        "original_name": "Vehan Thakur",
+        "popularity": 0.3087,
+        "profile_path": null,
+        "credit_id": "610dd650e1ad790074d7f9a9",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150478,
+        "known_for_department": "Directing",
+        "name": "Apoorva Lakhia",
+        "original_name": "Apoorva Lakhia",
+        "popularity": 0.4833,
+        "profile_path": "/sjbi6A1T1X3AMml7HOYVjJA3WuN.jpg",
+        "credit_id": "52fe4e59c3a368484e21bc95",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86559,
+        "known_for_department": "Acting",
+        "name": "Shabbir Ahluwalia",
+        "original_name": "Shabbir Ahluwalia",
+        "popularity": 0.9607,
+        "profile_path": "/yDuCNtLaE7auA11GUKeGmRxl7Ig.jpg",
+        "credit_id": "56099c7592514171960001ad",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85447,
+        "known_for_department": "Crew",
+        "name": "Pony Verma",
+        "original_name": "Pony Verma",
+        "popularity": 0.4939,
+        "profile_path": null,
+        "credit_id": "5db5a4693faba0001934f0d7",
+        "department": "Crew",
+        "job": "Choreographer"
+      }
+    ]
+  }
+}

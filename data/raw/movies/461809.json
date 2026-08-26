@@ -1,0 +1,450 @@
+{
+  "adult": false,
+  "backdrop_path": "/klihgytIMudjmc73E8LAtUu5GV5.jpg",
+  "belongs_to_collection": null,
+  "budget": 1400000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 461809,
+  "imdb_id": "tt6711660",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "बाबूमोशाय बन्दूकबाज़",
+  "overview": "Two contract killer from Uttar Pradesh, Babu Bihari and Banke Bihari who are often paid to bump off the same game, cross each other's path and end up fighting with each other.",
+  "popularity": 1.1812,
+  "poster_path": "/nmqyewAS2fbpXUKKEl5VehuxdfA.jpg",
+  "production_companies": [
+    {
+      "id": 114413,
+      "logo_path": null,
+      "name": "Movies by the Mob",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2017-08-25",
+  "revenue": 2500000,
+  "runtime": 122,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Babumoshai Bandookbaaz",
+  "video": false,
+  "vote_average": 6.304,
+  "vote_count": 28,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85047,
+        "known_for_department": "Acting",
+        "name": "Nawazuddin Siddiqui",
+        "original_name": "Nawazuddin Siddiqui",
+        "popularity": 1.1972,
+        "profile_path": "/w1eXF7T60QlEC2gNfr99J3n8CgX.jpg",
+        "cast_id": 0,
+        "character": "Babu Bihari",
+        "credit_id": "5965f72a9251410b86127106",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1376743,
+        "known_for_department": "Acting",
+        "name": "Bidita Bag",
+        "original_name": "Bidita Bag",
+        "popularity": 0.649,
+        "profile_path": "/2W8PJe4w3QRlgv6M4vZEMscFEyF.jpg",
+        "cast_id": 2,
+        "character": "Fulwa",
+        "credit_id": "5965f7569251410b86127136",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1065777,
+        "known_for_department": "Acting",
+        "name": "Shraddha Das",
+        "original_name": "Shraddha Das",
+        "popularity": 0.5549,
+        "profile_path": "/zt3UYBlohKs8arf1JJaahWZUwwb.jpg",
+        "cast_id": 6,
+        "character": "Jasmine",
+        "credit_id": "5c5911b00e0a260506cc5eeb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85588,
+        "known_for_department": "Acting",
+        "name": "Murali Sharma",
+        "original_name": "మురళీ శర్మ",
+        "popularity": 1.705,
+        "profile_path": "/8m4L7L9lK4Z2YK4Jg97pMbA0Le5.jpg",
+        "cast_id": 7,
+        "character": "Triloki",
+        "credit_id": "5c5911e3c3a368478ca4ce9a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35778,
+        "known_for_department": "Acting",
+        "name": "Divya Dutta",
+        "original_name": "Divya Dutta",
+        "popularity": 0.9268,
+        "profile_path": "/mr8GYp92eizLVXBQxQndkxKuJH1.jpg",
+        "cast_id": 8,
+        "character": "Jiji",
+        "credit_id": "5c5911ec92514116fc5ba1c5",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2377494,
+        "known_for_department": "Writing",
+        "name": "Ghalib Asad Bhopali",
+        "original_name": "Ghalib Asad Bhopali",
+        "popularity": 0.3176,
+        "profile_path": null,
+        "credit_id": "61f2a53a9a3c4900c0545272",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1460771,
+        "known_for_department": "Sound",
+        "name": "Armaan Malik",
+        "original_name": "Armaan Malik",
+        "popularity": 0.5768,
+        "profile_path": "/6dJUvnyBJw0YkAFfoD0zssif2yA.jpg",
+        "credit_id": "61f2a54be48860006dc21b89",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2104673,
+        "known_for_department": "Sound",
+        "name": "Neha Kakkar",
+        "original_name": "Neha Kakkar",
+        "popularity": 0.6523,
+        "profile_path": "/l0uwWpLPlwjNbZeKJw4yEziqYeR.jpg",
+        "credit_id": "61f2a559a6fdaa0099c4198c",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1272915,
+        "known_for_department": "Sound",
+        "name": "Papon",
+        "original_name": "Papon",
+        "popularity": 0.5566,
+        "profile_path": "/5XRRCqBEZdXWySpeD8fHfyTBl2U.jpg",
+        "credit_id": "61f2a56864de3500ee887fd4",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1430631,
+        "known_for_department": "Sound",
+        "name": "Mohit Chauhan",
+        "original_name": "Mohit Chauhan",
+        "popularity": 0.6734,
+        "profile_path": "/olwXSLxlsEyyA1rEoGxEcfWQf6e.jpg",
+        "credit_id": "61f2a57702842000945932aa",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3400698,
+        "known_for_department": "Sound",
+        "name": "Orunima Bhattacharya",
+        "original_name": "Orunima Bhattacharya",
+        "popularity": 0.1647,
+        "profile_path": null,
+        "credit_id": "61f2a589c5ada50068171786",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2291862,
+        "known_for_department": "Sound",
+        "name": "Geet Sagar",
+        "original_name": "Geet Sagar",
+        "popularity": 0.3993,
+        "profile_path": null,
+        "credit_id": "61f2a59acedac4004359d5ac",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1977824,
+        "known_for_department": "Directing",
+        "name": "Kushan Nandy",
+        "original_name": "Kushan Nandy",
+        "popularity": 0.3586,
+        "profile_path": "/yMOhGIjzWsaSxTDZVQK0K9tzdrE.jpg",
+        "credit_id": "5a83c710c3a36863390050be",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 238014,
+        "known_for_department": "Editing",
+        "name": "Ashmith Kunder",
+        "original_name": "Ashmith Kunder",
+        "popularity": 0.4899,
+        "profile_path": null,
+        "credit_id": "5c5912060e0a26567acceb33",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2234918,
+        "known_for_department": "Production",
+        "name": "Kiran Shyam Shroff",
+        "original_name": "Kiran Shyam Shroff",
+        "popularity": 0.3521,
+        "profile_path": null,
+        "credit_id": "5c5912140e0a26567acceb6e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1977824,
+        "known_for_department": "Directing",
+        "name": "Kushan Nandy",
+        "original_name": "Kushan Nandy",
+        "popularity": 0.3586,
+        "profile_path": "/yMOhGIjzWsaSxTDZVQK0K9tzdrE.jpg",
+        "credit_id": "5c59121ec3a3680b578b2e12",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1721401,
+        "known_for_department": "Production",
+        "name": "Sanjay Inamdar",
+        "original_name": "Sanjay Inamdar",
+        "popularity": 0.3348,
+        "profile_path": null,
+        "credit_id": "5c5912290e0a263ccde7391a",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1806553,
+        "known_for_department": "Camera",
+        "name": "Vishal Vittal",
+        "original_name": "Vishal Vittal",
+        "popularity": 0.3933,
+        "profile_path": null,
+        "credit_id": "5c591244925141544867503f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1323185,
+        "known_for_department": "Sound",
+        "name": "Gaurav Dagaonkar",
+        "original_name": "Gaurav Dagaonkar",
+        "popularity": 0.3671,
+        "profile_path": null,
+        "credit_id": "5c5912510e0a265e19d88bf1",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2234920,
+        "known_for_department": "Sound",
+        "name": "Manav Shrotriya",
+        "original_name": "Manav Shrotriya",
+        "popularity": 0.3563,
+        "profile_path": null,
+        "credit_id": "5c59125cc3a36805e887da51",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1646127,
+        "known_for_department": "Sound",
+        "name": "Jayant Pradhan",
+        "original_name": "Jayant Pradhan",
+        "popularity": 0.3907,
+        "profile_path": null,
+        "credit_id": "5c5912660e0a260506cc60b0",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2234921,
+        "known_for_department": "Production",
+        "name": "Sanjay Chouhan",
+        "original_name": "Sanjay Chouhan",
+        "popularity": 0.2554,
+        "profile_path": null,
+        "credit_id": "5c59126ec3a36805e887daac",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 238014,
+        "known_for_department": "Editing",
+        "name": "Ashmith Kunder",
+        "original_name": "Ashmith Kunder",
+        "popularity": 0.4899,
+        "profile_path": null,
+        "credit_id": "5c59127cc3a368478ca4cfd5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2116076,
+        "known_for_department": "Sound",
+        "name": "Jeet Singh",
+        "original_name": "Jeet Singh",
+        "popularity": 0.2018,
+        "profile_path": null,
+        "credit_id": "5c59128d0e0a260506cc60ef",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1823138,
+        "known_for_department": "Crew",
+        "name": "Parag Desai",
+        "original_name": "Parag Desai",
+        "popularity": 0.3317,
+        "profile_path": null,
+        "credit_id": "5c5912a10e0a260506cc6101",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2011849,
+        "known_for_department": "Editing",
+        "name": "Nirmal Sharma",
+        "original_name": "Nirmal Sharma",
+        "popularity": 0.3711,
+        "profile_path": null,
+        "credit_id": "5c5912ab0e0a265e19d88c6c",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2377494,
+        "known_for_department": "Writing",
+        "name": "Ghalib Asad Bhopali",
+        "original_name": "Ghalib Asad Bhopali",
+        "popularity": 0.3176,
+        "profile_path": null,
+        "credit_id": "6777101682cce15a767488ce",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2377494,
+        "known_for_department": "Writing",
+        "name": "Ghalib Asad Bhopali",
+        "original_name": "Ghalib Asad Bhopali",
+        "popularity": 0.3176,
+        "profile_path": null,
+        "credit_id": "6777102438d26a2a63723d62",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6048974,
+        "known_for_department": "Production",
+        "name": "Vicky Kisan Mourya",
+        "original_name": "Vicky Kisan Mourya",
+        "popularity": 0.4838,
+        "profile_path": "/lZq4cYrvjYHK2O8MruYNGaEy5fB.jpg",
+        "credit_id": "69cf7ab8669eba65faa644aa",
+        "department": "Production",
+        "job": "Casting Associate"
+      }
+    ]
+  }
+}

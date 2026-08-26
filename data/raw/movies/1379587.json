@@ -1,0 +1,411 @@
+{
+  "adult": false,
+  "backdrop_path": "/79tWkw0oc4Az96bzw5jGsMI05DS.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 1379587,
+  "imdb_id": "tt32001464",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Utopia",
+  "overview": "A soldier searching for his missing wife breaks into a high-tech facility, believing she's been caught in a human trafficking ring. But beyond its walls, he finds a surreal, futuristic fantasy park where reality and illusion blur. As he navigates this seductive and dangerous world, a shocking truth pulls him deeper into a deadly game where nothing is as it seems.",
+  "popularity": 3.6708,
+  "poster_path": "/yef0tY1Nw3BX8PJTfBLieqHj5Hw.jpg",
+  "production_companies": [
+    {
+      "id": 177095,
+      "logo_path": "/nfwWCvMNaK687bjyM7un8p7ilz0.png",
+      "name": "SP Media Group",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-12-09",
+  "revenue": 0,
+  "runtime": 93,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Utopia",
+  "video": false,
+  "vote_average": 5.643,
+  "vote_count": 63,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1288730,
+        "known_for_department": "Acting",
+        "name": "Moe Dunford",
+        "original_name": "Moe Dunford",
+        "popularity": 1.2232,
+        "profile_path": "/tJ64S9CzXXuVQQo6jpxLool6okw.jpg",
+        "cast_id": 10,
+        "character": "Damon",
+        "credit_id": "6721547c003c4b5b5b6405a0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1262750,
+        "known_for_department": "Acting",
+        "name": "Charlotte Vega",
+        "original_name": "Charlotte Vega",
+        "popularity": 1.7864,
+        "profile_path": "/legWa5GpB82M3KunyFjXPopkSc7.jpg",
+        "cast_id": 11,
+        "character": "Alexis",
+        "credit_id": "672154ccc3f65a93a44fd607",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2196042,
+        "known_for_department": "Acting",
+        "name": "Michael D. Xavier",
+        "original_name": "Michael D. Xavier",
+        "popularity": 0.5913,
+        "profile_path": "/kfyljSkwsq6DYbtg9l8fGN52Y3q.jpg",
+        "cast_id": 12,
+        "character": "Jeremy Zenner",
+        "credit_id": "67215504003c4b5b5b6405cc",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9452,
+        "known_for_department": "Acting",
+        "name": "Daniel Bernhardt",
+        "original_name": "Daniel Bernhardt",
+        "popularity": 2.7402,
+        "profile_path": "/3BLz32inDr1jznU6pKQmh20zfhK.jpg",
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "67215528003c4b5b5b6405e7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 973,
+        "known_for_department": "Acting",
+        "name": "Jason Flemyng",
+        "original_name": "Jason Flemyng",
+        "popularity": 3.129,
+        "profile_path": "/nYl0180ACnLzVlGbaAfuPtdGr9K.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "67215535003c4b5b5b6405f2",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3719592,
+        "known_for_department": "Acting",
+        "name": "Wanda Banda",
+        "original_name": "Wanda Banda",
+        "popularity": 0.5431,
+        "profile_path": "/usnpARPQcgPJNIs3huMz3ShmhB5.jpg",
+        "cast_id": 16,
+        "character": "Joan",
+        "credit_id": "6721555b1df70f7920feb3ac",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130391,
+        "known_for_department": "Acting",
+        "name": "Lucy Akhurst",
+        "original_name": "Lucy Akhurst",
+        "popularity": 1.0652,
+        "profile_path": "/2Beax3aSqFQAWlrCfis4jALR6P9.jpg",
+        "cast_id": 17,
+        "character": "Miss Becker",
+        "credit_id": "67215582991edb035c5f5084",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4111701,
+        "known_for_department": "Acting",
+        "name": "Maddy Ambus",
+        "original_name": "Maddy Ambus",
+        "popularity": 0.5219,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Adelaide",
+        "credit_id": "67215592003c4b5b5b64062a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5030158,
+        "known_for_department": "Acting",
+        "name": "Jade Coatsworth",
+        "original_name": "Jade Coatsworth",
+        "popularity": 0.4505,
+        "profile_path": "/tzNtJhGQpNlNtcHLIn5uA9pOysh.jpg",
+        "cast_id": 19,
+        "character": "Azumi",
+        "credit_id": "672155a118827a9329f161ea",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4361551,
+        "known_for_department": "Sound",
+        "name": "Sean Sutton",
+        "original_name": "Sean Sutton",
+        "popularity": 0.2528,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Karl Tubin",
+        "credit_id": "672155b20cd8a2a503acbf3c",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4672267,
+        "known_for_department": "Acting",
+        "name": "Joe Carmichael",
+        "original_name": "Joe Carmichael",
+        "popularity": 0.3891,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Edmund Spar",
+        "credit_id": "672155c2eeb0c5ef3b9b95f1",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1831832,
+        "known_for_department": "Acting",
+        "name": "Mercer Boffey",
+        "original_name": "Mercer Boffey",
+        "popularity": 0.5903,
+        "profile_path": "/zuwA9vtraebZoSqIObfR0V5903W.jpg",
+        "cast_id": 22,
+        "character": "Austin Johnson",
+        "credit_id": "672155d30cd8a2a503acbf58",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3943610,
+        "known_for_department": "Acting",
+        "name": "Philipp Boos",
+        "original_name": "Philipp Boos",
+        "popularity": 0.6903,
+        "profile_path": "/r9aZWg8qGdiZoKx3Kwz38RQCjMX.jpg",
+        "cast_id": 23,
+        "character": "Michael Braun",
+        "credit_id": "672155e9eeb0c5ef3b9b9605",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3042038,
+        "known_for_department": "Acting",
+        "name": "Alix Villaret",
+        "original_name": "Alix Villaret",
+        "popularity": 1.0443,
+        "profile_path": "/yUJZgLhUb3xy8vkWOS3gS9qdsot.jpg",
+        "cast_id": 24,
+        "character": "Natalie",
+        "credit_id": "67215898d9a8a77b5da42c75",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113194,
+        "known_for_department": "Crew",
+        "name": "James Bamford",
+        "original_name": "James Bamford",
+        "popularity": 0.7731,
+        "profile_path": null,
+        "credit_id": "67215307826fe5799cc49a35",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3001209,
+        "known_for_department": "Writing",
+        "name": "Ian Neligh",
+        "original_name": "Ian Neligh",
+        "popularity": 0.5239,
+        "profile_path": null,
+        "credit_id": "67215320826fe5799cc49a46",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1355964,
+        "known_for_department": "Visual Effects",
+        "name": "Danail Hadzhiyski",
+        "original_name": "Danail Hadzhiyski",
+        "popularity": 0.4849,
+        "profile_path": null,
+        "credit_id": "67215359003c4b5b5b640564",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1933445,
+        "known_for_department": "Production",
+        "name": "Vladimir Karanikolov",
+        "original_name": "Vladimir Karanikolov",
+        "popularity": 0.3639,
+        "profile_path": null,
+        "credit_id": "672153e0991edb035c5f4fb6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1014927,
+        "known_for_department": "Production",
+        "name": "Scott Karol",
+        "original_name": "Scott Karol",
+        "popularity": 0.4464,
+        "profile_path": "/iQmHnz6IdZaO2GjOF0jh2rQVnrc.jpg",
+        "credit_id": "672153f9180b0a5ab90c050a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2258633,
+        "known_for_department": "Production",
+        "name": "Kyle Otto",
+        "original_name": "Kyle Otto",
+        "popularity": 0.357,
+        "profile_path": "/tuxjplh7z8Vv1UGb89KzDoBx5fw.jpg",
+        "credit_id": "672154263ac0e6a07ccb9638",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16838,
+        "known_for_department": "Production",
+        "name": "Steven Paul",
+        "original_name": "Steven Paul",
+        "popularity": 1.1241,
+        "profile_path": "/r3QqlY7B8sefjiCUAJhREuA5NJB.jpg",
+        "credit_id": "67215441991edb035c5f4fcf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16838,
+        "known_for_department": "Production",
+        "name": "Steven Paul",
+        "original_name": "Steven Paul",
+        "popularity": 1.1241,
+        "profile_path": "/r3QqlY7B8sefjiCUAJhREuA5NJB.jpg",
+        "credit_id": "674df07b13a7f2dd35806f19",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1864094,
+        "known_for_department": "Crew",
+        "name": "Zahari Grozdanov",
+        "original_name": "Zahari Grozdanov",
+        "popularity": 0.4881,
+        "profile_path": "/u08CTD8xjrzHYACtiR9zCZMejkt.jpg",
+        "credit_id": "67a5659043781b4bfa2ff1ad",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 559371,
+        "known_for_department": "Crew",
+        "name": "Stanimir Stamatov",
+        "original_name": "Stanimir Stamatov",
+        "popularity": 0.9154,
+        "profile_path": "/fDJBdH5J50oDuoeRl92gbKP3uZF.jpg",
+        "credit_id": "67a56a1e1f6b3834ff2fc0d4",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5238042,
+        "known_for_department": "Visual Effects",
+        "name": "Zuzana Martinková",
+        "original_name": "Zuzana Martinková",
+        "popularity": 0.2433,
+        "profile_path": null,
+        "credit_id": "67a9d451ee5189f50a0f7192",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      }
+    ]
+  }
+}

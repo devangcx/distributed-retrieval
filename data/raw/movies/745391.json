@@ -1,0 +1,483 @@
+{
+  "adult": false,
+  "backdrop_path": "/qhVZ45o4rk1LSvdG3U5X99Omfvh.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 745391,
+  "imdb_id": "tt11947100",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Love in Taipei",
+  "overview": "A young American woman is sent by her parents to a cultural immersion program in Taipei where she begins a new journey of self-discovery and romance.",
+  "popularity": 2.7171,
+  "poster_path": "/8iQuQcGHnxlv19rb8yz9Rk8HKnk.jpg",
+  "production_companies": [
+    {
+      "id": 172977,
+      "logo_path": "/4FOQ0au99xFZw4uCOJekJAp1We.png",
+      "name": "ACE Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 73451,
+      "logo_path": null,
+      "name": "1 Production Film",
+      "origin_country": "TW"
+    },
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    },
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 35591,
+      "logo_path": null,
+      "name": "Vicarious Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TW",
+      "name": "Taiwan"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-08-10",
+  "revenue": 0,
+  "runtime": 95,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Love in Taipei",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 64,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1583971,
+        "known_for_department": "Acting",
+        "name": "Ashley Liao",
+        "original_name": "Ashley Liao",
+        "popularity": 1.2206,
+        "profile_path": "/jGgQh6NRgKsTYlHVF8M23nhzN6X.jpg",
+        "cast_id": 6,
+        "character": "Ever Wong",
+        "credit_id": "618d903acca7de00435328ea",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1299232,
+        "known_for_department": "Acting",
+        "name": "Ross Butler",
+        "original_name": "Ross Butler",
+        "popularity": 1.9947,
+        "profile_path": "/9ZaZka3bsfMyknWP2t4VkvmfIpq.jpg",
+        "cast_id": 7,
+        "character": "Rick Woo",
+        "credit_id": "618d907bc3c89100615bc17f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2027704,
+        "known_for_department": "Acting",
+        "name": "Nico Hiraga",
+        "original_name": "Nico Hiraga",
+        "popularity": 1.463,
+        "profile_path": "/yd1Hx3C7BTevy3zvyGXUwtwvSft.jpg",
+        "cast_id": 8,
+        "character": "Xavier Yeh",
+        "credit_id": "618d909510dad60092fdfda6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1456334,
+        "known_for_department": "Acting",
+        "name": "Chelsea Zhang",
+        "original_name": "Chelsea Zhang",
+        "popularity": 0.932,
+        "profile_path": "/1bI5RT3LST8qDxkgBWH2M8AdZVW.jpg",
+        "cast_id": 9,
+        "character": "Sophie Ha",
+        "credit_id": "618d90a520e6a5002c4eca92",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 58619,
+        "known_for_department": "Acting",
+        "name": "Cindy Cheung",
+        "original_name": "Cindy Cheung",
+        "popularity": 1.0464,
+        "profile_path": "/j7zNyJHlAxqrsIUZYOObssZnj5s.jpg",
+        "cast_id": 19,
+        "character": "Auntie Shu",
+        "credit_id": "632dea8f7719d7007f6afc64",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2614041,
+        "known_for_department": "Acting",
+        "name": "Chloe Fox",
+        "original_name": "Chloe Fox",
+        "popularity": 0.7598,
+        "profile_path": "/jSNYnhR5KFG1gHwh7gUdVyovsgz.jpg",
+        "cast_id": 20,
+        "character": "Megan",
+        "credit_id": "632dea95fcec2e0081078864",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2221363,
+        "known_for_department": "Acting",
+        "name": "Janet Hsieh",
+        "original_name": "謝怡芬",
+        "popularity": 1.1902,
+        "profile_path": "/yIlVVXdturr0tDEU4QUpIdrieA0.jpg",
+        "cast_id": 21,
+        "character": "Aunt Claire",
+        "credit_id": "632dea9d0443c9008124b20e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5089774,
+        "known_for_department": "Acting",
+        "name": "Ricky Liu",
+        "original_name": "劉丞",
+        "popularity": 0.7086,
+        "profile_path": "/fIUcwUsxhhabcv6sKGzrJKsldUu.jpg",
+        "cast_id": 34,
+        "character": "Cool Kid",
+        "credit_id": "6762fb45581a3c0507ab020d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3131511,
+        "known_for_department": "Acting",
+        "name": "Sharon Huang",
+        "original_name": "黃湘婷",
+        "popularity": 1.104,
+        "profile_path": "/6rbn2A83DyNsFt8sXbyHIl9H39I.jpg",
+        "cast_id": 35,
+        "character": "Cool Kid",
+        "credit_id": "69dd496a6ec8628c7ed93840",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 543138,
+        "known_for_department": "Acting",
+        "name": "Mason Lee",
+        "original_name": "Mason Lee",
+        "popularity": 1.6139,
+        "profile_path": "/zVJfscd1rBPCXOMnsqTmlohCo8i.jpg",
+        "cast_id": 22,
+        "character": "Marc (uncredited)",
+        "credit_id": "632debc115794a0092ed90fb",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1525141,
+        "known_for_department": "Production",
+        "name": "Matt Kaplan",
+        "original_name": "Matt Kaplan",
+        "popularity": 0.7817,
+        "profile_path": null,
+        "credit_id": "624e592bd19a3300a6bcaa0b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1299232,
+        "known_for_department": "Acting",
+        "name": "Ross Butler",
+        "original_name": "Ross Butler",
+        "popularity": 1.9947,
+        "profile_path": "/9ZaZka3bsfMyknWP2t4VkvmfIpq.jpg",
+        "credit_id": "618d914c20e6a50066a6b6cd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 126714,
+        "known_for_department": "Directing",
+        "name": "Arvin Chen",
+        "original_name": "陳駿霖",
+        "popularity": 0.6996,
+        "profile_path": null,
+        "credit_id": "618d9123d768fe00929f1720",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 935493,
+        "known_for_department": "Production",
+        "name": "John McAlary",
+        "original_name": "John McAlary",
+        "popularity": 0.6183,
+        "profile_path": null,
+        "credit_id": "632dea250443c9007ccca0d0",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1364109,
+        "known_for_department": "Editing",
+        "name": "Michelle Harrison",
+        "original_name": "Michelle Harrison",
+        "popularity": 0.8109,
+        "profile_path": null,
+        "credit_id": "632dea1bcede69007b872da1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1690182,
+        "known_for_department": "Sound",
+        "name": "Roger Suen",
+        "original_name": "Roger Suen",
+        "popularity": 0.3722,
+        "profile_path": "/A4XNTdoipFux3kKE9nptYywJK07.jpg",
+        "credit_id": "64c1c9fddf86a800ae014345",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2015545,
+        "known_for_department": "Production",
+        "name": "Matthew Janzen",
+        "original_name": "Matthew Janzen",
+        "popularity": 0.3457,
+        "profile_path": null,
+        "credit_id": "64c1cb48097c490100d20373",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2537003,
+        "known_for_department": "Production",
+        "name": "Aubrey Bendix",
+        "original_name": "Aubrey Bendix",
+        "popularity": 0.4702,
+        "profile_path": null,
+        "credit_id": "64c1cb5a1cfe3a0eb1cc2e04",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2787230,
+        "known_for_department": "Writing",
+        "name": "Abigail Hing Wen",
+        "original_name": "Abigail Hing Wen",
+        "popularity": 0.5055,
+        "profile_path": null,
+        "credit_id": "64c1ca09be55b7013cd5a4a8",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2542594,
+        "known_for_department": "Writing",
+        "name": "Mackenzie Dohr",
+        "original_name": "Mackenzie Dohr",
+        "popularity": 0.7795,
+        "profile_path": null,
+        "credit_id": "64c1c9f51cfe3a0eb282a814",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1175345,
+        "known_for_department": "Production",
+        "name": "Chris Foss",
+        "original_name": "Chris Foss",
+        "popularity": 0.4425,
+        "profile_path": null,
+        "credit_id": "64c1cb3b1cfe3a0eb30c2cb1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4182373,
+        "known_for_department": "Production",
+        "name": "Cheng-Chung Chang",
+        "original_name": "Cheng-Chung Chang",
+        "popularity": 0.3904,
+        "profile_path": null,
+        "credit_id": "64c1cb86db4ed6011ed76d9c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2126726,
+        "known_for_department": "Acting",
+        "name": "Charlie Oh",
+        "original_name": "Charlie Oh",
+        "popularity": 0.4768,
+        "profile_path": "/ojMm3PBwdi8cG3QfBh2hnlQnyKe.jpg",
+        "credit_id": "64c1c9e12f1be0012d917431",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1568823,
+        "known_for_department": "Art",
+        "name": "Jennifer Morden",
+        "original_name": "Jennifer Morden",
+        "popularity": 0.4336,
+        "profile_path": null,
+        "credit_id": "64c1cb9fbe55b700ae8b9baf",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1711124,
+        "known_for_department": "Directing",
+        "name": "Matthias Mellinghaus",
+        "original_name": "Matthias Mellinghaus",
+        "popularity": 0.5734,
+        "profile_path": null,
+        "credit_id": "66c0709b06af4db6441c55e7",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 109427,
+        "known_for_department": "Camera",
+        "name": "Jake Pollock",
+        "original_name": "Jake Pollock",
+        "popularity": 0.4207,
+        "profile_path": "/mSBcLg405G9i69Q62lym1N3K4Ox.jpg",
+        "credit_id": "66c070cc9fda0e509c9dbf52",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1818608,
+        "known_for_department": "Production",
+        "name": "Max Siemers",
+        "original_name": "Max Siemers",
+        "popularity": 0.5513,
+        "profile_path": null,
+        "credit_id": "5f68fef5955c6500387dfb7e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2787230,
+        "known_for_department": "Writing",
+        "name": "Abigail Hing Wen",
+        "original_name": "Abigail Hing Wen",
+        "popularity": 0.5055,
+        "profile_path": null,
+        "credit_id": "5f68fed5c1ffbd0035d2df24",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2307864,
+        "known_for_department": "Production",
+        "name": "Matthew Nelson",
+        "original_name": "Matthew Nelson",
+        "popularity": 0.6128,
+        "profile_path": null,
+        "credit_id": "6a40d4e57e494755d932c16d",
+        "department": "Production",
+        "job": "Casting Associate"
+      }
+    ]
+  }
+}

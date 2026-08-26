@@ -1,0 +1,529 @@
+{
+  "adult": false,
+  "backdrop_path": "/rACXg4zadOTEQKceu0zViohXwCb.jpg",
+  "belongs_to_collection": null,
+  "budget": 1700000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 15977,
+  "imdb_id": "tt1327035",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "देव .डी",
+  "overview": "Dev, after spurning his childhood love Paro due to a misunderstanding, turns to drugs and alcohol for solace. Paro moves on but Dev remains in remorse. He then meets Chanda, an escort navigating her own past trauma, but Dev’s chauvinistic attitude and penchant for self-destruction stands in the way of their developing bond.",
+  "popularity": 1.2538,
+  "poster_path": "/krqfEEpvK31en2s7GpyGPmYt8r3.jpg",
+  "production_companies": [
+    {
+      "id": 5571,
+      "logo_path": null,
+      "name": "UTV Spotboy Motion Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 2320,
+      "logo_path": "/nSAXfUCy16cNRiPlBMHeb700t9p.png",
+      "name": "UTV Motion Pictures",
+      "origin_country": "IN"
+    },
+    {
+      "id": 11870,
+      "logo_path": null,
+      "name": "Anurag Kashyap Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2009-02-06",
+  "revenue": 7600000,
+  "runtime": 144,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "Punjabi",
+      "iso_639_1": "pa",
+      "name": "ਪੰਜਾਬੀ"
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "தமிழ்"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Get Ready for Emotional Atyachar",
+  "title": "Dev.D",
+  "video": false,
+  "vote_average": 7.036,
+  "vote_count": 154,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79003,
+        "known_for_department": "Acting",
+        "name": "Abhay Deol",
+        "original_name": "Abhay Deol",
+        "popularity": 1.1464,
+        "profile_path": "/h7eVy3QlTVwbWL10dpY5Y9mVlFB.jpg",
+        "cast_id": 1,
+        "character": "Devendra Singh Dhillon",
+        "credit_id": "52fe46919251416c7507c717",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86085,
+        "known_for_department": "Acting",
+        "name": "Mahie Gill",
+        "original_name": "Mahie Gill",
+        "popularity": 0.99,
+        "profile_path": "/8BaceKKti0WFxa5PQLYLLhW684N.jpg",
+        "cast_id": 5,
+        "character": "Paro",
+        "credit_id": "52fe46929251416c7507c72d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 146957,
+        "known_for_department": "Acting",
+        "name": "Kalki Koechlin",
+        "original_name": "Kalki Koechlin",
+        "popularity": 1.0094,
+        "profile_path": "/4m81jxAeWJ1h1T6265pGBZoCC10.jpg",
+        "cast_id": 6,
+        "character": "Leni (‘Chanda')",
+        "credit_id": "52fe46929251416c7507c731",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 146958,
+        "known_for_department": "Acting",
+        "name": "Parakh Madan",
+        "original_name": "Parakh Madan",
+        "popularity": 0.5647,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Rasika",
+        "credit_id": "52fe46929251416c7507c735",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 146959,
+        "known_for_department": "Sound",
+        "name": "Kuldeep Singh",
+        "original_name": "Kuldeep Singh",
+        "popularity": 0.4158,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Paro's father",
+        "credit_id": "52fe46929251416c7507c739",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 140637,
+        "known_for_department": "Acting",
+        "name": "Gurkirtan",
+        "original_name": "Gurkirtan",
+        "popularity": 0.362,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Dev's father",
+        "credit_id": "52fe46929251416c7507c73d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146960,
+        "known_for_department": "Writing",
+        "name": "Sanjay Kumar",
+        "original_name": "Sanjay Kumar",
+        "popularity": 0.4584,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Leni's father",
+        "credit_id": "52fe46929251416c7507c741",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146961,
+        "known_for_department": "Acting",
+        "name": "Aseem Sharma",
+        "original_name": "Aseem Sharma",
+        "popularity": 0.3464,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Bhuvan",
+        "credit_id": "52fe46929251416c7507c745",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 146962,
+        "known_for_department": "Acting",
+        "name": "Satwant Kaur",
+        "original_name": "Satwant Kaur",
+        "popularity": 0.6405,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Dev's mother",
+        "credit_id": "52fe46929251416c7507c749",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 146963,
+        "known_for_department": "Acting",
+        "name": "Shena Gamat",
+        "original_name": "Shena Gamat",
+        "popularity": 0.3002,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Owner of Hotel Welcome",
+        "credit_id": "52fe46929251416c7507c74d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85047,
+        "known_for_department": "Acting",
+        "name": "Nawazuddin Siddiqui",
+        "original_name": "Nawazuddin Siddiqui",
+        "popularity": 1.1972,
+        "profile_path": "/w1eXF7T60QlEC2gNfr99J3n8CgX.jpg",
+        "cast_id": 14,
+        "character": "Band Singer",
+        "credit_id": "58cbae9c9251415e6f010247",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1485723,
+        "known_for_department": "Acting",
+        "name": "Sunil Grover",
+        "original_name": "Sunil Grover",
+        "popularity": 1.0675,
+        "profile_path": "/ing2HJHnpvl7uzEQpv5M7NP4XK8.jpg",
+        "cast_id": 15,
+        "character": "Band Singer",
+        "credit_id": "58cbafeac3a368287d01072c",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1078264,
+        "known_for_department": "Acting",
+        "name": "Binnu Dhillon",
+        "original_name": "Binnu Dhillon",
+        "popularity": 0.7538,
+        "profile_path": "/beo2vFTYmkhBzB19GjCfB78JcO8.jpg",
+        "cast_id": 16,
+        "character": "Dev's Brother",
+        "credit_id": "5aed524b0e0a263597005259",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85670,
+        "known_for_department": "Directing",
+        "name": "Anurag Kashyap",
+        "original_name": "Anurag Kashyap",
+        "popularity": 1.5049,
+        "profile_path": "/wS1aF7dFDnKC44ZbFkbDcIpmFq5.jpg",
+        "credit_id": "52fe46919251416c7507c71d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146956,
+        "known_for_department": "Writing",
+        "name": "Saratchandra Chatterjee",
+        "original_name": "Saratchandra Chatterjee",
+        "popularity": 0.6016,
+        "profile_path": "/zMEitE4C83UySSfcQ4csRACuV31.jpg",
+        "credit_id": "60e98f064ca676002ded2ef3",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1693209,
+        "known_for_department": "Sound",
+        "name": "Bonnie Chakraborty",
+        "original_name": "Bonnie Chakraborty",
+        "popularity": 0.4281,
+        "profile_path": null,
+        "credit_id": "666f5613f182e419dbd1c01b",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1136857,
+        "known_for_department": "Camera",
+        "name": "Rajeev Ravi",
+        "original_name": "Rajeev Ravi",
+        "popularity": 0.9712,
+        "profile_path": "/7PaWPa9mjdwOvory7JuGX1spGpX.jpg",
+        "credit_id": "5aed5388c3a3683461004cf7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53677,
+        "known_for_department": "Production",
+        "name": "Ronnie Screwvala",
+        "original_name": "Ronnie Screwvala",
+        "popularity": 0.6028,
+        "profile_path": "/yBlADqlWOXWAgDOt3RnBb51JgOu.jpg",
+        "credit_id": "5aed53cb9251411d06004de8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 233068,
+        "known_for_department": "Production",
+        "name": "Siddharth Roy Kapur",
+        "original_name": "Siddharth Roy Kapur",
+        "popularity": 0.7279,
+        "profile_path": "/jZbPkiiSPRF9JEsq63eg7YESAlc.jpg",
+        "credit_id": "5aed53d59251411d5b0050d5",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1042011,
+        "known_for_department": "Production",
+        "name": "Vikas Bahl",
+        "original_name": "Vikas Bahl",
+        "popularity": 0.8051,
+        "profile_path": "/dSq2u9LkYyFzLf5PwwLTciKbwLj.jpg",
+        "credit_id": "5aed53ddc3a3683467005e4c",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85670,
+        "known_for_department": "Directing",
+        "name": "Anurag Kashyap",
+        "original_name": "Anurag Kashyap",
+        "popularity": 1.5049,
+        "profile_path": "/wS1aF7dFDnKC44ZbFkbDcIpmFq5.jpg",
+        "credit_id": "5aed53e79251411d1100619b",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223853,
+        "known_for_department": "Directing",
+        "name": "Vikramaditya Motwane",
+        "original_name": "Vikramaditya Motwane",
+        "popularity": 0.8664,
+        "profile_path": "/kG5sfFXKOsUMtWUiAOaQhI9xlHX.jpg",
+        "credit_id": "5aed53f5c3a368344c008e0d",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223854,
+        "known_for_department": "Sound",
+        "name": "Amit Trivedi",
+        "original_name": "Amit Trivedi",
+        "popularity": 0.6536,
+        "profile_path": "/lRewkQ2Smolc0TjNMSycYHnbFil.jpg",
+        "credit_id": "5aed5421c3a368344f00875e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1554531,
+        "known_for_department": "Art",
+        "name": "Sukant Panigrahy",
+        "original_name": "Sukant Panigrahy",
+        "popularity": 0.4235,
+        "profile_path": null,
+        "credit_id": "5aed542b9251411d240044ce",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1554531,
+        "known_for_department": "Art",
+        "name": "Sukant Panigrahy",
+        "original_name": "Sukant Panigrahy",
+        "popularity": 0.4235,
+        "profile_path": null,
+        "credit_id": "5aed5430c3a368344c008e50",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2030395,
+        "known_for_department": "Production",
+        "name": "Gautam Kishanchandani",
+        "original_name": "Gautam Kishanchandani",
+        "popularity": 0.3642,
+        "profile_path": null,
+        "credit_id": "5aed5437c3a3683477003b5b",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1665416,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Shubhra Gupta",
+        "original_name": "Shubhra Gupta",
+        "popularity": 0.3525,
+        "profile_path": null,
+        "credit_id": "5aed543f0e0a26359d0063ff",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 71275,
+        "known_for_department": "Editing",
+        "name": "Aarti Bajaj",
+        "original_name": "Aarti Bajaj",
+        "popularity": 0.7322,
+        "profile_path": "/hBQtmxZRTdgUftIChKGfO2AgsQ6.jpg",
+        "credit_id": "5aed54460e0a2635b50050ec",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1810752,
+        "known_for_department": "Sound",
+        "name": "Shilpa Rao",
+        "original_name": "Shilpa Rao",
+        "popularity": 0.5351,
+        "profile_path": "/cooqbmAeBsfzBbQ2lRebzrhibbC.jpg",
+        "credit_id": "5cf4dd659251412422b8c8e7",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1860550,
+        "known_for_department": "Crew",
+        "name": "Mansi Aggarwal",
+        "original_name": "Mansi Aggarwal",
+        "popularity": 0.4448,
+        "profile_path": null,
+        "credit_id": "5db55860d2c0c1001812eba2",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1599798,
+        "known_for_department": "Writing",
+        "name": "Amitabh Bhattacharya",
+        "original_name": "Amitabh Bhattacharya",
+        "popularity": 0.5849,
+        "profile_path": "/FsOarFNY9tnqKcs3TI1BFvhIla.jpg",
+        "credit_id": "5f5c81bc2b93200039e46ec6",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2074639,
+        "known_for_department": "Writing",
+        "name": "Shailender Sodhi",
+        "original_name": "Shailender Sodhi",
+        "popularity": 0.2827,
+        "profile_path": "/b97YVH5T3W7Gwon3i2yHh4BHCOi.jpg",
+        "credit_id": "5f5c81c85c324700392670fd",
+        "department": "Writing",
+        "job": "Lyricist"
+      }
+    ]
+  }
+}

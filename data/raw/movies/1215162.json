@@ -1,0 +1,455 @@
+{
+  "adult": false,
+  "backdrop_path": "/17FVlH4yYTG5qChmC4VcwT0V15N.jpg",
+  "belongs_to_collection": {
+    "id": 1215164,
+    "name": "Kill 'em All Collection",
+    "poster_path": "/uzqinhNWw7EVnw4qxfWxnPJjvpB.jpg",
+    "backdrop_path": "/70ViBnsgw0jpOia7vFEVYgY22o7.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1215162,
+  "imdb_id": "tt6549510",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Kill 'em All 2",
+  "overview": "Phillip and Suzanne are retired from the spy game, living peacefully off the grid. That's until their whereabouts are discovered by Vlad, the vengeful brother of their target from the first film.",
+  "popularity": 5.1781,
+  "poster_path": "/s5KZqIvyjwKpTRESCVrVGkT1JX3.jpg",
+  "production_companies": [
+    {
+      "id": 184844,
+      "logo_path": "/gsd7K46hkePQejS6hN6Lc5RqBH1.png",
+      "name": "Iervolino & Lady Bacardi Entertainment",
+      "origin_country": "IT"
+    },
+    {
+      "id": 23283,
+      "logo_path": "/AcLUyHmOpEFvYkCJKLiLoLI6NFr.png",
+      "name": "Rodin Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-09-24",
+  "revenue": 0,
+  "runtime": 85,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Ido",
+      "iso_639_1": "io",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kill 'em All 2",
+  "video": false,
+  "vote_average": 6.801,
+  "vote_count": 178,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15111,
+        "known_for_department": "Acting",
+        "name": "Jean-Claude Van Damme",
+        "original_name": "Jean-Claude Van Damme",
+        "popularity": 7.0344,
+        "profile_path": "/7DP3bm3MS0qa0L8tBLHGebbCu6H.jpg",
+        "cast_id": 1,
+        "character": "Philip",
+        "credit_id": "6572f42bcaab6d00ead46ffe",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 95505,
+        "known_for_department": "Acting",
+        "name": "Jacqueline Fernandez",
+        "original_name": "जैकलिन फर्नांडीस",
+        "popularity": 1.3778,
+        "profile_path": "/d9uHQdFXMGBwPEhbovipqbnkqqX.jpg",
+        "cast_id": 18,
+        "character": "Vanessa",
+        "credit_id": "66c734ab8fed7ccd74c3b3af",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1504796,
+        "known_for_department": "Acting",
+        "name": "Andrei Lenart",
+        "original_name": "Andrei Lenart",
+        "popularity": 0.8329,
+        "profile_path": "/5n1S06vvL7YgurFYfG9QNgRV5yM.jpg",
+        "cast_id": 16,
+        "character": "Vlad Petrovic",
+        "credit_id": "6585a77d98f1f153970a3bfa",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53,
+        "known_for_department": "Acting",
+        "name": "Peter Stormare",
+        "original_name": "Peter Stormare",
+        "popularity": 6.4635,
+        "profile_path": "/1rtpuUqBV29jDc1huUhtjGDbEwn.jpg",
+        "cast_id": 21,
+        "character": "Agent Holman",
+        "credit_id": "66c7532d9672c8fc38918f41",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3465747,
+        "known_for_department": "Acting",
+        "name": "Talia Asseraf",
+        "original_name": "Talia Asseraf",
+        "popularity": 0.6712,
+        "profile_path": "/qO9bluzeNVtHqVeF5x8vc7QxfPP.jpg",
+        "cast_id": 14,
+        "character": "Lydia",
+        "credit_id": "6585a7634f33ad5d3e01dea9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2051,
+        "known_for_department": "Acting",
+        "name": "María Conchita Alonso",
+        "original_name": "María Conchita Alonso",
+        "popularity": 1.6574,
+        "profile_path": "/zcDN921xNK0AznoA0TEbdbsPSn3.jpg",
+        "cast_id": 22,
+        "character": "Agent Sanders",
+        "credit_id": "66f821a6621e8616b45f39c8",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149954,
+        "known_for_department": "Acting",
+        "name": "Antonino Iuorio",
+        "original_name": "Antonino Iuorio",
+        "popularity": 0.9146,
+        "profile_path": "/267gN3jvjC7ljaqjgiiw15xoZ9K.jpg",
+        "cast_id": 24,
+        "character": "Govel",
+        "credit_id": "66f823eef5d56e9ed8a21bea",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4968529,
+        "known_for_department": "Acting",
+        "name": "Dimitar Doychinov",
+        "original_name": "Dimitar Doychinov",
+        "popularity": 0.3863,
+        "profile_path": "/oFcL0Q5daqiPzsvGfv21Lv30rYl.jpg",
+        "cast_id": 23,
+        "character": "Kaz",
+        "credit_id": "66f8222b7f13b7b12aa21615",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1902263,
+        "known_for_department": "Acting",
+        "name": "David Sebasti",
+        "original_name": "David Sebasti",
+        "popularity": 0.5487,
+        "profile_path": "/9D0lZzAOxeH2uneLQGuGdUhMZsD.jpg",
+        "cast_id": 25,
+        "character": "Bank Manager",
+        "credit_id": "66f824c8621e8616b45f3aae",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1998624,
+        "known_for_department": "Acting",
+        "name": "Nicolas Van Varenberg",
+        "original_name": "Nicolas Van Varenberg",
+        "popularity": 0.3736,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Ivan",
+        "credit_id": "6585a77103726471e47b9a57",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4968570,
+        "known_for_department": "Acting",
+        "name": "Andrea Di Lella",
+        "original_name": "Andrea Di Lella",
+        "popularity": 0.1763,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Big Bodyguard",
+        "credit_id": "66f82543f5d56e9ed8a21c52",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4968574,
+        "known_for_department": "Acting",
+        "name": "Vencislav Hristov",
+        "original_name": "Vencislav Hristov",
+        "popularity": 0.1931,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Short Merc",
+        "credit_id": "66f825a7f5d56e9ed8a21c77",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3920621,
+        "known_for_department": "Acting",
+        "name": "Meredith Mickelson",
+        "original_name": "Meredith Mickelson",
+        "popularity": 0.4662,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Nadia",
+        "credit_id": "66f82601621e8616b45f3b2b",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4968583,
+        "known_for_department": "Acting",
+        "name": "Annie Bezikian",
+        "original_name": "Annie Bezikian",
+        "popularity": 0.3481,
+        "profile_path": "/d4W3yTB8birhb3B5CNJU2gih7ER.jpg",
+        "cast_id": 29,
+        "character": "Hotel Clerk",
+        "credit_id": "66f8265ea6293e3d76a214ba",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4362057,
+        "known_for_department": "Camera",
+        "name": "Stefano Fontebasso di Martino",
+        "original_name": "Stefano Fontebasso di Martino",
+        "popularity": 0.2413,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Coffee Girl",
+        "credit_id": "66f826be393cda1d1dcc21bd",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1251847,
+        "known_for_department": "Acting",
+        "name": "Ana Golja",
+        "original_name": "Ana Golja",
+        "popularity": 1.0566,
+        "profile_path": "/nAbK9EeAXXzlbABwBeVTBzEQPPE.jpg",
+        "cast_id": 31,
+        "character": "Govel's Young Girl",
+        "credit_id": "66f827087f13b7b12aa2170a",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 103046,
+        "known_for_department": "Writing",
+        "name": "Jim Agnew",
+        "original_name": "Jim Agnew",
+        "popularity": 0.6582,
+        "profile_path": "/rwXjfmIHyUxaFmobRlRd65H7gXw.jpg",
+        "credit_id": "6572f45b2811a100ac4ffa26",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1382239,
+        "known_for_department": "Production",
+        "name": "Ferdinando Dell'Omo",
+        "original_name": "Ferdinando Dell'Omo",
+        "popularity": 0.5124,
+        "profile_path": null,
+        "credit_id": "6585a6b343cd5455a53bfec5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1276565,
+        "known_for_department": "Production",
+        "name": "Andrea Iervolino",
+        "original_name": "Andrea Iervolino",
+        "popularity": 0.8797,
+        "profile_path": "/fYcOinCNh1HMZIcGkO3TXGj3c1Q.jpg",
+        "credit_id": "6585a6c03acd2053de7b9472",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1385132,
+        "known_for_department": "Production",
+        "name": "Monika Bacardi",
+        "original_name": "Monika Bacardi",
+        "popularity": 0.6045,
+        "profile_path": null,
+        "credit_id": "6585a6d098f1f152630aa668",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1276565,
+        "known_for_department": "Production",
+        "name": "Andrea Iervolino",
+        "original_name": "Andrea Iervolino",
+        "popularity": 0.8797,
+        "profile_path": "/fYcOinCNh1HMZIcGkO3TXGj3c1Q.jpg",
+        "credit_id": "6585a6dc037264728b7b99e9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1782239,
+        "known_for_department": "Production",
+        "name": "Danielle Maloni",
+        "original_name": "Danielle Maloni",
+        "popularity": 0.3831,
+        "profile_path": null,
+        "credit_id": "6585a6e7af95901b0a68de2a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 103048,
+        "known_for_department": "Production",
+        "name": "Rafael Primorac",
+        "original_name": "Rafael Primorac",
+        "popularity": 0.3917,
+        "profile_path": null,
+        "credit_id": "6585a6f171f09557c523f593",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 63425,
+        "known_for_department": "Production",
+        "name": "Richard Salvatore",
+        "original_name": "Richard Salvatore",
+        "popularity": 0.678,
+        "profile_path": null,
+        "credit_id": "6585a6fd3acd20538a7baee0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18691,
+        "known_for_department": "Production",
+        "name": "Elie Samaha",
+        "original_name": "Elie Samaha",
+        "popularity": 0.6783,
+        "profile_path": "/viprByXSwqPgWiFJOsRnAakIkRK.jpg",
+        "credit_id": "6585a70a98f1f152630aa67d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1334828,
+        "known_for_department": "Sound",
+        "name": "Aldo Shllaku",
+        "original_name": "Aldo Shllaku",
+        "popularity": 0.4703,
+        "profile_path": null,
+        "credit_id": "6585a714223e2041ca95099a",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1040955,
+        "known_for_department": "Directing",
+        "name": "Valeri Milev",
+        "original_name": "Valeri Milev",
+        "popularity": 0.5677,
+        "profile_path": null,
+        "credit_id": "66c735bf9c1ffe84fab2e372",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

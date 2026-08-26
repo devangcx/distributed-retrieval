@@ -1,0 +1,532 @@
+{
+  "adult": false,
+  "backdrop_path": "/hqS6WKgGBKZITXLCiBBIBfxvE2J.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://thespineofnight.official.film/",
+  "id": 795522,
+  "imdb_id": "tt3885422",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Spine of Night",
+  "overview": "When ancient dark magic falls into sinister hands and unleashes ages of suffering onto mankind, a group of heroes from different eras and cultures must band together in order to defeat it at all costs.",
+  "popularity": 3.0492,
+  "poster_path": "/9uERhKRCtgDztLsx5Pg36j61rqC.jpg",
+  "production_companies": [
+    {
+      "id": 150976,
+      "logo_path": null,
+      "name": "Gorgonaut",
+      "origin_country": ""
+    },
+    {
+      "id": 25578,
+      "logo_path": null,
+      "name": "Reno Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 23654,
+      "logo_path": null,
+      "name": "Etch Media",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2021-10-29",
+  "revenue": 0,
+  "runtime": 93,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Spine of Night",
+  "video": false,
+  "vote_average": 5.995,
+  "vote_count": 101,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20766,
+        "known_for_department": "Acting",
+        "name": "Richard E. Grant",
+        "original_name": "Richard E. Grant",
+        "popularity": 2.704,
+        "profile_path": "/92oaBntIXhndCxUXaGywUyILIIE.jpg",
+        "cast_id": 4,
+        "character": "The Guardian (voice)",
+        "credit_id": "60245ba2bc2cb3003fa3d483",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20584,
+        "known_for_department": "Acting",
+        "name": "Lucy Lawless",
+        "original_name": "Lucy Lawless",
+        "popularity": 3.2525,
+        "profile_path": "/7fYfVk6jtdCWuJEo9pEqc6O2JkD.jpg",
+        "cast_id": 3,
+        "character": "Tzod (voice)",
+        "credit_id": "6024272fdd2589003fbca32d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10872,
+        "known_for_department": "Acting",
+        "name": "Patton Oswalt",
+        "original_name": "Patton Oswalt",
+        "popularity": 3.3271,
+        "profile_path": "/ljQvjbPmcIAl205Lb2Mu4CW8WO7.jpg",
+        "cast_id": 2,
+        "character": "Pyrantin (voice)",
+        "credit_id": "6024271c9979d2003ee51b26",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1660452,
+        "known_for_department": "Acting",
+        "name": "Betty Gabriel",
+        "original_name": "Betty Gabriel",
+        "popularity": 2.5915,
+        "profile_path": "/n67i3H3VM5quDQfcS591EbotPby.jpg",
+        "cast_id": 5,
+        "character": "Phae-Agura (voice)",
+        "credit_id": "60245bbebc2cb3003fa3d4aa",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20580,
+        "known_for_department": "Acting",
+        "name": "Joe Manganiello",
+        "original_name": "Joe Manganiello",
+        "popularity": 2.7388,
+        "profile_path": "/mTdACmitdrwor0Nrv5sr0u123vZ.jpg",
+        "cast_id": 1,
+        "character": "Mongrel (voice)",
+        "credit_id": "602426f395c0af0040545840",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31268,
+        "known_for_department": "Acting",
+        "name": "Larry Fessenden",
+        "original_name": "Larry Fessenden",
+        "popularity": 1.0423,
+        "profile_path": "/imQGskBT7IjqHLVJDQFLR1h1UPH.jpg",
+        "cast_id": 6,
+        "character": "Prophet of Doom (voice)",
+        "credit_id": "60245bfcabf8e20040a3c5f7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2340758,
+        "known_for_department": "Acting",
+        "name": "Malcolm Mills",
+        "original_name": "Malcolm Mills",
+        "popularity": 0.554,
+        "profile_path": "/htzdVbcf52RFK5s47pLz4IquEl0.jpg",
+        "cast_id": 8,
+        "character": "Uruq Il-Irin (voice)",
+        "credit_id": "60245c360e597b003da8bae0",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2894018,
+        "known_for_department": "Acting",
+        "name": "Jordan Douglas Smith",
+        "original_name": "Jordan Douglas Smith",
+        "popularity": 0.4911,
+        "profile_path": "/cyeFgEC5i2rB1ge07z00khhvrdo.jpg",
+        "cast_id": 7,
+        "character": "Ghal-Sur (voice)",
+        "credit_id": "60245c1ddd2589003ebc1000",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15031,
+        "known_for_department": "Acting",
+        "name": "Patrick Breen",
+        "original_name": "Patrick Breen",
+        "popularity": 1.0774,
+        "profile_path": "/oGK78qN4cezMlG7VBvZ0QYh1Ui0.jpg",
+        "cast_id": 9,
+        "character": "Doa (voice)",
+        "credit_id": "60245c5ec0ae36003f580ced",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 187847,
+        "known_for_department": "Sound",
+        "name": "Abigail Savage",
+        "original_name": "Abigail Savage",
+        "popularity": 1.2013,
+        "profile_path": "/hpsHu1ddCIhoHTgMPl2TKyH0KoF.jpg",
+        "cast_id": 14,
+        "character": "Kestrelwren (voice)",
+        "credit_id": "60245f506a3448003e11b6b8",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 990108,
+        "known_for_department": "Acting",
+        "name": "Nina Lisandrello",
+        "original_name": "Nina Lisandrello",
+        "popularity": 0.8198,
+        "profile_path": "/wiN8iMiNC1OgU2O3c1OlPFUri1a.jpg",
+        "cast_id": 10,
+        "character": "Sparrowcrow (voice)",
+        "credit_id": "60245d2c498ef9003ef60186",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 995198,
+        "known_for_department": "Acting",
+        "name": "Tom Lipinski",
+        "original_name": "Tom Lipinski",
+        "popularity": 1.1031,
+        "profile_path": "/kxqjDoNgGGTIEUUcH2K9cBe0KoD.jpg",
+        "cast_id": 11,
+        "character": "Falconhawk (voice)",
+        "credit_id": "60245d50ef9d72003e57e9fe",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1319034,
+        "known_for_department": "Acting",
+        "name": "Rob McClure",
+        "original_name": "Rob McClure",
+        "popularity": 0.6865,
+        "profile_path": "/dHDDtGeJomQWTC7k6VvGZotgTZc.jpg",
+        "cast_id": 12,
+        "character": "Gull (voice)",
+        "credit_id": "60245e69c5ada5003d7f88f2",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2972609,
+        "known_for_department": "Acting",
+        "name": "Maggie Lakis",
+        "original_name": "Maggie Lakis",
+        "popularity": 0.3813,
+        "profile_path": "/jt9lgcobSfiVb6SnjKXmudLkcCU.jpg",
+        "cast_id": 13,
+        "character": "Dae (voice)",
+        "credit_id": "60245e8103f0b6003ee39f8c",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2753858,
+        "known_for_department": "Acting",
+        "name": "Brandon Perras-Sanchez",
+        "original_name": "Brandon Perras-Sanchez",
+        "popularity": 0.7843,
+        "profile_path": "/bqfsgNzFwS2FvZIXXVffSJBoxkM.jpg",
+        "cast_id": 33,
+        "character": "Citizen Defender (voice)",
+        "credit_id": "648cc60e263462010cbb1946",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1339957,
+        "known_for_department": "Sound",
+        "name": "Tom Efinger",
+        "original_name": "Tom Efinger",
+        "popularity": 0.4585,
+        "profile_path": null,
+        "credit_id": "6174f87d5bce9e0064b2360b",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133048,
+        "known_for_department": "Writing",
+        "name": "Philip Gelatt",
+        "original_name": "Philip Gelatt",
+        "popularity": 0.4975,
+        "profile_path": "/lJ3gSIY2xzAdeU0UrAJYYitsKR6.jpg",
+        "credit_id": "60246306d2c0c1003d9c1f61",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1524193,
+        "known_for_department": "Directing",
+        "name": "Morgan Galen King",
+        "original_name": "Morgan Galen King",
+        "popularity": 0.6557,
+        "profile_path": "/ojmnLVEwQ4KhlewZKkcbxjS1lt4.jpg",
+        "credit_id": "602463120e597b003fa91d27",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133048,
+        "known_for_department": "Writing",
+        "name": "Philip Gelatt",
+        "original_name": "Philip Gelatt",
+        "popularity": 0.4975,
+        "profile_path": "/lJ3gSIY2xzAdeU0UrAJYYitsKR6.jpg",
+        "credit_id": "602463290e597b003ea98b0e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1524193,
+        "known_for_department": "Directing",
+        "name": "Morgan Galen King",
+        "original_name": "Morgan Galen King",
+        "popularity": 0.6557,
+        "profile_path": "/ojmnLVEwQ4KhlewZKkcbxjS1lt4.jpg",
+        "credit_id": "60246335d6c300003e6bbf54",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1116924,
+        "known_for_department": "Production",
+        "name": "Will Battersby",
+        "original_name": "Will Battersby",
+        "popularity": 0.2982,
+        "profile_path": null,
+        "credit_id": "6024634dd6c300003e6bbf76",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2972641,
+        "known_for_department": "Production",
+        "name": "Jean Rattle",
+        "original_name": "Jean Rattle",
+        "popularity": 0.2361,
+        "profile_path": null,
+        "credit_id": "6024636adcf875003f36cbdb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133048,
+        "known_for_department": "Writing",
+        "name": "Philip Gelatt",
+        "original_name": "Philip Gelatt",
+        "popularity": 0.4975,
+        "profile_path": "/lJ3gSIY2xzAdeU0UrAJYYitsKR6.jpg",
+        "credit_id": "60246377c669ad0040c44daf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130750,
+        "known_for_department": "Directing",
+        "name": "Peter Askin",
+        "original_name": "Peter Askin",
+        "popularity": 0.6119,
+        "profile_path": "/a6wrtuAUl4szYeYlHcHPd1Mnac3.jpg",
+        "credit_id": "6024639dc2b9df003fa1bbf6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1332257,
+        "known_for_department": "Acting",
+        "name": "Jonathan Gelatt",
+        "original_name": "Jonathan Gelatt",
+        "popularity": 0.2903,
+        "profile_path": null,
+        "credit_id": "602463af149565004175f36e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133048,
+        "known_for_department": "Writing",
+        "name": "Philip Gelatt",
+        "original_name": "Philip Gelatt",
+        "popularity": 0.4975,
+        "profile_path": "/lJ3gSIY2xzAdeU0UrAJYYitsKR6.jpg",
+        "credit_id": "602463bf9979d2003de63b95",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1524193,
+        "known_for_department": "Directing",
+        "name": "Morgan Galen King",
+        "original_name": "Morgan Galen King",
+        "popularity": 0.6557,
+        "profile_path": "/ojmnLVEwQ4KhlewZKkcbxjS1lt4.jpg",
+        "credit_id": "602463ca03f0b6003ce3aed8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1524193,
+        "known_for_department": "Directing",
+        "name": "Morgan Galen King",
+        "original_name": "Morgan Galen King",
+        "popularity": 0.6557,
+        "profile_path": "/ojmnLVEwQ4KhlewZKkcbxjS1lt4.jpg",
+        "credit_id": "602463dddd2589003fbd118e",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1524193,
+        "known_for_department": "Directing",
+        "name": "Morgan Galen King",
+        "original_name": "Morgan Galen King",
+        "popularity": 0.6557,
+        "profile_path": "/ojmnLVEwQ4KhlewZKkcbxjS1lt4.jpg",
+        "credit_id": "602463f3149565004175f3fe",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2972647,
+        "known_for_department": "Visual Effects",
+        "name": "Alexander King",
+        "original_name": "Alexander King",
+        "popularity": 0.2965,
+        "profile_path": null,
+        "credit_id": "60246405d6c30061406387c6",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2972650,
+        "known_for_department": "Visual Effects",
+        "name": "Brittain Scott",
+        "original_name": "Brittain Scott",
+        "popularity": 0.2068,
+        "profile_path": null,
+        "credit_id": "60246413d6c300003e6bc072",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 187847,
+        "known_for_department": "Sound",
+        "name": "Abigail Savage",
+        "original_name": "Abigail Savage",
+        "popularity": 1.2013,
+        "profile_path": "/hpsHu1ddCIhoHTgMPl2TKyH0KoF.jpg",
+        "credit_id": "6024643203f0b6003de3c216",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1015710,
+        "known_for_department": "Sound",
+        "name": "Peter Scartabello",
+        "original_name": "Peter Scartabello",
+        "popularity": 0.5549,
+        "profile_path": null,
+        "credit_id": "602464616a3448003d11bb82",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  }
+}

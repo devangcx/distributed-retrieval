@@ -1,0 +1,417 @@
+{
+  "adult": false,
+  "backdrop_path": "/hTCvXhcQDyhtyfmcJ2BQVp2tNMH.jpg",
+  "belongs_to_collection": null,
+  "budget": 4180000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 15467,
+  "imdb_id": "tt1105733",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "किस्मत कोन्नेक्टिओं",
+  "overview": "Raj Malhotra is a luckless architect who seeks success but in vain. He bumps into a social activist named Priya. Raj finds out that Priya is a lucky charm for him but unfortunately she is protecting the community center for which he aims to win the contract of demolishing for a brand new shopping mall.",
+  "popularity": 0.8587,
+  "poster_path": "/maIqwcXgvcTLbJm2B8fjQ7BI3RY.jpg",
+  "production_companies": [
+    {
+      "id": 3081,
+      "logo_path": null,
+      "name": "Tips Industries",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2008-07-18",
+  "revenue": 11000000,
+  "runtime": 153,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kismat Konnection",
+  "video": false,
+  "vote_average": 4.813,
+  "vote_count": 67,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78245,
+        "known_for_department": "Acting",
+        "name": "Shahid Kapoor",
+        "original_name": "Shahid Kapoor",
+        "popularity": 1.8253,
+        "profile_path": "/q5jqLRioZgIVjXpKS8XHx27ScDQ.jpg",
+        "cast_id": 1,
+        "character": "Raj Malhotra",
+        "credit_id": "52fe465c9251416c75075ead",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35068,
+        "known_for_department": "Acting",
+        "name": "Vidya Balan",
+        "original_name": "Vidya Balan",
+        "popularity": 1.1208,
+        "profile_path": "/m4bnX5VQs2DfvQsLmfbKbBxUkC9.jpg",
+        "cast_id": 2,
+        "character": "Priya",
+        "credit_id": "52fe465c9251416c75075eb1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35810,
+        "known_for_department": "Acting",
+        "name": "Juhi Chawla Mehta",
+        "original_name": "Juhi Chawla Mehta",
+        "popularity": 1.0466,
+        "profile_path": "/gyZLscSW3dYYe3N5K2YcYtRnbq5.jpg",
+        "cast_id": 3,
+        "character": "Haseena Bano Jaan (Guest Appearance)",
+        "credit_id": "52fe465c9251416c75075eb5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11851,
+        "known_for_department": "Acting",
+        "name": "Om Puri",
+        "original_name": "Om Puri",
+        "popularity": 1.1886,
+        "profile_path": "/3xENmjr7CA8ACRViHnjOI5jPQUt.jpg",
+        "cast_id": 4,
+        "character": "Sanjeev Gill",
+        "credit_id": "52fe465c9251416c75075eb9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78246,
+        "known_for_department": "Acting",
+        "name": "Vishal Malhotra",
+        "original_name": "Vishal Malhotra",
+        "popularity": 0.7599,
+        "profile_path": "/ua2WRcMjZtYIPOvuaXXXgq03i3E.jpg",
+        "cast_id": 5,
+        "character": "Hiten Patel",
+        "credit_id": "52fe465c9251416c75075ebd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35779,
+        "known_for_department": "Acting",
+        "name": "Boman Irani",
+        "original_name": "Boman Irani",
+        "popularity": 1.3847,
+        "profile_path": "/5J7GiiNar9bg9rGYeA2L30JXE2W.jpg",
+        "cast_id": 6,
+        "character": "Rajeev Batra",
+        "credit_id": "52fe465c9251416c75075ec1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78247,
+        "known_for_department": "Acting",
+        "name": "Amit Varma",
+        "original_name": "Amit Varma",
+        "popularity": 0.4557,
+        "profile_path": "/qDcw2yOqxuG2qZmNWCO5U2KN122.jpg",
+        "cast_id": 7,
+        "character": "Karan",
+        "credit_id": "52fe465c9251416c75075ec5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78248,
+        "known_for_department": "Acting",
+        "name": "Himani Shivpuri",
+        "original_name": "Himani Shivpuri",
+        "popularity": 0.8383,
+        "profile_path": "/iEgl4ME7OfMJ8CVKxpeMiC4Wv5w.jpg",
+        "cast_id": 8,
+        "character": "Mrs. Gill",
+        "credit_id": "52fe465c9251416c75075ec9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78249,
+        "known_for_department": "Acting",
+        "name": "Karanvir Bohra",
+        "original_name": "Karanvir Bohra",
+        "popularity": 0.6581,
+        "profile_path": "/gGqEh4lpahz2mugwsFAeuZ52C3K.jpg",
+        "cast_id": 9,
+        "character": "Dev Katariya",
+        "credit_id": "52fe465c9251416c75075ecd",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 78250,
+        "known_for_department": "Acting",
+        "name": "Dimple Sharma",
+        "original_name": "Dimple Sharma",
+        "popularity": 0.316,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Mr. Sinha",
+        "credit_id": "52fe465c9251416c75075ed5",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35742,
+        "known_for_department": "Acting",
+        "name": "Shah Rukh Khan",
+        "original_name": "शाहरुख़ ख़ान",
+        "popularity": 3.6069,
+        "profile_path": "/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg",
+        "cast_id": 27,
+        "character": "Narrator (voice)",
+        "credit_id": "675d19ce8534a1c8e22b6068",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35805,
+        "known_for_department": "Directing",
+        "name": "Aziz Mirza",
+        "original_name": "Aziz Mirza",
+        "popularity": 0.4759,
+        "profile_path": null,
+        "credit_id": "5945e2689251413fb101cd0a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71273,
+        "known_for_department": "Sound",
+        "name": "Pritam Chakraborty",
+        "original_name": "Pritam Chakraborty",
+        "popularity": 0.7956,
+        "profile_path": "/zS8kE2DWQBTQ7ArSSZiWg0OTXvo.jpg",
+        "credit_id": "5cab59520e0a264c71f6a09b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227204,
+        "known_for_department": "Sound",
+        "name": "Sajid Ali Khan",
+        "original_name": "Sajid Ali Khan",
+        "popularity": 0.4582,
+        "profile_path": null,
+        "credit_id": "5cab595b0e0a264c80f6993d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2284126,
+        "known_for_department": "Writing",
+        "name": "Rahila Mirza",
+        "original_name": "Rahila Mirza",
+        "popularity": 0.2294,
+        "profile_path": null,
+        "credit_id": "5cab591bc3a3683f5a6406af",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 227366,
+        "known_for_department": "Writing",
+        "name": "Vibha Singh",
+        "original_name": "Vibha Singh",
+        "popularity": 0.3962,
+        "profile_path": null,
+        "credit_id": "5cab5929c3a3683f4a63ed51",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 571494,
+        "known_for_department": "Writing",
+        "name": "Sai Kabir",
+        "original_name": "Sai Kabir",
+        "popularity": 0.4623,
+        "profile_path": null,
+        "credit_id": "5cab5922925141146701dde0",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92689,
+        "known_for_department": "Production",
+        "name": "Ramesh Sadhuram Taurani",
+        "original_name": "Ramesh Sadhuram Taurani",
+        "popularity": 0.3623,
+        "profile_path": null,
+        "credit_id": "5cab58f40e0a264c69f67a9a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53679,
+        "known_for_department": "Camera",
+        "name": "Binod Pradhan",
+        "original_name": "Binod Pradhan",
+        "popularity": 0.5197,
+        "profile_path": "/2N7kwwMEyfjaM2HHXthcA9L3YaA.jpg",
+        "credit_id": "5cab593f92514157c0fd4d4c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 571494,
+        "known_for_department": "Writing",
+        "name": "Sai Kabir",
+        "original_name": "Sai Kabir",
+        "popularity": 0.4623,
+        "profile_path": null,
+        "credit_id": "5cab5937c3a3685c195e8413",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 35807,
+        "known_for_department": "Editing",
+        "name": "Amitabh Shukla",
+        "original_name": "Amitabh Shukla",
+        "popularity": 0.353,
+        "profile_path": null,
+        "credit_id": "5cab596f0e0a264c80f69949",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2278149,
+        "known_for_department": "Writing",
+        "name": "Ashish Kariya",
+        "original_name": "Ashish Kariya",
+        "popularity": 0.1968,
+        "profile_path": null,
+        "credit_id": "5cab5930c3a3683f5a6406e6",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1046500,
+        "known_for_department": "Production",
+        "name": "Ganesh Nankoosingh",
+        "original_name": "Ganesh Nankoosingh",
+        "popularity": 0.2877,
+        "profile_path": null,
+        "credit_id": "5cab5908925141566202301e",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2284123,
+        "known_for_department": "Production",
+        "name": "Dilip Advani",
+        "original_name": "Dilip Advani",
+        "popularity": 0.1836,
+        "profile_path": null,
+        "credit_id": "5cab58fc925141564afd452c",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2284125,
+        "known_for_department": "Production",
+        "name": "Haresh Navwani",
+        "original_name": "Haresh Navwani",
+        "popularity": 0.2438,
+        "profile_path": null,
+        "credit_id": "5cab5912c3a3683f4f63b08c",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227205,
+        "known_for_department": "Sound",
+        "name": "Wajid Khan",
+        "original_name": "Wajid Khan",
+        "popularity": 0.6562,
+        "profile_path": null,
+        "credit_id": "5cab59670e0a264c88f686d9",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

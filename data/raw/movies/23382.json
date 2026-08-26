@@ -1,0 +1,303 @@
+{
+  "adult": false,
+  "backdrop_path": "/7vEIJNKjOwKoMYYQjJGwju7y6ul.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 23382,
+  "imdb_id": "tt0469318",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dark Country",
+  "overview": "Two honeymooners rescue a mysterious car crash survivor in the Las Vegas desert. But their decision to save the man becomes increasingly regrettable when he turns on them, forcing the newlyweds to do the unthinkable.",
+  "popularity": 2.6733,
+  "poster_path": "/w3DE4rxX5vY4ybq08zxQWrmbFaU.jpg",
+  "production_companies": [
+    {
+      "id": 1172,
+      "logo_path": "/5foKpTGXamv6BP4VwCqeWr5Jsdt.png",
+      "name": "Hyde Park Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2009-10-05",
+  "revenue": 0,
+  "runtime": 88,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "One wrong turn... into the dark",
+  "title": "Dark Country",
+  "video": false,
+  "vote_average": 5.362,
+  "vote_count": 130,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11155,
+        "known_for_department": "Acting",
+        "name": "Thomas Jane",
+        "original_name": "Thomas Jane",
+        "popularity": 3.8976,
+        "profile_path": "/9frnlc2zoDcoeqZALB6aeYSQddl.jpg",
+        "cast_id": 2,
+        "character": "Dick",
+        "credit_id": "52fe4467c3a368484e021257",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 37014,
+        "known_for_department": "Acting",
+        "name": "Lauren German",
+        "original_name": "Lauren German",
+        "popularity": 4.2662,
+        "profile_path": "/if1TbO8dSfPiDCMfy52nH7A2D7.jpg",
+        "cast_id": 3,
+        "character": "Gina",
+        "credit_id": "52fe4467c3a368484e02125b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2372,
+        "known_for_department": "Acting",
+        "name": "Ron Perlman",
+        "original_name": "Ron Perlman",
+        "popularity": 5.6432,
+        "profile_path": "/nfky6J9ueey1gMdWMNU9k9YdfGP.jpg",
+        "cast_id": 1,
+        "character": "Sheriff",
+        "credit_id": "52fe4467c3a368484e021253",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76543,
+        "known_for_department": "Acting",
+        "name": "Chris Browning",
+        "original_name": "Chris Browning",
+        "popularity": 2.023,
+        "profile_path": "/jKsUctww9FbZXlY04kyzIM0tBse.jpg",
+        "cast_id": 4,
+        "character": "Stranger",
+        "credit_id": "52fe4467c3a368484e02125f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90041,
+        "known_for_department": "Acting",
+        "name": "Con Schell",
+        "original_name": "Con Schell",
+        "popularity": 0.693,
+        "profile_path": "/fCa06mvRzS5MiNlVjS3TMfwiIb8.jpg",
+        "cast_id": 5,
+        "character": "Bloodyface",
+        "credit_id": "52fe4467c3a368484e021263",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90042,
+        "known_for_department": "Crew",
+        "name": "Rene Mousseux",
+        "original_name": "Rene Mousseux",
+        "popularity": 0.7781,
+        "profile_path": "/rlJeyY5IbWbudi0Ri2f1s9hG3uw.jpg",
+        "cast_id": 6,
+        "character": "Crime Scene Trooper",
+        "credit_id": "52fe4467c3a368484e021267",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 90043,
+        "known_for_department": "Acting",
+        "name": "Aynn Kirby",
+        "original_name": "Aynn Kirby",
+        "popularity": 0.3682,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Coroner",
+        "credit_id": "52fe4467c3a368484e02126b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 90044,
+        "known_for_department": "Acting",
+        "name": "Nikki Kelly",
+        "original_name": "Nikki Kelly",
+        "popularity": 0.4445,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Alternate Woman",
+        "credit_id": "52fe4467c3a368484e02126f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 90045,
+        "known_for_department": "Acting",
+        "name": "Jonathan Lund",
+        "original_name": "Jonathan Lund",
+        "popularity": 0.4243,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Crime Scene Paramedic",
+        "credit_id": "52fe4467c3a368484e021273",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11155,
+        "known_for_department": "Acting",
+        "name": "Thomas Jane",
+        "original_name": "Thomas Jane",
+        "popularity": 3.8976,
+        "profile_path": "/9frnlc2zoDcoeqZALB6aeYSQddl.jpg",
+        "credit_id": "52fe4467c3a368484e021279",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61950,
+        "known_for_department": "Writing",
+        "name": "Tab Murphy",
+        "original_name": "Tab Murphy",
+        "popularity": 0.7659,
+        "profile_path": "/ifwNspazW8Xq2wjkSnD2uhNrGXu.jpg",
+        "credit_id": "52fe4467c3a368484e02127f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1537690,
+        "known_for_department": "Crew",
+        "name": "Al Goto",
+        "original_name": "Al Goto",
+        "popularity": 0.8044,
+        "profile_path": "/iH29BHKpmUO3iSKuhBSuj365VPl.jpg",
+        "credit_id": "654a4014391b9c0100edb087",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1179913,
+        "known_for_department": "Camera",
+        "name": "Geoff Boyle",
+        "original_name": "Geoff Boyle",
+        "popularity": 0.3487,
+        "profile_path": "/mgQFyohAUCYlO1iYB8CM6dA7Nq5.jpg",
+        "credit_id": "63cd28a9e24b93007cd52120",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1601800,
+        "known_for_department": "Lighting",
+        "name": "Edgar Arellano",
+        "original_name": "Edgar Arellano",
+        "popularity": 0.6446,
+        "profile_path": null,
+        "credit_id": "6604ccbc95665801617ddf98",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21478,
+        "known_for_department": "Production",
+        "name": "Ashok Amritraj",
+        "original_name": "Ashok Amritraj",
+        "popularity": 0.6194,
+        "profile_path": "/f3H03GKmSvKlDPGB7rrXFcmdlxR.jpg",
+        "credit_id": "6041d438af6e940059311f91",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 964093,
+        "known_for_department": "Production",
+        "name": "Patrick Aiello",
+        "original_name": "Patrick Aiello",
+        "popularity": 0.3259,
+        "profile_path": null,
+        "credit_id": "6041d42d651fcf006e5d526a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 51709,
+        "known_for_department": "Production",
+        "name": "Karri O'Reilly",
+        "original_name": "Karri O'Reilly",
+        "popularity": 0.3581,
+        "profile_path": null,
+        "credit_id": "6041d44096670e0058585350",
+        "department": "Production",
+        "job": "Co-Producer"
+      }
+    ]
+  }
+}

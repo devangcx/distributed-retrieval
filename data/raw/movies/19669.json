@@ -1,0 +1,355 @@
+{
+  "adult": false,
+  "backdrop_path": "/nKw6YeEKESTWHVaV3KtffCEoEBy.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 19669,
+  "imdb_id": "tt1034449",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "किडनैप",
+  "overview": "A fortnight before her eighteenth birthday, Sonia goes missing. Her family receives a call informing them that she has been kidnapped and her estranged father, a US-based businessman, must now follow the kidnapper’s instructions to the letter if he is to entertain any hopes of seeing her alive again. Is this a mere kidnapping or is there more to it than what meets the eye?",
+  "popularity": 0.8746,
+  "poster_path": "/ewELRO32JnBBDTcYRtyrVD2Uyw6.jpg",
+  "production_companies": [
+    {
+      "id": 3748,
+      "logo_path": null,
+      "name": "Shree Ashtavinayak Cinevision Ltd",
+      "origin_country": ""
+    },
+    {
+      "id": 7999,
+      "logo_path": null,
+      "name": "Warner China Film HG Corporation 中影华纳横店",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2008-10-02",
+  "revenue": 8750000,
+  "runtime": 165,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kidnap",
+  "video": false,
+  "vote_average": 4.375,
+  "vote_count": 28,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85063,
+        "known_for_department": "Acting",
+        "name": "Imran Khan",
+        "original_name": "Imran Khan",
+        "popularity": 1.0695,
+        "profile_path": "/1LAZWVBxzB3L5vKfwAeTSYaqSox.jpg",
+        "cast_id": 1,
+        "character": "Kabir Sharma",
+        "credit_id": "52fe47ea9251416c750a9aa3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85881,
+        "known_for_department": "Acting",
+        "name": "Sanjay Dutt",
+        "original_name": "संजय दत्त",
+        "popularity": 2.4825,
+        "profile_path": "/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg",
+        "cast_id": 2,
+        "character": "Vikrant Raina",
+        "credit_id": "52fe47ea9251416c750a9aa7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85036,
+        "known_for_department": "Acting",
+        "name": "Minissha Lamba",
+        "original_name": "Minissha Lamba",
+        "popularity": 0.7567,
+        "profile_path": "/8wcM5Yy58jVUAwKSMWNhbHmoURJ.jpg",
+        "cast_id": 3,
+        "character": "Sonia Raina",
+        "credit_id": "52fe47ea9251416c750a9aab",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86066,
+        "known_for_department": "Acting",
+        "name": "Vidya Malvade",
+        "original_name": "Vidya Malvade",
+        "popularity": 1.025,
+        "profile_path": "/dLMRAwaJhNyWWqHwfFwjcz5L4q3.jpg",
+        "cast_id": 4,
+        "character": "Mallika Raina",
+        "credit_id": "52fe47ea9251416c750a9aaf",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35750,
+        "known_for_department": "Acting",
+        "name": "Reema Lagoo",
+        "original_name": "Reema Lagoo",
+        "popularity": 0.8198,
+        "profile_path": "/hQ5r2pPD8T94Dli5oNP6IlwEf1c.jpg",
+        "cast_id": 5,
+        "character": "Sonia's Grandmother",
+        "credit_id": "52fe47ea9251416c750a9ab3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37234,
+        "known_for_department": "Acting",
+        "name": "Rahul Dev",
+        "original_name": "Rahul Dev",
+        "popularity": 1.163,
+        "profile_path": "/e4v690w2cgoGzRTyIit7E23DrFA.jpg",
+        "cast_id": 6,
+        "character": "Irfan",
+        "credit_id": "52fe47ea9251416c750a9ab7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76790,
+        "known_for_department": "Acting",
+        "name": "Raj Zutshi",
+        "original_name": "Raj Zutshi",
+        "popularity": 0.9253,
+        "profile_path": "/aJmWL08uj2oVGd2cJmBuzNSO2LY.jpg",
+        "cast_id": 10,
+        "character": "Mahesh Verma",
+        "credit_id": "52fe47ea9251416c750a9ac7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85369,
+        "known_for_department": "Acting",
+        "name": "Sophiya Chaudhary",
+        "original_name": "Sophiya Chaudhary",
+        "popularity": 0.6145,
+        "profile_path": "/n8cZoA97X9GC35iNfZrkUVXDhMg.jpg",
+        "cast_id": 24,
+        "character": "Dancer/Singer",
+        "credit_id": "64f0ab00dbbb42013a22cbc5",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 120477,
+        "known_for_department": "Camera",
+        "name": "Bobby Singh",
+        "original_name": "Bobby Singh",
+        "popularity": 0.3183,
+        "profile_path": null,
+        "credit_id": "6115b3e335c30a0045bcb539",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55060,
+        "known_for_department": "Writing",
+        "name": "Shibani Bathija",
+        "original_name": "Shibani Bathija",
+        "popularity": 0.482,
+        "profile_path": null,
+        "credit_id": "6115b361006b0100469fcc95",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2031232,
+        "known_for_department": "Directing",
+        "name": "Yatharth Awasthi",
+        "original_name": "Yatharth Awasthi",
+        "popularity": 0.2882,
+        "profile_path": null,
+        "credit_id": "6115b39a006b0100469fcd4e",
+        "department": "Crew",
+        "job": "Additional Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 76449,
+        "known_for_department": "Directing",
+        "name": "Sanjay Gadhvi",
+        "original_name": "Sanjay Gadhvi",
+        "popularity": 0.6492,
+        "profile_path": null,
+        "credit_id": "6115b3793a9937005b0696dc",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2232880,
+        "known_for_department": "Sound",
+        "name": "Anshul Vijayvargiya",
+        "original_name": "Anshul Vijayvargiya",
+        "popularity": 0.2142,
+        "profile_path": null,
+        "credit_id": "6115b3bb3dc313002c6b6d81",
+        "department": "Crew",
+        "job": "Additional Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85056,
+        "known_for_department": "Editing",
+        "name": "Rameshwar S. Bhagat",
+        "original_name": "Rameshwar S. Bhagat",
+        "popularity": 0.4117,
+        "profile_path": null,
+        "credit_id": "6115b3f735c30a005c256495",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55060,
+        "known_for_department": "Writing",
+        "name": "Shibani Bathija",
+        "original_name": "Shibani Bathija",
+        "popularity": 0.482,
+        "profile_path": null,
+        "credit_id": "6115b34635c30a005c2562c8",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 76449,
+        "known_for_department": "Directing",
+        "name": "Sanjay Gadhvi",
+        "original_name": "Sanjay Gadhvi",
+        "popularity": 0.6492,
+        "profile_path": null,
+        "credit_id": "537f28bac3a3680598003019",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71273,
+        "known_for_department": "Sound",
+        "name": "Pritam Chakraborty",
+        "original_name": "Pritam Chakraborty",
+        "popularity": 0.7956,
+        "profile_path": "/zS8kE2DWQBTQ7ArSSZiWg0OTXvo.jpg",
+        "credit_id": "537f2956c3a3680598003028",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85885,
+        "known_for_department": "Production",
+        "name": "Dhilin Mehta",
+        "original_name": "Dhilin Mehta",
+        "popularity": 0.3256,
+        "profile_path": null,
+        "credit_id": "537f28edc3a368059e003127",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1323166,
+        "known_for_department": "Sound",
+        "name": "Sandeep-Sanjeev",
+        "original_name": "Sandeep-Sanjeev",
+        "popularity": 0.2018,
+        "profile_path": null,
+        "credit_id": "537f2991c3a368059e003134",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87355,
+        "known_for_department": "Directing",
+        "name": "Mustan Alibhai Burmawalla",
+        "original_name": "Mustan Alibhai Burmawalla",
+        "popularity": 0.5966,
+        "profile_path": "/364apN4vJqozvMFaRU1UHDfpiaB.jpg",
+        "credit_id": "59a2412dc3a36847f60369b2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87356,
+        "known_for_department": "Directing",
+        "name": "Abbas Alibhai Burmawalla",
+        "original_name": "Abbas Alibhai Burmawalla",
+        "popularity": 0.6858,
+        "profile_path": "/yeY7Lg7mTxjsI9uKiGic1PDZQlS.jpg",
+        "credit_id": "59a2413c925141775b0370d7",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

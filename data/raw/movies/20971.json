@@ -1,0 +1,426 @@
+{
+  "adult": false,
+  "backdrop_path": "/vngRPSVDXeV8G8tkOga7LnRuFBe.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 20971,
+  "imdb_id": "tt0488906",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Zinda",
+  "overview": "After being held imprisoned in a room for 14 years, Balajeet Roy is suddenly released. Thereafter, he goes on a quest to look for the people who wronged him.",
+  "popularity": 1.0284,
+  "poster_path": "/8dnHugvmE4CV2BLGHBcajmzBWpB.jpg",
+  "production_companies": [
+    {
+      "id": 3839,
+      "logo_path": null,
+      "name": "White Feather Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2006-01-12",
+  "revenue": 0,
+  "runtime": 116,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "ภาษาไทย"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Zinda",
+  "video": false,
+  "vote_average": 4.017,
+  "vote_count": 29,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85881,
+        "known_for_department": "Acting",
+        "name": "Sanjay Dutt",
+        "original_name": "संजय दत्त",
+        "popularity": 2.4825,
+        "profile_path": "/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg",
+        "cast_id": 1,
+        "character": "Balajeet Roy",
+        "credit_id": "52fe4406c3a368484e00b271",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52971,
+        "known_for_department": "Acting",
+        "name": "John Abraham",
+        "original_name": "John Abraham",
+        "popularity": 2.1315,
+        "profile_path": "/2ITVYVFou0dh3QVcJlhNJVzrA2p.jpg",
+        "cast_id": 2,
+        "character": "Rohit Chopra",
+        "credit_id": "52fe4406c3a368484e00b275",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55063,
+        "known_for_department": "Acting",
+        "name": "Lara Dutta",
+        "original_name": "लारा दत्ता",
+        "popularity": 1.3745,
+        "profile_path": "/1z2w901ISieL4fhWE3sz3j6kj9Q.jpg",
+        "cast_id": 5,
+        "character": "Jenny",
+        "credit_id": "52fe4406c3a368484e00b281",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 77237,
+        "known_for_department": "Acting",
+        "name": "Celina Jaitly",
+        "original_name": "Celina Jaitly",
+        "popularity": 0.6778,
+        "profile_path": "/61F0cpKgvHZu62kqHI8Sr8vo9qh.jpg",
+        "cast_id": 3,
+        "character": "Nisha Roy",
+        "credit_id": "52fe4406c3a368484e00b279",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85456,
+        "known_for_department": "Acting",
+        "name": "Mahesh Manjrekar",
+        "original_name": "Mahesh Manjrekar",
+        "popularity": 1.6294,
+        "profile_path": "/4lFytre6m4SruIUpUIoyNjsMo7F.jpg",
+        "cast_id": 4,
+        "character": "Joy Fernandes",
+        "credit_id": "52fe4406c3a368484e00b27d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76790,
+        "known_for_department": "Acting",
+        "name": "Raj Zutshi",
+        "original_name": "Raj Zutshi",
+        "popularity": 0.9253,
+        "profile_path": "/aJmWL08uj2oVGd2cJmBuzNSO2LY.jpg",
+        "cast_id": 13,
+        "character": "Woo Fong",
+        "credit_id": "5b40829d9251414f36002f43",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2079711,
+        "known_for_department": "Acting",
+        "name": "Alisha Baig",
+        "original_name": "Alisha Baig",
+        "popularity": 0.5554,
+        "profile_path": "/8ie5fDtq6CVahnc721tVfPMytEt.jpg",
+        "cast_id": 14,
+        "character": "Reema Chopra",
+        "credit_id": "5b4082a80e0a2671010032b3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2079712,
+        "known_for_department": "Acting",
+        "name": "Nitin Raghani",
+        "original_name": "Nitin Raghani",
+        "popularity": 0.333,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "5b4082aec3a368409c003359",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2079713,
+        "known_for_department": "Acting",
+        "name": "Aditya Siddhu",
+        "original_name": "Aditya Siddhu",
+        "popularity": 0.3349,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "5b4082b5c3a36840b300376c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1187445,
+        "known_for_department": "Acting",
+        "name": "Rushita Singh",
+        "original_name": "Rushita Singh",
+        "popularity": 0.3199,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Reema B. Roy",
+        "credit_id": "5b4082bf0e0a2670fc003307",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2079714,
+        "known_for_department": "Acting",
+        "name": "Rahhull Dosani",
+        "original_name": "Rahhull Dosani",
+        "popularity": 0.3831,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "5b4082c89251414f36002f5e",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2079715,
+        "known_for_department": "Acting",
+        "name": "Chirag",
+        "original_name": "Chirag",
+        "popularity": 0.406,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "5b4082d5c3a36840ae0039e8",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1285896,
+        "known_for_department": "Acting",
+        "name": "Gaurav Chanana",
+        "original_name": "Gaurav Chanana",
+        "popularity": 0.3155,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "5b4082dd0e0a26711d003263",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2079716,
+        "known_for_department": "Acting",
+        "name": "Master Shlok Chaturvedi",
+        "original_name": "Master Shlok Chaturvedi",
+        "popularity": 0.2166,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "5b4082e20e0a2670f90031de",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1770592,
+        "known_for_department": "Directing",
+        "name": "Sanjay Gupta",
+        "original_name": "Sanjay Gupta",
+        "popularity": 0.6562,
+        "profile_path": "/dzsC6TD3v0pHFzqfeAr6mNDp0AA.jpg",
+        "credit_id": "58bc6e1ac3a368515d0246c4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10099,
+        "known_for_department": "Directing",
+        "name": "Park Chan-wook",
+        "original_name": "박찬욱",
+        "popularity": 3.1869,
+        "profile_path": "/jsSFCVB7MhuVbSLwTgESiXEiNjt.jpg",
+        "credit_id": "64906af92f8d0900ad36047e",
+        "department": "Writing",
+        "job": "Original Film Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1770592,
+        "known_for_department": "Directing",
+        "name": "Sanjay Gupta",
+        "original_name": "Sanjay Gupta",
+        "popularity": 0.6562,
+        "profile_path": "/dzsC6TD3v0pHFzqfeAr6mNDp0AA.jpg",
+        "credit_id": "5b40822f9251414f39002c53",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1770592,
+        "known_for_department": "Directing",
+        "name": "Sanjay Gupta",
+        "original_name": "Sanjay Gupta",
+        "popularity": 0.6562,
+        "profile_path": "/dzsC6TD3v0pHFzqfeAr6mNDp0AA.jpg",
+        "credit_id": "5b40825b9251414f53003778",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 142632,
+        "known_for_department": "Writing",
+        "name": "Suresh Nair",
+        "original_name": "Suresh Nair",
+        "popularity": 0.7078,
+        "profile_path": "/vNuqecvbboILkrKrn5muTWosUFo.jpg",
+        "credit_id": "5b4082419251414f46003783",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1114230,
+        "known_for_department": "Writing",
+        "name": "Kamlesh Pandey",
+        "original_name": "Kamlesh Pandey",
+        "popularity": 0.4089,
+        "profile_path": null,
+        "credit_id": "5b40824d0e0a26711d003205",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2079710,
+        "known_for_department": "Production",
+        "name": "David Fisher",
+        "original_name": "David Fisher",
+        "popularity": 0.2084,
+        "profile_path": null,
+        "credit_id": "5b4081830e0a2670f90030ce",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1705312,
+        "known_for_department": "Camera",
+        "name": "Sanjay F. Gupta",
+        "original_name": "Sanjay F. Gupta",
+        "popularity": 0.4001,
+        "profile_path": null,
+        "credit_id": "5b40826e0e0a26710100328f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85881,
+        "known_for_department": "Acting",
+        "name": "Sanjay Dutt",
+        "original_name": "संजय दत्त",
+        "popularity": 2.4825,
+        "profile_path": "/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg",
+        "credit_id": "5eb0354071f095001daec1c0",
+        "department": "Crew",
+        "job": "Presenter"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1109231,
+        "known_for_department": "Art",
+        "name": "Mihir Shah",
+        "original_name": "Mihir Shah",
+        "popularity": 0.2438,
+        "profile_path": null,
+        "credit_id": "5eb0350571f095001daec19f",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2058589,
+        "known_for_department": "Visual Effects",
+        "name": "Dinesh Solanki",
+        "original_name": "Dinesh Solanki",
+        "popularity": 0.5149,
+        "profile_path": null,
+        "credit_id": "5eb0351e0c3ec8001dcecb3a",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85881,
+        "known_for_department": "Acting",
+        "name": "Sanjay Dutt",
+        "original_name": "संजय दत्त",
+        "popularity": 2.4825,
+        "profile_path": "/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg",
+        "credit_id": "5eb03531bf0f63001d7e10e2",
+        "department": "Sound",
+        "job": "Playback Singer"
+      }
+    ]
+  }
+}

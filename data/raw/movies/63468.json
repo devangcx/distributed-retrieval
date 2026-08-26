@@ -1,0 +1,182 @@
+{
+  "adult": false,
+  "backdrop_path": "/jU8W4GzmyYaW0vgLqv35kEG71O5.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 63468,
+  "imdb_id": "tt1884268",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Chalo Dilli",
+  "overview": "Mihika, an investment banker, misses her flight to Delhi and meets Manu Gupta, a very talkative man. In order to reach Delhi on time, she must tag along with him on a road trip and put up with his antics.",
+  "popularity": 1.0504,
+  "poster_path": "/9IAHOSZpWxyHbK40WmUFJq2Bwuh.jpg",
+  "production_companies": [
+    {
+      "id": 62212,
+      "logo_path": null,
+      "name": "Big Daddy Productions",
+      "origin_country": "ID"
+    },
+    {
+      "id": 114852,
+      "logo_path": null,
+      "name": "Eros International Media",
+      "origin_country": ""
+    },
+    {
+      "id": 213182,
+      "logo_path": null,
+      "name": "Bheegi Basanti Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2011-04-29",
+  "revenue": 0,
+  "runtime": 115,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Chalo Dilli",
+  "video": false,
+  "vote_average": 6.14,
+  "vote_count": 25,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55063,
+        "known_for_department": "Acting",
+        "name": "Lara Dutta",
+        "original_name": "लारा दत्ता",
+        "popularity": 1.3745,
+        "profile_path": "/1z2w901ISieL4fhWE3sz3j6kj9Q.jpg",
+        "cast_id": 1,
+        "character": "Mihika Banerjee",
+        "credit_id": "52fe46acc3a368484e09d89f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43416,
+        "known_for_department": "Acting",
+        "name": "Vinay Pathak",
+        "original_name": "Vinay Pathak",
+        "popularity": 0.8531,
+        "profile_path": "/nt4MvHjHq5sF1aPrLyFO1YizD8y.jpg",
+        "cast_id": 2,
+        "character": "Manu Gupta",
+        "credit_id": "52fe46acc3a368484e09d8a3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35070,
+        "known_for_department": "Acting",
+        "name": "Akshay Kumar",
+        "original_name": "अक्षय कुमार",
+        "popularity": 2.5711,
+        "profile_path": "/sR8nASRtTpiwXqkFHjG2jdRBZ7a.jpg",
+        "cast_id": 5,
+        "character": "Lt. Col. Vikram Singh Rana",
+        "credit_id": "64ebe7774e674200fdc9c287",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2128660,
+        "known_for_department": "Acting",
+        "name": "Mahika Sharma",
+        "original_name": "Mahika Sharma",
+        "popularity": 0.4551,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Aalisha",
+        "credit_id": "654da2f229383500ab538ada",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 963128,
+        "known_for_department": "Acting",
+        "name": "Pankaj Jha",
+        "original_name": "Pankaj Jha",
+        "popularity": 0.9264,
+        "profile_path": "/jMCbxWYE93ngGvvx2M4ysbcPRkE.jpg",
+        "cast_id": 8,
+        "character": "Inspector Surendra Mishra",
+        "credit_id": "654da3182866fa108dc43901",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 230440,
+        "known_for_department": "Acting",
+        "name": "Brijendra Kala",
+        "original_name": "Brijendra Kala",
+        "popularity": 1.1286,
+        "profile_path": "/wogG1hX0EHzAhnfnGpN3tY3Ch6n.jpg",
+        "cast_id": 9,
+        "character": "K. C. Pant (train ticket examiner)",
+        "credit_id": "654da35641a561336c5f8f80",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1131006,
+        "known_for_department": "Writing",
+        "name": "Arshad Sayed",
+        "original_name": "Arshad Sayed",
+        "popularity": 0.5364,
+        "profile_path": null,
+        "credit_id": "654da1d61ac2927b2ebee6f9",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1192755,
+        "known_for_department": "Directing",
+        "name": "Shashant Shah",
+        "original_name": "Shashant Shah",
+        "popularity": 0.5199,
+        "profile_path": null,
+        "credit_id": "5d70a719924ce600131def23",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

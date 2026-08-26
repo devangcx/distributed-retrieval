@@ -1,0 +1,374 @@
+{
+  "adult": false,
+  "backdrop_path": "/6D2NsU3FIQVthPgjT6RAsX58qZ6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1414413,
+  "imdb_id": "tt32394984",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Brothers Under Fire",
+  "overview": "Captain Jordan Wright's squadron on leave for a wedding in Mexico encounters a murderous cartel. As Jordan tries to lead survivors to safety, war erupts between his squad and the cartel, forcing him into a battle to save his men.",
+  "popularity": 12.2299,
+  "poster_path": "/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg",
+  "production_companies": [
+    {
+      "id": 76991,
+      "logo_path": "/pQjdvbv4y9yuIDSHDEHc9ijJKaS.png",
+      "name": "Highland Film Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 144803,
+      "logo_path": "/yXwiJ1poBK106mUDBLNfIWcaeQg.png",
+      "name": "Align",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-04-15",
+  "revenue": 0,
+  "runtime": 99,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He never planned to fight. But he refuses to fall.",
+  "title": "Brothers Under Fire",
+  "video": false,
+  "vote_average": 5.581,
+  "vote_count": 43,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2628,
+        "known_for_department": "Acting",
+        "name": "Kiefer Sutherland",
+        "original_name": "Kiefer Sutherland",
+        "popularity": 4.2157,
+        "profile_path": "/tK5zjdvao2NELns3bqT7PPqPeJI.jpg",
+        "cast_id": 1,
+        "character": "Capt. Jordan Wright",
+        "credit_id": "677eda93044b6ca6764e7521",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2088733,
+        "known_for_department": "Acting",
+        "name": "Tommy Martinez",
+        "original_name": "Tommy Martinez",
+        "popularity": 1.4566,
+        "profile_path": "/hPPWLxCSoehYnDaOrC6O0HxXPjT.jpg",
+        "cast_id": 2,
+        "character": "Alberto",
+        "credit_id": "677eda9de0d56493e4bb12e7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1152019,
+        "known_for_department": "Acting",
+        "name": "Ashton Sanders",
+        "original_name": "Ashton Sanders",
+        "popularity": 1.0413,
+        "profile_path": "/2hMKOd6TLQWwLAS6ztUcZj8IZAC.jpg",
+        "cast_id": 3,
+        "character": "Carson",
+        "credit_id": "677edaace0d56493e4bb1309",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3060978,
+        "known_for_department": "Acting",
+        "name": "Solly McLeod",
+        "original_name": "Solly McLeod",
+        "popularity": 1.1958,
+        "profile_path": "/6aMA4kUV1ji4uu3zzBzQ9fwgUDO.jpg",
+        "cast_id": 4,
+        "character": "Danny",
+        "credit_id": "677edabee0d56493e4bb131f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1652056,
+        "known_for_department": "Acting",
+        "name": "Laura Osma",
+        "original_name": "Laura Osma",
+        "popularity": 1.3427,
+        "profile_path": "/bz0JDDicxakQfC074MQHIF01b0N.jpg",
+        "cast_id": 5,
+        "character": "Isabella",
+        "credit_id": "677edacb7732209e17bb1ac2",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1134885,
+        "known_for_department": "Acting",
+        "name": "Omar Chaparro",
+        "original_name": "Omar Chaparro",
+        "popularity": 1.5556,
+        "profile_path": "/fAIDrbtyHBcDDbRdRZ3bvNesKU7.jpg",
+        "cast_id": 6,
+        "character": "Baker",
+        "credit_id": "677edad361a873952c7b1a12",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3976722,
+        "known_for_department": "Acting",
+        "name": "Orlando Pineda",
+        "original_name": "Orlando Pineda",
+        "popularity": 0.6086,
+        "profile_path": "/9L2IEPO4tzsVigqv31EAFHae7hB.jpg",
+        "cast_id": 7,
+        "character": "Miguel",
+        "credit_id": "677edadd7732209e17bb1ae2",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3835727,
+        "known_for_department": "Acting",
+        "name": "Laird Akeo",
+        "original_name": "Laird Akeo",
+        "popularity": 0.7406,
+        "profile_path": "/h8CgwGsD6fXJMtRFen32DrMK2NW.jpg",
+        "cast_id": 8,
+        "character": "Marco",
+        "credit_id": "677edaef2037ff04c94e739a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 66913,
+        "known_for_department": "Acting",
+        "name": "Flora Martínez",
+        "original_name": "Flora Martínez",
+        "popularity": 1.1424,
+        "profile_path": "/r2A4acUJEYit2Lh4ehT72a0RuNB.jpg",
+        "cast_id": 9,
+        "character": "Angelica",
+        "credit_id": "677edb0012667968854e7c77",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3638028,
+        "known_for_department": "Acting",
+        "name": "Gabriel Camero",
+        "original_name": "Gabriel Camero",
+        "popularity": 0.5719,
+        "profile_path": "/z9atYwTCgrExh2hJM7PfpRQOG2J.jpg",
+        "cast_id": 10,
+        "character": "Stevie",
+        "credit_id": "677edb0fe0d56493e4bb1355",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71570,
+        "known_for_department": "Directing",
+        "name": "Justin Chadwick",
+        "original_name": "Justin Chadwick",
+        "popularity": 0.9014,
+        "profile_path": "/zrKoTfiSU7yhCmIKVWbkfLgnLWy.jpg",
+        "credit_id": "677edb2c61a873952c7b1a83",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5167383,
+        "known_for_department": "Writing",
+        "name": "Delbert Hancock",
+        "original_name": "Delbert Hancock",
+        "popularity": 0.389,
+        "profile_path": null,
+        "credit_id": "677edb44f2c621807dbb256b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 574090,
+        "known_for_department": "Writing",
+        "name": "Ian Mackenzie Jeffers",
+        "original_name": "Ian Mackenzie Jeffers",
+        "popularity": 0.417,
+        "profile_path": "/gXJJrlaTCKDCw58KSNE6027ZSmz.jpg",
+        "credit_id": "677edb5561a873952c7b1aa0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76021,
+        "known_for_department": "Acting",
+        "name": "Griff Furst",
+        "original_name": "Griff Furst",
+        "popularity": 0.9612,
+        "profile_path": "/kC7MQMSMockWSHpIkAFJp4LwPI8.jpg",
+        "credit_id": "677edb6a12667968854e7cc5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 408,
+        "known_for_department": "Acting",
+        "name": "James Keach",
+        "original_name": "James Keach",
+        "popularity": 1.3808,
+        "profile_path": "/7m1q8jK2fJCYCP8i9ks6e2pQJ6q.jpg",
+        "credit_id": "677edb7812667968854e7cd3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1410752,
+        "known_for_department": "Production",
+        "name": "Nik Bower",
+        "original_name": "Nik Bower",
+        "popularity": 0.5327,
+        "profile_path": null,
+        "credit_id": "677edb882037ff04c94e73d3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3847768,
+        "known_for_department": "Crew",
+        "name": "Toby Elwes",
+        "original_name": "Toby Elwes",
+        "popularity": 0.3867,
+        "profile_path": null,
+        "credit_id": "677edb9512667968854e7ce7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1525,
+        "known_for_department": "Production",
+        "name": "Trevor Albert",
+        "original_name": "Trevor Albert",
+        "popularity": 0.5182,
+        "profile_path": null,
+        "credit_id": "677edba3044b6ca6764e755b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 134451,
+        "known_for_department": "Production",
+        "name": "Arianne Fraser",
+        "original_name": "Arianne Fraser",
+        "popularity": 0.5936,
+        "profile_path": "/eJPvHgWatmQgho5KBNPVAE1uKH1.jpg",
+        "credit_id": "677edbb144d649ffae7b1a8e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2054139,
+        "known_for_department": "Production",
+        "name": "Delphine Perrier",
+        "original_name": "Delphine Perrier",
+        "popularity": 0.764,
+        "profile_path": "/thZwyKYn0WBMyg6WwO1eOXKjzCN.jpg",
+        "credit_id": "677edbc07732209e17bb1b18",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1160628,
+        "known_for_department": "Production",
+        "name": "Robert Stein",
+        "original_name": "Robert Stein",
+        "popularity": 0.3687,
+        "profile_path": null,
+        "credit_id": "677edbcc044b6ca6764e7562",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22047,
+        "known_for_department": "Sound",
+        "name": "Alex Heffes",
+        "original_name": "Alex Heffes",
+        "popularity": 0.5471,
+        "profile_path": "/oeSZwaw4s2a6tSi2GG7SXFHAt9v.jpg",
+        "credit_id": "69e551dba1560d7d8d80296f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

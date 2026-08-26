@@ -1,0 +1,354 @@
+{
+  "adult": false,
+  "backdrop_path": "/xzKZaaTo5RADegdirGJzNE9rtMp.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 83201,
+  "imdb_id": "tt2268617",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Puss in Boots: The Three Diablos",
+  "overview": "Puss in Boots is on a mission to recover the Princess' stolen ruby from the notorious French thief, Whisperer. Reluctantly accompanied by three little kittens, Three Diablos, Puss must tame them before they endanger the mission.",
+  "popularity": 6.3364,
+  "poster_path": "/ptvbHUWpU8Nh6vrmSvjx4ESDgfC.jpg",
+  "production_companies": [
+    {
+      "id": 521,
+      "logo_path": "/3BPX5VGBov8SDqTV7wC1L1xShAS.png",
+      "name": "DreamWorks Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2012-02-07",
+  "revenue": 0,
+  "runtime": 13,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Puss in Boots: The Three Diablos",
+  "video": false,
+  "vote_average": 6.543,
+  "vote_count": 535,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3131,
+        "known_for_department": "Acting",
+        "name": "Antonio Banderas",
+        "original_name": "Antonio Banderas",
+        "popularity": 4.8367,
+        "profile_path": "/fce7zl6elUzsv7wudHFc7RgFtjD.jpg",
+        "cast_id": 2,
+        "character": "Puss in Boots (voice)",
+        "credit_id": "52fe48929251416c9109126d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58723,
+        "known_for_department": "Acting",
+        "name": "Gilles Marini",
+        "original_name": "Gilles Marini",
+        "popularity": 1.3914,
+        "profile_path": "/sbe1rtvd0DhLy2MW3FT6SvMsPTe.jpg",
+        "cast_id": 5,
+        "character": "Captain Of The Guard / Paolo The Squire (voice)",
+        "credit_id": "52fe48929251416c91091277",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 964079,
+        "known_for_department": "Acting",
+        "name": "Charlotte Newhouse",
+        "original_name": "Charlotte Newhouse",
+        "popularity": 0.699,
+        "profile_path": "/zWHeH5ZEBU5aagytjhIk37cse8Y.jpg",
+        "cast_id": 13,
+        "character": "Princess Alessandra Bellagamba (voice)",
+        "credit_id": "55fbd4c3c3a36826dd001cc6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12098,
+        "known_for_department": "Acting",
+        "name": "Chris Miller",
+        "original_name": "Chris Miller",
+        "popularity": 1.1111,
+        "profile_path": "/qKdbhP9amIRlydcoivWlTx3szuS.jpg",
+        "cast_id": 7,
+        "character": "Food Prisoner (voice)",
+        "credit_id": "52fe48929251416c9109127f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118489,
+        "known_for_department": "Acting",
+        "name": "Walt Dohrn",
+        "original_name": "Walt Dohrn",
+        "popularity": 2.0295,
+        "profile_path": "/tGWQRNz8T5VNPZgNU2LafpNt2Jn.jpg",
+        "cast_id": 8,
+        "character": "Water Prisoner (voice)",
+        "credit_id": "52fe48929251416c91091283",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150869,
+        "known_for_department": "Editing",
+        "name": "Bret Marnell",
+        "original_name": "Bret Marnell",
+        "popularity": 0.4473,
+        "profile_path": "/ggjHfFhOSHTqdNT7pd3MuBdJVRH.jpg",
+        "cast_id": 9,
+        "character": "Toilet Paper Prisoner (voice)",
+        "credit_id": "52fe48929251416c91091287",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76743,
+        "known_for_department": "Acting",
+        "name": "Miles Bakshi",
+        "original_name": "Miles Bakshi",
+        "popularity": 0.9305,
+        "profile_path": "/writlmLfEtdqhRwCuwMbmDi6qWu.jpg",
+        "cast_id": 10,
+        "character": "Gonzalo / Sir Timoteo (voice)",
+        "credit_id": "52fe48929251416c9109128b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 76744,
+        "known_for_department": "Acting",
+        "name": "Nina Zoe Bakshi",
+        "original_name": "Nina Zoe Bakshi",
+        "popularity": 0.7782,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Perla (voice)",
+        "credit_id": "52fe48929251416c9109128f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12071,
+        "known_for_department": "Acting",
+        "name": "Guillaume Aretos",
+        "original_name": "Guillaume Aretos",
+        "popularity": 0.6163,
+        "profile_path": "/jpbghMhQuCuSmLPBtN4SjVrmmF9.jpg",
+        "cast_id": 12,
+        "character": "Le Chuchoteur / The Whisperer (voice)",
+        "credit_id": "52fe48929251416c91091293",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12099,
+        "known_for_department": "Directing",
+        "name": "Raman Hui Shing-Ngai",
+        "original_name": "許誠毅",
+        "popularity": 1.0789,
+        "profile_path": "/r0Jqj3YlO9CuhWExI6rUuQpQJ3x.jpg",
+        "credit_id": "52fe48929251416c91091269",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 936668,
+        "known_for_department": "Writing",
+        "name": "Tom Wheeler",
+        "original_name": "Tom Wheeler",
+        "popularity": 0.9692,
+        "profile_path": "/n1sMAUZmbieuwgJbk8BJzTMVyd7.jpg",
+        "credit_id": "52fe48929251416c91091273",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 70655,
+        "known_for_department": "Production",
+        "name": "Gina Shay",
+        "original_name": "Gina Shay",
+        "popularity": 0.5762,
+        "profile_path": "/rCbAW1MMuAKUGSixnd4ddmEx7VT.jpg",
+        "credit_id": "5d8ad5b2abf8e2000f775594",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1769921,
+        "known_for_department": "Production",
+        "name": "Tripp Hudson",
+        "original_name": "Tripp Hudson",
+        "popularity": 0.5296,
+        "profile_path": null,
+        "credit_id": "5d8ad5c4abf8e200217732f5",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43085,
+        "known_for_department": "Production",
+        "name": "Chad Hammes",
+        "original_name": "Chad Hammes",
+        "popularity": 0.4461,
+        "profile_path": null,
+        "credit_id": "5d8ad5ce79b3d400278600e6",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 969021,
+        "known_for_department": "Sound",
+        "name": "Matthew Margeson",
+        "original_name": "Matthew Margeson",
+        "popularity": 0.4564,
+        "profile_path": null,
+        "credit_id": "5d8ad5ec172d7f00274eb5a9",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227440,
+        "known_for_department": "Sound",
+        "name": "Henry Jackman",
+        "original_name": "Henry Jackman",
+        "popularity": 0.7091,
+        "profile_path": "/wJYFGHG5Vsh8cbiyiS8zpO2SMHb.jpg",
+        "credit_id": "5d8ad600172d7f000d4f48b5",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150869,
+        "known_for_department": "Editing",
+        "name": "Bret Marnell",
+        "original_name": "Bret Marnell",
+        "popularity": 0.4473,
+        "profile_path": "/ggjHfFhOSHTqdNT7pd3MuBdJVRH.jpg",
+        "credit_id": "5d8ad63c172d7f000d4f4980",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1341403,
+        "known_for_department": "Sound",
+        "name": "Richard King",
+        "original_name": "Richard King",
+        "popularity": 1.1768,
+        "profile_path": "/6gR9Q5Tj0LbGP3YQJegdKJvds4u.jpg",
+        "credit_id": "5d8ad64dabf8e20019775893",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1341403,
+        "known_for_department": "Sound",
+        "name": "Richard King",
+        "original_name": "Richard King",
+        "popularity": 1.1768,
+        "profile_path": "/6gR9Q5Tj0LbGP3YQJegdKJvds4u.jpg",
+        "credit_id": "5d8ad656d9f4a60028510ad7",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2010925,
+        "known_for_department": "Art",
+        "name": "Paul Westcott",
+        "original_name": "Paul Westcott",
+        "popularity": 0.5057,
+        "profile_path": null,
+        "credit_id": "5d8ad669d9f4a6000e50f6a8",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1681256,
+        "known_for_department": "Visual Effects",
+        "name": "Alex Parkinson",
+        "original_name": "Alex Parkinson",
+        "popularity": 0.4547,
+        "profile_path": null,
+        "credit_id": "5d8ad67f79b3d4000f85c50e",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      }
+    ]
+  }
+}

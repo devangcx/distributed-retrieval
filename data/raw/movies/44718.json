@@ -1,0 +1,553 @@
+{
+  "adult": false,
+  "backdrop_path": "/zvMMye9YBD7sfcGyBEYSW6Lw4Ts.jpg",
+  "belongs_to_collection": null,
+  "budget": 700000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.sonyclassics.com/getlow/",
+  "id": 44718,
+  "imdb_id": "tt1194263",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Get Low",
+  "overview": "A movie spun out of equal parts folk tale, fable and real-life legend about the mysterious, 1930s Tennessee hermit who famously threw his own rollicking funeral party... while he was still alive.",
+  "popularity": 3.1956,
+  "poster_path": "/6uUaQ5zn9neK1VLqO2sGClbJrb9.jpg",
+  "production_companies": [
+    {
+      "id": 6715,
+      "logo_path": "/8ykZOFFG5g9nbutqJFV2Gif1jb1.png",
+      "name": "K5 International",
+      "origin_country": "DE"
+    },
+    {
+      "id": 6716,
+      "logo_path": null,
+      "name": "Zanuck Independent",
+      "origin_country": "US"
+    },
+    {
+      "id": 6717,
+      "logo_path": null,
+      "name": "David Gundlach Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 5622,
+      "logo_path": "/bKcpepYRLylECRb5LVkskW0TQIX.png",
+      "name": "TVN",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "2010-07-30",
+  "revenue": 10522511,
+  "runtime": 103,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A true tall tale.",
+  "title": "Get Low",
+  "video": false,
+  "vote_average": 6.715,
+  "vote_count": 347,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3087,
+        "known_for_department": "Acting",
+        "name": "Robert Duvall",
+        "original_name": "Robert Duvall",
+        "popularity": 3.6324,
+        "profile_path": "/3tcKxC5Sc3DJ6XPDKKC2EAomEWn.jpg",
+        "cast_id": 4,
+        "character": "Felix Bush",
+        "credit_id": "52fe4698c3a36847f8107917",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1532,
+        "known_for_department": "Acting",
+        "name": "Bill Murray",
+        "original_name": "Bill Murray",
+        "popularity": 3.5334,
+        "profile_path": "/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg",
+        "cast_id": 1,
+        "character": "Frank Quinn",
+        "credit_id": "52fe4698c3a36847f810790f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5606,
+        "known_for_department": "Acting",
+        "name": "Sissy Spacek",
+        "original_name": "Sissy Spacek",
+        "popularity": 3.7619,
+        "profile_path": "/xAxenjxjLNQFq4v1ccS2to3Mnoq.jpg",
+        "cast_id": 3,
+        "character": "Mattie Darrow",
+        "credit_id": "52fe4698c3a36847f8107913",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 155,
+        "known_for_department": "Acting",
+        "name": "Lucas Black",
+        "original_name": "Lucas Black",
+        "popularity": 3.5859,
+        "profile_path": "/w2oImwC4Y0RDtyvaKGTCFCKsvwh.jpg",
+        "cast_id": 8,
+        "character": "Buddy",
+        "credit_id": "52fe4698c3a36847f810792d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8854,
+        "known_for_department": "Acting",
+        "name": "Bill Cobbs",
+        "original_name": "Bill Cobbs",
+        "popularity": 1.7621,
+        "profile_path": "/xRBrI4rPkZuMBMDh8GPke20ZgUv.jpg",
+        "cast_id": 9,
+        "character": "Rev. Charlie Jackson",
+        "credit_id": "52fe4698c3a36847f8107931",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29512,
+        "known_for_department": "Acting",
+        "name": "Gerald McRaney",
+        "original_name": "Gerald McRaney",
+        "popularity": 2.5853,
+        "profile_path": "/eSh98sG5yTgXrYVTW6G8ptuQ3lj.jpg",
+        "cast_id": 10,
+        "character": "Rev. Gus Horton",
+        "credit_id": "52fe4698c3a36847f8107935",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65167,
+        "known_for_department": "Directing",
+        "name": "Scott Cooper",
+        "original_name": "Scott Cooper",
+        "popularity": 1.2281,
+        "profile_path": "/zuT4LxFrGq2fCHYD8R6441OmRym.jpg",
+        "cast_id": 11,
+        "character": "Carl",
+        "credit_id": "52fe4698c3a36847f8107939",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 215056,
+        "known_for_department": "Acting",
+        "name": "Chandler Riggs",
+        "original_name": "Chandler Riggs",
+        "popularity": 2.765,
+        "profile_path": "/bN2BtSPbZKijm8Bpp9hkxMxyv25.jpg",
+        "cast_id": 12,
+        "character": "Tom",
+        "credit_id": "52fe4698c3a36847f810793d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 203035,
+        "known_for_department": "Acting",
+        "name": "Lori Beth Sikes",
+        "original_name": "Lori Beth Sikes",
+        "popularity": 0.9112,
+        "profile_path": "/q3wYPlKysTCJf09xEL8VmvVUtY4.jpg",
+        "cast_id": 22,
+        "character": "Kathryn",
+        "credit_id": "5d1cd6e894d8a8293b3c1fdd",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1328185,
+        "known_for_department": "Acting",
+        "name": "Linds Edwards",
+        "original_name": "Linds Edwards",
+        "popularity": 0.728,
+        "profile_path": "/xCUqvvOWLJ2KZzJ52SRRuuD5uyV.jpg",
+        "cast_id": 23,
+        "character": "WKNG Announcer",
+        "credit_id": "5d1cd6e894d8a8293b3c1fe0",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 106949,
+        "known_for_department": "Acting",
+        "name": "Andrea Powell",
+        "original_name": "Andrea Powell",
+        "popularity": 0.684,
+        "profile_path": "/cDqn66JG5kz2YEyh7VYvqEjLcr5.jpg",
+        "cast_id": 24,
+        "character": "Bonnie",
+        "credit_id": "5d1cd6e8a13533000f070326",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1074187,
+        "known_for_department": "Acting",
+        "name": "Danny Vinson",
+        "original_name": "Danny Vinson",
+        "popularity": 0.9145,
+        "profile_path": "/m4NZhoQkOkcAXCgaok5hSqqSpzb.jpg",
+        "cast_id": 25,
+        "character": "Grier",
+        "credit_id": "5d1cd6e8a135330011070a10",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90515,
+        "known_for_department": "Acting",
+        "name": "Blerim Destani",
+        "original_name": "Blerim Destani",
+        "popularity": 0.6324,
+        "profile_path": "/4ARDhFyd6KYLcIF1na8qrDiPZCZ.jpg",
+        "cast_id": 26,
+        "character": "Gary",
+        "credit_id": "5d1cd6e9283ed9001118e930",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140653,
+        "known_for_department": "Acting",
+        "name": "Tomasz Karolak",
+        "original_name": "Tomasz Karolak",
+        "popularity": 0.6608,
+        "profile_path": "/yyFyALFiui8fBgBPwlciBHbrPCK.jpg",
+        "cast_id": 27,
+        "character": "Orville",
+        "credit_id": "5d1cd6e994d8a8395e3c77c6",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21083,
+        "known_for_department": "Acting",
+        "name": "Andy Stahl",
+        "original_name": "Andy Stahl",
+        "popularity": 1.1515,
+        "profile_path": "/nJHyBpX7lVwEGJLaR8KOvn0FdZ0.jpg",
+        "cast_id": 28,
+        "character": "Photographer",
+        "credit_id": "5d1cd6e9283ed9001018d0cf",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2353521,
+        "known_for_department": "Acting",
+        "name": "Marc Gowan",
+        "original_name": "Marc Gowan",
+        "popularity": 0.5704,
+        "profile_path": "/zVTWac90dtoEyGgVZxGMDneSXof.jpg",
+        "cast_id": 29,
+        "character": "Mr. Feldman",
+        "credit_id": "5d1cd6ea94d8a8293b3c1fea",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2011376,
+        "known_for_department": "Acting",
+        "name": "Arin Logan",
+        "original_name": "Arin Logan",
+        "popularity": 0.5146,
+        "profile_path": "/p5iSvi0G9VGPIyeMUczIGWOgAnB.jpg",
+        "cast_id": 30,
+        "character": "Mary Lee Stroup",
+        "credit_id": "5d1cd6ea344a8e00113bfb50",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 208214,
+        "known_for_department": "Writing",
+        "name": "Chris Provenzano",
+        "original_name": "Chris Provenzano",
+        "popularity": 0.68,
+        "profile_path": "/hDUYFmKJveiPYT8Xv0S2BR5ftqi.jpg",
+        "credit_id": "52fe4698c3a36847f8107923",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 175646,
+        "known_for_department": "Writing",
+        "name": "C. Gaby Mitchell",
+        "original_name": "C. Gaby Mitchell",
+        "popularity": 0.441,
+        "profile_path": null,
+        "credit_id": "52fe4698c3a36847f8107929",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58292,
+        "known_for_department": "Directing",
+        "name": "Aaron Schneider",
+        "original_name": "Aaron Schneider",
+        "popularity": 0.9319,
+        "profile_path": "/q2smVJcz3XnTs0guc2nGbvcCWR4.jpg",
+        "credit_id": "52fe4698c3a36847f810791d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22680,
+        "known_for_department": "Sound",
+        "name": "Jan A. P. Kaczmarek",
+        "original_name": "Jan A. P. Kaczmarek",
+        "popularity": 0.5115,
+        "profile_path": "/gKk4EpjqDWvnvzuhB87lQHEatiI.jpg",
+        "credit_id": "595492d29251411d98027ad7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 60503,
+        "known_for_department": "Production",
+        "name": "Lisa Mae Fincannon",
+        "original_name": "Lisa Mae Fincannon",
+        "popularity": 0.5524,
+        "profile_path": null,
+        "credit_id": "595492f3c3a368352602a19a",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60501,
+        "known_for_department": "Production",
+        "name": "Craig Fincannon",
+        "original_name": "Craig Fincannon",
+        "popularity": 0.5941,
+        "profile_path": null,
+        "credit_id": "595492eac3a36834e502fc56",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55441,
+        "known_for_department": "Directing",
+        "name": "David Boyd",
+        "original_name": "David Boyd",
+        "popularity": 1.1685,
+        "profile_path": "/8IM71QyrIcsN2Lz2QzjZ7F6p9QE.jpg",
+        "credit_id": "595492dc9251411d98027ae0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8222,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Julie Weiss",
+        "original_name": "Julie Weiss",
+        "popularity": 0.6297,
+        "profile_path": "/vKsnRoJXkEOf1B4wzsWOlRBadLW.jpg",
+        "credit_id": "595493259251411dbd0281ea",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58292,
+        "known_for_department": "Directing",
+        "name": "Aaron Schneider",
+        "original_name": "Aaron Schneider",
+        "popularity": 0.9319,
+        "profile_path": "/q2smVJcz3XnTs0guc2nGbvcCWR4.jpg",
+        "credit_id": "595492e3c3a36834e502fc4d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32403,
+        "known_for_department": "Art",
+        "name": "Geoffrey Kirkland",
+        "original_name": "Geoffrey Kirkland",
+        "popularity": 0.4578,
+        "profile_path": null,
+        "credit_id": "595492fd9251412b31049c09",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1521395,
+        "known_for_department": "Art",
+        "name": "Korey Washington",
+        "original_name": "Korey Washington",
+        "popularity": 0.3051,
+        "profile_path": null,
+        "credit_id": "59549304c3a368352602a1ad",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1560275,
+        "known_for_department": "Art",
+        "name": "Frank Galline",
+        "original_name": "Frank Galline",
+        "popularity": 0.3887,
+        "profile_path": null,
+        "credit_id": "5954930a9251412b31049c14",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1610633,
+        "known_for_department": "Production",
+        "name": "Dariusz Gąsiorowski",
+        "original_name": "Dariusz Gąsiorowski",
+        "popularity": 0.2769,
+        "profile_path": null,
+        "credit_id": "668950d1c06a8066b3a397f0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2003430,
+        "known_for_department": "Editing",
+        "name": "Sterling Robertson",
+        "original_name": "Sterling Robertson",
+        "popularity": 0.6818,
+        "profile_path": null,
+        "credit_id": "67cb83d47c70c42a034f6b6c",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1395027,
+        "known_for_department": "Visual Effects",
+        "name": "Gregory D. Liegey",
+        "original_name": "Gregory D. Liegey",
+        "popularity": 0.5759,
+        "profile_path": null,
+        "credit_id": "67cb8c722fe71b8c45f5830e",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6073018,
+        "known_for_department": "Production",
+        "name": "David Gundlach",
+        "original_name": "David Gundlach",
+        "popularity": 0.858,
+        "profile_path": null,
+        "credit_id": "69b6a89e98d6e82d0167376f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1191105,
+        "known_for_department": "Production",
+        "name": "Dean Zanuck",
+        "original_name": "Dean Zanuck",
+        "popularity": 0.4924,
+        "profile_path": null,
+        "credit_id": "69b6a8ab431b5ad4c65c9ab9",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

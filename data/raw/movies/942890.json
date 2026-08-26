@@ -1,0 +1,401 @@
+{
+  "adult": false,
+  "backdrop_path": "/88J3AZ8R5U4JZqE9luHyR8bhsyz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 942890,
+  "imdb_id": "tt18224610",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "House of Darkness",
+  "overview": "Driving home to her secluded estate after meeting at a local bar, a player out to score thinks his beautiful, mysterious date will be another casual hook-up. While getting acquainted, their flirtation turns playful, sexy and sinister. Hoping to get lucky, his luck may have just run out.",
+  "popularity": 3.3073,
+  "poster_path": "/1udlXpDFZ4Rc52cX4jmYlOzQecH.jpg",
+  "production_companies": [
+    {
+      "id": 65649,
+      "logo_path": "/tXTuZTEcYYB1hIyAAwDyhZE0f7c.png",
+      "name": "SSS Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-09-09",
+  "revenue": 0,
+  "runtime": 88,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "\"Once upon a time...\"",
+  "title": "House of Darkness",
+  "video": false,
+  "vote_average": 5.042,
+  "vote_count": 143,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15033,
+        "known_for_department": "Acting",
+        "name": "Justin Long",
+        "original_name": "Justin Long",
+        "popularity": 3.6225,
+        "profile_path": "/7TGXeHw4o86IBm6xknQotpludXK.jpg",
+        "cast_id": 1,
+        "character": "Hap Jackson",
+        "credit_id": "62170bc526dac1001bbdb2dc",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7517,
+        "known_for_department": "Acting",
+        "name": "Kate Bosworth",
+        "original_name": "Kate Bosworth",
+        "popularity": 3.0125,
+        "profile_path": "/ezaM2jsyrxXWVFN1SbH3UfAgZaG.jpg",
+        "cast_id": 2,
+        "character": "Mina Murray",
+        "credit_id": "62170bcc0e597b00691c24ae",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1440709,
+        "known_for_department": "Acting",
+        "name": "Gia Crovatin",
+        "original_name": "Gia Crovatin",
+        "popularity": 1.3808,
+        "profile_path": "/cKhxNgdlZvUuiEj6LyUFz0To4Kt.jpg",
+        "cast_id": 4,
+        "character": "Lucy",
+        "credit_id": "62e316d0df857c005a88a7a7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1141384,
+        "known_for_department": "Acting",
+        "name": "Lucy Walters",
+        "original_name": "Lucy Walters",
+        "popularity": 1.3532,
+        "profile_path": "/u5YcKnwWdAudCRHnWltkuEQ469T.jpg",
+        "cast_id": 5,
+        "character": "Nora",
+        "credit_id": "62e316f6f0647c007ad65725",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58689,
+        "known_for_department": "Writing",
+        "name": "Neil LaBute",
+        "original_name": "Neil LaBute",
+        "popularity": 1.1192,
+        "profile_path": "/vc1Cm2RcSdk8F2L427Fp2aQ0P3K.jpg",
+        "credit_id": "62170befafa1b0006cc000b7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58689,
+        "known_for_department": "Writing",
+        "name": "Neil LaBute",
+        "original_name": "Neil LaBute",
+        "popularity": 1.1192,
+        "profile_path": "/vc1Cm2RcSdk8F2L427Fp2aQ0P3K.jpg",
+        "credit_id": "62e319a3f0647c006462758e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1384817,
+        "known_for_department": "Production",
+        "name": "Shaun S. Sanghani",
+        "original_name": "Shaun S. Sanghani",
+        "popularity": 0.5375,
+        "profile_path": "/pTDTZAn87r1qT2K8yh4mQn95mrZ.jpg",
+        "credit_id": "62ec25c93af929005deef042",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3650516,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Leigh Davis",
+        "original_name": "Leigh Davis",
+        "popularity": 0.2166,
+        "profile_path": null,
+        "credit_id": "62ec28f8fc5f060059c5401e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1779166,
+        "known_for_department": "Art",
+        "name": "Mitchell Crisp",
+        "original_name": "Mitchell Crisp",
+        "popularity": 0.6287,
+        "profile_path": null,
+        "credit_id": "62ec291d091e62005d2cb086",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 455575,
+        "known_for_department": "Editing",
+        "name": "Bridget Durnford",
+        "original_name": "Bridget Durnford",
+        "popularity": 0.7377,
+        "profile_path": null,
+        "credit_id": "62ec29abce997a0060091de9",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58689,
+        "known_for_department": "Writing",
+        "name": "Neil LaBute",
+        "original_name": "Neil LaBute",
+        "popularity": 1.1192,
+        "profile_path": "/vc1Cm2RcSdk8F2L427Fp2aQ0P3K.jpg",
+        "credit_id": "62ec29f548333a0059fba4e3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1731561,
+        "known_for_department": "Camera",
+        "name": "Daniel Katz",
+        "original_name": "Daniel Katz",
+        "popularity": 0.4962,
+        "profile_path": "/sHbsW7tblS9oiBFxiX7Z3xw53rx.jpg",
+        "credit_id": "633777593009aa00930f5ea8",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3650512,
+        "known_for_department": "Sound",
+        "name": "Adam Bosarge",
+        "original_name": "Adam Bosarge",
+        "popularity": 0.3024,
+        "profile_path": null,
+        "credit_id": "6337776a960cde00820a9d45",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1115957,
+        "known_for_department": "Production",
+        "name": "Daryl Freimark",
+        "original_name": "Daryl Freimark",
+        "popularity": 0.3671,
+        "profile_path": null,
+        "credit_id": "63377794960cde00820a9d58",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1955020,
+        "known_for_department": "Production",
+        "name": "Jonathan Saba",
+        "original_name": "Jonathan Saba",
+        "popularity": 0.5951,
+        "profile_path": null,
+        "credit_id": "633777a6944a57007c4139cd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2590015,
+        "known_for_department": "Production",
+        "name": "Kerri Elder",
+        "original_name": "Kerri Elder",
+        "popularity": 0.4854,
+        "profile_path": null,
+        "credit_id": "633777c0ec4552007ca33a35",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2590014,
+        "known_for_department": "Production",
+        "name": "Blake Elder",
+        "original_name": "Blake Elder",
+        "popularity": 0.4804,
+        "profile_path": null,
+        "credit_id": "633777ca87f3f2007f2deb4f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3572988,
+        "known_for_department": "Production",
+        "name": "Stephen Morgenstern",
+        "original_name": "Stephen Morgenstern",
+        "popularity": 0.337,
+        "profile_path": null,
+        "credit_id": "633777d3175051007c40d94f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1627249,
+        "known_for_department": "Production",
+        "name": "Bill Bromiley",
+        "original_name": "Bill Bromiley",
+        "popularity": 0.5323,
+        "profile_path": null,
+        "credit_id": "633777df87f3f2007f2deb57",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1627248,
+        "known_for_department": "Production",
+        "name": "Shanan Becker",
+        "original_name": "Shanan Becker",
+        "popularity": 0.5996,
+        "profile_path": null,
+        "credit_id": "633777ec42d8a5007a166690",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1627250,
+        "known_for_department": "Production",
+        "name": "Ness Saban",
+        "original_name": "Ness Saban",
+        "popularity": 0.5857,
+        "profile_path": null,
+        "credit_id": "633777f5944a570084257860",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3722563,
+        "known_for_department": "Production",
+        "name": "Shelley D. Needham",
+        "original_name": "Shelley D. Needham",
+        "popularity": 0.2719,
+        "profile_path": null,
+        "credit_id": "6337783ca2e60200823fae6f",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1440138,
+        "known_for_department": "Production",
+        "name": "Tim Harms",
+        "original_name": "Tim Harms",
+        "popularity": 0.4864,
+        "profile_path": null,
+        "credit_id": "633778626728a8007a212434",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1619742,
+        "known_for_department": "Camera",
+        "name": "Lil-Cliffton Daniels",
+        "original_name": "Lil-Cliffton Daniels",
+        "popularity": 0.5195,
+        "profile_path": null,
+        "credit_id": "66665462030635cdae15a194",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4774024,
+        "known_for_department": "Sound",
+        "name": "Collin Anderson",
+        "original_name": "Collin Anderson",
+        "popularity": 0.2638,
+        "profile_path": null,
+        "credit_id": "666b7da97efe857f2b70af82",
+        "department": "Sound",
+        "job": "Boom Operator"
+      }
+    ]
+  }
+}

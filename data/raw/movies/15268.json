@@ -1,0 +1,557 @@
+{
+  "adult": false,
+  "backdrop_path": "/ee6AZ0B098pTSbQH6AwVZCT6Pag.jpg",
+  "belongs_to_collection": null,
+  "budget": 50000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 15268,
+  "imdb_id": "tt0891592",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Street Fighter: The Legend of Chun-Li",
+  "overview": "When a teenager, Chun-Li witnesses the kidnapping of her father by wealthy crime lord M. Bison. When she grows up, she goes on a quest for vengeance and becomes the famous crime-fighter of the Street Fighter universe.",
+  "popularity": 3.406,
+  "poster_path": "/lbNemoc9bRIAIVck0e2cv1cgftN.jpg",
+  "production_companies": [
+    {
+      "id": 1172,
+      "logo_path": "/5foKpTGXamv6BP4VwCqeWr5Jsdt.png",
+      "name": "Hyde Park Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 25,
+      "logo_path": "/nM2MfoMqzJQRiSynsDabOtFKetD.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    },
+    {
+      "id": 7220,
+      "logo_path": "/dD0x5awPmtx4sAr2pNvkmxkCODh.png",
+      "name": "Capcom",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    },
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2009-02-27",
+  "revenue": 12764201,
+  "runtime": 97,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "ภาษาไทย"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Some fight for power. Some fight for us.",
+  "title": "Street Fighter: The Legend of Chun-Li",
+  "video": false,
+  "vote_average": 4.285,
+  "vote_count": 501,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55751,
+        "known_for_department": "Acting",
+        "name": "Kristin Kreuk",
+        "original_name": "Kristin Kreuk",
+        "popularity": 6.7521,
+        "profile_path": "/jQVGylAfotE7osIGwGivh6LpCdl.jpg",
+        "cast_id": 1,
+        "character": "Chun-Li",
+        "credit_id": "52fe46499251416c75073823",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21594,
+        "known_for_department": "Acting",
+        "name": "Chris Klein",
+        "original_name": "Chris Klein",
+        "popularity": 2.2957,
+        "profile_path": "/56kCtPVfvjm5IRPa2GyaQHTPIOy.jpg",
+        "cast_id": 2,
+        "character": "Charlie Nash",
+        "credit_id": "52fe46499251416c75073827",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2203,
+        "known_for_department": "Acting",
+        "name": "Neal McDonough",
+        "original_name": "Neal McDonough",
+        "popularity": 5.5226,
+        "profile_path": "/3mI3i1CpjATSCta1Tb2qsyl1KCh.jpg",
+        "cast_id": 3,
+        "character": "Bison",
+        "credit_id": "52fe46499251416c7507382b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61981,
+        "known_for_department": "Acting",
+        "name": "Michael Clarke Duncan",
+        "original_name": "Michael Clarke Duncan",
+        "popularity": 2.7524,
+        "profile_path": "/3RX8OBqt3gbvFwKYZqiom4O3Ta6.jpg",
+        "cast_id": 5,
+        "character": "Balrog",
+        "credit_id": "52fe46499251416c75073833",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56455,
+        "known_for_department": "Acting",
+        "name": "Moon Bloodgood",
+        "original_name": "Moon Bloodgood",
+        "popularity": 2.8568,
+        "profile_path": "/9CGOg5nGFlQ3IWwbElMAEJMm9Iq.jpg",
+        "cast_id": 4,
+        "character": "Det. Maya Sunee",
+        "credit_id": "52fe46499251416c7507382f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57250,
+        "known_for_department": "Acting",
+        "name": "Robin Shou",
+        "original_name": "Robin Shou",
+        "popularity": 1.6834,
+        "profile_path": "/cnL8HqBowYu9ssTkShDfEmxTgdZ.jpg",
+        "cast_id": 8,
+        "character": "Gen",
+        "credit_id": "52fe46499251416c7507383d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78429,
+        "known_for_department": "Acting",
+        "name": "Josie Ho",
+        "original_name": "何超儀",
+        "popularity": 1.635,
+        "profile_path": "/v835PjfpHAId1suZ1LNRj2Cr5fJ.jpg",
+        "cast_id": 9,
+        "character": "Cantana",
+        "credit_id": "52fe46499251416c75073841",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1240932,
+        "known_for_department": "Acting",
+        "name": "Taboo",
+        "original_name": "Taboo",
+        "popularity": 0.5897,
+        "profile_path": "/24jhif9ApnemVWosmK2Q1zxN6eo.jpg",
+        "cast_id": 15,
+        "character": "Vega",
+        "credit_id": "5e51cd87a93d2500154936c6",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1624,
+        "known_for_department": "Acting",
+        "name": "Cheng Pei-pei",
+        "original_name": "鄭佩佩",
+        "popularity": 1.7121,
+        "profile_path": "/jp33KMCMjy08FQWAtxhvJS2tHnn.jpg",
+        "cast_id": 16,
+        "character": "Zhilan",
+        "credit_id": "5e51cdeaa93d250017494c37",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 125767,
+        "known_for_department": "Acting",
+        "name": "Edmund Chen",
+        "original_name": "Edmund Chen",
+        "popularity": 0.8501,
+        "profile_path": "/Aeyebyg0dDiqj0hAWWcSywi6VjV.jpg",
+        "cast_id": 17,
+        "character": "Xiang",
+        "credit_id": "5e51ce1da93d250017494dbd",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 833798,
+        "known_for_department": "Acting",
+        "name": "Tim Man",
+        "original_name": "Tim Man",
+        "popularity": 0.9102,
+        "profile_path": "/iaNaIP0gE4uKfKCJdhNpVmcgsjr.jpg",
+        "cast_id": 18,
+        "character": "Yung",
+        "credit_id": "6023c3dd458199003cab34d7",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 234990,
+        "known_for_department": "Acting",
+        "name": "Brahim Achabbakhe",
+        "original_name": "Brahim Achabbakhe",
+        "popularity": 0.9519,
+        "profile_path": "/vmvgvldLCBOPASWJbrWcEcvDrAZ.jpg",
+        "cast_id": 20,
+        "character": "Thung In Tenement House",
+        "credit_id": "606edecccd204600415c34d5",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 955264,
+        "known_for_department": "Acting",
+        "name": "Ron Smoorenburg",
+        "original_name": "Ron Smoorenburg",
+        "popularity": 0.9133,
+        "profile_path": "/5oXVFByoJXq5WdelBb0uI5VEUak.jpg",
+        "cast_id": 21,
+        "character": "Balllrogs Gang",
+        "credit_id": "607eb33f2b8a430029ccd459",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3711736,
+        "known_for_department": "Acting",
+        "name": "Elizaveta Kiryukhina",
+        "original_name": "Elizaveta Kiryukhina",
+        "popularity": 0.265,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Rose",
+        "credit_id": "632cee20e3fa2f007fd508a6",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 553565,
+        "known_for_department": "Acting",
+        "name": "Krystal Vee",
+        "original_name": "Krystal Vee",
+        "popularity": 0.8597,
+        "profile_path": "/jWIET29ISoPpw6mG1B0pYzRdFuX.jpg",
+        "cast_id": 23,
+        "character": "Lucy",
+        "credit_id": "632cee3bdd4716008442ae5e",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83861,
+        "known_for_department": "Acting",
+        "name": "Brendan Miller",
+        "original_name": "Brendan Miller",
+        "popularity": 1.3884,
+        "profile_path": "/u7IE43miwP00JCSnIKDq8tHg0zI.jpg",
+        "cast_id": 28,
+        "character": "Young Bison",
+        "credit_id": "64239a2e37b3a90097771ad3",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4354099,
+        "known_for_department": "Acting",
+        "name": "Emilze Junqueira",
+        "original_name": "Emilze Junqueira",
+        "popularity": 0.4597,
+        "profile_path": "/qvrX0DQGZbdA1xC6qS4emorXlq5.jpg",
+        "cast_id": 32,
+        "character": "",
+        "credit_id": "6596dff1ea37e006fa4cd724",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1091272,
+        "known_for_department": "Acting",
+        "name": "Kulnadda Pachimsawat",
+        "original_name": "กุลนัดดา ปัจฉิมสวัสดิ์ แอนเดอร์สัน",
+        "popularity": 0.2751,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Thai News Reporter",
+        "credit_id": "682cc7737f67ac825a2f1111",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1900168,
+        "known_for_department": "Crew",
+        "name": "Anis Cheurfa",
+        "original_name": "Anis Cheurfa",
+        "popularity": 0.6196,
+        "profile_path": "/sToFORAIVPHffNHKcsIYjEISMv0.jpg",
+        "cast_id": 35,
+        "character": "Thug #1 in Alley",
+        "credit_id": "68e37c9ea6d59286aebd990d",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 234990,
+        "known_for_department": "Acting",
+        "name": "Brahim Achabbakhe",
+        "original_name": "Brahim Achabbakhe",
+        "popularity": 0.9519,
+        "profile_path": "/vmvgvldLCBOPASWJbrWcEcvDrAZ.jpg",
+        "credit_id": "606ede78d4fe040029bf11a9",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78428,
+        "known_for_department": "Writing",
+        "name": "Justin Marks",
+        "original_name": "Justin Marks",
+        "popularity": 1.2468,
+        "profile_path": "/dwUvMbNyljjafUzANkFWE64BNCu.jpg",
+        "credit_id": "52fe46499251416c75073847",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21276,
+        "known_for_department": "Sound",
+        "name": "Stephen Endelman",
+        "original_name": "Stephen Endelman",
+        "popularity": 0.382,
+        "profile_path": "/sXwaktgsQQSKrdyqW8pceHdvXA1.jpg",
+        "credit_id": "52fe46499251416c75073859",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 934720,
+        "known_for_department": "Production",
+        "name": "Haruhiro Tsujimoto",
+        "original_name": "Haruhiro Tsujimoto",
+        "popularity": 0.3555,
+        "profile_path": null,
+        "credit_id": "52fe46499251416c7507384d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 995035,
+        "known_for_department": "Production",
+        "name": "Keiji Inafune",
+        "original_name": "稲船敬二",
+        "popularity": 0.4046,
+        "profile_path": null,
+        "credit_id": "52fe46499251416c75073853",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10765,
+        "known_for_department": "Camera",
+        "name": "Andrzej Bartkowiak",
+        "original_name": "Andrzej Bartkowiak",
+        "popularity": 0.9444,
+        "profile_path": "/cBYVubgzVWBPCQ7OzRRa0AL6tLe.jpg",
+        "credit_id": "52fe46499251416c75073839",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 971,
+        "known_for_department": "Editing",
+        "name": "Niven Howie",
+        "original_name": "Niven Howie",
+        "popularity": 0.4903,
+        "profile_path": null,
+        "credit_id": "63cd287109dda4007a6ce9c6",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1179913,
+        "known_for_department": "Camera",
+        "name": "Geoff Boyle",
+        "original_name": "Geoff Boyle",
+        "popularity": 0.3487,
+        "profile_path": "/mgQFyohAUCYlO1iYB8CM6dA7Nq5.jpg",
+        "credit_id": "63cd287ce24b93009b9d04c7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21351,
+        "known_for_department": "Editing",
+        "name": "Derek Brechin",
+        "original_name": "Derek Brechin",
+        "popularity": 0.3462,
+        "profile_path": null,
+        "credit_id": "63cd2877d363e50086d375d6",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1582803,
+        "known_for_department": "Crew",
+        "name": "Heidi Moneymaker",
+        "original_name": "Heidi Moneymaker",
+        "popularity": 1.397,
+        "profile_path": "/9OApdwLrP3mpAwCprebKkZRINDy.jpg",
+        "credit_id": "641727a40d5d85009ba21fa0",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34858,
+        "known_for_department": "Art",
+        "name": "Michael Z. Hanan",
+        "original_name": "Michael Z. Hanan",
+        "popularity": 0.4868,
+        "profile_path": null,
+        "credit_id": "647b49e4caef2d0119bf98b5",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 964093,
+        "known_for_department": "Production",
+        "name": "Patrick Aiello",
+        "original_name": "Patrick Aiello",
+        "popularity": 0.3259,
+        "profile_path": null,
+        "credit_id": "647b49fa93828e00bf9e57bf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21478,
+        "known_for_department": "Production",
+        "name": "Ashok Amritraj",
+        "original_name": "Ashok Amritraj",
+        "popularity": 0.6194,
+        "profile_path": "/f3H03GKmSvKlDPGB7rrXFcmdlxR.jpg",
+        "credit_id": "647b4a0693828e00f9d7473a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 236116,
+        "known_for_department": "Acting",
+        "name": "Dion Lam",
+        "original_name": "林迪安",
+        "popularity": 2.3223,
+        "profile_path": "/8J139Cfjqsqbop95v7BHhYFUy1I.jpg",
+        "credit_id": "671c3c5b769107d77b47cdcb",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      }
+    ]
+  }
+}

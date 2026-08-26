@@ -1,0 +1,492 @@
+{
+  "adult": false,
+  "backdrop_path": "/ccsLztuF4cKlfnriitwdxs0coBa.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 48358,
+  "imdb_id": "tt0115820",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Canterville Ghost",
+  "overview": "When a teenaged girl moves to England, with her brothers and parents into the ancient Canterville Hall, she's not at all happy. Especially as there's a ghost and a mysterious re-appearing bloodstain on the hearth. She campaigns to go back home, and her dad, believing the ghost's pranks are Ginny's, is ready to send her back. But then Ginny actually meets the elusive 17th-century Sir Simon de Canterville (not to mention the cute teenaged duke next door), and she sets her hand to the task of freeing Sir Simon from his curse.",
+  "popularity": 2.4603,
+  "poster_path": "/daQl68yTtTnFIwKJoI3rrYsyvTO.jpg",
+  "production_companies": [
+    {
+      "id": 5531,
+      "logo_path": null,
+      "name": "Signboard Hill Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 3175,
+      "logo_path": null,
+      "name": "Anasazi Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1996-01-27",
+  "revenue": 0,
+  "runtime": 92,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Canterville Ghost",
+  "video": false,
+  "vote_average": 6.338,
+  "vote_count": 71,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2387,
+        "known_for_department": "Acting",
+        "name": "Patrick Stewart",
+        "original_name": "Patrick Stewart",
+        "popularity": 4.2891,
+        "profile_path": "/ufqtnLh3JJjPbEgxEag3MM5nZyv.jpg",
+        "cast_id": 3,
+        "character": "Sir Simon de Canterville",
+        "credit_id": "52fe4761c3a36847f813291d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9206,
+        "known_for_department": "Acting",
+        "name": "Neve Campbell",
+        "original_name": "Neve Campbell",
+        "popularity": 3.6557,
+        "profile_path": "/zQzNg6Kiufj2VCltprI6jilNtl3.jpg",
+        "cast_id": 2,
+        "character": "Virginia 'Ginny' Otis",
+        "credit_id": "52fe4761c3a36847f8132919",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 40949,
+        "known_for_department": "Acting",
+        "name": "Joan Sims",
+        "original_name": "Joan Sims",
+        "popularity": 1.0327,
+        "profile_path": "/3G9DPiVzIXujGJSrgDApy2Yms1j.jpg",
+        "cast_id": 6,
+        "character": "Mrs. Umney",
+        "credit_id": "5460ca3c0e0a26617700403c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39954,
+        "known_for_department": "Acting",
+        "name": "Donald Sinden",
+        "original_name": "Donald Sinden",
+        "popularity": 0.9891,
+        "profile_path": "/AaHT02f2FMqEKEleTZrXbnnSCHU.jpg",
+        "cast_id": 7,
+        "character": "Mr. Umney",
+        "credit_id": "5460ca4a0e0a261fb900bb65",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20768,
+        "known_for_department": "Acting",
+        "name": "Cherie Lunghi",
+        "original_name": "Cherie Lunghi",
+        "popularity": 1.4259,
+        "profile_path": "/LoIGKqUw3d58MrVsLpw22goYCK.jpg",
+        "cast_id": 8,
+        "character": "Lucille Otis",
+        "credit_id": "5460ca58c3a3680b580030b5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10655,
+        "known_for_department": "Acting",
+        "name": "Leslie Phillips",
+        "original_name": "Leslie Phillips",
+        "popularity": 1.5239,
+        "profile_path": "/xD1ud9ud75GRRQz2EDATyE7NhUV.jpg",
+        "cast_id": 10,
+        "character": "George, Lord Canterville",
+        "credit_id": "5962efd09251410bfa0e9fbc",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107733,
+        "known_for_department": "Acting",
+        "name": "Daniel Betts",
+        "original_name": "Daniel Betts",
+        "popularity": 1.1635,
+        "profile_path": "/wKtPsR1At1EmJeYenSjRm4BeIiQ.jpg",
+        "cast_id": 11,
+        "character": "Francis, Duke of Cheshire",
+        "credit_id": "5962efe3c3a36828a10fbdaf",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219365,
+        "known_for_department": "Acting",
+        "name": "Edward Wiley",
+        "original_name": "Edward Wiley",
+        "popularity": 0.6101,
+        "profile_path": "/pGfGysMzSWSwOyVZ5imBZIr6eSx.jpg",
+        "cast_id": 12,
+        "character": "Hiram Otis",
+        "credit_id": "5962f0d492514121f00c846b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110333,
+        "known_for_department": "Acting",
+        "name": "Ciarán Fitzgerald",
+        "original_name": "Ciarán Fitzgerald",
+        "popularity": 0.7366,
+        "profile_path": "/1SllkRHHs0yT3VqVwKjUoV5lJAz.jpg",
+        "cast_id": 13,
+        "character": "Adam Otis",
+        "credit_id": "5962f1c8c3a3680dec0bda07",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1228960,
+        "known_for_department": "Acting",
+        "name": "Raymond Pickard",
+        "original_name": "Raymond Pickard",
+        "popularity": 0.6733,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Washington Otis",
+        "credit_id": "5962f2b89251410b860e6d0b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1256066,
+        "known_for_department": "Acting",
+        "name": "Paul Brightwell",
+        "original_name": "Paul Brightwell",
+        "popularity": 0.7819,
+        "profile_path": "/tVBcfCsxojACULbfrDmveJBX35S.jpg",
+        "cast_id": 29,
+        "character": "Vicar",
+        "credit_id": "5a18787b0e0a264cc801b401",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 140285,
+        "known_for_department": "Directing",
+        "name": "Sydney Macartney",
+        "original_name": "Sydney Macartney",
+        "popularity": 0.5885,
+        "profile_path": null,
+        "credit_id": "52fe4761c3a36847f8132915",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56712,
+        "known_for_department": "Writing",
+        "name": "Oscar Wilde",
+        "original_name": "Oscar Wilde",
+        "popularity": 0.9828,
+        "profile_path": "/6LKvhREWJt0iGwjQS8iVsi5BZlp.jpg",
+        "credit_id": "5908461b925141646c00a29a",
+        "department": "Writing",
+        "job": "Short Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2387,
+        "known_for_department": "Acting",
+        "name": "Patrick Stewart",
+        "original_name": "Patrick Stewart",
+        "popularity": 4.2891,
+        "profile_path": "/ufqtnLh3JJjPbEgxEag3MM5nZyv.jpg",
+        "credit_id": "5962f6d292514122510c57a0",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1258004,
+        "known_for_department": "Acting",
+        "name": "Robert Benedetti",
+        "original_name": "Robert Benedetti",
+        "popularity": 0.7357,
+        "profile_path": "/q2NoKYaxWcTEH6AWdnWYLANCGMS.jpg",
+        "credit_id": "5962f5829251410bfa0ea9a6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1690792,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Howard Burden",
+        "original_name": "Howard Burden",
+        "popularity": 0.5309,
+        "profile_path": null,
+        "credit_id": "5962f5c8c3a36828a10fc830",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43890,
+        "known_for_department": "Production",
+        "name": "Brent Shields",
+        "original_name": "Brent Shields",
+        "popularity": 0.5545,
+        "profile_path": null,
+        "credit_id": "5962f71392514121f00c8f62",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 590464,
+        "known_for_department": "Production",
+        "name": "Richard Welsh",
+        "original_name": "Richard Welsh",
+        "popularity": 0.5049,
+        "profile_path": null,
+        "credit_id": "5962f6b3c3a3680dec0be3c3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 960576,
+        "known_for_department": "Art",
+        "name": "Peter Mullins",
+        "original_name": "Peter Mullins",
+        "popularity": 0.6295,
+        "profile_path": null,
+        "credit_id": "5962f555c3a368265d0df421",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1405655,
+        "known_for_department": "Production",
+        "name": "Malcolm J. Christopher",
+        "original_name": "Malcolm J. Christopher",
+        "popularity": 0.4254,
+        "profile_path": null,
+        "credit_id": "5962f7339251410b860e755b",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37592,
+        "known_for_department": "Sound",
+        "name": "Ernest Troost",
+        "original_name": "Ernest Troost",
+        "popularity": 0.4077,
+        "profile_path": null,
+        "credit_id": "5962f5939251410c560dc7ff",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77601,
+        "known_for_department": "Art",
+        "name": "David Minty",
+        "original_name": "David Minty",
+        "popularity": 0.5054,
+        "profile_path": null,
+        "credit_id": "5962f622c3a3680d590bd176",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 280833,
+        "known_for_department": "Camera",
+        "name": "Dennis C. Lewiston",
+        "original_name": "Dennis C. Lewiston",
+        "popularity": 0.4504,
+        "profile_path": null,
+        "credit_id": "5a1877f7925141032901b295",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45702,
+        "known_for_department": "Editing",
+        "name": "Paul Martin Smith",
+        "original_name": "Paul Martin Smith",
+        "popularity": 0.4875,
+        "profile_path": null,
+        "credit_id": "5a18789a0e0a264cca01ab3d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1258004,
+        "known_for_department": "Acting",
+        "name": "Robert Benedetti",
+        "original_name": "Robert Benedetti",
+        "popularity": 0.7357,
+        "profile_path": "/q2NoKYaxWcTEH6AWdnWYLANCGMS.jpg",
+        "credit_id": "59fcf25f9251414705000f49",
+        "department": "Writing",
+        "job": "Teleplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 23905,
+        "known_for_department": "Production",
+        "name": "Lynn Kressel",
+        "original_name": "Lynn Kressel",
+        "popularity": 0.5268,
+        "profile_path": "/75NK9D29wYhRmegSM0YJYpEiKC6.jpg",
+        "credit_id": "5ead2f290c3ec8001dcb6a83",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1243081,
+        "known_for_department": "Production",
+        "name": "Karen Mayeda Vranek",
+        "original_name": "Karen Mayeda Vranek",
+        "popularity": 0.3455,
+        "profile_path": null,
+        "credit_id": "5ead2ede0c3ec8001dcb6a15",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1405655,
+        "known_for_department": "Production",
+        "name": "Malcolm J. Christopher",
+        "original_name": "Malcolm J. Christopher",
+        "popularity": 0.4254,
+        "profile_path": null,
+        "credit_id": "5ead2ecd0c3ec8001fcb66e4",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2244183,
+        "known_for_department": "Production",
+        "name": "Jerry Daly",
+        "original_name": "Jerry Daly",
+        "popularity": 0.3106,
+        "profile_path": null,
+        "credit_id": "5ead2f10ba131b001f43ed50",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1825078,
+        "known_for_department": "Directing",
+        "name": "Barry Langley",
+        "original_name": "Barry Langley",
+        "popularity": 0.3406,
+        "profile_path": null,
+        "credit_id": "5ead2f181a934f001ee87db6",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1929003,
+        "known_for_department": "Camera",
+        "name": "Peter Butler",
+        "original_name": "Peter Butler",
+        "popularity": 0.291,
+        "profile_path": null,
+        "credit_id": "5ef077362e2b2c00366f35f6",
+        "department": "Camera",
+        "job": "Key Grip"
+      }
+    ]
+  }
+}

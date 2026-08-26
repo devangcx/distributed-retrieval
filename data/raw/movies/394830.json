@@ -1,0 +1,430 @@
+{
+  "adult": false,
+  "backdrop_path": "/d2gkyhPQjqDy8lxTbW8AYq75UOM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 394830,
+  "imdb_id": "tt4181782",
+  "origin_country": [
+    "RO",
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Crucifixion",
+  "overview": "When a priest is jailed for the murder of a nun on whom he was performing an exorcism, an investigative journalist strives to determine whether he in fact murdered a mentally ill person, or if he lost the battle with a demonic presence.",
+  "popularity": 4.93,
+  "poster_path": "/yxTFHGcS0AJab3olU9BjABf5Ogx.jpg",
+  "production_companies": [
+    {
+      "id": 85466,
+      "logo_path": "/yIDg47SluPIkhh6ZXhJerIMNmRw.png",
+      "name": "Motion Picture Capital",
+      "origin_country": "GB"
+    },
+    {
+      "id": 74208,
+      "logo_path": "/rZU9oUWZ66ns44vLmqVmeNrGATs.png",
+      "name": "Lotus Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 46405,
+      "logo_path": null,
+      "name": "Poznan Film Group",
+      "origin_country": ""
+    },
+    {
+      "id": 302792,
+      "logo_path": null,
+      "name": "Zygotic Films",
+      "origin_country": ""
+    },
+    {
+      "id": 3604,
+      "logo_path": "/jC6Hk3ZyNRlVPJsA0xGlAhgd2RP.png",
+      "name": "Grindstone Entertainment Group",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2017-04-27",
+  "revenue": 6554322,
+  "runtime": 90,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Be careful what you pray for",
+  "title": "The Crucifixion",
+  "video": false,
+  "vote_average": 5.672,
+  "vote_count": 545,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1282054,
+        "known_for_department": "Acting",
+        "name": "Sophie Cookson",
+        "original_name": "Sophie Cookson",
+        "popularity": 1.8862,
+        "profile_path": "/96meHc9VVGYUD7riWcpowZegw7U.jpg",
+        "cast_id": 0,
+        "character": "Nicole Rawlins",
+        "credit_id": "5720d62bc3a3681198000277",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1611680,
+        "known_for_department": "Acting",
+        "name": "Corneliu Ulici",
+        "original_name": "Corneliu Ulici",
+        "popularity": 0.512,
+        "profile_path": "/bbn3v2DHsmRRFkNbC9HudZK3NFh.jpg",
+        "cast_id": 1,
+        "character": "Father Anton",
+        "credit_id": "5720d642c3a368118100027a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2166496,
+        "known_for_department": "Acting",
+        "name": "Ada Lupu",
+        "original_name": "Ada Lupu",
+        "popularity": 0.8377,
+        "profile_path": "/tdGEIh6Hpfot02G5NSg4vqq6uxm.jpg",
+        "cast_id": 16,
+        "character": "Sister Adelina Marinescu",
+        "credit_id": "61477e02511d09008a1c50e2",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1197948,
+        "known_for_department": "Acting",
+        "name": "Brittany Ashworth",
+        "original_name": "Brittany Ashworth",
+        "popularity": 1.0044,
+        "profile_path": "/uadnqgzG3qdaDB1sUGPCMwjdxo4.jpg",
+        "cast_id": 2,
+        "character": "Vaduva",
+        "credit_id": "5720d65b925141424000027b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63137,
+        "known_for_department": "Acting",
+        "name": "Mathew Zajac",
+        "original_name": "Mathew Zajac",
+        "popularity": 0.5476,
+        "profile_path": "/eimpFgoPxaoUUqU87JmvwxlBY2T.jpg",
+        "cast_id": 3,
+        "character": "Bishop Gornik",
+        "credit_id": "5720d66ec3a368117e000288",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1763891,
+        "known_for_department": "Acting",
+        "name": "Diana Vladu",
+        "original_name": "Diana Vladu",
+        "popularity": 0.3731,
+        "profile_path": "/5inou6CaIik6z9pYwBPvqwZymSM.jpg",
+        "cast_id": 6,
+        "character": "Exorcism nun",
+        "credit_id": "58ae5456c3a36835560004c7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1763892,
+        "known_for_department": "Acting",
+        "name": "Florian Voicu",
+        "original_name": "Florian Voicu",
+        "popularity": 0.4661,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Tavian",
+        "credit_id": "58ae5462c3a36835cd000476",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1020139,
+        "known_for_department": "Acting",
+        "name": "Radu Bânzaru",
+        "original_name": "Radu Bânzaru",
+        "popularity": 0.5413,
+        "profile_path": "/rfB9DVE6gavdc1wd6hEsHVQqgT1.jpg",
+        "cast_id": 8,
+        "character": "Amanar",
+        "credit_id": "58ae5472c3a36835b800045b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111090,
+        "known_for_department": "Acting",
+        "name": "Javier Botet",
+        "original_name": "Javier Botet",
+        "popularity": 1.7067,
+        "profile_path": "/nuVbt1oreUUPPR0MhKKL7y6i9Dt.jpg",
+        "cast_id": 9,
+        "character": "Faceless Man",
+        "credit_id": "58ae547f9251410b3b00047e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1149635,
+        "known_for_department": "Acting",
+        "name": "Olivia Niță",
+        "original_name": "Olivia Niță",
+        "popularity": 0.4178,
+        "profile_path": "/lLLBav8DetMhY2Xdwfd6ZhFSXA3.jpg",
+        "cast_id": 10,
+        "character": "Demonic Nurse",
+        "credit_id": "58ae548d9251410b2c000497",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1020716,
+        "known_for_department": "Acting",
+        "name": "Iván González",
+        "original_name": "Iván González",
+        "popularity": 0.9241,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Stefan Marinescu",
+        "credit_id": "58ae54afc3a368355600050e",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1211540,
+        "known_for_department": "Acting",
+        "name": "Alexis Rodney",
+        "original_name": "Alexis Rodney",
+        "popularity": 0.829,
+        "profile_path": "/neKWhXFdb6b2ckg4UJORaxDruab.jpg",
+        "cast_id": 12,
+        "character": "Phillip",
+        "credit_id": "58ae54d6c3a36835b8000496",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 229674,
+        "known_for_department": "Acting",
+        "name": "Radu Andrei Micu",
+        "original_name": "Radu Andrei Micu",
+        "popularity": 0.7299,
+        "profile_path": "/qGD5mG1IozeHIOTEMAEBmu089zo.jpg",
+        "cast_id": 13,
+        "character": "Deacon",
+        "credit_id": "58ae54e49251410b380004e7",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1426524,
+        "known_for_department": "Acting",
+        "name": "Emil Măndănac",
+        "original_name": "Emil Măndănac",
+        "popularity": 0.6469,
+        "profile_path": "/dPvFAk74SCCirAKHvoelzhlks5T.jpg",
+        "cast_id": 14,
+        "character": "Father Rica",
+        "credit_id": "58ae54f5c3a36835d60004cb",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1932448,
+        "known_for_department": "Acting",
+        "name": "Andrei Aradits",
+        "original_name": "Andrei Aradits",
+        "popularity": 0.7615,
+        "profile_path": "/ehGuGNaw1NJdHpOXqCbDHQTtQXW.jpg",
+        "cast_id": 17,
+        "character": "Dr. Dorojan",
+        "credit_id": "66b07c55a3fbd5ac410cdcc1",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2033773,
+        "known_for_department": "Acting",
+        "name": "Aurora Paunescu",
+        "original_name": "Aurora Paunescu",
+        "popularity": 0.4041,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Exorcism Nun 1",
+        "credit_id": "66b07ca22aa1ae27a4f82998",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1285541,
+        "known_for_department": "Acting",
+        "name": "Catalin Babliuc",
+        "original_name": "Cătălin Babliuc",
+        "popularity": 0.335,
+        "profile_path": "/4d5qTDuzGGgc8P1xt69d6YkLeeB.jpg",
+        "cast_id": 19,
+        "character": "Father Dimitru",
+        "credit_id": "66b07d4ea0dbafa5aa05281b",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81022,
+        "known_for_department": "Acting",
+        "name": "Jeff Rawle",
+        "original_name": "Jeff Rawle",
+        "popularity": 1.2026,
+        "profile_path": "/h3boko7omXOqHW2Nd4d4NAm54ZM.jpg",
+        "cast_id": 20,
+        "character": "Philip",
+        "credit_id": "66b07e03dfde21041a3a352d",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8768,
+        "known_for_department": "Acting",
+        "name": "Maia Morgenstern",
+        "original_name": "Maia Morgenstern",
+        "popularity": 1.355,
+        "profile_path": "/c1lEUhb2dqe9jyzEDJ4M4b4hJWR.jpg",
+        "cast_id": 21,
+        "character": "Dr. Funar",
+        "credit_id": "66b07e68c63bf3f0197c683d",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1124259,
+        "known_for_department": "Acting",
+        "name": "Ozana Oancea",
+        "original_name": "Ozana Oancea",
+        "popularity": 0.3527,
+        "profile_path": "/iBEdgwnnDsm2xZ8NnwYhwtwLYtg.jpg",
+        "cast_id": 22,
+        "character": "Sister Lina",
+        "credit_id": "66b080406ce8daa52f2f46c4",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18184,
+        "known_for_department": "Directing",
+        "name": "Xavier Gens",
+        "original_name": "Xavier Gens",
+        "popularity": 1.0431,
+        "profile_path": "/zZ2ZtJeBq0yXB1Z5hSztarGt1yN.jpg",
+        "credit_id": "5720d688c3a3681187000257",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22038,
+        "known_for_department": "Writing",
+        "name": "Carey Hayes",
+        "original_name": "Carey Hayes",
+        "popularity": 1.0338,
+        "profile_path": "/gqQfN5CZ0yhDuB3QS0Ov1HcmlSG.jpg",
+        "credit_id": "5720d6a1c3a368117e00028c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66264,
+        "known_for_department": "Production",
+        "name": "Andrew Lauren",
+        "original_name": "Andrew Lauren",
+        "popularity": 0.5986,
+        "profile_path": null,
+        "credit_id": "5b98c7de925141727200779b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52259,
+        "known_for_department": "Production",
+        "name": "Peter Safran",
+        "original_name": "Peter Safran",
+        "popularity": 1.2075,
+        "profile_path": "/p9gR2taQgpt9FI8lMzZJXfOGrPy.jpg",
+        "credit_id": "6757e2408138be55d9a13c2b",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

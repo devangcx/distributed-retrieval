@@ -1,0 +1,423 @@
+{
+  "adult": false,
+  "backdrop_path": "/k9T95CtYN0T1GA2BmB3dltTr7rH.jpg",
+  "belongs_to_collection": {
+    "id": 772601,
+    "name": "Dostana Collection",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.youtube.com/@dharmamovies",
+  "id": 14071,
+  "imdb_id": "tt1185420",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "दोस्ताना",
+  "overview": "Two straight guys pretend to be a gay couple to secure a posh Miami apartment, but fall for their gorgeous roommate. Hilarity ensues as they strive to convince everyone of the ruse while secretly trying to win her heart.",
+  "popularity": 1.5668,
+  "poster_path": "/obwjlgNI2NFZupMuJBbKgH3IhQp.jpg",
+  "production_companies": [
+    {
+      "id": 19146,
+      "logo_path": "/5Ff25ornzVNhm5skuAvMAR556NB.png",
+      "name": "Dharma Productions",
+      "origin_country": "IN"
+    },
+    {
+      "id": 109823,
+      "logo_path": null,
+      "name": "Black Dog Jib Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2008-11-13",
+  "revenue": 20000000,
+  "runtime": 141,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A story about two guys... a girl... and one little lie. Believe it!",
+  "title": "Dostana",
+  "video": false,
+  "vote_average": 6.15,
+  "vote_count": 173,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35793,
+        "known_for_department": "Acting",
+        "name": "Abhishek Bachchan",
+        "original_name": "अभिषेक बच्चन",
+        "popularity": 1.6264,
+        "profile_path": "/o2hWC004VnRyGLOgg8OjiP1Ch5A.jpg",
+        "cast_id": 4,
+        "character": "Sameer 'Sam' Acharya",
+        "credit_id": "52fe45c99251416c750626a9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52971,
+        "known_for_department": "Acting",
+        "name": "John Abraham",
+        "original_name": "John Abraham",
+        "popularity": 2.1315,
+        "profile_path": "/2ITVYVFou0dh3QVcJlhNJVzrA2p.jpg",
+        "cast_id": 1,
+        "character": "Kunal Chauhan",
+        "credit_id": "52fe45c99251416c7506269d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 77234,
+        "known_for_department": "Acting",
+        "name": "Priyanka Chopra Jonas",
+        "original_name": "Priyanka Chopra Jonas",
+        "popularity": 3.6536,
+        "profile_path": "/hh48u9scic0nITGtzi9b6rJeAtT.jpg",
+        "cast_id": 2,
+        "character": "Neha Melwani",
+        "credit_id": "52fe45c99251416c750626a1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35777,
+        "known_for_department": "Acting",
+        "name": "Kirron Kher",
+        "original_name": "Kirron Kher",
+        "popularity": 0.8436,
+        "profile_path": "/uCaiWNukV9a2vPVRw44MZMNINPa.jpg",
+        "cast_id": 7,
+        "character": "Sameer's Mother",
+        "credit_id": "52fe45c99251416c750626b5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35779,
+        "known_for_department": "Acting",
+        "name": "Boman Irani",
+        "original_name": "Boman Irani",
+        "popularity": 1.3847,
+        "profile_path": "/5J7GiiNar9bg9rGYeA2L30JXE2W.jpg",
+        "cast_id": 6,
+        "character": "M",
+        "credit_id": "52fe45c99251416c750626b1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77235,
+        "known_for_department": "Acting",
+        "name": "Bobby Deol",
+        "original_name": "बॉबी द्योल",
+        "popularity": 1.5865,
+        "profile_path": "/2npVa3PduichY8e7qBiE54m9VVP.jpg",
+        "cast_id": 3,
+        "character": "Abhimanyu 'Abhi' Singh",
+        "credit_id": "52fe45c99251416c750626a5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4109190,
+        "known_for_department": "Acting",
+        "name": "Shrey Bawa",
+        "original_name": "Shrey Bawa",
+        "popularity": 0.4065,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Veer Singh",
+        "credit_id": "6488053f6f8d9500c88b07a6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85734,
+        "known_for_department": "Acting",
+        "name": "Sushmita Mukherjee",
+        "original_name": "Sushmita Mukherjee",
+        "popularity": 0.8587,
+        "profile_path": "/hFgWE0QLZHvdt0gJ3kR734H0ZBR.jpg",
+        "cast_id": 11,
+        "character": "Ms. Melwani",
+        "credit_id": "52fe45c99251416c750626cb",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1697111,
+        "known_for_department": "Acting",
+        "name": "Monika Gaba",
+        "original_name": "Monika Gaba",
+        "popularity": 0.4018,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Anaita",
+        "credit_id": "5808ac179251410f570079db",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1490521,
+        "known_for_department": "Acting",
+        "name": "Harry Key",
+        "original_name": "Harry Key",
+        "popularity": 0.3662,
+        "profile_path": "/3i8OMNhdIU5JJxOLKXnnNispDyR.jpg",
+        "cast_id": 26,
+        "character": "Auctioneer",
+        "credit_id": "64880716e375c000e250dd59",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86060,
+        "known_for_department": "Acting",
+        "name": "Shilpa Shetty Kundra",
+        "original_name": "Shilpa Shetty Kundra",
+        "popularity": 1.2613,
+        "profile_path": "/qEU2hFsnKYdjPp4LNYvqmfRFNeP.jpg",
+        "cast_id": 5,
+        "character": "Dancer (Shut Up & Bounce)",
+        "credit_id": "52fe45c99251416c750626ad",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1061053,
+        "known_for_department": "Acting",
+        "name": "Ana Villafañe",
+        "original_name": "Ana Villafañe",
+        "popularity": 1.0339,
+        "profile_path": "/3NFFgQljlBkf5UjDhHIDtlW3DvK.jpg",
+        "cast_id": 20,
+        "character": "Runway Model",
+        "credit_id": "58b1bc90c3a368076100e918",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1662484,
+        "known_for_department": "Acting",
+        "name": "Mavrick Moreno",
+        "original_name": "Mavrick Moreno",
+        "popularity": 0.5956,
+        "profile_path": "/mu7ta9figdM8nEZj93O0snBy6i6.jpg",
+        "cast_id": 21,
+        "character": "Child in Park (uncredited)",
+        "credit_id": "5a37d107c3a3680b9d1d3171",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1936126,
+        "known_for_department": "Acting",
+        "name": "Edward Sonnenblick",
+        "original_name": "Edward Sonnenblick",
+        "popularity": 0.474,
+        "profile_path": "/8RAG0dhQp1L50zMpP0sh1rLP3tf.jpg",
+        "cast_id": 28,
+        "character": "Magazine Editor",
+        "credit_id": "66538ed89123288ef703c3d5",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 146975,
+        "known_for_department": "Directing",
+        "name": "Tarun Mansukhani",
+        "original_name": "Tarun Mansukhani",
+        "popularity": 0.4421,
+        "profile_path": null,
+        "credit_id": "52fe45c99251416c750626bb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1147472,
+        "known_for_department": "Writing",
+        "name": "Anvita Dutt",
+        "original_name": "Anvita Dutt",
+        "popularity": 0.5122,
+        "profile_path": "/ayAdNgOEDktAo0Sp8CVZYeUGSEC.jpg",
+        "credit_id": "638f224dba131b0085b45e58",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1147472,
+        "known_for_department": "Writing",
+        "name": "Anvita Dutt",
+        "original_name": "Anvita Dutt",
+        "popularity": 0.5122,
+        "profile_path": "/ayAdNgOEDktAo0Sp8CVZYeUGSEC.jpg",
+        "credit_id": "638f22565800c400b8ea6e1b",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1083220,
+        "known_for_department": "Art",
+        "name": "Nitin Chandrakant Desai",
+        "original_name": "Nitin Chandrakant Desai",
+        "popularity": 0.5178,
+        "profile_path": "/iYTGkDlGGBoOj9rAqTm23xhmaM7.jpg",
+        "credit_id": "65ca4096aad9c2017db9f06f",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35736,
+        "known_for_department": "Production",
+        "name": "Karan Johar",
+        "original_name": "Karan Johar",
+        "popularity": 1.4295,
+        "profile_path": "/zip1x7OXOBxXxcdYvKOgw6MnAWm.jpg",
+        "credit_id": "5808ac5b92514110280077d2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 146975,
+        "known_for_department": "Directing",
+        "name": "Tarun Mansukhani",
+        "original_name": "Tarun Mansukhani",
+        "popularity": 0.4421,
+        "profile_path": null,
+        "credit_id": "5808ac8c9251410f9d007e27",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 146975,
+        "known_for_department": "Directing",
+        "name": "Tarun Mansukhani",
+        "original_name": "Tarun Mansukhani",
+        "popularity": 0.4421,
+        "profile_path": null,
+        "credit_id": "5808aca0c3a368752b0076f1",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35786,
+        "known_for_department": "Sound",
+        "name": "Salim Merchant",
+        "original_name": "Salim Merchant",
+        "popularity": 0.4451,
+        "profile_path": "/acKJeVt5BbyRBXuRiaV05PkLTRM.jpg",
+        "credit_id": "5808acc9c3a368672f007176",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 232526,
+        "known_for_department": "Editing",
+        "name": "Manan Sagar",
+        "original_name": "Manan Sagar",
+        "popularity": 0.4353,
+        "profile_path": null,
+        "credit_id": "5808acde9251410fe3007b20",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2288366,
+        "known_for_department": "Directing",
+        "name": "Sameer Sippy",
+        "original_name": "Sameer Sippy",
+        "popularity": 0.3362,
+        "profile_path": null,
+        "credit_id": "66c50a6f603f87ad115ea18d",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1486908,
+        "known_for_department": "Production",
+        "name": "Sanjay Mehta",
+        "original_name": "Sanjay Mehta",
+        "popularity": 0.3575,
+        "profile_path": null,
+        "credit_id": "5de65dc811386c0013539672",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

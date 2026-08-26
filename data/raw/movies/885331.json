@@ -1,0 +1,375 @@
+{
+  "adult": false,
+  "backdrop_path": "/51jVHbIvlRhX6BaMq4YTZKN5DXe.jpg",
+  "belongs_to_collection": {
+    "id": 1158789,
+    "name": "Gadar Collection",
+    "poster_path": "/yNpOhX8XasrneOdZchcsa6vIUBZ.jpg",
+    "backdrop_path": "/fatasuaWB32N9xPy5pY1g2RlufF.jpg"
+  },
+  "budget": 7100000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 885331,
+  "imdb_id": "tt15441054",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "गदर २",
+  "overview": "When Tara Singh goes missing during a skirmish and is believed to be captured in Pakistan, his son Jeete sets out to rescue him and enters a labyrinth from which they both must escape at all costs.",
+  "popularity": 2.2326,
+  "poster_path": "/brCBYKGQaxZZcwmFF6OIxZLdKVU.jpg",
+  "production_companies": [
+    {
+      "id": 86347,
+      "logo_path": "/ir79iQBhrXk9PJ5Pr9vlLjM4viO.png",
+      "name": "Zee Studios",
+      "origin_country": "IN"
+    },
+    {
+      "id": 108835,
+      "logo_path": null,
+      "name": "Anil Sharma Productions",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2023-08-10",
+  "revenue": 2712109,
+  "runtime": 168,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Courage knows no borders",
+  "title": "Gadar 2",
+  "video": false,
+  "vote_average": 5.86,
+  "vote_count": 57,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86302,
+        "known_for_department": "Acting",
+        "name": "Sunny Deol",
+        "original_name": "सनी द्योल",
+        "popularity": 2.4148,
+        "profile_path": "/w9RenJriQVys2k5fa9ojkXpYMwO.jpg",
+        "cast_id": 1,
+        "character": "Tara Singh",
+        "credit_id": "6169bcff9715ae004477e513",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1116143,
+        "known_for_department": "Acting",
+        "name": "Utkarsh Sharma",
+        "original_name": "Utkarsh Sharma",
+        "popularity": 0.651,
+        "profile_path": "/2qGqibSA4sh6eUgpQ5gW22n5nDa.jpg",
+        "cast_id": 3,
+        "character": "Charanjeet \"Jeete\" Singh",
+        "credit_id": "6169bd3a9715ae002c2ff9a0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 76450,
+        "known_for_department": "Acting",
+        "name": "Ameesha Patel",
+        "original_name": "Ameesha Patel",
+        "popularity": 1.1862,
+        "profile_path": "/d6FmmnSylIxvmJezAJLkPpJ9z1t.jpg",
+        "cast_id": 2,
+        "character": "Sakina",
+        "credit_id": "6169bd1a53866e0026c67064",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2108661,
+        "known_for_department": "Acting",
+        "name": "Simrat Kaur",
+        "original_name": "Simrat Kaur",
+        "popularity": 0.8166,
+        "profile_path": "/vNhKeIw9ykidSOH9Ks4gBjHqqwh.jpg",
+        "cast_id": 7,
+        "character": "Muskaan",
+        "credit_id": "64ca69f0dd83fa0139dadda2",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1730661,
+        "known_for_department": "Acting",
+        "name": "Manish Wadhwa",
+        "original_name": "Manish Wadhwa",
+        "popularity": 0.5123,
+        "profile_path": "/dtYKUHR1kZuOBX2Ud2mEhpnTS3x.jpg",
+        "cast_id": 8,
+        "character": "Maj. Gen. Hamid Iqbal",
+        "credit_id": "64ca6a0fdcb6a3013d07908e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1241279,
+        "known_for_department": "Acting",
+        "name": "Gaurav Chopra",
+        "original_name": "Gaurav Chopra",
+        "popularity": 0.8515,
+        "profile_path": "/ng5QCUhbM09CAuRfxjfofjLiP85.jpg",
+        "cast_id": 9,
+        "character": "Lt. Col. Devendra Rawat",
+        "credit_id": "64ca6a2dd37197013978bca8",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2124679,
+        "known_for_department": "Acting",
+        "name": "Luv Sinha",
+        "original_name": "Luv Sinha",
+        "popularity": 0.3961,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Farid",
+        "credit_id": "64ca6a4b0b74e900c99859b7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1423932,
+        "known_for_department": "Acting",
+        "name": "Mir Sarwar",
+        "original_name": "Mir Sarwar",
+        "popularity": 0.8147,
+        "profile_path": "/vyyRELWNWFOWKq9ubWIqWpF6KCj.jpg",
+        "cast_id": 11,
+        "character": "Brigadier Salim",
+        "credit_id": "64ca6a57001bbd00c9a85423",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2031854,
+        "known_for_department": "Acting",
+        "name": "Rohit Choudhary",
+        "original_name": "Rohit Choudhary",
+        "popularity": 0.4083,
+        "profile_path": "/7qPcunXmQOkdA8cNivuitOvMQ4y.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "64ca6a680cb33517c33bbc1f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2400260,
+        "known_for_department": "Acting",
+        "name": "Rumi Khan",
+        "original_name": "Rumi Khan",
+        "popularity": 0.5435,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "64ca6a73dd83fa00c518164e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84956,
+        "known_for_department": "Acting",
+        "name": "Nana Patekar",
+        "original_name": "Nana Patekar",
+        "popularity": 1.269,
+        "profile_path": "/gnhcslE2k2pgZK9xi1XFNZvZiEs.jpg",
+        "cast_id": 19,
+        "character": "Narrator",
+        "credit_id": "64e3234d7ef381013ea3def0",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32335,
+        "known_for_department": "Acting",
+        "name": "Mushtaq Khan",
+        "original_name": "Mushtaq Khan",
+        "popularity": 0.8584,
+        "profile_path": "/xj2fPOfGRiQCFp7V9MUAlshNGZH.jpg",
+        "cast_id": 21,
+        "character": "Gul \"Gullu\" Khan",
+        "credit_id": "6520d1eec50ad200eac20ab8",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2474960,
+        "known_for_department": "Acting",
+        "name": "Madhumalti Kapoor",
+        "original_name": "Madhumalti Kapoor",
+        "popularity": 0.696,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Taaye",
+        "credit_id": "6520d2b3ea84c700ca0b6856",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110200,
+        "known_for_department": "Acting",
+        "name": "Rakesh Bedi",
+        "original_name": "राकेश बेदी",
+        "popularity": 1.4253,
+        "profile_path": "/dWLCiA3rqnaFPn9s0bk2MiSq5Mt.jpg",
+        "cast_id": 20,
+        "character": "Ved Keemati Lal",
+        "credit_id": "6520d1d907216600acb7fc69",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1116142,
+        "known_for_department": "Writing",
+        "name": "Shaktimaan Talwar",
+        "original_name": "Shaktimaan Talwar",
+        "popularity": 0.4988,
+        "profile_path": null,
+        "credit_id": "6169bd8c33a53300673da52a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107250,
+        "known_for_department": "Directing",
+        "name": "Anil Sharma",
+        "original_name": "Anil Sharma",
+        "popularity": 0.4604,
+        "profile_path": "/frELfIybDDBYt9u5eH6GtknFwvP.jpg",
+        "credit_id": "6169bd62a80236002b2a01e2",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 125474,
+        "known_for_department": "Sound",
+        "name": "Mithoon Sharma",
+        "original_name": "Mithoon Sharma",
+        "popularity": 0.5674,
+        "profile_path": "/dKcejV0tiolRCQP5YgTtH8aVzc4.jpg",
+        "credit_id": "6169bda25cea1800939a045e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 110288,
+        "known_for_department": "Crew",
+        "name": "Najeeb Khan",
+        "original_name": "Najeeb Khan",
+        "popularity": 0.4234,
+        "profile_path": null,
+        "credit_id": "64ca6aa585b105011cada798",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1084871,
+        "known_for_department": "Editing",
+        "name": "Ashfaq Makrani",
+        "original_name": "Ashfaq Makrani",
+        "popularity": 0.3385,
+        "profile_path": null,
+        "credit_id": "64ca6add85b10500ac16849a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85612,
+        "known_for_department": "Sound",
+        "name": "Monty Sharma",
+        "original_name": "Monty Sharma",
+        "popularity": 0.4096,
+        "profile_path": null,
+        "credit_id": "64ca6b45dd83fa011c871c50",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 928205,
+        "known_for_department": "Sound",
+        "name": "Uttam Singh",
+        "original_name": "Uttam Singh",
+        "popularity": 0.36,
+        "profile_path": null,
+        "credit_id": "64ca6b1ad37197013978bd0b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 35739,
+        "known_for_department": "Editing",
+        "name": "Sanjay Sankla",
+        "original_name": "Sanjay Sankla",
+        "popularity": 0.5287,
+        "profile_path": null,
+        "credit_id": "64ca6af40cb33517c4ebe13d",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

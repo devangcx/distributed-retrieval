@@ -1,0 +1,335 @@
+{
+  "adult": false,
+  "backdrop_path": "/wATxrmSllujUHc67YJV5Daql1Aq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://svf.in/movie/raincoat-hindi/",
+  "id": 41252,
+  "imdb_id": "tt0405266",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Raincoat",
+  "overview": "Tells the story of two lovers, separated by destiny, who meet again one day. This encounter allows each to realize the truth about the lives they are living.",
+  "popularity": 1.2837,
+  "poster_path": "/doz7H7x8MA7NBJdlqg8P0xCeK6R.jpg",
+  "production_companies": [
+    {
+      "id": 12877,
+      "logo_path": "/eKruM4v4KT0ILAK2NsDGne6qA7D.png",
+      "name": "SVF Entertainment",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2004-12-24",
+  "revenue": 0,
+  "runtime": 120,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "One afternoon can prove to be greater than a lifetime",
+  "title": "Raincoat",
+  "video": false,
+  "vote_average": 7.372,
+  "vote_count": 47,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 87773,
+        "known_for_department": "Acting",
+        "name": "Aishwarya Rai Bachchan",
+        "original_name": "ऐश्वर्या राय बच्चन",
+        "popularity": 3.0023,
+        "profile_path": "/59YeZ2zAoBfl3bnloriMyQkgwOK.jpg",
+        "cast_id": 2,
+        "character": "Neerja \"Neeru\"",
+        "credit_id": "52fe45bfc3a36847f80d817d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42803,
+        "known_for_department": "Acting",
+        "name": "Ajay Devgn",
+        "original_name": "Ajay Devgan",
+        "popularity": 2.3821,
+        "profile_path": "/vnHQQFzTjJ0sv14DGMIoKa3qTxN.jpg",
+        "cast_id": 3,
+        "character": "Manu",
+        "credit_id": "52fe45bfc3a36847f80d8181",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110199,
+        "known_for_department": "Acting",
+        "name": "Annu Kapoor",
+        "original_name": "Annu Kapoor",
+        "popularity": 0.7965,
+        "profile_path": "/jeWOeGZYWHAvP3fwSgPyozOyW80.jpg",
+        "cast_id": 5,
+        "character": "Landlord",
+        "credit_id": "52fe45bfc3a36847f80d8185",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2324137,
+        "known_for_department": "Acting",
+        "name": "Mouli Ganguly",
+        "original_name": "Mouli Ganguly",
+        "popularity": 0.6596,
+        "profile_path": "/efcwHkRr7R56XfLLDNZKkXXh1Lm.jpg",
+        "cast_id": 24,
+        "character": "Shaina (Manu's friend wife)",
+        "credit_id": "6534c69e42d837010ba8f48d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 125927,
+        "known_for_department": "Acting",
+        "name": "Pradip Adhikari",
+        "original_name": "Pradip Adhikari",
+        "popularity": 0.4792,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "52fe45bfc3a36847f80d818d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 125928,
+        "known_for_department": "Production",
+        "name": "Kailash Koppikar",
+        "original_name": "Kailash Koppikar",
+        "popularity": 0.4446,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "52fe45bfc3a36847f80d8191",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 125929,
+        "known_for_department": "Acting",
+        "name": "Kameshwar Mishra",
+        "original_name": "Kameshwar Mishra",
+        "popularity": 0.4931,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "52fe45bfc3a36847f80d8195",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 125930,
+        "known_for_department": "Acting",
+        "name": "Dilip Patra",
+        "original_name": "Dilip Patra",
+        "popularity": 0.4867,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "52fe45bfc3a36847f80d8199",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 125931,
+        "known_for_department": "Acting",
+        "name": "Sameer Dharmadhikari",
+        "original_name": "Sameer Dharmadhikari",
+        "popularity": 0.7007,
+        "profile_path": "/1Mwd5xW7jFyfiGK3Zg4AfAuMbWI.jpg",
+        "cast_id": 11,
+        "character": "Alok",
+        "credit_id": "52fe45bfc3a36847f80d819d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88140,
+        "known_for_department": "Writing",
+        "name": "Gulzar",
+        "original_name": "Gulzar",
+        "popularity": 0.9367,
+        "profile_path": "/3gqmECbf7Wh3BOkVmAcObhYiJ0v.jpg",
+        "cast_id": 12,
+        "character": "Poetry (voice)",
+        "credit_id": "52fe45bfc3a36847f80d81a1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 125726,
+        "known_for_department": "Acting",
+        "name": "Surekha Sikri",
+        "original_name": "Surekha Sikri",
+        "popularity": 0.5507,
+        "profile_path": "/ocqxFmHr4TKTgTgrZrVXxshT5jy.jpg",
+        "cast_id": 13,
+        "character": "Manu's mother",
+        "credit_id": "52fe45bfc3a36847f80d81a5",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52264,
+        "known_for_department": "Directing",
+        "name": "Rituparno Ghosh",
+        "original_name": "Rituparno Ghosh",
+        "popularity": 0.6915,
+        "profile_path": "/6J8MGuit37XCmaSrxGbX8Jhm2R1.jpg",
+        "credit_id": "52fe45bfc3a36847f80d8179",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1704458,
+        "known_for_department": "Writing",
+        "name": "Usha Ganguly",
+        "original_name": "Usha Ganguly",
+        "popularity": 0.3769,
+        "profile_path": null,
+        "credit_id": "581dffadc3a36806f900b13f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1381290,
+        "known_for_department": "Editing",
+        "name": "Arghyakamal Mitra",
+        "original_name": "Arghyakamal Mitra",
+        "popularity": 0.6119,
+        "profile_path": "/vBXTQdXCN9VZDOyR0cEiE8GeWBB.jpg",
+        "credit_id": "581dfff5c3a36806ec00a455",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52264,
+        "known_for_department": "Directing",
+        "name": "Rituparno Ghosh",
+        "original_name": "Rituparno Ghosh",
+        "popularity": 0.6915,
+        "profile_path": "/6J8MGuit37XCmaSrxGbX8Jhm2R1.jpg",
+        "credit_id": "581dff9c9251410f4f00aa28",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1046572,
+        "known_for_department": "Sound",
+        "name": "Debojyoti Mishra",
+        "original_name": "Debojyoti Mishra",
+        "popularity": 0.4263,
+        "profile_path": "/n5aHmYhbADJgWC9Plv48wxpia8m.jpg",
+        "credit_id": "5f5e91df2b93200036e03b5d",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71092,
+        "known_for_department": "Camera",
+        "name": "Avik Mukhopadhyay",
+        "original_name": "Avik Mukhopadhyay",
+        "popularity": 0.3991,
+        "profile_path": "/mh1NglYgTgFE1C7BRbpz5hNCqes.jpg",
+        "credit_id": "5fe347f770309f003d7f0368",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 792498,
+        "known_for_department": "Writing",
+        "name": "O. Henry",
+        "original_name": "O. Henry",
+        "popularity": 0.8279,
+        "profile_path": "/4e11Hr7XBbhxhz7hEJ7pcTbbmIp.jpg",
+        "credit_id": "602c2b80ae26be003c887dba",
+        "department": "Writing",
+        "job": "Short Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1151431,
+        "known_for_department": "Production",
+        "name": "Mahendra Soni",
+        "original_name": "Mahendra Soni",
+        "popularity": 0.4563,
+        "profile_path": "/i14XlUK8bs1dyqOM3JhdWI1wBqk.jpg",
+        "credit_id": "602c2bfc7e12f00040f8583e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1143635,
+        "known_for_department": "Production",
+        "name": "Shrikant Mohta",
+        "original_name": "Shrikant Mohta",
+        "popularity": 0.4704,
+        "profile_path": "/sPGiKznUv25hGnUl8YnZdp9tuJW.jpg",
+        "credit_id": "602c2be5ab5e34003fa1aa2c",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

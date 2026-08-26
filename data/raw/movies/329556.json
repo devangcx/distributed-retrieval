@@ -1,0 +1,275 @@
+{
+  "adult": false,
+  "backdrop_path": "/pBNTlK05egmrIIs14rTBcImhibN.jpg",
+  "belongs_to_collection": null,
+  "budget": 1000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.facebook.com/thelandmine",
+  "id": 329556,
+  "imdb_id": "tt2186848",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Landmine Goes Click",
+  "overview": "After an American tourist steps on a landmine, he is forced to watch his girlfriend get assaulted.",
+  "popularity": 2.9854,
+  "poster_path": "/dRzCChRwhFXSjamEaj7wUWtTl7T.jpg",
+  "production_companies": [
+    {
+      "id": 23386,
+      "logo_path": "/3F6G0SBGnaNt66e0GbFZDIl1kEV.png",
+      "name": "Scatena & Rosner Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 67994,
+      "logo_path": "/n5ejmdkQCWjSm9aUCMNQ8x4135o.png",
+      "name": "Sarke Studio",
+      "origin_country": "GE"
+    },
+    {
+      "id": 67995,
+      "logo_path": null,
+      "name": "Imedi Films",
+      "origin_country": "GE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GE",
+      "name": "Georgia"
+    }
+  ],
+  "release_date": "2015-03-03",
+  "revenue": 0,
+  "runtime": 110,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Georgian",
+      "iso_639_1": "ka",
+      "name": "ქართული"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Dare to step off.",
+  "title": "Landmine Goes Click",
+  "video": false,
+  "vote_average": 5.585,
+  "vote_count": 142,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87741,
+        "known_for_department": "Acting",
+        "name": "Sterling Knight",
+        "original_name": "Sterling Knight",
+        "popularity": 2.2443,
+        "profile_path": "/dwYZPuMMDT2nfG6Sr12uP2ZcDrq.jpg",
+        "cast_id": 1,
+        "character": "Chris",
+        "credit_id": "561b2487c3a36851010023a2",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 57192,
+        "known_for_department": "Acting",
+        "name": "Spencer Locke",
+        "original_name": "Spencer Locke",
+        "popularity": 2.361,
+        "profile_path": "/2mHfjqDY8e3ZISkFmi1qjrMs7uN.jpg",
+        "cast_id": 2,
+        "character": "Alicia",
+        "credit_id": "561b249bc3a368630d001860",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 935293,
+        "known_for_department": "Acting",
+        "name": "Dean Geyer",
+        "original_name": "Dean Geyer",
+        "popularity": 0.868,
+        "profile_path": "/1oTmkhiZDCSdLpVv7Cm7eicEppG.jpg",
+        "cast_id": 3,
+        "character": "Daniel",
+        "credit_id": "561b24af92514111c3003bf2",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1521644,
+        "known_for_department": "Acting",
+        "name": "Kote Tolordava",
+        "original_name": "კოტე თოლორდავა",
+        "popularity": 0.6982,
+        "profile_path": "/ddsvz7YnVyB2a6HsFnBj69osTFf.jpg",
+        "cast_id": 4,
+        "character": "Ilya",
+        "credit_id": "561b24c49251413e98001b0a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1521645,
+        "known_for_department": "Acting",
+        "name": "Giorgi Tsaava",
+        "original_name": "გიორგი ცაავა",
+        "popularity": 0.5275,
+        "profile_path": "/aiB7zFbxmYOUMtwgW1qk99BIL3t.jpg",
+        "cast_id": 5,
+        "character": "Devi",
+        "credit_id": "561b24da9251412c9c0022eb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1521646,
+        "known_for_department": "Acting",
+        "name": "Helen Nelson",
+        "original_name": "Helen Nelson",
+        "popularity": 0.5034,
+        "profile_path": "/jxLIoiacxmHILiGKR8mzouSolDK.jpg",
+        "cast_id": 6,
+        "character": "Lika",
+        "credit_id": "561b24f49251415747002075",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1023619,
+        "known_for_department": "Acting",
+        "name": "Nana Kiknadze",
+        "original_name": "Нана Кикнадзе",
+        "popularity": 0.6319,
+        "profile_path": "/zMMeBPappAKBNtNCa6zEX5ZEA3p.jpg",
+        "cast_id": 7,
+        "character": "Tanya",
+        "credit_id": "561b25089251412c9c0022f6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1521647,
+        "known_for_department": "Acting",
+        "name": "Nika Apriashvili",
+        "original_name": "Nika Apriashvili",
+        "popularity": 0.3787,
+        "profile_path": "/kbFCFZwR1oKvZN5COaYtLxaVeB7.jpg",
+        "cast_id": 8,
+        "character": "Sergi",
+        "credit_id": "561b251bc3a36851010023b4",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1106877,
+        "known_for_department": "Directing",
+        "name": "Levan Bakhia",
+        "original_name": "Levan Bakhia",
+        "popularity": 0.4311,
+        "profile_path": "/kmMRgvEuc3YERAkYnII8PMIVTpu.jpg",
+        "credit_id": "561b2465925141077400185d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1536770,
+        "known_for_department": "Writing",
+        "name": "Adrian Colussi",
+        "original_name": "Adrian Colussi",
+        "popularity": 0.3445,
+        "profile_path": null,
+        "credit_id": "56493563c3a3682614009838",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1453852,
+        "known_for_department": "Camera",
+        "name": "Vigen Vartanov",
+        "original_name": "Vigen Vartanov",
+        "popularity": 0.29,
+        "profile_path": null,
+        "credit_id": "68406adb1c9e61268c7f4e89",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5483305,
+        "known_for_department": "Sound",
+        "name": "Mamuka Begashvili",
+        "original_name": "Mamuka Begashvili",
+        "popularity": 0.2247,
+        "profile_path": null,
+        "credit_id": "68406b48f5b378169bf2c39a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1542297,
+        "known_for_department": "Art",
+        "name": "Tamar Guliashvili",
+        "original_name": "Tamar Guliashvili",
+        "popularity": 0.2569,
+        "profile_path": null,
+        "credit_id": "69db143b3239aae1e83582d8",
+        "department": "Production",
+        "job": "Production Designer"
+      }
+    ]
+  }
+}

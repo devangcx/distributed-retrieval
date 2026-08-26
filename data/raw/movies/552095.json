@@ -1,0 +1,313 @@
+{
+  "adult": false,
+  "backdrop_path": "/AseABzwquvPFMpVQUDeDifYjLkF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 552095,
+  "imdb_id": "tt6889128",
+  "origin_country": [
+    "US",
+    "MX"
+  ],
+  "original_language": "en",
+  "original_title": "PAW Patrol: Mighty Pups",
+  "overview": "When their latest scheme goes awry, Mayor Humdinger and his nephew Harold accidentally divert a meteor towards Adventure Bay. The meteor's golden energy grants the PAW Patrol superpowers. The heroic Mighty Pups are on a roll to super-save the day.",
+  "popularity": 5.646,
+  "poster_path": "/6qIEgqQWao5VcBE3jsXWOSTYZw.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2018-10-04",
+  "revenue": 0,
+  "runtime": 44,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "PAW Patrol: Mighty Pups",
+  "video": false,
+  "vote_average": 7.53,
+  "vote_count": 591,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2095421,
+        "known_for_department": "Acting",
+        "name": "Max Calinescu",
+        "original_name": "Max Calinescu",
+        "popularity": 0.5245,
+        "profile_path": "/gka71Kd41IReIrsU4k1dRShHjSP.jpg",
+        "cast_id": 5,
+        "character": "Chase (voice)",
+        "credit_id": "5db70bc127d9cc001313ba13",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1564603,
+        "known_for_department": "Acting",
+        "name": "Devan Cohen",
+        "original_name": "Devan Cohen",
+        "popularity": 0.8285,
+        "profile_path": "/zD6WjkN9Stk5H5UFyqCGjKfdWkB.jpg",
+        "cast_id": 6,
+        "character": "Rubble (voice)",
+        "credit_id": "5db70bcf0792e1001842a701",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 559281,
+        "known_for_department": "Acting",
+        "name": "Drew Davis",
+        "original_name": "Drew Davis",
+        "popularity": 1.4326,
+        "profile_path": "/dnGGLwChFNJaRDEygvfMIPLiTOZ.jpg",
+        "cast_id": 7,
+        "character": "Marshall (voice)",
+        "credit_id": "5db70bdf3faba0001637a398",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1489357,
+        "known_for_department": "Acting",
+        "name": "Samuel Faraci",
+        "original_name": "Samuel Faraci",
+        "popularity": 0.8147,
+        "profile_path": "/twXV8RllqPsJmxUKoyQi2X3hTfW.jpg",
+        "cast_id": 8,
+        "character": "Rocky (voice)",
+        "credit_id": "5db70bf027d9cc001513b5a6",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2095429,
+        "known_for_department": "Acting",
+        "name": "Kallan Holley",
+        "original_name": "Kallan Holley",
+        "popularity": 0.9445,
+        "profile_path": "/l1POWrTgqn2Q6WrYtiy2SqAlnCD.jpg",
+        "cast_id": 3,
+        "character": "Skye (voice)",
+        "credit_id": "5ce385fb0e0a26381ccc9453",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2095415,
+        "known_for_department": "Acting",
+        "name": "Jaxon Mercey",
+        "original_name": "Jaxon Mercey",
+        "popularity": 0.512,
+        "profile_path": "/jk0qrsJ3VOFlzdy4T5c9t563ZOo.jpg",
+        "cast_id": 9,
+        "character": "Ryder (voice)",
+        "credit_id": "5db70c2a0f2fbd001771d278",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2095428,
+        "known_for_department": "Acting",
+        "name": "Carter Thorne",
+        "original_name": "Carter Thorne",
+        "popularity": 0.4028,
+        "profile_path": "/yqkymSZ7rAaQySif6agGLddswpr.jpg",
+        "cast_id": 10,
+        "character": "Zuma (voice)",
+        "credit_id": "5db70c37a1d3320014e50a2c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1564604,
+        "known_for_department": "Acting",
+        "name": "Deanne Degruijter",
+        "original_name": "Deanne Degruijter",
+        "popularity": 0.555,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Mayor Goodway (voice)",
+        "credit_id": "5db70c800f2fbd001771d29d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2054213,
+        "known_for_department": "Acting",
+        "name": "Chance Hurstfield",
+        "original_name": "Chance Hurstfield",
+        "popularity": 0.8282,
+        "profile_path": "/eUjtSMC1aYr0LvkOh3PHHv2DGyz.jpg",
+        "cast_id": 2,
+        "character": "Harold (voice)",
+        "credit_id": "5ce385e00e0a266f81d0c279",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124315,
+        "known_for_department": "Acting",
+        "name": "Scott McCord",
+        "original_name": "Scott McCord",
+        "popularity": 2.5154,
+        "profile_path": "/dvuRt2P2tWemEZpSWKvl60TGa2l.jpg",
+        "cast_id": 12,
+        "character": "Jake (voice)",
+        "credit_id": "5db70c900f2fbd0011719197",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1227611,
+        "known_for_department": "Acting",
+        "name": "Ron Pardo",
+        "original_name": "Ron Pardo",
+        "popularity": 1.5923,
+        "profile_path": "/hE4QOBmPqstfmBVXmlcJmsljUMw.jpg",
+        "cast_id": 13,
+        "character": "Cap'n Turbot (voice) / Mayor Humdinger (voice) / Farmer Al (voice)",
+        "credit_id": "5db70cbea1d3320011e4e820",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1997276,
+        "known_for_department": "Acting",
+        "name": "Berkley Silverman",
+        "original_name": "Berkley Silverman",
+        "popularity": 0.7436,
+        "profile_path": "/83VDU6z8UFbhHkvzpkfh9LAEcNQ.jpg",
+        "cast_id": 14,
+        "character": "Everest (voice)",
+        "credit_id": "5db70ccfa1d3320011e4e845",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1860410,
+        "known_for_department": "Acting",
+        "name": "Blair Williams",
+        "original_name": "Blair Williams",
+        "popularity": 1.4159,
+        "profile_path": "/zgWBV0BocRSXU0p21m33Y139KmC.jpg",
+        "cast_id": 15,
+        "character": "Mr. Porter (voice)",
+        "credit_id": "5db70ce23faba0001937809e",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3510704,
+        "known_for_department": "Production",
+        "name": "Jonah Stroh",
+        "original_name": "Jonah Stroh",
+        "popularity": 0.336,
+        "profile_path": null,
+        "credit_id": "65d57c275ca704017c0d396b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1984304,
+        "known_for_department": "Production",
+        "name": "Jason McKenzie",
+        "original_name": "Jason McKenzie",
+        "popularity": 0.3282,
+        "profile_path": null,
+        "credit_id": "65d57c37fdf8b70149c63c74",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1229573,
+        "known_for_department": "Production",
+        "name": "Toni Stevens",
+        "original_name": "Toni Stevens",
+        "popularity": 0.4835,
+        "profile_path": null,
+        "credit_id": "65d57c49fdf8b7017cc6b61d",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3817230,
+        "known_for_department": "Production",
+        "name": "Christina Sang St. Catherine",
+        "original_name": "Christina Sang St. Catherine",
+        "popularity": 0.2059,
+        "profile_path": null,
+        "credit_id": "65d57c5bf29d66017de90dd6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4548915,
+        "known_for_department": "Lighting",
+        "name": "Mark Stajan",
+        "original_name": "Mark Stajan",
+        "popularity": 0.2031,
+        "profile_path": null,
+        "credit_id": "65d57cad33a37601637799e8",
+        "department": "Lighting",
+        "job": "Lighting Supervisor"
+      }
+    ]
+  }
+}

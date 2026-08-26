@@ -1,0 +1,345 @@
+{
+  "adult": false,
+  "backdrop_path": "/pC36ONAaKMXStlvutYFcAbMemCM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 119569,
+  "imdb_id": "tt2247732",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Marvel One-Shot: Item 47",
+  "overview": "Benny and Claire, a down-on-their-luck couple, find a discarded Chitauri weapon referred to as 'Item 47'.",
+  "popularity": 4.0248,
+  "poster_path": "/hnSxG8clwLuAXEkp9emc8HCUcHD.jpg",
+  "production_companies": [
+    {
+      "id": 420,
+      "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+      "name": "Marvel Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2012-08-29",
+  "revenue": 0,
+  "runtime": 12,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Avengers won the battle, but a few items were left behind.",
+  "title": "Marvel One-Shot: Item 47",
+  "video": false,
+  "vote_average": 6.423,
+  "vote_count": 633,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 51988,
+        "known_for_department": "Acting",
+        "name": "Lizzy Caplan",
+        "original_name": "Lizzy Caplan",
+        "popularity": 3.7883,
+        "profile_path": "/cHs9pPpjcEMpWrGmrAYAn0QOE78.jpg",
+        "cast_id": 2,
+        "character": "Claire Wise",
+        "credit_id": "52fe4c05c3a36847f821db69",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17772,
+        "known_for_department": "Acting",
+        "name": "Jesse Bradford",
+        "original_name": "Jesse Bradford",
+        "popularity": 2.0961,
+        "profile_path": "/hlqrBAEsT2DN2POufl50HA0yrl2.jpg",
+        "cast_id": 3,
+        "character": "Bennie Pollack",
+        "credit_id": "52fe4c05c3a36847f821db6d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1018947,
+        "known_for_department": "Acting",
+        "name": "Maximiliano Hernández",
+        "original_name": "Maximiliano Hernández",
+        "popularity": 1.5748,
+        "profile_path": "/yZYUmF4t7Wu3CWjAcSANvTlSop9.jpg",
+        "cast_id": 5,
+        "character": "Agent Jasper Sitwell",
+        "credit_id": "52fe4c05c3a36847f821db77",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39389,
+        "known_for_department": "Acting",
+        "name": "Titus Welliver",
+        "original_name": "Titus Welliver",
+        "popularity": 4.4823,
+        "profile_path": "/3hTwn7Maktr6ONq1VvfqyRacjiv.jpg",
+        "cast_id": 6,
+        "character": "Felix Blake",
+        "credit_id": "52fe4c05c3a36847f821db7b",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10832,
+        "known_for_department": "Camera",
+        "name": "Gabriel Beristain",
+        "original_name": "Gabriel Beristain",
+        "popularity": 0.6763,
+        "profile_path": "/jdjcmVtA7vWBAGSb5uP5fYopqHA.jpg",
+        "credit_id": "620a3f1a93388b0066452ded",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 113674,
+        "known_for_department": "Production",
+        "name": "Victoria Alonso",
+        "original_name": "Victoria Alonso",
+        "popularity": 1.058,
+        "profile_path": "/xF7Qe1tqgk9KtY8kThKHBWhMqxc.jpg",
+        "credit_id": "620a3eeea313b800b5cf5690",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1392621,
+        "known_for_department": "Editing",
+        "name": "John Breinholt",
+        "original_name": "John Breinholt",
+        "popularity": 0.3224,
+        "profile_path": null,
+        "credit_id": "620a3f2ecae17c1f7d0f8106",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49911,
+        "known_for_department": "Sound",
+        "name": "Christopher Lennertz",
+        "original_name": "Christopher Lennertz",
+        "popularity": 0.601,
+        "profile_path": "/4WIa3Ntb4tDzXrOTvuhpKbKDJuc.jpg",
+        "credit_id": "620a3f07cae17c37db5cc8c0",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20649,
+        "known_for_department": "Editing",
+        "name": "Hughes Winborne",
+        "original_name": "Hughes Winborne",
+        "popularity": 0.5003,
+        "profile_path": "/3CoFwdFtv8jAt40WVzuyELY7YjI.jpg",
+        "credit_id": "620a3f3c1cac8c008d1390f9",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57027,
+        "known_for_department": "Production",
+        "name": "Louis D'Esposito",
+        "original_name": "Louis D'Esposito",
+        "popularity": 2.0587,
+        "profile_path": "/ewtzT2ZMIX2DNyGUUkHLn36fjgF.jpg",
+        "credit_id": "52fe4c05c3a36847f821db65",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10850,
+        "known_for_department": "Production",
+        "name": "Kevin Feige",
+        "original_name": "Kevin Feige",
+        "popularity": 3.5708,
+        "profile_path": "/kCBqXZ5PT5udYGEj2wfTSFbLMvT.jpg",
+        "credit_id": "600630bda76ac5003daff7aa",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1590411,
+        "known_for_department": "Visual Effects",
+        "name": "Jen Underdahl",
+        "original_name": "Jen Underdahl",
+        "popularity": 0.5183,
+        "profile_path": "/4Pq0NIL0p3NBDhhVHDAD1LJMt9g.jpg",
+        "credit_id": "6852e330685a8b1ffbbedc01",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5586067,
+        "known_for_department": "Directing",
+        "name": "Todd Kaufman",
+        "original_name": "Todd Kaufman",
+        "popularity": 0.1931,
+        "profile_path": null,
+        "credit_id": "6883b81fef3c47ab8b55e8ea",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1379986,
+        "known_for_department": "Visual Effects",
+        "name": "Alessandro Cioffi",
+        "original_name": "Alessandro Cioffi",
+        "popularity": 0.4383,
+        "profile_path": "/bBb9O2b99T2mPD9VmeCEYRb2Y4C.jpg",
+        "credit_id": "68c7fc9cbb3fc36f22e301bc",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1467332,
+        "known_for_department": "Visual Effects",
+        "name": "Jake Morrison",
+        "original_name": "Jake Morrison",
+        "popularity": 0.9273,
+        "profile_path": "/7XDhwTphEl9YUhcLrQOhK0e6iX2.jpg",
+        "credit_id": "6946099e57916fb0c42fb6f4",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 579281,
+        "known_for_department": "Writing",
+        "name": "Eric Pearson",
+        "original_name": "Eric Pearson",
+        "popularity": 1.0211,
+        "profile_path": "/vmvz2dMyaTBSNFjKyY7ikFI44xM.jpg",
+        "credit_id": "6a0e3bf4795ef1239aa95988",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 576216,
+        "known_for_department": "Directing",
+        "name": "Brad Baruh",
+        "original_name": "Brad Baruh",
+        "popularity": 0.9363,
+        "profile_path": "/moIbcA8cduK7SxTpI2hqcA9WpRK.jpg",
+        "credit_id": "6a0e3bf51a3124d952e2bc13",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1117747,
+        "known_for_department": "Production",
+        "name": "Mitchell Bell",
+        "original_name": "Mitchell Bell",
+        "popularity": 0.7328,
+        "profile_path": "/poqaR1YBAO46SgLkldIQFXQOy85.jpg",
+        "credit_id": "6a0e3bf5958ea5cd0ddfa6cb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113672,
+        "known_for_department": "Production",
+        "name": "Alan Fine",
+        "original_name": "Alan Fine",
+        "popularity": 0.6502,
+        "profile_path": null,
+        "credit_id": "6a0e3bf6c50b3706b8e04aa8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3790933,
+        "known_for_department": "Production",
+        "name": "Chris McComb",
+        "original_name": "Chris McComb",
+        "popularity": 0.3399,
+        "profile_path": null,
+        "credit_id": "6a0e3bf6958ea5cd0ddfa6ce",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1256726,
+        "known_for_department": "Production",
+        "name": "Brad Winderbaum",
+        "original_name": "Brad Winderbaum",
+        "popularity": 0.9949,
+        "profile_path": "/5cDwxRkPuRRiHw6TVlaIobnX5aC.jpg",
+        "credit_id": "6a0e3bf645b8b329dfa95965",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

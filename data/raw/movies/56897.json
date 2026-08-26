@@ -1,0 +1,411 @@
+{
+  "adult": false,
+  "backdrop_path": "/567fcHNucXnunbib6Cc8nHX1DPn.jpg",
+  "belongs_to_collection": null,
+  "budget": 1312000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 56897,
+  "imdb_id": "tt1773015",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Phas Gaye Re Obama",
+  "overview": "Om, a debt-ridden NRI, wants to sell his ancestral property to pay his debts, but things turn awry when he is kidnapped by gangsters who believe him to be a rich target.",
+  "popularity": 1.1689,
+  "poster_path": "/wdRVfwsdXpN7H4p8Ydnr90Ym5d3.jpg",
+  "production_companies": [
+    {
+      "id": 285051,
+      "logo_path": null,
+      "name": "Revel Films",
+      "origin_country": ""
+    },
+    {
+      "id": 152133,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. India",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2010-11-01",
+  "revenue": 3061870,
+  "runtime": 111,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Join the Gang",
+  "title": "Phas Gaye Re Obama",
+  "video": false,
+  "vote_average": 7.073,
+  "vote_count": 62,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78922,
+        "known_for_department": "Acting",
+        "name": "Rajat Kapoor",
+        "original_name": "Rajat Kapoor",
+        "popularity": 0.8248,
+        "profile_path": "/8IF24mMUSspmXHbxCMMbMaz3WRj.jpg",
+        "cast_id": 3,
+        "character": "Om Shastri",
+        "credit_id": "52fe491ac3a36847f81891cf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225150,
+        "known_for_department": "Acting",
+        "name": "Manu Rishi Chadha",
+        "original_name": "Manu Rishi Chadha",
+        "popularity": 0.6692,
+        "profile_path": "/p1TKO8kY78V8bNLoNBlRkIrr7TJ.jpg",
+        "cast_id": 5,
+        "character": "Anandprakash Rameshprakash 'Anni' Rastogi",
+        "credit_id": "52fe491ac3a36847f81891d7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86069,
+        "known_for_department": "Acting",
+        "name": "Neha Dhupia",
+        "original_name": "नेहा धूपिया",
+        "popularity": 1.3078,
+        "profile_path": "/tZh9EOs1pEiu9iqRl4gwTubIfAh.jpg",
+        "cast_id": 1,
+        "character": "Munni Madam",
+        "credit_id": "52fe491ac3a36847f81891c5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85879,
+        "known_for_department": "Acting",
+        "name": "Sanjay Mishra",
+        "original_name": "Sanjay Mishra",
+        "popularity": 1.3322,
+        "profile_path": "/4MGKohKGU4v9SoXcQKCcC4e4Bpi.jpg",
+        "cast_id": 4,
+        "character": "Bhai Sahab",
+        "credit_id": "52fe491ac3a36847f81891d3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52773,
+        "known_for_department": "Acting",
+        "name": "Amole Gupte",
+        "original_name": "Amole Gupte",
+        "popularity": 0.5583,
+        "profile_path": "/wBGlaN2N16y3Hoco2piGRwhNTX5.jpg",
+        "cast_id": 10,
+        "character": "Dhananjay Singh",
+        "credit_id": "6724eafb2a4deb99bd9dc70b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117729,
+        "known_for_department": "Acting",
+        "name": "Amit Sial",
+        "original_name": "Amit Sial",
+        "popularity": 1.0617,
+        "profile_path": "/mNdS2NKi1HS7wiGvjjoGSQY7dNU.jpg",
+        "cast_id": 16,
+        "character": "Pratap",
+        "credit_id": "695822acf4f5338a1cc39586",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1751364,
+        "known_for_department": "Acting",
+        "name": "Sushil Pandey",
+        "original_name": "Sushil Pandey",
+        "popularity": 0.6137,
+        "profile_path": "/mYIQ9tj9eQaJqhtRiJ0PlLRgeLJ.jpg",
+        "cast_id": 17,
+        "character": "Sallu",
+        "credit_id": "695822be28848130143bd9b5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913054,
+        "known_for_department": "Acting",
+        "name": "Devender Chaudhary",
+        "original_name": "Devender Chaudhary",
+        "popularity": 0.2463,
+        "profile_path": "/xY0Dc01AQQ5VLqetTdwqImTI4Hr.jpg",
+        "cast_id": 21,
+        "character": "Bichoo",
+        "credit_id": "695824f001fdd85625e4320e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 230439,
+        "known_for_department": "Acting",
+        "name": "Pragati Pandey",
+        "original_name": "Pragati Pandey",
+        "popularity": 0.3043,
+        "profile_path": "/1EDoGPlbNbDLpNqdUmYqKZ3WqVo.jpg",
+        "cast_id": 8,
+        "character": "Ritu Shastri",
+        "credit_id": "6724e9f10df4e66d4d925733",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 230440,
+        "known_for_department": "Acting",
+        "name": "Brijendra Kala",
+        "original_name": "Brijendra Kala",
+        "popularity": 1.1286,
+        "profile_path": "/wogG1hX0EHzAhnfnGpN3tY3Ch6n.jpg",
+        "cast_id": 7,
+        "character": "Inspector Tiwari",
+        "credit_id": "52fe491ac3a36847f81891df",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5034962,
+        "known_for_department": "Acting",
+        "name": "Sumit Nijhawan",
+        "original_name": "Sumit Nijhawan",
+        "popularity": 0.1956,
+        "profile_path": "/dfj366FvQGkmjGWr0N2ki4cS3lb.jpg",
+        "cast_id": 9,
+        "character": "Mukhtar Ali",
+        "credit_id": "6724eada2a4deb99bd9dc6fd",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913043,
+        "known_for_department": "Acting",
+        "name": "Dinesh Nag",
+        "original_name": "Dinesh Nag",
+        "popularity": 0.1729,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Kanhaiya Lal",
+        "credit_id": "69582308e232373c0dc394fe",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1704878,
+        "known_for_department": "Acting",
+        "name": "Surendra Rajan",
+        "original_name": "Surendra Rajan",
+        "popularity": 0.6763,
+        "profile_path": "/cEt0ORIjkG9KOgGLKqMmye7j4U7.jpg",
+        "cast_id": 18,
+        "character": "Om's Uncle",
+        "credit_id": "695822f16ff6cb07287c74dd",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86244,
+        "known_for_department": "Acting",
+        "name": "Ishtiyak Khan",
+        "original_name": "Ishtiyak Khan",
+        "popularity": 0.5392,
+        "profile_path": "/c9eG5sZuxLJWg2RuCb0oTYQFRkQ.jpg",
+        "cast_id": 12,
+        "character": "English teacher",
+        "credit_id": "6724edfdb0c1d99c32651866",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1489833,
+        "known_for_department": "Acting",
+        "name": "Pramod Pathak",
+        "original_name": "Pramod Pathak",
+        "popularity": 0.9079,
+        "profile_path": "/1bGesMEYH2LylER18k6kbSltAmu.jpg",
+        "cast_id": 20,
+        "character": "Police SP",
+        "credit_id": "6958231c67730dfe967c740f",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5034988,
+        "known_for_department": "Acting",
+        "name": "Kuldeep Sareen",
+        "original_name": "Kuldeep Sareen",
+        "popularity": 0.1688,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Kailash Agarwal",
+        "credit_id": "6724edbfe7b37c73c69d2af0",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 230438,
+        "known_for_department": "Writing",
+        "name": "Subhash Kapoor",
+        "original_name": "Subhash Kapoor",
+        "popularity": 0.67,
+        "profile_path": "/sja9jnnZ9RwCxqVzaTT15Ypx3LK.jpg",
+        "credit_id": "52fe491ac3a36847f81891cb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 230438,
+        "known_for_department": "Writing",
+        "name": "Subhash Kapoor",
+        "original_name": "Subhash Kapoor",
+        "popularity": 0.67,
+        "profile_path": "/sja9jnnZ9RwCxqVzaTT15Ypx3LK.jpg",
+        "credit_id": "6724ee60c1212313ac7eca8c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5034994,
+        "known_for_department": "Writing",
+        "name": "Shellee",
+        "original_name": "Shellee",
+        "popularity": 0.2146,
+        "profile_path": null,
+        "credit_id": "6724ee6ee7b37c73c69d2b7b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5034998,
+        "known_for_department": "Writing",
+        "name": "Gopal Tiwari",
+        "original_name": "Gopal Tiwari",
+        "popularity": 0.2267,
+        "profile_path": null,
+        "credit_id": "6724ee83c4aa98945ef35347",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1867886,
+        "known_for_department": "Camera",
+        "name": "Arvind Kannabiran",
+        "original_name": "Arvind Kannabiran",
+        "popularity": 0.4438,
+        "profile_path": null,
+        "credit_id": "69582a39209d3df6d6c37904",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4306823,
+        "known_for_department": "Editing",
+        "name": "Sandeep Singh Bajeli",
+        "original_name": "Sandeep Singh Bajeli",
+        "popularity": 0.3222,
+        "profile_path": null,
+        "credit_id": "69582a496d2b236ebdd7b4ec",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1282957,
+        "known_for_department": "Production",
+        "name": "Ashok Pandey",
+        "original_name": "Ashok Pandey",
+        "popularity": 0.4604,
+        "profile_path": null,
+        "credit_id": "69582ac3ab1bc5d69acbee5b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 230439,
+        "known_for_department": "Acting",
+        "name": "Pragati Pandey",
+        "original_name": "Pragati Pandey",
+        "popularity": 0.3043,
+        "profile_path": "/1EDoGPlbNbDLpNqdUmYqKZ3WqVo.jpg",
+        "credit_id": "69582ad5cfb9f33b757c7613",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1085420,
+        "known_for_department": "Sound",
+        "name": "Manish J. Tipu",
+        "original_name": "Manish J. Tipu",
+        "popularity": 0.4271,
+        "profile_path": null,
+        "credit_id": "69582bab788c6910e83bd8a9",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  }
+}

@@ -1,0 +1,433 @@
+{
+  "adult": false,
+  "backdrop_path": "/eoAvHxfbaPOcfiQyjqypWIXWxDr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://abc.com/movies-and-specials/avatar-the-deep-dive-a-special-edition-of-2020",
+  "id": 1059673,
+  "imdb_id": "tt24529122",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Avatar: The Deep Dive - A Special Edition of 20/20",
+  "overview": "An inside look at one of the most anticipated movie sequels ever with James Cameron and cast.",
+  "popularity": 3.9704,
+  "poster_path": "/pzZGqIyrrSqIfrkPLJnN1tvCGnV.jpg",
+  "production_companies": [
+    {
+      "id": 25992,
+      "logo_path": "/6s8EPSIUw1APohH6lV2bsA9o3Xz.png",
+      "name": "ABC News",
+      "origin_country": "US"
+    },
+    {
+      "id": 179418,
+      "logo_path": "/rvOynvYRFkwrZmnxIheWfFZJokr.png",
+      "name": "ABC News Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NZ",
+      "name": "New Zealand"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-12-13",
+  "revenue": 0,
+  "runtime": 38,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Avatar: The Deep Dive - A Special Edition of 20/20",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 97,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124368,
+        "known_for_department": "Acting",
+        "name": "Chris Connelly",
+        "original_name": "Chris Connelly",
+        "popularity": 0.8778,
+        "profile_path": "/4iK7NcWYzeX4MaSQVSiRaM7VNeT.jpg",
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "6394a21fa0f1a200a0981953",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2710,
+        "known_for_department": "Directing",
+        "name": "James Cameron",
+        "original_name": "James Cameron",
+        "popularity": 5.8627,
+        "profile_path": "/2Hh4Jos62luf90CCglP5K32qaWO.jpg",
+        "cast_id": 2,
+        "character": "Self",
+        "credit_id": "6394a229d05a0300f8590c04",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8691,
+        "known_for_department": "Acting",
+        "name": "Zoe Saldaña",
+        "original_name": "Zoe Saldaña",
+        "popularity": 9.6233,
+        "profile_path": "/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg",
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "6394a2359f5dfb00b6ae886d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10205,
+        "known_for_department": "Acting",
+        "name": "Sigourney Weaver",
+        "original_name": "Sigourney Weaver",
+        "popularity": 5.4704,
+        "profile_path": "/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg",
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "6394a2412cefc2008ca68e15",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 204,
+        "known_for_department": "Acting",
+        "name": "Kate Winslet",
+        "original_name": "Kate Winslet",
+        "popularity": 5.7395,
+        "profile_path": "/6qNnMsKtKz9si5rabpUEG85UfHp.jpg",
+        "cast_id": 5,
+        "character": "Self",
+        "credit_id": "6394a24a2cefc200d1726d24",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32747,
+        "known_for_department": "Acting",
+        "name": "Stephen Lang",
+        "original_name": "Stephen Lang",
+        "popularity": 4.5095,
+        "profile_path": "/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg",
+        "cast_id": 6,
+        "character": "Self",
+        "credit_id": "6394a2566e938a00e0e2bb76",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1729393,
+        "known_for_department": "Acting",
+        "name": "Jamie Flatters",
+        "original_name": "Jamie Flatters",
+        "popularity": 1.8237,
+        "profile_path": "/94adVPuUSt26vCGNt1iJJ5JUdBH.jpg",
+        "cast_id": 7,
+        "character": "Self",
+        "credit_id": "6394a2662cefc2008ca68e27",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1140237,
+        "known_for_department": "Acting",
+        "name": "Bailey Bass",
+        "original_name": "Bailey Bass",
+        "popularity": 1.7684,
+        "profile_path": "/jgDeNfX6PEAoMdpXmThZxM7drvn.jpg",
+        "cast_id": 8,
+        "character": "Self",
+        "credit_id": "6394a270a1a9ba00a0fe9fc6",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1895760,
+        "known_for_department": "Acting",
+        "name": "Jack Champion",
+        "original_name": "Jack Champion",
+        "popularity": 2.8149,
+        "profile_path": "/7qgRRgap16cVI85WsBdzFLOzYiP.jpg",
+        "cast_id": 9,
+        "character": "Self",
+        "credit_id": "6394a27aa0f1a200873840d1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1895788,
+        "known_for_department": "Acting",
+        "name": "Trinity Jo-Li Bliss",
+        "original_name": "Trinity Jo-Li Bliss",
+        "popularity": 1.6849,
+        "profile_path": "/a3WQPKhMHOZ5TjdnqStTfquzVB7.jpg",
+        "cast_id": 10,
+        "character": "Self",
+        "credit_id": "6394a28b2cefc20084b47993",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8529,
+        "known_for_department": "Production",
+        "name": "Jon Landau",
+        "original_name": "Jon Landau",
+        "popularity": 0.823,
+        "profile_path": "/9KKHK9oiK87aqahsLazQr4Lvyq4.jpg",
+        "cast_id": 11,
+        "character": "Self",
+        "credit_id": "6394a2976e938a0084814968",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6347,
+        "known_for_department": "Production",
+        "name": "Margery Simkin",
+        "original_name": "Margery Simkin",
+        "popularity": 1.0334,
+        "profile_path": "/4k2WBcsejt4VJtz3V5NDZP24eKN.jpg",
+        "cast_id": 12,
+        "character": "Self",
+        "credit_id": "6394a2a36e938a008481496d",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1254911,
+        "known_for_department": "Production",
+        "name": "Matt Lombardi",
+        "original_name": "Matt Lombardi",
+        "popularity": 0.5041,
+        "profile_path": null,
+        "credit_id": "63a0c2cbf44f27008c92a806",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3809056,
+        "known_for_department": "Directing",
+        "name": "Dave Hoffman",
+        "original_name": "Dave Hoffman",
+        "popularity": 0.4975,
+        "profile_path": null,
+        "credit_id": "63b81e2c93bd69008a62b075",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3860456,
+        "known_for_department": "Production",
+        "name": "Freda Kahen-Kashi",
+        "original_name": "Freda Kahen-Kashi",
+        "popularity": 0.3136,
+        "profile_path": null,
+        "credit_id": "64d1240d85090f00c87e120b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3150539,
+        "known_for_department": "Editing",
+        "name": "Ted Eckel",
+        "original_name": "Ted Eckel",
+        "popularity": 0.4834,
+        "profile_path": null,
+        "credit_id": "64d124964d679100e2416322",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4202671,
+        "known_for_department": "Editing",
+        "name": "Aldan Mackey",
+        "original_name": "Aldan Mackey",
+        "popularity": 0.2889,
+        "profile_path": null,
+        "credit_id": "64d124cf549dda011c290da2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1218389,
+        "known_for_department": "Production",
+        "name": "Janice Johnston",
+        "original_name": "Janice Johnston",
+        "popularity": 0.6339,
+        "profile_path": null,
+        "credit_id": "64d123cf85090f00e797feda",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3150535,
+        "known_for_department": "Production",
+        "name": "Ashley Riegle",
+        "original_name": "Ashley Riegle",
+        "popularity": 0.2837,
+        "profile_path": null,
+        "credit_id": "64d1243c4d6791011c18829c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2982384,
+        "known_for_department": "Editing",
+        "name": "Pete Vandall",
+        "original_name": "Pete Vandall",
+        "popularity": 0.2386,
+        "profile_path": null,
+        "credit_id": "64d1254885090f00e797ff65",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4202673,
+        "known_for_department": "Editing",
+        "name": "Luis Mendizabal",
+        "original_name": "Luis Mendizabal",
+        "popularity": 0.2167,
+        "profile_path": null,
+        "credit_id": "64d1250b945d36011c3d27d0",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73453,
+        "known_for_department": "Production",
+        "name": "Adam Siegel",
+        "original_name": "Adam Siegel",
+        "popularity": 0.7425,
+        "profile_path": null,
+        "credit_id": "64d1251b549dda00e2de3f01",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2158232,
+        "known_for_department": "Production",
+        "name": "Anna Perczak",
+        "original_name": "Anna Perczak",
+        "popularity": 0.2803,
+        "profile_path": null,
+        "credit_id": "64d12425549dda00e2de3ea8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3318858,
+        "known_for_department": "Editing",
+        "name": "Jonathan Cordell",
+        "original_name": "Jonathan Cordell",
+        "popularity": 0.2503,
+        "profile_path": null,
+        "credit_id": "64d12487945d3601394e92f5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2932941,
+        "known_for_department": "Editing",
+        "name": "Gary Falkowitz",
+        "original_name": "Gary Falkowitz",
+        "popularity": 0.3867,
+        "profile_path": null,
+        "credit_id": "64d124ac85090f0106927b55",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3150538,
+        "known_for_department": "Editing",
+        "name": "Nicole Swink",
+        "original_name": "Nicole Swink",
+        "popularity": 0.3053,
+        "profile_path": null,
+        "credit_id": "64d1252b6d4c9700cb7ededb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3960450,
+        "known_for_department": "Editing",
+        "name": "Ryan Megan",
+        "original_name": "Ryan Megan",
+        "popularity": 0.3325,
+        "profile_path": null,
+        "credit_id": "64d1257cd9f4a603b6c9a524",
+        "department": "Editing",
+        "job": "Colorist"
+      }
+    ]
+  }
+}

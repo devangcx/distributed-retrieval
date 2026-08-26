@@ -1,0 +1,453 @@
+{
+  "adult": false,
+  "backdrop_path": "/iLyQVeo4Jm9UmLM8YEWStdgTuV4.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 2042,
+  "imdb_id": "tt0120070",
+  "origin_country": [
+    "RS",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Savior",
+  "overview": "A hardened mercenary in the Foreign Legion begins to find his own humanity when confronted with atrocities during the fighting in Bosnia.",
+  "popularity": 2.8265,
+  "poster_path": "/7qMfDjUTEvLg5640CUAddk2BNpG.jpg",
+  "production_companies": [
+    {
+      "id": 7380,
+      "logo_path": null,
+      "name": "Initial Entertainment Group",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1998-06-01",
+  "revenue": 0,
+  "runtime": 103,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Bosnian",
+      "iso_639_1": "bs",
+      "name": "Bosanski"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He's fighting a war he doesn't believe in, hoping to find something he does.",
+  "title": "Savior",
+  "video": false,
+  "vote_average": 7.124,
+  "vote_count": 190,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6065,
+        "known_for_department": "Acting",
+        "name": "Dennis Quaid",
+        "original_name": "Dennis Quaid",
+        "popularity": 4.6663,
+        "profile_path": "/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg",
+        "cast_id": 9,
+        "character": "Joshua Rose",
+        "credit_id": "52fe432fc3a36847f8040ca9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21019,
+        "known_for_department": "Acting",
+        "name": "Pascal Rollin",
+        "original_name": "Pascal Rollin",
+        "popularity": 0.4983,
+        "profile_path": "/v3Ls7FO6dd9W0DUPf6VNBJGPOJb.jpg",
+        "cast_id": 13,
+        "character": "Paris Priest",
+        "credit_id": "52fe432fc3a36847f8040cad",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 21020,
+        "known_for_department": "Acting",
+        "name": "Catlin Foster",
+        "original_name": "Catlin Foster",
+        "popularity": 0.3252,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Christian",
+        "credit_id": "52fe432fc3a36847f8040cb1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1640,
+        "known_for_department": "Acting",
+        "name": "Stellan Skarsgård",
+        "original_name": "Stellan Skarsgård",
+        "popularity": 4.4641,
+        "profile_path": "/mW7xmtGV4y79kQGn0zkKVGDMAmw.jpg",
+        "cast_id": 15,
+        "character": "Peter",
+        "credit_id": "52fe432fc3a36847f8040cb5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21021,
+        "known_for_department": "Acting",
+        "name": "John Maclaren",
+        "original_name": "John Maclaren",
+        "popularity": 0.8473,
+        "profile_path": "/deFq2FqpyUoMes9Jlm7kzP671I1.jpg",
+        "cast_id": 16,
+        "character": "Colonel",
+        "credit_id": "52fe432fc3a36847f8040cb9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 36647,
+        "known_for_department": "Acting",
+        "name": "Nataša Ninković",
+        "original_name": "Nataša Ninković",
+        "popularity": 0.8589,
+        "profile_path": "/n197rvmXjJwdoYvhx1waxQfoJDk.jpg",
+        "cast_id": 19,
+        "character": "Vera",
+        "credit_id": "52fe432fc3a36847f8040cc9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2630,
+        "known_for_department": "Acting",
+        "name": "Nastassja Kinski",
+        "original_name": "Nastassja Kinski",
+        "popularity": 4.9518,
+        "profile_path": "/1o5i8C3eX612uky7fAI3YMGnaDF.jpg",
+        "cast_id": 20,
+        "character": "Maria Rose",
+        "credit_id": "52fe432fc3a36847f8040ccd",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66027,
+        "known_for_department": "Acting",
+        "name": "Sergej Trifunović",
+        "original_name": "Сергеј Трифуновић",
+        "popularity": 2.1612,
+        "profile_path": "/xs2HFKqh19XljwCZtH6ID7Vy9Eg.jpg",
+        "cast_id": 21,
+        "character": "Goran",
+        "credit_id": "52fe432fc3a36847f8040cd1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36651,
+        "known_for_department": "Acting",
+        "name": "Nebojša Glogovac",
+        "original_name": "Nebojša Glogovac",
+        "popularity": 0.6151,
+        "profile_path": "/dNJ7hcjRPaqvZ12COudPZRzydW9.jpg",
+        "cast_id": 23,
+        "character": "Vera's Brother",
+        "credit_id": "6155e3c0dcb6a3008bc4c08e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3444206,
+        "known_for_department": "Acting",
+        "name": "Kosta Andrejevic",
+        "original_name": "Kosta Andrejevic",
+        "popularity": 0.2386,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Boy on Bridge",
+        "credit_id": "6219c27c54f6eb004396a23b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1312255,
+        "known_for_department": "Acting",
+        "name": "Ljiljana Krstić",
+        "original_name": "Ljiljana Krstić",
+        "popularity": 0.7259,
+        "profile_path": "/7ouWmfG4BCq4m7D4ZiwtS6GERIT.jpg",
+        "cast_id": 25,
+        "character": "Old Lady",
+        "credit_id": "6219c28b3c4344001beaeb6c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3444207,
+        "known_for_department": "Acting",
+        "name": "Sanja Zogovic",
+        "original_name": "Sanja Zogovic",
+        "popularity": 0.238,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Girl on Bridge",
+        "credit_id": "6219c296383df2006c192794",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1874746,
+        "known_for_department": "Acting",
+        "name": "Veljko Otašević",
+        "original_name": "Veljko Otašević",
+        "popularity": 0.3284,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Orthodox Priest",
+        "credit_id": "6219c2a53c43440069363c39",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1052297,
+        "known_for_department": "Acting",
+        "name": "Marina Bukvički",
+        "original_name": "Marina Bukvički",
+        "popularity": 0.3842,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Muslim Girl",
+        "credit_id": "6219c2b40e597b00692469e8",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1136713,
+        "known_for_department": "Writing",
+        "name": "Dušan Perković",
+        "original_name": "Dušan Perković",
+        "popularity": 0.479,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Ratko",
+        "credit_id": "6219c2c019ab590065ce2e27",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3444208,
+        "known_for_department": "Acting",
+        "name": "Dajana Radević",
+        "original_name": "Dajana Radević",
+        "popularity": 0.2413,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Baby",
+        "credit_id": "6219c2d379a1c3006b936b64",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3444209,
+        "known_for_department": "Acting",
+        "name": "Sanja Borodenko",
+        "original_name": "Sanja Borodenko",
+        "popularity": 0.2984,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Baby",
+        "credit_id": "6219c2e379a1c3006b936bbb",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3444210,
+        "known_for_department": "Acting",
+        "name": "Aleksandra Borodenko",
+        "original_name": "Aleksandra Borodenko",
+        "popularity": 0.2361,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Baby",
+        "credit_id": "6219c2ee79a1c30043fdbb53",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21013,
+        "known_for_department": "Directing",
+        "name": "Predrag Antonijević",
+        "original_name": "Predrag Antonijević",
+        "popularity": 0.6892,
+        "profile_path": "/dpzRjghxa3rXfKcgFR115wmZmpZ.jpg",
+        "credit_id": "52fe432fc3a36847f8040c87",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1152,
+        "known_for_department": "Directing",
+        "name": "Oliver Stone",
+        "original_name": "Oliver Stone",
+        "popularity": 2.6355,
+        "profile_path": "/zn4XrQMUg32poFHJd2kwlXBPmGg.jpg",
+        "credit_id": "52fe432fc3a36847f8040c93",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 21015,
+        "known_for_department": "Production",
+        "name": "Janet Yang",
+        "original_name": "Janet Yang",
+        "popularity": 0.6763,
+        "profile_path": "/nMUN99D4PVYkrdXp74kZxxQ7ySt.jpg",
+        "credit_id": "52fe432fc3a36847f8040c99",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21017,
+        "known_for_department": "Camera",
+        "name": "Ian Wilson",
+        "original_name": "Ian Wilson",
+        "popularity": 0.4211,
+        "profile_path": null,
+        "credit_id": "52fe432fc3a36847f8040c9f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10935,
+        "known_for_department": "Editing",
+        "name": "Ian Crafford",
+        "original_name": "Ian Crafford",
+        "popularity": 0.5606,
+        "profile_path": null,
+        "credit_id": "52fe432fc3a36847f8040ca5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11383,
+        "known_for_department": "Editing",
+        "name": "Gabriella Cristiani",
+        "original_name": "Gabriella Cristiani",
+        "popularity": 0.4544,
+        "profile_path": null,
+        "credit_id": "52fe432fc3a36847f8040cbf",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10364,
+        "known_for_department": "Sound",
+        "name": "David Robbins",
+        "original_name": "David Robbins",
+        "popularity": 0.4256,
+        "profile_path": "/1HgwO1y5Qza7RrP0EWfPnPN3Lt.jpg",
+        "credit_id": "52fe432fc3a36847f8040cc5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2670890,
+        "known_for_department": "Writing",
+        "name": "Robert Orr",
+        "original_name": "Robert Orr",
+        "popularity": 0.5214,
+        "profile_path": "/vcrIVWdYtFzqLNQK0X0Oecgi3Ox.jpg",
+        "credit_id": "60a33c1ef92532002918cb4e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1722806,
+        "known_for_department": "Acting",
+        "name": "Milorad Vučelić",
+        "original_name": "Milorad Vučelić",
+        "popularity": 0.3465,
+        "profile_path": null,
+        "credit_id": "6383fdb65e14e500ca16b5c6",
+        "department": "Production",
+        "job": "Production Manager"
+      }
+    ]
+  }
+}

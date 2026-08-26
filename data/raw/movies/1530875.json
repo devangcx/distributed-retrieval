@@ -1,0 +1,437 @@
+{
+  "adult": false,
+  "backdrop_path": "/jiW3TaZtpMQgMfVnMn5Nmciqhdv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 1530875,
+  "imdb_id": "tt26896414",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "All the Devils Are Here",
+  "overview": "After a heist, four criminals lay low in a remote safehouse, waiting for orders. As paranoia builds, one thing becomes clear — the real threat may not be outside, but among them.",
+  "popularity": 4.2747,
+  "poster_path": "/4GJTUSjbCGynQo4PpTTNzzxYfBM.jpg",
+  "production_companies": [
+    {
+      "id": 37871,
+      "logo_path": "/aUOo1S2AabqQnRrXK6XuObWPDyK.png",
+      "name": "T-Street",
+      "origin_country": "US"
+    },
+    {
+      "id": 2531,
+      "logo_path": "/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png",
+      "name": "MRC",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-09-25",
+  "revenue": 0,
+  "runtime": 87,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "All the Devils Are Here",
+  "video": false,
+  "vote_average": 6.218,
+  "vote_count": 87,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1665,
+        "known_for_department": "Acting",
+        "name": "Eddie Marsan",
+        "original_name": "Eddie Marsan",
+        "popularity": 3.0366,
+        "profile_path": "/9atfOgIxhfOKvv2be8HEp6SzOct.jpg",
+        "cast_id": 4,
+        "character": "Ronnie Blake",
+        "credit_id": "68a4c31374b6374dc183466d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237455,
+        "known_for_department": "Acting",
+        "name": "Sam Claflin",
+        "original_name": "Sam Claflin",
+        "popularity": 5.4553,
+        "profile_path": "/e5CU4tjCNZFfm7ITmZfzjZse2Bb.jpg",
+        "cast_id": 3,
+        "character": "Grady",
+        "credit_id": "68a4c2d44ada12cb3fd54841",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39659,
+        "known_for_department": "Acting",
+        "name": "Burn Gorman",
+        "original_name": "Burn Gorman",
+        "popularity": 3.1899,
+        "profile_path": "/udgACYWqCSuu6nvtrSjmyU28B0V.jpg",
+        "cast_id": 6,
+        "character": "Numbers",
+        "credit_id": "68a4c345f6898b3097696ddd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1325961,
+        "known_for_department": "Acting",
+        "name": "Suki Waterhouse",
+        "original_name": "Suki Waterhouse",
+        "popularity": 2.0287,
+        "profile_path": "/bpGRoG2DRsySQBICMzCuvfFDg0e.jpg",
+        "cast_id": 5,
+        "character": "C",
+        "credit_id": "68a4c334ab07aed81ffd225e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3645292,
+        "known_for_department": "Acting",
+        "name": "Tienne Simon",
+        "original_name": "Tienne Simon",
+        "popularity": 0.624,
+        "profile_path": "/964o0kGA0zoj2DVpjX8q188ZDcK.jpg",
+        "cast_id": 7,
+        "character": "Royce",
+        "credit_id": "68a4c36e75e83bd088696dbd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 139549,
+        "known_for_department": "Acting",
+        "name": "Rory Kinnear",
+        "original_name": "Rory Kinnear",
+        "popularity": 2.2133,
+        "profile_path": "/8aEABMeHXOozwE5DrMxUlCM9mpG.jpg",
+        "cast_id": 2,
+        "character": "Harold Laing",
+        "credit_id": "68a03d9c33c6c25af061b955",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1269682,
+        "known_for_department": "Acting",
+        "name": "Benjamin Dilloway",
+        "original_name": "Benjamin Dilloway",
+        "popularity": 0.6855,
+        "profile_path": "/reXJcitDu5hsCO7Hlra2ZFzr6Nn.jpg",
+        "cast_id": 20,
+        "character": "Kenneth Oak",
+        "credit_id": "68a626319ecdba47d7bcb715",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2526768,
+        "known_for_department": "Directing",
+        "name": "Barnaby Roper",
+        "original_name": "Barnaby Roper",
+        "popularity": 0.4664,
+        "profile_path": null,
+        "credit_id": "68a03d79b2f26eaa0361b9c4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5636218,
+        "known_for_department": "Writing",
+        "name": "John Patrick Dover",
+        "original_name": "John Patrick Dover",
+        "popularity": 0.2649,
+        "profile_path": null,
+        "credit_id": "68a4c3d7c65f83a2da834619",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 991827,
+        "known_for_department": "Production",
+        "name": "Ben LeClair",
+        "original_name": "Ben LeClair",
+        "popularity": 0.5657,
+        "profile_path": "/6uOBMF8Ob8JRajGhfUJ0fAnntNl.jpg",
+        "credit_id": "68a4c41657fca28adffd2242",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2489705,
+        "known_for_department": "Production",
+        "name": "Leopold Hughes",
+        "original_name": "Leopold Hughes",
+        "popularity": 0.5253,
+        "profile_path": "/lwULkrourCoaEUrxgd2ridtPcRI.jpg",
+        "credit_id": "68a4c439f6fd9713643e8235",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1653024,
+        "known_for_department": "Production",
+        "name": "Kharmel Cochrane",
+        "original_name": "Kharmel Cochrane",
+        "popularity": 0.5717,
+        "profile_path": "/1si7QvTh6QtAX7AoffU8GV1PY67.jpg",
+        "credit_id": "68a625b367af9dd615fd28eb",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1881075,
+        "known_for_department": "Sound",
+        "name": "Peter Raeburn",
+        "original_name": "Peter Raeburn",
+        "popularity": 0.4055,
+        "profile_path": null,
+        "credit_id": "68a625caab5b487289bcb561",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 22968,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Natalie Ward",
+        "original_name": "Natalie Ward",
+        "popularity": 0.615,
+        "profile_path": null,
+        "credit_id": "68a625d255ac83ab095dd6a1",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2192640,
+        "known_for_department": "Editing",
+        "name": "Matt Nee",
+        "original_name": "Matt Nee",
+        "popularity": 0.2386,
+        "profile_path": null,
+        "credit_id": "68a625e14326548f6d3e8977",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1471442,
+        "known_for_department": "Editing",
+        "name": "Justin Krohn",
+        "original_name": "Justin Krohn",
+        "popularity": 0.4505,
+        "profile_path": null,
+        "credit_id": "68a625ebfbd92c1f6b834cd7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 986677,
+        "known_for_department": "Art",
+        "name": "Steve Summersgill",
+        "original_name": "Steve Summersgill",
+        "popularity": 0.6021,
+        "profile_path": null,
+        "credit_id": "68a625f73a9d7c896c834c3c",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88023,
+        "known_for_department": "Camera",
+        "name": "Peter Flinckenberg",
+        "original_name": "Peter Flinckenberg",
+        "popularity": 0.5887,
+        "profile_path": null,
+        "credit_id": "68a6260388c41f8246834ea7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2526768,
+        "known_for_department": "Directing",
+        "name": "Barnaby Roper",
+        "original_name": "Barnaby Roper",
+        "popularity": 0.4664,
+        "profile_path": null,
+        "credit_id": "68a62611c65f83a2da834d2f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3116688,
+        "known_for_department": "Art",
+        "name": "Charlie Lynam",
+        "original_name": "Charlie Lynam",
+        "popularity": 0.3448,
+        "profile_path": null,
+        "credit_id": "695201eef4c70026b288df04",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2880187,
+        "known_for_department": "Art",
+        "name": "Lotty Sanna",
+        "original_name": "Lotty Sanna",
+        "popularity": 0.3541,
+        "profile_path": null,
+        "credit_id": "695201fb25901e7d0e70f93d",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2093478,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Matthew Smith",
+        "original_name": "Matthew Smith",
+        "popularity": 0.6371,
+        "profile_path": null,
+        "credit_id": "6952021b189b5bbfc370f80f",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 41543,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jennifer Harty",
+        "original_name": "Jennifer Harty",
+        "popularity": 0.4635,
+        "profile_path": null,
+        "credit_id": "6952022be4d7d287f5c37a4a",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2328493,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lulu Hall",
+        "original_name": "Lulu Hall",
+        "popularity": 0.3561,
+        "profile_path": null,
+        "credit_id": "6952023943afdd05817c715e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1405795,
+        "known_for_department": "Sound",
+        "name": "Tim Cavagin",
+        "original_name": "Tim Cavagin",
+        "popularity": 0.8075,
+        "profile_path": null,
+        "credit_id": "6952025a4f27feed6f88de70",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58920,
+        "known_for_department": "Crew",
+        "name": "Jamie Edgell",
+        "original_name": "Jamie Edgell",
+        "popularity": 0.7183,
+        "profile_path": null,
+        "credit_id": "69520285cd9e311da14ad5ca",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2477769,
+        "known_for_department": "Directing",
+        "name": "Barney Shakespeare",
+        "original_name": "Barney Shakespeare",
+        "popularity": 0.5905,
+        "profile_path": null,
+        "credit_id": "69d049faf0ce35d6f2b2e8f7",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      }
+    ]
+  }
+}

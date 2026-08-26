@@ -1,0 +1,176 @@
+{
+  "adult": false,
+  "backdrop_path": "/nsseuqyttnzWsPFwzNLR7eAxOnJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://tv.apple.com/movie/umc.cmc.lvpflyaolcrevsfje3rt5l6p",
+  "id": 888652,
+  "imdb_id": "tt15353214",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "'Twas the Fight Before Christmas",
+  "overview": "In this true-life twist on a holiday fable, Jeremy Morris brings a whole new meaning to Christmas spirit when his extravagant seasonal display sparks a dispute with his neighbors that lands them all in court.",
+  "popularity": 3.2352,
+  "poster_path": "/5TNSfR1OdcNHMnJV7QczdqdfaGR.jpg",
+  "production_companies": [
+    {
+      "id": 135005,
+      "logo_path": "/yHs7fh3S2JEDdYX5B0UrA5lSTjN.png",
+      "name": "Dorothy St Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 113634,
+      "logo_path": "/7ViBFQPmKYxSmfTQ0WC1RPFRQJ.png",
+      "name": "Library Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-11-24",
+  "revenue": 0,
+  "runtime": 91,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A true tale more tangled than your Christmas lights.",
+  "title": "'Twas the Fight Before Christmas",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 30,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3303278,
+        "known_for_department": "Acting",
+        "name": "Jeremy Morris",
+        "original_name": "Jeremy Morris",
+        "popularity": 0.2438,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Self",
+        "credit_id": "618af25cd55e4d00293370dc",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2098060,
+        "known_for_department": "Directing",
+        "name": "Becky Read",
+        "original_name": "Becky Read",
+        "popularity": 0.6129,
+        "profile_path": null,
+        "credit_id": "61739f5533ec26008b4a409b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31654,
+        "known_for_department": "Directing",
+        "name": "Chris Smith",
+        "original_name": "Chris Smith",
+        "popularity": 1.0202,
+        "profile_path": "/w7YxLmX6901brkneH06nxPBSmji.jpg",
+        "credit_id": "61739f6c5c5cc800265c0382",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1648285,
+        "known_for_department": "Production",
+        "name": "Julia Nottingham",
+        "original_name": "Julia Nottingham",
+        "popularity": 0.8128,
+        "profile_path": null,
+        "credit_id": "61739f77176a940023b4b832",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3281158,
+        "known_for_department": "Production",
+        "name": "Lisa Gomer-Howes",
+        "original_name": "Lisa Gomer-Howes",
+        "popularity": 0.2361,
+        "profile_path": null,
+        "credit_id": "61739f9433ec260062ca03de",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3790513,
+        "known_for_department": "Editing",
+        "name": "Nic Zimmermann",
+        "original_name": "Nic Zimmermann",
+        "popularity": 0.5807,
+        "profile_path": null,
+        "credit_id": "671772cb6fb09e394c029fc2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1323896,
+        "known_for_department": "Camera",
+        "name": "Britton Foster",
+        "original_name": "Britton Foster",
+        "popularity": 0.4472,
+        "profile_path": null,
+        "credit_id": "671772d2a77af1dbbaf8ac75",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2098060,
+        "known_for_department": "Directing",
+        "name": "Becky Read",
+        "original_name": "Becky Read",
+        "popularity": 0.6129,
+        "profile_path": null,
+        "credit_id": "6a7a21a991f9ec00f65f9e28",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,407 @@
+{
+  "adult": false,
+  "backdrop_path": "/5XGSGQQK3sp3DionQXesbuPcUTq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 159666,
+  "imdb_id": "tt0232079",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Mela",
+  "overview": "Best mates Kishen and Shankar decide to help village belle Roopa avenge her family's death, but their friendship is tested in the process.",
+  "popularity": 1.2475,
+  "poster_path": "/rPF46QLaBni9PXvbjmA8zSeaiJ5.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2000-01-07",
+  "revenue": 0,
+  "runtime": 156,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "Georgian",
+      "iso_639_1": "ka",
+      "name": "ქართული"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Mela",
+  "video": false,
+  "vote_average": 4.553,
+  "vote_count": 38,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52763,
+        "known_for_department": "Acting",
+        "name": "Aamir Khan",
+        "original_name": "आमिर ख़ान",
+        "popularity": 3.2484,
+        "profile_path": "/6uiZSwi2kvd1jZ7X7Xz9W9VGuV4.jpg",
+        "cast_id": 2,
+        "character": "Kishen Pyare",
+        "credit_id": "52fe4c1a9251416c910efd85",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 131347,
+        "known_for_department": "Acting",
+        "name": "Twinkle Khanna",
+        "original_name": "Twinkle Khanna",
+        "popularity": 0.6912,
+        "profile_path": "/ipAV6rBOkJQhTW5Zs8phZWGmXMt.jpg",
+        "cast_id": 3,
+        "character": "Roopa Singh",
+        "credit_id": "52fe4c1a9251416c910efd89",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1245885,
+        "known_for_department": "Acting",
+        "name": "Faisal Hussain Khan",
+        "original_name": "Faisal Khan",
+        "popularity": 0.7197,
+        "profile_path": "/7pjps7sItobLb495xaK6LwqcWjV.jpg",
+        "cast_id": 7,
+        "character": "Shankar Shane",
+        "credit_id": "5ce0647dc3a36846a71fd54f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2129067,
+        "known_for_department": "Crew",
+        "name": "Tinnu Verma",
+        "original_name": "Tinnu Verma",
+        "popularity": 0.4895,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Gujjar Singh",
+        "credit_id": "669dcee21a2f003cd38e42a4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35819,
+        "known_for_department": "Acting",
+        "name": "Johny Lever",
+        "original_name": "Johny Lever",
+        "popularity": 1.7738,
+        "profile_path": "/kohAOhKr4HBln8b9P4i1kmMONyi.jpg",
+        "cast_id": 8,
+        "character": "Inspector Pakkad Singh",
+        "credit_id": "5ce0649d0e0a264718cb60eb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78924,
+        "known_for_department": "Acting",
+        "name": "Ayub Khan",
+        "original_name": "Ayub Khan",
+        "popularity": 0.7678,
+        "profile_path": "/eIeKKUlOw0t43XcYZI6249T1SZt.jpg",
+        "cast_id": 16,
+        "character": "Ram Singh",
+        "credit_id": "669dcf99ce968c0dfb4be821",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 140674,
+        "known_for_department": "Acting",
+        "name": "Navneet Nishan",
+        "original_name": "Navneet Nishan",
+        "popularity": 1.0094,
+        "profile_path": "/dm1ICqCOeJC88ye81ITQrhBw6U3.jpg",
+        "cast_id": 15,
+        "character": "Bulbul",
+        "credit_id": "669dcf791f531df52f50256e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86019,
+        "known_for_department": "Acting",
+        "name": "Asrani",
+        "original_name": "Govardhan Asrani",
+        "popularity": 0.9031,
+        "profile_path": "/zoZRnIHNkCRq4gKZGaQhbtPrIDj.jpg",
+        "cast_id": 13,
+        "character": "Banwari Baniya",
+        "credit_id": "669dcf49aff5d924a9e1e2eb",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86228,
+        "known_for_department": "Acting",
+        "name": "Tiku Talsania",
+        "original_name": "Tiku Talsania",
+        "popularity": 0.6838,
+        "profile_path": "/pcEzSYDTRrnvA5pcbxhrfGOVTuM.jpg",
+        "cast_id": 14,
+        "character": "Murari Mukhiya",
+        "credit_id": "669dcf67a690f2cf3c882ffb",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 87304,
+        "known_for_department": "Acting",
+        "name": "Archana Puran Singh",
+        "original_name": "Archana Puran Singh",
+        "popularity": 1.2525,
+        "profile_path": "/uc6QJNnT8q0wNnZOZi0QW2hE1wq.jpg",
+        "cast_id": 10,
+        "character": "Vidyavati",
+        "credit_id": "5d21d9faf495ee001236e72f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1833343,
+        "known_for_department": "Acting",
+        "name": "Omkar Kapoor",
+        "original_name": "Omkar Kapoor",
+        "popularity": 0.6532,
+        "profile_path": "/nYTBaL5dtRazSkSrf4wJ535UZy2.jpg",
+        "cast_id": 26,
+        "character": "Gopal",
+        "credit_id": "669dd07c8ad439449a6e4f5c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20045,
+        "known_for_department": "Acting",
+        "name": "Tanvi Azmi",
+        "original_name": "Tanvi Azmi",
+        "popularity": 0.8525,
+        "profile_path": "/zKxZCZahNstKxkF7YPa2DqgadWC.jpg",
+        "cast_id": 18,
+        "character": "Gopal's Mother",
+        "credit_id": "669dcfc1013959e99290f18f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85696,
+        "known_for_department": "Acting",
+        "name": "Parmeet Sethi",
+        "original_name": "Parmeet Sethi",
+        "popularity": 1.1845,
+        "profile_path": "/paTrHCbnwMxBZREfoGcfY5TlvyY.jpg",
+        "cast_id": 19,
+        "character": "Surendra Pratap Singh",
+        "credit_id": "669dcfde996961560177b99e",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53377,
+        "known_for_department": "Acting",
+        "name": "Kulbhushan Kharbanda",
+        "original_name": "Kulbhushan Kharbanda",
+        "popularity": 1.2578,
+        "profile_path": "/iboGvJPKZ98kU8YKgomn9Jpk0XN.jpg",
+        "cast_id": 20,
+        "character": "Minister",
+        "credit_id": "669dcfef91d11979ee501f60",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 934092,
+        "known_for_department": "Acting",
+        "name": "Viju Khote",
+        "original_name": "Viju Khote",
+        "popularity": 0.7091,
+        "profile_path": "/fjPPIsJpmdFssi0IcwHNRPmnL5m.jpg",
+        "cast_id": 21,
+        "character": "Patil",
+        "credit_id": "669dd00e809f48051fa6eb69",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53362,
+        "known_for_department": "Acting",
+        "name": "Harish Patel",
+        "original_name": "Harish Patel",
+        "popularity": 0.8038,
+        "profile_path": "/g2aHA5J5ODMcBgIwCa72ykcmN85.jpg",
+        "cast_id": 22,
+        "character": "Chandulal Popatlal",
+        "credit_id": "669dd0234e58612bc24c5143",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1088414,
+        "known_for_department": "Acting",
+        "name": "Anirudh Agarwal",
+        "original_name": "Anirudh Agarwal",
+        "popularity": 0.648,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Kaali Bhai",
+        "credit_id": "669dd03e14d6108fd14c5064",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 944934,
+        "known_for_department": "Directing",
+        "name": "Veeru Krishnan",
+        "original_name": "Veeru Krishnan",
+        "popularity": 0.5844,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Ghungroo",
+        "credit_id": "669dd04e6da0be603247a088",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3100887,
+        "known_for_department": "Acting",
+        "name": "Kavi Kumar Azad",
+        "original_name": "Kavi Kumar Azad",
+        "popularity": 0.4968,
+        "profile_path": "/cHQxuk3RN9kzG8ZQPxUgNbd2ZWa.jpg",
+        "cast_id": 17,
+        "character": "Watchman #1",
+        "credit_id": "669dcfab57d589599337fc49",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4842929,
+        "known_for_department": "Acting",
+        "name": "Sharad Shankla",
+        "original_name": "Sharad Shankla",
+        "popularity": 0.1897,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Watchman #2",
+        "credit_id": "669dd06b9b8e53c6a78ef6fb",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 87773,
+        "known_for_department": "Acting",
+        "name": "Aishwarya Rai Bachchan",
+        "original_name": "ऐश्वर्या राय बच्चन",
+        "popularity": 3.0023,
+        "profile_path": "/59YeZ2zAoBfl3bnloriMyQkgwOK.jpg",
+        "cast_id": 9,
+        "character": "Champakali (Special Appearance)",
+        "credit_id": "5d04c1049251413ec5babcd5",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113671,
+        "known_for_department": "Directing",
+        "name": "Dharmesh Darshan",
+        "original_name": "Dharmesh Darshan",
+        "popularity": 0.5946,
+        "profile_path": "/t9qQWoH9aN8Q4vN6WHSnu4499Vm.jpg",
+        "credit_id": "52fe4c1a9251416c910efd81",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86782,
+        "known_for_department": "Writing",
+        "name": "Robin Bhatt",
+        "original_name": "Robin Bhatt",
+        "popularity": 0.9267,
+        "profile_path": null,
+        "credit_id": "52fe4c1a9251416c910efd97",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1083220,
+        "known_for_department": "Art",
+        "name": "Nitin Chandrakant Desai",
+        "original_name": "Nitin Chandrakant Desai",
+        "popularity": 0.5178,
+        "profile_path": "/iYTGkDlGGBoOj9rAqTm23xhmaM7.jpg",
+        "credit_id": "65ca3e23aaec71016259d04a",
+        "department": "Art",
+        "job": "Art Direction"
+      }
+    ]
+  }
+}

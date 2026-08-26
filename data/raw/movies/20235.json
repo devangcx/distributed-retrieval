@@ -1,0 +1,363 @@
+{
+  "adult": false,
+  "backdrop_path": "/dAuE36QjmEXW3AkIzYlHyaBOmmF.jpg",
+  "belongs_to_collection": {
+    "id": 153010,
+    "name": "Beauty and the Beast Collection",
+    "poster_path": "/bSeNKX5JtMQOhC3arCHznIham2k.jpg",
+    "backdrop_path": "/bXCm94g4TXKmACRj02ZlvmKp09m.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 20235,
+  "imdb_id": "tt0167038",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Belle's Magical World",
+  "overview": "Belle, the Beast, Lumiere, Cogsworth and the rest of those zany castle residents use their imaginations to embark on three magical, storybook adventures. This direct-to-video anthology serves as a \"sequel\" to Disney's animated hit film. In \"The Perfect World,\" Belle and the Beast learn about forgiveness. In \"Fifi's Folly,\" Lumiere's girlfriend is jealous of his bond with Belle. And in \"Broken Wing,\" the Beast learns to be kind to an injured bird.",
+  "popularity": 6.5199,
+  "poster_path": "/md6BrF3we17ZnPibam9jZDCl5iN.jpg",
+  "production_companies": [
+    {
+      "id": 3475,
+      "logo_path": "/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png",
+      "name": "Disney Television Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1998-02-16",
+  "revenue": 0,
+  "runtime": 69,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Three enchanting storybook adventures!",
+  "title": "Belle's Magical World",
+  "video": false,
+  "vote_average": 6.193,
+  "vote_count": 501,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15048,
+        "known_for_department": "Acting",
+        "name": "Robby Benson",
+        "original_name": "Robby Benson",
+        "popularity": 1.7471,
+        "profile_path": "/a7lauBiOZmJEuYDSpfHrJDOgrOc.jpg",
+        "cast_id": 1,
+        "character": "Beast (voice)",
+        "credit_id": "52fe43dec3a368484e002bc1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 62050,
+        "known_for_department": "Acting",
+        "name": "Paige O'Hara",
+        "original_name": "Paige O'Hara",
+        "popularity": 1.1459,
+        "profile_path": "/g61DJhK2rUOJJ2Rk4Kw0svUPWRh.jpg",
+        "cast_id": 2,
+        "character": "Belle (voice)",
+        "credit_id": "52fe43dec3a368484e002bc5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28010,
+        "known_for_department": "Acting",
+        "name": "David Ogden Stiers",
+        "original_name": "David Ogden Stiers",
+        "popularity": 2.1441,
+        "profile_path": "/cgCTQt3RZVkhkusG77l4HwHEH6A.jpg",
+        "cast_id": 3,
+        "character": "Cogsworth (voice)",
+        "credit_id": "52fe43dec3a368484e002bc9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 725,
+        "known_for_department": "Acting",
+        "name": "Jerry Orbach",
+        "original_name": "Jerry Orbach",
+        "popularity": 2.7588,
+        "profile_path": "/36Bsh8VKClXn6diVnEbDLgniBF4.jpg",
+        "cast_id": 4,
+        "character": "Lumiere (voice)",
+        "credit_id": "52fe43dec3a368484e002bcd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1228792,
+        "known_for_department": "Acting",
+        "name": "Anne Rogers",
+        "original_name": "Anne Rogers",
+        "popularity": 0.5912,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Mrs. Potts (voice)",
+        "credit_id": "64749558dd731b2d78ba3c8e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1017469,
+        "known_for_department": "Acting",
+        "name": "Gregory Grudt",
+        "original_name": "Gregory Grudt",
+        "popularity": 0.635,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Chip (voice)",
+        "credit_id": "647495839ae61300e59527c4",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6727,
+        "known_for_department": "Acting",
+        "name": "Kimmy Robertson",
+        "original_name": "Kimmy Robertson",
+        "popularity": 1.6842,
+        "profile_path": "/nZAiIyKFNHfVdgEjvdBIPOb8m0B.jpg",
+        "cast_id": 5,
+        "character": "Fifi (voice)",
+        "credit_id": "52fe43dec3a368484e002bd1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15831,
+        "known_for_department": "Acting",
+        "name": "Frank Welker",
+        "original_name": "Frank Welker",
+        "popularity": 3.2633,
+        "profile_path": "/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg",
+        "cast_id": 6,
+        "character": "Sultan (voice)",
+        "credit_id": "52fe43dec3a368484e002bd5",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34982,
+        "known_for_department": "Acting",
+        "name": "Jeff Bennett",
+        "original_name": "Jeff Bennett",
+        "popularity": 2.8161,
+        "profile_path": "/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg",
+        "cast_id": 9,
+        "character": "Crane (voice)",
+        "credit_id": "5dd406eab39e3500188cfca5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12077,
+        "known_for_department": "Acting",
+        "name": "Jim Cummings",
+        "original_name": "Jim Cummings",
+        "popularity": 2.8563,
+        "profile_path": "/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg",
+        "cast_id": 10,
+        "character": "Webster (voice)",
+        "credit_id": "5dd406f52634620012b5c7e1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43125,
+        "known_for_department": "Acting",
+        "name": "Rob Paulsen",
+        "original_name": "Rob Paulsen",
+        "popularity": 2.1766,
+        "profile_path": "/c9Gb8stOOftFgUiZXtXAWlSaq6e.jpg",
+        "cast_id": 11,
+        "character": "LePlume (voice)",
+        "credit_id": "5dd407022634620012b5c809",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 60741,
+        "known_for_department": "Acting",
+        "name": "April Winchell",
+        "original_name": "April Winchell",
+        "popularity": 1.4439,
+        "profile_path": "/twx3xkmvRAuHHJp3xUd1sbxTZRS.jpg",
+        "cast_id": 12,
+        "character": "Chandeleria (voice)",
+        "credit_id": "5dd4071228723c00144e1792",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 166994,
+        "known_for_department": "Acting",
+        "name": "Jo Anne Worley",
+        "original_name": "Jo Anne Worley",
+        "popularity": 0.7836,
+        "profile_path": "/EzPTRJ2GxUFgYo6JXw19G2JDb3.jpg",
+        "cast_id": 13,
+        "character": "Wardrobe (voice)",
+        "credit_id": "5dd4071f2634620012b5c848",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 175160,
+        "known_for_department": "Writing",
+        "name": "Cullen Blaine",
+        "original_name": "Cullen Blaine",
+        "popularity": 0.5803,
+        "profile_path": "/jB8NAazfXIfdleuOItJf2tjQY2n.jpg",
+        "credit_id": "52fe43dec3a368484e002bdb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 935753,
+        "known_for_department": "Visual Effects",
+        "name": "Dale Case",
+        "original_name": "Dale Case",
+        "popularity": 0.5815,
+        "profile_path": null,
+        "credit_id": "52fe43dec3a368484e002be1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4608766,
+        "known_for_department": "Writing",
+        "name": "Alice Brown",
+        "original_name": "Alice Brown",
+        "popularity": 0.3261,
+        "profile_path": null,
+        "credit_id": "65fdb2af1b1f3c014995f7f4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 355369,
+        "known_for_department": "Art",
+        "name": "Bob Kline",
+        "original_name": "Bob Kline",
+        "popularity": 0.5686,
+        "profile_path": null,
+        "credit_id": "65fdb3007f6c8d01636db71a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1384716,
+        "known_for_department": "Writing",
+        "name": "Richard Cray",
+        "original_name": "Richard Cray",
+        "popularity": 0.5916,
+        "profile_path": null,
+        "credit_id": "65fdb6e60c125501650ba9b1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 355369,
+        "known_for_department": "Art",
+        "name": "Bob Kline",
+        "original_name": "Bob Kline",
+        "popularity": 0.5686,
+        "profile_path": null,
+        "credit_id": "67bf5d6ae4a5b8bf00c8bd03",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1470949,
+        "known_for_department": "Production",
+        "name": "David W. King",
+        "original_name": "David W. King",
+        "popularity": 0.4128,
+        "profile_path": null,
+        "credit_id": "67bf5d7831aa55a71135854e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1115296,
+        "known_for_department": "Writing",
+        "name": "Jeanne-Marie Leprince de Beaumont",
+        "original_name": "Jeanne-Marie Leprince de Beaumont",
+        "popularity": 0.8899,
+        "profile_path": null,
+        "credit_id": "69110e0c0d1d06c2f031b0e6",
+        "department": "Writing",
+        "job": "Original Story"
+      }
+    ]
+  }
+}

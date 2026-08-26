@@ -1,0 +1,369 @@
+{
+  "adult": false,
+  "backdrop_path": "/pHSTy4aFEcBnslMACAawkr6oum5.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 287426,
+  "imdb_id": "tt3136112",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Shelter",
+  "overview": "Hannah and Tahir fall in love while homeless on the streets of New York. Shelter explores how they got there, and as we learn about their pasts we realize they need each other to build a future.",
+  "popularity": 2.473,
+  "poster_path": "/1EtMTtKDLp2MGhddZuLgeGZVbRk.jpg",
+  "production_companies": [
+    {
+      "id": 39707,
+      "logo_path": null,
+      "name": "The Bridge Finance Company",
+      "origin_country": ""
+    },
+    {
+      "id": 38284,
+      "logo_path": null,
+      "name": "Bifrost Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 6626,
+      "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+      "name": "Voltage Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2014-09-12",
+  "revenue": 0,
+  "runtime": 105,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Shelter",
+  "video": false,
+  "vote_average": 5.885,
+  "vote_count": 113,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6161,
+        "known_for_department": "Acting",
+        "name": "Jennifer Connelly",
+        "original_name": "Jennifer Connelly",
+        "popularity": 8.548,
+        "profile_path": "/wdmcJagSRJ65AuJ4IUCzuHAdvgy.jpg",
+        "cast_id": 0,
+        "character": "Hannah",
+        "credit_id": "53f245a4c3a3685af80051cf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53650,
+        "known_for_department": "Acting",
+        "name": "Anthony Mackie",
+        "original_name": "Anthony Mackie",
+        "popularity": 6.2035,
+        "profile_path": "/eZSIDrtTzhvabyjrmIITQLsjx8h.jpg",
+        "cast_id": 1,
+        "character": "Tahir",
+        "credit_id": "53f245b9c3a3685ae7005588",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 92728,
+        "known_for_department": "Acting",
+        "name": "Amy Hargreaves",
+        "original_name": "Amy Hargreaves",
+        "popularity": 1.6428,
+        "profile_path": "/j7daK6A4Hbw64jAuuecL4alIXIa.jpg",
+        "cast_id": 12,
+        "character": "Carrie",
+        "credit_id": "55781405925141372d001d56",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27545,
+        "known_for_department": "Acting",
+        "name": "Bruce Altman",
+        "original_name": "Bruce Altman",
+        "popularity": 1.7213,
+        "profile_path": "/n5y8Mg572LGT3eHyeZaa9NMMlAN.jpg",
+        "cast_id": 13,
+        "character": "Peter",
+        "credit_id": "5578141a9251413de30015fe",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1348457,
+        "known_for_department": "Acting",
+        "name": "Andrew Polk",
+        "original_name": "Andrew Polk",
+        "popularity": 1.0647,
+        "profile_path": "/vCg49XCp79OOQAFiICuU7I79yXy.jpg",
+        "cast_id": 14,
+        "character": "Dr. Patel",
+        "credit_id": "55781448c3a3684275001953",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60119,
+        "known_for_department": "Acting",
+        "name": "Paul Urcioli",
+        "original_name": "Paul Urcioli",
+        "popularity": 0.755,
+        "profile_path": "/vxCGfYdaqDtURnUdUq0QvfDaSVX.jpg",
+        "cast_id": 15,
+        "character": "Doctor",
+        "credit_id": "55781461c3a3684305001405",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 205761,
+        "known_for_department": "Acting",
+        "name": "Teddy Cañez",
+        "original_name": "Teddy Cañez",
+        "popularity": 0.8383,
+        "profile_path": "/l2nRHBMJToH1LRRs4VmOfBpdJ14.jpg",
+        "cast_id": 16,
+        "character": "Station Officer",
+        "credit_id": "5578148c9251413d7600155a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1375162,
+        "known_for_department": "Acting",
+        "name": "Scott Johnsen",
+        "original_name": "Scott Johnsen",
+        "popularity": 0.6241,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Terry",
+        "credit_id": "557814a59251413d3200165a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1281250,
+        "known_for_department": "Acting",
+        "name": "Rob Morgan",
+        "original_name": "Rob Morgan",
+        "popularity": 2.2758,
+        "profile_path": "/ps6wR3JZnk6MY9tbtOLORgadqs6.jpg",
+        "cast_id": 18,
+        "character": "Franklin",
+        "credit_id": "56004ffb9251414e5600027e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87478,
+        "known_for_department": "Acting",
+        "name": "Kevin Geer",
+        "original_name": "Kevin Geer",
+        "popularity": 0.6392,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Walter",
+        "credit_id": "5c8721ba0e0a2627fd5b1082",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1290726,
+        "known_for_department": "Acting",
+        "name": "Bill Walters",
+        "original_name": "Bill Walters",
+        "popularity": 0.4683,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Homeless Man with Cart (uncredited)",
+        "credit_id": "61a0b365d133240062a67cf2",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6162,
+        "known_for_department": "Acting",
+        "name": "Paul Bettany",
+        "original_name": "Paul Bettany",
+        "popularity": 5.1058,
+        "profile_path": "/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg",
+        "credit_id": "53f245d4c3a3685ae700558e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6162,
+        "known_for_department": "Acting",
+        "name": "Paul Bettany",
+        "original_name": "Paul Bettany",
+        "popularity": 5.1058,
+        "profile_path": "/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg",
+        "credit_id": "55781321c3a3684275001937",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6162,
+        "known_for_department": "Acting",
+        "name": "Paul Bettany",
+        "original_name": "Paul Bettany",
+        "popularity": 5.1058,
+        "profile_path": "/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg",
+        "credit_id": "557813349251413da0001518",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94451,
+        "known_for_department": "Production",
+        "name": "Robert Ogden Barnum",
+        "original_name": "Robert Ogden Barnum",
+        "popularity": 0.7526,
+        "profile_path": "/mMAnqogMZdyGHbbQYXqIb9vMlIB.jpg",
+        "credit_id": "5578134bc3a368396c00218e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 78977,
+        "known_for_department": "Production",
+        "name": "Katie Mustard",
+        "original_name": "Katie Mustard",
+        "popularity": 0.4095,
+        "profile_path": null,
+        "credit_id": "557813649251413d890014bf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1194760,
+        "known_for_department": "Production",
+        "name": "Daniel Wagner",
+        "original_name": "Daniel Wagner",
+        "popularity": 0.4536,
+        "profile_path": null,
+        "credit_id": "55781378925141372d001d50",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66985,
+        "known_for_department": "Editing",
+        "name": "John F. Lyons",
+        "original_name": "John F. Lyons",
+        "popularity": 0.4268,
+        "profile_path": null,
+        "credit_id": "5578139b9251413e3e001551",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2952,
+        "known_for_department": "Production",
+        "name": "Avy Kaufman",
+        "original_name": "Avy Kaufman",
+        "popularity": 1.1666,
+        "profile_path": "/9hh0HIAmLgPqMTn1keJvh1MF1DR.jpg",
+        "credit_id": "557813a69251413de30015f0",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1279526,
+        "known_for_department": "Art",
+        "name": "Tania Bijlani",
+        "original_name": "Tania Bijlani",
+        "popularity": 0.4512,
+        "profile_path": null,
+        "credit_id": "557813bec3a3684275001941",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1059852,
+        "known_for_department": "Camera",
+        "name": "Paula Huidobro",
+        "original_name": "Paula Huidobro",
+        "popularity": 0.5965,
+        "profile_path": "/vOCVIEtYaqFbFhfkVoM95LFkf6a.jpg",
+        "credit_id": "5fdfc135fd4a96004031a1a7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1593059,
+        "known_for_department": "Sound",
+        "name": "James Lavelle",
+        "original_name": "James Lavelle",
+        "popularity": 0.4289,
+        "profile_path": "/2PGRHZckofPNKmyX68SoyioNf3Z.jpg",
+        "credit_id": "67f320b6f5a80aa5459a00c9",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

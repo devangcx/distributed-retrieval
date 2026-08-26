@@ -1,0 +1,480 @@
+{
+  "adult": false,
+  "backdrop_path": "/vTc8XTjCvmAv0cL3UrLT2SajvjY.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://bloodyhellthefilm.com/",
+  "id": 696822,
+  "imdb_id": "tt9772374",
+  "origin_country": [
+    "US",
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "Bloody Hell",
+  "overview": "A man with a mysterious past flees the country to escape his own personal hell... only to arrive somewhere much worse. In an effort to survive this new horror, he turns to his personified conscience.",
+  "popularity": 2.8339,
+  "poster_path": "/73I98oHHWEaAmp6UwTdE3tJkHCq.jpg",
+  "production_companies": [
+    {
+      "id": 53020,
+      "logo_path": null,
+      "name": "Eclectik Vision",
+      "origin_country": "AU"
+    },
+    {
+      "id": 140458,
+      "logo_path": null,
+      "name": "Heart Sleeve Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 118932,
+      "logo_path": null,
+      "name": "Entertainment Squad",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2020-10-08",
+  "revenue": 28037,
+  "runtime": 94,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "status": "Released",
+  "tagline": "One Hell of a Fairytale",
+  "title": "Bloody Hell",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 298,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1394235,
+        "known_for_department": "Acting",
+        "name": "Ben O'Toole",
+        "original_name": "Ben O'Toole",
+        "popularity": 0.7629,
+        "profile_path": "/AwrcmZgIgBZCMU7PcVczarlo2VE.jpg",
+        "cast_id": 2,
+        "character": "Rex",
+        "credit_id": "5f2d6f2f0372640035856b76",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2785577,
+        "known_for_department": "Acting",
+        "name": "Meg Fraser",
+        "original_name": "Meg Fraser",
+        "popularity": 0.809,
+        "profile_path": "/rzMNsajma2lGnnUI3aF5vXoZE7D.jpg",
+        "cast_id": 3,
+        "character": "Alia",
+        "credit_id": "5f66ecf65c564e0033655f7d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1230362,
+        "known_for_department": "Acting",
+        "name": "Caroline Craig",
+        "original_name": "Caroline Craig",
+        "popularity": 0.9187,
+        "profile_path": "/5B3r9o9btuYWa5pO5pA6pDlSUpr.jpg",
+        "cast_id": 4,
+        "character": "Mother",
+        "credit_id": "5f66ed14a0b69000383dc183",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67119,
+        "known_for_department": "Acting",
+        "name": "Matthew Sunderland",
+        "original_name": "Matthew Sunderland",
+        "popularity": 1.0813,
+        "profile_path": "/l98RIqtlmOGaNpo1gnprS2cxqaw.jpg",
+        "cast_id": 5,
+        "character": "Father",
+        "credit_id": "5f66ed251b1f3c0039a8a9df",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1394427,
+        "known_for_department": "Acting",
+        "name": "Travis Jeffery",
+        "original_name": "Travis Jeffery",
+        "popularity": 1.1432,
+        "profile_path": "/picKz6F5ZNpZeDF1oRXHpSR8V8w.jpg",
+        "cast_id": 6,
+        "character": "Gael / Gideon",
+        "credit_id": "5f66ed43e18e3f003a0a89ed",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59114,
+        "known_for_department": "Acting",
+        "name": "Jack Finsterer",
+        "original_name": "Jack Finsterer",
+        "popularity": 0.7821,
+        "profile_path": "/eIhfmcEaw0fqCZujI7FTrrCYh55.jpg",
+        "cast_id": 7,
+        "character": "Uncle",
+        "credit_id": "5f66ed53a0b69000373a6482",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2785579,
+        "known_for_department": "Acting",
+        "name": "David Hill",
+        "original_name": "David Hill",
+        "popularity": 0.422,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Olli",
+        "credit_id": "5f66ed71c1ffbd0036cc99f2",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1348959,
+        "known_for_department": "Acting",
+        "name": "Joshua Brennan",
+        "original_name": "Joshua Brennan",
+        "popularity": 0.5359,
+        "profile_path": "/cGLxd8W5BvnkEHPSKCOMndMVCRi.jpg",
+        "cast_id": 9,
+        "character": "Pete",
+        "credit_id": "5f66ed825c564e00336563eb",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1632128,
+        "known_for_department": "Acting",
+        "name": "Ashlee Lollback",
+        "original_name": "Ashlee Lollback",
+        "popularity": 1.2383,
+        "profile_path": "/e6x9PaVwH1grohBXu2Uqn6NXB3T.jpg",
+        "cast_id": 10,
+        "character": "Maddy",
+        "credit_id": "5f66ed95945c200036e7edc5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1634440,
+        "known_for_department": "Acting",
+        "name": "Sophia Emberson-Bain",
+        "original_name": "Sophia Emberson-Bain",
+        "popularity": 0.4866,
+        "profile_path": "/2wYeNgiPfgs3lzd3JWW9aqfB2mD.jpg",
+        "cast_id": 11,
+        "character": "Olivia",
+        "credit_id": "5f66eda85a78840033b6688e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2360768,
+        "known_for_department": "Acting",
+        "name": "Ryan Tarran",
+        "original_name": "Ryan Tarran",
+        "popularity": 0.7555,
+        "profile_path": "/s7xTzieO8cbWSl7tg3UC8L9ko0O.jpg",
+        "cast_id": 12,
+        "character": "Demon",
+        "credit_id": "5f66edbbdbcade00371e15b8",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2636923,
+        "known_for_department": "Acting",
+        "name": "Scott George",
+        "original_name": "Scott George",
+        "popularity": 0.3996,
+        "profile_path": "/m0ZMTCLDfAn26QUVrJGp8NGWqkl.jpg",
+        "cast_id": 13,
+        "character": "Werewolf",
+        "credit_id": "5f66ee0e1b1f3c0038a72225",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2785584,
+        "known_for_department": "Acting",
+        "name": "Daniel Weaver",
+        "original_name": "Daniel Weaver",
+        "popularity": 0.4626,
+        "profile_path": "/qf0PrhzJ8dDfBq53ikRtIbmhGsH.jpg",
+        "cast_id": 14,
+        "character": "Gorilla",
+        "credit_id": "5f66ee89c1ffbd0033ca337c",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123540,
+        "known_for_department": "Acting",
+        "name": "Brad McMurray",
+        "original_name": "Brad McMurray",
+        "popularity": 0.7841,
+        "profile_path": "/bfsTsUwYajWlVPgkcY9QzrWuVbi.jpg",
+        "cast_id": 15,
+        "character": "Lizard",
+        "credit_id": "5f66eea01684f700395a06d6",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1533328,
+        "known_for_department": "Acting",
+        "name": "Sean Lynch",
+        "original_name": "Sean Lynch",
+        "popularity": 0.5744,
+        "profile_path": "/m8Q9SaYTWJ5iXLoS2E4zvcD4tQ1.jpg",
+        "cast_id": 16,
+        "character": "Ken King",
+        "credit_id": "5f66eec55c564e0035633f8e",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2388882,
+        "known_for_department": "Acting",
+        "name": "Sisi Stringer",
+        "original_name": "Sisi Stringer",
+        "popularity": 0.9748,
+        "profile_path": "/nVMftj8BSVuWZaLptYfsibw8eKi.jpg",
+        "cast_id": 24,
+        "character": "Cashier",
+        "credit_id": "5f8c385defd3c200393d6f37",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1457509,
+        "known_for_department": "Acting",
+        "name": "Charles Allen",
+        "original_name": "Charles Allen",
+        "popularity": 0.5772,
+        "profile_path": "/gVPFtWlef1tgT78t03MYMXXkB6J.jpg",
+        "cast_id": 28,
+        "character": "Prosecuting Attorney",
+        "credit_id": "65d3dfec967cc701636217fb",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3185680,
+        "known_for_department": "Acting",
+        "name": "Cameron Leonard",
+        "original_name": "Cameron Leonard",
+        "popularity": 0.3886,
+        "profile_path": "/8UnGV8Gt25T4loQwVrm3dTTZgD8.jpg",
+        "cast_id": 29,
+        "character": "Straggler",
+        "credit_id": "660043bf7f6c8d017c722500",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1465559,
+        "known_for_department": "Production",
+        "name": "Brett Thornquest",
+        "original_name": "Brett Thornquest",
+        "popularity": 0.66,
+        "profile_path": null,
+        "credit_id": "64ec846b45819900e353de77",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2364526,
+        "known_for_department": "Crew",
+        "name": "Michael Matthews",
+        "original_name": "Michael Matthews",
+        "popularity": 0.5448,
+        "profile_path": null,
+        "credit_id": "628b060c5cea182dce5bdbae",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1465560,
+        "known_for_department": "Production",
+        "name": "Steven Matusko",
+        "original_name": "Steven Matusko",
+        "popularity": 0.3927,
+        "profile_path": null,
+        "credit_id": "62bcf9d88b959e0062b486d0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59126,
+        "known_for_department": "Directing",
+        "name": "Alister Grierson",
+        "original_name": "Alister Grierson",
+        "popularity": 0.5477,
+        "profile_path": "/cpv4i4CI7hiZvCH3Eo5pqoxqR9J.jpg",
+        "credit_id": "5f2d6f0a037264003686ae24",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 979175,
+        "known_for_department": "Camera",
+        "name": "Brad Shield",
+        "original_name": "Brad Shield",
+        "popularity": 0.5303,
+        "profile_path": null,
+        "credit_id": "5f66f1bc5a78840034c2de3a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2263950,
+        "known_for_department": "Crew",
+        "name": "Robert Benjamin",
+        "original_name": "Robert Benjamin",
+        "popularity": 0.4079,
+        "profile_path": "/c46c0pJSqX4BRUsP51cLvJ3h7CP.jpg",
+        "credit_id": "5f66f1faa0b6900039376dbe",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61769,
+        "known_for_department": "Sound",
+        "name": "Brian Cachia",
+        "original_name": "Brian Cachia",
+        "popularity": 0.5159,
+        "profile_path": null,
+        "credit_id": "5f66f1aaf706de003297cbdd",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2263950,
+        "known_for_department": "Crew",
+        "name": "Robert Benjamin",
+        "original_name": "Robert Benjamin",
+        "popularity": 0.4079,
+        "profile_path": "/c46c0pJSqX4BRUsP51cLvJ3h7CP.jpg",
+        "credit_id": "5f66f1e71b1f3c0039a8b99c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59126,
+        "known_for_department": "Directing",
+        "name": "Alister Grierson",
+        "original_name": "Alister Grierson",
+        "popularity": 0.5477,
+        "profile_path": "/cpv4i4CI7hiZvCH3Eo5pqoxqR9J.jpg",
+        "credit_id": "5f66f21c84448e0037750c5f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29085,
+        "known_for_department": "Art",
+        "name": "Michael Rumpf",
+        "original_name": "Michael Rumpf",
+        "popularity": 0.4085,
+        "profile_path": null,
+        "credit_id": "5f66f231a0b69000383dde35",
+        "department": "Art",
+        "job": "Production Design"
+      }
+    ]
+  }
+}

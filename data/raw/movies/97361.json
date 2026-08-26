@@ -1,0 +1,417 @@
+{
+  "adult": false,
+  "backdrop_path": "/uRoJVOxSAdF6Zsa7XcrW0K2qey.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 97361,
+  "imdb_id": "tt0454435",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "D",
+  "overview": "Deshu, a mechanic from Dubai, comes home to Mumbai, and gets embroiled in a crime by accident. The film shows his meteoric rise from common, law-abiding man to underworld kingpin.",
+  "popularity": 0.8869,
+  "poster_path": "/lDL3RikOCwbH6qEUtVHr7HJ6PFy.jpg",
+  "production_companies": [
+    {
+      "id": 2320,
+      "logo_path": "/nSAXfUCy16cNRiPlBMHeb700t9p.png",
+      "name": "UTV Motion Pictures",
+      "origin_country": "IN"
+    },
+    {
+      "id": 3708,
+      "logo_path": null,
+      "name": "KSS Limited",
+      "origin_country": "IN"
+    },
+    {
+      "id": 17362,
+      "logo_path": null,
+      "name": "RGV Film Factory",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2005-06-03",
+  "revenue": 0,
+  "runtime": 107,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Underworld Badshah",
+  "title": "D",
+  "video": false,
+  "vote_average": 6.475,
+  "vote_count": 40,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6519,
+        "known_for_department": "Acting",
+        "name": "Randeep Hooda",
+        "original_name": "Randeep Hooda",
+        "popularity": 1.4375,
+        "profile_path": "/6Raio06bsLalCe4XDsknXxfDamV.jpg",
+        "cast_id": 10,
+        "character": "Deshu",
+        "credit_id": "52fe49dd9251416c750d5d55",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81983,
+        "known_for_department": "Acting",
+        "name": "Chunky Panday",
+        "original_name": "Chunky Pandey",
+        "popularity": 1.1138,
+        "profile_path": "/2dG7abdDNs3MVmrAa6HEBFKhch4.jpg",
+        "cast_id": 11,
+        "character": "Raghavv",
+        "credit_id": "52fe49dd9251416c750d5d59",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86890,
+        "known_for_department": "Acting",
+        "name": "Rukhsar Rehman",
+        "original_name": "Rukhsar Rehman",
+        "popularity": 0.6247,
+        "profile_path": "/4iRIgfCtBB2WZ5mhumrTiOA3dGK.jpg",
+        "cast_id": 12,
+        "character": "Bhakti Bhatnagar",
+        "credit_id": "52fe49dd9251416c750d5d5d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35795,
+        "known_for_department": "Acting",
+        "name": "Isha Koppikar",
+        "original_name": "Isha Koppikar",
+        "popularity": 1.1018,
+        "profile_path": "/yKxTrxQLc3acJdNG02YfFWXo36w.jpg",
+        "cast_id": 13,
+        "character": "Gunjan",
+        "credit_id": "52fe49dd9251416c750d5d61",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110707,
+        "known_for_department": "Acting",
+        "name": "Sushant Singh",
+        "original_name": "Sushant Singh",
+        "popularity": 0.6469,
+        "profile_path": "/cAXp9JphzW3E90OHhxyBB7JXyiO.jpg",
+        "cast_id": 15,
+        "character": "Muqarram",
+        "credit_id": "52fe49dd9251416c750d5d69",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86022,
+        "known_for_department": "Acting",
+        "name": "Yashpal Sharma",
+        "original_name": "Yashpal Sharma",
+        "popularity": 0.7261,
+        "profile_path": "/hYDZkMl6u3rM2cASabpHgrvA0mf.jpg",
+        "cast_id": 14,
+        "character": "Shabbir",
+        "credit_id": "52fe49dd9251416c750d5d65",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1013138,
+        "known_for_department": "Acting",
+        "name": "Goga Kapoor",
+        "original_name": "Goga Kapoor",
+        "popularity": 0.7274,
+        "profile_path": "/il7Csz0XZxdcaH4fyPTD0PLReYr.jpg",
+        "cast_id": 16,
+        "character": "Hashimbhai",
+        "credit_id": "52fe49dd9251416c750d5d6d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85656,
+        "known_for_department": "Acting",
+        "name": "Zakir Hussain",
+        "original_name": "Zakir Hussain",
+        "popularity": 1.1606,
+        "profile_path": "/etiL0ANjzBhTiyvUblZl6vwIog9.jpg",
+        "cast_id": 19,
+        "character": "Babban Bhai",
+        "credit_id": "59383c29c3a368538f000b35",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105443,
+        "known_for_department": "Acting",
+        "name": "Deepak Shirke",
+        "original_name": "Deepak Shirke",
+        "popularity": 0.8174,
+        "profile_path": "/eiPMYKXPjWEhOVzQ0KyNiEDkAes.jpg",
+        "cast_id": 20,
+        "character": "Qureshi",
+        "credit_id": "59383c49c3a368538f000b53",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35756,
+        "known_for_department": "Acting",
+        "name": "Rajpal Yadav",
+        "original_name": "राजपाल यादव",
+        "popularity": 1.388,
+        "profile_path": "/aJJAU9EPiiXRsWDuy60mXE8U6lT.jpg",
+        "cast_id": 21,
+        "character": "Dance Artist (uncredited)",
+        "credit_id": "59383c5ec3a36853ac000b66",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86245,
+        "known_for_department": "Acting",
+        "name": "Ishrat Ali",
+        "original_name": "Ishrat Ali",
+        "popularity": 0.9212,
+        "profile_path": "/tP8pNnCwpqQOWSoJ3RDQF0RUQlQ.jpg",
+        "cast_id": 22,
+        "character": "Tambe",
+        "credit_id": "59383caec3a368541f000999",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55070,
+        "known_for_department": "Acting",
+        "name": "Vrajesh Hirjee",
+        "original_name": "Vrajesh Hirjee",
+        "popularity": 1.0414,
+        "profile_path": "/sXqkMv81GLOh3HMRcRCJOTgJUET.jpg",
+        "cast_id": 23,
+        "character": "Mangli's goon (uncredited)",
+        "credit_id": "59383cc69251416a6d000a09",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1013136,
+        "known_for_department": "Editing",
+        "name": "Amit Parmar",
+        "original_name": "Amit Parmar",
+        "popularity": 0.3088,
+        "profile_path": null,
+        "credit_id": "52fe49dd9251416c750d5d4b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 229256,
+        "known_for_department": "Directing",
+        "name": "Vishram Sawant",
+        "original_name": "Vishram Sawant",
+        "popularity": 0.4935,
+        "profile_path": null,
+        "credit_id": "52fe49dd9251416c750d5d2d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53677,
+        "known_for_department": "Production",
+        "name": "Ronnie Screwvala",
+        "original_name": "Ronnie Screwvala",
+        "popularity": 0.6028,
+        "profile_path": "/yBlADqlWOXWAgDOt3RnBb51JgOu.jpg",
+        "credit_id": "52fe49dd9251416c750d5d33",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76813,
+        "known_for_department": "Directing",
+        "name": "Ram Gopal Varma",
+        "original_name": "Ram Gopal Varma",
+        "popularity": 0.8944,
+        "profile_path": "/sDUxXdz3RPeKISyfkMfR9iiphNH.jpg",
+        "credit_id": "52fe49dd9251416c750d5d73",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1013135,
+        "known_for_department": "Editing",
+        "name": "Nipun Gupta",
+        "original_name": "Nipun Gupta",
+        "popularity": 0.2932,
+        "profile_path": null,
+        "credit_id": "52fe49dd9251416c750d5d45",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2058565,
+        "known_for_department": "Production",
+        "name": "Tejaswita Desai",
+        "original_name": "Tejaswita Desai",
+        "popularity": 0.258,
+        "profile_path": null,
+        "credit_id": "5b1763760e0a262dcc022285",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1013137,
+        "known_for_department": "Camera",
+        "name": "Srikanth Naroj",
+        "original_name": "Srikanth Naroj",
+        "popularity": 0.3334,
+        "profile_path": null,
+        "credit_id": "5b176362c3a368534c01915e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2058581,
+        "known_for_department": "Production",
+        "name": "Shambu Aryal",
+        "original_name": "Shambu Aryal",
+        "popularity": 0.2438,
+        "profile_path": null,
+        "credit_id": "5b176c390e0a262de801e5db",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2058584,
+        "known_for_department": "Crew",
+        "name": "Harshal Vithal",
+        "original_name": "Harshal Vithal",
+        "popularity": 0.2018,
+        "profile_path": null,
+        "credit_id": "5b176c7d0e0a262dca02032c",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1013134,
+        "known_for_department": "Sound",
+        "name": "Nitin Raikwar",
+        "original_name": "Nitin Raikwar",
+        "popularity": 0.2948,
+        "profile_path": null,
+        "credit_id": "5b176c5a925141783b0209fc",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2058583,
+        "known_for_department": "Art",
+        "name": "Satish Chipkar",
+        "original_name": "Satish Chipkar",
+        "popularity": 0.258,
+        "profile_path": null,
+        "credit_id": "5b176c75c3a3685349023763",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1013132,
+        "known_for_department": "Writing",
+        "name": "Manish Gupta",
+        "original_name": "Manish Gupta",
+        "popularity": 0.7507,
+        "profile_path": "/20hw1T3GE7bNZQLN2b4k8vwBpoP.jpg",
+        "credit_id": "5b176c43c3a368532e01f4e7",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 984152,
+        "known_for_department": "Directing",
+        "name": "Vivek Shah",
+        "original_name": "Vivek Shah",
+        "popularity": 0.3007,
+        "profile_path": null,
+        "credit_id": "5b176cc7c3a368533002661e",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

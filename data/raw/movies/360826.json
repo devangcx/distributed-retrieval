@@ -1,0 +1,226 @@
+{
+  "adult": false,
+  "backdrop_path": "/xiC4rCAbFWaUGDqvgXFkaVeRcIh.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 360826,
+  "imdb_id": "tt4323504",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Jazbaa",
+  "overview": "After her daughter is kidnapped, a lawyer is forced to defend a criminal in exchange for her daughter's freedom.",
+  "popularity": 1.0986,
+  "poster_path": "/lasy6dL6VgII8EJzvCxNhNsneuS.jpg",
+  "production_companies": [
+    {
+      "id": 3839,
+      "logo_path": null,
+      "name": "White Feather Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2015-10-09",
+  "revenue": 0,
+  "runtime": 119,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Jazbaa",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 34,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 87773,
+        "known_for_department": "Acting",
+        "name": "Aishwarya Rai Bachchan",
+        "original_name": "ऐश्वर्या राय बच्चन",
+        "popularity": 3.0023,
+        "profile_path": "/59YeZ2zAoBfl3bnloriMyQkgwOK.jpg",
+        "cast_id": 0,
+        "character": "Anuradha Verma",
+        "credit_id": "560036b59251414e44000066",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76793,
+        "known_for_department": "Acting",
+        "name": "Irrfan Khan",
+        "original_name": "Irrfan Khan",
+        "popularity": 3.0512,
+        "profile_path": "/qkA9PpWJRw3rNjVkWfNZdwLvRZx.jpg",
+        "cast_id": 1,
+        "character": "Yohan",
+        "credit_id": "560036c59251414e5000005c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85672,
+        "known_for_department": "Acting",
+        "name": "Shabana Azmi",
+        "original_name": "शबाना आज़मी",
+        "popularity": 1.5329,
+        "profile_path": "/gy7DpFaZnpU4XOwBc8jhhE8rYYj.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "560036d89251414e4a000055",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 232537,
+        "known_for_department": "Acting",
+        "name": "Chandan Roy Sanyal",
+        "original_name": "Chandan Roy Sanyal",
+        "popularity": 0.9177,
+        "profile_path": "/2o94RaKbUOf0vlbmAbBDAIqp4qd.jpg",
+        "cast_id": 3,
+        "character": "Niyaaz Shaikh",
+        "credit_id": "560036eb9251414e4a000057",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86014,
+        "known_for_department": "Acting",
+        "name": "Jackie Shroff",
+        "original_name": "जय किशन श्राफ",
+        "popularity": 1.2969,
+        "profile_path": "/1UNJypgEyuihUW2avLLVYj76jie.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "560036f89251414e4d00006c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 579817,
+        "known_for_department": "Acting",
+        "name": "Sara Arjun",
+        "original_name": "Sara Arjun",
+        "popularity": 1.991,
+        "profile_path": "/uyZIlCL6xwWlor6JYSmIYUiPE7M.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "66cd18e0ae1070e50f9fe60b",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86782,
+        "known_for_department": "Writing",
+        "name": "Robin Bhatt",
+        "original_name": "Robin Bhatt",
+        "popularity": 0.9267,
+        "profile_path": null,
+        "credit_id": "5602027692514122be0007b2",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1770592,
+        "known_for_department": "Directing",
+        "name": "Sanjay Gupta",
+        "original_name": "Sanjay Gupta",
+        "popularity": 0.6562,
+        "profile_path": "/dzsC6TD3v0pHFzqfeAr6mNDp0AA.jpg",
+        "credit_id": "58bc6cf0c3a368668f037314",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1770592,
+        "known_for_department": "Directing",
+        "name": "Sanjay Gupta",
+        "original_name": "Sanjay Gupta",
+        "popularity": 0.6562,
+        "profile_path": "/dzsC6TD3v0pHFzqfeAr6mNDp0AA.jpg",
+        "credit_id": "58bc6cfa925141606b042c42",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3927834,
+        "known_for_department": "Sound",
+        "name": "DJ Viran",
+        "original_name": "DJ Viran",
+        "popularity": 0.3135,
+        "profile_path": null,
+        "credit_id": "63f0c6fca24c5000d4e33f39",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2274305,
+        "known_for_department": "Sound",
+        "name": "Asees Kaur",
+        "original_name": "Asees Kaur",
+        "popularity": 0.3842,
+        "profile_path": "/1X7QFxdngfToOqForoYPp7TjYEa.jpg",
+        "credit_id": "5c9a038892514139baf606a7",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2315636,
+        "known_for_department": "Sound",
+        "name": "Badshah",
+        "original_name": "Badshah",
+        "popularity": 0.4974,
+        "profile_path": "/kPYZ56EGciSLe9nMVn5UaAZqGHD.jpg",
+        "credit_id": "5d653582ad50f0044045018c",
+        "department": "Sound",
+        "job": "Playback Singer"
+      }
+    ]
+  }
+}

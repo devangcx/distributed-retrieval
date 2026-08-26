@@ -1,0 +1,446 @@
+{
+  "adult": false,
+  "backdrop_path": "/r72uEx8x2aFNygkr1cJeDIZJsbG.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 14830,
+  "imdb_id": "tt0910865",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Doctor Strange",
+  "overview": "Dr. Stephen Strange embarks on a wondrous journey to the heights of a Tibetan mountain, where he seeks healing at the feet of the mysterious Ancient One.",
+  "popularity": 3.2592,
+  "poster_path": "/7ygcpWXsWmEc83j7zE8P0lvC0Q.jpg",
+  "production_companies": [
+    {
+      "id": 102419,
+      "logo_path": null,
+      "name": "MLG Productions 4",
+      "origin_country": "US"
+    },
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    },
+    {
+      "id": 420,
+      "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+      "name": "Marvel Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2007-08-14",
+  "revenue": 0,
+  "runtime": 76,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Sorcerer Supreme.",
+  "title": "Doctor Strange",
+  "video": false,
+  "vote_average": 6.747,
+  "vote_count": 353,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65769,
+        "known_for_department": "Acting",
+        "name": "Bryce Johnson",
+        "original_name": "Bryce Johnson",
+        "popularity": 1.5063,
+        "profile_path": "/m27ITiYlBJ4biPS8dmZ9W5QOPZX.jpg",
+        "cast_id": 1,
+        "character": "Doctor Strange (voice)",
+        "credit_id": "52fe461e9251416c7506db07",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80122,
+        "known_for_department": "Acting",
+        "name": "Paul Nakauchi",
+        "original_name": "Paul Nakauchi",
+        "popularity": 0.7217,
+        "profile_path": "/oKBP7IPy3OdGGNePltjdPVaMd5x.jpg",
+        "cast_id": 2,
+        "character": "Wong (voice)",
+        "credit_id": "52fe461e9251416c7506db0b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24362,
+        "known_for_department": "Acting",
+        "name": "Kevin Michael Richardson",
+        "original_name": "Kevin Michael Richardson",
+        "popularity": 3.2234,
+        "profile_path": "/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg",
+        "cast_id": 3,
+        "character": "Mordo (voice)",
+        "credit_id": "52fe461e9251416c7506db0f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80123,
+        "known_for_department": "Acting",
+        "name": "Michael Yama",
+        "original_name": "Michael Yama",
+        "popularity": 0.7106,
+        "profile_path": "/1TaxJr5SkPg2EdWGcMRE59NpXEF.jpg",
+        "cast_id": 4,
+        "character": "Ancient One (voice)",
+        "credit_id": "52fe461e9251416c7506db13",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1310333,
+        "known_for_department": "Acting",
+        "name": "Susan Spano",
+        "original_name": "Susan Spano",
+        "popularity": 0.5173,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Dr. Gina Atwater (voice)",
+        "credit_id": "534da9600e0a2679e00006e4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13477,
+        "known_for_department": "Acting",
+        "name": "Jonathan Adams",
+        "original_name": "Jonathan Adams",
+        "popularity": 1.8641,
+        "profile_path": "/mkgyl2MciZ14wsYi6zedyj6hnR8.jpg",
+        "cast_id": 9,
+        "character": "Dormammu (voice)",
+        "credit_id": "534da9730e0a2679ee000690",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60279,
+        "known_for_department": "Acting",
+        "name": "Fred Tatasciore",
+        "original_name": "Fred Tatasciore",
+        "popularity": 2.5726,
+        "profile_path": "/xodxYKRC9mdvgquTdqpmYldliJ3.jpg",
+        "cast_id": 10,
+        "character": "Oliver / Doorman / Sorcerer / Additional Voices (voice)",
+        "credit_id": "534da97f0e0a2679d80006a8",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15762,
+        "known_for_department": "Acting",
+        "name": "Tara Strong",
+        "original_name": "Tara Strong",
+        "popularity": 3.8197,
+        "profile_path": "/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg",
+        "cast_id": 11,
+        "character": "April / Lucy / Additional Voices (voice)",
+        "credit_id": "534da98a0e0a2679e600073f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20903,
+        "known_for_department": "Acting",
+        "name": "Josh Keaton",
+        "original_name": "Josh Keaton",
+        "popularity": 1.6051,
+        "profile_path": "/9ss2EXbN0VarF1tM2Qotwxy6fJs.jpg",
+        "cast_id": 12,
+        "character": "Corey / Camille's Brother / Additional Voices (voice)",
+        "credit_id": "534da9970e0a2679eb000709",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31549,
+        "known_for_department": "Acting",
+        "name": "Phil LaMarr",
+        "original_name": "Phil LaMarr",
+        "popularity": 2.1106,
+        "profile_path": "/xP2kNlsmXtzXq0geutflO4K9mSE.jpg",
+        "cast_id": 13,
+        "character": "Miro / Additional Voices (voice)",
+        "credit_id": "534da9a40e0a2679d5000706",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 34520,
+        "known_for_department": "Acting",
+        "name": "Masasa Moyo",
+        "original_name": "Masasa Moyo",
+        "popularity": 0.7681,
+        "profile_path": "/9TvAkxkLGsnREVqzg7JRHtSVzZW.jpg",
+        "cast_id": 14,
+        "character": "Adena / Additional Voices (voice)",
+        "credit_id": "534da9ae0e0a2679eb00070c",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105643,
+        "known_for_department": "Directing",
+        "name": "Jay Oliva",
+        "original_name": "Jay Oliva",
+        "popularity": 1.3311,
+        "profile_path": "/y7EbnuoKFMvU7uZ4aD50jThyNoF.jpg",
+        "credit_id": "52fe461e9251416c7506db1f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87173,
+        "known_for_department": "Writing",
+        "name": "Craig Kyle",
+        "original_name": "Craig Kyle",
+        "popularity": 0.8686,
+        "profile_path": "/kXtY46kM9bS8AlTXC2rD4u58v58.jpg",
+        "credit_id": "534da9e20e0a2679d80006b6",
+        "department": "Writing",
+        "job": "Screenstory"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7624,
+        "known_for_department": "Writing",
+        "name": "Stan Lee",
+        "original_name": "Stan Lee",
+        "popularity": 5.5316,
+        "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg",
+        "credit_id": "534daace0e0a2679e300075c",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69664,
+        "known_for_department": "Production",
+        "name": "Eric S. Rollman",
+        "original_name": "Eric S. Rollman",
+        "popularity": 0.4017,
+        "profile_path": null,
+        "credit_id": "534daa1e0e0a2679dc00071f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87173,
+        "known_for_department": "Writing",
+        "name": "Craig Kyle",
+        "original_name": "Craig Kyle",
+        "popularity": 0.8686,
+        "profile_path": "/kXtY46kM9bS8AlTXC2rD4u58v58.jpg",
+        "credit_id": "534daa120e0a2679e00006f6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215939,
+        "known_for_department": "Writing",
+        "name": "Greg Johnson",
+        "original_name": "Greg Johnson",
+        "popularity": 0.886,
+        "profile_path": null,
+        "credit_id": "534da9cd0e0a2679e6000744",
+        "department": "Writing",
+        "job": "Screenstory"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215939,
+        "known_for_department": "Writing",
+        "name": "Greg Johnson",
+        "original_name": "Greg Johnson",
+        "popularity": 0.886,
+        "profile_path": null,
+        "credit_id": "534da9d70e0a2679e00006ef",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 142570,
+        "known_for_department": "Sound",
+        "name": "Guy Michelmore",
+        "original_name": "Guy Michelmore",
+        "popularity": 0.4262,
+        "profile_path": null,
+        "credit_id": "534daa2d0e0a2679e600074c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7625,
+        "known_for_department": "Writing",
+        "name": "Steve Ditko",
+        "original_name": "Steve Ditko",
+        "popularity": 2.1884,
+        "profile_path": "/sqPKdwqnnXymA0lxli7jP3Iwcjq.jpg",
+        "credit_id": "534daae00e0a2679d500071f",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1009838,
+        "known_for_department": "Editing",
+        "name": "George Rizkallah",
+        "original_name": "George Rizkallah",
+        "popularity": 0.376,
+        "profile_path": null,
+        "credit_id": "534daa420e0a2679eb000718",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35269,
+        "known_for_department": "Directing",
+        "name": "Dick Sebast",
+        "original_name": "Dick Sebast",
+        "popularity": 0.6686,
+        "profile_path": null,
+        "credit_id": "578f30979251412ec2004d37",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7624,
+        "known_for_department": "Writing",
+        "name": "Stan Lee",
+        "original_name": "Stan Lee",
+        "popularity": 5.5316,
+        "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg",
+        "credit_id": "5ab2f2c39251411bde0015ac",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2004522,
+        "known_for_department": "Production",
+        "name": "Ron Hohauser",
+        "original_name": "Ron Hohauser",
+        "popularity": 0.2816,
+        "profile_path": null,
+        "credit_id": "5ab2f2e50e0a267e6a001790",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 43094,
+        "known_for_department": "Production",
+        "name": "Ken Katsumoto",
+        "original_name": "Ken Katsumoto",
+        "popularity": 0.4633,
+        "profile_path": null,
+        "credit_id": "5ab2f29ac3a36863d3001333",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7626,
+        "known_for_department": "Production",
+        "name": "Avi Arad",
+        "original_name": "Avi Arad",
+        "popularity": 1.7534,
+        "profile_path": "/cxmqw0anGfxC7RwUNQj3EwhX9pP.jpg",
+        "credit_id": "5ab2f2b4c3a36863b10011b6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1242435,
+        "known_for_department": "Directing",
+        "name": "Patrick Archibald",
+        "original_name": "Patrick Archibald",
+        "popularity": 0.5731,
+        "profile_path": null,
+        "credit_id": "5adca7929251410acb01fcba",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

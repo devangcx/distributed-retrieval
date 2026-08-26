@@ -1,0 +1,464 @@
+{
+  "adult": false,
+  "backdrop_path": "/yeRhepqy1vN9JPs5YQZNz3zqrwY.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81029148",
+  "id": 897097,
+  "imdb_id": "tt15314640",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Cobalt Blue",
+  "overview": "When an aspiring author and his free-spirited sister both fall for the enigmatic paying guest at their home, ensuing events rock their traditional family.",
+  "popularity": 1.5992,
+  "poster_path": "/59CjIDHHvNyiinRwaSIouWnPNrY.jpg",
+  "production_companies": [
+    {
+      "id": 122918,
+      "logo_path": null,
+      "name": "Open Air Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2022-04-02",
+  "revenue": 0,
+  "runtime": 112,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    },
+    {
+      "english_name": "Marathi",
+      "iso_639_1": "mr",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "Love is a habit. The habit ends… you die.",
+  "title": "Cobalt Blue",
+  "video": false,
+  "vote_average": 5.956,
+  "vote_count": 34,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 126500,
+        "known_for_department": "Acting",
+        "name": "Prateik Smita Patil",
+        "original_name": "प्रतीक स्मिता पाटिल",
+        "popularity": 0.814,
+        "profile_path": "/uq71pp9TfXR9W6tDz6xIYf4H9TP.jpg",
+        "cast_id": 1,
+        "character": "Paying Guest",
+        "credit_id": "618e19d066a7c30043732c7c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3306321,
+        "known_for_department": "Acting",
+        "name": "Neelay Mehendale",
+        "original_name": "Neelay Mehendale",
+        "popularity": 0.3255,
+        "profile_path": "/e4CocMQQ9WASMjrFW70fL2UXT2f.jpg",
+        "cast_id": 2,
+        "character": "Tanay",
+        "credit_id": "618e19eae93e95006270a1fa",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2416813,
+        "known_for_department": "Acting",
+        "name": "Anjali Sivaraman",
+        "original_name": "Anjali Sivaraman",
+        "popularity": 0.8257,
+        "profile_path": "/3efawLGh2lcFuNDyDCd9vxXiMKs.jpg",
+        "cast_id": 3,
+        "character": "Anuja",
+        "credit_id": "618e1a0066a7c30043732cdb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2039294,
+        "known_for_department": "Acting",
+        "name": "Anant Joshi",
+        "original_name": "Anant Joshi",
+        "popularity": 1.1159,
+        "profile_path": "/jcYbmTJZolVfFknhulko7i2KHSL.jpg",
+        "cast_id": 4,
+        "character": "Aseem",
+        "credit_id": "618e1a40d55e4d00647c1aca",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1432496,
+        "known_for_department": "Acting",
+        "name": "Geetanjali Kulkarni",
+        "original_name": "Geetanjali Kulkarni",
+        "popularity": 1.0676,
+        "profile_path": "/mkv3E3JN2iHWBPch93xwmBLAlEh.jpg",
+        "cast_id": 7,
+        "character": "Sharada",
+        "credit_id": "618e1a60e93e95008e9e40fe",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239728,
+        "known_for_department": "Acting",
+        "name": "Shishir Sharma",
+        "original_name": "Shishir Sharma",
+        "popularity": 0.7664,
+        "profile_path": "/fNyJckJRkWhMassWL6YlkPMFfvK.jpg",
+        "cast_id": 5,
+        "character": "Vidyadhar",
+        "credit_id": "618e1a472cde9800627c472d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1332970,
+        "known_for_department": "Acting",
+        "name": "Poornima Indrajith",
+        "original_name": "Poornima Indrajith",
+        "popularity": 0.7598,
+        "profile_path": "/saMMFRY4XtypkotzfE07kvWD5q2.jpg",
+        "cast_id": 13,
+        "character": "Mary",
+        "credit_id": "624ff54fa055ef006556227c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 557212,
+        "known_for_department": "Acting",
+        "name": "Neil Bhoopalam",
+        "original_name": "Neil Bhoopalam",
+        "popularity": 0.9884,
+        "profile_path": "/zBSBeppHSFjuO5EmsUq5G2MdvMQ.jpg",
+        "cast_id": 6,
+        "character": "Professor",
+        "credit_id": "618e1a4f63e6fb004373fbd1",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1106960,
+        "known_for_department": "Writing",
+        "name": "Sachin Kundalkar",
+        "original_name": "Sachin Kundalkar",
+        "popularity": 0.3207,
+        "profile_path": null,
+        "credit_id": "624ff587a055ef004f647d68",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3497982,
+        "known_for_department": "Art",
+        "name": "Sanjeev Khandekar",
+        "original_name": "Sanjeev Khandekar",
+        "popularity": 0.2609,
+        "profile_path": null,
+        "credit_id": "624ff679fd630000a2fa9143",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1714260,
+        "known_for_department": "Production",
+        "name": "Nandini Shrikent",
+        "original_name": "Nandini Shrikent",
+        "popularity": 0.5716,
+        "profile_path": null,
+        "credit_id": "624ff63d447f9c009b1c65f0",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1714261,
+        "known_for_department": "Production",
+        "name": "Karan Mally",
+        "original_name": "Karan Mally",
+        "popularity": 0.3527,
+        "profile_path": null,
+        "credit_id": "624ff6315a07f50050f892f7",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3497980,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Amit Divekar",
+        "original_name": "Amit Divekar",
+        "popularity": 0.282,
+        "profile_path": null,
+        "credit_id": "624ff664fd630000a2fa9124",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1085906,
+        "known_for_department": "Editing",
+        "name": "Mohit Takalkar",
+        "original_name": "Mohit Takalkar",
+        "popularity": 0.5771,
+        "profile_path": "/yVTTQPU8SURdRupsbQiZnVXZaKS.jpg",
+        "credit_id": "624ff6c08a84d200a3028586",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3497977,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Kajol Kanther",
+        "original_name": "Kajol Kanther",
+        "popularity": 0.2059,
+        "profile_path": null,
+        "credit_id": "624ff60d383df2006485ef91",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2007867,
+        "known_for_department": "Sound",
+        "name": "Anita Kushwaha",
+        "original_name": "Anita Kushwahar",
+        "popularity": 0.3816,
+        "profile_path": null,
+        "credit_id": "624ff6a95a07f50065105149",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1562506,
+        "known_for_department": "Sound",
+        "name": "Clinton Cerejo",
+        "original_name": "Clinton Cerejo",
+        "popularity": 0.3794,
+        "profile_path": null,
+        "credit_id": "624ff6d3fd63000067f353c1",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1106960,
+        "known_for_department": "Writing",
+        "name": "Sachin Kundalkar",
+        "original_name": "Sachin Kundalkar",
+        "popularity": 0.3207,
+        "profile_path": null,
+        "credit_id": "624ff594a6c10400504bc6e8",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1690839,
+        "known_for_department": "Art",
+        "name": "Joseph Nellikkal",
+        "original_name": "Joseph Nellikkal",
+        "popularity": 0.2988,
+        "profile_path": null,
+        "credit_id": "624ff5b65a07f500990bc296",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3497975,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nusrat Abbas Rizwi",
+        "original_name": "Nusrat Abbas Rizwi",
+        "popularity": 0.2018,
+        "profile_path": null,
+        "credit_id": "624ff600a6c10400504bc783",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3497973,
+        "known_for_department": "Art",
+        "name": "Tushar Kharalkar",
+        "original_name": "Tushar Kharalkar",
+        "popularity": 0.2018,
+        "profile_path": null,
+        "credit_id": "624ff5e19d2b630050fd0aeb",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1410612,
+        "known_for_department": "Camera",
+        "name": "Vincenzo Condorelli",
+        "original_name": "Vincenzo Condorelli",
+        "popularity": 0.2898,
+        "profile_path": null,
+        "credit_id": "624ff6ee2f1be00050ff30e5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3497984,
+        "known_for_department": "Art",
+        "name": "Vaishali Narkar",
+        "original_name": "Vaishali Narkar",
+        "popularity": 0.2018,
+        "profile_path": null,
+        "credit_id": "624ff68ab6c264009c50fd6a",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2172609,
+        "known_for_department": "Production",
+        "name": "Priya Sreedharan",
+        "original_name": "Priya Sreedharan",
+        "popularity": 0.2789,
+        "profile_path": null,
+        "credit_id": "618e1a9966a7c30043732d5c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3306323,
+        "known_for_department": "Production",
+        "name": "Zulfaquar Torabi",
+        "original_name": "Zulfaquar Torabi",
+        "popularity": 0.2906,
+        "profile_path": null,
+        "credit_id": "618e1ab4d55e4d008ee68bae",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1106960,
+        "known_for_department": "Writing",
+        "name": "Sachin Kundalkar",
+        "original_name": "Sachin Kundalkar",
+        "popularity": 0.3207,
+        "profile_path": null,
+        "credit_id": "618e1a721c635b0065b8cf1e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2236176,
+        "known_for_department": "Production",
+        "name": "Wasim Khan",
+        "original_name": "Wasim Khan",
+        "popularity": 0.3034,
+        "profile_path": null,
+        "credit_id": "618e1abf5f2b8d008f933f45",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1106960,
+        "known_for_department": "Writing",
+        "name": "Sachin Kundalkar",
+        "original_name": "Sachin Kundalkar",
+        "popularity": 0.3207,
+        "profile_path": null,
+        "credit_id": "618e1a7d5f2b8d00428445b0",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4581906,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Trushala Nayak",
+        "original_name": "Trushala Nayak",
+        "popularity": 0.2062,
+        "profile_path": null,
+        "credit_id": "65ed2c29142ef1018d0b2b1b",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      }
+    ]
+  }
+}

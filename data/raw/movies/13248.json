@@ -1,0 +1,488 @@
+{
+  "adult": false,
+  "backdrop_path": "/mZbGLiSscsF2ipFt7su7gmSLn8l.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 13248,
+  "imdb_id": "tt0896522",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bah, Humduck!: A Looney Tunes Christmas",
+  "overview": "In this adaptation of Charles Dickens' A Christmas Carol, Daffy Duck is the greedy proprietor of the Lucky Duck Mega-Mart and all he can think about is the money to be made during the holiday season.",
+  "popularity": 2.7304,
+  "poster_path": "/f568JOtSlQoevRIDBKK3YIkHbvd.jpg",
+  "production_companies": [
+    {
+      "id": 2785,
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "name": "Warner Bros. Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2006-11-14",
+  "revenue": 0,
+  "runtime": 46,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Bah, Humduck!: A Looney Tunes Christmas",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 150,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86434,
+        "known_for_department": "Acting",
+        "name": "Joe Alaskey",
+        "original_name": "Joe Alaskey",
+        "popularity": 1.218,
+        "profile_path": "/bYC9pHuC8ownvMlEgWoMEwItsUu.jpg",
+        "cast_id": 2,
+        "character": "Daffy Duck / Sylvester the Cat / Marvin the Martian / Pepe Le Pew / Foghorn Leghorn (voice)",
+        "credit_id": "52fe45519251416c750527d5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78317,
+        "known_for_department": "Acting",
+        "name": "Bob Bergen",
+        "original_name": "Bob Bergen",
+        "popularity": 1.5378,
+        "profile_path": "/soDD1xiV3zVQWOJzVdJwfgIqzfe.jpg",
+        "cast_id": 3,
+        "character": "Porky Pig / Speedy Gonzales / Tweety Bird (voice)",
+        "credit_id": "52fe45519251416c750527d9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23679,
+        "known_for_department": "Acting",
+        "name": "Billy West",
+        "original_name": "Billy West",
+        "popularity": 1.8618,
+        "profile_path": "/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg",
+        "cast_id": 11,
+        "character": "Bugs Bunny / Elmer Fudd (voice)",
+        "credit_id": "57e57a16925141414c000ef9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15098,
+        "known_for_department": "Acting",
+        "name": "June Foray",
+        "original_name": "June Foray",
+        "popularity": 1.6789,
+        "profile_path": "/6s5sWcOPGtVdbMFtZwkWadArj2I.jpg",
+        "cast_id": 7,
+        "character": "Granny (voice)",
+        "credit_id": "567a81cdc3a3685bdf002031",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34521,
+        "known_for_department": "Acting",
+        "name": "Maurice LaMarche",
+        "original_name": "Maurice LaMarche",
+        "popularity": 1.9489,
+        "profile_path": "/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg",
+        "cast_id": 8,
+        "character": "Yosemite Sam (voice)",
+        "credit_id": "567a81cdc3a3685bc3002065",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12077,
+        "known_for_department": "Acting",
+        "name": "Jim Cummings",
+        "original_name": "Jim Cummings",
+        "popularity": 2.8563,
+        "profile_path": "/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg",
+        "cast_id": 9,
+        "character": "Tasmanian Devil / Gossamer (voice)",
+        "credit_id": "567a81ce92514106f9002010",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15762,
+        "known_for_department": "Acting",
+        "name": "Tara Strong",
+        "original_name": "Tara Strong",
+        "popularity": 3.8197,
+        "profile_path": "/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg",
+        "cast_id": 10,
+        "character": "Priscilla Pig / House Mother (voice)",
+        "credit_id": "567a81cec3a3685bbc00218a",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 175459,
+        "known_for_department": "Directing",
+        "name": "Charles Visser",
+        "original_name": "Charles Visser",
+        "popularity": 0.4808,
+        "profile_path": null,
+        "credit_id": "52fe45519251416c750527d1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 226013,
+        "known_for_department": "Art",
+        "name": "Toby Bluth",
+        "original_name": "Toby Bluth",
+        "popularity": 0.5727,
+        "profile_path": null,
+        "credit_id": "54f7a066c3a36834a20028bb",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1460439,
+        "known_for_department": "Visual Effects",
+        "name": "Scott T. Petersen",
+        "original_name": "Scott T. Petersen",
+        "popularity": 0.4952,
+        "profile_path": null,
+        "credit_id": "553fdd7a9251417b1a000157",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 34945,
+        "known_for_department": "Production",
+        "name": "Andrea Romano",
+        "original_name": "Andrea Romano",
+        "popularity": 0.5725,
+        "profile_path": "/6WeW7uCKJNK5pVtHmJg5odVZH4u.jpg",
+        "credit_id": "638f7bf804733f00a0ba8b85",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 81655,
+        "known_for_department": "Editing",
+        "name": "Rob Desales",
+        "original_name": "Rob Desales",
+        "popularity": 0.3707,
+        "profile_path": null,
+        "credit_id": "638f7c25ca0e1700871aea6c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1775961,
+        "known_for_department": "Sound",
+        "name": "Gordon Goodwin",
+        "original_name": "Gordon Goodwin",
+        "popularity": 0.3564,
+        "profile_path": null,
+        "credit_id": "638f7c09ca0e1700871aea57",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2719237,
+        "known_for_department": "Writing",
+        "name": "Ray DeLaurentis",
+        "original_name": "Ray DeLaurentis",
+        "popularity": 0.7816,
+        "profile_path": "/bxOmx9MZ3NnnlRkgJLQdx23cmTl.jpg",
+        "credit_id": "638f7c395800c400834503b4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 555773,
+        "known_for_department": "Production",
+        "name": "Sander Schwartz",
+        "original_name": "Sander Schwartz",
+        "popularity": 0.5403,
+        "profile_path": null,
+        "credit_id": "6752a4dff043bd8a60274919",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 129722,
+        "known_for_department": "Production",
+        "name": "Bobbie Page",
+        "original_name": "Bobbie Page",
+        "popularity": 0.5543,
+        "profile_path": null,
+        "credit_id": "6752a4f5fa107dc4ed404afd",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1262438,
+        "known_for_department": "Directing",
+        "name": "Frank Molieri",
+        "original_name": "Frank Molieri",
+        "popularity": 0.4799,
+        "profile_path": null,
+        "credit_id": "6752a55280e5b8f0a7562c5a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1176752,
+        "known_for_department": "Visual Effects",
+        "name": "Dan Haskett",
+        "original_name": "Dan Haskett",
+        "popularity": 0.67,
+        "profile_path": null,
+        "credit_id": "6752a5d8b1eaa5c891daeee2",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2738002,
+        "known_for_department": "Visual Effects",
+        "name": "Dave Bennett",
+        "original_name": "Dave Bennett",
+        "popularity": 0.2858,
+        "profile_path": null,
+        "credit_id": "6752a5f572d1a8a59c29a3a6",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1447459,
+        "known_for_department": "Visual Effects",
+        "name": "Roberto Casale",
+        "original_name": "Roberto Casale",
+        "popularity": 0.5232,
+        "profile_path": null,
+        "credit_id": "6752a601fa107dc4ed404b52",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3305722,
+        "known_for_department": "Visual Effects",
+        "name": "Julian Chaney",
+        "original_name": "Julian Chaney",
+        "popularity": 0.3609,
+        "profile_path": null,
+        "credit_id": "6752a60d8e033e9136dc7d8b",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3798710,
+        "known_for_department": "Directing",
+        "name": "Mario D'Anna Jr.",
+        "original_name": "Mario D'Anna Jr.",
+        "popularity": 0.4156,
+        "profile_path": null,
+        "credit_id": "6752a6e8f043bd8a602749ef",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5101840,
+        "known_for_department": "Art",
+        "name": "Karenia Kaminski",
+        "original_name": "Karenia Kaminski",
+        "popularity": 0.2089,
+        "profile_path": null,
+        "credit_id": "6752a92072d1a8a59c29a52d",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147702,
+        "known_for_department": "Directing",
+        "name": "Douglas McCarthy",
+        "original_name": "Douglas McCarthy",
+        "popularity": 0.7381,
+        "profile_path": null,
+        "credit_id": "6752a92c0e8c237986a906f2",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34927,
+        "known_for_department": "Directing",
+        "name": "Tim Maltby",
+        "original_name": "Tim Maltby",
+        "popularity": 0.659,
+        "profile_path": null,
+        "credit_id": "6752a9360e8c237986a906fd",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1730456,
+        "known_for_department": "Art",
+        "name": "Brian Mitchell",
+        "original_name": "Brian Mitchell",
+        "popularity": 0.4895,
+        "profile_path": null,
+        "credit_id": "6752a94480e5b8f0a7562ef6",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3585564,
+        "known_for_department": "Writing",
+        "name": "Norma Rivera",
+        "original_name": "Norma Rivera",
+        "popularity": 0.3248,
+        "profile_path": null,
+        "credit_id": "6752a953871a42c9c2452976",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1653765,
+        "known_for_department": "Art",
+        "name": "Lyndon Ruddy",
+        "original_name": "Lyndon Ruddy",
+        "popularity": 0.4661,
+        "profile_path": null,
+        "credit_id": "6752a962f043bd8a60274b11",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 175459,
+        "known_for_department": "Directing",
+        "name": "Charles Visser",
+        "original_name": "Charles Visser",
+        "popularity": 0.4808,
+        "profile_path": null,
+        "credit_id": "6752a96a8e033e9136dc7eb8",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4796482,
+        "known_for_department": "Visual Effects",
+        "name": "Bill Waldman",
+        "original_name": "Bill Waldman",
+        "popularity": 0.257,
+        "profile_path": null,
+        "credit_id": "6752a9738e033e9136dc7ebd",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1262438,
+        "known_for_department": "Directing",
+        "name": "Frank Molieri",
+        "original_name": "Frank Molieri",
+        "popularity": 0.4799,
+        "profile_path": null,
+        "credit_id": "6752a9cd1234b99a94740195",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      }
+    ]
+  }
+}

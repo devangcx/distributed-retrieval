@@ -1,0 +1,408 @@
+{
+  "adult": false,
+  "backdrop_path": "/cBRDacpg1Q6ZOKSxrOhhgkKx9NI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81712178",
+  "id": 1426306,
+  "imdb_id": "tt35628853",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Titan: The OceanGate Submersible Disaster",
+  "overview": "OceanGate's Titan tourist submersible imploded in 2023 on a deep-sea dive to the Titanic. This documentary details how a bold vision ended in tragedy.",
+  "popularity": 5.6421,
+  "poster_path": "/mSVJI9P5UmvOLZVTH8sAtlgxsgy.jpg",
+  "production_companies": [
+    {
+      "id": 136480,
+      "logo_path": "/5fLrloYGsWbdxS0HMmetiyZJ0Tw.png",
+      "name": "Story Syndicate",
+      "origin_country": "US"
+    },
+    {
+      "id": 4183,
+      "logo_path": "/bPOaJehJ43bEq1sip5jE1G53IEE.png",
+      "name": "Diamond Docs",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-06-06",
+  "revenue": 0,
+  "runtime": 112,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The deeper you look, the darker it gets.",
+  "title": "Titan: The OceanGate Submersible Disaster",
+  "video": false,
+  "vote_average": 7.061,
+  "vote_count": 187,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4549437,
+        "known_for_department": "Acting",
+        "name": "Stockton Rush",
+        "original_name": "Stockton Rush",
+        "popularity": 0.3568,
+        "profile_path": "/rp6KnJi633cT02NeFaXo822mVpp.jpg",
+        "cast_id": 28,
+        "character": "Self",
+        "credit_id": "696f0e510c46a81fa5caec83",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5502625,
+        "known_for_department": "Acting",
+        "name": "Emily Hammermeister",
+        "original_name": "Emily Hammermeister",
+        "popularity": 0.2456,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Self",
+        "credit_id": "684c2d9d8b5d3f30e1bb4679",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5502628,
+        "known_for_department": "Acting",
+        "name": "David Lochridge",
+        "original_name": "David Lochridge",
+        "popularity": 0.2482,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Self",
+        "credit_id": "684c2e1026f0afc2351be84a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5502630,
+        "known_for_department": "Acting",
+        "name": "Tony Nissen",
+        "original_name": "Tony Nissen",
+        "popularity": 0.2758,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Self",
+        "credit_id": "684c2e4065bf58234d3fdd91",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5502634,
+        "known_for_department": "Acting",
+        "name": "Jason Neubauer",
+        "original_name": "Jason Neubauer",
+        "popularity": 0.3248,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Self",
+        "credit_id": "684c2e832479c24073294317",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5502636,
+        "known_for_department": "Acting",
+        "name": "Joseph Assi",
+        "original_name": "Joseph Assi",
+        "popularity": 0.314,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Self",
+        "credit_id": "684c2ec3b1d362cf68b0d987",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5502642,
+        "known_for_department": "Acting",
+        "name": "Bonnie Carl",
+        "original_name": "Bonnie Carl",
+        "popularity": 0.2365,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Self",
+        "credit_id": "684c2f35ef546c95c52944f6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1245962,
+        "known_for_department": "Acting",
+        "name": "David Pogue",
+        "original_name": "David Pogue",
+        "popularity": 0.8036,
+        "profile_path": "/h8VsU0aoMZv4DQioaCeBSDLIKsb.jpg",
+        "cast_id": 27,
+        "character": "Self",
+        "credit_id": "689430af63d7ff7d2607c431",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94816,
+        "known_for_department": "Writing",
+        "name": "Mark Monroe",
+        "original_name": "Mark Monroe",
+        "popularity": 0.9684,
+        "profile_path": "/pNqFadHJzvaTrfY1iiuYR31v4Sw.jpg",
+        "credit_id": "679b883a900525249afbd6fc",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94816,
+        "known_for_department": "Writing",
+        "name": "Mark Monroe",
+        "original_name": "Mark Monroe",
+        "popularity": 0.9684,
+        "profile_path": "/pNqFadHJzvaTrfY1iiuYR31v4Sw.jpg",
+        "credit_id": "679b884a819ed2eab03455e1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2427303,
+        "known_for_department": "Production",
+        "name": "Jon Bardin",
+        "original_name": "Jon Bardin",
+        "popularity": 0.5712,
+        "profile_path": "/e4Rc1sH7k3I2QzghXGWv2nCosj1.jpg",
+        "credit_id": "679b8856900525249afbd708",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3704043,
+        "known_for_department": "Production",
+        "name": "Lily Garrison",
+        "original_name": "Lily Garrison",
+        "popularity": 0.2726,
+        "profile_path": null,
+        "credit_id": "679b8860819ed2eab03455ef",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 96199,
+        "known_for_department": "Directing",
+        "name": "Liz Garbus",
+        "original_name": "Liz Garbus",
+        "popularity": 0.7135,
+        "profile_path": "/8iMNA3Wqx3wbDwojoYJknXAwLk8.jpg",
+        "credit_id": "679b886a819ed2eab03455f8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1001668,
+        "known_for_department": "Production",
+        "name": "Dan Cogan",
+        "original_name": "Dan Cogan",
+        "popularity": 0.6969,
+        "profile_path": "/bmeQ9JniM3nYWUaa7GVqs6cfZBh.jpg",
+        "credit_id": "679b8874c35721885a346030",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2095231,
+        "known_for_department": "Production",
+        "name": "Amy Herdy",
+        "original_name": "Amy Herdy",
+        "popularity": 0.5374,
+        "profile_path": null,
+        "credit_id": "679b887e900525249afbd710",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2225018,
+        "known_for_department": "Production",
+        "name": "Kate Barry",
+        "original_name": "Kate Barry",
+        "popularity": 0.4764,
+        "profile_path": "/qCW4DjuUJusoL7c6Fk8MyvYMOit.jpg",
+        "credit_id": "679b888e365867535abd8936",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1248974,
+        "known_for_department": "Production",
+        "name": "Mala Chapple",
+        "original_name": "Mala Chapple",
+        "popularity": 0.3813,
+        "profile_path": "/fQpXEQd4fS3Dz78c3uvuRczavI1.jpg",
+        "credit_id": "679b88984448da3d2abd8dc9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105374,
+        "known_for_department": "Acting",
+        "name": "Jude Gerard Prest",
+        "original_name": "Jude Gerard Prest",
+        "popularity": 0.4284,
+        "profile_path": null,
+        "credit_id": "679b88aa900525249afbd723",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2424495,
+        "known_for_department": "Production",
+        "name": "Tommy Coriale",
+        "original_name": "Tommy Coriale",
+        "popularity": 0.351,
+        "profile_path": null,
+        "credit_id": "679b88b8819ed2eab034561c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2648649,
+        "known_for_department": "Production",
+        "name": "Noah Broch",
+        "original_name": "Noah Broch",
+        "popularity": 0.2925,
+        "profile_path": null,
+        "credit_id": "68004ab2d645e41e099989fc",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1782146,
+        "known_for_department": "Editing",
+        "name": "James Leche",
+        "original_name": "James Leche",
+        "popularity": 0.4926,
+        "profile_path": null,
+        "credit_id": "68004abcef5ae687cbd9bc75",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1731972,
+        "known_for_department": "Camera",
+        "name": "Jake Swantko",
+        "original_name": "Jake Swantko",
+        "popularity": 0.2921,
+        "profile_path": null,
+        "credit_id": "68004ac461b1c4bb3299ca61",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2492220,
+        "known_for_department": "Sound",
+        "name": "Andrew Skeet",
+        "original_name": "Andrew Skeet",
+        "popularity": 0.4365,
+        "profile_path": null,
+        "credit_id": "68004ad2ef5ae687cbd9bc7b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2779169,
+        "known_for_department": "Sound",
+        "name": "Nathan Klein",
+        "original_name": "Nathan Klein",
+        "popularity": 0.5471,
+        "profile_path": null,
+        "credit_id": "68004adac77fd1df74ad10d3",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2095413,
+        "known_for_department": "Production",
+        "name": "Hannah Olson",
+        "original_name": "Hannah Olson",
+        "popularity": 0.6148,
+        "profile_path": "/2juSqEDIDwad5FPBK53JmNly2Rx.jpg",
+        "credit_id": "6837a480b549f0d27da87ba3",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

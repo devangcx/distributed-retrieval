@@ -1,0 +1,446 @@
+{
+  "adult": false,
+  "backdrop_path": "/7eccX0xay9pDj6ZQvU4cu3whw18.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 1003579,
+  "imdb_id": "tt24223450",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Batman: The Doom That Came to Gotham",
+  "overview": "Explorer Bruce Wayne accidentally unleashes an ancient evil, and returns to Gotham after being away for two decades. There, Batman battles Lovecraftian supernatural forces and encounters allies and enemies such as Green Arrow, Ra's al Ghul, Mr. Freeze, Killer Croc, Two-Face and James Gordon.",
+  "popularity": 4.2343,
+  "poster_path": "/sKWN5ZzDxnfVixUavs09HfBCCA3.jpg",
+  "production_companies": [
+    {
+      "id": 2785,
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "name": "Warner Bros. Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 429,
+      "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
+      "name": "DC",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-03-10",
+  "revenue": 0,
+  "runtime": 86,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In a city forever in darkness, an ancient horror awakens.",
+  "title": "Batman: The Doom That Came to Gotham",
+  "video": false,
+  "vote_average": 6.681,
+  "vote_count": 270,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 206757,
+        "known_for_department": "Acting",
+        "name": "David Giuntoli",
+        "original_name": "David Giuntoli",
+        "popularity": 3.0003,
+        "profile_path": "/tMuuIilbbhyubO44kEuHnExa2qY.jpg",
+        "cast_id": 13,
+        "character": "Batman / Bruce Wayne (voice)",
+        "credit_id": "639152c0b9a0bd008451c286",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58791,
+        "known_for_department": "Acting",
+        "name": "Patrick Fabian",
+        "original_name": "Patrick Fabian",
+        "popularity": 3.6575,
+        "profile_path": "/bbsYGlnvGUTTExcabKL1OIhcKyZ.jpg",
+        "cast_id": 2,
+        "character": "Harvey Dent / Two-Face (voice)",
+        "credit_id": "639150adb9a0bd008451c148",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31531,
+        "known_for_department": "Acting",
+        "name": "John DiMaggio",
+        "original_name": "John DiMaggio",
+        "popularity": 3.2614,
+        "profile_path": "/qcbQe71nSlULDsP1OxTqltEKFbl.jpg",
+        "cast_id": 16,
+        "character": "James Gordon (voice)",
+        "credit_id": "63915308b9a0bd009ba9a5f9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111923,
+        "known_for_department": "Acting",
+        "name": "Karan Brar",
+        "original_name": "Karan Brar",
+        "popularity": 2.2319,
+        "profile_path": "/iaFqMqxRvT36cr8gSd3ivLBIo2S.jpg",
+        "cast_id": 3,
+        "character": "Sanjay 'Jay' Tawde (voice)",
+        "credit_id": "6391510064765400aa231fe3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 103330,
+        "known_for_department": "Acting",
+        "name": "Navid Negahban",
+        "original_name": "Navid Negahban",
+        "popularity": 2.2718,
+        "profile_path": "/pWi5tINf4mDvTYbNKZDJPODYKra.jpg",
+        "cast_id": 5,
+        "character": "Ra's al Ghul (voice)",
+        "credit_id": "6391513eb9a0bd00effd12c7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1352628,
+        "known_for_department": "Acting",
+        "name": "Darin De Paul",
+        "original_name": "Darin De Paul",
+        "popularity": 0.9886,
+        "profile_path": "/vGzewVsLWtXyEU7X3iNdjWEd6y9.jpg",
+        "cast_id": 12,
+        "character": "Thomas Wayne (voice)",
+        "credit_id": "6391523cd556970094072ebc",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1480477,
+        "known_for_department": "Acting",
+        "name": "Emily O'Brien",
+        "original_name": "Emily O'Brien",
+        "popularity": 1.093,
+        "profile_path": "/oL1EY7DgK7Si3Db7mvQiNN2r2Zy.jpg",
+        "cast_id": 6,
+        "character": "Talia al Ghul / Martha Wayne (voice)",
+        "credit_id": "6391517e7d5504009684aad0",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53761,
+        "known_for_department": "Acting",
+        "name": "Christopher Gorham",
+        "original_name": "Christopher Gorham",
+        "popularity": 2.421,
+        "profile_path": "/dKFXHJ3KBJaeQ50udMdBEC0VFvI.jpg",
+        "cast_id": 15,
+        "character": "Oliver Queen / Green Arrow (voice)",
+        "credit_id": "639152f6b9a0bd008c40793e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83854,
+        "known_for_department": "Acting",
+        "name": "David Dastmalchian",
+        "original_name": "David Dastmalchian",
+        "popularity": 2.6803,
+        "profile_path": "/nER1Vzhk51pGHb60KBF1Ja5tEXA.jpg",
+        "cast_id": 4,
+        "character": "Grendon (voice)",
+        "credit_id": "639151217d550400a2e7b101",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55538,
+        "known_for_department": "Acting",
+        "name": "Tim Russ",
+        "original_name": "Tim Russ",
+        "popularity": 1.3452,
+        "profile_path": "/pwCVxvFbkUnBr46pPFJLabNMHww.jpg",
+        "cast_id": 7,
+        "character": "Lucius Fox (voice)",
+        "credit_id": "639151a57d5504009684aaec",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1662744,
+        "known_for_department": "Acting",
+        "name": "Matthew Waterson",
+        "original_name": "Matthew Waterson",
+        "popularity": 0.8613,
+        "profile_path": "/eqL4KlMVQrL5yZrF1YDXKz5gHIj.jpg",
+        "cast_id": 8,
+        "character": "Jason Blood / Etrigan (voice)",
+        "credit_id": "639151d5b9a0bd00c3fdf8c5",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27993,
+        "known_for_department": "Acting",
+        "name": "Jeffrey Combs",
+        "original_name": "Jeffrey Combs",
+        "popularity": 2.1446,
+        "profile_path": "/dfWcxKNsyGuN18GjWkbOmMhO4c9.jpg",
+        "cast_id": 9,
+        "character": "Kirk Langstrom (voice)",
+        "credit_id": "639151f5b9a0bd009ba9a552",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215264,
+        "known_for_department": "Acting",
+        "name": "William Salyers",
+        "original_name": "William Salyers",
+        "popularity": 1.4728,
+        "profile_path": "/lB1R4NwWAlBnWkYCJdOrVDq92H2.jpg",
+        "cast_id": 10,
+        "character": "Cobblepot / Professor Manfurd (voice)",
+        "credit_id": "6391520e04863800fbd71309",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1803286,
+        "known_for_department": "Acting",
+        "name": "Gideon Adlon",
+        "original_name": "Gideon Adlon",
+        "popularity": 2.1478,
+        "profile_path": "/l8BSlg87Mn75n28P2aXzot6G0pi.jpg",
+        "cast_id": 11,
+        "character": "Oracle / Poison Ivy (voice)",
+        "credit_id": "6391522504863800ca161b5b",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1859934,
+        "known_for_department": "Acting",
+        "name": "Tati Gabrielle",
+        "original_name": "Tati Gabrielle",
+        "popularity": 3.0759,
+        "profile_path": "/txZTL1HkPVxliTilbjlwR51VIt6.jpg",
+        "cast_id": 14,
+        "character": "Kai Li Cain (voice)",
+        "credit_id": "639152d718864b00ae207340",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61983,
+        "known_for_department": "Acting",
+        "name": "Jason Marsden",
+        "original_name": "Jason Marsden",
+        "popularity": 2.0641,
+        "profile_path": "/68kkcU88K9vS6Rrw2ysfe2zFwZ0.jpg",
+        "cast_id": 17,
+        "character": "Dick Grayson / Young Bruce Wayne (voice)",
+        "credit_id": "6391531e64765400ce23f128",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58511,
+        "known_for_department": "Acting",
+        "name": "Brian George",
+        "original_name": "Brian George",
+        "popularity": 1.7993,
+        "profile_path": "/mHjc58pfKkxtghhliPOnNz0SlcT.jpg",
+        "cast_id": 18,
+        "character": "Alfred Pennyworth (voice)",
+        "credit_id": "6391534a594c9400e5fd917f",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66266,
+        "known_for_department": "Writing",
+        "name": "Mike Mignola",
+        "original_name": "Mike Mignola",
+        "popularity": 0.71,
+        "profile_path": "/cCYHC9bpVv8tfEzQ2dqlEEGOjX0.jpg",
+        "credit_id": "62dcad3f2866fa00c5d97ac6",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90367,
+        "known_for_department": "Directing",
+        "name": "Sam Liu",
+        "original_name": "Sam Liu",
+        "popularity": 1.1827,
+        "profile_path": "/3u01dPeS4Us9sUFzwS8DzjA3udr.jpg",
+        "credit_id": "63915460048638007de4406f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1776009,
+        "known_for_department": "Writing",
+        "name": "Jase Ricci",
+        "original_name": "Jase Ricci",
+        "popularity": 0.8731,
+        "profile_path": null,
+        "credit_id": "6391548ab9a0bd008451c35a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90367,
+        "known_for_department": "Directing",
+        "name": "Sam Liu",
+        "original_name": "Sam Liu",
+        "popularity": 1.1827,
+        "profile_path": "/3u01dPeS4Us9sUFzwS8DzjA3udr.jpg",
+        "credit_id": "6391690d7d550400a2e7bc77",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 209181,
+        "known_for_department": "Directing",
+        "name": "Christopher Berkeley",
+        "original_name": "Christopher Berkeley",
+        "popularity": 0.7733,
+        "profile_path": "/emLQWuFQDHeT8TkwFedyte4ACEv.jpg",
+        "credit_id": "6391546e04863800843ed7fb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1996899,
+        "known_for_department": "Production",
+        "name": "Kimberly S. Moreau",
+        "original_name": "Kimberly S. Moreau",
+        "popularity": 0.4379,
+        "profile_path": null,
+        "credit_id": "639154da6476540084d5f21d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141043,
+        "known_for_department": "Production",
+        "name": "Sam Register",
+        "original_name": "Sam Register",
+        "popularity": 1.1426,
+        "profile_path": "/rCJa4fFOi3CcOGjljzn06XliSsz.jpg",
+        "credit_id": "639154f97d550401054bef1d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150856,
+        "known_for_department": "Writing",
+        "name": "Jim Krieg",
+        "original_name": "Jim Krieg",
+        "popularity": 1.4069,
+        "profile_path": null,
+        "credit_id": "639154c204863800843ed838",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10949,
+        "known_for_department": "Production",
+        "name": "Michael Uslan",
+        "original_name": "Michael Uslan",
+        "popularity": 0.7986,
+        "profile_path": "/cXiiH0SSk5UHCvHOVAhHX7tNuls.jpg",
+        "credit_id": "639155086476540084d5f23c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3154701,
+        "known_for_department": "Crew",
+        "name": "Chris Samnee",
+        "original_name": "Chris Samnee",
+        "popularity": 0.3715,
+        "profile_path": null,
+        "credit_id": "69fabc200ebe3b2cfeec8168",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      }
+    ]
+  }
+}

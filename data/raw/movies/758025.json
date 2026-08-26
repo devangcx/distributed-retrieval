@@ -1,0 +1,295 @@
+{
+  "adult": false,
+  "backdrop_path": "/qG5A6fWoP5inQa16VadLDiB1mlb.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 758025,
+  "imdb_id": "tt11107678",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Peter's To-Do List",
+  "overview": "On the eve of his departure to Europe, Peter Parker tells Ned Leeds that he has several things to do before they leave.",
+  "popularity": 3.0595,
+  "poster_path": "/9OOhqOVo37DQnQ6OUPz0Qlek5Uv.jpg",
+  "production_companies": [
+    {
+      "id": 420,
+      "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+      "name": "Marvel Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 84041,
+      "logo_path": "/nw4kyc29QRpNtFbdsBHkRSFavvt.png",
+      "name": "Pascal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-09-17",
+  "revenue": 0,
+  "runtime": 4,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Peter's To-Do List",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 105,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1136406,
+        "known_for_department": "Acting",
+        "name": "Tom Holland",
+        "original_name": "Tom Holland",
+        "popularity": 18.9483,
+        "profile_path": "/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg",
+        "cast_id": 1,
+        "character": "Peter Parker / Spider-Man",
+        "credit_id": "5f985d6dae36680038bb617f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1649152,
+        "known_for_department": "Acting",
+        "name": "Jacob Batalon",
+        "original_name": "Jacob Batalon",
+        "popularity": 7.775,
+        "profile_path": "/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg",
+        "cast_id": 2,
+        "character": "Ned Leeds",
+        "credit_id": "5f985d752b531d00377a3ef1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 164208,
+        "known_for_department": "Acting",
+        "name": "Hemky Madera",
+        "original_name": "Hemky Madera",
+        "popularity": 1.346,
+        "profile_path": "/net1kEEpSrr9QC9be6YRhLGuM0k.jpg",
+        "cast_id": 3,
+        "character": "Mr. Delmar",
+        "credit_id": "5f985d7cae36680039bb61c1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1291350,
+        "known_for_department": "Acting",
+        "name": "Tony Revolori",
+        "original_name": "Tony Revolori",
+        "popularity": 2.0121,
+        "profile_path": "/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg",
+        "cast_id": 4,
+        "character": "Eugene 'Flash' Thompson",
+        "credit_id": "5f985d8543999b0036fa6f80",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2355285,
+        "known_for_department": "Acting",
+        "name": "Tuwaine Barrett",
+        "original_name": "Tuwaine Barrett",
+        "popularity": 0.7213,
+        "profile_path": "/ljNqJkfo1bH21WF5JfQxHSqyapO.jpg",
+        "cast_id": 5,
+        "character": "Police Officer",
+        "credit_id": "5f985d8f719aeb00355eb124",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2355287,
+        "known_for_department": "Acting",
+        "name": "Kristen Alminta",
+        "original_name": "Kristen Alminta",
+        "popularity": 0.4972,
+        "profile_path": "/oraWOSaJPufdGa0TzEAfGOzyGvS.jpg",
+        "cast_id": 6,
+        "character": "Police Officer",
+        "credit_id": "5f985d9777e1f600358a55e0",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2355250,
+        "known_for_department": "Acting",
+        "name": "Brendan Murphy",
+        "original_name": "Brendan Murphy",
+        "popularity": 0.3903,
+        "profile_path": "/610WzE4EjTcAZ2vN3LB6GQwIjPP.jpg",
+        "cast_id": 8,
+        "character": "Police Officer",
+        "credit_id": "5f985daafb5299003a31bc92",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1293994,
+        "known_for_department": "Directing",
+        "name": "Jon Watts",
+        "original_name": "Jon Watts",
+        "popularity": 1.8538,
+        "profile_path": "/fkXChMX6CUXY1yOxBehAzvaTCl7.jpg",
+        "credit_id": "5f985dde43999b0035fa6f7e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10850,
+        "known_for_department": "Production",
+        "name": "Kevin Feige",
+        "original_name": "Kevin Feige",
+        "popularity": 3.5708,
+        "profile_path": "/kCBqXZ5PT5udYGEj2wfTSFbLMvT.jpg",
+        "credit_id": "5fc53109a8858700410ac1b5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1425616,
+        "known_for_department": "Production",
+        "name": "Amy Pascal",
+        "original_name": "Amy Pascal",
+        "popularity": 1.5717,
+        "profile_path": "/cZ526e4oPN1i44Q0BxYW8nOtrzR.jpg",
+        "credit_id": "5fc530f421c4ca00401d78e2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7625,
+        "known_for_department": "Writing",
+        "name": "Steve Ditko",
+        "original_name": "Steve Ditko",
+        "popularity": 2.1884,
+        "profile_path": "/sqPKdwqnnXymA0lxli7jP3Iwcjq.jpg",
+        "credit_id": "5fc531911b729400418fb810",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1350918,
+        "known_for_department": "Writing",
+        "name": "Erik Sommers",
+        "original_name": "Erik Sommers",
+        "popularity": 1.7669,
+        "profile_path": "/fvg1OA7xdYu7z44HdY5IA9lSqYl.jpg",
+        "credit_id": "5fc53144d132d600411c7cf3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1246890,
+        "known_for_department": "Writing",
+        "name": "Chris McKenna",
+        "original_name": "Chris McKenna",
+        "popularity": 1.9928,
+        "profile_path": "/2yzbdhnpLdJg8NIh4SWqy6wGbZV.jpg",
+        "credit_id": "5fc531363a340b0041dfadd2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7624,
+        "known_for_department": "Writing",
+        "name": "Stan Lee",
+        "original_name": "Stan Lee",
+        "popularity": 5.5316,
+        "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg",
+        "credit_id": "5fc5315bfba6250043a05bbb",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2410912,
+        "known_for_department": "Production",
+        "name": "Derek Mihalik",
+        "original_name": "Derek Mihalik",
+        "popularity": 0.2207,
+        "profile_path": null,
+        "credit_id": "6a53e7322ac6c12fa5b64c0f",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15347,
+        "known_for_department": "Sound",
+        "name": "Michael Giacchino",
+        "original_name": "Michael Giacchino",
+        "popularity": 1.2552,
+        "profile_path": "/xgurVFMLVgtgz9f5bgrrCppm4xq.jpg",
+        "credit_id": "6a5d77a7fce45c5847c00cb6",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

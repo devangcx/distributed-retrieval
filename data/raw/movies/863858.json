@@ -1,0 +1,522 @@
+{
+  "adult": false,
+  "backdrop_path": "/yQS4QB3JDa6zIrn9b6SNAELJGwb.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "https://www.bluefoxentertainment.com/films/mending-the-line",
+  "id": 863858,
+  "imdb_id": "tt9201772",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mending the Line",
+  "overview": "A Marine wounded in Afghanistan returns to a VA hospital in Montana where he meets a Vietnam vet who teaches him fly fishing as a means to coming to terms with his physical and emotional trauma.",
+  "popularity": 2.2444,
+  "poster_path": "/BBgXPj3crSX1gidLhdw3gGVrK.jpg",
+  "production_companies": [
+    {
+      "id": 20092,
+      "logo_path": null,
+      "name": "ArtImage Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 209583,
+      "logo_path": null,
+      "name": "CKM Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 209584,
+      "logo_path": "/odVn7dKzPoudmq3RwEzoWh1pvrf.png",
+      "name": "August Point Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 209585,
+      "logo_path": null,
+      "name": "Storm Castle Creative",
+      "origin_country": ""
+    },
+    {
+      "id": 88975,
+      "logo_path": null,
+      "name": "Meydenbauer Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 209586,
+      "logo_path": null,
+      "name": "Whippoorwill Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-06-09",
+  "revenue": 359869,
+  "runtime": 117,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "For some, the path starts on the river.",
+  "title": "Mending the Line",
+  "video": false,
+  "vote_average": 6.542,
+  "vote_count": 36,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1248,
+        "known_for_department": "Acting",
+        "name": "Brian Cox",
+        "original_name": "Brian Cox",
+        "popularity": 4.4025,
+        "profile_path": "/scSjbFCTRngXlkJRoKptM5kQGw7.jpg",
+        "cast_id": 1,
+        "character": "Ike Fletcher",
+        "credit_id": "61206347fcf9070074cc7063",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 967617,
+        "known_for_department": "Acting",
+        "name": "Sinqua Walls",
+        "original_name": "Sinqua Walls",
+        "popularity": 1.0522,
+        "profile_path": "/oxty0W4Ga1pBbUz5abanxAXfJmC.jpg",
+        "cast_id": 2,
+        "character": "Colter",
+        "credit_id": "6120634cd4b9d90045b4d323",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1869253,
+        "known_for_department": "Acting",
+        "name": "Perry Mattfeld",
+        "original_name": "Perry Mattfeld",
+        "popularity": 1.4804,
+        "profile_path": "/7oM81wmfkM185bivpMx95HMWeQ7.jpg",
+        "cast_id": 5,
+        "character": "Lucy",
+        "credit_id": "64623348dbbb420119f5a40d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 26996,
+        "known_for_department": "Acting",
+        "name": "Patricia Heaton",
+        "original_name": "Patricia Heaton",
+        "popularity": 2.9132,
+        "profile_path": "/wC8h2Wd4xz77ndHajCA7czDz43W.jpg",
+        "cast_id": 6,
+        "character": "Dr. Burke",
+        "credit_id": "646233558c44b900fc91c89b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15853,
+        "known_for_department": "Acting",
+        "name": "Wes Studi",
+        "original_name": "Wes Studi",
+        "popularity": 1.7597,
+        "profile_path": "/28vlZlyIVR4B1p5knjbzj4CtNPE.jpg",
+        "cast_id": 7,
+        "character": "Harrison",
+        "credit_id": "646233666e0d72013dcce7d7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 65529,
+        "known_for_department": "Acting",
+        "name": "Irene Bedard",
+        "original_name": "Irene Bedard",
+        "popularity": 1.728,
+        "profile_path": "/9q6ad1uihRROKM8FWv2Asb8sj5j.jpg",
+        "cast_id": 8,
+        "character": "Mrs. Redcloud",
+        "credit_id": "64623372a6725400e3d29425",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1353826,
+        "known_for_department": "Acting",
+        "name": "Julian Works",
+        "original_name": "Julian Works",
+        "popularity": 1.3327,
+        "profile_path": "/iVDLrSevIu4pbI5BBuv6XgUc3BN.jpg",
+        "cast_id": 9,
+        "character": "Ram",
+        "credit_id": "6462337fdbbb4200fc886543",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2198944,
+        "known_for_department": "Acting",
+        "name": "Chris Galust",
+        "original_name": "Chris Galust",
+        "popularity": 0.712,
+        "profile_path": "/7ZUFspn1ls98khjIqulda3X7Tgt.jpg",
+        "cast_id": 10,
+        "character": "Kovacs",
+        "credit_id": "64623389e3fa2f016621b150",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4063374,
+        "known_for_department": "Acting",
+        "name": "Tristan Thompson",
+        "original_name": "Tristan Thompson",
+        "popularity": 0.5052,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "McDowell (McD)",
+        "credit_id": "6462339edbbb420119f5a43f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1752311,
+        "known_for_department": "Acting",
+        "name": "Pressly Coker",
+        "original_name": "Pressly Coker",
+        "popularity": 0.7239,
+        "profile_path": "/xCWOMdxhzEa58fOyR58v41sfTaH.jpg",
+        "cast_id": 12,
+        "character": "Blitz",
+        "credit_id": "646233a88c44b900e1665023",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3057041,
+        "known_for_department": "Acting",
+        "name": "Michaela Sasner",
+        "original_name": "Michaela Sasner",
+        "popularity": 0.3755,
+        "profile_path": "/eY8QYcXjp7yHwPQ6JJ25Ek7K6Es.jpg",
+        "cast_id": 13,
+        "character": "Ruth",
+        "credit_id": "646233b2a672540164deeac5",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3709091,
+        "known_for_department": "Directing",
+        "name": "Melanie Rae Wendt",
+        "original_name": "Melanie Rae Wendt",
+        "popularity": 0.5625,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Meth House Junkie",
+        "credit_id": "646233bea672540164deeacb",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1448929,
+        "known_for_department": "Acting",
+        "name": "Gabriel Clark",
+        "original_name": "Gabriel Clark",
+        "popularity": 0.5059,
+        "profile_path": "/sNV4sueIdOA64aDCKWKTOcgtQZS.jpg",
+        "cast_id": 15,
+        "character": "Blitz's Dad",
+        "credit_id": "646233cedbbb42013637da75",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2504151,
+        "known_for_department": "Acting",
+        "name": "Jenna Ciralli",
+        "original_name": "Jenna Ciralli",
+        "popularity": 0.4385,
+        "profile_path": "/3D4X7EVG56Av4xSQhWCBdsuUERT.jpg",
+        "cast_id": 16,
+        "character": "Navy Doctor",
+        "credit_id": "646233d96e0d72013dcce820",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1976786,
+        "known_for_department": "Acting",
+        "name": "Scott McCauley",
+        "original_name": "Scott McCauley",
+        "popularity": 0.5776,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Bar patron",
+        "credit_id": "646233e6ef8b320138877f51",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1375720,
+        "known_for_department": "Acting",
+        "name": "Phaedra Nielson",
+        "original_name": "Phaedra Nielson",
+        "popularity": 0.4306,
+        "profile_path": "/7r8dvr3VOy40KkkdkkYOpoilWWm.jpg",
+        "cast_id": 18,
+        "character": "Martha",
+        "credit_id": "646233ef8c44b90153dc2676",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4063375,
+        "known_for_department": "Acting",
+        "name": "Josef Patterson",
+        "original_name": "Josef Patterson",
+        "popularity": 0.475,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Death Star (voice)",
+        "credit_id": "646233fcdbbb4200e22db87c",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4063377,
+        "known_for_department": "Acting",
+        "name": "Catherine Deriana",
+        "original_name": "Catherine Deriana",
+        "popularity": 0.3661,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "School Administrator",
+        "credit_id": "6462340d6e0d7200e31d8766",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4063378,
+        "known_for_department": "Acting",
+        "name": "Quenby Iandiorio",
+        "original_name": "Quenby Iandiorio",
+        "popularity": 0.5306,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Nurse",
+        "credit_id": "646234188c44b90119cb7ccc",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6142735,
+        "known_for_department": "Acting",
+        "name": "Jess Oldham",
+        "original_name": "Jess Oldham",
+        "popularity": 0.2747,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Ryan Redcloud",
+        "credit_id": "6a18aabdc72dce4ea43d8b11",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1180690,
+        "known_for_department": "Directing",
+        "name": "Joshua Caldwell",
+        "original_name": "Joshua Caldwell",
+        "popularity": 0.5408,
+        "profile_path": null,
+        "credit_id": "61333892924ce50089001c05",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4063369,
+        "known_for_department": "Writing",
+        "name": "Stephen Camelio",
+        "original_name": "Stephen Camelio",
+        "popularity": 0.4825,
+        "profile_path": null,
+        "credit_id": "646232d48c44b900e1664f9d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1180690,
+        "known_for_department": "Directing",
+        "name": "Joshua Caldwell",
+        "original_name": "Joshua Caldwell",
+        "popularity": 0.5408,
+        "profile_path": null,
+        "credit_id": "6462344be3fa2f0145ed1f66",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94451,
+        "known_for_department": "Production",
+        "name": "Robert Ogden Barnum",
+        "original_name": "Robert Ogden Barnum",
+        "popularity": 0.7526,
+        "profile_path": "/mMAnqogMZdyGHbbQYXqIb9vMlIB.jpg",
+        "credit_id": "6462343da6725401010a50cd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4063369,
+        "known_for_department": "Writing",
+        "name": "Stephen Camelio",
+        "original_name": "Stephen Camelio",
+        "popularity": 0.4825,
+        "profile_path": null,
+        "credit_id": "6462345bef8b3200fe7e0438",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4073700,
+        "known_for_department": "Sound",
+        "name": "Dawid Konecki",
+        "original_name": "Dawid Konecki",
+        "popularity": 0.483,
+        "profile_path": null,
+        "credit_id": "670003d0e480149146852819",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2119481,
+        "known_for_department": "Sound",
+        "name": "Jacek Wiśniewski",
+        "original_name": "Jacek Wiśniewski",
+        "popularity": 0.5987,
+        "profile_path": "/zHmY7qFs5L0kGUPaaK8UBBW3k5J.jpg",
+        "credit_id": "67011f6f925fdf925b7d05d8",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5324483,
+        "known_for_department": "Sound",
+        "name": "Bill Brown",
+        "original_name": "Bill Brown",
+        "popularity": 0.2394,
+        "profile_path": null,
+        "credit_id": "67e0cf147d0565af0207df6d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2119196,
+        "known_for_department": "Camera",
+        "name": "Eve M. Cohen",
+        "original_name": "Eve M. Cohen",
+        "popularity": 0.2611,
+        "profile_path": null,
+        "credit_id": "67e0cf7fc2d819df69c75509",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3383252,
+        "known_for_department": "Production",
+        "name": "Scott Macleod",
+        "original_name": "Scott Macleod",
+        "popularity": 0.4581,
+        "profile_path": "/7LJProbPY6qrGDvlktr1XGGkWhM.jpg",
+        "credit_id": "68757190a46d068f18baa4a9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2520570,
+        "known_for_department": "Directing",
+        "name": "Charity Thomson",
+        "original_name": "Charity Thomson",
+        "popularity": 0.5342,
+        "profile_path": null,
+        "credit_id": "68eab1daff37b7a9bf1f66d2",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      }
+    ]
+  }
+}

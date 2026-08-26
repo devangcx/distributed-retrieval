@@ -1,0 +1,372 @@
+{
+  "adult": false,
+  "backdrop_path": "/buwTFD7YJY5FhbOcwtUhhouKzwg.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81512108",
+  "id": 1018647,
+  "imdb_id": "tt22010586",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Capturing the Killer Nurse",
+  "overview": "Charlie Cullen was an experienced registered nurse, trusted and beloved by his colleagues at Somerset Medical Center in New Jersey. He is also one of history’s most prolific serial killers, with a body count potentially numbering in the hundreds across multiple medical facilities in the Northeast.",
+  "popularity": 5.4361,
+  "poster_path": "/384EXJadmQGmNMfB9nrGSBhCupO.jpg",
+  "production_companies": [
+    {
+      "id": 92028,
+      "logo_path": "/w0ImM8hJd6fIx3kfij4SEgi5XfP.png",
+      "name": "Sandpaper Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2022-11-11",
+  "revenue": 0,
+  "runtime": 95,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Capturing the Killer Nurse",
+  "video": false,
+  "vote_average": 6.481,
+  "vote_count": 81,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5941520,
+        "known_for_department": "Acting",
+        "name": "Charles Cullen",
+        "original_name": "Charles Cullen",
+        "popularity": 0.4432,
+        "profile_path": "/8OYIEJdZfglgEGkzBUMps8N4XuA.jpg",
+        "cast_id": 6,
+        "character": "Self (archive footage)",
+        "credit_id": "69694c074866411058e56e84",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3774238,
+        "known_for_department": "Crew",
+        "name": "Amy Loughren",
+        "original_name": "Amy Loughren",
+        "popularity": 0.3892,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Self - Nurse, Somerset Medical Center, 2001-2004",
+        "credit_id": "69bfd9c780acb312f001ca44",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6088756,
+        "known_for_department": "Acting",
+        "name": "Donna Hargreaves",
+        "original_name": "Donna Hargreaves",
+        "popularity": 0.2707,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Self - Nurse, Somerset Medical Center, 2000-2014",
+        "credit_id": "69bfda25fe6458f5ac7b2c0d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6088767,
+        "known_for_department": "Acting",
+        "name": "Dr. Bruce Ruck",
+        "original_name": "Dr. Bruce Ruck",
+        "popularity": 0.2441,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Self - Toxicologist",
+        "credit_id": "69bfdc708e557ba861d34552",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3774241,
+        "known_for_department": "Crew",
+        "name": "Tim Braun",
+        "original_name": "Tim Braun",
+        "popularity": 0.293,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Self - Commander, Somerset Major Crimes Unit, 2002-2005",
+        "credit_id": "69bfdd375dd6d66e087b2cbe",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3238486,
+        "known_for_department": "Crew",
+        "name": "Danny Baldwin",
+        "original_name": "Danny Baldwin",
+        "popularity": 0.2427,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Self - Lead Detective, Somerset Major Crimes Unit, 2003-2006",
+        "credit_id": "69bfdd92da85b807c3a24ff3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2102077,
+        "known_for_department": "Writing",
+        "name": "Charles Graeber",
+        "original_name": "Charles Graeber",
+        "popularity": 0.3625,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Self - Author, 'The Good Nurse'",
+        "credit_id": "69bfea5eda85b807c3a2503e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6088843,
+        "known_for_department": "Acting",
+        "name": "Dr. Steven Marcus",
+        "original_name": "Dr. Steven Marcus",
+        "popularity": 0.2596,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Self - Medical Director, Poison Control Center, 1983-2016",
+        "credit_id": "69bfec1ed70366b22201c9a7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6088850,
+        "known_for_department": "Acting",
+        "name": "Pat Medellin",
+        "original_name": "Pat Medellin",
+        "popularity": 0.2321,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Self - Nurse, St. Luke's Hospital, 2002-2004",
+        "credit_id": "69bfed70406df8a8d9d344d2",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1955394,
+        "known_for_department": "Directing",
+        "name": "Tim Travers Hawkins",
+        "original_name": "Tim Travers Hawkins",
+        "popularity": 0.5329,
+        "profile_path": "/rXia9FqzJZomZNE4tMYRSZF5PRI.jpg",
+        "credit_id": "630e1904f54836007f808a6b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3109976,
+        "known_for_department": "Production",
+        "name": "Robin Ockleford",
+        "original_name": "Robin Ockleford",
+        "popularity": 0.3083,
+        "profile_path": null,
+        "credit_id": "63757fbbe8999b008ed2e931",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1955394,
+        "known_for_department": "Directing",
+        "name": "Tim Travers Hawkins",
+        "original_name": "Tim Travers Hawkins",
+        "popularity": 0.5329,
+        "profile_path": "/rXia9FqzJZomZNE4tMYRSZF5PRI.jpg",
+        "credit_id": "63757fd266a7c30077a5cbec",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1972516,
+        "known_for_department": "Editing",
+        "name": "Michael Rolt",
+        "original_name": "Michael Rolt",
+        "popularity": 0.5002,
+        "profile_path": null,
+        "credit_id": "63757ff7d236e6007da47f7e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1393837,
+        "known_for_department": "Camera",
+        "name": "Govinda Angulo",
+        "original_name": "Govinda Angulo",
+        "popularity": 0.6296,
+        "profile_path": null,
+        "credit_id": "63758039c6006d007f6fb4aa",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1046887,
+        "known_for_department": "Directing",
+        "name": "Henry Singer",
+        "original_name": "Henry Singer",
+        "popularity": 0.4466,
+        "profile_path": null,
+        "credit_id": "69bfd6d8fceb469bf21b0a5e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1648436,
+        "known_for_department": "Production",
+        "name": "Susannah Price",
+        "original_name": "Susannah Price",
+        "popularity": 0.3882,
+        "profile_path": null,
+        "credit_id": "69bfd6ef23c066b9994ff043",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2102077,
+        "known_for_department": "Writing",
+        "name": "Charles Graeber",
+        "original_name": "Charles Graeber",
+        "popularity": 0.3625,
+        "profile_path": null,
+        "credit_id": "69bfd72946651f531601c8b2",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1581914,
+        "known_for_department": "Sound",
+        "name": "Benji Merrison",
+        "original_name": "Benji Merrison",
+        "popularity": 0.4216,
+        "profile_path": null,
+        "credit_id": "69bfd744b8d6080a1f15e588",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1580488,
+        "known_for_department": "Sound",
+        "name": "Will Slater",
+        "original_name": "Will Slater",
+        "popularity": 0.4224,
+        "profile_path": null,
+        "credit_id": "69bfd89756a0dd19d57b2d59",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2165772,
+        "known_for_department": "Production",
+        "name": "Monica Mwangi",
+        "original_name": "Monica Mwangi",
+        "popularity": 0.3123,
+        "profile_path": null,
+        "credit_id": "69bfd8b0e5110af802b3351e",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1986794,
+        "known_for_department": "Camera",
+        "name": "Will Pugh",
+        "original_name": "Will Pugh",
+        "popularity": 0.4519,
+        "profile_path": null,
+        "credit_id": "69bfd8c8d158895034b33578",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3109976,
+        "known_for_department": "Production",
+        "name": "Robin Ockleford",
+        "original_name": "Robin Ockleford",
+        "popularity": 0.3083,
+        "profile_path": null,
+        "credit_id": "69bfd8ea7de736f2ea15e8ec",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2102077,
+        "known_for_department": "Writing",
+        "name": "Charles Graeber",
+        "original_name": "Charles Graeber",
+        "popularity": 0.3625,
+        "profile_path": null,
+        "credit_id": "69bfd9108b91e65968a24f0f",
+        "department": "Writing",
+        "job": "Book"
+      }
+    ]
+  }
+}

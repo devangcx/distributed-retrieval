@@ -1,0 +1,479 @@
+{
+  "adult": false,
+  "backdrop_path": "/9Kv8JLhvz6iQeqcxIut0BMEvIPz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 624620,
+  "imdb_id": "tt8452202",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "PAW Patrol: Ready, Race, Rescue!",
+  "overview": "It’s the Adventure Bay 500! The pups have built an awesome race track and are ready to be the pit crew for their race hero, The Whoosh! But when the legendary racer is unable to drive in the championship race, he calls on his biggest fan-pup Marshall to take the wheel and race in his place! Marshall has to overcome his lack of confidence and his dastardly competition, The Cheetah, to fulfill his dream of becoming the fastest race-pup ever!",
+  "popularity": 3.0706,
+  "poster_path": "/o0fA2vc5v25YqKZs0rsMb2o0GVi.jpg",
+  "production_companies": [
+    {
+      "id": 5371,
+      "logo_path": "/7EFsFPaWY5DFn8s9rz2ORHxAw0y.png",
+      "name": "Nickelodeon Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 71738,
+      "logo_path": "/9SiK63A0hOmn3FiLCEqydtE1ZQW.png",
+      "name": "Spin Master",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-08-02",
+  "revenue": 0,
+  "runtime": 44,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Get ready to race and rescue!",
+  "title": "PAW Patrol: Ready, Race, Rescue!",
+  "video": false,
+  "vote_average": 7.103,
+  "vote_count": 150,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 559281,
+        "known_for_department": "Acting",
+        "name": "Drew Davis",
+        "original_name": "Drew Davis",
+        "popularity": 1.4326,
+        "profile_path": "/dnGGLwChFNJaRDEygvfMIPLiTOZ.jpg",
+        "cast_id": 31,
+        "character": "Marshall (voice)",
+        "credit_id": "6930a7ffda3254505ad07fd5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2664110,
+        "known_for_department": "Acting",
+        "name": "Julius Cho",
+        "original_name": "Julius Cho",
+        "popularity": 0.6015,
+        "profile_path": "/6wgRH6hGJbvnwD4fjS0x6uV9MNS.jpg",
+        "cast_id": 12,
+        "character": "Lionel Lightspeed",
+        "credit_id": "612517183a9650005c37ee3b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2856455,
+        "known_for_department": "Acting",
+        "name": "Anya Cooke",
+        "original_name": "Anya Cooke",
+        "popularity": 0.3786,
+        "profile_path": "/cYbEEXULGmKjGH5vKf6L8LEbNV5.jpg",
+        "cast_id": 13,
+        "character": "Sweetie",
+        "credit_id": "61251727534661005cd16fa4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1234162,
+        "known_for_department": "Acting",
+        "name": "Cal Dodd",
+        "original_name": "Cal Dodd",
+        "popularity": 0.9732,
+        "profile_path": "/lnBlxGfIGnXxKkULmQ2bJYYbFNf.jpg",
+        "cast_id": 14,
+        "character": "Ron Rapidfire",
+        "credit_id": "61251770e194b00044cc23d5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3211015,
+        "known_for_department": "Acting",
+        "name": "Isaac Emberson-Heeks",
+        "original_name": "Isaac Emberson-Heeks",
+        "popularity": 0.2894,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "The Whoosh (voice)",
+        "credit_id": "612517eefb3f61002cc0d4fc",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1251988,
+        "known_for_department": "Acting",
+        "name": "Addison Holley",
+        "original_name": "Addison Holley",
+        "popularity": 0.9663,
+        "profile_path": "/izAgKphXuo8EGZndMjTcUA4X4kq.jpg",
+        "cast_id": 16,
+        "character": "The Cheetah",
+        "credit_id": "612517fde194b00044cc251a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2095429,
+        "known_for_department": "Acting",
+        "name": "Kallan Holley",
+        "original_name": "Kallan Holley",
+        "popularity": 0.9445,
+        "profile_path": "/l1POWrTgqn2Q6WrYtiy2SqAlnCD.jpg",
+        "cast_id": 17,
+        "character": "Skye",
+        "credit_id": "61251812fb3f6100468c6ee6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2856457,
+        "known_for_department": "Acting",
+        "name": "Caoimhe Judd",
+        "original_name": "Caoimhe Judd",
+        "popularity": 0.6332,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "The Princess of Barkingburg",
+        "credit_id": "612518254a52f80045b8d58e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1233631,
+        "known_for_department": "Acting",
+        "name": "Joseph Motiki",
+        "original_name": "Joseph Motiki",
+        "popularity": 0.652,
+        "profile_path": "/lb9tajbMDbkke9UEzQrT9n22hac.jpg",
+        "cast_id": 19,
+        "character": "The Whoosh",
+        "credit_id": "612518313a9650002f9f908c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2082863,
+        "known_for_department": "Acting",
+        "name": "Justin Paul Kelly",
+        "original_name": "Justin Paul Kelly",
+        "popularity": 1.1398,
+        "profile_path": "/qmi6cqd7AIoMJGHhPTcAQscxKhe.jpg",
+        "cast_id": 20,
+        "character": "Chase",
+        "credit_id": "66fe3e4a1592ef1ba984ce27",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2717685,
+        "known_for_department": "Acting",
+        "name": "Keegan Hedley",
+        "original_name": "Keegan Hedley",
+        "popularity": 0.6931,
+        "profile_path": "/qhW17BokK46oWklW6GK4C7fCwrc.jpg",
+        "cast_id": 21,
+        "character": "Rubble",
+        "credit_id": "66fe3e571592ef1ba984ce33",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1489357,
+        "known_for_department": "Acting",
+        "name": "Samuel Faraci",
+        "original_name": "Samuel Faraci",
+        "popularity": 0.8147,
+        "profile_path": "/twXV8RllqPsJmxUKoyQi2X3hTfW.jpg",
+        "cast_id": 22,
+        "character": "Rocky",
+        "credit_id": "66fe3e60fa3e69e0ef7c7b01",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2095415,
+        "known_for_department": "Acting",
+        "name": "Jaxon Mercey",
+        "original_name": "Jaxon Mercey",
+        "popularity": 0.512,
+        "profile_path": "/jk0qrsJ3VOFlzdy4T5c9t563ZOo.jpg",
+        "cast_id": 23,
+        "character": "Ryder",
+        "credit_id": "66fe3e797830c1301e7c73f9",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2095428,
+        "known_for_department": "Acting",
+        "name": "Carter Thorne",
+        "original_name": "Carter Thorne",
+        "popularity": 0.4028,
+        "profile_path": "/yqkymSZ7rAaQySif6agGLddswpr.jpg",
+        "cast_id": 32,
+        "character": "Zuma",
+        "credit_id": "6930a87f9a12967e41631e78",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1564604,
+        "known_for_department": "Acting",
+        "name": "Deanne Degruijter",
+        "original_name": "Deanne Degruijter",
+        "popularity": 0.555,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Mayor Goodway",
+        "credit_id": "66fe3eace48014914684d130",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1877602,
+        "known_for_department": "Acting",
+        "name": "Matthew Gouveia",
+        "original_name": "Matthew Gouveia",
+        "popularity": 0.3166,
+        "profile_path": "/qzEJ84MQfa90GugIEUKDOUxBnyo.jpg",
+        "cast_id": 26,
+        "character": "Willy Widewheels jr.",
+        "credit_id": "66fe3ec6f878adfed084d509",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 108887,
+        "known_for_department": "Acting",
+        "name": "Melanie Leishman",
+        "original_name": "Melanie Leishman",
+        "popularity": 1.0292,
+        "profile_path": "/bNGX1NxfyAOnnbRFibBQkgonSoe.jpg",
+        "cast_id": 27,
+        "character": "Riff Rockenbock",
+        "credit_id": "66fe3eeafa3e69e0ef7c7b26",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 116638,
+        "known_for_department": "Acting",
+        "name": "Jonathan Malen",
+        "original_name": "Jonathan Malen",
+        "popularity": 0.9186,
+        "profile_path": "/bsWMNVDkwzPO8vSxnZJEDokucLv.jpg",
+        "cast_id": 28,
+        "character": "Daring Danny X",
+        "credit_id": "66fe3f09f878adfed084d523",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124315,
+        "known_for_department": "Acting",
+        "name": "Scott McCord",
+        "original_name": "Scott McCord",
+        "popularity": 2.5154,
+        "profile_path": "/dvuRt2P2tWemEZpSWKvl60TGa2l.jpg",
+        "cast_id": 29,
+        "character": "Jake",
+        "credit_id": "66fe3f19e84eeb35a0f7c0c9",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1227611,
+        "known_for_department": "Acting",
+        "name": "Ron Pardo",
+        "original_name": "Ron Pardo",
+        "popularity": 1.5923,
+        "profile_path": "/hE4QOBmPqstfmBVXmlcJmsljUMw.jpg",
+        "cast_id": 30,
+        "character": "Cap'n Turbot / Mayor Humdinger / Farmer Al",
+        "credit_id": "66fe3f3867c6fb09fff7be4e",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3210997,
+        "known_for_department": "Production",
+        "name": "Dave Sharples",
+        "original_name": "Dave Sharples",
+        "popularity": 0.3456,
+        "profile_path": null,
+        "credit_id": "612515ac66ae4d002d4c5a98",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1148630,
+        "known_for_department": "Sound",
+        "name": "Brian L. Pickett",
+        "original_name": "Brian L. Pickett",
+        "popularity": 0.2034,
+        "profile_path": null,
+        "credit_id": "612515d9c439c0005ce53afd",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 932240,
+        "known_for_department": "Sound",
+        "name": "Graeme Cornies",
+        "original_name": "Graeme Cornies",
+        "popularity": 0.5195,
+        "profile_path": null,
+        "credit_id": "612515cbdb4ed6004559efe0",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1232058,
+        "known_for_department": "Writing",
+        "name": "Steven Sullivan",
+        "original_name": "Steven Sullivan",
+        "popularity": 0.6165,
+        "profile_path": null,
+        "credit_id": "6125145f6e938a005ddc106a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1984304,
+        "known_for_department": "Production",
+        "name": "Jason McKenzie",
+        "original_name": "Jason McKenzie",
+        "popularity": 0.3282,
+        "profile_path": null,
+        "credit_id": "6125150cc439c0002f935527",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1564601,
+        "known_for_department": "Production",
+        "name": "Jennifer Dodge",
+        "original_name": "Jennifer Dodge",
+        "popularity": 0.4552,
+        "profile_path": null,
+        "credit_id": "612514fcfb3f61002cc0cf88",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 932239,
+        "known_for_department": "Sound",
+        "name": "James Chapple",
+        "original_name": "James Chapple",
+        "popularity": 0.2901,
+        "profile_path": null,
+        "credit_id": "612515be3a96500046ee7e3c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3210996,
+        "known_for_department": "Production",
+        "name": "Matt Beatty",
+        "original_name": "Matt Beatty",
+        "popularity": 0.2698,
+        "profile_path": null,
+        "credit_id": "612514826e938a005ddc1096",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1226715,
+        "known_for_department": "Directing",
+        "name": "Charles E. Bastien",
+        "original_name": "Charles E. Bastien",
+        "popularity": 0.4799,
+        "profile_path": "/jlCigphSFfFK4irGfhZOx2Ga1Hr.jpg",
+        "credit_id": "69af844985318248304eb96d",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

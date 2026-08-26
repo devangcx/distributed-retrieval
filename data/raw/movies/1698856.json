@@ -1,0 +1,365 @@
+{
+  "adult": false,
+  "backdrop_path": "/uOQtyMV2G9yJvc0s14zmLoRC5H9.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "https://theasylum.cc/index.php/titles/detail?id=651",
+  "id": 1698856,
+  "imdb_id": "tt41087705",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Master of the Universe",
+  "overview": "A young man must use his untapped powers to fight back against an evil alien and their army, who will stop at nothing to take over Earth and then the universe.",
+  "popularity": 51.0775,
+  "poster_path": "/a77OcLmarwiBJakOPPC36m58t4L.jpg",
+  "production_companies": [
+    {
+      "id": 1311,
+      "logo_path": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+      "name": "The Asylum",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-05-22",
+  "revenue": 0,
+  "runtime": 81,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He's the Man.",
+  "title": "Master of the Universe",
+  "video": false,
+  "vote_average": 5.032,
+  "vote_count": 77,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4133256,
+        "known_for_department": "Acting",
+        "name": "Matthew Gademske",
+        "original_name": "Matthew Gademske",
+        "popularity": 1.138,
+        "profile_path": "/wgvHF93BO0VxQA3HemklufBFEX4.jpg",
+        "cast_id": 1,
+        "character": "Prince Eli",
+        "credit_id": "6a0d13e7f0b45ade9006a47c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4499806,
+        "known_for_department": "Acting",
+        "name": "Morgan Flanagan",
+        "original_name": "Morgan Flanagan",
+        "popularity": 0.7423,
+        "profile_path": "/5Qb68qsULMlUz83At9cHixtLkDN.jpg",
+        "cast_id": 2,
+        "character": "Ella",
+        "credit_id": "6a0d13f6bafedf8af9edb352",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2812699,
+        "known_for_department": "Acting",
+        "name": "Krymis J Fernando",
+        "original_name": "Krymis J Fernando",
+        "popularity": 0.7142,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Chancellor Faurtax",
+        "credit_id": "6a0d141e4c87932ed8a2ab53",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3213589,
+        "known_for_department": "Acting",
+        "name": "Antonio Valles",
+        "original_name": "Antonio Valles",
+        "popularity": 0.5228,
+        "profile_path": "/qbUYTt2m5qey8rO310887XyT2XQ.jpg",
+        "cast_id": 4,
+        "character": "Gunnar",
+        "credit_id": "6a0d142f39a7bef654833604",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3796858,
+        "known_for_department": "Acting",
+        "name": "Telisha Johnson",
+        "original_name": "Telisha Johnson",
+        "popularity": 0.79,
+        "profile_path": "/tVUzmTyd5WgF2aTKdGPLpPsLQ4b.jpg",
+        "cast_id": 5,
+        "character": "Samara",
+        "credit_id": "6a0d14406f82c851996a36a1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2722294,
+        "known_for_department": "Acting",
+        "name": "Llana Barron",
+        "original_name": "Llana Barron",
+        "popularity": 1.0132,
+        "profile_path": "/ynxZ9Bu8L9wUGygwkBaLbQu84ie.jpg",
+        "cast_id": 14,
+        "character": "Sevryn",
+        "credit_id": "6a5c65db81c36434bbd74152",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6356723,
+        "known_for_department": "Acting",
+        "name": "Jim O'Brien",
+        "original_name": "Jim O'Brien",
+        "popularity": 0.7636,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "King Walter",
+        "credit_id": "6a5c661edc4727d8b0262ba4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6298511,
+        "known_for_department": "Acting",
+        "name": "Bryan Barron",
+        "original_name": "Bryan Barron",
+        "popularity": 0.774,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Atrious",
+        "credit_id": "6a5c662981c36434bbd74160",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6356724,
+        "known_for_department": "Acting",
+        "name": "Bryan J Mangam",
+        "original_name": "Bryan J Mangam",
+        "popularity": 0.6477,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Wynne",
+        "credit_id": "6a5c66340457126ef4fade37",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1752240,
+        "known_for_department": "Acting",
+        "name": "Leo Christopher Sheridan",
+        "original_name": "Leo Christopher Sheridan",
+        "popularity": 0.6145,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Rik",
+        "credit_id": "6a5c664567ad78ba0c9a5690",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2831424,
+        "known_for_department": "Sound",
+        "name": "Martin Richard Chappell",
+        "original_name": "Martin Richard Chappell",
+        "popularity": 0.6011,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Progenator",
+        "credit_id": "6a5c6660d686eb61fb262b4a",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 228632,
+        "known_for_department": "Directing",
+        "name": "Marcel Walz",
+        "original_name": "Marcel Walz",
+        "popularity": 1.1487,
+        "profile_path": "/zorcLcvnUGTa4hirNuOhvYcg7lF.jpg",
+        "credit_id": "6a0d1459ab591fc492b8144c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1654626,
+        "known_for_department": "Writing",
+        "name": "Marc Gottlieb",
+        "original_name": "Marc Gottlieb",
+        "popularity": 1.0191,
+        "profile_path": "/duydmfYVttStJiRfp2ZgaWaE2ge.jpg",
+        "credit_id": "6a0d147cdc22160114a2adf5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30053,
+        "known_for_department": "Production",
+        "name": "David Michael Latt",
+        "original_name": "David Michael Latt",
+        "popularity": 0.8848,
+        "profile_path": "/cBkmGgFkGFFyyE6aWDYovvaHL0g.jpg",
+        "credit_id": "6a0d148cc87f77b5ed069bdf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79390,
+        "known_for_department": "Production",
+        "name": "Paul Bales",
+        "original_name": "Paul Bales",
+        "popularity": 0.7954,
+        "profile_path": "/3Y28BvJ7JwjqEd8Px0mUogDlN2Z.jpg",
+        "credit_id": "6a1a3ce5a491a5425d533242",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 236844,
+        "known_for_department": "Production",
+        "name": "David Rimawi",
+        "original_name": "David Rimawi",
+        "popularity": 0.692,
+        "profile_path": "/uGrN7upcJHt4qEx6H89qKWS1dmI.jpg",
+        "credit_id": "6a1a3cee74adc19dd719e067",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1975569,
+        "known_for_department": "Art",
+        "name": "Cristobal Hernandez",
+        "original_name": "Cristobal Hernandez",
+        "popularity": 0.6145,
+        "profile_path": null,
+        "credit_id": "6a1a3d044d8447d590ee5db4",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131286,
+        "known_for_department": "Directing",
+        "name": "Mark David",
+        "original_name": "Mark David",
+        "popularity": 0.6306,
+        "profile_path": "/cmNYk1fozoQe1vxM6uPGfIeSYpN.jpg",
+        "credit_id": "6a1a3d0a99548ddafc533337",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4159108,
+        "known_for_department": "Directing",
+        "name": "Allison Nicole Tucker",
+        "original_name": "Allison Nicole Tucker",
+        "popularity": 0.5754,
+        "profile_path": null,
+        "credit_id": "6a1a3d49d88d040c746be86a",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1562416,
+        "known_for_department": "Sound",
+        "name": "Mikel Shane Prather",
+        "original_name": "Mikel Shane Prather",
+        "popularity": 0.62,
+        "profile_path": "/5ANTzQ93uFERMaJLy8qZZ8Nt3pq.jpg",
+        "credit_id": "6a5c669cc37e39a28674ff84",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3660505,
+        "known_for_department": "Sound",
+        "name": "PJ Ramirez",
+        "original_name": "PJ Ramirez",
+        "popularity": 0.3091,
+        "profile_path": null,
+        "credit_id": "6a5c66a581c36434bbd74170",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2980713,
+        "known_for_department": "Writing",
+        "name": "Jacob David Smith",
+        "original_name": "Jacob David Smith",
+        "popularity": 0.6186,
+        "profile_path": "/jTCuJMrRs9tqgnFC83jZOsdw3jr.jpg",
+        "credit_id": "6a5c66b842cfb861e1212fbe",
+        "department": "Writing",
+        "job": "Story"
+      }
+    ]
+  }
+}

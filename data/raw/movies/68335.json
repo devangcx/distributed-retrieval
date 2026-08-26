@@ -1,0 +1,227 @@
+{
+  "adult": false,
+  "backdrop_path": "/g80CiHfus4JbLRQtRp0x3UzUToN.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.cinemalibrestudio.com/NowNLater",
+  "id": 68335,
+  "imdb_id": "tt0865560",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Now & Later",
+  "overview": "Sex, politics and American culture are mixed into a combustible combination in Now & Later. Angela is an illegal Latina immigrant living in Los Angeles who stumbles across Bill, a disgraced banker on the run. She takes him in. Through passionate sex, soul-searching conversations ranging from politics to philosophy, and other worldly pleasures, Angela introduces Bill to another worldview. As their affair heats up, the course of Bill's life begins to take an abrupt and unexpected turn.",
+  "popularity": 5.5634,
+  "poster_path": "/1jzfAMLbTfHaGiNn6hGKty0OzDq.jpg",
+  "production_companies": [
+    {
+      "id": 7317,
+      "logo_path": null,
+      "name": "Cinema Libre Studio",
+      "origin_country": "US"
+    },
+    {
+      "id": 7318,
+      "logo_path": null,
+      "name": "Imago-Creata",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2009-02-18",
+  "revenue": 0,
+  "runtime": 99,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "When now is all you've got.",
+  "title": "Now & Later",
+  "video": false,
+  "vote_average": 4.984,
+  "vote_count": 61,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1031885,
+        "known_for_department": "Acting",
+        "name": "Keller Wortham",
+        "original_name": "Keller Wortham",
+        "popularity": 0.9191,
+        "profile_path": "/zHbobwYKYYStLDxJKpYI2HRwSok.jpg",
+        "cast_id": 7,
+        "character": "Bill",
+        "credit_id": "5749eb1992514171380030a0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 550863,
+        "known_for_department": "Acting",
+        "name": "Shari Solanis",
+        "original_name": "Shari Solanis",
+        "popularity": 1.1559,
+        "profile_path": "/bEl8gNwtqyQDvFmhybqpLqnjnHX.jpg",
+        "cast_id": 5,
+        "character": "Angela",
+        "credit_id": "52fe478ec3a368484e0cd51f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74501,
+        "known_for_department": "Acting",
+        "name": "Luis Fernandez-Gil",
+        "original_name": "Luis Fernandez-Gil",
+        "popularity": 0.9171,
+        "profile_path": "/mXpkTg66pOcx9S0ncXjF56SK52y.jpg",
+        "cast_id": 3,
+        "character": "Luis",
+        "credit_id": "52fe478ec3a368484e0cd517",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 208529,
+        "known_for_department": "Acting",
+        "name": "Adrian Quiñonez",
+        "original_name": "Adrian Quiñonez",
+        "popularity": 0.832,
+        "profile_path": "/8pD6oeoIFcsi3dP09MpTZ0DjXF6.jpg",
+        "cast_id": 4,
+        "character": "Diego",
+        "credit_id": "52fe478ec3a368484e0cd51b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1627518,
+        "known_for_department": "Acting",
+        "name": "Marcellina Walker",
+        "original_name": "Marcellina Walker",
+        "popularity": 0.3914,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Sally",
+        "credit_id": "5749eb5892514171380030a8",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240600,
+        "known_for_department": "Directing",
+        "name": "Philippe Diaz",
+        "original_name": "Philippe Diaz",
+        "popularity": 0.6639,
+        "profile_path": null,
+        "credit_id": "52fe478ec3a368484e0cd513",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240600,
+        "known_for_department": "Directing",
+        "name": "Philippe Diaz",
+        "original_name": "Philippe Diaz",
+        "popularity": 0.6639,
+        "profile_path": null,
+        "credit_id": "52fe478ec3a368484e0cd50d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1627520,
+        "known_for_department": "Production",
+        "name": "Richard Castro",
+        "original_name": "Richard Castro",
+        "popularity": 0.3676,
+        "profile_path": null,
+        "credit_id": "5749ec5e92514171430030bf",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1627519,
+        "known_for_department": "Production",
+        "name": "Beth Portello",
+        "original_name": "Beth Portello",
+        "popularity": 0.4356,
+        "profile_path": null,
+        "credit_id": "5749ec23c3a3683396002e2c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240600,
+        "known_for_department": "Directing",
+        "name": "Philippe Diaz",
+        "original_name": "Philippe Diaz",
+        "popularity": 0.6639,
+        "profile_path": null,
+        "credit_id": "5749ec0bc3a3682fa400087e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1470430,
+        "known_for_department": "Editing",
+        "name": "Alberto Gómez Díaz",
+        "original_name": "Alberto Gómez Díaz",
+        "popularity": 0.9143,
+        "profile_path": null,
+        "credit_id": "5749ed19c3a368339900360b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1627521,
+        "known_for_department": "Camera",
+        "name": "Denise Brassard",
+        "original_name": "Denise Brassard",
+        "popularity": 0.3673,
+        "profile_path": null,
+        "credit_id": "5ede2b25f1759c0021d32178",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

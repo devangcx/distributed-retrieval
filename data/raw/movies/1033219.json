@@ -1,0 +1,423 @@
+{
+  "adult": false,
+  "backdrop_path": "/6891ZXCoQXmt0S7iUhC9UNp8dtv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 1033219,
+  "imdb_id": "tt22408766",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Attack on Titan",
+  "overview": "As viable water is depleted on Earth, a mission is sent to Saturn's moon Titan to retrieve sustainable H2O reserves from its alien inhabitants. But just as the humans acquire the precious resource, they are attacked by Titan rebels, who don't trust that the Earthlings will leave in peace.",
+  "popularity": 2.4545,
+  "poster_path": "/aQQ9oRO273ImFTAmY4RR3kPTkff.jpg",
+  "production_companies": [
+    {
+      "id": 1311,
+      "logo_path": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+      "name": "The Asylum",
+      "origin_country": "US"
+    },
+    {
+      "id": 185065,
+      "logo_path": "/jOB4ZZVEepRbkIxSyWfy3pW50pi.png",
+      "name": "Emerald City Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-09-30",
+  "revenue": 0,
+  "runtime": 93,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The battle for Earth has begun.",
+  "title": "Attack on Titan",
+  "video": false,
+  "vote_average": 5.936,
+  "vote_count": 179,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60650,
+        "known_for_department": "Acting",
+        "name": "Michael Paré",
+        "original_name": "Michael Paré",
+        "popularity": 2.6801,
+        "profile_path": "/jxrXW8OL6hwJgtJgePdMO5yHuAM.jpg",
+        "cast_id": 28,
+        "character": "Citizen Prime Ortiz",
+        "credit_id": "66f5a5f8773f0a7aa5d5d12b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 585936,
+        "known_for_department": "Acting",
+        "name": "Erin Coker",
+        "original_name": "Erin Coker",
+        "popularity": 0.6362,
+        "profile_path": "/mnk9O2o2sPOYA6DyGmLF2PBGFY3.jpg",
+        "cast_id": 2,
+        "character": "Allison Quince",
+        "credit_id": "6341cb38e8d028007a002e2f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1155659,
+        "known_for_department": "Acting",
+        "name": "Jack Pearson",
+        "original_name": "Jack Pearson",
+        "popularity": 0.9959,
+        "profile_path": "/kTL6lQp7u0IlmWXOhdxz6nxnC0f.jpg",
+        "cast_id": 4,
+        "character": "Max Reece",
+        "credit_id": "6341cb5b71ffdf00825dd16b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 75755,
+        "known_for_department": "Acting",
+        "name": "Anthony Jensen",
+        "original_name": "Anthony Jensen",
+        "popularity": 0.772,
+        "profile_path": "/4BWRrZ6F2wi99kWJlPSq0wJaKcJ.jpg",
+        "cast_id": 5,
+        "character": "Jowers",
+        "credit_id": "6341cb6da5743d008365d67e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1832720,
+        "known_for_department": "Acting",
+        "name": "Neli Sabour",
+        "original_name": "Neli Sabour",
+        "popularity": 0.4975,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Heidi Quince",
+        "credit_id": "6341cb8fe4b576007bfd0e0d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2033285,
+        "known_for_department": "Acting",
+        "name": "Karan Sagoo",
+        "original_name": "Karan Sagoo",
+        "popularity": 0.7095,
+        "profile_path": "/mWBKKwSRN4qmHGyyI45AnJ49Vpc.jpg",
+        "cast_id": 7,
+        "character": "Adrian Naidu",
+        "credit_id": "6341cba1d34eb3009035932f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3732223,
+        "known_for_department": "Acting",
+        "name": "Natalie Storrs",
+        "original_name": "Natalie Storrs",
+        "popularity": 0.4518,
+        "profile_path": "/lcGM9PRKZ3LbNZOLK3kknYqRPST.jpg",
+        "cast_id": 8,
+        "character": "Saoirse Parker",
+        "credit_id": "6341cbb9a61de1007ddaba4a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3732225,
+        "known_for_department": "Acting",
+        "name": "Justin Tanks",
+        "original_name": "Justin Tanks",
+        "popularity": 0.5344,
+        "profile_path": "/2IohxXvWSiBwKxYlYr744wb04IM.jpg",
+        "cast_id": 9,
+        "character": "Mark Morales",
+        "credit_id": "6341cbc8e1ad79007e61da58",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1982153,
+        "known_for_department": "Acting",
+        "name": "Jenny Tran",
+        "original_name": "Jenny Tran",
+        "popularity": 0.6647,
+        "profile_path": "/2fAdRSEbnaRDznFopOUuPPjKKd.jpg",
+        "cast_id": 10,
+        "character": "Kim Costa",
+        "credit_id": "6341cbdb1b7c59007e6d6248",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1493324,
+        "known_for_department": "Writing",
+        "name": "Paul Bianchi",
+        "original_name": "Paul Bianchi",
+        "popularity": 0.7257,
+        "profile_path": "/19XjHOcLbswXGae3iovv0tLr3uY.jpg",
+        "cast_id": 1,
+        "character": "Computer (voice)",
+        "credit_id": "6341cb242d37210079004873",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2745621,
+        "known_for_department": "Acting",
+        "name": "Scott Williams",
+        "original_name": "Scott Williams",
+        "popularity": 0.3913,
+        "profile_path": "/4cH71N3VfgY4E3tsmYtUl5KaC4v.jpg",
+        "cast_id": 29,
+        "character": "Afreetijima",
+        "credit_id": "680c202f3c718e8c553764b9",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3948292,
+        "known_for_department": "Production",
+        "name": "Andrew Fernie",
+        "original_name": "Andrew Fernie",
+        "popularity": 0.4279,
+        "profile_path": null,
+        "credit_id": "64e3c3645258ae014df0113d",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3393591,
+        "known_for_department": "Editing",
+        "name": "Sam Tarr",
+        "original_name": "Sam Tarr",
+        "popularity": 0.4832,
+        "profile_path": null,
+        "credit_id": "6344eb7b9bcd0f007d3160a5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 568324,
+        "known_for_department": "Visual Effects",
+        "name": "Glenn Campbell",
+        "original_name": "Glenn Campbell",
+        "popularity": 0.5357,
+        "profile_path": null,
+        "credit_id": "6344ebb2d6c300007f5f4576",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30053,
+        "known_for_department": "Production",
+        "name": "David Michael Latt",
+        "original_name": "David Michael Latt",
+        "popularity": 0.8848,
+        "profile_path": "/cBkmGgFkGFFyyE6aWDYovvaHL0g.jpg",
+        "credit_id": "6344eb6acdf2e6007f322e8f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 236844,
+        "known_for_department": "Production",
+        "name": "David Rimawi",
+        "original_name": "David Rimawi",
+        "popularity": 0.692,
+        "profile_path": "/uGrN7upcJHt4qEx6H89qKWS1dmI.jpg",
+        "credit_id": "6344eb627a97ab007d56a67e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1231571,
+        "known_for_department": "Camera",
+        "name": "Noah Luke",
+        "original_name": "Noah Luke",
+        "popularity": 0.7407,
+        "profile_path": "/mwRQJiwaJfmcAZLZDrgZxTuXNWy.jpg",
+        "credit_id": "6344eb75a61de1007aeb8df2",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1266956,
+        "known_for_department": "Acting",
+        "name": "Eva Ceja",
+        "original_name": "Eva Ceja",
+        "popularity": 0.6641,
+        "profile_path": "/rbqSEPIW90ARGWeZp688mByzPVC.jpg",
+        "credit_id": "6344eb575b4fed007fe7c753",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79390,
+        "known_for_department": "Production",
+        "name": "Paul Bales",
+        "original_name": "Paul Bales",
+        "popularity": 0.7954,
+        "profile_path": "/3Y28BvJ7JwjqEd8Px0mUogDlN2Z.jpg",
+        "credit_id": "6344eb5cd6c300007aa32f1c",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3680813,
+        "known_for_department": "Art",
+        "name": "Riley Kraus",
+        "original_name": "Riley Kraus",
+        "popularity": 0.2554,
+        "profile_path": null,
+        "credit_id": "6344eb9b5b4fed007fe7c778",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1493324,
+        "known_for_department": "Writing",
+        "name": "Paul Bianchi",
+        "original_name": "Paul Bianchi",
+        "popularity": 0.7257,
+        "profile_path": "/19XjHOcLbswXGae3iovv0tLr3uY.jpg",
+        "credit_id": "6344eb9525b95500822b71e5",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1231571,
+        "known_for_department": "Camera",
+        "name": "Noah Luke",
+        "original_name": "Noah Luke",
+        "popularity": 0.7407,
+        "profile_path": "/mwRQJiwaJfmcAZLZDrgZxTuXNWy.jpg",
+        "credit_id": "6341cc1aa284eb0079c3eddb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1164871,
+        "known_for_department": "Directing",
+        "name": "Gil Luna",
+        "original_name": "Gil Luna",
+        "popularity": 0.4611,
+        "profile_path": null,
+        "credit_id": "6438585bab684900775dceb7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2274853,
+        "known_for_department": "Sound",
+        "name": "Tim Carlos",
+        "original_name": "Tim Carlos",
+        "popularity": 0.5238,
+        "profile_path": null,
+        "credit_id": "66ad5260477c56c78dd2eb4c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1562416,
+        "known_for_department": "Sound",
+        "name": "Mikel Shane Prather",
+        "original_name": "Mikel Shane Prather",
+        "popularity": 0.62,
+        "profile_path": "/5ANTzQ93uFERMaJLy8qZZ8Nt3pq.jpg",
+        "credit_id": "66ad525a235cc66d2d64af99",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4176361,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Alex Marie",
+        "original_name": "Alex Marie",
+        "popularity": 0.308,
+        "profile_path": null,
+        "credit_id": "64bd3f1bac6c7908dd1d0cd0",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      }
+    ]
+  }
+}

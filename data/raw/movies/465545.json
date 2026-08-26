@@ -1,0 +1,337 @@
+{
+  "adult": false,
+  "backdrop_path": "/rGtgkRQ31syhkVYY0ecs2JCd58C.jpg",
+  "belongs_to_collection": null,
+  "budget": 2342264,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://productions.freedolphinentertainment.com/crystal-inferno-def/",
+  "id": 465545,
+  "imdb_id": "tt4048186",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Crystal Inferno",
+  "overview": "Disaster hits when two teenagers are caught in a fire on the 20th floor of a skyscraper. Their parents are on the 60th. Will they survive the flames?",
+  "popularity": 2.549,
+  "poster_path": "/A3laQfentQdbloFeGCPeCGZrzrQ.jpg",
+  "production_companies": [
+    {
+      "id": 106374,
+      "logo_path": null,
+      "name": "Fontana",
+      "origin_country": "BE"
+    },
+    {
+      "id": 106375,
+      "logo_path": "/jki5E7GTVE03OA4V3CRq4QDWA9H.png",
+      "name": "Free Dolphin Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 792,
+      "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+      "name": "RTBF",
+      "origin_country": "BE"
+    },
+    {
+      "id": 7188,
+      "logo_path": "/4lh5AHeYmjH0EITJLnWNbvu6PI0.png",
+      "name": "UFO International Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2017-10-16",
+  "revenue": 0,
+  "runtime": 90,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Crystal Inferno",
+  "video": false,
+  "vote_average": 4.787,
+  "vote_count": 54,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4174,
+        "known_for_department": "Acting",
+        "name": "Claire Forlani",
+        "original_name": "Claire Forlani",
+        "popularity": 5.884,
+        "profile_path": "/e0Uk6QphxHZ9VTtxUT0ZkPgYWNs.jpg",
+        "cast_id": 1,
+        "character": "Brianna Bronson",
+        "credit_id": "59f8581592514169db010c4c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1404403,
+        "known_for_department": "Acting",
+        "name": "Nigel Barber",
+        "original_name": "Nigel Barber",
+        "popularity": 0.7333,
+        "profile_path": "/x28iFuA9LUBMxpWatTdUFPEXSIC.jpg",
+        "cast_id": 5,
+        "character": "Lucas Beaumont",
+        "credit_id": "59f8585892514169a101110b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1496550,
+        "known_for_department": "Acting",
+        "name": "Lorina Kamburova",
+        "original_name": "Lorina Kamburova",
+        "popularity": 0.9184,
+        "profile_path": "/2nIVz8E6YWaakiv61iyGidSoYM9.jpg",
+        "cast_id": 11,
+        "character": "Adria",
+        "credit_id": "5b3d40be0e0a26168800172e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50668,
+        "known_for_department": "Acting",
+        "name": "Jamie Bamber",
+        "original_name": "Jamie Bamber",
+        "popularity": 2.3292,
+        "profile_path": "/qQCn0z3o0udPM6OseBhvyNpCkkK.jpg",
+        "cast_id": 2,
+        "character": "Tom Bronson",
+        "credit_id": "59f85829c3a36860af01008f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67247,
+        "known_for_department": "Acting",
+        "name": "Atanas Srebrev",
+        "original_name": "Atanas Srebrev",
+        "popularity": 1.1197,
+        "profile_path": "/aW9keIvjMkH9YAMQDEyJayAs7oy.jpg",
+        "cast_id": 0,
+        "character": "Eric Steele",
+        "credit_id": "5963482cc3a36825e80de895",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1650797,
+        "known_for_department": "Acting",
+        "name": "Riley Jackson",
+        "original_name": "Riley Jackson",
+        "popularity": 0.6627,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Anne Bronson",
+        "credit_id": "59f85833c3a368606d01132b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1914968,
+        "known_for_department": "Acting",
+        "name": "Isaac Rouse",
+        "original_name": "Isaac Rouse",
+        "popularity": 0.6607,
+        "profile_path": "/p7HA4eYooLBdNsP5Eked7qMZbaq.jpg",
+        "cast_id": 4,
+        "character": "Ben Bronson",
+        "credit_id": "59f8583dc3a368609300fce1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2387127,
+        "known_for_department": "Production",
+        "name": "Delly Allen",
+        "original_name": "Delly Allen",
+        "popularity": 0.5164,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Natasha Vila",
+        "credit_id": "6708cf388d487f6541286488",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1297058,
+        "known_for_department": "Acting",
+        "name": "Emilia Klayn",
+        "original_name": "Emilia Klayn",
+        "popularity": 0.5673,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Michelle Minor",
+        "credit_id": "6708d41c265a5f8bc5709072",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1453290,
+        "known_for_department": "Acting",
+        "name": "JR Esposito",
+        "original_name": "JR Esposito",
+        "popularity": 0.9105,
+        "profile_path": "/zPlXdFuXUz7TP6IBgQh5IdEXfbc.jpg",
+        "cast_id": 15,
+        "character": "James (as J.R. Esposito)",
+        "credit_id": "6708d536265a5f8bc5709137",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1739101,
+        "known_for_department": "Acting",
+        "name": "Nathan Cooper",
+        "original_name": "Nathan Cooper",
+        "popularity": 0.657,
+        "profile_path": "/rjkq191kx9xQF8D5zdPG95QEkcv.jpg",
+        "cast_id": 16,
+        "character": "Paul",
+        "credit_id": "6708d55cc5fcf5a1634f5572",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2484943,
+        "known_for_department": "Acting",
+        "name": "Yonko Dimitrov",
+        "original_name": "Yonko Dimitrov",
+        "popularity": 0.4901,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Fireman",
+        "credit_id": "6708d5906adf662021301434",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 559371,
+        "known_for_department": "Crew",
+        "name": "Stanimir Stamatov",
+        "original_name": "Stanimir Stamatov",
+        "popularity": 0.9154,
+        "profile_path": "/fDJBdH5J50oDuoeRl92gbKP3uZF.jpg",
+        "credit_id": "65c7ac46aad9c2017db6e683",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1565213,
+        "known_for_department": "Directing",
+        "name": "Éric Summer",
+        "original_name": "Éric Summer",
+        "popularity": 0.3795,
+        "profile_path": null,
+        "credit_id": "59f8586c92514169db010cf9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1914970,
+        "known_for_department": "Writing",
+        "name": "Regina Luvitt",
+        "original_name": "Regina Luvitt",
+        "popularity": 0.4718,
+        "profile_path": null,
+        "credit_id": "59f858b4c3a3686058010524",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1282840,
+        "known_for_department": "Sound",
+        "name": "Romain Paillot",
+        "original_name": "Romain Paillot",
+        "popularity": 0.3514,
+        "profile_path": null,
+        "credit_id": "59f8587cc3a368602e010731",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240966,
+        "known_for_department": "Camera",
+        "name": "Martin Chichov",
+        "original_name": "Martin Chichov",
+        "popularity": 0.5848,
+        "profile_path": null,
+        "credit_id": "59f8588f92514169db010d57",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131184,
+        "known_for_department": "Production",
+        "name": "Phillip J. Roth",
+        "original_name": "Phillip J. Roth",
+        "popularity": 0.7923,
+        "profile_path": null,
+        "credit_id": "59f858a892514169a10111ad",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "adult": false,
+  "backdrop_path": "/14ZaCEaHGe1wgGCbQaKAPp4YdWe.jpg",
+  "belongs_to_collection": null,
+  "budget": 9000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.focusfeatures.com/come-play",
+  "id": 571384,
+  "imdb_id": "tt8004664",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Come Play",
+  "overview": "Oliver, a lonely autistic boy, seeks solace and refuge in his ever-present cell phone and tablet. When a mysterious creature uses the boy's devices against him, his parents must fight to save their son from the monster beyond the screen.",
+  "popularity": 4.5963,
+  "poster_path": "/9jy9OzZi0Oy8Hdv603QWujbfCwx.jpg",
+  "production_companies": [
+    {
+      "id": 121685,
+      "logo_path": "/bAO6cpKP9qoqHoDn4oUjWjZ5auq.png",
+      "name": "Amblin Partners",
+      "origin_country": "US"
+    },
+    {
+      "id": 99132,
+      "logo_path": "/oKjgNvaMndJiBmcngrSWPWb8VYO.png",
+      "name": "The Picture Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 7294,
+      "logo_path": "/kK4PRgceWp9KNrycD8xx8seWxYU.png",
+      "name": "Reliance Entertainment",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2020-10-28",
+  "revenue": 13182254,
+  "runtime": 97,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He's good at taking friends.",
+  "title": "Come Play",
+  "video": false,
+  "vote_average": 6.423,
+  "vote_count": 761,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 94098,
+        "known_for_department": "Acting",
+        "name": "Gillian Jacobs",
+        "original_name": "Gillian Jacobs",
+        "popularity": 3.3309,
+        "profile_path": "/sbZVI3F2t5CjmRANwHk3X6iOQpt.jpg",
+        "cast_id": 2,
+        "character": "Sarah",
+        "credit_id": "5c26f4b392514138d2be011a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17487,
+        "known_for_department": "Acting",
+        "name": "John Gallagher Jr.",
+        "original_name": "John Gallagher Jr.",
+        "popularity": 2.0977,
+        "profile_path": "/e4eEg5lH6Yk0OkpieUoUYdzl2Ui.jpg",
+        "cast_id": 1,
+        "character": "Marty",
+        "credit_id": "5c26f4a3c3a3683a7ad17fd7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1939366,
+        "known_for_department": "Acting",
+        "name": "Azhy Robertson",
+        "original_name": "Azhy Robertson",
+        "popularity": 0.9463,
+        "profile_path": "/eTTpOO97m9JLwKjWD2ByjKJPDPr.jpg",
+        "cast_id": 11,
+        "character": "Oliver",
+        "credit_id": "5cb47cee0e0a2626cacaabcf",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2115854,
+        "known_for_department": "Acting",
+        "name": "Winslow Fegley",
+        "original_name": "Winslow Fegley",
+        "popularity": 0.9853,
+        "profile_path": "/fx72xnTrHYLsFA3CUlDbwojH8G7.jpg",
+        "cast_id": 24,
+        "character": "Byron",
+        "credit_id": "5f99c7c3079a9700364274f0",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2195961,
+        "known_for_department": "Acting",
+        "name": "Jayden Marine",
+        "original_name": "Jayden Marine",
+        "popularity": 0.4577,
+        "profile_path": "/fjVvwTK4hIGQxK8LQGqUNU8I6RF.jpg",
+        "cast_id": 23,
+        "character": "Mateo",
+        "credit_id": "5f99c7ba66565a0034b86bc6",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1564457,
+        "known_for_department": "Acting",
+        "name": "Gavin MacIver-Wright",
+        "original_name": "Gavin MacIver-Wright",
+        "popularity": 0.8086,
+        "profile_path": "/k6ydwtVKdnwr9jndf6pyWqHmFUo.jpg",
+        "cast_id": 22,
+        "character": "Zach",
+        "credit_id": "5f99c73fe942ee0036aaac2e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1228278,
+        "known_for_department": "Acting",
+        "name": "Dalmar Abuzeid",
+        "original_name": "Dalmar Abuzeid",
+        "popularity": 1.439,
+        "profile_path": "/5n6O1B8UDNapDf5EqsRm8SLPMnF.jpg",
+        "cast_id": 20,
+        "character": "Mr. Calarco",
+        "credit_id": "5f99c6a387ae7b0034e01c6d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2559963,
+        "known_for_department": "Acting",
+        "name": "Eboni Booth",
+        "original_name": "Eboni Booth",
+        "popularity": 0.7199,
+        "profile_path": "/uVfGePwUpah6QpUUkwuq5wMP57l.jpg",
+        "cast_id": 18,
+        "character": "Dr. Robyn",
+        "credit_id": "5f99c663e942ee003daaa630",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 87020,
+        "known_for_department": "Acting",
+        "name": "Rachel Wilson",
+        "original_name": "Rachel Wilson",
+        "popularity": 1.3914,
+        "profile_path": "/oh8ucBgmgAJcHxSWsekfa6ZzSpS.jpg",
+        "cast_id": 12,
+        "character": "Jennifer",
+        "credit_id": "5cb47d3e0e0a2626cacaac49",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2834149,
+        "known_for_department": "Acting",
+        "name": "Alana-Ashley Marques",
+        "original_name": "Alana-Ashley Marques",
+        "popularity": 0.3356,
+        "profile_path": "/tdJPU8TDm78V0B7Qi4qNk0ZPOdx.jpg",
+        "cast_id": 21,
+        "character": "Aide",
+        "credit_id": "5f99c6c366a7c30036950aca",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1251990,
+        "known_for_department": "Acting",
+        "name": "Ish Morris",
+        "original_name": "Ish Morris",
+        "popularity": 0.8092,
+        "profile_path": "/9bZJdjRXjFdbXc6vm8UD92SvIEy.jpg",
+        "cast_id": 19,
+        "character": "Mateo's Dad",
+        "credit_id": "5f99c6906f8d9500337247fe",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1892758,
+        "known_for_department": "Acting",
+        "name": "Ana Araújo",
+        "original_name": "Ana Araújo",
+        "popularity": 0.6533,
+        "profile_path": "/rqiyRxByRToDsCB0yBvmzN5g1pb.jpg",
+        "cast_id": 25,
+        "character": "Kid Next to Byron",
+        "credit_id": "5fa71466323eba0041262666",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1251968,
+        "known_for_department": "Acting",
+        "name": "Alex Spencer",
+        "original_name": "Alex Spencer",
+        "popularity": 0.5667,
+        "profile_path": "/dbthJumLbtaPmgIKgbfXSpgwnjF.jpg",
+        "cast_id": 26,
+        "character": "Police Officer",
+        "credit_id": "66a2e58d7c18de66f1c83cef",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1644030,
+        "known_for_department": "Acting",
+        "name": "Kate Fenton",
+        "original_name": "Kate Fenton",
+        "popularity": 0.4668,
+        "profile_path": "/9K5fXZk2Zw7hrEm11uS99NFijPH.jpg",
+        "cast_id": 27,
+        "character": "Rude Shopper",
+        "credit_id": "66b17328af7456f0ea93fda1",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131873,
+        "known_for_department": "Directing",
+        "name": "Jacob Chase",
+        "original_name": "Jacob Chase",
+        "popularity": 1.844,
+        "profile_path": "/fY8IuZAuH6mT7SivVD7XKmIkCYJ.jpg",
+        "credit_id": "5c26f4d70e0a26790d344f01",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1530756,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Marcia Scott",
+        "original_name": "Marcia Scott",
+        "popularity": 0.3936,
+        "profile_path": null,
+        "credit_id": "5c26f5660e0a26793334626f",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 414,
+        "known_for_department": "Production",
+        "name": "Alan C. Blomquist",
+        "original_name": "Alan C. Blomquist",
+        "popularity": 0.4741,
+        "profile_path": null,
+        "credit_id": "5c26f534c3a3683a70d18e19",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 587802,
+        "known_for_department": "Production",
+        "name": "Alex Heineman",
+        "original_name": "Alex Heineman",
+        "popularity": 0.5645,
+        "profile_path": "/bT1DtaXVdeSgzYkh5dQeC0xkFRX.jpg",
+        "credit_id": "5c26f4f492514138d7be195a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62011,
+        "known_for_department": "Production",
+        "name": "Andrew Rona",
+        "original_name": "Andrew Rona",
+        "popularity": 0.6329,
+        "profile_path": "/dBmOlX1bQ0X2logp41jsbg5FNuD.jpg",
+        "credit_id": "5c26f50592514138e1be1069",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131873,
+        "known_for_department": "Directing",
+        "name": "Jacob Chase",
+        "original_name": "Jacob Chase",
+        "popularity": 1.844,
+        "profile_path": "/fY8IuZAuH6mT7SivVD7XKmIkCYJ.jpg",
+        "credit_id": "5c26f4e0c3a3683a7ad17ff9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23461,
+        "known_for_department": "Camera",
+        "name": "Maxime Alexandre",
+        "original_name": "Maxime Alexandre",
+        "popularity": 0.5226,
+        "profile_path": "/W0YnA5kR1g0PBliPg78ZQPeYO9.jpg",
+        "credit_id": "5d8dd48579b3d4000f89a317",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14351,
+        "known_for_department": "Sound",
+        "name": "Roque Baños",
+        "original_name": "Roque Baños",
+        "popularity": 0.5101,
+        "profile_path": "/aYZZhbkZvOJ8aQUQSqMjnILmbK4.jpg",
+        "credit_id": "5f97bf071fd36f00394fec55",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 437,
+        "known_for_department": "Art",
+        "name": "David J. Bomba",
+        "original_name": "David J. Bomba",
+        "popularity": 0.5825,
+        "profile_path": null,
+        "credit_id": "5f97beeab9a0bd00387a6e01",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 995462,
+        "known_for_department": "Editing",
+        "name": "Gregory Plotkin",
+        "original_name": "Gregory Plotkin",
+        "popularity": 1.0334,
+        "profile_path": "/sUGMMdWoLobZE4DuaXhLTOPVkby.jpg",
+        "credit_id": "5f97befad2f5b500397ef533",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

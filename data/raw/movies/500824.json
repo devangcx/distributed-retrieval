@@ -1,0 +1,516 @@
+{
+  "adult": false,
+  "backdrop_path": "/bwMBJhMPKiyGpKWBfeQlvCvmiTt.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 500824,
+  "imdb_id": "tt6506276",
+  "origin_country": [
+    "DE",
+    "CA",
+    "RO",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Lemonade",
+  "overview": "While working in the US on a temporary visa as a caretaker, Mara, a 30 year-old single mother from Romania, marries Daniel, an American. After the arrival of her son Dragos, everything seems to have fallen perfectly into place. When the process of getting a green card veers unexpectedly off course, however, Mara is faced with abuses of power on every level and forced to answer a dark question about herself – how far would you go to get what you want?",
+  "popularity": 2.9498,
+  "poster_path": "/iWF9iNLSiBIJ9AfC04HefNnvWSy.jpg",
+  "production_companies": [
+    {
+      "id": 5545,
+      "logo_path": "/A9JHyYxaCXaxqsVQCw9kRsrwqNm.png",
+      "name": "Mobra Films",
+      "origin_country": "RO"
+    },
+    {
+      "id": 17704,
+      "logo_path": "/wf9blZfYeKwIWs9Im4V9lfgjLNb.png",
+      "name": "Peripheria Productions",
+      "origin_country": "CA"
+    },
+    {
+      "id": 100770,
+      "logo_path": "/mV6hVkLjuF1nddTkWSOF3YOPXQH.png",
+      "name": "42film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 18230,
+      "logo_path": "/la7GdaztdxKjJ22IUKn6zHjKKa0.png",
+      "name": "Filmgate Films",
+      "origin_country": "SE"
+    },
+    {
+      "id": 2801,
+      "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+      "name": "Film i Väst",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "RO",
+      "name": "Romania"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2018-10-04",
+  "revenue": 0,
+  "runtime": 85,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Română"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Lemonade",
+  "video": false,
+  "vote_average": 6.259,
+  "vote_count": 29,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1617286,
+        "known_for_department": "Acting",
+        "name": "Mălina Manovici",
+        "original_name": "Mălina Manovici",
+        "popularity": 0.5645,
+        "profile_path": "/flltqjDidTN1RLw1ilVMq5DYi9F.jpg",
+        "cast_id": 8,
+        "character": "Mara",
+        "credit_id": "5a849bc9c3a3686316012e01",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47934,
+        "known_for_department": "Acting",
+        "name": "Dylan Smith",
+        "original_name": "Dylan Smith",
+        "popularity": 1.2756,
+        "profile_path": "/khDLIA2yy2hVrD4uLYt9EAUYTj6.jpg",
+        "cast_id": 10,
+        "character": "Daniel",
+        "credit_id": "5a849bed0e0a26401101b360",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33355,
+        "known_for_department": "Acting",
+        "name": "Steve Bacic",
+        "original_name": "Steve Bacic",
+        "popularity": 1.9838,
+        "profile_path": "/aGEGpzzXuggaLCU0wTaVHbBdYYu.jpg",
+        "cast_id": 9,
+        "character": "Moji",
+        "credit_id": "5a849bdc9251410b4d01128e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1978159,
+        "known_for_department": "Acting",
+        "name": "Milan Hurduc",
+        "original_name": "Milan Hurduc",
+        "popularity": 0.3158,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Dragos",
+        "credit_id": "5a849c190e0a2652ab0121ef",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1978160,
+        "known_for_department": "Acting",
+        "name": "Ruxandra Maniu",
+        "original_name": "Ruxandra Maniu",
+        "popularity": 0.5017,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Aniko",
+        "credit_id": "5a849c2d9251410ac401185c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1176149,
+        "known_for_department": "Acting",
+        "name": "Victor Gomez",
+        "original_name": "Víctor Gómez",
+        "popularity": 0.5005,
+        "profile_path": "/1R7AXy2NFP9srOjD90zPMjwgGyJ.jpg",
+        "cast_id": 14,
+        "character": "Officer Cruz",
+        "credit_id": "6a53293a2c2392a72fb12363",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1849337,
+        "known_for_department": "Acting",
+        "name": "Meghan Allen",
+        "original_name": "Meghan Allen",
+        "popularity": 0.715,
+        "profile_path": "/PQDvAFy4htg8ljpORExPdi5hAO.jpg",
+        "cast_id": 15,
+        "character": "Officer Dean",
+        "credit_id": "6a532a9598c7f5dd54419a36",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 216778,
+        "known_for_department": "Acting",
+        "name": "Lisa Bronwyn Moore",
+        "original_name": "Lisa Bronwyn Moore",
+        "popularity": 0.6695,
+        "profile_path": "/p7vd8VOIjVLd3i2wNL8XmrwcEGx.jpg",
+        "cast_id": 16,
+        "character": "Muriel",
+        "credit_id": "6a532aaac979886be30cb4a8",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 115596,
+        "known_for_department": "Acting",
+        "name": "Arthur Holden",
+        "original_name": "Arthur Holden",
+        "popularity": 1.6852,
+        "profile_path": "/c8FXyHhiVXCsjvwxXOzuVi28z3i.jpg",
+        "cast_id": 17,
+        "character": "Doctor",
+        "credit_id": "6a532ac567604d2f7a0cb3e4",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1072618,
+        "known_for_department": "Acting",
+        "name": "Paula Costain",
+        "original_name": "Paula Costain",
+        "popularity": 0.4454,
+        "profile_path": "/E4CUIxsARQuad6pINQuZGKOZfw.jpg",
+        "cast_id": 18,
+        "character": "Real Estate Agent",
+        "credit_id": "6a532acf1fd13610e87e1c21",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 110887,
+        "known_for_department": "Acting",
+        "name": "Jane Wheeler",
+        "original_name": "Jane Wheeler",
+        "popularity": 0.8354,
+        "profile_path": "/Ab3vhCpbY364Ba1bClpUsrJbYfE.jpg",
+        "cast_id": 13,
+        "character": "Principal",
+        "credit_id": "64ced11f6d4c9700afadbbde",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2574626,
+        "known_for_department": "Acting",
+        "name": "Briauna James",
+        "original_name": "Briauna James",
+        "popularity": 0.4811,
+        "profile_path": "/zwYdIz2OpDvD5LPp9XF6iQv25HV.jpg",
+        "cast_id": 19,
+        "character": "Immigration Agent",
+        "credit_id": "6a532af3a564c187a5419a04",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1225492,
+        "known_for_department": "Acting",
+        "name": "Richard Jutras",
+        "original_name": "Richard Jutras",
+        "popularity": 0.8448,
+        "profile_path": "/b00f6HObWAaw5smlcgaiSvnU23c.jpg",
+        "cast_id": 20,
+        "character": "Motel Clerk",
+        "credit_id": "6a532aff743f0ba3d07e1c01",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1232703,
+        "known_for_department": "Acting",
+        "name": "Pauline Little",
+        "original_name": "Pauline Little",
+        "popularity": 0.7416,
+        "profile_path": "/cbwdnnXtlhYvB3yyqYYWbYX1zww.jpg",
+        "cast_id": 21,
+        "character": "Waitress",
+        "credit_id": "6a532b199aa1240855655409",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1330770,
+        "known_for_department": "Acting",
+        "name": "Bonnie Mak",
+        "original_name": "Bonnie Mak",
+        "popularity": 0.7112,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Forensic Nurse",
+        "credit_id": "6a532b2bff897644b63656f7",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1197066,
+        "known_for_department": "Acting",
+        "name": "Nastassia Markiewicz",
+        "original_name": "Nastassia Markiewicz",
+        "popularity": 0.5431,
+        "profile_path": "/i6NVfsia1rGoBDz6g1sQoiERbIO.jpg",
+        "cast_id": 23,
+        "character": "Western Union Girl",
+        "credit_id": "6a532b4b799be668b0859965",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28392,
+        "known_for_department": "Acting",
+        "name": "Goran Radaković",
+        "original_name": "Goran Radaković",
+        "popularity": 0.776,
+        "profile_path": "/l97Dwse1S63QhjwPbPMdhsUbg88.jpg",
+        "cast_id": 24,
+        "character": "Lawyer",
+        "credit_id": "6a532b6f6fe78310310cb3f5",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1212860,
+        "known_for_department": "Acting",
+        "name": "Jodie Resther",
+        "original_name": "Jodie Resther",
+        "popularity": 0.6893,
+        "profile_path": "/d9pLLSYIwrXVKFbHjg0ZEA2XaBG.jpg",
+        "cast_id": 25,
+        "character": "Nurse",
+        "credit_id": "6a532b824095938599a09794",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1172760,
+        "known_for_department": "Acting",
+        "name": "Daniel Rindress-Kay",
+        "original_name": "Daniel Rindress-Kay",
+        "popularity": 0.5464,
+        "profile_path": "/bnftfIvk8m39BPFdYR53TgpeWPv.jpg",
+        "cast_id": 26,
+        "character": "School Guide",
+        "credit_id": "6a532b8a961e004a853bb59f",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6342545,
+        "known_for_department": "Acting",
+        "name": "Patrick Ryan",
+        "original_name": "Patrick Ryan",
+        "popularity": 0.1688,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Gas Station Clerk",
+        "credit_id": "6a532becab44b439da36560b",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1125991,
+        "known_for_department": "Acting",
+        "name": "Felicia Shulman",
+        "original_name": "Felicia Shulman",
+        "popularity": 0.8006,
+        "profile_path": "/8K0uUfz712rzSGxBbRRTIQDaYUB.jpg",
+        "cast_id": 28,
+        "character": "Gail",
+        "credit_id": "6a532c29e21ed1ef413656c9",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1747331,
+        "known_for_department": "Acting",
+        "name": "Melissa Toussaint",
+        "original_name": "Melissa Toussaint",
+        "popularity": 0.687,
+        "profile_path": "/aBGIlXE6p676TrUP7welh41DrKS.jpg",
+        "cast_id": 29,
+        "character": "Airline Employee",
+        "credit_id": "6a532c45c15dd90f9ea097ea",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 122779,
+        "known_for_department": "Directing",
+        "name": "Ioana Uricaru",
+        "original_name": "Ioana Uricaru",
+        "popularity": 0.517,
+        "profile_path": "/dbN0vPd4lHKagu3uvK9kq9bAXKH.jpg",
+        "credit_id": "5a6a04e8c3a3680ec2000426",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 122779,
+        "known_for_department": "Directing",
+        "name": "Ioana Uricaru",
+        "original_name": "Ioana Uricaru",
+        "popularity": 0.517,
+        "profile_path": "/dbN0vPd4lHKagu3uvK9kq9bAXKH.jpg",
+        "credit_id": "5a849b17c3a368620701191e",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1978157,
+        "known_for_department": "Writing",
+        "name": "Tatiana Ionascu",
+        "original_name": "Tatiana Ionascu",
+        "popularity": 0.2917,
+        "profile_path": null,
+        "credit_id": "5a849b56c3a3682dbf0184bf",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1149901,
+        "known_for_department": "Camera",
+        "name": "Friede Clausz",
+        "original_name": "Friede Clausz",
+        "popularity": 0.4624,
+        "profile_path": null,
+        "credit_id": "5a849b639251410b4d0111e9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1387454,
+        "known_for_department": "Sound",
+        "name": "Olivier Alary",
+        "original_name": "Olivier Alary",
+        "popularity": 0.4476,
+        "profile_path": null,
+        "credit_id": "5a849b7fc3a36863e7011b9b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1547389,
+        "known_for_department": "Editing",
+        "name": "Mircea Olteanu",
+        "original_name": "Mircea Olteanu",
+        "popularity": 0.2713,
+        "profile_path": null,
+        "credit_id": "5a849b8cc3a3682dbf0184f7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1453145,
+        "known_for_department": "Art",
+        "name": "Sylvain Lemaitre",
+        "original_name": "Sylvain Lemaitre",
+        "popularity": 0.3878,
+        "profile_path": null,
+        "credit_id": "5a849b9d0e0a26540c011693",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20657,
+        "known_for_department": "Directing",
+        "name": "Cristian Mungiu",
+        "original_name": "Cristian Mungiu",
+        "popularity": 1.1772,
+        "profile_path": "/zqw1IxK1L62GaQgot1HymcVOaug.jpg",
+        "credit_id": "5a849bb3925141759901607d",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

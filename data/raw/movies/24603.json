@@ -1,0 +1,287 @@
+{
+  "adult": false,
+  "backdrop_path": "/sMjlWRhuDEr7wmENLPKQ7ZuzWNv.jpg",
+  "belongs_to_collection": null,
+  "budget": 7500000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "http://www.allthebestthefilm.com/",
+  "id": 24603,
+  "imdb_id": "tt1433905",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "आल थे बेस्ट: फन बेगिंस",
+  "overview": "In order to increase his monthly allowance, Veer lies to his stepbrother Dharm about being married. When Dharm unexpectedly arrives in Goa, he mistakes Prem's wife for Veer's. This case of mistaken identities leads to chaotic and hilarious situations.",
+  "popularity": 1.0701,
+  "poster_path": "/8PFqM3uF5FUEctVGJa7IToZyq7I.jpg",
+  "production_companies": [
+    {
+      "id": 128365,
+      "logo_path": "/9UnLNX7mfB1FzieJcjA9xyni8wY.png",
+      "name": "Ajay Devgn FFilms",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2009-10-16",
+  "revenue": 0,
+  "runtime": 144,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "All the Best: Fun Begins",
+  "video": false,
+  "vote_average": 6.102,
+  "vote_count": 59,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42803,
+        "known_for_department": "Acting",
+        "name": "Ajay Devgn",
+        "original_name": "Ajay Devgan",
+        "popularity": 2.3821,
+        "profile_path": "/vnHQQFzTjJ0sv14DGMIoKa3qTxN.jpg",
+        "cast_id": 3,
+        "character": "Prem Chopra",
+        "credit_id": "52fe449fc3a368484e02d6bf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85881,
+        "known_for_department": "Acting",
+        "name": "Sanjay Dutt",
+        "original_name": "संजय दत्त",
+        "popularity": 2.4825,
+        "profile_path": "/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg",
+        "cast_id": 6,
+        "character": "Dharam Kapoor",
+        "credit_id": "52fe449fc3a368484e02d6cb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35069,
+        "known_for_department": "Acting",
+        "name": "Fardeen Khan",
+        "original_name": "फ़रदीन ख़ान",
+        "popularity": 0.9537,
+        "profile_path": "/pr3VEjdUTOKSNBFHgwjH9rOT5nC.jpg",
+        "cast_id": 5,
+        "character": "Veer",
+        "credit_id": "52fe449fc3a368484e02d6c7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85035,
+        "known_for_department": "Acting",
+        "name": "Bipasha Basu",
+        "original_name": "Bipasha Basu",
+        "popularity": 1.0489,
+        "profile_path": "/j4p0NOHUNvOCBcfaZiCoyxdJJou.jpg",
+        "cast_id": 4,
+        "character": "Jhanvi Chopra / Kututu",
+        "credit_id": "52fe449fc3a368484e02d6c3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85471,
+        "known_for_department": "Acting",
+        "name": "Mugdha Godse",
+        "original_name": "Mugdha Godse",
+        "popularity": 0.9614,
+        "profile_path": "/7IxEfJkhKujmMBSeQAgkapqmpkW.jpg",
+        "cast_id": 7,
+        "character": "Vidya",
+        "credit_id": "52fe449fc3a368484e02d6cf",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85657,
+        "known_for_department": "Acting",
+        "name": "Ashwini Kalsekar",
+        "original_name": "Ashwini Kalsekar",
+        "popularity": 1.2733,
+        "profile_path": "/mS2nPxyyplKNvwbc5TSCLAEgdvP.jpg",
+        "cast_id": 12,
+        "character": "Mary",
+        "credit_id": "5ed946014d6791001ca6076e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86064,
+        "known_for_department": "Acting",
+        "name": "Mukesh Tiwari",
+        "original_name": "Mukesh Tiwari",
+        "popularity": 1.0627,
+        "profile_path": "/37GTjltEJHpi1lQmLmHKJYTpxjj.jpg",
+        "cast_id": 13,
+        "character": "Chauthala",
+        "credit_id": "5ed9460b4d6791001da609d0",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86019,
+        "known_for_department": "Acting",
+        "name": "Asrani",
+        "original_name": "Govardhan Asrani",
+        "popularity": 0.9031,
+        "profile_path": "/zoZRnIHNkCRq4gKZGaQhbtPrIDj.jpg",
+        "cast_id": 14,
+        "character": "Vidya's father",
+        "credit_id": "5ed9461e3a9937001f573cd3",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35819,
+        "known_for_department": "Acting",
+        "name": "Johny Lever",
+        "original_name": "Johny Lever",
+        "popularity": 1.7738,
+        "profile_path": "/kohAOhKr4HBln8b9P4i1kmMONyi.jpg",
+        "cast_id": 11,
+        "character": "Tobu",
+        "credit_id": "5e988e7619ab590019479c79",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85879,
+        "known_for_department": "Acting",
+        "name": "Sanjay Mishra",
+        "original_name": "Sanjay Mishra",
+        "popularity": 1.3322,
+        "profile_path": "/4MGKohKGU4v9SoXcQKCcC4e4Bpi.jpg",
+        "cast_id": 15,
+        "character": "Raghuvandas 'Raghu' 'RGV' Goverdhandas Vakawale",
+        "credit_id": "5ed9462e700bf700205750a0",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1245701,
+        "known_for_department": "Acting",
+        "name": "Shraddha Musale",
+        "original_name": "Shraddha Musale",
+        "popularity": 0.6558,
+        "profile_path": "/pGyPSxJsOCs9v70ZF2bjnJX2b8y.jpg",
+        "cast_id": 16,
+        "character": "Betty",
+        "credit_id": "6025ee7d8b959e003f217874",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71273,
+        "known_for_department": "Sound",
+        "name": "Pritam Chakraborty",
+        "original_name": "Pritam Chakraborty",
+        "popularity": 0.7956,
+        "profile_path": "/zS8kE2DWQBTQ7ArSSZiWg0OTXvo.jpg",
+        "credit_id": "52fe449fc3a368484e02d6d5",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86783,
+        "known_for_department": "Directing",
+        "name": "Rohit Shetty",
+        "original_name": "Rohit Shetty",
+        "popularity": 0.9722,
+        "profile_path": "/9ZRyKwijT7OAMjIEEPATeTZ2ZQn.jpg",
+        "credit_id": "52fe449fc3a368484e02d6b5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42803,
+        "known_for_department": "Acting",
+        "name": "Ajay Devgn",
+        "original_name": "Ajay Devgan",
+        "popularity": 2.3821,
+        "profile_path": "/vnHQQFzTjJ0sv14DGMIoKa3qTxN.jpg",
+        "credit_id": "52fe449fc3a368484e02d6bb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1264504,
+        "known_for_department": "Writing",
+        "name": "Sajid Samji",
+        "original_name": "Sajid Samji",
+        "popularity": 0.6838,
+        "profile_path": null,
+        "credit_id": "584584c292514169d9017e45",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1264503,
+        "known_for_department": "Writing",
+        "name": "Farhad Samji",
+        "original_name": "Farhad Samji",
+        "popularity": 0.8324,
+        "profile_path": null,
+        "credit_id": "584584b99251416ae5016976",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

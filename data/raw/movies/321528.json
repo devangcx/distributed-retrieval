@@ -1,0 +1,368 @@
+{
+  "adult": false,
+  "backdrop_path": "/g2XhZJhFiHcczWcXEEldItG53gd.jpg",
+  "belongs_to_collection": {
+    "id": 334996,
+    "name": "Son of Batman Collection",
+    "poster_path": "/ze3Wnhbom7T37orabHMIiEGtoYF.jpg",
+    "backdrop_path": "/sVvEkTNx6SjwOb80iyURe5KHtcD.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "http://www.warnerbros.com/batman-vs-robin",
+  "id": 321528,
+  "imdb_id": "tt4324274",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Batman vs. Robin",
+  "overview": "Damian Wayne is having a hard time coping with his father's \"no killing\" rule. Meanwhile, Gotham is going through hell with threats such as the insane Dollmaker, and the secretive Court of Owls.",
+  "popularity": 4.345,
+  "poster_path": "/aGp9XDXmVM5lCKHWtgBC15S7XLr.jpg",
+  "production_companies": [
+    {
+      "id": 2785,
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "name": "Warner Bros. Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 429,
+      "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
+      "name": "DC",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2015-04-03",
+  "revenue": 0,
+  "runtime": 80,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The showdown that will define a destiny.",
+  "title": "Batman vs. Robin",
+  "video": false,
+  "vote_average": 7.217,
+  "vote_count": 1013,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 183812,
+        "known_for_department": "Acting",
+        "name": "Jason O'Mara",
+        "original_name": "Jason O'Mara",
+        "popularity": 2.6548,
+        "profile_path": "/9Cs9PD5pwUkFQPLmpp5e6wkFQoY.jpg",
+        "cast_id": 0,
+        "character": "Bruce Wayne / Batman (voice)",
+        "credit_id": "54e7d1bcc3a36836e7000925",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1164238,
+        "known_for_department": "Acting",
+        "name": "Stuart Allan",
+        "original_name": "Stuart Allan",
+        "popularity": 0.779,
+        "profile_path": "/xCAGTIcgC7J6YCl2bviIADY8blp.jpg",
+        "cast_id": 1,
+        "character": "Damian Wayne / Robin (voice)",
+        "credit_id": "54e7d1d39251412ebd000922",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24813,
+        "known_for_department": "Acting",
+        "name": "David McCallum",
+        "original_name": "David McCallum",
+        "popularity": 2.2754,
+        "profile_path": "/blpEToArrhcrYdRlQU6fJckUcuG.jpg",
+        "cast_id": 2,
+        "character": "Alfred Pennyworth (voice)",
+        "credit_id": "54e7d1f4c3a36836dc00096c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55148,
+        "known_for_department": "Acting",
+        "name": "Sean Maher",
+        "original_name": "Sean Maher",
+        "popularity": 1.1622,
+        "profile_path": "/o7splcOIVAdbHnwohJOUAvXWVlk.jpg",
+        "cast_id": 3,
+        "character": "Dick Grayson / Nightwing (voice)",
+        "credit_id": "54e7d20b9251412eb800092c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23958,
+        "known_for_department": "Acting",
+        "name": "Jeremy Sisto",
+        "original_name": "Jeremy Sisto",
+        "popularity": 2.3295,
+        "profile_path": "/1XfuASLjBhGOhJ4os7juRJot2we.jpg",
+        "cast_id": 4,
+        "character": "Talon (voice)",
+        "credit_id": "54e7d218c3a36836e700093a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71041,
+        "known_for_department": "Acting",
+        "name": "'Weird Al' Yankovic",
+        "original_name": "'Weird Al' Yankovic",
+        "popularity": 1.7824,
+        "profile_path": "/ptaQLv6iMCCTTkNeqm5tpffJhjm.jpg",
+        "cast_id": 6,
+        "character": "Barton Mathis / Dollmaker (voice)",
+        "credit_id": "54e7d2449251412ebd000938",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130081,
+        "known_for_department": "Acting",
+        "name": "Robin Atkin Downes",
+        "original_name": "Robin Atkin Downes",
+        "popularity": 1.5477,
+        "profile_path": "/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg",
+        "cast_id": 7,
+        "character": "Court of Owls Grandmaster (voice)",
+        "credit_id": "54e7d261c3a36836e700094d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21490,
+        "known_for_department": "Acting",
+        "name": "Peter Onorati",
+        "original_name": "Peter Onorati",
+        "popularity": 2.0931,
+        "profile_path": "/1ZrzYcnGcoMKA0jmcoC15GsrOxz.jpg",
+        "cast_id": 8,
+        "character": "Draco (voice)",
+        "credit_id": "54e7d26e9251412eb400092a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34947,
+        "known_for_department": "Acting",
+        "name": "Kevin Conroy",
+        "original_name": "Kevin Conroy",
+        "popularity": 1.615,
+        "profile_path": "/zvWhAwO2l8Kb5IJTwTbKzURypg7.jpg",
+        "cast_id": 9,
+        "character": "Thomas Wayne (voice)",
+        "credit_id": "54e7d27d925141117c000117",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15761,
+        "known_for_department": "Acting",
+        "name": "Grey DeLisle",
+        "original_name": "Grey DeLisle",
+        "popularity": 3.1141,
+        "profile_path": "/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg",
+        "cast_id": 14,
+        "character": "Samantha (voice)",
+        "credit_id": "5664f729925141280c000c0c",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 971299,
+        "known_for_department": "Acting",
+        "name": "Griffin Gluck",
+        "original_name": "Griffin Gluck",
+        "popularity": 2.4549,
+        "profile_path": "/j7KSBKYLgnLxkZfhQ679HRSDIjj.jpg",
+        "cast_id": 20,
+        "character": "Young Bruce / Young Talon (voice)",
+        "credit_id": "5ba76e439251412f0702280e",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 963818,
+        "known_for_department": "Acting",
+        "name": "Troy Baker",
+        "original_name": "Troy Baker",
+        "popularity": 2.1407,
+        "profile_path": "/mppX8pDkwNvx3dJzclwcGkngEb3.jpg",
+        "cast_id": 21,
+        "character": "Owl Lieutenant (voice)",
+        "credit_id": "5ff1b5ced2f5b5003e2cfa9b",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105643,
+        "known_for_department": "Directing",
+        "name": "Jay Oliva",
+        "original_name": "Jay Oliva",
+        "popularity": 1.3311,
+        "profile_path": "/y7EbnuoKFMvU7uZ4aD50jThyNoF.jpg",
+        "credit_id": "54e7d293c3a36836d6000833",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1220917,
+        "known_for_department": "Writing",
+        "name": "J. M. DeMatteis",
+        "original_name": "J. M. DeMatteis",
+        "popularity": 0.5736,
+        "profile_path": "/cYtMwZr5TXF1FCTtLM8IK4EPKQf.jpg",
+        "credit_id": "54e7d2bcc3a36836ea000a43",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1225820,
+        "known_for_department": "Production",
+        "name": "James Tucker",
+        "original_name": "James Tucker",
+        "popularity": 0.9944,
+        "profile_path": "/3Z3VmdGbGk9qkM32m1e3khIwwDE.jpg",
+        "credit_id": "55e5fa1f9251410f170000a1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10949,
+        "known_for_department": "Production",
+        "name": "Michael Uslan",
+        "original_name": "Michael Uslan",
+        "popularity": 0.7986,
+        "profile_path": "/cXiiH0SSk5UHCvHOVAhHX7tNuls.jpg",
+        "credit_id": "570ed6a292514102af000aa3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 34945,
+        "known_for_department": "Production",
+        "name": "Andrea Romano",
+        "original_name": "Andrea Romano",
+        "popularity": 0.5725,
+        "profile_path": "/6WeW7uCKJNK5pVtHmJg5odVZH4u.jpg",
+        "credit_id": "589f9285c3a3684fdd003cb0",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1033619,
+        "known_for_department": "Editing",
+        "name": "Christopher D. Lozinski",
+        "original_name": "Christopher D. Lozinski",
+        "popularity": 0.4217,
+        "profile_path": null,
+        "credit_id": "58d5a062c3a368126702d49f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90367,
+        "known_for_department": "Directing",
+        "name": "Sam Liu",
+        "original_name": "Sam Liu",
+        "popularity": 1.1827,
+        "profile_path": "/3u01dPeS4Us9sUFzwS8DzjA3udr.jpg",
+        "credit_id": "58e4b2c4c3a368731a02cec6",
+        "department": "Art",
+        "job": "Storyboard Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544355,
+        "known_for_department": "Sound",
+        "name": "Frederik Wiedmann",
+        "original_name": "Frederik Wiedmann",
+        "popularity": 0.5271,
+        "profile_path": "/CNkfFuNkHia02qUikqnDi4IBCM.jpg",
+        "credit_id": "66685c934837cebaaea707f7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 930254,
+        "known_for_department": "Writing",
+        "name": "Peter Tomasi",
+        "original_name": "Peter Tomasi",
+        "popularity": 0.8565,
+        "profile_path": "/zGVY3uK4CgguNX7GNAHaWbkKaXu.jpg",
+        "credit_id": "5b39488fc3a368470c007cbd",
+        "department": "Writing",
+        "job": "Comic Book"
+      }
+    ]
+  }
+}

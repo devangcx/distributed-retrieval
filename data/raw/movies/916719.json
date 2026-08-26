@@ -1,0 +1,459 @@
+{
+  "adult": false,
+  "backdrop_path": "/ttkibtcAjoilW1PbTIFy9U9YOdB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 916719,
+  "imdb_id": "tt15438542",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Code Name Banshee",
+  "overview": "Caleb, a former government assassin in hiding, who resurfaces when his protégé, the equally deadly killer known as Banshee, discovers a bounty has been placed on Caleb's head.",
+  "popularity": 4.7456,
+  "poster_path": "/YLv9S84WyPZ5uxty989Duhzi5u.jpg",
+  "production_companies": [
+    {
+      "id": 75355,
+      "logo_path": "/avj80RsunqwDbOS6oLp4plRE5UQ.png",
+      "name": "Yale Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 121204,
+      "logo_path": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
+      "name": "BondIt Media Capital",
+      "origin_country": "US"
+    },
+    {
+      "id": 130900,
+      "logo_path": null,
+      "name": "Buffalo 8 Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-07-01",
+  "revenue": 0,
+  "runtime": 93,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Two assassins. One secret. No turning back.",
+  "title": "Code Name Banshee",
+  "video": false,
+  "vote_average": 5.792,
+  "vote_count": 154,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5915,
+        "known_for_department": "Acting",
+        "name": "Jaime King",
+        "original_name": "Jaime King",
+        "popularity": 2.4747,
+        "profile_path": "/3cG2nVdwERtI6UvCHFa1F0HGAEG.jpg",
+        "cast_id": 3,
+        "character": "Banshee",
+        "credit_id": "61bb442ed2f5b50092f5ac0b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3131,
+        "known_for_department": "Acting",
+        "name": "Antonio Banderas",
+        "original_name": "Antonio Banderas",
+        "popularity": 4.8367,
+        "profile_path": "/fce7zl6elUzsv7wudHFc7RgFtjD.jpg",
+        "cast_id": 4,
+        "character": "Caleb",
+        "credit_id": "61bb4436e72fe800615f7154",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2478,
+        "known_for_department": "Acting",
+        "name": "Tommy Flanagan",
+        "original_name": "Tommy Flanagan",
+        "popularity": 3.1835,
+        "profile_path": "/5OnvT1KpEk3juZavqOCSAEYOtwl.jpg",
+        "cast_id": 5,
+        "character": "Anthony Greene",
+        "credit_id": "61bb444a383df20099d963cb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2139816,
+        "known_for_department": "Acting",
+        "name": "Catherine Davis",
+        "original_name": "Catherine Davis",
+        "popularity": 0.8635,
+        "profile_path": "/dyZPBqh6JlEmtmFq38gpBZ8n9hy.jpg",
+        "cast_id": 7,
+        "character": "Hailey",
+        "credit_id": "61bb448328723c008741f338",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2465152,
+        "known_for_department": "Acting",
+        "name": "Kim DeLonghi",
+        "original_name": "Kim DeLonghi",
+        "popularity": 0.7593,
+        "profile_path": "/2eSJYs4rcliLsBAGEFuAEeLzfx3.jpg",
+        "cast_id": 6,
+        "character": "Carla",
+        "credit_id": "61bb4454397df00062c6e41d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2886486,
+        "known_for_department": "Acting",
+        "name": "Levon Panek",
+        "original_name": "Levon Panek",
+        "popularity": 0.5167,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Thug",
+        "credit_id": "61bb448dd2f5b5001ca46592",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 108923,
+        "known_for_department": "Acting",
+        "name": "Wayne Pyle",
+        "original_name": "Wayne Pyle",
+        "popularity": 0.6486,
+        "profile_path": "/tzgSJOPeqXbAldO4f8FQHnqQ0k2.jpg",
+        "cast_id": 9,
+        "character": "Rick",
+        "credit_id": "61bb449ad2f5b5001ca4659b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1371293,
+        "known_for_department": "Crew",
+        "name": "Keil Oakley Zepernick",
+        "original_name": "Keil Oakley Zepernick",
+        "popularity": 0.7104,
+        "profile_path": "/oGGBqPf7qeKNdSU4wFgZKCjXSSI.jpg",
+        "cast_id": 10,
+        "character": "Giant",
+        "credit_id": "61bb44a5d144430066992d3c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1910695,
+        "known_for_department": "Acting",
+        "name": "Aleksander Vayshelboym",
+        "original_name": "Aleksander Vayshelboym",
+        "popularity": 0.85,
+        "profile_path": "/89cC0kdAAOg3fufPegSyl8xUUxD.jpg",
+        "cast_id": 11,
+        "character": "Kronos",
+        "credit_id": "61bb44b01c6329009d1beee9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2743359,
+        "known_for_department": "Acting",
+        "name": "Dylan Flashner",
+        "original_name": "Dylan Flashner",
+        "popularity": 0.9972,
+        "profile_path": "/nMDE5OFcc1cSioewYSlJDdbt9X7.jpg",
+        "cast_id": 12,
+        "character": "Ryker",
+        "credit_id": "61bb44ba0443c900874ffe89",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2066423,
+        "known_for_department": "Acting",
+        "name": "Rose Lane Sanfilippo",
+        "original_name": "Rose Lane Sanfilippo",
+        "popularity": 0.6222,
+        "profile_path": "/9sUQKviM0twznkVYDLN3MP92tU4.jpg",
+        "cast_id": 13,
+        "character": "Malia",
+        "credit_id": "61bb44c3223e200042afbd57",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3349430,
+        "known_for_department": "Acting",
+        "name": "Emmanuel Kerry",
+        "original_name": "Emmanuel Kerry",
+        "popularity": 0.5627,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Security Guard",
+        "credit_id": "61bb44dc894ed6005e9c4ae2",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3023895,
+        "known_for_department": "Acting",
+        "name": "John Wollman",
+        "original_name": "John Wollman",
+        "popularity": 0.5388,
+        "profile_path": "/aZBKBQbkQUxCWMIybfEf8o2YTvj.jpg",
+        "cast_id": 15,
+        "character": "Mave",
+        "credit_id": "61bb44f56a300b00977cd4d5",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3349431,
+        "known_for_department": "Acting",
+        "name": "Yahudah Bane Brown",
+        "original_name": "Yahudah Bane Brown",
+        "popularity": 0.4258,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Mercenary",
+        "credit_id": "61bb4503e72fe80040dacd8e",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3979287,
+        "known_for_department": "Crew",
+        "name": "Taylor Valentine Lupini",
+        "original_name": "Taylor Valentine Lupini",
+        "popularity": 0.4873,
+        "profile_path": "/pyBl3OUxzMrggYyPm0sEUgHwGiq.jpg",
+        "credit_id": "6510d23826dac1014e2245a8",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3349427,
+        "known_for_department": "Writing",
+        "name": "Matthew Rogers",
+        "original_name": "Matthew Rogers",
+        "popularity": 0.5491,
+        "profile_path": null,
+        "credit_id": "61bb441a014325001f911237",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74629,
+        "known_for_department": "Directing",
+        "name": "Jon Keeyes",
+        "original_name": "Jon Keeyes",
+        "popularity": 0.739,
+        "profile_path": "/2rDJfpaD5fzEYzMcCs4eQlzqkFN.jpg",
+        "credit_id": "61bb4400fa404600870f9fad",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2594382,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Amanda Pepin",
+        "original_name": "Amanda Pepin",
+        "popularity": 0.4619,
+        "profile_path": "/gcgtj1f7XM5Bu5eXhIZ3Fiw6lvo.jpg",
+        "credit_id": "61c78d1648333a0042954a43",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2529115,
+        "known_for_department": "Lighting",
+        "name": "Jim Vitale",
+        "original_name": "Jim Vitale",
+        "popularity": 0.5617,
+        "profile_path": "/bcHr3VKnSXWTZPrVdGvqBgeJsxu.jpg",
+        "credit_id": "61c78d37a93d25008b850edf",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3292842,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Molly Farrell-Savage",
+        "original_name": "Molly Farrell-Savage",
+        "popularity": 0.4943,
+        "profile_path": null,
+        "credit_id": "61c78d5466a0d30041ce0024",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2902409,
+        "known_for_department": "Production",
+        "name": "Kurt Ebner",
+        "original_name": "Kurt Ebner",
+        "popularity": 0.3394,
+        "profile_path": null,
+        "credit_id": "67f17b70a7336870ee994dfa",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1366030,
+        "known_for_department": "Crew",
+        "name": "Drew Leary",
+        "original_name": "Drew Leary",
+        "popularity": 0.5422,
+        "profile_path": "/eSWSERsnqr97Xx60C7BQzsOnjHS.jpg",
+        "credit_id": "67f17b862f7d43702799a37c",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1004068,
+        "known_for_department": "Camera",
+        "name": "Austin Schmidt",
+        "original_name": "Austin Schmidt",
+        "popularity": 0.3617,
+        "profile_path": null,
+        "credit_id": "67f17b8a2f7d43702799a37f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1371293,
+        "known_for_department": "Crew",
+        "name": "Keil Oakley Zepernick",
+        "original_name": "Keil Oakley Zepernick",
+        "popularity": 0.7104,
+        "profile_path": "/oGGBqPf7qeKNdSU4wFgZKCjXSSI.jpg",
+        "credit_id": "67f17b98ede8d82f3bad7eae",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2428632,
+        "known_for_department": "Crew",
+        "name": "Emily Tung",
+        "original_name": "Emily Tung",
+        "popularity": 0.3765,
+        "profile_path": "/n4DqPAae9lT5yghE3gsqK5Y2Yqe.jpg",
+        "credit_id": "67f17b9fe1d5c23c6ed91bd2",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1694621,
+        "known_for_department": "Acting",
+        "name": "Acei Martin",
+        "original_name": "Acei Martin",
+        "popularity": 0.5391,
+        "profile_path": "/nmeuZLgsMMW2q9pcTxVoRX92GrU.jpg",
+        "credit_id": "694555fd77a86b44af7ab4b2",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3218076,
+        "known_for_department": "Directing",
+        "name": "Nieves Garcia Perchin",
+        "original_name": "Nieves Garcia Perchin",
+        "popularity": 0.5741,
+        "profile_path": null,
+        "credit_id": "696fbb142de5e295c0df0fb7",
+        "department": "Crew",
+        "job": "Additional Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6035242,
+        "known_for_department": "Production",
+        "name": "Ed Cohen",
+        "original_name": "Ed Cohen",
+        "popularity": 0.3196,
+        "profile_path": null,
+        "credit_id": "69a72b5e5cc4bdac573d1351",
+        "department": "Art",
+        "job": "Location Scout"
+      }
+    ]
+  }
+}

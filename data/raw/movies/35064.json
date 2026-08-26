@@ -1,0 +1,410 @@
+{
+  "adult": false,
+  "backdrop_path": "/mSdc44v7LZ0n7Sz4OTiwvm6EZe.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "http://www.venusmovies.com/dhadkan/dhadkan.html",
+  "id": 35064,
+  "imdb_id": "tt0255111",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Dhadkan",
+  "overview": "Anjali and Dev are in love with each other and plan to marry, but her family gets her married to Ram. Years later, Dev shows up to reunite with Anjali, however, she has fallen in love with Ram.",
+  "popularity": 1.7302,
+  "poster_path": "/icWt3AGrkXToqWyBviHEfG7auQV.jpg",
+  "production_companies": [
+    {
+      "id": 3939,
+      "logo_path": null,
+      "name": "Venus Records & Tapes",
+      "origin_country": "IN"
+    },
+    {
+      "id": 99664,
+      "logo_path": null,
+      "name": "United Seven Combines",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2000-08-11",
+  "revenue": 0,
+  "runtime": 171,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Never break a heart.....",
+  "title": "Dhadkan",
+  "video": false,
+  "vote_average": 6.34,
+  "vote_count": 50,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35070,
+        "known_for_department": "Acting",
+        "name": "Akshay Kumar",
+        "original_name": "अक्षय कुमार",
+        "popularity": 2.5711,
+        "profile_path": "/sR8nASRtTpiwXqkFHjG2jdRBZ7a.jpg",
+        "cast_id": 2,
+        "character": "Ram Verma",
+        "credit_id": "52fe45909251416c91036ad1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86060,
+        "known_for_department": "Acting",
+        "name": "Shilpa Shetty Kundra",
+        "original_name": "Shilpa Shetty Kundra",
+        "popularity": 1.2613,
+        "profile_path": "/qEU2hFsnKYdjPp4LNYvqmfRFNeP.jpg",
+        "cast_id": 3,
+        "character": "Anjali Chauhan Verma",
+        "credit_id": "52fe45909251416c91036ad5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85730,
+        "known_for_department": "Acting",
+        "name": "Suniel Shetty",
+        "original_name": "सुनील शेट्टी",
+        "popularity": 1.8943,
+        "profile_path": "/7N2gTXit5GMfgUhkZ3QsjTnoMH6.jpg",
+        "cast_id": 4,
+        "character": "Dev Chopra",
+        "credit_id": "52fe45909251416c91036ad9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 110197,
+        "known_for_department": "Acting",
+        "name": "Mahima Chaudhry",
+        "original_name": "Mahima Chaudhry",
+        "popularity": 1.1438,
+        "profile_path": "/pgqztcCYYCdOfQgnqR0lRUlPfKZ.jpg",
+        "cast_id": 5,
+        "character": "Sheetal Varma",
+        "credit_id": "57011619c3a3686e980059b5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35749,
+        "known_for_department": "Acting",
+        "name": "Sushma Seth",
+        "original_name": "Sushma Seth",
+        "popularity": 0.7748,
+        "profile_path": "/1UqCt8kfYWfkrWNfcWp4nO8XWcz.jpg",
+        "cast_id": 7,
+        "character": "Vibha Verma",
+        "credit_id": "63bb828caede59008d3615e4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85696,
+        "known_for_department": "Acting",
+        "name": "Parmeet Sethi",
+        "original_name": "Parmeet Sethi",
+        "popularity": 1.1845,
+        "profile_path": "/paTrHCbnwMxBZREfoGcfY5TlvyY.jpg",
+        "cast_id": 8,
+        "character": "Bobby Verma",
+        "credit_id": "63bb82a7ae6f093cb9de708e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1133909,
+        "known_for_department": "Acting",
+        "name": "Manjeet Kullar",
+        "original_name": "Manjeet Kullar",
+        "popularity": 0.6832,
+        "profile_path": "/k5jkSpqYTf4Fhbyp8UpcupPGt0V.jpg",
+        "cast_id": 9,
+        "character": "Nikki Verma",
+        "credit_id": "63bb830ffc31d300c59ca1df",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 232828,
+        "known_for_department": "Acting",
+        "name": "Kiran Kumar",
+        "original_name": "Kiran Kumar",
+        "popularity": 1.1469,
+        "profile_path": "/vnpgMjRmNXl9r6LE2N5RJ1F5gD6.jpg",
+        "cast_id": 10,
+        "character": "Narendra Chauhan",
+        "credit_id": "63bb8327e0ca7f00a03d81bc",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1041348,
+        "known_for_department": "Acting",
+        "name": "Anjana Mumtaz",
+        "original_name": "Anjana Mumtaz",
+        "popularity": 0.9112,
+        "profile_path": "/c6kW0RsId7p3uD5Fe1IZiloht7Y.jpg",
+        "cast_id": 11,
+        "character": "Veena Chauhan",
+        "credit_id": "63bb8347f8595800ae32b968",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13753,
+        "known_for_department": "Acting",
+        "name": "Sharmila Tagore",
+        "original_name": "Sharmila Tagore",
+        "popularity": 0.89,
+        "profile_path": "/m2MFSVdx4aKVoLRFPJoO5u0FMon.jpg",
+        "cast_id": 13,
+        "character": "Dev's Mother",
+        "credit_id": "63bb838dfa404600c128624b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 140804,
+        "known_for_department": "Acting",
+        "name": "Nilofar",
+        "original_name": "Nilofar",
+        "popularity": 0.4153,
+        "profile_path": "/y7SVH9u1TMwFh7e3jxZtK45Op5.jpg",
+        "cast_id": 16,
+        "character": "Maria",
+        "credit_id": "669fefd191370429ef28a9c2",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87713,
+        "known_for_department": "Writing",
+        "name": "Neeraj Vora",
+        "original_name": "Neeraj Vora",
+        "popularity": 1.0544,
+        "profile_path": "/tvcSH69PvRjkRWSEDaiRechvlyo.jpg",
+        "cast_id": 12,
+        "character": "Babban Miyan",
+        "credit_id": "63bb8379f859580094b33089",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6217,
+        "known_for_department": "Acting",
+        "name": "Anupam Kher",
+        "original_name": "Anupam Kher",
+        "popularity": 1.9559,
+        "profile_path": "/kgU5Ap1Kf9RnicB5DMcXEZqed2f.jpg",
+        "cast_id": 14,
+        "character": "Digvijay Varma",
+        "credit_id": "63bb83b0a6e2d2008b3e3ebb",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1644647,
+        "known_for_department": "Acting",
+        "name": "Prithvi Zutshi",
+        "original_name": "Prithvi Zutshi",
+        "popularity": 0.6169,
+        "profile_path": "/x3nNbRBG95hvmxQzWry4bQ4RypT.jpg",
+        "cast_id": 17,
+        "character": "Investor",
+        "credit_id": "669fefec82eafb954428a9a4",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 174606,
+        "known_for_department": "Acting",
+        "name": "Kader Khan",
+        "original_name": "Kader Khan",
+        "popularity": 0.9845,
+        "profile_path": "/gf0v2N4xKNGDfHN5lxk7yxUEYQ3.jpg",
+        "cast_id": 15,
+        "character": "In \"Dulhe Ka Sehra\"",
+        "credit_id": "669fef9245b93f804e01f256",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113671,
+        "known_for_department": "Directing",
+        "name": "Dharmesh Darshan",
+        "original_name": "Dharmesh Darshan",
+        "popularity": 0.5946,
+        "profile_path": "/t9qQWoH9aN8Q4vN6WHSnu4499Vm.jpg",
+        "credit_id": "52fe458f9251416c91036acd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1521933,
+        "known_for_department": "Sound",
+        "name": "Nusrat Fateh Ali Khan",
+        "original_name": "Nusrat Fateh Ali Khan",
+        "popularity": 0.8432,
+        "profile_path": "/tj7hM3R7icMQKyZeVLYhbl2hQFO.jpg",
+        "credit_id": "5d628e4a7f6c8d4476ec422b",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 959879,
+        "known_for_department": "Camera",
+        "name": "W. B. Rao",
+        "original_name": "W. B. Rao",
+        "popularity": 0.5073,
+        "profile_path": null,
+        "credit_id": "69ad79903fe6fa1a86c1c4b1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 94278,
+        "known_for_department": "Production",
+        "name": "Ratan Jain",
+        "original_name": "Ratan Jain",
+        "popularity": 0.3165,
+        "profile_path": null,
+        "credit_id": "69ad79c209543cd1e8fcba27",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2273602,
+        "known_for_department": "Production",
+        "name": "Umed Jain",
+        "original_name": "Umed Jain",
+        "popularity": 0.2748,
+        "profile_path": null,
+        "credit_id": "69ad79ed09b4549931c1c48c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1936105,
+        "known_for_department": "Art",
+        "name": "Bijon Das Gupta",
+        "original_name": "Bijon Das Gupta",
+        "popularity": 0.2311,
+        "profile_path": null,
+        "credit_id": "69ad7a190f2de3d96979414c",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1113618,
+        "known_for_department": "Sound",
+        "name": "Udit Narayan",
+        "original_name": "Udit Narayan",
+        "popularity": 0.6205,
+        "profile_path": "/2LYPkxyTqlIluiKzYnDMgM5o1Wq.jpg",
+        "credit_id": "69ad7a828eb4d2bc41450052",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1046503,
+        "known_for_department": "Sound",
+        "name": "Sonu Nigam",
+        "original_name": "Sonu Nigam",
+        "popularity": 0.8454,
+        "profile_path": "/lWoKKVb4caU4YeaP00DewHOE5Jp.jpg",
+        "credit_id": "69ad7a9ae37647254ec1c3b7",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2303127,
+        "known_for_department": "Sound",
+        "name": "Jaspinder Narula",
+        "original_name": "Jaspinder Narula",
+        "popularity": 0.3492,
+        "profile_path": "/g5GVWjTPujDYB9wmlorqa1sSKzF.jpg",
+        "credit_id": "69ad885ae78b340c5fc1c512",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1764312,
+        "known_for_department": "Sound",
+        "name": "Alka Yagnik",
+        "original_name": "Alka Yagnik",
+        "popularity": 0.5397,
+        "profile_path": "/xUtThoIvHjCDy3cnkkUSiFjZ0pL.jpg",
+        "credit_id": "69ad88732419a167504501ae",
+        "department": "Sound",
+        "job": "Playback Singer"
+      }
+    ]
+  }
+}

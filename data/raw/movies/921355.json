@@ -1,0 +1,527 @@
+{
+  "adult": false,
+  "backdrop_path": "/umU01ex28ykcaF5IxcHPB0lSGP1.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 921355,
+  "imdb_id": "tt14555174",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Assassin",
+  "overview": "A private military operation invents futuristic microchip tech that enables the mind of an agent to inhabit the body of another person to carry out covert, deadly missions. But when an agent is killed during a secret mission, his wife takes his place in an attempt to bring the man responsible to justice.",
+  "popularity": 3.0369,
+  "poster_path": "/7N0BJPs616SSwE4hVs0jjWuiy5k.jpg",
+  "production_companies": [
+    {
+      "id": 193149,
+      "logo_path": "/dKc1ZXz8JCUa4lbJKFSrgST7FnE.png",
+      "name": "Endless Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 138946,
+      "logo_path": "/mBm1lOmTnMnpvYEGfdNb7X9k5Bb.png",
+      "name": "Brickell & Broadbridge International",
+      "origin_country": "US"
+    },
+    {
+      "id": 193150,
+      "logo_path": "/pZJxKrKZEFYCpHfy1oprLgq7bLS.png",
+      "name": "magiCity Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 193151,
+      "logo_path": "/9LMXlzZQiGMPc4Wiq7suZwgtGPX.png",
+      "name": "Altamira Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 5113,
+      "logo_path": "/qd5ru3vUvGb6dhXSzkHn7EQoX2D.png",
+      "name": "120dB Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-03-31",
+  "revenue": 0,
+  "runtime": 88,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "فارسی"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Every body is a weapon.",
+  "title": "Assassin",
+  "video": false,
+  "vote_average": 5.143,
+  "vote_count": 98,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62,
+        "known_for_department": "Acting",
+        "name": "Bruce Willis",
+        "original_name": "Bruce Willis",
+        "popularity": 7.7451,
+        "profile_path": "/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg",
+        "cast_id": 1,
+        "character": "Valmora",
+        "credit_id": "61cd307138520200419d623e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1661171,
+        "known_for_department": "Acting",
+        "name": "Nomzamo Mbatha",
+        "original_name": "Nomzamo Mbatha",
+        "popularity": 0.7784,
+        "profile_path": "/1awbUooZuQvMSThenXjXRYfxcFe.jpg",
+        "cast_id": 8,
+        "character": "Alexa",
+        "credit_id": "61cd30f7a097dc006172bbc6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10862,
+        "known_for_department": "Acting",
+        "name": "Dominic Purcell",
+        "original_name": "Dominic Purcell",
+        "popularity": 2.4873,
+        "profile_path": "/5GtHSYdnH7o2x5UIm09XqqLoJKO.jpg",
+        "cast_id": 5,
+        "character": "Adrien",
+        "credit_id": "61cd30c7a135330043403849",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1732263,
+        "known_for_department": "Acting",
+        "name": "Andy Allo",
+        "original_name": "Andy Allo",
+        "popularity": 1.1464,
+        "profile_path": "/6qIvEPbFLeKjYdyMb1DXylDEgWU.jpg",
+        "cast_id": 4,
+        "character": "Mali",
+        "credit_id": "61cd30b20d29440063955a2e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62385,
+        "known_for_department": "Acting",
+        "name": "Mustafa Shakir",
+        "original_name": "Mustafa Shakir",
+        "popularity": 1.6398,
+        "profile_path": "/eeBtCxmlmHguKbeUr2Usx2Jdnj9.jpg",
+        "cast_id": 3,
+        "character": "Sebastian",
+        "credit_id": "61cd309e0d29440042116419",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 134365,
+        "known_for_department": "Acting",
+        "name": "Fernanda Andrade",
+        "original_name": "Fernanda Andrade",
+        "popularity": 1.2487,
+        "profile_path": "/tXbeS1OnVKwC2BxXl4rNQjH0rh4.jpg",
+        "cast_id": 7,
+        "character": "Olivia",
+        "credit_id": "61cd30ed1d019100a408d78e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1971391,
+        "known_for_department": "Acting",
+        "name": "Barry Jay Minoff",
+        "original_name": "Barry Jay Minoff",
+        "popularity": 0.6321,
+        "profile_path": "/5RQa6JJ4VzLD7SfVAztKvaRm7cu.jpg",
+        "cast_id": 15,
+        "character": "Marko",
+        "credit_id": "61cd318541aac4004222ff98",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1333845,
+        "known_for_department": "Acting",
+        "name": "Eugenia Kuzmina",
+        "original_name": "Eugenia Kuzmina",
+        "popularity": 0.9431,
+        "profile_path": "/A74eYDRbNe3NpPywXrbtVnERtAY.jpg",
+        "cast_id": 2,
+        "character": "Russian Alexa",
+        "credit_id": "61cd308d2efe4e00428a148c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1609490,
+        "known_for_department": "Acting",
+        "name": "Hannah Quinlivan",
+        "original_name": "Hannah Quinlivan",
+        "popularity": 1.4356,
+        "profile_path": "/4RckWxmFxBpIyLaCpQTA2y5K1wZ.jpg",
+        "cast_id": 6,
+        "character": "Special Agent",
+        "credit_id": "61cd30da5249780061965e7c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1570840,
+        "known_for_department": "Acting",
+        "name": "Christian Rodrigo",
+        "original_name": "Christian Rodrigo",
+        "popularity": 0.3671,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Mr. Bubblegum",
+        "credit_id": "61cd312fb6cff100840e206a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1537526,
+        "known_for_department": "Acting",
+        "name": "Dustin Quick",
+        "original_name": "Dustin Quick",
+        "popularity": 0.3604,
+        "profile_path": "/gTjMMgtBl2xQaaAGjBDGAQtvs41.jpg",
+        "cast_id": 11,
+        "character": "Daughter",
+        "credit_id": "61cd313fbbcae00042bc1c87",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2170918,
+        "known_for_department": "Acting",
+        "name": "Chris Mullinax",
+        "original_name": "Chris Mullinax",
+        "popularity": 0.8477,
+        "profile_path": "/9BILCPkrZDuhLATdMhzVWKRe3yJ.jpg",
+        "cast_id": 12,
+        "character": "Adrian's Bodyguard",
+        "credit_id": "61cd31511d0191006a5f2ff9",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1634323,
+        "known_for_department": "Acting",
+        "name": "Andrea Lareo",
+        "original_name": "Andrea Lareo",
+        "popularity": 0.3996,
+        "profile_path": "/euE6x09sNhdXmnZ0hYVCflGp6q0.jpg",
+        "cast_id": 13,
+        "character": "Art Handler",
+        "credit_id": "61cd316553f83300192cfee9",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2852349,
+        "known_for_department": "Acting",
+        "name": "Adam Huel Potter",
+        "original_name": "Adam Huel Potter",
+        "popularity": 0.6753,
+        "profile_path": "/fe1jINkfBDaOIBi7DzDKRJacQaS.jpg",
+        "cast_id": 14,
+        "character": "Nurse 1",
+        "credit_id": "61cd31751d0191006a5f304a",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1458485,
+        "known_for_department": "Directing",
+        "name": "Macarena Abad",
+        "original_name": "Macarena Abad",
+        "popularity": 0.4863,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Nurse",
+        "credit_id": "61cd319e6840cc005f6e0ef0",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2782560,
+        "known_for_department": "Acting",
+        "name": "Bruce Cooper",
+        "original_name": "Bruce Cooper",
+        "popularity": 0.7242,
+        "profile_path": "/jYB2dZxRyYUBcGUgGExjSMfTUgY.jpg",
+        "cast_id": 17,
+        "character": "Black Ops",
+        "credit_id": "61cd31b0a13533001ea70919",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3363259,
+        "known_for_department": "Acting",
+        "name": "Medi Em",
+        "original_name": "Medi Em",
+        "popularity": 0.5685,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Ferret",
+        "credit_id": "61cd31c1b6cff100840e2237",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1694864,
+        "known_for_department": "Acting",
+        "name": "Davy J. Marr",
+        "original_name": "Davy J. Marr",
+        "popularity": 0.4598,
+        "profile_path": "/A91TZtgKgjPi67l1x4897G9nZLD.jpg",
+        "cast_id": 31,
+        "character": "Son",
+        "credit_id": "64269dee960cde012633e71e",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1103828,
+        "known_for_department": "Directing",
+        "name": "Jesse Atlas",
+        "original_name": "Jesse Atlas",
+        "popularity": 0.4467,
+        "profile_path": null,
+        "credit_id": "61cd31d6c439c0008d76cf2d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1103828,
+        "known_for_department": "Directing",
+        "name": "Jesse Atlas",
+        "original_name": "Jesse Atlas",
+        "popularity": 0.4467,
+        "profile_path": null,
+        "credit_id": "61cd31e662f33500959b1874",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3114593,
+        "known_for_department": "Writing",
+        "name": "Aaron Wolfe",
+        "original_name": "Aaron Wolfe",
+        "popularity": 0.3876,
+        "profile_path": null,
+        "credit_id": "61cd3201fdf8b7008beca8f6",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3916238,
+        "known_for_department": "Sound",
+        "name": "Knobody",
+        "original_name": "Knobody",
+        "popularity": 0.2748,
+        "profile_path": null,
+        "credit_id": "63e7f1b66c8492008dc3825e",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1580165,
+        "known_for_department": "Editing",
+        "name": "Philip Harrison",
+        "original_name": "Philip Harrison",
+        "popularity": 0.3787,
+        "profile_path": null,
+        "credit_id": "63e7f1d963aad200bd91eaae",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1147988,
+        "known_for_department": "Camera",
+        "name": "Bryan Koss",
+        "original_name": "Bryan Koss",
+        "popularity": 0.4728,
+        "profile_path": null,
+        "credit_id": "63e7f1f26c84920097ff0a09",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1627248,
+        "known_for_department": "Production",
+        "name": "Shanan Becker",
+        "original_name": "Shanan Becker",
+        "popularity": 0.5996,
+        "profile_path": null,
+        "credit_id": "63e7f20763aad200e05ce168",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1955020,
+        "known_for_department": "Production",
+        "name": "Jonathan Saba",
+        "original_name": "Jonathan Saba",
+        "popularity": 0.5951,
+        "profile_path": null,
+        "credit_id": "63e7f210d388ae00d2b25f2c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1627249,
+        "known_for_department": "Production",
+        "name": "Bill Bromiley",
+        "original_name": "Bill Bromiley",
+        "popularity": 0.5323,
+        "profile_path": null,
+        "credit_id": "63e7f1fe9512e100e3d08d90",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3916239,
+        "known_for_department": "Sound",
+        "name": "Mark Tewarson",
+        "original_name": "Mark Tewarson",
+        "popularity": 0.2452,
+        "profile_path": null,
+        "credit_id": "6654c4905f6bf3a4071bbc54",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1571063,
+        "known_for_department": "Art",
+        "name": "Alec Contestabile",
+        "original_name": "Alec Contestabile",
+        "popularity": 0.4218,
+        "profile_path": null,
+        "credit_id": "68d07289133d09d9d7fe9863",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1633560,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gina Ruiz",
+        "original_name": "Gina Ruiz",
+        "popularity": 0.5967,
+        "profile_path": null,
+        "credit_id": "68d0728a133d09d9d7fe9866",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4351074,
+        "known_for_department": "Crew",
+        "name": "Kyle Roberts",
+        "original_name": "Kyle Roberts",
+        "popularity": 0.6897,
+        "profile_path": null,
+        "credit_id": "68e58e8bffe39ca921bdc46e",
+        "department": "Crew",
+        "job": "Cinematography"
+      }
+    ]
+  }
+}

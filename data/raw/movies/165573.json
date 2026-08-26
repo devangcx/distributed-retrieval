@@ -1,0 +1,289 @@
+{
+  "adult": false,
+  "backdrop_path": "/zoXbkvFC2ANw72FvfeZOdHv3vPc.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 165573,
+  "imdb_id": "tt0250483",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Kya Kehna",
+  "overview": "Priya, a young college girl faces hardships and challenges after she becomes pregnant before marriage.",
+  "popularity": 1.288,
+  "poster_path": "/xk8PvgLZkL33tBP1jh9WqZHN3ae.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2000-05-18",
+  "revenue": 0,
+  "runtime": 155,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kya Kehna",
+  "video": false,
+  "vote_average": 5.739,
+  "vote_count": 23,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35745,
+        "known_for_department": "Acting",
+        "name": "Preity Zinta",
+        "original_name": "Preity Zinta",
+        "popularity": 2.2563,
+        "profile_path": "/uaY2M3goYsp0QpNenharmIqnMvy.jpg",
+        "cast_id": 1,
+        "character": "Priya Bakshi",
+        "credit_id": "52fe4c8cc3a36847f8233af1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35747,
+        "known_for_department": "Acting",
+        "name": "Saif Ali Khan",
+        "original_name": "सैफ़ अली ख़ान",
+        "popularity": 2.0849,
+        "profile_path": "/85uKiFDEcIqzLh0GwqYvecXw4uA.jpg",
+        "cast_id": 2,
+        "character": "Rahul Modi",
+        "credit_id": "52fe4c8cc3a36847f8233af5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 974865,
+        "known_for_department": "Acting",
+        "name": "Chandrachur Singh",
+        "original_name": "Chandrachur Singh",
+        "popularity": 0.7056,
+        "profile_path": "/xb978zBgdBuqTAs1wHlMPbZtrI3.jpg",
+        "cast_id": 4,
+        "character": "Ajay",
+        "credit_id": "5d94df6b9b6e47002adb3815",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6217,
+        "known_for_department": "Acting",
+        "name": "Anupam Kher",
+        "original_name": "Anupam Kher",
+        "popularity": 1.9559,
+        "profile_path": "/kgU5Ap1Kf9RnicB5DMcXEZqed2f.jpg",
+        "cast_id": 3,
+        "character": "Gulshan Bakshi",
+        "credit_id": "52fe4c8cc3a36847f8233af9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 146971,
+        "known_for_department": "Acting",
+        "name": "Farida Jalal",
+        "original_name": "Farida Jalal",
+        "popularity": 1.7088,
+        "profile_path": "/tJdqL4BRSAWVFX1W6cmwxFs9IFh.jpg",
+        "cast_id": 5,
+        "character": "Rohini Bakshi",
+        "credit_id": "5d94dfe90b731600233c92f1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2423578,
+        "known_for_department": "Acting",
+        "name": "Mamik",
+        "original_name": "Mamik",
+        "popularity": 0.2839,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Vicky Bakshi",
+        "credit_id": "5d94e11f35818f0013d66eb0",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1222875,
+        "known_for_department": "Acting",
+        "name": "Nivedita Bhattacharya",
+        "original_name": "Nivedita Bhattacharya",
+        "popularity": 0.9131,
+        "profile_path": "/6mkx7TV07nPyKbsL65Fg0rSTGgK.jpg",
+        "cast_id": 7,
+        "character": "Priya's Sister-In-Law",
+        "credit_id": "5d94e1320b7316002b3c9eef",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 140674,
+        "known_for_department": "Acting",
+        "name": "Navneet Nishan",
+        "original_name": "Navneet Nishan",
+        "popularity": 1.0094,
+        "profile_path": "/dm1ICqCOeJC88ye81ITQrhBw6U3.jpg",
+        "cast_id": 8,
+        "character": "Mrs. Modi",
+        "credit_id": "5d94e1ca8a0e9b002a3b9534",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35818,
+        "known_for_department": "Acting",
+        "name": "Rajeev Verma",
+        "original_name": "Rajeev Verma",
+        "popularity": 0.6053,
+        "profile_path": "/aJZQAksd12d8cV8Zjo3IUnaH7Rm.jpg",
+        "cast_id": 9,
+        "character": "Mr. Modi",
+        "credit_id": "5d94e1eb8a0e9b001a3b9522",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 994318,
+        "known_for_department": "Acting",
+        "name": "Rita Bhaduri",
+        "original_name": "Rita Bhaduri",
+        "popularity": 0.7469,
+        "profile_path": "/efWRSQCth6k9iCpYirLTnQ7HtCB.jpg",
+        "cast_id": 10,
+        "character": "Ajay's Mother",
+        "credit_id": "5d94e212ea4263001293a831",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85457,
+        "known_for_department": "Acting",
+        "name": "Amit Mistry",
+        "original_name": "Amit Mistry",
+        "popularity": 0.5236,
+        "profile_path": "/9Vk0ZrGirF99EhvQwmsRahJzR1m.jpg",
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "690da21ef2781b680931a33f",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 593019,
+        "known_for_department": "Writing",
+        "name": "Kundan Shah",
+        "original_name": "Kundan Shah",
+        "popularity": 0.6349,
+        "profile_path": "/89O1Q21JOHDJRKQAVPeKb3Jbvt0.jpg",
+        "credit_id": "5d94e25f35818f0013d66fbe",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1008332,
+        "known_for_department": "Production",
+        "name": "Kumar Sadhuram Taurani",
+        "original_name": "Kumar Sadhuram Taurani",
+        "popularity": 0.3353,
+        "profile_path": null,
+        "credit_id": "5d94e27f8a0e9b00223b9f2b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92689,
+        "known_for_department": "Production",
+        "name": "Ramesh Sadhuram Taurani",
+        "original_name": "Ramesh Sadhuram Taurani",
+        "popularity": 0.3623,
+        "profile_path": null,
+        "credit_id": "5d94e2bf35818f0023d67f56",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 275825,
+        "known_for_department": "Writing",
+        "name": "Honey Irani",
+        "original_name": "Honey Irani",
+        "popularity": 0.5565,
+        "profile_path": "/6NzWdPSbuibsoIJs7mcPWtYGmmJ.jpg",
+        "credit_id": "5d94e2f70b731600233c9603",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 275825,
+        "known_for_department": "Writing",
+        "name": "Honey Irani",
+        "original_name": "Honey Irani",
+        "popularity": 0.5565,
+        "profile_path": "/6NzWdPSbuibsoIJs7mcPWtYGmmJ.jpg",
+        "credit_id": "5d94e3060b7316001a3c88c7",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53616,
+        "known_for_department": "Sound",
+        "name": "Rajesh Roshan",
+        "original_name": "राजेश रोशन",
+        "popularity": 0.8132,
+        "profile_path": "/A1574M9n4Fk3DNaDGkRp7tiAo4z.jpg",
+        "credit_id": "5d94e31b8a0e9b001a3b964a",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  }
+}

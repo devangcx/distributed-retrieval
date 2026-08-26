@@ -1,0 +1,336 @@
+{
+  "adult": false,
+  "backdrop_path": "/eTtPBMxOS1XLnjyFSaJBJ0vtV9x.jpg",
+  "belongs_to_collection": {
+    "id": 1698073,
+    "name": "Barbie Filmereihe",
+    "poster_path": "/dmNbjHmMLw2r0gYouOByZ7B2C2C.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 415749,
+  "imdb_id": "tt5502946",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Barbie: Star Light Adventure",
+  "overview": "When Barbie, a cosmic princess with a hoverboard, learns that the brightly shining stars have begun to dim, she begins a rescue mission to save the galaxy.",
+  "popularity": 3.418,
+  "poster_path": "/9Yq33EXs9YpgrwGXJlJL73OTpt1.jpg",
+  "production_companies": [
+    {
+      "id": 6220,
+      "logo_path": "/cAj69EL1zSXmZH6STbMGZrunyMD.png",
+      "name": "Mattel",
+      "origin_country": "US"
+    },
+    {
+      "id": 10280,
+      "logo_path": null,
+      "name": "Arc Productions",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2016-08-12",
+  "revenue": 0,
+  "runtime": 79,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A new kind of princess!",
+  "title": "Barbie: Star Light Adventure",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 188,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1599422,
+        "known_for_department": "Acting",
+        "name": "Erica Lindbeck",
+        "original_name": "Erica Lindbeck",
+        "popularity": 1.4757,
+        "profile_path": "/l5ISBt8S8Upct0fDgaEPuELp4zE.jpg",
+        "cast_id": 4,
+        "character": "Barbie (voice)",
+        "credit_id": "57dbbc319251415c05005f7e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 229434,
+        "known_for_department": "Acting",
+        "name": "Robbie Daymond",
+        "original_name": "Robbie Daymond",
+        "popularity": 1.2097,
+        "profile_path": "/1Wu13TUN1FiTOx6K7nIDQo63SAX.jpg",
+        "cast_id": 3,
+        "character": "Leo (voice)",
+        "credit_id": "57dbbc27925141698d006228",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1679954,
+        "known_for_department": "Acting",
+        "name": "Kimberly Woods",
+        "original_name": "Kimberly Woods",
+        "popularity": 0.5518,
+        "profile_path": "/5LCBjhLvyfa8m0qEd5Mwa3l9yQZ.jpg",
+        "cast_id": 5,
+        "character": "Sal-Lee (voice)",
+        "credit_id": "57dbbc3c9251416905006174",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1425192,
+        "known_for_department": "Acting",
+        "name": "Sarah Anne Williams",
+        "original_name": "Sarah Anne Williams",
+        "popularity": 0.4356,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Sheena / Kareena / Sprites (voice)",
+        "credit_id": "57dbbc48c3a36818740069ed",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1067639,
+        "known_for_department": "Acting",
+        "name": "Michael Chandler",
+        "original_name": "Michael Chandler",
+        "popularity": 0.6057,
+        "profile_path": "/aZGbQqdVoRWQ5tIdXXDoRMxUPje.jpg",
+        "cast_id": 7,
+        "character": "Dad (voice)",
+        "credit_id": "57dbbc5a925141690500618e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28248,
+        "known_for_department": "Acting",
+        "name": "Dwight Schultz",
+        "original_name": "Dwight Schultz",
+        "popularity": 1.8041,
+        "profile_path": "/kVXkC94gNdSWRvDAs0DqBCduJ4S.jpg",
+        "cast_id": 2,
+        "character": "Constantine (voice)",
+        "credit_id": "57dbbc1c9251415c05005f6b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 989809,
+        "known_for_department": "Acting",
+        "name": "Ben Bledsoe",
+        "original_name": "Ben Bledsoe",
+        "popularity": 0.8023,
+        "profile_path": "/xwCiL0dVwGX5iKoULLNXNcboEaz.jpg",
+        "cast_id": 8,
+        "character": "Artemis (voice)",
+        "credit_id": "57dbbc64925141681c005d38",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 589709,
+        "known_for_department": "Acting",
+        "name": "Jonathan Lipow",
+        "original_name": "Jonathan Lipow",
+        "popularity": 0.8149,
+        "profile_path": "/mSy3SCQYg4QP1BU86w56MRmBbqD.jpg",
+        "cast_id": 16,
+        "character": "Starlian (voice)",
+        "credit_id": "6360be170f52650081fd2a19",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 228123,
+        "known_for_department": "Acting",
+        "name": "Lucien Dodge",
+        "original_name": "Lucien Dodge",
+        "popularity": 0.6678,
+        "profile_path": "/wAtloasr1EQlQ96O9pGlHFqryre.jpg",
+        "cast_id": 17,
+        "character": "Pupcorn (voice)",
+        "credit_id": "6360be273396b90091d8a258",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 228121,
+        "known_for_department": "Acting",
+        "name": "Laura Post",
+        "original_name": "Laura Post",
+        "popularity": 0.7236,
+        "profile_path": "/q95vgGRfaweU7ro1O4VA7KR11RY.jpg",
+        "cast_id": 18,
+        "character": "Narrator (voice)",
+        "credit_id": "6360be3c41eee1007dd1888a",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1882882,
+        "known_for_department": "Writing",
+        "name": "Ruth Handler",
+        "original_name": "Ruth Handler",
+        "popularity": 1.2616,
+        "profile_path": "/dpjzMMrUxiLFWRgDQ9GedhQ9hmA.jpg",
+        "credit_id": "62a29c1bdc1cb42f0d38a6dc",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3305866,
+        "known_for_department": "Production",
+        "name": "Matthew Berkowitz",
+        "original_name": "Matthew Berkowitz",
+        "popularity": 0.3864,
+        "profile_path": null,
+        "credit_id": "618d6feac9dbf900920d56da",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78487,
+        "known_for_department": "Writing",
+        "name": "Kate Boutilier",
+        "original_name": "Kate Boutilier",
+        "popularity": 0.6572,
+        "profile_path": null,
+        "credit_id": "6360bdbd41eee1007a0e2f2e",
+        "department": "Crew",
+        "job": "Additional Writing"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1226919,
+        "known_for_department": "Production",
+        "name": "Cella Nichols Duffy",
+        "original_name": "Cella Nichols Duffy",
+        "popularity": 0.5574,
+        "profile_path": null,
+        "credit_id": "6360bd62efd3c2007f02d5d2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2328204,
+        "known_for_department": "Art",
+        "name": "Alexandra Kavalova",
+        "original_name": "Alexandra Kavalova",
+        "popularity": 0.3385,
+        "profile_path": null,
+        "credit_id": "6360bd93efd3c200918e9ad7",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1599438,
+        "known_for_department": "Writing",
+        "name": "Kacey Arnold",
+        "original_name": "Kacey Arnold",
+        "popularity": 0.3787,
+        "profile_path": null,
+        "credit_id": "6360bd9f532acb007dcfda21",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1514585,
+        "known_for_department": "Directing",
+        "name": "Andrew Tan",
+        "original_name": "Andrew Tan",
+        "popularity": 0.5196,
+        "profile_path": null,
+        "credit_id": "57dbbbe9c3a3681a0c0060be",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85561,
+        "known_for_department": "Directing",
+        "name": "Michael Goguen",
+        "original_name": "Michael Goguen",
+        "popularity": 0.6129,
+        "profile_path": null,
+        "credit_id": "57dbbbf19251415c05005f4c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150857,
+        "known_for_department": "Sound",
+        "name": "Toby Chu",
+        "original_name": "Toby Chu",
+        "popularity": 0.6011,
+        "profile_path": null,
+        "credit_id": "66755fdd9400e76a1c6c79cf",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

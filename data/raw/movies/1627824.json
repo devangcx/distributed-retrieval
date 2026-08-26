@@ -1,0 +1,227 @@
+{
+  "adult": false,
+  "backdrop_path": "/slgx2ur9DnHRVLBJYfONL4T7wyx.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://www.nick.com",
+  "id": 1627824,
+  "imdb_id": "tt39565775",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Rocky's Cat-astrophe",
+  "overview": "When one of Humdinger's schemes goes awry, a Junkyard Kitten's home is destroyed and Rocky bites off more than he can chew when he invites the kitten to stay at the Lookout overnight. While the kitten causes more trouble than expected, Rocky learns that even heroes need help.",
+  "popularity": 11.6627,
+  "poster_path": "/pqfkJh0CyF00GvR4NIdvJYkJb2F.jpg",
+  "production_companies": [
+    {
+      "id": 125532,
+      "logo_path": "/4CmwNviLLczXm8YWHj4fivXFjc3.png",
+      "name": "Guru Studio",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2026-02-27",
+  "revenue": 0,
+  "runtime": 44,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Rocky's Cat-astrophe",
+  "video": false,
+  "vote_average": 7.792,
+  "vote_count": 24,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2901870,
+        "known_for_department": "Acting",
+        "name": "Jesse Gervasi",
+        "original_name": "Jesse Gervasi",
+        "popularity": 0.7081,
+        "profile_path": "/ncXW5NuXsKqtjMsNwUgui0VyADI.jpg",
+        "cast_id": 1,
+        "character": "Marshall",
+        "credit_id": "6982eba9601f50cab3301318",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5985292,
+        "known_for_department": "Acting",
+        "name": "Jackson Reid",
+        "original_name": "Jackson Reid",
+        "popularity": 0.2335,
+        "profile_path": "/5JzYWpGDHDGhzB3qqZL1EJhzFF7.jpg",
+        "cast_id": 2,
+        "character": "Rocky",
+        "credit_id": "6982ebbe15949119048e5ff5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2412016,
+        "known_for_department": "Acting",
+        "name": "Lilly Bartlam",
+        "original_name": "Lilly Bartlam",
+        "popularity": 1.1741,
+        "profile_path": "/dPIQFgUNaEQ70m6Bt7SVbbfYPbg.jpg",
+        "cast_id": 3,
+        "character": "Skye",
+        "credit_id": "6982ebd2e9f6d6b535383840",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5985293,
+        "known_for_department": "Acting",
+        "name": "Kai Harris",
+        "original_name": "Kai Harris",
+        "popularity": 0.4133,
+        "profile_path": "/qW3fWsWIYXsuJW3bWIM07UoDxr5.jpg",
+        "cast_id": 4,
+        "character": "Ryder",
+        "credit_id": "6982ebe3b59342c49f8e5eba",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3716163,
+        "known_for_department": "Acting",
+        "name": "Lucien Duncan-Reid",
+        "original_name": "Lucien Duncan-Reid",
+        "popularity": 0.6467,
+        "profile_path": "/sliCDt3gkMHXcXusq72PLLFTbHG.jpg",
+        "cast_id": 5,
+        "character": "Rubble",
+        "credit_id": "6982ebf32535aac0bc383854",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4332375,
+        "known_for_department": "Acting",
+        "name": "Luke Dietz",
+        "original_name": "Luke Dietz",
+        "popularity": 0.6684,
+        "profile_path": "/3JsnxWS7wIsdplyDLtzr2PS6sgM.jpg",
+        "cast_id": 6,
+        "character": "Chase",
+        "credit_id": "6982ec042352c63135383787",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3026944,
+        "known_for_department": "Acting",
+        "name": "Jordan Mazeral",
+        "original_name": "Jordan Mazeral",
+        "popularity": 0.479,
+        "profile_path": "/iZtTedIiDtKbOhW070ZJPFOGuD1.jpg",
+        "cast_id": 7,
+        "character": "Zuma",
+        "credit_id": "6982ec1fe286772657fa6421",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5985294,
+        "known_for_department": "Directing",
+        "name": "Joey So",
+        "original_name": "Joey So",
+        "popularity": 0.389,
+        "profile_path": null,
+        "credit_id": "6982ec681bd71776af1ef04c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5155605,
+        "known_for_department": "Directing",
+        "name": "Jamie Whitney",
+        "original_name": "Jamie Whitney",
+        "popularity": 0.3072,
+        "profile_path": null,
+        "credit_id": "6982ec8bffe60477d2383799",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1410857,
+        "known_for_department": "Production",
+        "name": "Dan Mokriy",
+        "original_name": "Dan Mokriy",
+        "popularity": 0.5213,
+        "profile_path": null,
+        "credit_id": "6982eca34b3d8b487232e7c9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5985295,
+        "known_for_department": "Production",
+        "name": "Jason McKenzie",
+        "original_name": "Jason McKenzie",
+        "popularity": 0.2023,
+        "profile_path": null,
+        "credit_id": "6982ecbb3b977ba6738e5fbf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3210996,
+        "known_for_department": "Production",
+        "name": "Matt Beatty",
+        "original_name": "Matt Beatty",
+        "popularity": 0.2698,
+        "profile_path": null,
+        "credit_id": "6982ecd64d8e36e0ac8e5f0d",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

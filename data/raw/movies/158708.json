@@ -1,0 +1,325 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 158708,
+  "imdb_id": "tt0430202",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Sandwich",
+  "overview": "Shekar has moved to Mumbai from his home in Punjab and has fallen in love with Nisha. However, he is called back to his home to hear that his disabled sister is to marry a young man named Harpreet, but on the condition that Shekar marry Harpreet's sister. Unable to refuse, Shekar must lead a double life until matters come to a head many years later.",
+  "popularity": 1.0434,
+  "poster_path": "/1tnz4nWAyulISTPHcDh0bwjPR1g.jpg",
+  "production_companies": [
+    {
+      "id": 64375,
+      "logo_path": null,
+      "name": "Rahul Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2006-07-31",
+  "revenue": 0,
+  "runtime": 152,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sandwich",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 20,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97546,
+        "known_for_department": "Acting",
+        "name": "Govinda",
+        "original_name": "Govinda",
+        "popularity": 1.747,
+        "profile_path": "/jIY8akWgvhgbIgZDd20yIPFDSv8.jpg",
+        "cast_id": 0,
+        "character": "Sher Singh/Shekhar",
+        "credit_id": "58c2e1d2c3a3681278000c17",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 123180,
+        "known_for_department": "Acting",
+        "name": "Raveena Tandon",
+        "original_name": "रवीना टंडन",
+        "popularity": 2.0941,
+        "profile_path": "/4z0X9ZMgyNZRHfJG4G2Z10rhLpu.jpg",
+        "cast_id": 1,
+        "character": "Nisha S. Singh",
+        "credit_id": "58c2e1ec9251417381000c47",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 110197,
+        "known_for_department": "Acting",
+        "name": "Mahima Chaudhry",
+        "original_name": "Mahima Chaudhry",
+        "popularity": 1.1438,
+        "profile_path": "/pgqztcCYYCdOfQgnqR0lRUlPfKZ.jpg",
+        "cast_id": 2,
+        "character": "Sweety S. Singh",
+        "credit_id": "58c2e1f8c3a3681269000b27",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85683,
+        "known_for_department": "Acting",
+        "name": "Mohnish Behl",
+        "original_name": "Mohnish Behl",
+        "popularity": 0.6732,
+        "profile_path": "/iiDceTPiwHY4y91gdP3OsEHOo7r.jpg",
+        "cast_id": 3,
+        "character": "Inspector Pangey",
+        "credit_id": "58c2e2079251417355000c1e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86503,
+        "known_for_department": "Acting",
+        "name": "Anang Desai",
+        "original_name": "Anang Desai",
+        "popularity": 0.7894,
+        "profile_path": "/c5QbV2LHo1AFtavHO6owAObONBC.jpg",
+        "cast_id": 4,
+        "character": "Plastic Surgeon",
+        "credit_id": "58c2e214c3a3681209000c28",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110721,
+        "known_for_department": "Acting",
+        "name": "Shammi Kapoor",
+        "original_name": "Shammi Kapoor",
+        "popularity": 0.9214,
+        "profile_path": "/qMv1oc2ZH6GKZ9b7BPtLfP6Y1KA.jpg",
+        "cast_id": 5,
+        "character": "Swami Trilokanand",
+        "credit_id": "58c2e2219251417355000c3e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32335,
+        "known_for_department": "Acting",
+        "name": "Mushtaq Khan",
+        "original_name": "Mushtaq Khan",
+        "popularity": 0.8584,
+        "profile_path": "/xj2fPOfGRiQCFp7V9MUAlshNGZH.jpg",
+        "cast_id": 6,
+        "character": "Popatlal",
+        "credit_id": "58c2e22cc3a3681242000d12",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 232828,
+        "known_for_department": "Acting",
+        "name": "Kiran Kumar",
+        "original_name": "Kiran Kumar",
+        "popularity": 1.1469,
+        "profile_path": "/vnpgMjRmNXl9r6LE2N5RJ1F5gD6.jpg",
+        "cast_id": 7,
+        "character": "Balbir Singh",
+        "credit_id": "58c2e244c3a368124c000c45",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35750,
+        "known_for_department": "Acting",
+        "name": "Reema Lagoo",
+        "original_name": "Reema Lagoo",
+        "popularity": 0.8198,
+        "profile_path": "/hQ5r2pPD8T94Dli5oNP6IlwEf1c.jpg",
+        "cast_id": 8,
+        "character": "Mrs. Singh",
+        "credit_id": "58c2e24e9251417379000cc2",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1039571,
+        "known_for_department": "Acting",
+        "name": "Shweta Menon",
+        "original_name": "Shweta Menon",
+        "popularity": 1.0577,
+        "profile_path": "/31RBamV8AyHSmkrbp9FGYJCehiP.jpg",
+        "cast_id": 10,
+        "character": "Maggie",
+        "credit_id": "58c2e293c3a3681269000bde",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86062,
+        "known_for_department": "Acting",
+        "name": "Ananth Narayan Mahadevan",
+        "original_name": "Ananth Narayan Mahadevan",
+        "popularity": 0.9571,
+        "profile_path": "/pATgqyeAeVxAYckHtH87cSmVkMS.jpg",
+        "cast_id": 16,
+        "character": "Mr. Rao",
+        "credit_id": "591daca992514149f3020b1b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35759,
+        "known_for_department": "Acting",
+        "name": "Satish Shah",
+        "original_name": "Satish Shah",
+        "popularity": 1.4609,
+        "profile_path": "/AaXbQI0fAoTW4Qjg4dAtC5xkK1G.jpg",
+        "cast_id": 17,
+        "character": "Chelaramani",
+        "credit_id": "6477cb2a0e29a200f97ffaea",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 227327,
+        "known_for_department": "Acting",
+        "name": "Sucheta Khanna",
+        "original_name": "Sucheta Khanna",
+        "popularity": 0.9467,
+        "profile_path": "/5fztwP73Ps5SrtDLnyTGMI0XuD7.jpg",
+        "cast_id": 18,
+        "character": "Film Actress",
+        "credit_id": "6477cb9f17497300c130b0aa",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76790,
+        "known_for_department": "Acting",
+        "name": "Raj Zutshi",
+        "original_name": "Raj Zutshi",
+        "popularity": 0.9253,
+        "profile_path": "/aJmWL08uj2oVGd2cJmBuzNSO2LY.jpg",
+        "cast_id": 19,
+        "character": "Vicky Chopra",
+        "credit_id": "6477ccd5e323f301061372b3",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85801,
+        "known_for_department": "Writing",
+        "name": "Anees Bazmee",
+        "original_name": "Anees Bazmee",
+        "popularity": 0.6504,
+        "profile_path": "/5ZapTXeavaYyMhhurei7qzHgd7D.jpg",
+        "credit_id": "58c2e2b8c3a3681278000d16",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1773880,
+        "known_for_department": "Writing",
+        "name": "Rajesh Gupta",
+        "original_name": "Rajesh Gupta",
+        "popularity": 0.297,
+        "profile_path": null,
+        "credit_id": "58c2e2dd9251417326000e27",
+        "department": "Writing",
+        "job": "Musical"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85801,
+        "known_for_department": "Writing",
+        "name": "Anees Bazmee",
+        "original_name": "Anees Bazmee",
+        "popularity": 0.6504,
+        "profile_path": "/5ZapTXeavaYyMhhurei7qzHgd7D.jpg",
+        "credit_id": "58c2e2ae9251417335000d1e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1516095,
+        "known_for_department": "Production",
+        "name": "Smita Thackeray",
+        "original_name": "Smita Thackeray",
+        "popularity": 0.27,
+        "profile_path": null,
+        "credit_id": "58c2e2c39251417326000e05",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37240,
+        "known_for_department": "Sound",
+        "name": "Sandeep Chowta",
+        "original_name": "Sandeep Chowta",
+        "popularity": 0.4232,
+        "profile_path": null,
+        "credit_id": "58c2e2d09251417355000d0b",
+        "department": "Writing",
+        "job": "Musical"
+      }
+    ]
+  }
+}

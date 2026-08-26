@@ -1,0 +1,483 @@
+{
+  "adult": false,
+  "backdrop_path": "/jKHxpzea28XqnOitd695vHuDkzJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.primevideo.com/detail/0R5OLS7XQZ4O8HB6MS0XWKMRKR/ref=atv_hm_hom_c_8pZiqd_2_2",
+  "id": 667585,
+  "imdb_id": "tt8983164",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Chhalaang",
+  "overview": "Chhalaang humorously addresses the value of Sports Education in the school curriculum. It follows a hilarious, yet an inspirational journey of a typical PT Master from a semi government-funded school in Northern India, Montu, for whom it’s just a job and is forced to do what he has never done - Teach.",
+  "popularity": 1.3168,
+  "poster_path": "/AcWLGCxCMOeHs1vqMplBIzQ6ME5.jpg",
+  "production_companies": [
+    {
+      "id": 3522,
+      "logo_path": "/d3u51JgEP5KwPfxS13ocqvtzZeX.png",
+      "name": "T-Series",
+      "origin_country": "IN"
+    },
+    {
+      "id": 85334,
+      "logo_path": "/l5cbo6KR6aRBoVfhFPzx8z5ndYs.png",
+      "name": "LUV Films",
+      "origin_country": "IN"
+    },
+    {
+      "id": 128365,
+      "logo_path": "/9UnLNX7mfB1FzieJcjA9xyni8wY.png",
+      "name": "Ajay Devgn FFilms",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2020-11-13",
+  "revenue": 0,
+  "runtime": 136,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Chhalaang",
+  "video": false,
+  "vote_average": 6.159,
+  "vote_count": 41,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117727,
+        "known_for_department": "Acting",
+        "name": "Rajkummar Rao",
+        "original_name": "Rajkummar Rao",
+        "popularity": 1.3543,
+        "profile_path": "/ttBY7Y8x4NCpXfGS9Tc1NN8ISos.jpg",
+        "cast_id": 1,
+        "character": "Mahinder Hooda (Montu)",
+        "credit_id": "5e2fd07fc56d2d001a4eede8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1148844,
+        "known_for_department": "Acting",
+        "name": "Nushrratt Bharuccha",
+        "original_name": "Nushrratt Bharuccha",
+        "popularity": 0.8875,
+        "profile_path": "/czHifXFFsCoJp8VPcXc22EJjblx.jpg",
+        "cast_id": 2,
+        "character": "Neelima (Neelu)",
+        "credit_id": "5e2fd0a598f1f1000ffdd172",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1307516,
+        "known_for_department": "Acting",
+        "name": "Mohammed Zeeshan Ayyub",
+        "original_name": "Mohammed Zeeshan Ayyub",
+        "popularity": 0.9309,
+        "profile_path": "/cF1j8Vt9YPlOBjy3lfmhuF11dmD.jpg",
+        "cast_id": 13,
+        "character": "Inder Mohan Singh",
+        "credit_id": "5ee0751af36a32001d906b39",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76789,
+        "known_for_department": "Acting",
+        "name": "Saurabh Shukla",
+        "original_name": "Saurabh Shukla",
+        "popularity": 1.5301,
+        "profile_path": "/uFGVBmRIHLAQkYYSI2lSXOxMi4f.jpg",
+        "cast_id": 12,
+        "character": "Shukla",
+        "credit_id": "5ee074f3f36a32001d906ad3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 93290,
+        "known_for_department": "Acting",
+        "name": "Satish Kaushik",
+        "original_name": "Satish Kaushik",
+        "popularity": 1.1025,
+        "profile_path": "/lnqVTsUKVxJYPWN3KRBhRlGP1Z0.jpg",
+        "cast_id": 18,
+        "character": "Montu's Father",
+        "credit_id": "5f8979d139549a0037b75815",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 225162,
+        "known_for_department": "Acting",
+        "name": "Ila Arun",
+        "original_name": "Ila Arun",
+        "popularity": 0.7561,
+        "profile_path": "/sKPy1XhTe2uhAMvCJDhHdvVHQZV.jpg",
+        "cast_id": 19,
+        "character": "Principal Usha Gehlot",
+        "credit_id": "5f8979e13af929003a4d9c73",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1529105,
+        "known_for_department": "Acting",
+        "name": "Jatin Sarna",
+        "original_name": "Jatin Sarna",
+        "popularity": 0.7656,
+        "profile_path": "/bnKqppKcRxSiEPiq2Fmbriibf5N.jpg",
+        "cast_id": 7,
+        "character": "Dimpy",
+        "credit_id": "5ea06d0d223a8b00206ed534",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1262474,
+        "known_for_department": "Acting",
+        "name": "Baljinder Kaur",
+        "original_name": "Baljinder Kaur",
+        "popularity": 0.5019,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Montu's Mother",
+        "credit_id": "5fae4649ad59b5003e5a44a7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2051603,
+        "known_for_department": "Acting",
+        "name": "Naman Jain",
+        "original_name": "Naman Jain",
+        "popularity": 0.6172,
+        "profile_path": "/2Ne998Og068lMcnAo3taWD0Pfig.jpg",
+        "cast_id": 24,
+        "character": "Bablu",
+        "credit_id": "5fae468c7a97ab003ecd59be",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2357580,
+        "known_for_department": "Acting",
+        "name": "Rajiv Gupta",
+        "original_name": "Rajiv Gupta",
+        "popularity": 1.1157,
+        "profile_path": "/2sXJLNQn86xUuR1poilKB3NHMt.jpg",
+        "cast_id": 22,
+        "character": "Neelu's Father",
+        "credit_id": "5fae465c344a8e003f45aed2",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2389934,
+        "known_for_department": "Acting",
+        "name": "Suparna Marwah",
+        "original_name": "Suparna Marwah",
+        "popularity": 0.6833,
+        "profile_path": "/wvu7uXRLKsN1qnjP71xWmtbB8gy.jpg",
+        "cast_id": 23,
+        "character": "Neelu's Mother",
+        "credit_id": "5fae467601e4d100405519e9",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2854576,
+        "known_for_department": "Acting",
+        "name": "Garima Kaur",
+        "original_name": "Garima Kaur",
+        "popularity": 0.2386,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Pinki",
+        "credit_id": "5fae46a50fb39800428a471c",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2580338,
+        "known_for_department": "Camera",
+        "name": "Eeshit Narain",
+        "original_name": "Eeshit Narain",
+        "popularity": 0.4105,
+        "profile_path": null,
+        "credit_id": "6320faea1b722c0084360ab7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42803,
+        "known_for_department": "Acting",
+        "name": "Ajay Devgn",
+        "original_name": "Ajay Devgan",
+        "popularity": 2.3821,
+        "profile_path": "/vnHQQFzTjJ0sv14DGMIoKa3qTxN.jpg",
+        "credit_id": "5e2fd163ac8e6b0015bda442",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 990865,
+        "known_for_department": "Directing",
+        "name": "Hansal Mehta",
+        "original_name": "Hansal Mehta",
+        "popularity": 0.6859,
+        "profile_path": "/nOol2pFJsjQBKz1WUpc0bEMcNqb.jpg",
+        "credit_id": "5e2fd0e2fd140b00156cafbb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1158937,
+        "known_for_department": "Directing",
+        "name": "Luv Ranjan",
+        "original_name": "Luv Ranjan",
+        "popularity": 0.7718,
+        "profile_path": "/b8guabfHOtspjV50PKbdOulTAka.jpg",
+        "credit_id": "5e2fd10798f1f10018fdbe53",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 120478,
+        "known_for_department": "Editing",
+        "name": "Akiv Ali",
+        "original_name": "Akiv Ali",
+        "popularity": 0.3956,
+        "profile_path": null,
+        "credit_id": "5ea06ddedb72c0001bef8e66",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1187446,
+        "known_for_department": "Writing",
+        "name": "Aseem Arora",
+        "original_name": "Aseem Arora",
+        "popularity": 0.555,
+        "profile_path": null,
+        "credit_id": "5ee07475c8113d001f79026c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1645929,
+        "known_for_department": "Acting",
+        "name": "Zeishan Quadri",
+        "original_name": "Zeishan Quadri",
+        "popularity": 0.6073,
+        "profile_path": null,
+        "credit_id": "5ee0748890dde00020a6d3af",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 231574,
+        "known_for_department": "Art",
+        "name": "Shashank Tere",
+        "original_name": "Shashank Tere",
+        "popularity": 0.3623,
+        "profile_path": null,
+        "credit_id": "5f8ad1912667780036e439e3",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2809737,
+        "known_for_department": "Editing",
+        "name": "Chetan M. Solanki",
+        "original_name": "Chetan M. Solanki",
+        "popularity": 0.2609,
+        "profile_path": null,
+        "credit_id": "5f80c9433429ff0036d6f228",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1764221,
+        "known_for_department": "Production",
+        "name": "Vicky Sidana",
+        "original_name": "Vicky Sidana",
+        "popularity": 0.4719,
+        "profile_path": null,
+        "credit_id": "5f80c950021cee0037474ba9",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2809741,
+        "known_for_department": "Directing",
+        "name": "Harpal Singh",
+        "original_name": "Harpal Singh",
+        "popularity": 0.2962,
+        "profile_path": null,
+        "credit_id": "5f80c975d8e15a0038e0b2ae",
+        "department": "Directing",
+        "job": "Action Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1671085,
+        "known_for_department": "Sound",
+        "name": "Hitesh Sonik",
+        "original_name": "Hitesh Sonik",
+        "popularity": 0.4572,
+        "profile_path": null,
+        "credit_id": "5f80c960021cee0037474c06",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1078260,
+        "known_for_department": "Sound",
+        "name": "Yo Yo Honey Singh",
+        "original_name": "Yo Yo Honey Singh",
+        "popularity": 0.6584,
+        "profile_path": "/w54B446zi7xrdq0vEBNplMDMM6K.jpg",
+        "credit_id": "69141d7d1913c5a927dd2940",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1158937,
+        "known_for_department": "Directing",
+        "name": "Luv Ranjan",
+        "original_name": "Luv Ranjan",
+        "popularity": 0.7718,
+        "profile_path": "/b8guabfHOtspjV50PKbdOulTAka.jpg",
+        "credit_id": "695d5d883a0e1d731d029483",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2272947,
+        "known_for_department": "Production",
+        "name": "Ankur Garg",
+        "original_name": "Ankur Garg",
+        "popularity": 0.3282,
+        "profile_path": null,
+        "credit_id": "695d5de3d6b8076382179593",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3319799,
+        "known_for_department": "Acting",
+        "name": "Sweetaj Brar",
+        "original_name": "Sweetaj Brar",
+        "popularity": 0.7693,
+        "profile_path": "/dXuTZKQDGzPgVtM39yj2VT5flar.jpg",
+        "credit_id": "695d5e49d87edaa26c9f2e08",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2310978,
+        "known_for_department": "Sound",
+        "name": "Payal Dev",
+        "original_name": "Payal Dev",
+        "popularity": 0.7081,
+        "profile_path": "/aL0nmWpYN7LlC36qVLiEdrl46GX.jpg",
+        "credit_id": "695d5e6bdca4ad800d24d369",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 545518,
+        "known_for_department": "Sound",
+        "name": "Daler Mehndi",
+        "original_name": "Daler Mehndi",
+        "popularity": 0.5725,
+        "profile_path": "/dr8U7UDh2HWOELZDr4KV1eK7a01.jpg",
+        "credit_id": "695d5ec19d52b68a839f8ad9",
+        "department": "Sound",
+        "job": "Playback Singer"
+      }
+    ]
+  }
+}

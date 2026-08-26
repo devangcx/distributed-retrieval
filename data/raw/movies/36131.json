@@ -1,0 +1,407 @@
+{
+  "adult": false,
+  "backdrop_path": "/uIx2pA44jPJVpv7spGrG21oKn1f.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 36131,
+  "imdb_id": "tt1286750",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Tropic Thunder: Rain of Madness",
+  "overview": "A behind-the-scenes mockumentary of Tropic Thunder.",
+  "popularity": 2.4114,
+  "poster_path": "/zRcxzIn1QGKALqNeE6aovcmYcNs.jpg",
+  "production_companies": [
+    {
+      "id": 127891,
+      "logo_path": null,
+      "name": "Monkey Deux",
+      "origin_country": ""
+    },
+    {
+      "id": 2932,
+      "logo_path": "/4uLKLjGivVg2YnAIhAn8k7ZuVFj.png",
+      "name": "Red Hour",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2008-08-26",
+  "revenue": 0,
+  "runtime": 30,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Before the thunder... comes the madness.",
+  "title": "Tropic Thunder: Rain of Madness",
+  "video": false,
+  "vote_average": 6.833,
+  "vote_count": 63,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15009,
+        "known_for_department": "Acting",
+        "name": "Justin Theroux",
+        "original_name": "Justin Theroux",
+        "popularity": 2.8694,
+        "profile_path": "/vnI9L0rXBAw1HeC0Q8hJGeJMGAW.jpg",
+        "cast_id": 1,
+        "character": "Jan Jürgen",
+        "credit_id": "52fe45ce9251416c9103f0fb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4581,
+        "known_for_department": "Acting",
+        "name": "Steve Coogan",
+        "original_name": "Steve Coogan",
+        "popularity": 3.5411,
+        "profile_path": "/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg",
+        "cast_id": 3,
+        "character": "Damien Cockburn",
+        "credit_id": "52fe45ce9251416c9103f103",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3223,
+        "known_for_department": "Acting",
+        "name": "Robert Downey Jr.",
+        "original_name": "Robert Downey Jr.",
+        "popularity": 11.0167,
+        "profile_path": "/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg",
+        "cast_id": 4,
+        "character": "Kirk Lazarus",
+        "credit_id": "52fe45ce9251416c9103f107",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7399,
+        "known_for_department": "Acting",
+        "name": "Ben Stiller",
+        "original_name": "Ben Stiller",
+        "popularity": 5.8633,
+        "profile_path": "/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg",
+        "cast_id": 5,
+        "character": "Tugg Speedman",
+        "credit_id": "59e392fa9251410b67000358",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70851,
+        "known_for_department": "Acting",
+        "name": "Jack Black",
+        "original_name": "Jack Black",
+        "popularity": 8.2721,
+        "profile_path": "/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg",
+        "cast_id": 2,
+        "character": "Jeff Portnoy",
+        "credit_id": "52fe45ce9251416c9103f0ff",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19278,
+        "known_for_department": "Acting",
+        "name": "Bill Hader",
+        "original_name": "Bill Hader",
+        "popularity": 3.3836,
+        "profile_path": "/qyT50vQ9PQIEctE1IxDTEsBKstU.jpg",
+        "cast_id": 19,
+        "character": "Rob Slolom",
+        "credit_id": "63154aa60c1255007ed43eb3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1733,
+        "known_for_department": "Acting",
+        "name": "Nick Nolte",
+        "original_name": "Nick Nolte",
+        "popularity": 3.6285,
+        "profile_path": "/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg",
+        "cast_id": 21,
+        "character": "Four Leaf Tayback",
+        "credit_id": "634793e151c01f0079118de4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2010340,
+        "known_for_department": "Art",
+        "name": "Jimmy Rich",
+        "original_name": "Jimmy Rich",
+        "popularity": 0.3892,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Drake 'The Stick' Longwood",
+        "credit_id": "6347941f71ffdf00825f7c8a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 449,
+        "known_for_department": "Acting",
+        "name": "Jay Baruchel",
+        "original_name": "Jay Baruchel",
+        "popularity": 2.752,
+        "profile_path": "/1GYJeQzPcY9Pfmc3FFsBwClkCv7.jpg",
+        "cast_id": 23,
+        "character": "Kevin Sandusky",
+        "credit_id": "658bd9644d23dd072bc50ae6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53336,
+        "known_for_department": "Acting",
+        "name": "Brandon T. Jackson",
+        "original_name": "Brandon T. Jackson",
+        "popularity": 1.8376,
+        "profile_path": "/vkaHkhqqBreqAXARXspFvcjMuiu.jpg",
+        "cast_id": 24,
+        "character": "Alpa Cino",
+        "credit_id": "658bd996b339032117e846fe",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 21197,
+        "known_for_department": "Acting",
+        "name": "Janeane Garofalo",
+        "original_name": "Janeane Garofalo",
+        "popularity": 2.2348,
+        "profile_path": "/cdNooT0otUf5QVHDPm9bkGN7gNu.jpg",
+        "cast_id": 20,
+        "character": "Heidi Bivens",
+        "credit_id": "634793d55b4fed007ae8e084",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 500,
+        "known_for_department": "Acting",
+        "name": "Tom Cruise",
+        "original_name": "Tom Cruise",
+        "popularity": 10.9442,
+        "profile_path": "/3mShHjSQR7NXOVbdTu5rT2Qd0MN.jpg",
+        "cast_id": 25,
+        "character": "Les Grossman",
+        "credit_id": "68912a2f3159fee6dfde7052",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4581,
+        "known_for_department": "Acting",
+        "name": "Steve Coogan",
+        "original_name": "Steve Coogan",
+        "popularity": 3.5411,
+        "profile_path": "/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg",
+        "credit_id": "6314f52671083a00801ed6fc",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15009,
+        "known_for_department": "Acting",
+        "name": "Justin Theroux",
+        "original_name": "Justin Theroux",
+        "popularity": 2.8694,
+        "profile_path": "/vnI9L0rXBAw1HeC0Q8hJGeJMGAW.jpg",
+        "credit_id": "6314f480326c190079d39784",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15009,
+        "known_for_department": "Acting",
+        "name": "Justin Theroux",
+        "original_name": "Justin Theroux",
+        "popularity": 2.8694,
+        "profile_path": "/vnI9L0rXBAw1HeC0Q8hJGeJMGAW.jpg",
+        "credit_id": "6314f52f7fcab30091dd0fce",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4581,
+        "known_for_department": "Acting",
+        "name": "Steve Coogan",
+        "original_name": "Steve Coogan",
+        "popularity": 3.5411,
+        "profile_path": "/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg",
+        "credit_id": "6314f489f9475b007eddfcc7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15009,
+        "known_for_department": "Acting",
+        "name": "Justin Theroux",
+        "original_name": "Justin Theroux",
+        "popularity": 2.8694,
+        "profile_path": "/vnI9L0rXBAw1HeC0Q8hJGeJMGAW.jpg",
+        "credit_id": "5e211b1c20af770014384cda",
+        "department": "Crew",
+        "job": "Creator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2512254,
+        "known_for_department": "Production",
+        "name": "Alan Griswold",
+        "original_name": "Alan Griswold",
+        "popularity": 0.3236,
+        "profile_path": null,
+        "credit_id": "5e211b8520af7700123810be",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4581,
+        "known_for_department": "Acting",
+        "name": "Steve Coogan",
+        "original_name": "Steve Coogan",
+        "popularity": 3.5411,
+        "profile_path": "/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg",
+        "credit_id": "5e211b25cf4b8b0012efea5c",
+        "department": "Crew",
+        "job": "Creator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 73823,
+        "known_for_department": "Production",
+        "name": "Matt Eppedio",
+        "original_name": "Matt Eppedio",
+        "popularity": 0.29,
+        "profile_path": null,
+        "credit_id": "5e211b73397df00014970c3e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2512257,
+        "known_for_department": "Crew",
+        "name": "Michael Fitzgerald",
+        "original_name": "Michael Fitzgerald",
+        "popularity": 0.2084,
+        "profile_path": null,
+        "credit_id": "5e211c2f20af77001638174b",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2512256,
+        "known_for_department": "Production",
+        "name": "Mickey Worsnup",
+        "original_name": "Mickey Worsnup",
+        "popularity": 0.3176,
+        "profile_path": null,
+        "credit_id": "5e211bd2cf4b8b0012efec19",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2512258,
+        "known_for_department": "Editing",
+        "name": "Brian Horn",
+        "original_name": "Brian Horn",
+        "popularity": 0.2413,
+        "profile_path": null,
+        "credit_id": "5e211c5a20af77001638176f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1074886,
+        "known_for_department": "Production",
+        "name": "Brian Taylor",
+        "original_name": "Brian Taylor",
+        "popularity": 0.3869,
+        "profile_path": null,
+        "credit_id": "5e211b94bfeb8b0013cd45ce",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2512255,
+        "known_for_department": "Production",
+        "name": "Amy Powell",
+        "original_name": "Amy Powell",
+        "popularity": 0.2828,
+        "profile_path": null,
+        "credit_id": "5e211baf8f26bc0013728c23",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

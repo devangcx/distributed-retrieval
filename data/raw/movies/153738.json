@@ -1,0 +1,445 @@
+{
+  "adult": false,
+  "backdrop_path": "/4N2Kg5G3xOkzbwKr2af8ATmK7Jb.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "http://www.frankensteinsarmy.com/",
+  "id": 153738,
+  "imdb_id": "tt1925435",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Frankenstein's Army",
+  "overview": "Toward the end of World War II, Russian soldiers pushing into eastern Germany stumble across a secret Nazi lab, one that has unearthed and begun experimenting with the journal of one Dr. Victor Frankenstein. The scientists have used the legendary Frankenstein's work to assemble an army of super-soldiers stitched together from the body parts of their fallen comrades -- a desperate Hitler's last ghastly ploy to escape defeat",
+  "popularity": 2.7534,
+  "poster_path": "/tBDuUfnAyN2OTHhyy4xyUrU8C2A.jpg",
+  "production_companies": [
+    {
+      "id": 4592,
+      "logo_path": "/kgK8NV5jZtqsmnZv92s1I5DnLNX.png",
+      "name": "Dark Sky Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 16538,
+      "logo_path": null,
+      "name": "Pellicola",
+      "origin_country": ""
+    },
+    {
+      "id": 12142,
+      "logo_path": "/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png",
+      "name": "XYZ Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "release_date": "2013-01-24",
+  "revenue": 0,
+  "runtime": 84,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "What is dead may never die.",
+  "title": "Frankenstein's Army",
+  "video": false,
+  "vote_average": 6.073,
+  "vote_count": 296,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10841,
+        "known_for_department": "Acting",
+        "name": "Karel Roden",
+        "original_name": "Karel Roden",
+        "popularity": 1.3397,
+        "profile_path": "/zfxaI9n2kjlDyJUpSFvawQGV1Hg.jpg",
+        "cast_id": 2,
+        "character": "Viktor",
+        "credit_id": "52fe4b4a9251416c910d5d31",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1171526,
+        "known_for_department": "Acting",
+        "name": "Joshua Sasse",
+        "original_name": "Joshua Sasse",
+        "popularity": 0.8681,
+        "profile_path": "/hyPkmjkD4AuwMiSr9HZTmAyRWHs.jpg",
+        "cast_id": 3,
+        "character": "Sergei",
+        "credit_id": "52fe4b4a9251416c910d5d35",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 166221,
+        "known_for_department": "Acting",
+        "name": "Robert Gwilym",
+        "original_name": "Robert Gwilym",
+        "popularity": 0.5982,
+        "profile_path": "/wPNq0sjIpRa0ZFaJcwk0aZtm7tn.jpg",
+        "cast_id": 4,
+        "character": "Novikov",
+        "credit_id": "52fe4b4a9251416c910d5d39",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1171527,
+        "known_for_department": "Acting",
+        "name": "Alexander Terentyev",
+        "original_name": "Александр Терентьев",
+        "popularity": 0.5872,
+        "profile_path": "/pz3zmiT79qnvGyPUsR6iZkBVf6W.jpg",
+        "cast_id": 5,
+        "character": "Dimitri",
+        "credit_id": "52fe4b4a9251416c910d5d3d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 214019,
+        "known_for_department": "Acting",
+        "name": "Luke Newberry",
+        "original_name": "Luke Newberry",
+        "popularity": 1.0256,
+        "profile_path": "/gFISVmj5Q8j4iRESrd5j1fUAYJ2.jpg",
+        "cast_id": 6,
+        "character": "Sacha",
+        "credit_id": "52fe4b4a9251416c910d5d41",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1202628,
+        "known_for_department": "Acting",
+        "name": "Hon Ping Tang",
+        "original_name": "Hon Ping Tang",
+        "popularity": 0.6666,
+        "profile_path": "/dCD9EPkkq62i7JcL4qFMNTY8fvX.jpg",
+        "cast_id": 10,
+        "character": "Ivan",
+        "credit_id": "52fe4b4a9251416c910d5d57",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1202629,
+        "known_for_department": "Acting",
+        "name": "Andrei Zayats",
+        "original_name": "Andrei Zayats",
+        "popularity": 1.1084,
+        "profile_path": "/prKzxaBNCNQp5LHqLFJpyF0Xvke.jpg",
+        "cast_id": 11,
+        "character": "Vassili",
+        "credit_id": "52fe4b4a9251416c910d5d5b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 29420,
+        "known_for_department": "Acting",
+        "name": "Mark Stevenson",
+        "original_name": "Mark Stevenson",
+        "popularity": 0.4605,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Alexei",
+        "credit_id": "52fe4b4a9251416c910d5d5f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1202081,
+        "known_for_department": "Acting",
+        "name": "Cristina Catalina",
+        "original_name": "Cristina Catalina",
+        "popularity": 0.5167,
+        "profile_path": "/aziJtcKydznTqRI9R8X4pOHVewF.jpg",
+        "cast_id": 13,
+        "character": "Eva",
+        "credit_id": "52fe4b4a9251416c910d5d63",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1202630,
+        "known_for_department": "Acting",
+        "name": "Jan de Lukowicz",
+        "original_name": "Jan de Lukowicz",
+        "popularity": 0.2361,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Fritz",
+        "credit_id": "52fe4b4b9251416c910d5d67",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56980,
+        "known_for_department": "Writing",
+        "name": "Miguel Tejada-Flores",
+        "original_name": "Miguel Tejada-Flores",
+        "popularity": 0.9833,
+        "profile_path": null,
+        "credit_id": "52fe4b4a9251416c910d5d53",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1112401,
+        "known_for_department": "Writing",
+        "name": "Chris W. Mitchell",
+        "original_name": "Chris W. Mitchell",
+        "popularity": 0.6589,
+        "profile_path": null,
+        "credit_id": "52fe4b4a9251416c910d5d4d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1134632,
+        "known_for_department": "Directing",
+        "name": "Richard Raaphorst",
+        "original_name": "Richard Raaphorst",
+        "popularity": 0.2869,
+        "profile_path": "/siYtmQleqObEABkdO8fCEvzzYsp.jpg",
+        "credit_id": "52fe4b4a9251416c910d5d2d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 28970,
+        "known_for_department": "Writing",
+        "name": "Mary Shelley",
+        "original_name": "Mary Shelley",
+        "popularity": 1.5616,
+        "profile_path": "/rcTyPNOKNFmZi61FVdAivtBroXt.jpg",
+        "credit_id": "52fe4b4a9251416c910d5d47",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1134632,
+        "known_for_department": "Directing",
+        "name": "Richard Raaphorst",
+        "original_name": "Richard Raaphorst",
+        "popularity": 0.2869,
+        "profile_path": "/siYtmQleqObEABkdO8fCEvzzYsp.jpg",
+        "credit_id": "52fe4b4b9251416c910d5d9d",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1202633,
+        "known_for_department": "Camera",
+        "name": "Bart Beekman",
+        "original_name": "Bart Beekman",
+        "popularity": 0.3823,
+        "profile_path": null,
+        "credit_id": "52fe4b4b9251416c910d5da9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1202634,
+        "known_for_department": "Editing",
+        "name": "Jasper Verhorevoort",
+        "original_name": "Jasper Verhorevoort",
+        "popularity": 0.2686,
+        "profile_path": null,
+        "credit_id": "52fe4b4b9251416c910d5daf",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1001662,
+        "known_for_department": "Production",
+        "name": "Aram Tertzakian",
+        "original_name": "Aram Tertzakian",
+        "popularity": 0.625,
+        "profile_path": "/plxkz2z01MyuDkP68TrUm3x8EY2.jpg",
+        "credit_id": "52fe4b4b9251416c910d5d97",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1134632,
+        "known_for_department": "Directing",
+        "name": "Richard Raaphorst",
+        "original_name": "Richard Raaphorst",
+        "popularity": 0.2869,
+        "profile_path": "/siYtmQleqObEABkdO8fCEvzzYsp.jpg",
+        "credit_id": "52fe4b4b9251416c910d5d8b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56980,
+        "known_for_department": "Writing",
+        "name": "Miguel Tejada-Flores",
+        "original_name": "Miguel Tejada-Flores",
+        "popularity": 0.9833,
+        "profile_path": null,
+        "credit_id": "52fe4b4b9251416c910d5da3",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11457,
+        "known_for_department": "Art",
+        "name": "Jindřich Kočí",
+        "original_name": "Jindřich Kočí",
+        "popularity": 0.4996,
+        "profile_path": null,
+        "credit_id": "52fe4b4b9251416c910d5db5",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1001661,
+        "known_for_department": "Production",
+        "name": "Nick Spicer",
+        "original_name": "Nick Spicer",
+        "popularity": 0.7,
+        "profile_path": null,
+        "credit_id": "52fe4b4b9251416c910d5d91",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1202631,
+        "known_for_department": "Production",
+        "name": "Nick Jongerius",
+        "original_name": "Nick Jongerius",
+        "popularity": 0.5156,
+        "profile_path": null,
+        "credit_id": "52fe4b4b9251416c910d5d79",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1202632,
+        "known_for_department": "Production",
+        "name": "Daniel Koefoed",
+        "original_name": "Daniel Koefoed",
+        "popularity": 0.2924,
+        "profile_path": null,
+        "credit_id": "52fe4b4b9251416c910d5d7f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1015890,
+        "known_for_department": "Production",
+        "name": "Greg Newman",
+        "original_name": "Greg Newman",
+        "popularity": 0.4186,
+        "profile_path": null,
+        "credit_id": "52fe4b4b9251416c910d5d85",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1093640,
+        "known_for_department": "Production",
+        "name": "Nate Bolotin",
+        "original_name": "Nate Bolotin",
+        "popularity": 0.6067,
+        "profile_path": null,
+        "credit_id": "52fe4b4b9251416c910d5d6d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1001659,
+        "known_for_department": "Production",
+        "name": "Todd Brown",
+        "original_name": "Todd Brown",
+        "popularity": 0.6176,
+        "profile_path": "/ApH9Ywk8uDuV6FIIL78iF60mvj1.jpg",
+        "credit_id": "52fe4b4b9251416c910d5d73",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

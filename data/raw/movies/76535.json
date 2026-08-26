@@ -1,0 +1,379 @@
+{
+  "adult": false,
+  "backdrop_path": "/yuIsNfHZTn3nkSsatzM0298wA67.jpg",
+  "belongs_to_collection": null,
+  "budget": 500000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 76535,
+  "imdb_id": "tt2011109",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
+  "overview": "Agent Coulson stops at a convenience store and deals with a coincidental robbery during his visit.",
+  "popularity": 3.89,
+  "poster_path": "/njrOqsmFH4pxBrhcoslqLfw2OGk.jpg",
+  "production_companies": [
+    {
+      "id": 420,
+      "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+      "name": "Marvel Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2011-10-25",
+  "revenue": 0,
+  "runtime": 4,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A quick stop for some gas, donuts and a can of whoop ass.",
+  "title": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
+  "video": false,
+  "vote_average": 6.871,
+  "vote_count": 587,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9048,
+        "known_for_department": "Acting",
+        "name": "Clark Gregg",
+        "original_name": "Clark Gregg",
+        "popularity": 2.9766,
+        "profile_path": "/mq686D91XoZpqkzELn0888NOiZW.jpg",
+        "cast_id": 1002,
+        "character": "Agent Phil Coulson",
+        "credit_id": "52fe4940c3a368484e121f61",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 463536,
+        "known_for_department": "Acting",
+        "name": "Jessica Manuel",
+        "original_name": "Jessica Manuel",
+        "popularity": 0.7002,
+        "profile_path": "/aFWvfsKlrmh0zG3aBWsUUow602z.jpg",
+        "cast_id": 1004,
+        "character": "Clerk",
+        "credit_id": "52fe4940c3a368484e121f69",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 82126,
+        "known_for_department": "Acting",
+        "name": "Jeff Prewett",
+        "original_name": "Jeff Prewett",
+        "popularity": 0.5095,
+        "profile_path": "/xuuBpaNgf0FkCPEg41HnlCiJ4iG.jpg",
+        "cast_id": 1005,
+        "character": "Robber 1",
+        "credit_id": "52fe4940c3a368484e121f6d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 579282,
+        "known_for_department": "Crew",
+        "name": "Zach Hudson",
+        "original_name": "Zach Hudson",
+        "popularity": 0.5271,
+        "profile_path": "/t9AuKCoQ7zZHbTcFkWQRneO18P9.jpg",
+        "cast_id": 1003,
+        "character": "Robber 2",
+        "credit_id": "52fe4940c3a368484e121f65",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1117755,
+        "known_for_department": "Production",
+        "name": "Jacob Mosler",
+        "original_name": "Jacob Mosler",
+        "popularity": 0.317,
+        "profile_path": null,
+        "credit_id": "52fe4940c3a368484e121f79",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1117762,
+        "known_for_department": "Editing",
+        "name": "David Brodie",
+        "original_name": "David Brodie",
+        "popularity": 0.4173,
+        "profile_path": null,
+        "credit_id": "52fe4940c3a368484e121fb5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1117754,
+        "known_for_department": "Production",
+        "name": "Danelle Hand",
+        "original_name": "Danelle Hand",
+        "popularity": 0.4608,
+        "profile_path": null,
+        "credit_id": "52fe4940c3a368484e121f73",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1117757,
+        "known_for_department": "Production",
+        "name": "Jonathan Block-Verk",
+        "original_name": "Jonathan Block-Verk",
+        "popularity": 0.3128,
+        "profile_path": null,
+        "credit_id": "52fe4940c3a368484e121f85",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1117761,
+        "known_for_department": "Editing",
+        "name": "Gabriel Britz",
+        "original_name": "Gabriel Britz",
+        "popularity": 0.2191,
+        "profile_path": null,
+        "credit_id": "52fe4940c3a368484e121faf",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1117753,
+        "known_for_department": "Production",
+        "name": "Mick Ebeling",
+        "original_name": "Mick Ebeling",
+        "popularity": 0.3133,
+        "profile_path": "/fC2cxX6Gqv5nAFSwNhpux8tEJD2.jpg",
+        "credit_id": "52fe4940c3a368484e121f91",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1117759,
+        "known_for_department": "Sound",
+        "name": "Héctor Ruíz",
+        "original_name": "Héctor Ruíz",
+        "popularity": 0.587,
+        "profile_path": null,
+        "credit_id": "52fe4940c3a368484e121fa3",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57216,
+        "known_for_department": "Sound",
+        "name": "Howard Drossin",
+        "original_name": "Howard Drossin",
+        "popularity": 0.3974,
+        "profile_path": "/d3hlCA0QD0ZcjvKyMeW0hBKrc5e.jpg",
+        "credit_id": "52fe4940c3a368484e121f97",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70104,
+        "known_for_department": "Sound",
+        "name": "Paul Oakenfold",
+        "original_name": "Paul Oakenfold",
+        "popularity": 0.5844,
+        "profile_path": "/y2Wxq3q0FbVXrByZXfHMFo749cE.jpg",
+        "credit_id": "52fe4940c3a368484e121f9d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 579280,
+        "known_for_department": "Directing",
+        "name": "Leythum",
+        "original_name": "Leythum",
+        "popularity": 0.4302,
+        "profile_path": "/tyh6HSAy2htyGFSlKMP4F6R44zt.jpg",
+        "credit_id": "52fe4940c3a368484e121f57",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1117756,
+        "known_for_department": "Production",
+        "name": "Martha Smith",
+        "original_name": "Martha Smith",
+        "popularity": 0.2427,
+        "profile_path": null,
+        "credit_id": "52fe4940c3a368484e121f7f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1552521,
+        "known_for_department": "Crew",
+        "name": "Brian Avery",
+        "original_name": "Brian Avery",
+        "popularity": 0.7442,
+        "profile_path": null,
+        "credit_id": "5692a793c3a3684cf60028eb",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10850,
+        "known_for_department": "Production",
+        "name": "Kevin Feige",
+        "original_name": "Kevin Feige",
+        "popularity": 3.5708,
+        "profile_path": "/kCBqXZ5PT5udYGEj2wfTSFbLMvT.jpg",
+        "credit_id": "6006307d63e6fb003d069b95",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 579281,
+        "known_for_department": "Writing",
+        "name": "Eric Pearson",
+        "original_name": "Eric Pearson",
+        "popularity": 1.0211,
+        "profile_path": "/vmvz2dMyaTBSNFjKyY7ikFI44xM.jpg",
+        "credit_id": "6a0e3c2978b432b083e2bc12",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1117760,
+        "known_for_department": "Crew",
+        "name": "David Myrick",
+        "original_name": "David Myrick",
+        "popularity": 0.2554,
+        "profile_path": null,
+        "credit_id": "6a0e3c29e7ffd9dcb0e04adb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57027,
+        "known_for_department": "Production",
+        "name": "Louis D'Esposito",
+        "original_name": "Louis D'Esposito",
+        "popularity": 2.0587,
+        "profile_path": "/ewtzT2ZMIX2DNyGUUkHLn36fjgF.jpg",
+        "credit_id": "6a0e3c2a7ff7aee3728dd0d6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1117758,
+        "known_for_department": "Production",
+        "name": "Dana Dizon",
+        "original_name": "Dana Dizon",
+        "popularity": 0.2361,
+        "profile_path": null,
+        "credit_id": "6a0e3c2a46832f87aadfa6e3",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113672,
+        "known_for_department": "Production",
+        "name": "Alan Fine",
+        "original_name": "Alan Fine",
+        "popularity": 0.6502,
+        "profile_path": null,
+        "credit_id": "6a0e3c2b78b432b083e2bc15",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1256726,
+        "known_for_department": "Production",
+        "name": "Brad Winderbaum",
+        "original_name": "Brad Winderbaum",
+        "popularity": 0.9949,
+        "profile_path": "/5cDwxRkPuRRiHw6TVlaIobnX5aC.jpg",
+        "credit_id": "6a0e3c2ba2e5dd2405970687",
+        "department": "Production",
+        "job": "Co-Producer"
+      }
+    ]
+  }
+}

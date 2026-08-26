@@ -1,0 +1,392 @@
+{
+  "adult": false,
+  "backdrop_path": "/5H2uTD2iWz8OrBRL7ZTg3bPOgml.jpg",
+  "belongs_to_collection": {
+    "id": 1010901,
+    "name": "I Am Groot Collection",
+    "poster_path": "/hNWCCca8WJvm22gklIXqzq2iMvo.jpg",
+    "backdrop_path": "/kjNVqGjkkNcrCQ05JfZReCxUIgj.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.disneyplus.com/movies/magnum-opus/22fjyvHepPUg",
+  "id": 1010823,
+  "imdb_id": "tt21316870",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Magnum Opus",
+  "overview": "Groot sets out to paint a family portrait of himself and the Guardians, only to discover just how messy the artistic process can be.",
+  "popularity": 3.231,
+  "poster_path": "/8p8JsKokKbuNCn9yBirAg1oEwGd.jpg",
+  "production_companies": [
+    {
+      "id": 420,
+      "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+      "name": "Marvel Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-07-18",
+  "revenue": 0,
+  "runtime": 6,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Magnum Opus",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 282,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12835,
+        "known_for_department": "Acting",
+        "name": "Vin Diesel",
+        "original_name": "Vin Diesel",
+        "popularity": 9.2585,
+        "profile_path": "/nZdVry7lnUkE24PnXakok9okvL4.jpg",
+        "cast_id": 1,
+        "character": "Baby Groot (voice)",
+        "credit_id": "62f3584dcee2f6007d35ca98",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51329,
+        "known_for_department": "Acting",
+        "name": "Bradley Cooper",
+        "original_name": "Bradley Cooper",
+        "popularity": 5.3892,
+        "profile_path": "/pLD2XvxqHueLWOuqXoFngJU3A5H.jpg",
+        "cast_id": 2,
+        "character": "Rocket (voice)",
+        "credit_id": "62f35854fea6e30091359848",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60279,
+        "known_for_department": "Acting",
+        "name": "Fred Tatasciore",
+        "original_name": "Fred Tatasciore",
+        "popularity": 2.5726,
+        "profile_path": "/xodxYKRC9mdvgquTdqpmYldliJ3.jpg",
+        "cast_id": 11,
+        "character": "Additional Voices (voice)",
+        "credit_id": "62f5f34e873f00007ace22b2",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 113674,
+        "known_for_department": "Production",
+        "name": "Victoria Alonso",
+        "original_name": "Victoria Alonso",
+        "popularity": 1.058,
+        "profile_path": "/xF7Qe1tqgk9KtY8kThKHBWhMqxc.jpg",
+        "credit_id": "62f359a7514c4a0082923474",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15218,
+        "known_for_department": "Writing",
+        "name": "James Gunn",
+        "original_name": "James Gunn",
+        "popularity": 4.5838,
+        "profile_path": "/pnKqZub3IlKYbyH9RRTMDOoqEn0.jpg",
+        "credit_id": "62f358fe85b1050080262eb7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1166002,
+        "known_for_department": "Directing",
+        "name": "Kirsten Lepore",
+        "original_name": "Kirsten Lepore",
+        "popularity": 0.8762,
+        "profile_path": "/rnBSMQ7b1PrICNxOfKAkf1Y0LAe.jpg",
+        "credit_id": "62f3594edb72c00091a4bfc1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10850,
+        "known_for_department": "Production",
+        "name": "Kevin Feige",
+        "original_name": "Kevin Feige",
+        "popularity": 3.5708,
+        "profile_path": "/kCBqXZ5PT5udYGEj2wfTSFbLMvT.jpg",
+        "credit_id": "62f35905594c94007f47c4d2",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1166002,
+        "known_for_department": "Directing",
+        "name": "Kirsten Lepore",
+        "original_name": "Kirsten Lepore",
+        "popularity": 0.8762,
+        "profile_path": "/rnBSMQ7b1PrICNxOfKAkf1Y0LAe.jpg",
+        "credit_id": "62f3596c85b1050085251d51",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57027,
+        "known_for_department": "Production",
+        "name": "Louis D'Esposito",
+        "original_name": "Louis D'Esposito",
+        "popularity": 2.0587,
+        "profile_path": "/ewtzT2ZMIX2DNyGUUkHLn36fjgF.jpg",
+        "credit_id": "62f35984db72c00091a4bfda",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1166002,
+        "known_for_department": "Directing",
+        "name": "Kirsten Lepore",
+        "original_name": "Kirsten Lepore",
+        "popularity": 0.8762,
+        "profile_path": "/rnBSMQ7b1PrICNxOfKAkf1Y0LAe.jpg",
+        "credit_id": "62f3592b6f31af00916ce15c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43807,
+        "known_for_department": "Sound",
+        "name": "Daniele Luppi",
+        "original_name": "Daniele Luppi",
+        "popularity": 0.4526,
+        "profile_path": null,
+        "credit_id": "62f359cd880c92007f182568",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24192,
+        "known_for_department": "Sound",
+        "name": "Dave Jordan",
+        "original_name": "Dave Jordan",
+        "popularity": 0.8757,
+        "profile_path": "/btzUgkKCllxClxIgLhmhZ1qaPw.jpg",
+        "credit_id": "62f5f4787a97ab007e10267c",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1260274,
+        "known_for_department": "Production",
+        "name": "Carrie Wassenaar",
+        "original_name": "Carrie Wassenaar",
+        "popularity": 0.4319,
+        "profile_path": null,
+        "credit_id": "62f5f4cf813cb6007b35c929",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2482396,
+        "known_for_department": "Production",
+        "name": "Danielle Costa",
+        "original_name": "Danielle Costa",
+        "popularity": 0.4793,
+        "profile_path": null,
+        "credit_id": "62f5f4e6ba4802007d408267",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3658084,
+        "known_for_department": "Production",
+        "name": "Dana Vasquez-Eberhardt",
+        "original_name": "Dana Vasquez-Eberhardt",
+        "popularity": 0.5028,
+        "profile_path": null,
+        "credit_id": "62f5f4beecbde9008270a8c7",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3194391,
+        "known_for_department": "Production",
+        "name": "Alex Scharf",
+        "original_name": "Alex Scharf",
+        "popularity": 0.3442,
+        "profile_path": null,
+        "credit_id": "62f5f4f7fea6e30091367ea1",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2133890,
+        "known_for_department": "Production",
+        "name": "Dan Urrutia",
+        "original_name": "Dan Urrutia",
+        "popularity": 0.3513,
+        "profile_path": null,
+        "credit_id": "62f5f5057a97ab007e1026ba",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1976191,
+        "known_for_department": "Sound",
+        "name": "Coya Elliott",
+        "original_name": "Coya Elliott",
+        "popularity": 0.6451,
+        "profile_path": "/yoA5whVakiVG05EuNWCvAVtAfZB.jpg",
+        "credit_id": "62f5f545ba4802007d40827f",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1607060,
+        "known_for_department": "Sound",
+        "name": "Anele Onyekwere",
+        "original_name": "Anele Onyekwere",
+        "popularity": 0.454,
+        "profile_path": "/cmk1NRSDbWpcfdHbvpNKkUJdFKy.jpg",
+        "credit_id": "62f5f526c3bffe00828e0a08",
+        "department": "Sound",
+        "job": "Supervising Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2092940,
+        "known_for_department": "Sound",
+        "name": "Shannon Murphy",
+        "original_name": "Shannon Murphy",
+        "popularity": 0.3851,
+        "profile_path": null,
+        "credit_id": "62f5f4a366a0d30093d8797a",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1256726,
+        "known_for_department": "Production",
+        "name": "Brad Winderbaum",
+        "original_name": "Brad Winderbaum",
+        "popularity": 0.9949,
+        "profile_path": "/5cDwxRkPuRRiHw6TVlaIobnX5aC.jpg",
+        "credit_id": "62f5f44c66a0d30093d87954",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7624,
+        "known_for_department": "Writing",
+        "name": "Stan Lee",
+        "original_name": "Stan Lee",
+        "popularity": 5.5316,
+        "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg",
+        "credit_id": "698e5341a935c67a61f8af58",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18876,
+        "known_for_department": "Writing",
+        "name": "Larry Lieber",
+        "original_name": "Larry Lieber",
+        "popularity": 1.3229,
+        "profile_path": "/6zFjMrk50yZri9KiVqli477gWYB.jpg",
+        "credit_id": "698e547e761fe99e4cf8aee0",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18866,
+        "known_for_department": "Writing",
+        "name": "Jack Kirby",
+        "original_name": "Jack Kirby",
+        "popularity": 2.5793,
+        "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg",
+        "credit_id": "698e548e494c89a9a9cd6ee8",
+        "department": "Writing",
+        "job": "Characters"
+      }
+    ]
+  }
+}

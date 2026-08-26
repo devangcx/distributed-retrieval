@@ -1,0 +1,384 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 316812,
+  "imdb_id": "tt0444874",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "मैं ऐसा ही हूँ",
+  "overview": "A mentally challenged man fights his former father-in-law for custody of his daughter.",
+  "popularity": 1.0689,
+  "poster_path": "/87ueqnQ9HRSGEAXAhLGifgSyIxz.jpg",
+  "production_companies": [
+    {
+      "id": 3786,
+      "logo_path": null,
+      "name": "Baweja Movies",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2005-05-06",
+  "revenue": 0,
+  "runtime": 162,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A Normal Man In An Abnormal World",
+  "title": "Main Aisa Hi Hoon",
+  "video": false,
+  "vote_average": 5.455,
+  "vote_count": 33,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42803,
+        "known_for_department": "Acting",
+        "name": "Ajay Devgn",
+        "original_name": "Ajay Devgan",
+        "popularity": 2.3821,
+        "profile_path": "/vnHQQFzTjJ0sv14DGMIoKa3qTxN.jpg",
+        "cast_id": 2,
+        "character": "Indraneel \"Neel\" Thakur",
+        "credit_id": "54b0d52dc3a36809390015b5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 88138,
+        "known_for_department": "Acting",
+        "name": "Sushmita Sen",
+        "original_name": "Sushmita Sen",
+        "popularity": 1.2485,
+        "profile_path": "/arteijssIoHzs8wFLjs6pvqRnlJ.jpg",
+        "cast_id": 3,
+        "character": "Advocate Niti Sinha",
+        "credit_id": "54b0d539c3a368094500166b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 81926,
+        "known_for_department": "Acting",
+        "name": "Esha Deol",
+        "original_name": "Esha Deol",
+        "popularity": 0.9457,
+        "profile_path": "/kf61c4lNSAjExCHQh03x5f0tQWL.jpg",
+        "cast_id": 4,
+        "character": "Maya D. Trivedi",
+        "credit_id": "54b0d543c3a368094e0017d4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6217,
+        "known_for_department": "Acting",
+        "name": "Anupam Kher",
+        "original_name": "Anupam Kher",
+        "popularity": 1.9559,
+        "profile_path": "/kgU5Ap1Kf9RnicB5DMcXEZqed2f.jpg",
+        "cast_id": 5,
+        "character": "Dayanath Trivedi",
+        "credit_id": "5ae72a760e0a26106600bef2",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86055,
+        "known_for_department": "Acting",
+        "name": "Aanjjan Srivastav",
+        "original_name": "Aanjjan Srivastav",
+        "popularity": 0.6672,
+        "profile_path": "/bF5vxtg7bc57bTunHq70dWwalRy.jpg",
+        "cast_id": 6,
+        "character": "Divesh Mathur",
+        "credit_id": "5ae72a7fc3a36813510106e4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6498,
+        "known_for_department": "Acting",
+        "name": "Lillete Dubey",
+        "original_name": "Lillete Dubey",
+        "popularity": 1.0525,
+        "profile_path": "/qeAlaycZ3ATHr2P6LV1V5LeC4hV.jpg",
+        "cast_id": 7,
+        "character": "Ritu",
+        "credit_id": "5ae72a8c9251410d3d00a9ad",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1589237,
+        "known_for_department": "Acting",
+        "name": "Rucha Vaidya",
+        "original_name": "Rucha Vaidya",
+        "popularity": 1.109,
+        "profile_path": "/cJkmi2wA8zbLAwUpNdySVKmXthz.jpg",
+        "cast_id": 22,
+        "character": "Gungun",
+        "credit_id": "5d31ab562f8d095259d6c4cb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43413,
+        "known_for_department": "Acting",
+        "name": "Vikram Gokhale",
+        "original_name": "Vikram Gokhale",
+        "popularity": 0.6728,
+        "profile_path": "/q66OaRjgOpR9LEZM4dCkgp23eeL.jpg",
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "68fe7598e3cbdd633fbbf4a6",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 943403,
+        "known_for_department": "Directing",
+        "name": "Harry Baweja",
+        "original_name": "Harry Baweja",
+        "popularity": 0.5397,
+        "profile_path": "/4lU3PpLFP7iyJWF9dOPlTVxCpOP.jpg",
+        "credit_id": "54b0d512c3a3684012000e1f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 951557,
+        "known_for_department": "Writing",
+        "name": "Bhavani Iyer",
+        "original_name": "Bhavani Iyer",
+        "popularity": 0.603,
+        "profile_path": "/u6my5EbH8RWeruEc7K4JhBOMmus.jpg",
+        "credit_id": "54b0d51fc3a3680945001663",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1642007,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Anirudh Singh",
+        "original_name": "Anirudh Singh",
+        "popularity": 0.5041,
+        "profile_path": null,
+        "credit_id": "5ae72ae8c3a368135800d42b",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1735002,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Harish Wadhone",
+        "original_name": "Harish Wadhone",
+        "popularity": 0.316,
+        "profile_path": null,
+        "credit_id": "5ae72b12c3a3681355011ad6",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1734982,
+        "known_for_department": "Production",
+        "name": "Pammi Baweja",
+        "original_name": "Pammi Baweja",
+        "popularity": 0.3829,
+        "profile_path": null,
+        "credit_id": "5ae72a98c3a368136700a1c9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85670,
+        "known_for_department": "Directing",
+        "name": "Anurag Kashyap",
+        "original_name": "Anurag Kashyap",
+        "popularity": 1.5049,
+        "profile_path": "/wS1aF7dFDnKC44ZbFkbDcIpmFq5.jpg",
+        "credit_id": "5ae72ab09251410d0200c017",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1734984,
+        "known_for_department": "Editing",
+        "name": "Merzin Tavaria",
+        "original_name": "Merzin Tavaria",
+        "popularity": 0.3614,
+        "profile_path": null,
+        "credit_id": "5ae72b0a0e0a26104f00bba3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1441227,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Neeta Lulla",
+        "original_name": "Neeta Lulla",
+        "popularity": 0.5404,
+        "profile_path": null,
+        "credit_id": "5ae72af99251410cd50097de",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1057049,
+        "known_for_department": "Camera",
+        "name": "Ayananka Bose",
+        "original_name": "Ayananka Bose",
+        "popularity": 0.3856,
+        "profile_path": null,
+        "credit_id": "5ae72abb9251410d200097d5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88593,
+        "known_for_department": "Sound",
+        "name": "Himesh Reshammiya",
+        "original_name": "Himesh Reshammiya",
+        "popularity": 0.8663,
+        "profile_path": "/klaNPMWG9caEA0BG33LdAzn3Cwn.jpg",
+        "credit_id": "5ae72ac20e0a26106300bd23",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2033059,
+        "known_for_department": "Art",
+        "name": "Ajay Verekar",
+        "original_name": "Ajay Verekar",
+        "popularity": 0.3423,
+        "profile_path": null,
+        "credit_id": "5ae72ad50e0a26106a00b488",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2027103,
+        "known_for_department": "Sound",
+        "name": "Rakesh Ranjan",
+        "original_name": "Rakesh Ranjan",
+        "popularity": 0.3314,
+        "profile_path": null,
+        "credit_id": "5ae72acd0e0a26106600bf22",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1642008,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Dipika Lal",
+        "original_name": "Dipika Lal",
+        "popularity": 0.3592,
+        "profile_path": null,
+        "credit_id": "5ae72b03c3a368135b006742",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 943403,
+        "known_for_department": "Directing",
+        "name": "Harry Baweja",
+        "original_name": "Harry Baweja",
+        "popularity": 0.5397,
+        "profile_path": "/4lU3PpLFP7iyJWF9dOPlTVxCpOP.jpg",
+        "credit_id": "5ae72aa7c3a3682e02004e7b",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 959445,
+        "known_for_department": "Crew",
+        "name": "Ganesh Acharya",
+        "original_name": "Ganesh Acharya",
+        "popularity": 0.5422,
+        "profile_path": "/xmonkmVHlfmyz7pR0LuGgFvyvNj.jpg",
+        "credit_id": "5ae72addc3a3682e02004e9a",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1815805,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Anna Singh",
+        "original_name": "Anna Singh",
+        "popularity": 0.3408,
+        "profile_path": null,
+        "credit_id": "5ae72af1c3a368135b006738",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      }
+    ]
+  }
+}

@@ -1,0 +1,494 @@
+{
+  "adult": false,
+  "backdrop_path": "/hXqGVk7IGiybUxODz7o3OaD3Gid.jpg",
+  "belongs_to_collection": {
+    "id": 401655,
+    "name": "Welcome Collection",
+    "poster_path": "/trSYzh8taWG5EyAIMA6OoRDFmsw.jpg",
+    "backdrop_path": "/o6TovCR70JfWJ1jJINHYU8S5AJ3.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 20294,
+  "imdb_id": "tt0488798",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Welcome",
+  "overview": "Two gangsters meet Rajiv, who belongs to a respectable family, and want to fix their sister's wedding with him. However, when Rajiv's uncle refuses to the match, a series of hilarious situations occur.",
+  "popularity": 1.9061,
+  "poster_path": "/fudxnXlTTBIDCkpR7XhlIgkNaUY.jpg",
+  "production_companies": [
+    {
+      "id": 64343,
+      "logo_path": null,
+      "name": "A.G. Films",
+      "origin_country": "IN"
+    },
+    {
+      "id": 7621,
+      "logo_path": null,
+      "name": "The Indian Film Company",
+      "origin_country": "IN"
+    },
+    {
+      "id": 2320,
+      "logo_path": "/nSAXfUCy16cNRiPlBMHeb700t9p.png",
+      "name": "UTV Motion Pictures",
+      "origin_country": "IN"
+    },
+    {
+      "id": 15357,
+      "logo_path": "/uvaRT02pY9U8qLH8a9WwwAroDqr.png",
+      "name": "Prime Focus",
+      "origin_country": "IN"
+    },
+    {
+      "id": 64331,
+      "logo_path": null,
+      "name": "Base Industries Group",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2007-12-21",
+  "revenue": 36500000,
+  "runtime": 150,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Marry or die... Mafia style.",
+  "title": "Welcome",
+  "video": false,
+  "vote_average": 6.893,
+  "vote_count": 183,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35070,
+        "known_for_department": "Acting",
+        "name": "Akshay Kumar",
+        "original_name": "अक्षय कुमार",
+        "popularity": 2.5711,
+        "profile_path": "/sR8nASRtTpiwXqkFHjG2jdRBZ7a.jpg",
+        "cast_id": 1,
+        "character": "Rajiv",
+        "credit_id": "52fe43e0c3a368484e003343",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 81869,
+        "known_for_department": "Acting",
+        "name": "Katrina Kaif",
+        "original_name": "Katrina Kaif",
+        "popularity": 1.8163,
+        "profile_path": "/gSNaBg8Q7Nh0u4HhW6pR5B0ujlL.jpg",
+        "cast_id": 2,
+        "character": "Sanjana Shetty",
+        "credit_id": "52fe43e0c3a368484e003347",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84956,
+        "known_for_department": "Acting",
+        "name": "Nana Patekar",
+        "original_name": "Nana Patekar",
+        "popularity": 1.269,
+        "profile_path": "/gnhcslE2k2pgZK9xi1XFNZvZiEs.jpg",
+        "cast_id": 4,
+        "character": "Uday Shetty",
+        "credit_id": "52fe43e0c3a368484e00334f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72118,
+        "known_for_department": "Acting",
+        "name": "Anil Kapoor",
+        "original_name": "अनिल कपूर",
+        "popularity": 2.8719,
+        "profile_path": "/dwvnpiwg9m2zj0VHzlgzEotFl0G.jpg",
+        "cast_id": 3,
+        "character": "Majnu Bhai",
+        "credit_id": "52fe43e0c3a368484e00334b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85033,
+        "known_for_department": "Acting",
+        "name": "Paresh Rawal",
+        "original_name": "Paresh Rawal",
+        "popularity": 1.1939,
+        "profile_path": "/xFVHMvDC8s4Ab2sLXrdVxMxZ33b.jpg",
+        "cast_id": 5,
+        "character": "Dr. Ghungroo",
+        "credit_id": "52fe43e0c3a368484e003353",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86230,
+        "known_for_department": "Acting",
+        "name": "Supriya Karnik",
+        "original_name": "Supriya Karnik",
+        "popularity": 0.5878,
+        "profile_path": "/9R2eVBFbuDp0F4ciVlDbhwsC4sQ.jpg",
+        "cast_id": 22,
+        "character": "Payal Ghungroo",
+        "credit_id": "63afa15427d9cc00ae3ca0b0",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1036355,
+        "known_for_department": "Acting",
+        "name": "Feroz Khan",
+        "original_name": "Feroz Khan",
+        "popularity": 0.5744,
+        "profile_path": "/64yJF8s1DXfNRgE7YEPa7eqwf7X.jpg",
+        "cast_id": 21,
+        "character": "Ranvir Dhanraj Xaja \"RDX\"",
+        "credit_id": "5967a86f925141329c004fd6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 70689,
+        "known_for_department": "Acting",
+        "name": "Mallika Sherawat",
+        "original_name": "Mallika Sherawat",
+        "popularity": 1.2057,
+        "profile_path": "/noitukrZDaruVA6YlBfULqZ7zTt.jpg",
+        "cast_id": 6,
+        "character": "Isha-Ishika",
+        "credit_id": "52fe43e0c3a368484e003357",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1449794,
+        "known_for_department": "Acting",
+        "name": "Sherveer Vakil",
+        "original_name": "Sherveer Vakil",
+        "popularity": 0.3039,
+        "profile_path": "/koECP05igT0HdgVzkXzdoat8Jlg.jpg",
+        "cast_id": 29,
+        "character": "Lucky Xaxa",
+        "credit_id": "676e55603dff0de99b616a71",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6500,
+        "known_for_department": "Acting",
+        "name": "Vijay Raaz",
+        "original_name": "Vijay Raaz",
+        "popularity": 1.2885,
+        "profile_path": "/bLSjiy51UPjVnTYRDmgRUy1VOwD.jpg",
+        "cast_id": 23,
+        "character": "Dhanesh Varman",
+        "credit_id": "674b24c151d26ba93c78aece",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86019,
+        "known_for_department": "Acting",
+        "name": "Asrani",
+        "original_name": "Govardhan Asrani",
+        "popularity": 0.9031,
+        "profile_path": "/zoZRnIHNkCRq4gKZGaQhbtPrIDj.jpg",
+        "cast_id": 20,
+        "character": "Film Producer (uncredited)",
+        "credit_id": "568acb1e92514131df02880b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85879,
+        "known_for_department": "Acting",
+        "name": "Sanjay Mishra",
+        "original_name": "Sanjay Mishra",
+        "popularity": 1.3322,
+        "profile_path": "/4MGKohKGU4v9SoXcQKCcC4e4Bpi.jpg",
+        "cast_id": 12,
+        "character": "Pandit",
+        "credit_id": "52fe43e0c3a368484e00336f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147319,
+        "known_for_department": "Acting",
+        "name": "Snehal Dabi",
+        "original_name": "Snehal Dabi",
+        "popularity": 0.4787,
+        "profile_path": "/1WeQh3wNPhrn0rtcWAPXgLIrcb8.jpg",
+        "cast_id": 30,
+        "character": "Kakhil",
+        "credit_id": "676e55863dff0de99b616a8e",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1017460,
+        "known_for_department": "Acting",
+        "name": "Adi Irani",
+        "original_name": "Adi Irani",
+        "popularity": 1.1448,
+        "profile_path": "/eE0MF0bAWUh3aFhlGqsJGCIAja8.jpg",
+        "cast_id": 32,
+        "character": "Harkesh Sahni",
+        "credit_id": "676e55b2e2976ba75b92a5eb",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32335,
+        "known_for_department": "Acting",
+        "name": "Mushtaq Khan",
+        "original_name": "Mushtaq Khan",
+        "popularity": 0.8584,
+        "profile_path": "/xj2fPOfGRiQCFp7V9MUAlshNGZH.jpg",
+        "cast_id": 33,
+        "character": "Ballu",
+        "credit_id": "676e55cbe2976ba75b92a5f7",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147706,
+        "known_for_department": "Acting",
+        "name": "Paresh Ganatra",
+        "original_name": "Paresh Ganatra",
+        "popularity": 0.8217,
+        "profile_path": "/cXT8wFugq8lmb09SmVYNhsEQhe2.jpg",
+        "cast_id": 31,
+        "character": "Pappu",
+        "credit_id": "676e55a0aa8f3159d612aea5",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85693,
+        "known_for_department": "Acting",
+        "name": "Malaika Arora",
+        "original_name": "Malaika Arora",
+        "popularity": 1.2735,
+        "profile_path": "/hnU43IEnnmfWxRBEGEaFpwYPoa1.jpg",
+        "cast_id": 8,
+        "character": "Item Number In Song Hoth Rasiley",
+        "credit_id": "52fe43e0c3a368484e00335f",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11851,
+        "known_for_department": "Acting",
+        "name": "Om Puri",
+        "original_name": "Om Puri",
+        "popularity": 1.1886,
+        "profile_path": "/3xENmjr7CA8ACRViHnjOI5jPQUt.jpg",
+        "cast_id": 13,
+        "character": "Narrator (uncredited)",
+        "credit_id": "52fe43e0c3a368484e003373",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86428,
+        "known_for_department": "Acting",
+        "name": "Ruslaan Mumtaz",
+        "original_name": "Ruslaan Mumtaz",
+        "popularity": 0.6947,
+        "profile_path": "/rFCXCfYgil2VQSg5fMiEpMpBA98.jpg",
+        "cast_id": 15,
+        "character": "Himself (uncredited)",
+        "credit_id": "52fe43e0c3a368484e00337b",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85730,
+        "known_for_department": "Acting",
+        "name": "Suniel Shetty",
+        "original_name": "सुनील शेट्टी",
+        "popularity": 1.8943,
+        "profile_path": "/7N2gTXit5GMfgUhkZ3QsjTnoMH6.jpg",
+        "cast_id": 14,
+        "character": "Himself (uncredited)",
+        "credit_id": "52fe43e0c3a368484e003377",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85801,
+        "known_for_department": "Writing",
+        "name": "Anees Bazmee",
+        "original_name": "Anees Bazmee",
+        "popularity": 0.6504,
+        "profile_path": "/5ZapTXeavaYyMhhurei7qzHgd7D.jpg",
+        "credit_id": "560edf539251414feb003a00",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 105445,
+        "known_for_department": "Writing",
+        "name": "Rajeev Kaul",
+        "original_name": "Rajeev Kaul",
+        "popularity": 0.6085,
+        "profile_path": null,
+        "credit_id": "560edf6bc3a368680e00d15b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85801,
+        "known_for_department": "Writing",
+        "name": "Anees Bazmee",
+        "original_name": "Anees Bazmee",
+        "popularity": 0.6504,
+        "profile_path": "/5ZapTXeavaYyMhhurei7qzHgd7D.jpg",
+        "credit_id": "560edf5c925141478d003edc",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1013084,
+        "known_for_department": "Production",
+        "name": "Firoz A. Nadiadwala",
+        "original_name": "Firoz A. Nadiadwala",
+        "popularity": 0.541,
+        "profile_path": null,
+        "credit_id": "560edf85c3a368681900c992",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1705312,
+        "known_for_department": "Camera",
+        "name": "Sanjay F. Gupta",
+        "original_name": "Sanjay F. Gupta",
+        "popularity": 0.4001,
+        "profile_path": null,
+        "credit_id": "676e549f4ca2fbbfca616213",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1084871,
+        "known_for_department": "Editing",
+        "name": "Ashfaq Makrani",
+        "original_name": "Ashfaq Makrani",
+        "popularity": 0.3385,
+        "profile_path": null,
+        "credit_id": "676e54bceb742f45de927d37",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227204,
+        "known_for_department": "Sound",
+        "name": "Sajid Ali Khan",
+        "original_name": "Sajid Ali Khan",
+        "popularity": 0.4582,
+        "profile_path": null,
+        "credit_id": "676e54ed4ca2fbbfca616226",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1039576,
+        "known_for_department": "Sound",
+        "name": "Anand Raj Anand",
+        "original_name": "Anand Raj Anand",
+        "popularity": 0.5517,
+        "profile_path": null,
+        "credit_id": "676e5503eb742f45de927d41",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88593,
+        "known_for_department": "Sound",
+        "name": "Himesh Reshammiya",
+        "original_name": "Himesh Reshammiya",
+        "popularity": 0.8663,
+        "profile_path": "/klaNPMWG9caEA0BG33LdAzn3Cwn.jpg",
+        "credit_id": "676e5512769852f29012a49f",
+        "department": "Sound",
+        "job": "Songs"
+      }
+    ]
+  }
+}

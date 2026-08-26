@@ -1,0 +1,409 @@
+{
+  "adult": false,
+  "backdrop_path": "/zTDMBigcYFJT0QFzt6k5ggMSwhS.jpg",
+  "belongs_to_collection": {
+    "id": 557687,
+    "name": "Rock On Collection",
+    "poster_path": "/4hWHEvCwZZpvAsoCFkREAbDje5C.jpg",
+    "backdrop_path": null
+  },
+  "budget": 7000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 19672,
+  "imdb_id": "tt1230165",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Rock On!!",
+  "overview": "Aditya, Joe, Kedar and Rob form a rock band, but break up after they fail to make a success of it. They establish regular lives until they decide to reunite and take another shot at fulfilling their dreams.",
+  "popularity": 0.9799,
+  "poster_path": "/cckTZXVpchMrljPouFf7u2wqUTX.jpg",
+  "production_companies": [
+    {
+      "id": 2934,
+      "logo_path": "/bFoQPEgrOKeQWPBM0RIkfaR3etq.png",
+      "name": "Excel Entertainment",
+      "origin_country": "IN"
+    },
+    {
+      "id": 7294,
+      "logo_path": "/kK4PRgceWp9KNrycD8xx8seWxYU.png",
+      "name": "Reliance Entertainment",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2008-08-29",
+  "revenue": 0,
+  "runtime": 144,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Live Your Dream",
+  "title": "Rock On!!",
+  "video": false,
+  "vote_average": 6.855,
+  "vote_count": 114,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78916,
+        "known_for_department": "Acting",
+        "name": "Farhan Akhtar",
+        "original_name": "Farhan Akhtar",
+        "popularity": 1.5393,
+        "profile_path": "/nYx5T3tkghBPvmI29J2iJlZOFyV.jpg",
+        "cast_id": 1,
+        "character": "Aditya Shroff",
+        "credit_id": "52fe47ea9251416c750a9b61",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52263,
+        "known_for_department": "Acting",
+        "name": "Arjun Rampal",
+        "original_name": "अर्जुन रामपाल",
+        "popularity": 3.0905,
+        "profile_path": "/1F81WNcVV5cW9O4D5Otk1Y2WHV9.jpg",
+        "cast_id": 2,
+        "character": "Joseph Mascarenhas",
+        "credit_id": "52fe47ea9251416c750a9b65",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85574,
+        "known_for_department": "Acting",
+        "name": "Purab Kohli",
+        "original_name": "Purab Kohli",
+        "popularity": 1.0955,
+        "profile_path": "/86rSTyRxb63UwmTrJxwjhwfHCbT.jpg",
+        "cast_id": 3,
+        "character": "Kedar Zaveri",
+        "credit_id": "52fe47ea9251416c750a9b69",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85575,
+        "known_for_department": "Acting",
+        "name": "Luke Kenny",
+        "original_name": "Luke Kenny",
+        "popularity": 0.8713,
+        "profile_path": "/3FsRRUJraXNQFYETkxj0xKhdvk9.jpg",
+        "cast_id": 4,
+        "character": "Robin Mehta",
+        "credit_id": "52fe47ea9251416c750a9b6d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85576,
+        "known_for_department": "Acting",
+        "name": "Prachi Desai",
+        "original_name": "Prachi Desai",
+        "popularity": 1.131,
+        "profile_path": "/kEX5mAzGz7Pfvld9BQETKUpqKH8.jpg",
+        "cast_id": 5,
+        "character": "Sakshi",
+        "credit_id": "52fe47ea9251416c750a9b71",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85577,
+        "known_for_department": "Acting",
+        "name": "Shahana Goswami",
+        "original_name": "Shahana Goswami",
+        "popularity": 0.7629,
+        "profile_path": "/huexJWjPKR940RPiUAtXyzkx6Jf.jpg",
+        "cast_id": 6,
+        "character": "Debbie",
+        "credit_id": "52fe47ea9251416c750a9b75",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85578,
+        "known_for_department": "Acting",
+        "name": "Koel Purie",
+        "original_name": "Koel Purie",
+        "popularity": 0.6048,
+        "profile_path": "/uxuhLSBYkd97EwSLAK4WLelnBvM.jpg",
+        "cast_id": 7,
+        "character": "Devika",
+        "credit_id": "52fe47ea9251416c750a9b79",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85579,
+        "known_for_department": "Acting",
+        "name": "Nicolette Bird",
+        "original_name": "Nicolette Bird",
+        "popularity": 0.4356,
+        "profile_path": "/oQWdZwLdV8vDj4mYvNOXGTisPn6.jpg",
+        "cast_id": 8,
+        "character": "Tanya",
+        "credit_id": "52fe47ea9251416c750a9b7d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 223166,
+        "known_for_department": "Acting",
+        "name": "Monica Dogra",
+        "original_name": "Monica Dogra",
+        "popularity": 0.5358,
+        "profile_path": "/sYInJuovCOeaDRBceogeOly5FlC.jpg",
+        "cast_id": 21,
+        "character": "Band #2 Performing in contest 2",
+        "credit_id": "5978e6a9925141432f001bb0",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11861,
+        "known_for_department": "Acting",
+        "name": "Dalip Tahil",
+        "original_name": "Dalip Tahil",
+        "popularity": 1.0672,
+        "profile_path": "/4kgTd5aKh3IRxrJ7uG5h9mojb57.jpg",
+        "cast_id": 22,
+        "character": "Bajaj",
+        "credit_id": "5978e6d0c3a36811ec002021",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1858494,
+        "known_for_department": "Sound",
+        "name": "Suraj Jagan",
+        "original_name": "Suraj Jagan",
+        "popularity": 0.4203,
+        "profile_path": "/d5YbDt44TpDl6LVqjq7WuY4EYP8.jpg",
+        "cast_id": 23,
+        "character": "Ajay (Chakravyuh Band)",
+        "credit_id": "5978e8f49251414352001d11",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37241,
+        "known_for_department": "Sound",
+        "name": "Anu Malik",
+        "original_name": "Anu Malik",
+        "popularity": 0.7303,
+        "profile_path": "/6TqNRZ8pm0woMxNXAtQrQjkcnfB.jpg",
+        "cast_id": 24,
+        "character": "Music Producer (Uncredited)",
+        "credit_id": "5978e9c79251414324001f41",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4228844,
+        "known_for_department": "Acting",
+        "name": "Supreet Bedi",
+        "original_name": "Supreet Bedi",
+        "popularity": 0.4263,
+        "profile_path": "/3sRXqEPhBkD8AzhNZVQhQojB7oP.jpg",
+        "cast_id": 32,
+        "character": "Contest MC",
+        "credit_id": "689dd873993a5e9777269105",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 52774,
+        "known_for_department": "Editing",
+        "name": "Deepa Bhatia",
+        "original_name": "Deepa Bhatia",
+        "popularity": 0.3676,
+        "profile_path": null,
+        "credit_id": "52fe47ea9251416c750a9b9b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78917,
+        "known_for_department": "Production",
+        "name": "Ritesh Sidhwani",
+        "original_name": "Ritesh Sidhwani",
+        "popularity": 0.6775,
+        "profile_path": "/zEL6Jj03CgjrhIkuDha8ZmPMSQk.jpg",
+        "credit_id": "52fe47ea9251416c750a9bad",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85585,
+        "known_for_department": "Directing",
+        "name": "Abhishek Kapoor",
+        "original_name": "Abhishek Kapoor",
+        "popularity": 0.8409,
+        "profile_path": "/8DigwIbdsgoNSDCebUrTh96Zyc6.jpg",
+        "credit_id": "52fe47ea9251416c750a9bb3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78916,
+        "known_for_department": "Acting",
+        "name": "Farhan Akhtar",
+        "original_name": "Farhan Akhtar",
+        "popularity": 1.5393,
+        "profile_path": "/nYx5T3tkghBPvmI29J2iJlZOFyV.jpg",
+        "credit_id": "52fe47ea9251416c750a9ba7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78916,
+        "known_for_department": "Acting",
+        "name": "Farhan Akhtar",
+        "original_name": "Farhan Akhtar",
+        "popularity": 1.5393,
+        "profile_path": "/nYx5T3tkghBPvmI29J2iJlZOFyV.jpg",
+        "credit_id": "57b2b8ab9251414e4d0035ed",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85584,
+        "known_for_department": "Crew",
+        "name": "Jason West",
+        "original_name": "Jason West",
+        "popularity": 0.7466,
+        "profile_path": null,
+        "credit_id": "5c5580db0e0a263ccde10ac3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85585,
+        "known_for_department": "Directing",
+        "name": "Abhishek Kapoor",
+        "original_name": "Abhishek Kapoor",
+        "popularity": 0.8409,
+        "profile_path": "/8DigwIbdsgoNSDCebUrTh96Zyc6.jpg",
+        "credit_id": "5c5580fbc3a368729086d885",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85582,
+        "known_for_department": "Sound",
+        "name": "Ehsaan Noorani",
+        "original_name": "Ehsaan Noorani",
+        "popularity": 0.5525,
+        "profile_path": "/eA0FcyxLwXww30zuzHHU4gOAyNL.jpg",
+        "credit_id": "5c5581199251410e1d4db08c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 231574,
+        "known_for_department": "Art",
+        "name": "Shashank Tere",
+        "original_name": "Shashank Tere",
+        "popularity": 0.3623,
+        "profile_path": null,
+        "credit_id": "5c558138c3a36842468242f8",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1672774,
+        "known_for_department": "Writing",
+        "name": "Pubali Chaudhuri",
+        "original_name": "Pubali Chaudhuri",
+        "popularity": 0.3873,
+        "profile_path": null,
+        "credit_id": "5c5581020e0a26567ac6c163",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85583,
+        "known_for_department": "Sound",
+        "name": "Loy Mendonsa",
+        "original_name": "Loy Mendonsa",
+        "popularity": 0.5549,
+        "profile_path": "/fQEfwBOVl4HfgByAKeJOAtdpqlT.jpg",
+        "credit_id": "5c55812cc3a36826a6823bc4",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85581,
+        "known_for_department": "Sound",
+        "name": "Shankar Mahadevan",
+        "original_name": "Shankar Mahadevan",
+        "popularity": 0.6013,
+        "profile_path": "/dUzAQPFi8t1EOA3XVM5d0ftJCjN.jpg",
+        "credit_id": "5c5581230e0a265e19d293a7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

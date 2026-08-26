@@ -1,0 +1,203 @@
+{
+  "adult": false,
+  "backdrop_path": "/peablWxLLhbbxhvrX8aFAjPIGSd.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 272420,
+  "imdb_id": "tt3359290",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Bobby Jasoos",
+  "overview": "A film that celebrates the aspiration of Bobby, who wants to become the number one detective in the old city area of Hyderabad.",
+  "popularity": 0.9334,
+  "poster_path": "/pJrV232nBTrRO5Zgz2Vj9LjMtR2.jpg",
+  "production_companies": [
+    {
+      "id": 7294,
+      "logo_path": "/kK4PRgceWp9KNrycD8xx8seWxYU.png",
+      "name": "Reliance Entertainment",
+      "origin_country": "IN"
+    },
+    {
+      "id": 98528,
+      "logo_path": null,
+      "name": "BornFreeEntertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 117096,
+      "logo_path": null,
+      "name": "Born Free Entertainment",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2014-07-04",
+  "revenue": 0,
+  "runtime": 121,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Bobby Jasoos",
+  "video": false,
+  "vote_average": 5.455,
+  "vote_count": 33,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35068,
+        "known_for_department": "Acting",
+        "name": "Vidya Balan",
+        "original_name": "Vidya Balan",
+        "popularity": 1.1208,
+        "profile_path": "/m4bnX5VQs2DfvQsLmfbKbBxUkC9.jpg",
+        "cast_id": 10,
+        "character": "Bobby",
+        "credit_id": "5385e969c3a3681af00012d7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 492791,
+        "known_for_department": "Acting",
+        "name": "Ali Fazal",
+        "original_name": "Ali Fazal",
+        "popularity": 1.4869,
+        "profile_path": "/lLDmx3RDuMXObASvdFXeUh1GOgd.jpg",
+        "cast_id": 12,
+        "character": "Tasawur",
+        "credit_id": "53be68640e0a26157f003d9e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85472,
+        "known_for_department": "Acting",
+        "name": "Arjan Bajwa",
+        "original_name": "Arjan Bajwa",
+        "popularity": 1.0278,
+        "profile_path": "/xs3nHpwwc4z46EthrTLJjub5nPs.jpg",
+        "cast_id": 15,
+        "character": "Lala",
+        "credit_id": "5a340c84c3a3680b8d1b32d9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86892,
+        "known_for_department": "Acting",
+        "name": "Supriya Pathak",
+        "original_name": "Supriya Pathak",
+        "popularity": 0.817,
+        "profile_path": "/cDvNa9XL425kBiyT4xqRGM8kK4H.jpg",
+        "cast_id": 16,
+        "character": "Matka",
+        "credit_id": "5a340c9f925141032c1b76cd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20045,
+        "known_for_department": "Acting",
+        "name": "Tanvi Azmi",
+        "original_name": "Tanvi Azmi",
+        "popularity": 0.8525,
+        "profile_path": "/zKxZCZahNstKxkF7YPa2DqgadWC.jpg",
+        "cast_id": 17,
+        "character": "Kausar Khaala",
+        "credit_id": "5a340ce1c3a36814ae02d11d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2182295,
+        "known_for_department": "Acting",
+        "name": "Vinay Varma",
+        "original_name": "Vinay Varma",
+        "popularity": 0.6335,
+        "profile_path": "/8qmMnrMMzHOOOvz3k8SqVAqP7dJ.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "5d286fa4be4b3612f6a0ea2d",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1339975,
+        "known_for_department": "Directing",
+        "name": "Samar Shaikh",
+        "original_name": "Samar Shaikh",
+        "popularity": 0.3462,
+        "profile_path": null,
+        "credit_id": "53be682c0e0a26157c003b44",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1339975,
+        "known_for_department": "Directing",
+        "name": "Samar Shaikh",
+        "original_name": "Samar Shaikh",
+        "popularity": 0.3462,
+        "profile_path": null,
+        "credit_id": "5a340bd80e0a264ccd1b88eb",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1941723,
+        "known_for_department": "Writing",
+        "name": "Sanyukta Shaikh Chawla",
+        "original_name": "Sanyukta Shaikh Chawla",
+        "popularity": 0.383,
+        "profile_path": null,
+        "credit_id": "5a340bed0e0a264cc11af08c",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

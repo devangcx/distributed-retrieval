@@ -1,0 +1,408 @@
+{
+  "adult": false,
+  "backdrop_path": "/iR3qsOdJerqqbCG6hleVfrS9soG.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 22316,
+  "imdb_id": "tt0278291",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "अजनबी",
+  "overview": "Raj and Priya befriend their new neighbors Vicky and Sonia. One day, Raj wakes up in Vicky's house and finds out that Sonia has been murdered and he's being framed for it. On the run, he must try and prove his innocence with the support of his loving wife.",
+  "popularity": 1.2999,
+  "poster_path": "/rIscKIZxR4HXzLiWgAU7GykfpfI.jpg",
+  "production_companies": [
+    {
+      "id": 4071,
+      "logo_path": null,
+      "name": "Film Folks",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2001-09-21",
+  "revenue": 0,
+  "runtime": 165,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Never trust a stranger",
+  "title": "Ajnabee",
+  "video": false,
+  "vote_average": 5.556,
+  "vote_count": 54,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77235,
+        "known_for_department": "Acting",
+        "name": "Bobby Deol",
+        "original_name": "बॉबी द्योल",
+        "popularity": 1.5865,
+        "profile_path": "/2npVa3PduichY8e7qBiE54m9VVP.jpg",
+        "cast_id": 5,
+        "character": "Raj Malhotra",
+        "credit_id": "52fe443cc3a368484e017533",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35070,
+        "known_for_department": "Acting",
+        "name": "Akshay Kumar",
+        "original_name": "अक्षय कुमार",
+        "popularity": 2.5711,
+        "profile_path": "/sR8nASRtTpiwXqkFHjG2jdRBZ7a.jpg",
+        "cast_id": 4,
+        "character": "Vikram \"Vicky\" Bajaj",
+        "credit_id": "52fe443cc3a368484e01752f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 37233,
+        "known_for_department": "Acting",
+        "name": "Kareena Kapoor Khan",
+        "original_name": "करीना कपूर खान",
+        "popularity": 1.9139,
+        "profile_path": "/kp9xnwDALUt6nuPBGuJHlvnxGnM.jpg",
+        "cast_id": 6,
+        "character": "Priya Malhotra",
+        "credit_id": "52fe443cc3a368484e017537",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85035,
+        "known_for_department": "Acting",
+        "name": "Bipasha Basu",
+        "original_name": "Bipasha Basu",
+        "popularity": 1.0489,
+        "profile_path": "/j4p0NOHUNvOCBcfaZiCoyxdJJou.jpg",
+        "cast_id": 7,
+        "character": "Sonia",
+        "credit_id": "52fe443cc3a368484e01753b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35819,
+        "known_for_department": "Acting",
+        "name": "Johny Lever",
+        "original_name": "Johny Lever",
+        "popularity": 1.7738,
+        "profile_path": "/kohAOhKr4HBln8b9P4i1kmMONyi.jpg",
+        "cast_id": 8,
+        "character": "Banu Pradhan (B.P.)",
+        "credit_id": "52fe443cc3a368484e01753f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86070,
+        "known_for_department": "Acting",
+        "name": "Amita Nangia",
+        "original_name": "Amita Nangia",
+        "popularity": 0.6162,
+        "profile_path": "/h1a2c7TcSJB8pOfya3iYWhlm1EU.jpg",
+        "cast_id": 17,
+        "character": "Champa Devi",
+        "credit_id": "669899feb6bb3f6faba470d0",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1637159,
+        "known_for_department": "Acting",
+        "name": "Narendra Bedi",
+        "original_name": "Narendra Bedi",
+        "popularity": 0.5884,
+        "profile_path": "/mwqwrYkfgG10uYumgAgWOvSBSFf.jpg",
+        "cast_id": 10,
+        "character": "Lakhan Pal (L.P.)",
+        "credit_id": "576363de92514171d50004d2",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1123898,
+        "known_for_department": "Acting",
+        "name": "Sheela Sharma",
+        "original_name": "Sheela Sharma",
+        "popularity": 0.4882,
+        "profile_path": "/27Vz7AejU5mvkXS5MAwEO1EJ1XN.jpg",
+        "cast_id": 18,
+        "character": "Veena Chandra Devi",
+        "credit_id": "66989a1a8c7f1558ab0f6f0e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55066,
+        "known_for_department": "Acting",
+        "name": "Sharat Saxena",
+        "original_name": "Sharat Saxena",
+        "popularity": 1.154,
+        "profile_path": "/ArW6nQ23bjVfbcFmNVl4W9zpd7X.jpg",
+        "cast_id": 11,
+        "character": "Insurance Officer",
+        "credit_id": "5936c0979251416c2500f64c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11861,
+        "known_for_department": "Acting",
+        "name": "Dalip Tahil",
+        "original_name": "Dalip Tahil",
+        "popularity": 1.0672,
+        "profile_path": "/4kgTd5aKh3IRxrJ7uG5h9mojb57.jpg",
+        "cast_id": 9,
+        "character": "Priya's Father",
+        "credit_id": "52fe443cc3a368484e017543",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1641478,
+        "known_for_department": "Acting",
+        "name": "Mink Brar",
+        "original_name": "Mink Brar",
+        "popularity": 0.9003,
+        "profile_path": "/qQBvL1h1rMELCkhHhm6m4oAURCC.jpg",
+        "cast_id": 12,
+        "character": "Sonia Bajaj",
+        "credit_id": "5936c0c69251416bfc00fc2c",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87356,
+        "known_for_department": "Directing",
+        "name": "Abbas Alibhai Burmawalla",
+        "original_name": "Abbas Alibhai Burmawalla",
+        "popularity": 0.6858,
+        "profile_path": "/yeY7Lg7mTxjsI9uKiGic1PDZQlS.jpg",
+        "credit_id": "52fe443cc3a368484e01751f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87355,
+        "known_for_department": "Directing",
+        "name": "Mustan Alibhai Burmawalla",
+        "original_name": "Mustan Alibhai Burmawalla",
+        "popularity": 0.5966,
+        "profile_path": "/364apN4vJqozvMFaRU1UHDfpiaB.jpg",
+        "credit_id": "52fe443cc3a368484e017525",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37241,
+        "known_for_department": "Sound",
+        "name": "Anu Malik",
+        "original_name": "Anu Malik",
+        "popularity": 0.7303,
+        "profile_path": "/6TqNRZ8pm0woMxNXAtQrQjkcnfB.jpg",
+        "credit_id": "52fe443cc3a368484e01752b",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87713,
+        "known_for_department": "Writing",
+        "name": "Neeraj Vora",
+        "original_name": "Neeraj Vora",
+        "popularity": 1.0544,
+        "profile_path": "/tvcSH69PvRjkRWSEDaiRechvlyo.jpg",
+        "credit_id": "64a6c8c30398ab00ae93f528",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87713,
+        "known_for_department": "Writing",
+        "name": "Neeraj Vora",
+        "original_name": "Neeraj Vora",
+        "popularity": 1.0544,
+        "profile_path": "/tvcSH69PvRjkRWSEDaiRechvlyo.jpg",
+        "credit_id": "64a6c8cf0398ab00ae93f52d",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 131346,
+        "known_for_department": "Writing",
+        "name": "Shyam Goel",
+        "original_name": "Shyam Goel",
+        "popularity": 0.6206,
+        "profile_path": null,
+        "credit_id": "64a6c8e307faa200c7ec2a75",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 131346,
+        "known_for_department": "Writing",
+        "name": "Shyam Goel",
+        "original_name": "Shyam Goel",
+        "popularity": 0.6206,
+        "profile_path": null,
+        "credit_id": "64a6c8f9c3bffe01445153eb",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1050202,
+        "known_for_department": "Production",
+        "name": "Vijay Galani",
+        "original_name": "Vijay Galani",
+        "popularity": 0.3752,
+        "profile_path": null,
+        "credit_id": "697b4b6524f8b9582fb81b94",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 789008,
+        "known_for_department": "Camera",
+        "name": "Rajan Kinagi",
+        "original_name": "Rajan Kinagi",
+        "popularity": 0.4012,
+        "profile_path": null,
+        "credit_id": "697b4b762bd32d480fa7ecdb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1164990,
+        "known_for_department": "Editing",
+        "name": "Hussain A. Burmawala",
+        "original_name": "Hussain A. Burmawala",
+        "popularity": 0.3312,
+        "profile_path": null,
+        "credit_id": "697b4b85fc80c4c2818f8b62",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86782,
+        "known_for_department": "Writing",
+        "name": "Robin Bhatt",
+        "original_name": "Robin Bhatt",
+        "popularity": 0.9267,
+        "profile_path": null,
+        "credit_id": "697b4c19e1363f3eb07f761d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1952074,
+        "known_for_department": "Writing",
+        "name": "Sanjeev Duggal",
+        "original_name": "Sanjeev Duggal",
+        "popularity": 0.5165,
+        "profile_path": null,
+        "credit_id": "697b4c288d9d382821a7ed03",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1113607,
+        "known_for_department": "Art",
+        "name": "R. Verman Shetty",
+        "original_name": "R. Verman Shetty",
+        "popularity": 0.4062,
+        "profile_path": null,
+        "credit_id": "697b4c472ec2ea35c97f07c2",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2266949,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Manikrao Jagtap",
+        "original_name": "Manikrao Jagtap",
+        "popularity": 0.2609,
+        "profile_path": null,
+        "credit_id": "697b4c6cb5e3868a37a7ed88",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      }
+    ]
+  }
+}

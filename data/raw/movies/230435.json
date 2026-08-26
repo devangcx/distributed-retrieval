@@ -1,0 +1,371 @@
+{
+  "adult": false,
+  "backdrop_path": "/zZvsUYJDHVUzeoB23ikYQGFVwQp.jpg",
+  "belongs_to_collection": {
+    "id": 603670,
+    "name": "Sadak Collection",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 230435,
+  "imdb_id": "tt0156985",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "सड़क",
+  "overview": "A taxi driver with a tragic past sees an opportunity for redemption when he encounters a woman sold into prostitution. Wanting to help her escape, he has to deal with the wrath of the brothel madam.",
+  "popularity": 0.8027,
+  "poster_path": "/fFESWq8YQHRrwSJ9K8ThAxlDCx.jpg",
+  "production_companies": [
+    {
+      "id": 3749,
+      "logo_path": "/54N3BYPtuETnYumu6gjv97dg6H8.png",
+      "name": "Vishesh Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "1991-12-06",
+  "revenue": 0,
+  "runtime": 127,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sadak",
+  "video": false,
+  "vote_average": 5.654,
+  "vote_count": 26,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85881,
+        "known_for_department": "Acting",
+        "name": "Sanjay Dutt",
+        "original_name": "संजय दत्त",
+        "popularity": 2.4825,
+        "profile_path": "/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg",
+        "cast_id": 0,
+        "character": "Ravi",
+        "credit_id": "576fbe88c3a36847dd00608d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 110146,
+        "known_for_department": "Acting",
+        "name": "Pooja Bhatt",
+        "original_name": "Pooja Bhatt",
+        "popularity": 0.8338,
+        "profile_path": "/y9Tv1hsfjJEFVnK7cauLFuA2pg7.jpg",
+        "cast_id": 1,
+        "character": "Pooja",
+        "credit_id": "576fbe96c3a3682dc500083f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88437,
+        "known_for_department": "Acting",
+        "name": "Deepak Tijori",
+        "original_name": "Deepak Tijori",
+        "popularity": 1.0585,
+        "profile_path": "/3Vnt2RxkMYrPDuFMhdU2WWeVZqT.jpg",
+        "cast_id": 2,
+        "character": "Gotya",
+        "credit_id": "576fbea0c3a3682dc500084a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1619261,
+        "known_for_department": "Acting",
+        "name": "Neelima Azim",
+        "original_name": "Neelima Azim",
+        "popularity": 0.7166,
+        "profile_path": "/sye3pE0lc4N16YlbeLT8SFh1lJr.jpg",
+        "cast_id": 5,
+        "character": "Chanda",
+        "credit_id": "5ce14bc90e0a266f7ccd39fb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6520,
+        "known_for_department": "Acting",
+        "name": "Soni Razdan",
+        "original_name": "Soni Razdan",
+        "popularity": 1.0201,
+        "profile_path": "/yOkPrW9Dnut5FqePGz34PdTpF2s.jpg",
+        "cast_id": 4,
+        "character": "Roopa",
+        "credit_id": "5af0fb61c3a36837ab0007eb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140683,
+        "known_for_department": "Acting",
+        "name": "Avtar Gill",
+        "original_name": "Avtar Gill",
+        "popularity": 0.7222,
+        "profile_path": "/7KW5VrxETpM3FMMXOxBXu2ppflr.jpg",
+        "cast_id": 6,
+        "character": "Salim Bhai",
+        "credit_id": "5ce14c0ec3a368485b1ec0b9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32335,
+        "known_for_department": "Acting",
+        "name": "Mushtaq Khan",
+        "original_name": "Mushtaq Khan",
+        "popularity": 0.8584,
+        "profile_path": "/xj2fPOfGRiQCFp7V9MUAlshNGZH.jpg",
+        "cast_id": 7,
+        "character": "Gullu",
+        "credit_id": "5ce14c1ac3a368485b1ec0c2",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 129731,
+        "known_for_department": "Acting",
+        "name": "Javed Khan",
+        "original_name": "Javed Khan",
+        "popularity": 0.7438,
+        "profile_path": "/dYi2y5kxKRCRty0llXlt2sDO5xb.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "5ce14c2fc3a368485b1ec0d3",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141336,
+        "known_for_department": "Acting",
+        "name": "Pankaj Dheer",
+        "original_name": "Pankaj Dheer",
+        "popularity": 0.6467,
+        "profile_path": "/joqHKk2C0dtI9Rf4byf1ek7InBp.jpg",
+        "cast_id": 9,
+        "character": "Inspector Irani",
+        "credit_id": "5ce14c5dc3a368469d21708b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1143722,
+        "known_for_department": "Acting",
+        "name": "Manohar Singh",
+        "original_name": "Manohar Singh",
+        "popularity": 0.3966,
+        "profile_path": "/eRgM8flNRMxlOUskNNqL7mbnDAF.jpg",
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "5ce14c739251412d00bb9601",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105444,
+        "known_for_department": "Acting",
+        "name": "Sadashiv Amrapurkar",
+        "original_name": "Sadashiv Amrapurkar",
+        "popularity": 0.7175,
+        "profile_path": "/5ppazNZPQjlR1IRM0DyN3Kf3hfd.jpg",
+        "cast_id": 11,
+        "character": "Maharani",
+        "credit_id": "5ce14c920e0a266f81cd23ec",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1511727,
+        "known_for_department": "Acting",
+        "name": "Gavin Packard",
+        "original_name": "Gavin Packard",
+        "popularity": 0.5218,
+        "profile_path": "/r4KKyIJcv8jzZwTQbBcblX9trDh.jpg",
+        "cast_id": 22,
+        "character": "Maharani's henchman",
+        "credit_id": "5eb55f5ce375c00022fc1de3",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85894,
+        "known_for_department": "Directing",
+        "name": "Mahesh Bhatt",
+        "original_name": "Mahesh Bhatt",
+        "popularity": 0.6913,
+        "profile_path": "/hEvDopJhOKbcEPdwcuz3e4b0w4m.jpg",
+        "credit_id": "58ba323fc3a368666b012b08",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1029052,
+        "known_for_department": "Directing",
+        "name": "Bhushan Patel",
+        "original_name": "Bhushan Patel",
+        "popularity": 0.5372,
+        "profile_path": null,
+        "credit_id": "5ce7ffd20e0a26522ad11f43",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86782,
+        "known_for_department": "Writing",
+        "name": "Robin Bhatt",
+        "original_name": "Robin Bhatt",
+        "popularity": 0.9267,
+        "profile_path": null,
+        "credit_id": "5ce14dd20e0a266f7ccd3cce",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88802,
+        "known_for_department": "Production",
+        "name": "Mukesh Bhatt",
+        "original_name": "Mukesh Bhatt",
+        "popularity": 0.739,
+        "profile_path": "/yHEtla0qYbPGXGXSaYGIlKWERLT.jpg",
+        "credit_id": "5ce14ea20e0a266f81cd2757",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85398,
+        "known_for_department": "Crew",
+        "name": "Raju Khan",
+        "original_name": "Raju Khan",
+        "popularity": 0.5405,
+        "profile_path": null,
+        "credit_id": "5ce14d8b9251412cfabb5ddb",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 131900,
+        "known_for_department": "Sound",
+        "name": "Shravan Kumar Rathod",
+        "original_name": "Shravan Kumar Rathod",
+        "popularity": 0.3754,
+        "profile_path": null,
+        "credit_id": "5ce14e889251412cfabb5f11",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85397,
+        "known_for_department": "Camera",
+        "name": "Pravin Bhatt",
+        "original_name": "Pravin Bhatt",
+        "popularity": 0.5324,
+        "profile_path": null,
+        "credit_id": "5ce14dbfc3a36845111ec777",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86782,
+        "known_for_department": "Writing",
+        "name": "Robin Bhatt",
+        "original_name": "Robin Bhatt",
+        "popularity": 0.9267,
+        "profile_path": null,
+        "credit_id": "5ce14decc3a36814e4210404",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86782,
+        "known_for_department": "Writing",
+        "name": "Robin Bhatt",
+        "original_name": "Robin Bhatt",
+        "popularity": 0.9267,
+        "profile_path": null,
+        "credit_id": "5ce14ddf0e0a266f81cd265c",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1042247,
+        "known_for_department": "Sound",
+        "name": "Nadeem Akhtar Saifi",
+        "original_name": "Nadeem Akhtar Saifi",
+        "popularity": 0.5356,
+        "profile_path": null,
+        "credit_id": "5ce14e71c3a3684c1c1ec77d",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "adult": false,
+  "backdrop_path": "/4yN3l7ZQgGDZOewvoiWKcLt7EVb.jpg",
+  "belongs_to_collection": {
+    "id": 1698073,
+    "name": "Barbie Filmereihe",
+    "poster_path": "/dmNbjHmMLw2r0gYouOByZ7B2C2C.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 57737,
+  "imdb_id": "tt1800254",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Barbie: A Fairy Secret",
+  "overview": "Barbie realises that fairies secretly surround everybody. She, along with the help of her friends, Taylor and Carrie, sets out to rescue Ken. He is taken to the secret fairy city, Gloss Angeles.",
+  "popularity": 6.1211,
+  "poster_path": "/wn2aoYKOonwMNKkzfgO5y4ji8pB.jpg",
+  "production_companies": [
+    {
+      "id": 102897,
+      "logo_path": "/ackYRJXIse2uoLDawNVs1HzEJgm.png",
+      "name": "Rainmaker Entertainment",
+      "origin_country": "CA"
+    },
+    {
+      "id": 6220,
+      "logo_path": "/cAj69EL1zSXmZH6STbMGZrunyMD.png",
+      "name": "Mattel",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2011-03-01",
+  "revenue": 0,
+  "runtime": 72,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Barbie lets you in on a secret...",
+  "title": "Barbie: A Fairy Secret",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 550,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 526306,
+        "known_for_department": "Acting",
+        "name": "Diana Kaarina",
+        "original_name": "Diana Kaarina",
+        "popularity": 0.9762,
+        "profile_path": "/xXSKWcM0uztY2iwUz5U31Wn6etR.jpg",
+        "cast_id": 2,
+        "character": "Barbie (voice)",
+        "credit_id": "58cd32649251415a7d00b39c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101247,
+        "known_for_department": "Acting",
+        "name": "Adrian Petriw",
+        "original_name": "Adrian Petriw",
+        "popularity": 1.2878,
+        "profile_path": "/3jbR14GEKoUCbrs3NVmQw8eWRvu.jpg",
+        "cast_id": 3,
+        "character": "Ken (voice)",
+        "credit_id": "58cd32899251415a4100b36f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 62866,
+        "known_for_department": "Acting",
+        "name": "Britt Irvin",
+        "original_name": "Britt Irvin",
+        "popularity": 1.175,
+        "profile_path": "/kBur7ANcUpwqm3ZWrRZhJ5kB7MZ.jpg",
+        "cast_id": 7,
+        "character": "Raquelle (voice)",
+        "credit_id": "58cd3af29251415a6100cfb8",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 571336,
+        "known_for_department": "Acting",
+        "name": "Cassandra Lee Morris",
+        "original_name": "Cassandra Lee Morris",
+        "popularity": 0.8739,
+        "profile_path": "/iXUQ4SGQhVAAsyJjNO35IeMPGZH.jpg",
+        "cast_id": 8,
+        "character": "Carrie (voice)",
+        "credit_id": "5cf3bc1e0e0a261186caeaff",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 191855,
+        "known_for_department": "Acting",
+        "name": "Kate Higgins",
+        "original_name": "Kate Higgins",
+        "popularity": 1.1073,
+        "profile_path": "/kFAAyE63EWFiNdJEjwD534A7hQY.jpg",
+        "cast_id": 9,
+        "character": "Taylor (voice)",
+        "credit_id": "5cf3bc3392514167e8b96b87",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1239293,
+        "known_for_department": "Acting",
+        "name": "Silvio Pollio",
+        "original_name": "Silvio Pollio",
+        "popularity": 0.6957,
+        "profile_path": "/z5oToGhIcIrZZrLqnl2c7dqdpcf.jpg",
+        "cast_id": 27,
+        "character": "Zane (voice)",
+        "credit_id": "5ecc3c7005a533001d1b8855",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 74369,
+        "known_for_department": "Acting",
+        "name": "Brittney Wilson",
+        "original_name": "Brittney Wilson",
+        "popularity": 1.4613,
+        "profile_path": "/3XFIqSRlPSQpFfmeHfA41HMFT2o.jpg",
+        "cast_id": 11,
+        "character": "Crystal (voice)",
+        "credit_id": "5cf3bccc9251416948b97974",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1219465,
+        "known_for_department": "Acting",
+        "name": "Alexandra Carter",
+        "original_name": "Alexandra Carter",
+        "popularity": 0.8227,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Princess Graciella (voice)",
+        "credit_id": "5f837f3248333a00369bb7da",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 74370,
+        "known_for_department": "Acting",
+        "name": "Nicole Oliver",
+        "original_name": "Nicole Oliver",
+        "popularity": 1.5442,
+        "profile_path": "/plAsVfhTrYaU78JrZbJSQ4uXpX1.jpg",
+        "cast_id": 13,
+        "character": "Lilliana Roxelle / Fitting Room Attendant (voice)",
+        "credit_id": "5cf3bd180e0a2643c6cb2615",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 64897,
+        "known_for_department": "Acting",
+        "name": "Barbara Tyson",
+        "original_name": "Barbara Tyson",
+        "popularity": 1.1509,
+        "profile_path": "/5iNxR4IuOs1nVkWCTQSeG2QXLdQ.jpg",
+        "cast_id": 14,
+        "character": "Tracy Clinger (voice)",
+        "credit_id": "5cf3bd2e0e0a2643c6cb2642",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 41432,
+        "known_for_department": "Acting",
+        "name": "Candus Churchill",
+        "original_name": "Candus Churchill",
+        "popularity": 0.9463,
+        "profile_path": "/r3oaD58Eyfbyz8Yod3LNVbKG942.jpg",
+        "cast_id": 15,
+        "character": "Reena (voice)",
+        "credit_id": "5cf3bd440e0a261e1bce9eb7",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20221,
+        "known_for_department": "Acting",
+        "name": "Nathaniel DeVeaux",
+        "original_name": "Nathaniel DeVeaux",
+        "popularity": 1.2772,
+        "profile_path": "/3TdprDSOpurRTbXDfNUE5ZRUwww.jpg",
+        "cast_id": 16,
+        "character": "Graylen (voice)",
+        "credit_id": "5cf3bd5ac3a36818da1f2d87",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74362,
+        "known_for_department": "Acting",
+        "name": "Michael Dobson",
+        "original_name": "Michael Dobson",
+        "popularity": 1.22,
+        "profile_path": "/AjzZvcIWkq6mUC5dIxgGsPCv8bk.jpg",
+        "cast_id": 17,
+        "character": "Wedding Officiant (voice)",
+        "credit_id": "5cf3bd7392514135f2b97a69",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 75037,
+        "known_for_department": "Acting",
+        "name": "Laura Bailey",
+        "original_name": "Laura Bailey",
+        "popularity": 3.2532,
+        "profile_path": "/xrq33v9N78hhmApcfkoYx0TAw1A.jpg",
+        "cast_id": 18,
+        "character": "Additional Voices (voice)",
+        "credit_id": "5cf3bda99251412670b9830a",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1882882,
+        "known_for_department": "Writing",
+        "name": "Ruth Handler",
+        "original_name": "Ruth Handler",
+        "popularity": 1.2616,
+        "profile_path": "/dpjzMMrUxiLFWRgDQ9GedhQ9hmA.jpg",
+        "credit_id": "62a29b82e22d28005175405b",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45927,
+        "known_for_department": "Acting",
+        "name": "Terry Klassen",
+        "original_name": "Terry Klassen",
+        "popularity": 1.01,
+        "profile_path": null,
+        "credit_id": "5638cdb4c3a3681b4b01d9dd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80948,
+        "known_for_department": "Directing",
+        "name": "William Lau",
+        "original_name": "William Lau",
+        "popularity": 1.0143,
+        "profile_path": "/9N91RxoqoEQLpx8uRWdzMkjvSrg.jpg",
+        "credit_id": "5638cdd0c3a3681b610205c6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 92083,
+        "known_for_department": "Production",
+        "name": "Rob Hudnut",
+        "original_name": "Rob Hudnut",
+        "popularity": 0.5136,
+        "profile_path": null,
+        "credit_id": "5cf3be1dc3a3687758235d97",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 92126,
+        "known_for_department": "Writing",
+        "name": "Elise Allen",
+        "original_name": "Elise Allen",
+        "popularity": 0.6758,
+        "profile_path": "/lCBdDlpVJSkr3n4nqKy4KkiNk86.jpg",
+        "credit_id": "5cf3bde7c3a3685f111f7252",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4147,
+        "known_for_department": "Art",
+        "name": "Walter P. Martishius",
+        "original_name": "Walter P. Martishius",
+        "popularity": 0.5647,
+        "profile_path": null,
+        "credit_id": "5cf3be5a92514167e8b9823e",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2327303,
+        "known_for_department": "Art",
+        "name": "David Dick",
+        "original_name": "David Dick",
+        "popularity": 0.3505,
+        "profile_path": null,
+        "credit_id": "5cf3be8f9251412670b988dc",
+        "department": "Art",
+        "job": "Art Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1355806,
+        "known_for_department": "Production",
+        "name": "Kylie Ellis",
+        "original_name": "Kylie Ellis",
+        "popularity": 0.489,
+        "profile_path": null,
+        "credit_id": "5cf3be07c3a3685f111f728b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1367409,
+        "known_for_department": "Directing",
+        "name": "Sylvain Blais",
+        "original_name": "Sylvain Blais",
+        "popularity": 0.5004,
+        "profile_path": "/2Su3cNBtcf6gD8D6fF7rl6jcs6I.jpg",
+        "credit_id": "5cf3be3dc3a3685c081f7010",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1538436,
+        "known_for_department": "Sound",
+        "name": "Bryon Rickerson",
+        "original_name": "Bryon Rickerson",
+        "popularity": 0.4361,
+        "profile_path": null,
+        "credit_id": "5cf3bec10e0a2643c6cb2b53",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42304,
+        "known_for_department": "Sound",
+        "name": "BC Smith",
+        "original_name": "BC Smith",
+        "popularity": 0.4474,
+        "profile_path": null,
+        "credit_id": "675520ab0564b1ea9b6ebda7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

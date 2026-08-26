@@ -1,0 +1,389 @@
+{
+  "adult": false,
+  "backdrop_path": "/dAcWx9pcEVxDwC90VPxgzXJC7AO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://theaccursed.com/",
+  "id": 852252,
+  "imdb_id": "tt14617254",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Accursed",
+  "overview": "Elly is asked by a family friend to spend a few days looking after an elderly woman living in a remote cabin. She readily agrees thinking a short trip to the woods will be a nice escape. The cabin turns out to be anything but relaxing as Elly begins hallucinating in ways that blur reality with her dreams. As the visions take over, Elly realizes that she was lured there by a demonic presence hiding inside of the woman just waiting to break free.",
+  "popularity": 2.5153,
+  "poster_path": "/27IgOiz7Vp19ei13pnRdOir7SD8.jpg",
+  "production_companies": [
+    {
+      "id": 81589,
+      "logo_path": null,
+      "name": "Blood Red Films",
+      "origin_country": ""
+    },
+    {
+      "id": 110831,
+      "logo_path": null,
+      "name": "Storyoscopic Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-10-14",
+  "revenue": 0,
+  "runtime": 96,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Are you ready to gaze into hell?",
+  "title": "The Accursed",
+  "video": false,
+  "vote_average": 5.225,
+  "vote_count": 71,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1197119,
+        "known_for_department": "Acting",
+        "name": "Sarah Grey",
+        "original_name": "Sarah Grey",
+        "popularity": 1.392,
+        "profile_path": "/r3cvVVjUEhBgW0a5aVtvrqrPjQX.jpg",
+        "cast_id": 3,
+        "character": "Elly",
+        "credit_id": "60f63ce2c439c000465b8ca1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 41229,
+        "known_for_department": "Acting",
+        "name": "Meg Foster",
+        "original_name": "Meg Foster",
+        "popularity": 3.2835,
+        "profile_path": "/9kYfYxFiN6PYjJh1nU2PrQ0K2Z6.jpg",
+        "cast_id": 5,
+        "character": "Ms. Ambrose",
+        "credit_id": "60f63d184c25921a80e30183",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1223438,
+        "known_for_department": "Acting",
+        "name": "Sarah Dumont",
+        "original_name": "Sarah Dumont",
+        "popularity": 1.179,
+        "profile_path": "/lW6Qxv5OYfHxdwy7UIalIjpdL07.jpg",
+        "cast_id": 6,
+        "character": "Beth",
+        "credit_id": "60f63d34e263bb0047436617",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 999790,
+        "known_for_department": "Acting",
+        "name": "Alexis Knapp",
+        "original_name": "Alexis Knapp",
+        "popularity": 1.5284,
+        "profile_path": "/dgbhsyMfvDzB4dB2TcA1tDYdwGh.jpg",
+        "cast_id": 4,
+        "character": "Mary Lynn",
+        "credit_id": "60f63cff33a533005f77ed03",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8211,
+        "known_for_department": "Acting",
+        "name": "Mena Suvari",
+        "original_name": "Mena Suvari",
+        "popularity": 2.8773,
+        "profile_path": "/xjqKvy0bos02oSKNYzC4mxLbQ0W.jpg",
+        "cast_id": 2,
+        "character": "Alma",
+        "credit_id": "60f63cafd7cd0600459bf28c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92309,
+        "known_for_department": "Acting",
+        "name": "Sherman Augustus",
+        "original_name": "Sherman Augustus",
+        "popularity": 1.3467,
+        "profile_path": "/iLJyjsRdsip0djQ2wLJL0x7Xtjt.jpg",
+        "cast_id": 9,
+        "character": "Officer Green",
+        "credit_id": "6292a06ded2ac25b0de4cb80",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3567662,
+        "known_for_department": "Acting",
+        "name": "Marian Lee",
+        "original_name": "Marian Lee",
+        "popularity": 0.5922,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Young Nurse",
+        "credit_id": "6292a0a209ed8f125349ac3a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3054771,
+        "known_for_department": "Acting",
+        "name": "Olivia Day",
+        "original_name": "Olivia Day",
+        "popularity": 0.5452,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Librarian",
+        "credit_id": "6292a0bac390c50050ff44c3",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2933964,
+        "known_for_department": "Acting",
+        "name": "Kim Kendall",
+        "original_name": "Kim Kendall",
+        "popularity": 0.4296,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Officer Holly",
+        "credit_id": "6292a0c5fc5f06006625d024",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2302513,
+        "known_for_department": "Acting",
+        "name": "Jennifer Silverstein",
+        "original_name": "Jennifer Silverstein",
+        "popularity": 0.4647,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Helen",
+        "credit_id": "6292a0ea5a4690009e475851",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4365424,
+        "known_for_department": "Acting",
+        "name": "Derek Severson",
+        "original_name": "Derek Severson",
+        "popularity": 0.3622,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Demon Hands",
+        "credit_id": "654c576029383500ab530335",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1644715,
+        "known_for_department": "Directing",
+        "name": "Rob Kennedy",
+        "original_name": "Rob Kennedy",
+        "popularity": 0.4845,
+        "profile_path": null,
+        "credit_id": "60f63d578258fc002d8feeac",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86967,
+        "known_for_department": "Directing",
+        "name": "Kevin Lewis",
+        "original_name": "Kevin Lewis",
+        "popularity": 0.5967,
+        "profile_path": "/maWVHh0CaZEqDNNRjMdwJfy7maL.jpg",
+        "credit_id": "60f63c94e72fe80046d96a12",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1163434,
+        "known_for_department": "Camera",
+        "name": "David Newbert",
+        "original_name": "David Newbert",
+        "popularity": 0.5724,
+        "profile_path": null,
+        "credit_id": "6292a26b3ff2df009610d0df",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2816479,
+        "known_for_department": "Production",
+        "name": "Marcus Englefield",
+        "original_name": "Marcus Englefield",
+        "popularity": 0.3507,
+        "profile_path": null,
+        "credit_id": "6292a102eda4b7009a4c40f3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 928264,
+        "known_for_department": "Production",
+        "name": "Lawreen E. Kayl",
+        "original_name": "Lawreen E. Kayl",
+        "popularity": 0.3825,
+        "profile_path": "/UNckW0iVM69kLMJU42og4sPMrO.jpg",
+        "credit_id": "6292a21eed2ac25b0bdd2462",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2946924,
+        "known_for_department": "Acting",
+        "name": "Émoi",
+        "original_name": "Émoi",
+        "popularity": 0.308,
+        "profile_path": null,
+        "credit_id": "6292a258cddbbc5503c44ef9",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 79535,
+        "known_for_department": "Production",
+        "name": "Ann Carli",
+        "original_name": "Ann Carli",
+        "popularity": 0.6442,
+        "profile_path": null,
+        "credit_id": "6292a185fb8346006674e120",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1367053,
+        "known_for_department": "Production",
+        "name": "Viviana Zarragoitia",
+        "original_name": "Viviana Zarragoitia",
+        "popularity": 0.6332,
+        "profile_path": null,
+        "credit_id": "6292a2320e64af0098c04bfd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1719344,
+        "known_for_department": "Editing",
+        "name": "Ryan Liebert",
+        "original_name": "Ryan Liebert",
+        "popularity": 0.4096,
+        "profile_path": null,
+        "credit_id": "6292a27afc5f06009de7ecc2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2734454,
+        "known_for_department": "Sound",
+        "name": "Scottland Olds Harbert",
+        "original_name": "Scottland Olds Harbert",
+        "popularity": 0.2893,
+        "profile_path": null,
+        "credit_id": "6292a20f09ed8f12554ad8e2",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4365424,
+        "known_for_department": "Acting",
+        "name": "Derek Severson",
+        "original_name": "Derek Severson",
+        "popularity": 0.3622,
+        "profile_path": null,
+        "credit_id": "654c597867b61300c849f34f",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3197168,
+        "known_for_department": "Crew",
+        "name": "Brandon Noack",
+        "original_name": "Brandon Noack",
+        "popularity": 0.5838,
+        "profile_path": null,
+        "credit_id": "61a308e82495ab0091908d20",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1636852,
+        "known_for_department": "Crew",
+        "name": "Jessica Erin Bennett",
+        "original_name": "Jessica Erin Bennett",
+        "popularity": 0.4568,
+        "profile_path": "/zzfZ0R6gwMQnSszOEWadc9dxYlr.jpg",
+        "credit_id": "66e4c72b5282497eb76ce92e",
+        "department": "Crew",
+        "job": "Stunt Double"
+      }
+    ]
+  }
+}

@@ -1,0 +1,531 @@
+{
+  "adult": false,
+  "backdrop_path": "/gHqPlU6fKfxNtEWcUUFjRLrAuLf.jpg",
+  "belongs_to_collection": null,
+  "budget": 2700000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 352205,
+  "imdb_id": "tt3043252",
+  "origin_country": [
+    "IN",
+    "GB"
+  ],
+  "original_language": "hi",
+  "original_title": "Parched",
+  "overview": "In the arid landscape of Rajasthan, four women navigate their way through personal and cultural difficulties.",
+  "popularity": 2.0369,
+  "poster_path": "/cpuW4xGdUVZep3Otwo97xnEzdWi.jpg",
+  "production_companies": [
+    {
+      "id": 78688,
+      "logo_path": "/exhu1FkZ7OYO6wb4Oyvw6KyF4Vy.png",
+      "name": "Blue Waters Motion Pictures",
+      "origin_country": "IN"
+    },
+    {
+      "id": 80785,
+      "logo_path": null,
+      "name": "Shivalaya Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 80786,
+      "logo_path": null,
+      "name": "Airan Consultants",
+      "origin_country": ""
+    },
+    {
+      "id": 80787,
+      "logo_path": null,
+      "name": "Ashlee Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 128365,
+      "logo_path": "/9UnLNX7mfB1FzieJcjA9xyni8wY.png",
+      "name": "Ajay Devgn FFilms",
+      "origin_country": "IN"
+    },
+    {
+      "id": 199407,
+      "logo_path": null,
+      "name": "Seville International",
+      "origin_country": "CA"
+    },
+    {
+      "id": 8147,
+      "logo_path": "/q6HOAdSNgCbeOqwoMVRc6REgbXF.png",
+      "name": "Entertainment One",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2015-11-14",
+  "revenue": 0,
+  "runtime": 116,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "All it took was the first act of courage.",
+  "title": "Parched",
+  "video": false,
+  "vote_average": 7.327,
+  "vote_count": 101,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 223167,
+        "known_for_department": "Acting",
+        "name": "Radhika Apte",
+        "original_name": "Radhika Apte",
+        "popularity": 1.2377,
+        "profile_path": "/wKPybRcSYcbgDiJZwELudrRNf0r.jpg",
+        "cast_id": 4,
+        "character": "Lajjo",
+        "credit_id": "55b9366492514123e70025a3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 87297,
+        "known_for_department": "Acting",
+        "name": "Tannishtha Chatterjee",
+        "original_name": "Tannishtha Chatterjee",
+        "popularity": 0.7203,
+        "profile_path": "/sMHI5SS5CSvDLzqwfnGn4XG0oGc.jpg",
+        "cast_id": 0,
+        "character": "Rani",
+        "credit_id": "55b9360ec3a3684af500247d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1421861,
+        "known_for_department": "Acting",
+        "name": "Sayani Gupta",
+        "original_name": "Sayani Gupta",
+        "popularity": 1.1789,
+        "profile_path": "/ZswP4g0UHDYvZLI2HlWzEcbvEN.jpg",
+        "cast_id": 2,
+        "character": "Champa",
+        "credit_id": "55b9362fc3a3684ae900287f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 527738,
+        "known_for_department": "Acting",
+        "name": "Surveen Chawla",
+        "original_name": "Surveen Chawla",
+        "popularity": 0.7787,
+        "profile_path": "/anKAtXU9u9DfFma0e2R3C1WGDvX.jpg",
+        "cast_id": 5,
+        "character": "Bijli",
+        "credit_id": "57c1cf45925141441200199a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227849,
+        "known_for_department": "Acting",
+        "name": "Adil Hussain",
+        "original_name": "Adil Hussain",
+        "popularity": 1.6316,
+        "profile_path": "/eCWVa1pH7mmz0i9Q0l4VEKs7g6m.jpg",
+        "cast_id": 1,
+        "character": "Mystic Lover",
+        "credit_id": "55b9361fc3a3684aed0029b5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1430638,
+        "known_for_department": "Acting",
+        "name": "Sumeet Vyas",
+        "original_name": "Sumeet Vyas",
+        "popularity": 1.0063,
+        "profile_path": "/qGwWWHQsMU4V9ZMZnqNxdnXpYo2.jpg",
+        "cast_id": 6,
+        "character": "Kishan",
+        "credit_id": "57c1cf5ac3a3685331006318",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1671080,
+        "known_for_department": "Acting",
+        "name": "Riddhi Sen",
+        "original_name": "Riddhi Sen",
+        "popularity": 1.0174,
+        "profile_path": "/1txdIuaNnEPGi2mfInoRRcLyVBI.jpg",
+        "cast_id": 7,
+        "character": "Gulab",
+        "credit_id": "57c1cf659251413f7400a700",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1128415,
+        "known_for_department": "Acting",
+        "name": "Lehar Khan",
+        "original_name": "Lehar Khan",
+        "popularity": 0.4942,
+        "profile_path": "/qkGtsYbXbdppzNLTsqhBpKiDeme.jpg",
+        "cast_id": 8,
+        "character": "Janaki",
+        "credit_id": "57c1cf72c3a36865ac005e28",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1671081,
+        "known_for_department": "Acting",
+        "name": "Chandan Anand",
+        "original_name": "Chandan Anand",
+        "popularity": 0.543,
+        "profile_path": "/fyPk0OQAxPbqid2MZEOCtaFoa9Z.jpg",
+        "cast_id": 9,
+        "character": "Rajesh",
+        "credit_id": "57c1cf7c925141444a001b0f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1123899,
+        "known_for_department": "Acting",
+        "name": "Farrukh Jaffar",
+        "original_name": "Farrukh Jaffar",
+        "popularity": 0.582,
+        "profile_path": "/5k29GCI3qLC2n0YPsKVvv7Sn4b2.jpg",
+        "cast_id": 10,
+        "character": "Janki's Grandma",
+        "credit_id": "57c1cf88c3a36806330019b6",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1305459,
+        "known_for_department": "Acting",
+        "name": "Mahesh Balraj",
+        "original_name": "Mahesh Balraj",
+        "popularity": 0.8135,
+        "profile_path": "/6ENpFuSiqbqcx00c3UWParUDTLf.jpg",
+        "cast_id": 11,
+        "character": "Manoj",
+        "credit_id": "57c1cf92c3a3680690001895",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1671082,
+        "known_for_department": "Acting",
+        "name": "Tanya Sachdeva",
+        "original_name": "Tanya Sachdeva",
+        "popularity": 0.2848,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Rekha",
+        "credit_id": "57c1cf9cc3a36865ac005e4e",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1671083,
+        "known_for_department": "Acting",
+        "name": "Kamla Devi",
+        "original_name": "Kamla Devi",
+        "popularity": 0.2386,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Amma",
+        "credit_id": "57c1cfa7c3a368533400627d",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1704459,
+        "known_for_department": "Acting",
+        "name": "Dadhi Pandey",
+        "original_name": "Dadhi Pandey",
+        "popularity": 0.4899,
+        "profile_path": "/2IFV8XLlDGuStelARMjdf5AsgMs.jpg",
+        "cast_id": 31,
+        "character": "Sharma Ji",
+        "credit_id": "6a067d26100e54e166b8ee9e",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 229275,
+        "known_for_department": "Directing",
+        "name": "Leena Yadav",
+        "original_name": "Leena Yadav",
+        "popularity": 0.6779,
+        "profile_path": "/6I0n5l1WXU0Uxf02J97ejbJOOgK.jpg",
+        "credit_id": "60abeb98f8595800409a11da",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 583524,
+        "known_for_department": "Camera",
+        "name": "Aseem Bajaj",
+        "original_name": "Aseem Bajaj",
+        "popularity": 0.4826,
+        "profile_path": null,
+        "credit_id": "60abeb761108a80040233491",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42803,
+        "known_for_department": "Acting",
+        "name": "Ajay Devgn",
+        "original_name": "Ajay Devgan",
+        "popularity": 2.3821,
+        "profile_path": "/vnHQQFzTjJ0sv14DGMIoKa3qTxN.jpg",
+        "credit_id": "60abeb6277b1fb004140b4b6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1643373,
+        "known_for_department": "Production",
+        "name": "Gulab Singh Tanwar",
+        "original_name": "Gulab Singh Tanwar",
+        "popularity": 0.5868,
+        "profile_path": null,
+        "credit_id": "60abeb88f859580057b955cf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3102176,
+        "known_for_department": "Production",
+        "name": "Rohan Jagdale",
+        "original_name": "Rohan Jagdale",
+        "popularity": 0.2062,
+        "profile_path": null,
+        "credit_id": "60abebab0a517c003f6f6cbd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 229275,
+        "known_for_department": "Directing",
+        "name": "Leena Yadav",
+        "original_name": "Leena Yadav",
+        "popularity": 0.6779,
+        "profile_path": "/6I0n5l1WXU0Uxf02J97ejbJOOgK.jpg",
+        "credit_id": "55b9364292514123dd0029ae",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 146991,
+        "known_for_department": "Writing",
+        "name": "Supratik Sen",
+        "original_name": "Supratik Sen",
+        "popularity": 0.5288,
+        "profile_path": null,
+        "credit_id": "57c1cfd1925141444a001b52",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32796,
+        "known_for_department": "Editing",
+        "name": "Kevin Tent",
+        "original_name": "Kevin Tent",
+        "popularity": 0.6139,
+        "profile_path": "/npJ1M2Gorgf7drYUMAifTECvtV2.jpg",
+        "credit_id": "57c1cfeec3a36865ac005e75",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1108802,
+        "known_for_department": "Production",
+        "name": "Mukesh Chhabra",
+        "original_name": "मुकेश छाबरा",
+        "popularity": 0.7494,
+        "profile_path": "/f5XI2wJs2JPcd5FSECsdcnkyOMW.jpg",
+        "credit_id": "57c1cff79251413a3b006151",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1671087,
+        "known_for_department": "Art",
+        "name": "Pradip Redij",
+        "original_name": "Pradip Redij",
+        "popularity": 0.2529,
+        "profile_path": null,
+        "credit_id": "57c1d015c3a368533100637f",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1671085,
+        "known_for_department": "Sound",
+        "name": "Hitesh Sonik",
+        "original_name": "Hitesh Sonik",
+        "popularity": 0.4572,
+        "profile_path": null,
+        "credit_id": "57c1cfde925141444a001b5d",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8523,
+        "known_for_department": "Camera",
+        "name": "Russell Carpenter",
+        "original_name": "Russell Carpenter",
+        "popularity": 0.6324,
+        "profile_path": "/lUvCkzSLCJe7HcQGSIO4wLHuRF.jpg",
+        "credit_id": "57c1cfe6c3a36806fa0018d1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1671088,
+        "known_for_department": "Art",
+        "name": "Aman Mohan Vidhate",
+        "original_name": "Aman Mohan Vidhate",
+        "popularity": 0.3366,
+        "profile_path": null,
+        "credit_id": "57c1d01e9251413a3b006165",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1671089,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ashima Belapurkar",
+        "original_name": "Ashima Belapurkar",
+        "popularity": 0.4747,
+        "profile_path": null,
+        "credit_id": "57c1d0279251413a3b006170",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 229275,
+        "known_for_department": "Directing",
+        "name": "Leena Yadav",
+        "original_name": "Leena Yadav",
+        "popularity": 0.6779,
+        "profile_path": "/6I0n5l1WXU0Uxf02J97ejbJOOgK.jpg",
+        "credit_id": "57c1cfc39251413ac6006044",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1671086,
+        "known_for_department": "Art",
+        "name": "Amardeep Behl",
+        "original_name": "Amardeep Behl",
+        "popularity": 0.2893,
+        "profile_path": null,
+        "credit_id": "57c1d00ac3a36853340062ac",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6048974,
+        "known_for_department": "Production",
+        "name": "Vicky Kisan Mourya",
+        "original_name": "Vicky Kisan Mourya",
+        "popularity": 0.4838,
+        "profile_path": "/lZq4cYrvjYHK2O8MruYNGaEy5fB.jpg",
+        "credit_id": "69a81f87b002921e7d964c16",
+        "department": "Production",
+        "job": "Casting Associate"
+      }
+    ]
+  }
+}

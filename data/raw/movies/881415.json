@@ -1,0 +1,464 @@
+{
+  "adult": false,
+  "backdrop_path": "/jEB9bDNRjV6ziEzrPZrItjZBMx2.jpg",
+  "belongs_to_collection": null,
+  "budget": 2500000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://bleeckerstreetmedia.com/love-me",
+  "id": 881415,
+  "imdb_id": "tt21375602",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Love Me",
+  "overview": "In a story that spans billions of years, a buoy and a satellite meet online long after humanity’s extinction. As they learn what life was like on Earth, they discover themselves and what it means to be alive and in love.",
+  "popularity": 2.7853,
+  "poster_path": "/uX8Z3qWJ5OjV1uP7yT6yRlw9UL9.jpg",
+  "production_companies": [
+    {
+      "id": 113397,
+      "logo_path": "/i2hEdxAGgoqH31IYbYiukqdDCKy.png",
+      "name": "AgX",
+      "origin_country": "US"
+    },
+    {
+      "id": 158407,
+      "logo_path": "/zUj7hFnsY8y1hVPfiZYnDtcGTHe.png",
+      "name": "2AM",
+      "origin_country": "US"
+    },
+    {
+      "id": 33603,
+      "logo_path": "/K1SdQd49Kx3QRx0djfHbzeotCz.png",
+      "name": "Shivhans Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-01-31",
+  "revenue": 215586,
+  "runtime": 92,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Love Me",
+  "video": false,
+  "vote_average": 5.895,
+  "vote_count": 81,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 37917,
+        "known_for_department": "Acting",
+        "name": "Kristen Stewart",
+        "original_name": "Kristen Stewart",
+        "popularity": 5.9131,
+        "profile_path": "/xldswdQ1VnpcOf2wZMPguZ3avgO.jpg",
+        "cast_id": 1,
+        "character": "Me / Deja",
+        "credit_id": "615c5b84d1444300602b5e29",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 215055,
+        "known_for_department": "Acting",
+        "name": "Steven Yeun",
+        "original_name": "Steven Yeun",
+        "popularity": 3.65,
+        "profile_path": "/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg",
+        "cast_id": 2,
+        "character": "Iam / Liam",
+        "credit_id": "615c5ba569eb90002a2ba421",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1141750,
+        "known_for_department": "Directing",
+        "name": "Andrew Zuchero",
+        "original_name": "Andrew Zuchero",
+        "popularity": 0.6207,
+        "profile_path": "/eRQTK2lTilbcRtdQl8odSFgyUQx.jpg",
+        "credit_id": "62e04c1c5ca7040b2991a107",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 965247,
+        "known_for_department": "Camera",
+        "name": "Germain McMicking",
+        "original_name": "Germain McMicking",
+        "popularity": 0.3798,
+        "profile_path": "/ae87Z1OUJpIAFCAF5oUK3pan4vf.jpg",
+        "credit_id": "62e04c909451e70222aab917",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3638435,
+        "known_for_department": "Production",
+        "name": "Mike Phillips",
+        "original_name": "Mike Phillips",
+        "popularity": 0.2668,
+        "profile_path": null,
+        "credit_id": "62e04c85681888004d389fbb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20064,
+        "known_for_department": "Production",
+        "name": "Julie Goldstein",
+        "original_name": "Julie Goldstein",
+        "popularity": 0.6488,
+        "profile_path": "/bn29hI66SPiuw90I9lQOe33Ch2f.jpg",
+        "credit_id": "62e04c5f5ca7040b2991a123",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3638432,
+        "known_for_department": "Directing",
+        "name": "Sam Zuchero",
+        "original_name": "Sam Zuchero",
+        "popularity": 0.3707,
+        "profile_path": "/wmizLGp2246CPQM0gjVIYYfAwQX.jpg",
+        "credit_id": "62e04c2446f3540055edecbf",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2452902,
+        "known_for_department": "Production",
+        "name": "Kevin Rowe",
+        "original_name": "Kevin Rowe",
+        "popularity": 0.4135,
+        "profile_path": "/cMZzMvCjFGnRFyNj2O2WgaJNw3n.jpg",
+        "credit_id": "62e04c2eaa659e004df6e9bb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1308291,
+        "known_for_department": "Production",
+        "name": "Luca Borghese",
+        "original_name": "Luca Borghese",
+        "popularity": 0.6121,
+        "profile_path": "/3u2pD0IVEZ9eh3oi94gncIag7Oh.jpg",
+        "credit_id": "62e04c3dd2b209083c457a85",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1555794,
+        "known_for_department": "Production",
+        "name": "Shivani Rawat",
+        "original_name": "Shivani Rawat",
+        "popularity": 0.4968,
+        "profile_path": "/iQ9LMlu4H9MwkGYwdVoATnAaWHX.jpg",
+        "credit_id": "62e04c57f2883800563891b0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2483132,
+        "known_for_department": "Production",
+        "name": "Connor Flanagan",
+        "original_name": "Connor Flanagan",
+        "popularity": 0.3922,
+        "profile_path": "/feWctHdsam9nihOfJMyMOVX3WXI.jpg",
+        "credit_id": "62e04c6d5aba320050d72fec",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131396,
+        "known_for_department": "Production",
+        "name": "Ben Howe",
+        "original_name": "Ben Howe",
+        "popularity": 0.5109,
+        "profile_path": null,
+        "credit_id": "62e04c4baa659e004df6e9cf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3003543,
+        "known_for_department": "Production",
+        "name": "Christine D'Souza",
+        "original_name": "Christine D'Souza",
+        "popularity": 0.6273,
+        "profile_path": "/oY81IxwJq9aR5f7IWwkTbQ2snIE.jpg",
+        "credit_id": "656795a3a34911011b59c9a0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1141750,
+        "known_for_department": "Directing",
+        "name": "Andrew Zuchero",
+        "original_name": "Andrew Zuchero",
+        "popularity": 0.6207,
+        "profile_path": "/eRQTK2lTilbcRtdQl8odSFgyUQx.jpg",
+        "credit_id": "6571003485867800ad532e8d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3638432,
+        "known_for_department": "Directing",
+        "name": "Sam Zuchero",
+        "original_name": "Sam Zuchero",
+        "popularity": 0.3707,
+        "profile_path": "/wmizLGp2246CPQM0gjVIYYfAwQX.jpg",
+        "credit_id": "65710028e4c9eb00abd08c9f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1853518,
+        "known_for_department": "Art",
+        "name": "Zazu Myers",
+        "original_name": "Zazu Myers",
+        "popularity": 0.4466,
+        "profile_path": "/fzzUAUa40EwsAz3bkbCTIeuZwXb.jpg",
+        "credit_id": "65718fd9a22d3e011b2e41a8",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1314457,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Robert A. Pandini",
+        "original_name": "Robert A. Pandini",
+        "popularity": 0.5138,
+        "profile_path": null,
+        "credit_id": "657190207eb5f2010bdce393",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1719296,
+        "known_for_department": "Sound",
+        "name": "Matt Drake",
+        "original_name": "Matt Drake",
+        "popularity": 0.3945,
+        "profile_path": null,
+        "credit_id": "6571907090fca300aea3691a",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1441219,
+        "known_for_department": "Art",
+        "name": "Janessa Hitsman",
+        "original_name": "Janessa Hitsman",
+        "popularity": 0.4816,
+        "profile_path": null,
+        "credit_id": "65718ffbb0460500e3946ebd",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2531848,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Angela Ganderton",
+        "original_name": "Angela Ganderton",
+        "popularity": 0.3051,
+        "profile_path": null,
+        "credit_id": "6571900fb0460500e3946ec9",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1421696,
+        "known_for_department": "Art",
+        "name": "Rick Willoughby",
+        "original_name": "Rick Willoughby",
+        "popularity": 0.4644,
+        "profile_path": null,
+        "credit_id": "65718fec858678014d6fe7c9",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2689772,
+        "known_for_department": "Sound",
+        "name": "David Daoud",
+        "original_name": "David Daoud",
+        "popularity": 0.3487,
+        "profile_path": null,
+        "credit_id": "6571905e90fca3010c8c1f41",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1386427,
+        "known_for_department": "Editing",
+        "name": "Joseph Krings",
+        "original_name": "Joseph Krings",
+        "popularity": 0.5782,
+        "profile_path": null,
+        "credit_id": "6578df19a1d332011b500269",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2812726,
+        "known_for_department": "Sound",
+        "name": "Biko Gogaladze",
+        "original_name": "Biko Gogaladze",
+        "popularity": 0.6294,
+        "profile_path": null,
+        "credit_id": "65adc3caf8aee800aeabc35d",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2115185,
+        "known_for_department": "Sound",
+        "name": "David Longstreth",
+        "original_name": "David Longstreth",
+        "popularity": 0.3163,
+        "profile_path": "/5yXxm2H4MachUUhB1L6bNBUh162.jpg",
+        "credit_id": "67031610e48014914685bad0",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1793203,
+        "known_for_department": "Production",
+        "name": "Damian Bao",
+        "original_name": "Damian Bao",
+        "popularity": 0.3951,
+        "profile_path": "/nItBVysBervoB90sokTYRivJ4JS.jpg",
+        "credit_id": "6921a66a4cc6839430b7408f",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2888988,
+        "known_for_department": "Sound",
+        "name": "Thomas Kotcheff",
+        "original_name": "Thomas Kotcheff",
+        "popularity": 0.4315,
+        "profile_path": null,
+        "credit_id": "697e99e43aa880903fd44476",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1410561,
+        "known_for_department": "Visual Effects",
+        "name": "Matthew T. Griffin",
+        "original_name": "Matthew T. Griffin",
+        "popularity": 0.554,
+        "profile_path": null,
+        "credit_id": "698ba36f706a3d6d33885bbb",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4043293,
+        "known_for_department": "Production",
+        "name": "Jon Warne",
+        "original_name": "Jon Warne",
+        "popularity": 0.7747,
+        "profile_path": null,
+        "credit_id": "699ea4ad6769f43b4ef1fd85",
+        "department": "Production",
+        "job": "First Assistant Production Coordinator"
+      }
+    ]
+  }
+}

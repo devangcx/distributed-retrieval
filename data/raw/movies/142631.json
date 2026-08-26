@@ -1,0 +1,330 @@
+{
+  "adult": false,
+  "backdrop_path": "/7PCHxCidw9EpAy4KkxjRkiRVfEO.jpg",
+  "belongs_to_collection": null,
+  "budget": 2500000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 142631,
+  "imdb_id": "tt0287537",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "लव के लिये कुछ भी करेगा",
+  "overview": "Desperate for money, three men plot to kidnap a woman and hold her for ransom.",
+  "popularity": 0.903,
+  "poster_path": "/phYkZeowbcNpdGqKIQ14jffVEdp.jpg",
+  "production_companies": [
+    {
+      "id": 105247,
+      "logo_path": null,
+      "name": "Dream Merchants Enterprise",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2001-06-21",
+  "revenue": 4500000,
+  "runtime": 139,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Love Ke Liye Kuch Bhi Karega",
+  "video": false,
+  "vote_average": 5.714,
+  "vote_count": 21,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35747,
+        "known_for_department": "Acting",
+        "name": "Saif Ali Khan",
+        "original_name": "सैफ़ अली ख़ान",
+        "popularity": 2.0849,
+        "profile_path": "/85uKiFDEcIqzLh0GwqYvecXw4uA.jpg",
+        "cast_id": 1,
+        "character": "Prakash",
+        "credit_id": "52fe4ae69251416c750f1c29",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35069,
+        "known_for_department": "Acting",
+        "name": "Fardeen Khan",
+        "original_name": "फ़रदीन ख़ान",
+        "popularity": 0.9537,
+        "profile_path": "/pr3VEjdUTOKSNBFHgwjH9rOT5nC.jpg",
+        "cast_id": 2,
+        "character": "Rahul Kapoor",
+        "credit_id": "52fe4ae69251416c750f1c2d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85027,
+        "known_for_department": "Acting",
+        "name": "Aftab Shivdasani",
+        "original_name": "Aftab Shivdasani",
+        "popularity": 1.0565,
+        "profile_path": "/471ABtsI9XBq8dGTgvMBcCkHVwX.jpg",
+        "cast_id": 3,
+        "character": "Harry, Harilal",
+        "credit_id": "52fe4ae69251416c750f1c31",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35754,
+        "known_for_department": "Acting",
+        "name": "Sonali Bendre",
+        "original_name": "सोनाली बेंद्रे",
+        "popularity": 1.9967,
+        "profile_path": "/4xvVvT9RyLvOa2hQjecIhYuSPjx.jpg",
+        "cast_id": 4,
+        "character": "Sapna Chopra",
+        "credit_id": "52fe4ae69251416c750f1c35",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 131347,
+        "known_for_department": "Acting",
+        "name": "Twinkle Khanna",
+        "original_name": "Twinkle Khanna",
+        "popularity": 0.6912,
+        "profile_path": "/ipAV6rBOkJQhTW5Zs8phZWGmXMt.jpg",
+        "cast_id": 5,
+        "character": "Anjali",
+        "credit_id": "52fe4ae69251416c750f1c39",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35819,
+        "known_for_department": "Acting",
+        "name": "Johny Lever",
+        "original_name": "Johny Lever",
+        "popularity": 1.7738,
+        "profile_path": "/kohAOhKr4HBln8b9P4i1kmMONyi.jpg",
+        "cast_id": 6,
+        "character": "Aslam Bhai",
+        "credit_id": "52fe4ae69251416c750f1c3d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11861,
+        "known_for_department": "Acting",
+        "name": "Dalip Tahil",
+        "original_name": "Dalip Tahil",
+        "popularity": 1.0672,
+        "profile_path": "/4kgTd5aKh3IRxrJ7uG5h9mojb57.jpg",
+        "cast_id": 7,
+        "character": "Rajiv Chopra",
+        "credit_id": "52fe4ae69251416c750f1c41",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147319,
+        "known_for_department": "Acting",
+        "name": "Snehal Dabi",
+        "original_name": "Snehal Dabi",
+        "popularity": 0.4787,
+        "profile_path": "/1WeQh3wNPhrn0rtcWAPXgLIrcb8.jpg",
+        "cast_id": 8,
+        "character": "Aaj Kapoor",
+        "credit_id": "52fe4ae69251416c750f1c45",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86025,
+        "known_for_department": "Acting",
+        "name": "Shri Vallabh Vyas",
+        "original_name": "Shri Vallabh Vyas",
+        "popularity": 0.8988,
+        "profile_path": "/5klAtl7eIk6OIcd2AerJRp7dHVF.jpg",
+        "cast_id": 10,
+        "character": "Police Commissioner",
+        "credit_id": "5b13905a92514166c300ddee",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55066,
+        "known_for_department": "Acting",
+        "name": "Sharat Saxena",
+        "original_name": "Sharat Saxena",
+        "popularity": 1.154,
+        "profile_path": "/ArW6nQ23bjVfbcFmNVl4W9zpd7X.jpg",
+        "cast_id": 11,
+        "character": "Police Officer",
+        "credit_id": "5b13906692514166e500b545",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 569313,
+        "known_for_department": "Directing",
+        "name": "Eeshwar Nivas",
+        "original_name": "Eeshwar Nivas",
+        "popularity": 0.6145,
+        "profile_path": null,
+        "credit_id": "57c0743a9251414a1d001f26",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 81089,
+        "known_for_department": "Crew",
+        "name": "Ahmed Khan",
+        "original_name": "Ahmed Khan",
+        "popularity": 0.6831,
+        "profile_path": "/bSVFh0NND8UAXYrL1mi0Ea5n9r0.jpg",
+        "credit_id": "5b1390b90e0a263ddc00d7be",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 981205,
+        "known_for_department": "Production",
+        "name": "Nitin Manmohan",
+        "original_name": "Nitin Manmohan",
+        "popularity": 0.5393,
+        "profile_path": null,
+        "credit_id": "5b1390750e0a263dd100c3d3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76813,
+        "known_for_department": "Directing",
+        "name": "Ram Gopal Varma",
+        "original_name": "Ram Gopal Varma",
+        "popularity": 0.8944,
+        "profile_path": "/sDUxXdz3RPeKISyfkMfR9iiphNH.jpg",
+        "credit_id": "5b1390810e0a263dd700cc6e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8733,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Manish Malhotra",
+        "original_name": "Manish Malhotra",
+        "popularity": 0.5574,
+        "profile_path": "/su2Eyoth6koDZ3QfJPkawpr7Wiq.jpg",
+        "credit_id": "5b1390c3925141671200b431",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1113607,
+        "known_for_department": "Art",
+        "name": "R. Verman Shetty",
+        "original_name": "R. Verman Shetty",
+        "popularity": 0.4062,
+        "profile_path": null,
+        "credit_id": "5b1390b00e0a263dc400cda2",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1772838,
+        "known_for_department": "Camera",
+        "name": "Venkat Prasad",
+        "original_name": "Venkat Prasad",
+        "popularity": 0.3542,
+        "profile_path": null,
+        "credit_id": "5b13909792514166b600b55f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87550,
+        "known_for_department": "Directing",
+        "name": "Vishal Bhardwaj",
+        "original_name": "Vishal Bhardwaj",
+        "popularity": 0.6838,
+        "profile_path": "/tvklRNVoX8ZAt91OQ9xP6QvNIIK.jpg",
+        "credit_id": "5b1390a7c3a36862b10130b7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85709,
+        "known_for_department": "Crew",
+        "name": "Allan Amin",
+        "original_name": "Allan Amin",
+        "popularity": 0.4168,
+        "profile_path": null,
+        "credit_id": "5b1390cc0e0a263ddc00d7c9",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2056525,
+        "known_for_department": "Production",
+        "name": "Nikhil Panchamiya",
+        "original_name": "Nikhil Panchamiya",
+        "popularity": 0.2018,
+        "profile_path": null,
+        "credit_id": "5b13908b92514166e900b8d3",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

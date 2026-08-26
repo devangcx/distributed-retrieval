@@ -1,0 +1,318 @@
+{
+  "adult": false,
+  "backdrop_path": "/ek277ueKOLwX6i2YYToS94Zx3oh.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 165404,
+  "imdb_id": "tt0326576",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Humraaz",
+  "overview": "Karan plans to cheat Raj, a businessman, by getting his lover Priya married to Raj so that they can claim his wealth. However, when Priya falls in love with Raj and leaves Karan, he seeks revenge.",
+  "popularity": 1.0529,
+  "poster_path": "/wYHShqkkup1WjTVBiNdRbfWzvki.jpg",
+  "production_companies": [
+    {
+      "id": 6085,
+      "logo_path": null,
+      "name": "Venus Film",
+      "origin_country": ""
+    },
+    {
+      "id": 3939,
+      "logo_path": null,
+      "name": "Venus Records & Tapes",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2002-07-26",
+  "revenue": 0,
+  "runtime": 173,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Karan and Priya Share a secret Raj wants to know the secret.",
+  "title": "Humraaz",
+  "video": false,
+  "vote_average": 6.14,
+  "vote_count": 25,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77235,
+        "known_for_department": "Acting",
+        "name": "Bobby Deol",
+        "original_name": "बॉबी द्योल",
+        "popularity": 1.5865,
+        "profile_path": "/2npVa3PduichY8e7qBiE54m9VVP.jpg",
+        "cast_id": 1,
+        "character": "Raj Singhania",
+        "credit_id": "52fe4c89c3a36847f823326b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87328,
+        "known_for_department": "Acting",
+        "name": "Akshaye Khanna",
+        "original_name": "Akshaye Khanna",
+        "popularity": 1.5391,
+        "profile_path": "/kRPLQ908NrKejOwG6i3ypBd9qDq.jpg",
+        "cast_id": 2,
+        "character": "Karan Malhotra",
+        "credit_id": "52fe4c89c3a36847f823326f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 76450,
+        "known_for_department": "Acting",
+        "name": "Ameesha Patel",
+        "original_name": "Ameesha Patel",
+        "popularity": 1.1862,
+        "profile_path": "/d6FmmnSylIxvmJezAJLkPpJ9z1t.jpg",
+        "cast_id": 14,
+        "character": "Priya",
+        "credit_id": "547cd7769251412d750032c7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 110708,
+        "known_for_department": "Acting",
+        "name": "Suhasini Mulay",
+        "original_name": "Suhasini Mulay",
+        "popularity": 1.0508,
+        "profile_path": "/9mD9ASIlw56LIRIEGSXHmIovu4D.jpg",
+        "cast_id": 15,
+        "character": "Raj's grandmother",
+        "credit_id": "68031832391b927019d91251",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86057,
+        "known_for_department": "Acting",
+        "name": "Dinesh Hingoo",
+        "original_name": "Dinesh Hingoo",
+        "popularity": 0.7263,
+        "profile_path": "/6kFqFn1k0Tg6GPKIeatZFA1Tdff.jpg",
+        "cast_id": 16,
+        "character": "Rustom",
+        "credit_id": "6803184f61b1c4bb329a512a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35819,
+        "known_for_department": "Acting",
+        "name": "Johny Lever",
+        "original_name": "Johny Lever",
+        "popularity": 1.7738,
+        "profile_path": "/kohAOhKr4HBln8b9P4i1kmMONyi.jpg",
+        "cast_id": 17,
+        "character": "Darshan",
+        "credit_id": "6803187c391b927019d9125d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239064,
+        "known_for_department": "Acting",
+        "name": "Dilip Joshi",
+        "original_name": "Dilip Joshi",
+        "popularity": 0.9335,
+        "profile_path": "/qtpDpt77JUcXV7f9cTOAibHLnjC.jpg",
+        "cast_id": 18,
+        "character": "Gauri Shankar",
+        "credit_id": "680318afe4753425efad5fe7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1123898,
+        "known_for_department": "Acting",
+        "name": "Sheela Sharma",
+        "original_name": "Sheela Sharma",
+        "popularity": 0.4882,
+        "profile_path": "/27Vz7AejU5mvkXS5MAwEO1EJ1XN.jpg",
+        "cast_id": 19,
+        "character": "Rosy",
+        "credit_id": "680318c1b13410cdc7992ae7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110221,
+        "known_for_department": "Acting",
+        "name": "Sudhir",
+        "original_name": "Sudhir",
+        "popularity": 0.5517,
+        "profile_path": "/d4WTm0unLFeVhBHXokDxjiGtJua.jpg",
+        "cast_id": 20,
+        "character": "Tommy",
+        "credit_id": "680318d12368b12b179938a6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 956054,
+        "known_for_department": "Acting",
+        "name": "Jeetu Verma",
+        "original_name": "Jeetu Verma",
+        "popularity": 1.0615,
+        "profile_path": "/1aDErtlqwSLFpPpFQgh8tOUeyLO.jpg",
+        "cast_id": 21,
+        "character": "Jojo Fernandes",
+        "credit_id": "694c82dcfe9cd98d4d8cd75d",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87356,
+        "known_for_department": "Directing",
+        "name": "Abbas Alibhai Burmawalla",
+        "original_name": "Abbas Alibhai Burmawalla",
+        "popularity": 0.6858,
+        "profile_path": "/yeY7Lg7mTxjsI9uKiGic1PDZQlS.jpg",
+        "credit_id": "52fe4c89c3a36847f8233281",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 131346,
+        "known_for_department": "Writing",
+        "name": "Shyam Goel",
+        "original_name": "Shyam Goel",
+        "popularity": 0.6206,
+        "profile_path": null,
+        "credit_id": "52fe4c89c3a36847f823329f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 131346,
+        "known_for_department": "Writing",
+        "name": "Shyam Goel",
+        "original_name": "Shyam Goel",
+        "popularity": 0.6206,
+        "profile_path": null,
+        "credit_id": "52fe4c89c3a36847f82332ab",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1031475,
+        "known_for_department": "Writing",
+        "name": "Shiraz Ahmed",
+        "original_name": "Shiraz Ahmed",
+        "popularity": 0.5516,
+        "profile_path": null,
+        "credit_id": "52fe4c89c3a36847f8233293",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1031475,
+        "known_for_department": "Writing",
+        "name": "Shiraz Ahmed",
+        "original_name": "Shiraz Ahmed",
+        "popularity": 0.5516,
+        "profile_path": null,
+        "credit_id": "52fe4c89c3a36847f823328d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 131346,
+        "known_for_department": "Writing",
+        "name": "Shyam Goel",
+        "original_name": "Shyam Goel",
+        "popularity": 0.6206,
+        "profile_path": null,
+        "credit_id": "52fe4c89c3a36847f82332a5",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87355,
+        "known_for_department": "Directing",
+        "name": "Mustan Alibhai Burmawalla",
+        "original_name": "Mustan Alibhai Burmawalla",
+        "popularity": 0.5966,
+        "profile_path": "/364apN4vJqozvMFaRU1UHDfpiaB.jpg",
+        "credit_id": "52fe4c89c3a36847f8233287",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1031475,
+        "known_for_department": "Writing",
+        "name": "Shiraz Ahmed",
+        "original_name": "Shiraz Ahmed",
+        "popularity": 0.5516,
+        "profile_path": null,
+        "credit_id": "52fe4c89c3a36847f8233299",
+        "department": "Writing",
+        "job": "Dialogue"
+      }
+    ]
+  }
+}

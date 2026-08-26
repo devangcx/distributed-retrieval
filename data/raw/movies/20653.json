@@ -1,0 +1,219 @@
+{
+  "adult": false,
+  "backdrop_path": "/ei3Zc4thycgKtWqqEl78jVJGb5V.jpg",
+  "belongs_to_collection": null,
+  "budget": 7000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.roadsideromeo.com/",
+  "id": 20653,
+  "imdb_id": "tt1050739",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Roadside Romeo",
+  "overview": "This is the story of Romeo. A dude who was living the life. He had the works - the mansion to live in, the chicks to party with and the cars to be driven around in. Until one day, the family he was the favourite pet of, decided to move and left him back, abandoned on the mean streets of Mumbai. Romeo is now faced with situations he has never been in before. He encounters four strays, who scare the daylights out of him. But soon, he smooth talks his way into their hearts and he makes friends. Then, Romeo finds love! He encounters the beautiful, ravishing Laila, the most beautiful girl he has ever seen - and he loses his heart to her at first sight. Finally, he encounters a villain! The dreaded Don of the area - Charlie Anna. The Don who everyone is scared of. So hop on to the adventure as Romeo, wins friendship, love and a new life - in spite of Charlie Anna and his gang!",
+  "popularity": 1.5985,
+  "poster_path": "/p2CBDCVzTPjnXaKXN21bEoPWBeQ.jpg",
+  "production_companies": [
+    {
+      "id": 1569,
+      "logo_path": "/lvzN86o3jrP44DIvn4SMBLOl9PF.png",
+      "name": "Yash Raj Films",
+      "origin_country": "IN"
+    },
+    {
+      "id": 89347,
+      "logo_path": null,
+      "name": "Disney World Cinema",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2008-10-24",
+  "revenue": 1100000,
+  "runtime": 92,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Roadside Romeo",
+  "video": false,
+  "vote_average": 4.726,
+  "vote_count": 42,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35747,
+        "known_for_department": "Acting",
+        "name": "Saif Ali Khan",
+        "original_name": "सैफ़ अली ख़ान",
+        "popularity": 2.0849,
+        "profile_path": "/85uKiFDEcIqzLh0GwqYvecXw4uA.jpg",
+        "cast_id": 1,
+        "character": "Romeo",
+        "credit_id": "52fe43f2c3a368484e007557",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 37233,
+        "known_for_department": "Acting",
+        "name": "Kareena Kapoor Khan",
+        "original_name": "करीना कपूर खान",
+        "popularity": 1.9139,
+        "profile_path": "/kp9xnwDALUt6nuPBGuJHlvnxGnM.jpg",
+        "cast_id": 2,
+        "character": "Laila",
+        "credit_id": "52fe43f2c3a368484e00755b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86086,
+        "known_for_department": "Acting",
+        "name": "Javed Jaffrey",
+        "original_name": "Javed Jaffrey",
+        "popularity": 1.0293,
+        "profile_path": "/5JvPPxLsDEUFy6qDVawM3Itl6NV.jpg",
+        "cast_id": 3,
+        "character": "Charlie Anna",
+        "credit_id": "52fe43f2c3a368484e00755f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85686,
+        "known_for_department": "Acting",
+        "name": "Tannaz Irani",
+        "original_name": "Tannaz Irani",
+        "popularity": 0.513,
+        "profile_path": "/zKUiHDyMLOaeBNR58Un0NoeMhAV.jpg",
+        "cast_id": 4,
+        "character": "Mini",
+        "credit_id": "52fe43f2c3a368484e007563",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55070,
+        "known_for_department": "Acting",
+        "name": "Vrajesh Hirjee",
+        "original_name": "Vrajesh Hirjee",
+        "popularity": 1.0414,
+        "profile_path": "/sXqkMv81GLOh3HMRcRCJOTgJUET.jpg",
+        "cast_id": 5,
+        "character": "Guru",
+        "credit_id": "52fe43f2c3a368484e007567",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1632609,
+        "known_for_department": "Acting",
+        "name": "Kiku Sharda",
+        "original_name": "Kiku Sharda",
+        "popularity": 0.6753,
+        "profile_path": "/j1yxHbF12tDRoTqqLVqdJzCo9ro.jpg",
+        "cast_id": 8,
+        "character": "Hero English (voice)",
+        "credit_id": "5e4e42a335811d0013500160",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14723,
+        "known_for_department": "Acting",
+        "name": "Vicki Lewis",
+        "original_name": "Vicki Lewis",
+        "popularity": 1.3761,
+        "profile_path": "/dwTjtleLh1uu8n9AvUCv0n3mi2R.jpg",
+        "cast_id": 9,
+        "character": "Mini",
+        "credit_id": "6186ad1bcb6db5008d576a68",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 59745,
+        "known_for_department": "Production",
+        "name": "Jen Rudin",
+        "original_name": "Jen Rudin",
+        "popularity": 0.4089,
+        "profile_path": "/owXcPHPpE6YsWXuNnCUDQ1CzRUV.jpg",
+        "credit_id": "64dcdffbd100b614b1598972",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69711,
+        "known_for_department": "Acting",
+        "name": "Jugal Hansraj",
+        "original_name": "Jugal Hansraj",
+        "popularity": 0.8538,
+        "profile_path": "/29l2Okg2DZaPy90I62OlPrWNJe4.jpg",
+        "credit_id": "5ad9f5aec3a368289f000fe2",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2050189,
+        "known_for_department": "Sound",
+        "name": "Sudesh Bhosle",
+        "original_name": "Sudesh Bhosle",
+        "popularity": 0.4632,
+        "profile_path": "/sGKoZuZUsnYY5gefmutOgF7hXn.jpg",
+        "credit_id": "5d5ff373ea37e028a575bf8c",
+        "department": "Sound",
+        "job": "Playback Singer"
+      }
+    ]
+  }
+}

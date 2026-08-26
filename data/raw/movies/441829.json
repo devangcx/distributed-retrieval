@@ -1,0 +1,314 @@
+{
+  "adult": false,
+  "backdrop_path": "/cz8m8AS8MOD1x4RAjYgYMHf13xB.jpg",
+  "belongs_to_collection": {
+    "id": 729425,
+    "name": "Team Thor Collection",
+    "poster_path": "/3RS6PrXua9vJ6wT0xExdTPaW0RX.jpg",
+    "backdrop_path": "/ikGlyyi7JMmXy3sPdOAdhsvCOSI.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 441829,
+  "imdb_id": "tt6599818",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Team Thor: Part 2",
+  "overview": "A continuation of the documentary spoof of what Thor and his roommate Darryl were up to during the events of \"Captain America: Civil War\". While Cap and Iron Man duke it out, Thor tries to pay Darryl his rent in Asgardian coins.",
+  "popularity": 3.6495,
+  "poster_path": "/2jmP71A5Un0jDNqBesDPQSN8hjJ.jpg",
+  "production_companies": [
+    {
+      "id": 420,
+      "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+      "name": "Marvel Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2017-02-14",
+  "revenue": 0,
+  "runtime": 5,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Rogers & Barnes. Stark & Rhodes. Thor & Darryl.",
+  "title": "Team Thor: Part 2",
+  "video": false,
+  "vote_average": 6.917,
+  "vote_count": 368,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74568,
+        "known_for_department": "Acting",
+        "name": "Chris Hemsworth",
+        "original_name": "Chris Hemsworth",
+        "popularity": 7.9357,
+        "profile_path": "/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg",
+        "cast_id": 1,
+        "character": "Thor",
+        "credit_id": "5fa73bf8df857c00405350e1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1672488,
+        "known_for_department": "Production",
+        "name": "Daley Pearson",
+        "original_name": "Daley Pearson",
+        "popularity": 0.7844,
+        "profile_path": "/iX77YtxdoslRXdG6EVK2WEknbwD.jpg",
+        "cast_id": 2,
+        "character": "Darryl Jacobson",
+        "credit_id": "5fa73c1834e152004277bdca",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55934,
+        "known_for_department": "Directing",
+        "name": "Taika Waititi",
+        "original_name": "Taika Waititi",
+        "popularity": 3.2164,
+        "profile_path": "/ww6L2ksfJNMbuiIdDuvVKndUHsv.jpg",
+        "credit_id": "6208162d848eb9009cf1cdcd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18876,
+        "known_for_department": "Writing",
+        "name": "Larry Lieber",
+        "original_name": "Larry Lieber",
+        "popularity": 1.3229,
+        "profile_path": "/6zFjMrk50yZri9KiVqli477gWYB.jpg",
+        "credit_id": "65ec9f1b05a53301854c87e6",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7624,
+        "known_for_department": "Writing",
+        "name": "Stan Lee",
+        "original_name": "Stan Lee",
+        "popularity": 5.5316,
+        "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg",
+        "credit_id": "65ec9f0b6f31af0161e77073",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58190,
+        "known_for_department": "Production",
+        "name": "Thomas M. Hammel",
+        "original_name": "Thomas M. Hammel",
+        "popularity": 0.4255,
+        "profile_path": null,
+        "credit_id": "5fa73c9443494f00411d0bc0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13245,
+        "known_for_department": "Editing",
+        "name": "Joel Negron",
+        "original_name": "Joel Negron",
+        "popularity": 0.7503,
+        "profile_path": null,
+        "credit_id": "5fa73cc7323eba00412663f2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1256726,
+        "known_for_department": "Production",
+        "name": "Brad Winderbaum",
+        "original_name": "Brad Winderbaum",
+        "popularity": 0.9949,
+        "profile_path": "/5cDwxRkPuRRiHw6TVlaIobnX5aC.jpg",
+        "credit_id": "5fa73cac8c7b0f003f7a2c7b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10850,
+        "known_for_department": "Production",
+        "name": "Kevin Feige",
+        "original_name": "Kevin Feige",
+        "popularity": 3.5708,
+        "profile_path": "/kCBqXZ5PT5udYGEj2wfTSFbLMvT.jpg",
+        "credit_id": "5fa73c7f534661003fe82935",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55934,
+        "known_for_department": "Directing",
+        "name": "Taika Waititi",
+        "original_name": "Taika Waititi",
+        "popularity": 3.2164,
+        "profile_path": "/ww6L2ksfJNMbuiIdDuvVKndUHsv.jpg",
+        "credit_id": "5fa73c55a402c1003f335a9d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18866,
+        "known_for_department": "Writing",
+        "name": "Jack Kirby",
+        "original_name": "Jack Kirby",
+        "popularity": 2.5793,
+        "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg",
+        "credit_id": "5fa73c6aab6849003f685624",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1373,
+        "known_for_department": "Art",
+        "name": "Dan Hennah",
+        "original_name": "Dan Hennah",
+        "popularity": 0.7692,
+        "profile_path": "/ojzCZyCln9P6U4Gn1GIaIgWF5fh.jpg",
+        "credit_id": "6755b1c96e0bed266b7f8179",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17675,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mayes C. Rubeo",
+        "original_name": "Mayes C. Rubeo",
+        "popularity": 0.6199,
+        "profile_path": "/zq3OHlYKVGPQd1gbojz3xY6t5pT.jpg",
+        "credit_id": "6755b1d51e194ed6bf33b40a",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1607637,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Vincenzo Mastrantonio",
+        "original_name": "Vincenzo Mastrantonio",
+        "popularity": 0.4983,
+        "profile_path": null,
+        "credit_id": "6755b1e06e0bed266b7f8195",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1480629,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Luca Vannella",
+        "original_name": "Luca Vannella",
+        "popularity": 0.5248,
+        "profile_path": "/3V95IInYtScu9PkCdc4YwHWP2SH.jpg",
+        "credit_id": "6755b1e766c89f44182bf8d5",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1412734,
+        "known_for_department": "Production",
+        "name": "Jennifer Cornwell",
+        "original_name": "Jennifer Cornwell",
+        "popularity": 0.5545,
+        "profile_path": null,
+        "credit_id": "6755b1f11e194ed6bf33b41d",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1711214,
+        "known_for_department": "Directing",
+        "name": "Vincent Lascoumes",
+        "original_name": "Vincent Lascoumes",
+        "popularity": 0.6632,
+        "profile_path": null,
+        "credit_id": "6755b2011e194ed6bf33b429",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 37284,
+        "known_for_department": "Art",
+        "name": "Richie Dehne",
+        "original_name": "Richie Dehne",
+        "popularity": 0.3667,
+        "profile_path": null,
+        "credit_id": "6755b21a66c89f44182bf8f9",
+        "department": "Art",
+        "job": "Property Master"
+      }
+    ]
+  }
+}

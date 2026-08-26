@@ -1,0 +1,174 @@
+{
+  "adult": false,
+  "backdrop_path": "/2vvXkChwXyNyK3s8KRhMoensEwO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81763680",
+  "id": 1484262,
+  "imdb_id": "tt36856482",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Trainwreck: The Cult of American Apparel",
+  "overview": "Featuring tell-all interviews with insiders and former staff, this exposé traces American Apparel's journey from fashion phenomenon to financial flop.",
+  "popularity": 3.0608,
+  "poster_path": "/jqDRiwqDsopRZe7xZRYz7KiTkjc.jpg",
+  "production_companies": [
+    {
+      "id": 23949,
+      "logo_path": "/3QFwomSxcZZgMQGBkdUPuJEnSFB.png",
+      "name": "RAW",
+      "origin_country": "GB"
+    },
+    {
+      "id": 143113,
+      "logo_path": "/GuxdgS4Hdu90LhxttMCA8OOCvu.png",
+      "name": "BBH Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-06-30",
+  "revenue": 0,
+  "runtime": 54,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Trainwreck: The Cult of American Apparel",
+  "video": false,
+  "vote_average": 6.066,
+  "vote_count": 38,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4522549,
+        "known_for_department": "Directing",
+        "name": "Sally Rose Griffiths",
+        "original_name": "Sally Rose Griffiths",
+        "popularity": 0.1882,
+        "profile_path": null,
+        "credit_id": "682c10ff7c9d2798e9db3126",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5424268,
+        "known_for_department": "Production",
+        "name": "Sheun Adelasoye De Nicola",
+        "original_name": "Sheun Adelasoye De Nicola",
+        "popularity": 0.2291,
+        "profile_path": null,
+        "credit_id": "682c110b6b3fe3073d2f7840",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2172536,
+        "known_for_department": "Production",
+        "name": "Alexander Marengo",
+        "original_name": "Alexander Marengo",
+        "popularity": 0.3191,
+        "profile_path": "/krR8HL03Ngj6P4OmAKsymEIHJL5.jpg",
+        "credit_id": "682c1115425c06076e2f0eb3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1252910,
+        "known_for_department": "Directing",
+        "name": "Tim Wardle",
+        "original_name": "Tim Wardle",
+        "popularity": 0.6564,
+        "profile_path": "/uOyvCAyGfPpO6QDTTpdNotx9e2f.jpg",
+        "credit_id": "682c111da29c81f3e1f5606f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1928227,
+        "known_for_department": "Production",
+        "name": "Casey Feldman",
+        "original_name": "Casey Feldman",
+        "popularity": 0.2114,
+        "profile_path": null,
+        "credit_id": "682c11245d142a60730bdd07",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5424270,
+        "known_for_department": "Production",
+        "name": "Erica Roberts",
+        "original_name": "Erica Roberts",
+        "popularity": 0.1845,
+        "profile_path": null,
+        "credit_id": "682c112ef7bf2e09def5601a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3089162,
+        "known_for_department": "Production",
+        "name": "William Swann",
+        "original_name": "William Swann",
+        "popularity": 0.3016,
+        "profile_path": null,
+        "credit_id": "682c1136ef6883779bf5628a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1252908,
+        "known_for_department": "Production",
+        "name": "Ben Rumney",
+        "original_name": "Ben Rumney",
+        "popularity": 0.3237,
+        "profile_path": null,
+        "credit_id": "682c115f38ddb0772c2f0e9b",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

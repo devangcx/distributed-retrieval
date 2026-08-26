@@ -1,0 +1,427 @@
+{
+  "adult": false,
+  "backdrop_path": "/c6DUP4WP18Ei5nUZK6EfNDiFKoy.jpg",
+  "belongs_to_collection": null,
+  "budget": 17010000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 19065,
+  "imdb_id": "tt0102729",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Pure Luck",
+  "overview": "The daughter of a wealthy businessman has disappeared in Mexico, and all the efforts to find her have been unsuccessful. A psychologist, knowing that the girl has an ultra bad luck, persuades her father to send to Mexico one of his employees, an accountant with super bad luck, to find her. Perhaps he will be lucky, and his bad luck could help to find the unlucky girl.",
+  "popularity": 3.0285,
+  "poster_path": "/3ZFbRfsSa04TTHzqcEFZtk6YYPe.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 19857,
+      "logo_path": null,
+      "name": "Sean Daniel Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 11601,
+      "logo_path": null,
+      "name": "Silver Lion Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1991-08-09",
+  "revenue": 24941969,
+  "runtime": 96,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Somewhere on the Mexican Riviera, a beautiful, rich heiress has gone missing. Only one man can find her. Unfortunately, they sent two.",
+  "title": "Pure Luck",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 143,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 519,
+        "known_for_department": "Acting",
+        "name": "Martin Short",
+        "original_name": "Martin Short",
+        "popularity": 2.3557,
+        "profile_path": "/vWoZIOk7K8TSKu1IN90akswsWjZ.jpg",
+        "cast_id": 1,
+        "character": "Eugene Proctor",
+        "credit_id": "52fe47b79251416c750a3193",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2047,
+        "known_for_department": "Acting",
+        "name": "Danny Glover",
+        "original_name": "Danny Glover",
+        "popularity": 3.4228,
+        "profile_path": "/2PJbpI9AyuhG4SWUIDxZwuBnuMb.jpg",
+        "cast_id": 2,
+        "character": "Raymond Campanella",
+        "credit_id": "52fe47b79251416c750a3197",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6008,
+        "known_for_department": "Acting",
+        "name": "Harry Shearer",
+        "original_name": "Harry Shearer",
+        "popularity": 1.7377,
+        "profile_path": "/wZpovXxQQqP7kxXPy2yj6QMbM55.jpg",
+        "cast_id": 4,
+        "character": "Julius Monosoff",
+        "credit_id": "52fe47b79251416c750a31a1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 68109,
+        "known_for_department": "Acting",
+        "name": "Sheila Kelley",
+        "original_name": "Sheila Kelley",
+        "popularity": 1.5764,
+        "profile_path": "/hM7V57prIElCPiPFuPQOWWFKmZA.jpg",
+        "cast_id": 5,
+        "character": "Valerie Highsmith",
+        "credit_id": "52fe47b79251416c750a31a5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21520,
+        "known_for_department": "Acting",
+        "name": "Sam Wanamaker",
+        "original_name": "Sam Wanamaker",
+        "popularity": 1.0346,
+        "profile_path": "/di9f8OPCKbZFDX0Ux4Uu0mIPgK8.jpg",
+        "cast_id": 6,
+        "character": "Highsmith",
+        "credit_id": "52fe47b79251416c750a31a9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6914,
+        "known_for_department": "Acting",
+        "name": "Scott Wilson",
+        "original_name": "Scott Wilson",
+        "popularity": 1.5829,
+        "profile_path": "/ynH2YOLn0A7iIlmMiiWAGtC76Hx.jpg",
+        "cast_id": 7,
+        "character": "Frank Grimes",
+        "credit_id": "52fe47b79251416c750a31ad",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 159614,
+        "known_for_department": "Acting",
+        "name": "Sharlene Martin",
+        "original_name": "Sharlene Martin",
+        "popularity": 1.123,
+        "profile_path": "/tAUoHx9kLNeAw7drJXLbTnVEsw3.jpg",
+        "cast_id": 19,
+        "character": "Nurse",
+        "credit_id": "57a11dc692514102460011d9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31321,
+        "known_for_department": "Acting",
+        "name": "Jorge Russek",
+        "original_name": "Jorge Russek",
+        "popularity": 0.9276,
+        "profile_path": "/6zNQjBF8dXyI1M1871eQFOxmERd.jpg",
+        "cast_id": 20,
+        "character": "Inspector Segura",
+        "credit_id": "60b781277cffda0057ee7b56",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47886,
+        "known_for_department": "Acting",
+        "name": "Jorge Luke",
+        "original_name": "Jorge Luke",
+        "popularity": 1.2222,
+        "profile_path": "/mXifN3ki6LTgOUb2pFi3v01txpT.jpg",
+        "cast_id": 21,
+        "character": "Pilot",
+        "credit_id": "60b7813a6905fb00573fef18",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1482331,
+        "known_for_department": "Acting",
+        "name": "Ariane Pellicer",
+        "original_name": "Ariane Pellicer",
+        "popularity": 0.6452,
+        "profile_path": "/iYd6AbRFrxVoWooBSsuw3FfDWtW.jpg",
+        "cast_id": 22,
+        "character": "Girl at Club",
+        "credit_id": "60b7823b899da2006f096aee",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9630,
+        "known_for_department": "Acting",
+        "name": "Sergio Calderón",
+        "original_name": "Sergio Calderón",
+        "popularity": 0.6735,
+        "profile_path": "/nzzxespfHZQbXcE733Dy88SIkKF.jpg",
+        "cast_id": 23,
+        "character": "Night Club Bartender",
+        "credit_id": "60b7829eabf8e200596d5925",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1235340,
+        "known_for_department": "Acting",
+        "name": "Michael Puttonen",
+        "original_name": "Michael Puttonen",
+        "popularity": 0.7679,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Taxi Driver",
+        "credit_id": "60b782ccdfaae90029582899",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 129459,
+        "known_for_department": "Acting",
+        "name": "Josefina Echánove",
+        "original_name": "Josefina Echánove",
+        "popularity": 0.6111,
+        "profile_path": "/8y3ddrLrSSoNMJa2wczajwBSTCV.jpg",
+        "cast_id": 25,
+        "character": "Nun",
+        "credit_id": "60b782d46dea3a0058982d5f",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15672,
+        "known_for_department": "Directing",
+        "name": "Nadia Tass",
+        "original_name": "Nadia Tass",
+        "popularity": 0.8233,
+        "profile_path": "/2K9swadhEU3KZUdGqe3eMWVG53L.jpg",
+        "credit_id": "52fe47b79251416c750a319d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7779,
+        "known_for_department": "Production",
+        "name": "Sean Daniel",
+        "original_name": "Sean Daniel",
+        "popularity": 0.788,
+        "profile_path": "/8ImPWM8YCxPSvZCDrDdxeCgNBeU.jpg",
+        "credit_id": "5533bab1925141529b00529e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57154,
+        "known_for_department": "Production",
+        "name": "Lance Hool",
+        "original_name": "Lance Hool",
+        "popularity": 0.7764,
+        "profile_path": null,
+        "credit_id": "5533bac7c3a36822260056c7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1409894,
+        "known_for_department": "Sound",
+        "name": "Jonathan Sheffer",
+        "original_name": "Jonathan Sheffer",
+        "popularity": 0.4067,
+        "profile_path": null,
+        "credit_id": "5533bada92514140b50035c9",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1414130,
+        "known_for_department": "Camera",
+        "name": "David Parker",
+        "original_name": "David Parker",
+        "popularity": 0.5135,
+        "profile_path": null,
+        "credit_id": "5533bb249251417ae3003355",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 909,
+        "known_for_department": "Editing",
+        "name": "Billy Weber",
+        "original_name": "Billy Weber",
+        "popularity": 0.5942,
+        "profile_path": null,
+        "credit_id": "5533bb3ec3a368523e001819",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13585,
+        "known_for_department": "Production",
+        "name": "Nancy Nayor",
+        "original_name": "Nancy Nayor",
+        "popularity": 0.6591,
+        "profile_path": null,
+        "credit_id": "5533bb5cc3a368523e00181d",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1000406,
+        "known_for_department": "Art",
+        "name": "Peter Wooley",
+        "original_name": "Peter Wooley",
+        "popularity": 0.4796,
+        "profile_path": null,
+        "credit_id": "5533bb78c3a36852ee00034c",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 23867,
+        "known_for_department": "Art",
+        "name": "Héctor Romero",
+        "original_name": "Héctor Romero",
+        "popularity": 0.4708,
+        "profile_path": null,
+        "credit_id": "5533bb989251415291005449",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 958675,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Grania Preston",
+        "original_name": "Grania Preston",
+        "popularity": 0.4033,
+        "profile_path": null,
+        "credit_id": "5533bbb6925141529b0052bc",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14710,
+        "known_for_department": "Writing",
+        "name": "Herschel Weingrod",
+        "original_name": "Herschel Weingrod",
+        "popularity": 0.6792,
+        "profile_path": null,
+        "credit_id": "6650db23ee82b45eb226b8af",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14711,
+        "known_for_department": "Writing",
+        "name": "Timothy Harris",
+        "original_name": "Timothy Harris",
+        "popularity": 1.0422,
+        "profile_path": null,
+        "credit_id": "6650db38dd7136ab77557336",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38507,
+        "known_for_department": "Writing",
+        "name": "Francis Veber",
+        "original_name": "Francis Veber",
+        "popularity": 0.9648,
+        "profile_path": "/tz0Rm7SgvhIIxPUve9mqSfvLEvH.jpg",
+        "credit_id": "68c5d6657764e8b856a2d17b",
+        "department": "Writing",
+        "job": "Original Film Writer"
+      }
+    ]
+  }
+}

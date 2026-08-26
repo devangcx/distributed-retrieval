@@ -1,0 +1,354 @@
+{
+  "adult": false,
+  "backdrop_path": "/2shn4Kiq7qInZgKZhqM5BKie1zL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "http://www.threeidenticalstrangers.com/",
+  "id": 489988,
+  "imdb_id": "tt7664504",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Three Identical Strangers",
+  "overview": "New York, 1980. Three complete strangers accidentally discover that they're identical triplets, separated at birth. The 19-year-olds' joyous reunion catapults them to international fame, but also unlocks an extraordinary and disturbing secret that goes beyond their own lives – and could transform our understanding of human nature forever.",
+  "popularity": 3.4629,
+  "poster_path": "/esPoJNMBsgWXahv8gILIl5K6sFk.jpg",
+  "production_companies": [
+    {
+      "id": 23949,
+      "logo_path": "/3QFwomSxcZZgMQGBkdUPuJEnSFB.png",
+      "name": "RAW",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2018-06-29",
+  "revenue": 1041955,
+  "runtime": 97,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The most amazing, incredible, remarkable true story ever told.",
+  "title": "Three Identical Strangers",
+  "video": false,
+  "vote_average": 7.299,
+  "vote_count": 835,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1961942,
+        "known_for_department": "Acting",
+        "name": "David Kellman",
+        "original_name": "David Kellman",
+        "popularity": 0.3461,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Self",
+        "credit_id": "5a5fba790e0a2650a3009e64",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1961943,
+        "known_for_department": "Acting",
+        "name": "Robert Shafran",
+        "original_name": "Robert Shafran",
+        "popularity": 0.377,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "5a5fba9f9251415a86009312",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59978,
+        "known_for_department": "Writing",
+        "name": "Lawrence Wright",
+        "original_name": "Lawrence Wright",
+        "popularity": 0.9321,
+        "profile_path": "/oemzri6fzfymVklgXsuUZ4D8kMw.jpg",
+        "cast_id": 25,
+        "character": "Self",
+        "credit_id": "5c1619440e0a2641003b69d4",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1354090,
+        "known_for_department": "Editing",
+        "name": "Michael Harte",
+        "original_name": "Michael Harte",
+        "popularity": 0.569,
+        "profile_path": null,
+        "credit_id": "5b62afb30e0a267ee502808c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 587426,
+        "known_for_department": "Camera",
+        "name": "Tim Cragg",
+        "original_name": "Tim Cragg",
+        "popularity": 0.4543,
+        "profile_path": null,
+        "credit_id": "5b62afc1c3a368188f02a304",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1355933,
+        "known_for_department": "Production",
+        "name": "Dimitri Doganis",
+        "original_name": "Dimitri Doganis",
+        "popularity": 0.4707,
+        "profile_path": null,
+        "credit_id": "5b62afe0925141406a02844e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1851594,
+        "known_for_department": "Production",
+        "name": "Amy Entelis",
+        "original_name": "Amy Entelis",
+        "popularity": 0.4161,
+        "profile_path": null,
+        "credit_id": "5b62afea0e0a267ef102a464",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1627124,
+        "known_for_department": "Production",
+        "name": "Courtney Sexton",
+        "original_name": "Courtney Sexton",
+        "popularity": 0.5389,
+        "profile_path": null,
+        "credit_id": "5b62aff90e0a267ee702bf56",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1078662,
+        "known_for_department": "Production",
+        "name": "Sara Ramsden",
+        "original_name": "Sara Ramsden",
+        "popularity": 0.3223,
+        "profile_path": null,
+        "credit_id": "5b62b0070e0a267ef402a3a9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2098058,
+        "known_for_department": "Production",
+        "name": "Adam Hawkins",
+        "original_name": "Adam Hawkins",
+        "popularity": 0.4073,
+        "profile_path": null,
+        "credit_id": "5b62b025925141405c026ff3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1994779,
+        "known_for_department": "Production",
+        "name": "Tom Barry",
+        "original_name": "Tom Barry",
+        "popularity": 0.4233,
+        "profile_path": null,
+        "credit_id": "5b62b0310e0a267ee702bfa4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1179548,
+        "known_for_department": "Production",
+        "name": "Grace Hughes-Hallett",
+        "original_name": "Grace Hughes-Hallett",
+        "popularity": 0.402,
+        "profile_path": "/6HIoiQgVYrDxFyBSiN0jbYKTvsK.jpg",
+        "credit_id": "5b62b05ec3a3681886031743",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2098060,
+        "known_for_department": "Directing",
+        "name": "Becky Read",
+        "original_name": "Becky Read",
+        "popularity": 0.6129,
+        "profile_path": null,
+        "credit_id": "5b62b074c3a3681886031765",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1882091,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Dawn Thompson",
+        "original_name": "Dawn Thompson",
+        "popularity": 0.3195,
+        "profile_path": null,
+        "credit_id": "5b62b089c3a368188d02750c",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1869408,
+        "known_for_department": "Sound",
+        "name": "Nas Parkash",
+        "original_name": "Nas Parkash",
+        "popularity": 0.5851,
+        "profile_path": null,
+        "credit_id": "5b62b0a99251414064028dd6",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1900415,
+        "known_for_department": "Sound",
+        "name": "Merce Williams",
+        "original_name": "Merce Williams",
+        "popularity": 0.6372,
+        "profile_path": null,
+        "credit_id": "5b62b0b4c3a3681899026364",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2098061,
+        "known_for_department": "Sound",
+        "name": "Tae Hak Kim",
+        "original_name": "Tae Hak Kim",
+        "popularity": 0.6563,
+        "profile_path": null,
+        "credit_id": "5b62b0d29251414068028bce",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2098062,
+        "known_for_department": "Sound",
+        "name": "Chad Orororo",
+        "original_name": "Chad Orororo",
+        "popularity": 0.3557,
+        "profile_path": null,
+        "credit_id": "5b62b0dec3a368188d02755e",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2098063,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Heather Hollett French",
+        "original_name": "Heather Hollett French",
+        "popularity": 0.2726,
+        "profile_path": null,
+        "credit_id": "5b62b0f29251414054027e2d",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1252910,
+        "known_for_department": "Directing",
+        "name": "Tim Wardle",
+        "original_name": "Tim Wardle",
+        "popularity": 0.6564,
+        "profile_path": "/uOyvCAyGfPpO6QDTTpdNotx9e2f.jpg",
+        "credit_id": "5b7f65739251416c84003279",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1449187,
+        "known_for_department": "Sound",
+        "name": "Paul Saunderson",
+        "original_name": "Paul Saunderson",
+        "popularity": 0.5601,
+        "profile_path": null,
+        "credit_id": "5bc7e4f39251410a0300b5ea",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2153254,
+        "known_for_department": "Production",
+        "name": "Louise Dew",
+        "original_name": "Louise Dew",
+        "popularity": 0.2784,
+        "profile_path": null,
+        "credit_id": "5bc7e52dc3a36829c800b4f7",
+        "department": "Production",
+        "job": "Line Producer"
+      }
+    ]
+  }
+}

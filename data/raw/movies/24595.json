@@ -1,0 +1,291 @@
+{
+  "adult": false,
+  "backdrop_path": "/zrJStfnj7Rb0KWUcwoOiGEwYO5O.jpg",
+  "belongs_to_collection": null,
+  "budget": 17500000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "http://www.bluethefilm.com/",
+  "id": 24595,
+  "imdb_id": "tt1223922",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Blue",
+  "overview": "Sagar, Sam, and Aarav decide to go underwater to find the sunken ship Lady in Blue to retrieve the treasure in it to help Sameer clear his debt, but one of them has a hidden agenda.",
+  "popularity": 1.3295,
+  "poster_path": "/1l6GBcoVKjwK2V5za2o7lM34CVJ.jpg",
+  "production_companies": [
+    {
+      "id": 5670,
+      "logo_path": null,
+      "name": "Shree Ashtavinayak Cine Vision",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2009-10-16",
+  "revenue": 0,
+  "runtime": 119,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "250 feet deep lies the secret of...",
+  "title": "Blue",
+  "video": false,
+  "vote_average": 3.94,
+  "vote_count": 50,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85881,
+        "known_for_department": "Acting",
+        "name": "Sanjay Dutt",
+        "original_name": "संजय दत्त",
+        "popularity": 2.4825,
+        "profile_path": "/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg",
+        "cast_id": 2,
+        "character": "Sagar Singh",
+        "credit_id": "52fe449fc3a368484e02d66d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35070,
+        "known_for_department": "Acting",
+        "name": "Akshay Kumar",
+        "original_name": "अक्षय कुमार",
+        "popularity": 2.5711,
+        "profile_path": "/sR8nASRtTpiwXqkFHjG2jdRBZ7a.jpg",
+        "cast_id": 1,
+        "character": "Aarav Malhotra",
+        "credit_id": "52fe449fc3a368484e02d669",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55063,
+        "known_for_department": "Acting",
+        "name": "Lara Dutta",
+        "original_name": "लारा दत्ता",
+        "popularity": 1.3745,
+        "profile_path": "/1z2w901ISieL4fhWE3sz3j6kj9Q.jpg",
+        "cast_id": 3,
+        "character": "Mona Dutta",
+        "credit_id": "52fe449fc3a368484e02d671",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85731,
+        "known_for_department": "Acting",
+        "name": "Zayed Khan",
+        "original_name": "Zayed Khan",
+        "popularity": 0.8616,
+        "profile_path": "/lL1u1ZgcFNnpFNWStCUOugDLYrC.jpg",
+        "cast_id": 4,
+        "character": "Sameer Singh",
+        "credit_id": "52fe449fc3a368484e02d675",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37234,
+        "known_for_department": "Acting",
+        "name": "Rahul Dev",
+        "original_name": "Rahul Dev",
+        "popularity": 1.163,
+        "profile_path": "/e4v690w2cgoGzRTyIit7E23DrFA.jpg",
+        "cast_id": 6,
+        "character": "Gulshan",
+        "credit_id": "52fe449fc3a368484e02d67d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10510,
+        "known_for_department": "Acting",
+        "name": "Kabir Bedi",
+        "original_name": "Kabir Bedi",
+        "popularity": 1.4941,
+        "profile_path": "/jTvXd0iXyKa9KBBFOxt9DASK5QG.jpg",
+        "cast_id": 7,
+        "character": "Jagal Malhotra",
+        "credit_id": "52fe449fc3a368484e02d681",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 81869,
+        "known_for_department": "Acting",
+        "name": "Katrina Kaif",
+        "original_name": "Katrina Kaif",
+        "popularity": 1.8163,
+        "profile_path": "/gSNaBg8Q7Nh0u4HhW6pR5B0ujlL.jpg",
+        "cast_id": 5,
+        "character": "Nikki",
+        "credit_id": "52fe449fc3a368484e02d679",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12207,
+        "known_for_department": "Acting",
+        "name": "Kylie Minogue",
+        "original_name": "Kylie Minogue",
+        "popularity": 2.1886,
+        "profile_path": "/sVe6DQ1iFlk4nad0Bd3WVVVj23P.jpg",
+        "cast_id": 8,
+        "character": "Self",
+        "credit_id": "52fe449fc3a368484e02d685",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6322905,
+        "known_for_department": "Acting",
+        "name": "J. P. Genasi",
+        "original_name": "J. P. Genasi",
+        "popularity": 0.2729,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Sagar's Father",
+        "credit_id": "6a46aab4233320617d30efc1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6322906,
+        "known_for_department": "Acting",
+        "name": "Travis Dylan Cove",
+        "original_name": "Travis Dylan Cove",
+        "popularity": 0.2227,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Young Sagar",
+        "credit_id": "6a46aac7e23a51760a30eff0",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 92055,
+        "known_for_department": "Directing",
+        "name": "Anthony D'Souza",
+        "original_name": "Anthony D'Souza",
+        "popularity": 0.4743,
+        "profile_path": null,
+        "credit_id": "52fe449fc3a368484e02d69d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 92055,
+        "known_for_department": "Directing",
+        "name": "Anthony D'Souza",
+        "original_name": "Anthony D'Souza",
+        "popularity": 0.4743,
+        "profile_path": null,
+        "credit_id": "52fe449fc3a368484e02d691",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85885,
+        "known_for_department": "Production",
+        "name": "Dhilin Mehta",
+        "original_name": "Dhilin Mehta",
+        "popularity": 0.3256,
+        "profile_path": null,
+        "credit_id": "52fe449fc3a368484e02d697",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5288,
+        "known_for_department": "Sound",
+        "name": "A.R. Rahman",
+        "original_name": "A.R. Rahman",
+        "popularity": 1.192,
+        "profile_path": "/3po8IwdtONY72BuXr7ZhZZ0ugxQ.jpg",
+        "credit_id": "52fe449fc3a368484e02d68b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1118108,
+        "known_for_department": "Camera",
+        "name": "Laxman Utekar",
+        "original_name": "Laxman Utekar",
+        "popularity": 0.575,
+        "profile_path": "/tjfyze8v39C023F6OElEB33hzAF.jpg",
+        "credit_id": "6922c41d936d9eeb720ba4d9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5833973,
+        "known_for_department": "Editing",
+        "name": "Shyam Salgaonkar",
+        "original_name": "Shyam Salgaonkar",
+        "popularity": 0.1913,
+        "profile_path": null,
+        "credit_id": "6922c4302fc43065f80ba6ca",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

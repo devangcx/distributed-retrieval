@@ -1,0 +1,389 @@
+{
+  "adult": false,
+  "backdrop_path": "/y5haKgSz1hCDatwIOMuqZ1CFKPW.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1596291,
+  "imdb_id": "tt39162904",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Queen of Chess",
+  "overview": "A Hungarian girl dreams of conquering international men’s chess. After a 15-year battle against world champion Garry Kasparov and her domineering father, Judit Polgár revolutionizes the sport’s patriarchal culture to become one of the greatest chess prodigies in history and the greatest woman chess player of all time.",
+  "popularity": 3.4631,
+  "poster_path": "/ag5TZNcK3vHdCCpZIY8syjwzgfr.jpg",
+  "production_companies": [
+    {
+      "id": 170137,
+      "logo_path": "/rRLKtEZOEDNSTjdjTNDuoeKaQNv.png",
+      "name": "Moxie Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-01-27",
+  "revenue": 0,
+  "runtime": 93,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Queen of Chess",
+  "video": false,
+  "vote_average": 7.527,
+  "vote_count": 73,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3522290,
+        "known_for_department": "Acting",
+        "name": "Judit Polgár",
+        "original_name": "Judit Polgár",
+        "popularity": 0.4872,
+        "profile_path": "/uTRhkISkM29jh0LPsNWEiSCsgUy.jpg",
+        "cast_id": 6,
+        "character": "Self",
+        "credit_id": "69811c49708b4ce74be0623a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225958,
+        "known_for_department": "Acting",
+        "name": "Garry Kasparov",
+        "original_name": "Гарри Каспаров",
+        "popularity": 1.0994,
+        "profile_path": "/vOE9BQVsU6kYQjK2zRdexDNLZBH.jpg",
+        "cast_id": 14,
+        "character": "Self",
+        "credit_id": "6986d791ed70ae790cf8076a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3522296,
+        "known_for_department": "Acting",
+        "name": "László Polgár",
+        "original_name": "Laszlo Polgar",
+        "popularity": 0.2864,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Self",
+        "credit_id": "6a76a62d4329ce9df58fbc83",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3522295,
+        "known_for_department": "Acting",
+        "name": "Sofia Polgár",
+        "original_name": "Sofia Polgar",
+        "popularity": 0.315,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Self",
+        "credit_id": "6a76a56d6d50d0fe434d635e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3522298,
+        "known_for_department": "Acting",
+        "name": "Klára Polgár",
+        "original_name": "Klara Polgar",
+        "popularity": 0.5298,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Self",
+        "credit_id": "6a76a579da7d7d99058fbc6b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6397493,
+        "known_for_department": "Acting",
+        "name": "Gustáv Font",
+        "original_name": "Gustáv Font",
+        "popularity": 0.4598,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Self",
+        "credit_id": "6a76a5d137372b3dcabbb5c8",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6397494,
+        "known_for_department": "Acting",
+        "name": "Anna Rudolf",
+        "original_name": "Anna Rudolf",
+        "popularity": 0.5583,
+        "profile_path": "/9U3GwbXFWyghGc6NbQqOPUiRx3y.jpg",
+        "cast_id": 21,
+        "character": "Self",
+        "credit_id": "6a76a6690d9af46b808107a6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6397497,
+        "known_for_department": "Acting",
+        "name": "Jovanka Houska",
+        "original_name": "Jovanka Houska",
+        "popularity": 0.483,
+        "profile_path": "/ywhffh26SFfK9SUSwAWSy5sYnY9.jpg",
+        "cast_id": 23,
+        "character": "Self",
+        "credit_id": "6a76a6bd04383e972165148e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1571873,
+        "known_for_department": "Acting",
+        "name": "Maurice Ashley",
+        "original_name": "Maurice Ashley",
+        "popularity": 0.4991,
+        "profile_path": "/wzgem9M4F73NIgA7lcbPE47A0Gz.jpg",
+        "cast_id": 24,
+        "character": "Self",
+        "credit_id": "6a76a6dbcc44b23d63bbb5b2",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6397491,
+        "known_for_department": "Acting",
+        "name": "William Hartston",
+        "original_name": "William Hartston",
+        "popularity": 0.262,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Self",
+        "credit_id": "6a76a59649205fb8de8fbc5c",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6397495,
+        "known_for_department": "Acting",
+        "name": "Dirk Jan ten Geuzendam",
+        "original_name": "Dirk Jan ten Geuzendam",
+        "popularity": 0.4154,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Self",
+        "credit_id": "6a76a67b2b59b178f6e4b883",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1497129,
+        "known_for_department": "Acting",
+        "name": "Bobby Fischer",
+        "original_name": "Bobby Fischer",
+        "popularity": 0.4217,
+        "profile_path": "/8uSbvBJB7yDQ7ui8aPjRZcEQ6OD.jpg",
+        "cast_id": 25,
+        "character": "Self (archival footage)",
+        "credit_id": "6a76b28bcb74d1ef9c8fbce0",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1037308,
+        "known_for_department": "Directing",
+        "name": "Rory Kennedy",
+        "original_name": "Rory Kennedy",
+        "popularity": 0.8321,
+        "profile_path": "/e7Sy1VCnQq5dFEozkTbSXO8U3uU.jpg",
+        "credit_id": "6939bb311ce70ac0101ff03b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1147955,
+        "known_for_department": "Production",
+        "name": "Regina K. Scully",
+        "original_name": "Regina K. Scully",
+        "popularity": 0.5879,
+        "profile_path": "/dZPx8pJ9mi6UYLPZHZUgcyhy5Jf.jpg",
+        "credit_id": "696747a689a19bc17136d5a4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2219523,
+        "known_for_department": "Production",
+        "name": "Meryl Metni",
+        "original_name": "Meryl Metni",
+        "popularity": 0.4743,
+        "profile_path": null,
+        "credit_id": "696747ae800bbdca7e8661c8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 153667,
+        "known_for_department": "Writing",
+        "name": "Mark Bailey",
+        "original_name": "Mark Bailey",
+        "popularity": 0.6417,
+        "profile_path": null,
+        "credit_id": "696747b79de6da2db16873c2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130789,
+        "known_for_department": "Directing",
+        "name": "Keven McAlester",
+        "original_name": "Keven McAlester",
+        "popularity": 0.4764,
+        "profile_path": null,
+        "credit_id": "696747d10f9e3424af36d5b7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4237619,
+        "known_for_department": "Production",
+        "name": "Alexandra Korba",
+        "original_name": "Alexandra Korba",
+        "popularity": 0.6369,
+        "profile_path": null,
+        "credit_id": "69852ca6f7ef09cc106b543a",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19722,
+        "known_for_department": "Production",
+        "name": "Stephen Nemeth",
+        "original_name": "Stephen Nemeth",
+        "popularity": 0.4435,
+        "profile_path": null,
+        "credit_id": "69852cb3eb7c2beb8b218e7d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19501,
+        "known_for_department": "Production",
+        "name": "Galen Walker",
+        "original_name": "Galen Walker",
+        "popularity": 0.6577,
+        "profile_path": null,
+        "credit_id": "69852cbec59230dcf261a325",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2515885,
+        "known_for_department": "Production",
+        "name": "Ariane Wu",
+        "original_name": "Ariane Wu",
+        "popularity": 0.5287,
+        "profile_path": null,
+        "credit_id": "69852ccff2e9754ab448d8f9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2560327,
+        "known_for_department": "Editing",
+        "name": "Jesse Overman",
+        "original_name": "Jesse Overman",
+        "popularity": 0.5864,
+        "profile_path": null,
+        "credit_id": "69852d0cc59230dcf261a32c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 992021,
+        "known_for_department": "Editing",
+        "name": "Azin Samari",
+        "original_name": "Azin Samari",
+        "popularity": 0.3732,
+        "profile_path": null,
+        "credit_id": "69852d18e73ac5bcdb48d90b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1458446,
+        "known_for_department": "Camera",
+        "name": "Imre Juhász",
+        "original_name": "Imre Juhász",
+        "popularity": 0.6587,
+        "profile_path": null,
+        "credit_id": "69852d2d5a5d3d3258344efc",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

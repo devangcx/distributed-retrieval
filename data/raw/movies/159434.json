@@ -1,0 +1,412 @@
+{
+  "adult": false,
+  "backdrop_path": "/xOe3eBrYAx7OYOI6VSPC1MWHREs.jpg",
+  "belongs_to_collection": null,
+  "budget": 3900000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 159434,
+  "imdb_id": "tt0489486",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "गुड बॉय बैड बॉय",
+  "overview": "Two college students exchange their classes after the college management mixed their identical names by mistake.",
+  "popularity": 0.8952,
+  "poster_path": "/mNXjhPcHC5XBVJlSjfhmCdKYAPb.jpg",
+  "production_companies": [
+    {
+      "id": 3725,
+      "logo_path": null,
+      "name": "Mukta Arts Ltd",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2007-05-11",
+  "revenue": 4400000,
+  "runtime": 115,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "When good meets bad... It sparks magic!",
+  "title": "Good Boy, Bad Boy",
+  "video": false,
+  "vote_average": 4.565,
+  "vote_count": 23,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85891,
+        "known_for_department": "Acting",
+        "name": "Tusshar Kapoor",
+        "original_name": "Tusshar Kapoor",
+        "popularity": 0.9774,
+        "profile_path": "/5ApUsEt56R0SVQMu11fbmUSHCIi.jpg",
+        "cast_id": 1,
+        "character": "Raju Malhotra / Rajan Malhotra",
+        "credit_id": "52fe4c119251416c910ee9f7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85969,
+        "known_for_department": "Acting",
+        "name": "Emraan Hashmi",
+        "original_name": "इमरान हाशमी",
+        "popularity": 2.2624,
+        "profile_path": "/kflgvFCFZnpTRbKmJWn5T0G5EKI.jpg",
+        "cast_id": 2,
+        "character": "Raju Malhotra / Rajan Malhotra",
+        "credit_id": "52fe4c119251416c910ee9fb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85667,
+        "known_for_department": "Acting",
+        "name": "Isha Sharvani",
+        "original_name": "Isha Sharvani",
+        "popularity": 0.6385,
+        "profile_path": "/f2eWUXwDNsrfrcpfePsiq6oVzbH.jpg",
+        "cast_id": 3,
+        "character": "Rashmi Awasthi",
+        "credit_id": "52fe4c119251416c910ee9ff",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85715,
+        "known_for_department": "Acting",
+        "name": "Tanushree Dutta",
+        "original_name": "Tanushree Dutta",
+        "popularity": 0.9504,
+        "profile_path": "/kIvsZi9fuoOQr49OUH0zvaREEe4.jpg",
+        "cast_id": 4,
+        "character": "Dinky Kapoor",
+        "credit_id": "52fe4c119251416c910eea03",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85033,
+        "known_for_department": "Acting",
+        "name": "Paresh Rawal",
+        "original_name": "Paresh Rawal",
+        "popularity": 1.1939,
+        "profile_path": "/xFVHMvDC8s4Ab2sLXrdVxMxZ33b.jpg",
+        "cast_id": 5,
+        "character": "Diwanchand \"Diwan\" Awasthi",
+        "credit_id": "52fe4c119251416c910eea07",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110200,
+        "known_for_department": "Acting",
+        "name": "Rakesh Bedi",
+        "original_name": "राकेश बेदी",
+        "popularity": 1.4253,
+        "profile_path": "/dWLCiA3rqnaFPn9s0bk2MiSq5Mt.jpg",
+        "cast_id": 7,
+        "character": "Prem Malhotra",
+        "credit_id": "5e04c4890284200019b74dc8",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 86081,
+        "known_for_department": "Acting",
+        "name": "Navni Parihar",
+        "original_name": "Navni Parihar",
+        "popularity": 0.7995,
+        "profile_path": "/lAaMALrKz1cRDX5j0DcXUmE61yG.jpg",
+        "cast_id": 8,
+        "character": "Mrs Prem Malhotra",
+        "credit_id": "5e04c4959bcd0f00170bf7c2",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86503,
+        "known_for_department": "Acting",
+        "name": "Anang Desai",
+        "original_name": "Anang Desai",
+        "popularity": 0.7894,
+        "profile_path": "/c5QbV2LHo1AFtavHO6owAObONBC.jpg",
+        "cast_id": 9,
+        "character": "P.K. Malhotra",
+        "credit_id": "5e04c4afd236e60012994094",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1352997,
+        "known_for_department": "Directing",
+        "name": "Kabir Sadanand",
+        "original_name": "Kabir Sadanand",
+        "popularity": 0.5387,
+        "profile_path": "/b0hNSsXhO7MczBH7ZutxnpLOZ0O.jpg",
+        "cast_id": 10,
+        "character": "Willyboy",
+        "credit_id": "5e04c4c20284200019b74ef5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85734,
+        "known_for_department": "Acting",
+        "name": "Sushmita Mukherjee",
+        "original_name": "Sushmita Mukherjee",
+        "popularity": 0.8587,
+        "profile_path": "/hFgWE0QLZHvdt0gJ3kR734H0ZBR.jpg",
+        "cast_id": 11,
+        "character": "Bebo Chatterjee",
+        "credit_id": "5e04c4cf9bcd0f00170bf815",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 992760,
+        "known_for_department": "Directing",
+        "name": "Ashwini Chaudhary",
+        "original_name": "Ashwini Chaudhary",
+        "popularity": 0.4463,
+        "profile_path": null,
+        "credit_id": "5a3e9ca39251411f4f0101f1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88593,
+        "known_for_department": "Sound",
+        "name": "Himesh Reshammiya",
+        "original_name": "Himesh Reshammiya",
+        "popularity": 0.8663,
+        "profile_path": "/klaNPMWG9caEA0BG33LdAzn3Cwn.jpg",
+        "credit_id": "5e05c71b4c1d9a0015de21fe",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1113607,
+        "known_for_department": "Art",
+        "name": "R. Verman Shetty",
+        "original_name": "R. Verman Shetty",
+        "popularity": 0.4062,
+        "profile_path": null,
+        "credit_id": "5e05c7639bcd0f001a0d6c76",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2266302,
+        "known_for_department": "Sound",
+        "name": "Akriti Kakkar",
+        "original_name": "Akriti Kakkar",
+        "popularity": 0.3339,
+        "profile_path": null,
+        "credit_id": "5e05c7399bcd0f00150dbcbb",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88593,
+        "known_for_department": "Sound",
+        "name": "Himesh Reshammiya",
+        "original_name": "Himesh Reshammiya",
+        "popularity": 0.8663,
+        "profile_path": "/klaNPMWG9caEA0BG33LdAzn3Cwn.jpg",
+        "credit_id": "5e05c67d4c1d9a0015de2130",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2319308,
+        "known_for_department": "Production",
+        "name": "Raju Farooqui",
+        "original_name": "Raju Farooqui",
+        "popularity": 0.2785,
+        "profile_path": null,
+        "credit_id": "5e05c5fd26dac100146f9558",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2384456,
+        "known_for_department": "Sound",
+        "name": "Himani Kapoor",
+        "original_name": "Himani Kapoor",
+        "popularity": 0.2661,
+        "profile_path": null,
+        "credit_id": "5e05c7104c1d9a0015de21f1",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1809858,
+        "known_for_department": "Production",
+        "name": "Shikha Sharma",
+        "original_name": "Shikha Sharma",
+        "popularity": 0.3207,
+        "profile_path": null,
+        "credit_id": "5e05c61626dac100176f2edb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 930292,
+        "known_for_department": "Camera",
+        "name": "Manoj Soni",
+        "original_name": "Manoj Soni",
+        "popularity": 0.4129,
+        "profile_path": null,
+        "credit_id": "5e05c65ad236e600169b4104",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 101867,
+        "known_for_department": "Editing",
+        "name": "Sanjib Datta",
+        "original_name": "Sanjib Datta",
+        "popularity": 0.3401,
+        "profile_path": null,
+        "credit_id": "5e05c777d236e600129abbcd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1764312,
+        "known_for_department": "Sound",
+        "name": "Alka Yagnik",
+        "original_name": "Alka Yagnik",
+        "popularity": 0.5397,
+        "profile_path": "/xUtThoIvHjCDy3cnkkUSiFjZ0pL.jpg",
+        "credit_id": "5e05c74a26dac100126d86fd",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 928515,
+        "known_for_department": "Production",
+        "name": "Kajal Malhotra",
+        "original_name": "Kajal Malhotra",
+        "popularity": 0.2634,
+        "profile_path": null,
+        "credit_id": "5e05c60926dac100146f9573",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2142208,
+        "known_for_department": "Sound",
+        "name": "Zubeen Garg",
+        "original_name": "Zubeen Garg",
+        "popularity": 0.5787,
+        "profile_path": "/BUyjR6sTkn34qWvvZxmTOzvOil.jpg",
+        "credit_id": "5e05c75a9bcd0f00170d9b35",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1681236,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Falguni Thakore",
+        "original_name": "Falguni Thakore",
+        "popularity": 0.4144,
+        "profile_path": null,
+        "credit_id": "5e05c76f4c1d9a0013ddcc63",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 992760,
+        "known_for_department": "Directing",
+        "name": "Ashwini Chaudhary",
+        "original_name": "Ashwini Chaudhary",
+        "popularity": 0.4463,
+        "profile_path": null,
+        "credit_id": "5e05c65126dac100176f2ff5",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1673473,
+        "known_for_department": "Crew",
+        "name": "Horse Babu",
+        "original_name": "Horse Babu",
+        "popularity": 0.4265,
+        "profile_path": null,
+        "credit_id": "5e05c77f4c1d9a0015de2593",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      }
+    ]
+  }
+}

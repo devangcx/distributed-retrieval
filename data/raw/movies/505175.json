@@ -1,0 +1,371 @@
+{
+  "adult": false,
+  "backdrop_path": "/odmG3Y24tpJCa3wOrnn9luGaBtz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 505175,
+  "imdb_id": "tt7853242",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Love per Square Foot",
+  "overview": "Individually, bank employees Sanjay and Karina don't earn enough to be able to buy a home, so they decide to enter into a marriage of convenience.",
+  "popularity": 1.4511,
+  "poster_path": "/edKCIS7i4qruQ8B8sbou8scvPLe.jpg",
+  "production_companies": [
+    {
+      "id": 100972,
+      "logo_path": "/ni6szJ3gzDOAmZwlHXKaFyvsxEQ.png",
+      "name": "RSVP Movies",
+      "origin_country": "IN"
+    },
+    {
+      "id": 182244,
+      "logo_path": "/7ib1zy4NjIeOIE2wZE3loe0UUKA.png",
+      "name": "Leo Media Collective",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2018-02-14",
+  "revenue": 0,
+  "runtime": 133,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Love per Square Foot",
+  "video": false,
+  "vote_average": 6.684,
+  "vote_count": 125,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1469935,
+        "known_for_department": "Acting",
+        "name": "Vicky Kaushal",
+        "original_name": "Vicky Kaushal",
+        "popularity": 1.316,
+        "profile_path": "/hKSa4DWEAD7DYhABYGwjPmxdpAY.jpg",
+        "cast_id": 0,
+        "character": "Sanjay Chaturvedi",
+        "credit_id": "5a841bd3c3a36862a7008cfa",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1873663,
+        "known_for_department": "Acting",
+        "name": "Angira Dhar",
+        "original_name": "Angira Dhar",
+        "popularity": 0.8586,
+        "profile_path": "/hE7Im4q3EU07k1Rbf3slpd2K9qr.jpg",
+        "cast_id": 1,
+        "character": "Karina D'Souza",
+        "credit_id": "5a841c250e0a265453009ced",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86892,
+        "known_for_department": "Acting",
+        "name": "Supriya Pathak",
+        "original_name": "Supriya Pathak",
+        "popularity": 0.817,
+        "profile_path": "/cDvNa9XL425kBiyT4xqRGM8kK4H.jpg",
+        "cast_id": 3,
+        "character": "Lata Chaturvedi",
+        "credit_id": "5a841c5a0e0a2652ab009461",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52974,
+        "known_for_department": "Acting",
+        "name": "Raghubir Yadav",
+        "original_name": "Raghubir Yadav",
+        "popularity": 0.7314,
+        "profile_path": "/khyp4vnuGKVxrtszyB7kSf3vuzw.jpg",
+        "cast_id": 4,
+        "character": "Bhaskar Chaturvedi",
+        "credit_id": "5a841c760e0a26540c008cbb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101827,
+        "known_for_department": "Acting",
+        "name": "Gajraj Rao",
+        "original_name": "गजराज राव",
+        "popularity": 0.9371,
+        "profile_path": "/pomm4rYhIDqoEHtzKucbEOoJp7n.jpg",
+        "cast_id": 5,
+        "character": "Mr. Rehmat",
+        "credit_id": "5a841d01c3a3682dbf00f78e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1977879,
+        "known_for_department": "Acting",
+        "name": "Alankrita Sahai",
+        "original_name": "Alankrita Sahai",
+        "popularity": 0.5684,
+        "profile_path": "/9LSOYbsQTcemrWW0wpqr85rF8Pk.jpg",
+        "cast_id": 7,
+        "character": "Rashi Khurana",
+        "credit_id": "5a841d34925141759300e63c",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113690,
+        "known_for_department": "Acting",
+        "name": "Kunaal Roy Kapur",
+        "original_name": "Kunaal Roy Kapur",
+        "popularity": 0.7232,
+        "profile_path": "/l8EbUNJUbfyKuHIQiXWK91FGyea.jpg",
+        "cast_id": 13,
+        "character": "Samuel Misquitta",
+        "credit_id": "5c5fdca80e0a2624f76afec4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 95506,
+        "known_for_department": "Acting",
+        "name": "Ratna Pathak Shah",
+        "original_name": "Ratna Pathak Shah",
+        "popularity": 0.7624,
+        "profile_path": "/vm25WW6q65Hjg8xuuekJjWF75hY.jpg",
+        "cast_id": 14,
+        "character": "Blossom D'souza",
+        "credit_id": "5c5fdcb3925141338cbfa48c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130589,
+        "known_for_department": "Acting",
+        "name": "Arunoday Singh",
+        "original_name": "Arunoday Singh",
+        "popularity": 0.7412,
+        "profile_path": "/tsiGIhjEwfR5SlKNsnl6VjocLoE.jpg",
+        "cast_id": 15,
+        "character": "Kashin Malhotra",
+        "credit_id": "5c5fdcc59251413381bfa92d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 230440,
+        "known_for_department": "Acting",
+        "name": "Brijendra Kala",
+        "original_name": "Brijendra Kala",
+        "popularity": 1.1286,
+        "profile_path": "/wogG1hX0EHzAhnfnGpN3tY3Ch6n.jpg",
+        "cast_id": 16,
+        "character": "T.C.Mishra",
+        "credit_id": "5c5fdcd39251413376bf7b3d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1873664,
+        "known_for_department": "Acting",
+        "name": "Ayesha Raza Mishra",
+        "original_name": "Ayesha Raza Mishra",
+        "popularity": 0.925,
+        "profile_path": "/cKC6Gj5AbeoLpH0bxnSj8SEzewi.jpg",
+        "cast_id": 26,
+        "character": "Poonam Tiwari",
+        "credit_id": "5f33d502ef8b32003612e015",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1169588,
+        "known_for_department": "Production",
+        "name": "Rekha Bhardwaj",
+        "original_name": "Rekha Bhardwaj",
+        "popularity": 0.4267,
+        "profile_path": "/dF9qX0na8zGSDwdlqCdK9xvTPG0.jpg",
+        "cast_id": 17,
+        "character": "Classical Singer",
+        "credit_id": "5c5fdcdc0e0a261de16b6ec3",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1633431,
+        "known_for_department": "Acting",
+        "name": "Ivan Rodrigues",
+        "original_name": "Ivan Rodrigues",
+        "popularity": 0.7205,
+        "profile_path": "/lT09cBcZaplqpKHklKHVXPaZvfd.jpg",
+        "cast_id": 18,
+        "character": "Noel Misquitta",
+        "credit_id": "5c5fdce79251413389bf9a29",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1326935,
+        "known_for_department": "Acting",
+        "name": "Gopal Datt",
+        "original_name": "Gopal Datt",
+        "popularity": 0.9185,
+        "profile_path": "/mLDe71nU5RSWz4W8opg4jUBMa1r.jpg",
+        "cast_id": 19,
+        "character": "Pappu Mama",
+        "credit_id": "5c5fdcfd0e0a264d6f6ad7cb",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85034,
+        "known_for_department": "Acting",
+        "name": "Ranbir Kapoor",
+        "original_name": "रणबीर कपूर",
+        "popularity": 3.6214,
+        "profile_path": "/ymYNHV9luwgyrw17NXHqbOWTQkg.jpg",
+        "cast_id": 20,
+        "character": "Gattu (Special Appearance)",
+        "credit_id": "5c5fdd0c9251413389bf9a4e",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53677,
+        "known_for_department": "Production",
+        "name": "Ronnie Screwvala",
+        "original_name": "Ronnie Screwvala",
+        "popularity": 0.6028,
+        "profile_path": "/yBlADqlWOXWAgDOt3RnBb51JgOu.jpg",
+        "credit_id": "5a841f9dc3a36862e1009884",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86884,
+        "known_for_department": "Acting",
+        "name": "Anand Tiwari",
+        "original_name": "Anand Tiwari",
+        "popularity": 0.7221,
+        "profile_path": "/jkMnh7wv43V48fGrTRmnOH7u8oC.jpg",
+        "credit_id": "5a853925c3a368633901c73e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1890304,
+        "known_for_department": "Sound",
+        "name": "Sohail Sen",
+        "original_name": "Sohail Sen",
+        "popularity": 0.3953,
+        "profile_path": "/kwHaJz2iXpt1ocXoP4bQjwaJhh4.jpg",
+        "credit_id": "5c5fdd230e0a261deb6b9aa1",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86884,
+        "known_for_department": "Acting",
+        "name": "Anand Tiwari",
+        "original_name": "Anand Tiwari",
+        "popularity": 0.7221,
+        "profile_path": "/jkMnh7wv43V48fGrTRmnOH7u8oC.jpg",
+        "credit_id": "5c5fdd310e0a2627a76aba72",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1430638,
+        "known_for_department": "Acting",
+        "name": "Sumeet Vyas",
+        "original_name": "Sumeet Vyas",
+        "popularity": 1.0063,
+        "profile_path": "/qGwWWHQsMU4V9ZMZnqNxdnXpYo2.jpg",
+        "credit_id": "5c5fdd4dc3a3684d8d8d6ce7",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1348503,
+        "known_for_department": "Directing",
+        "name": "Avinash Arun",
+        "original_name": "Avinash Arun",
+        "popularity": 0.6279,
+        "profile_path": "/6TGQK6AQ6ufRB8xNWXkB8ZSXbQS.jpg",
+        "credit_id": "5c5fdd6b9251413254ba516a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1322648,
+        "known_for_department": "Editing",
+        "name": "Sanyukta Kaza",
+        "original_name": "Sanyukta Kaza",
+        "popularity": 0.4461,
+        "profile_path": "/4jZBYj70jIYX5fywbseJ6CwA7H9.jpg",
+        "credit_id": "5c5fdd76c3a3683ccf8f523c",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

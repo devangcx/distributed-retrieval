@@ -1,0 +1,410 @@
+{
+  "adult": false,
+  "backdrop_path": "/mE9TXKcVsnfDW1n7k8qrAQMwk1F.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 791469,
+  "imdb_id": "tt8110246",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dark Web: Cicada 3301",
+  "overview": "Genius hacker Connor discovers Cicada 3301, an online treasure hunt that could be a recruiting tool for a secret society. Soon Conner, art-expert friend Avi, and secretive librarian Gwen are dashing from graffiti sites to ancient libraries to uncover real-world clues. But they must outrun aggressive NSA agents, also hot on the trail of Cicada, who want the glory for themselves.",
+  "popularity": 3.1037,
+  "poster_path": "/tJlLfuvIBBn5aFoyW1IQWeFHl6v.jpg",
+  "production_companies": [
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-03-12",
+  "revenue": 0,
+  "runtime": 104,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A true hacker story that never happened.",
+  "title": "Dark Web: Cicada 3301",
+  "video": false,
+  "vote_average": 5.878,
+  "vote_count": 148,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1292258,
+        "known_for_department": "Acting",
+        "name": "Jack Kesy",
+        "original_name": "Jack Kesy",
+        "popularity": 1.3444,
+        "profile_path": "/lQ8nUYK6InbCFk2TWNnXjjvG9IY.jpg",
+        "cast_id": 14,
+        "character": "Connor Black",
+        "credit_id": "602a8620ab5e34003f9ec66a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1097941,
+        "known_for_department": "Acting",
+        "name": "Conor Leslie",
+        "original_name": "Conor Leslie",
+        "popularity": 1.4743,
+        "profile_path": "/bGqMWwdWTYsN0aIG5CaESpBnIm4.jpg",
+        "cast_id": 15,
+        "character": "Gwen",
+        "credit_id": "602a86316517d6003f637825",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1260038,
+        "known_for_department": "Acting",
+        "name": "Ron Funches",
+        "original_name": "Ron Funches",
+        "popularity": 1.4885,
+        "profile_path": "/DtULMxPvAlOKfrwISxdEffIKlk.jpg",
+        "cast_id": 16,
+        "character": "Avi",
+        "credit_id": "602a8643d6d64d003fc67f82",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64295,
+        "known_for_department": "Acting",
+        "name": "Alan Ritchson",
+        "original_name": "Alan Ritchson",
+        "popularity": 19.8691,
+        "profile_path": "/92YNEEpCyugkTzPprJwZpvVtvuK.jpg",
+        "cast_id": 17,
+        "character": "Agent Carver",
+        "credit_id": "602a8659e72fe8003b0efd79",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102852,
+        "known_for_department": "Acting",
+        "name": "Andreas Apergis",
+        "original_name": "Andreas Apergis",
+        "popularity": 1.4399,
+        "profile_path": "/yK6qWJ9KgEeJsGGK3Fu6ldR3HkD.jpg",
+        "cast_id": 23,
+        "character": "Agent Sullivan",
+        "credit_id": "65097bb042d8a57e9a9d79aa",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 557840,
+        "known_for_department": "Acting",
+        "name": "Kristen Holden-Ried",
+        "original_name": "Kristen Holden-Ried",
+        "popularity": 1.6216,
+        "profile_path": "/lphlznej10kVTFkPcSFYCigaZV9.jpg",
+        "cast_id": 18,
+        "character": "Phillip Dubois",
+        "credit_id": "602a866fdf857c003edba4e5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1711569,
+        "known_for_department": "Acting",
+        "name": "Jess Salgueiro",
+        "original_name": "Jess Salgueiro",
+        "popularity": 1.2037,
+        "profile_path": "/mZuNvunJDv0nR10NXjMPxuwzHOw.jpg",
+        "cast_id": 24,
+        "character": "Shauna",
+        "credit_id": "65097bfe373ac200c533b5dc",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 190961,
+        "known_for_department": "Acting",
+        "name": "Patrick Garrow",
+        "original_name": "Patrick Garrow",
+        "popularity": 3.1653,
+        "profile_path": "/gWu8E3zYnwBVa5zTZzQP3JO1uLI.jpg",
+        "cast_id": 21,
+        "character": "Connor's Dad",
+        "credit_id": "60c7827cdb154f0029f0e081",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2620963,
+        "known_for_department": "Sound",
+        "name": "Alisa Erlikh",
+        "original_name": "Alisa Erlikh",
+        "popularity": 0.3874,
+        "profile_path": "/vZiBmiMOBbrmwIowO9kypOEejhm.jpg",
+        "cast_id": 20,
+        "character": "Naked Woman Getting Head",
+        "credit_id": "6067e6b85507e90029af4ee1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3035505,
+        "known_for_department": "Acting",
+        "name": "Elyse Saunders",
+        "original_name": "Elyse Saunders",
+        "popularity": 0.2789,
+        "profile_path": "/dV9PijToNUHL1KkVC12P37Vi8Gd.jpg",
+        "cast_id": 19,
+        "character": "Sheer / Wet Bathtub Woman",
+        "credit_id": "6067e684699fb7006fc3d433",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3611441,
+        "known_for_department": "Acting",
+        "name": "Kian Barazandeh",
+        "original_name": "Kian Barazandeh",
+        "popularity": 0.2789,
+        "profile_path": "/320gIsfSKa0Ep1gDryjyD86SaZI.jpg",
+        "cast_id": 22,
+        "character": "David",
+        "credit_id": "62c2c71e22e4802ab5ae73e0",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1765914,
+        "known_for_department": "Acting",
+        "name": "Alyssa Cheatham",
+        "original_name": "Alyssa Cheatham",
+        "popularity": 0.8738,
+        "profile_path": "/dYkHFyUkxkSm1oYAV67xUhJjEaQ.jpg",
+        "cast_id": 25,
+        "character": "Sophia",
+        "credit_id": "6a6c371f5b2a907183d5d31a",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1675966,
+        "known_for_department": "Sound",
+        "name": "Sergey Stern",
+        "original_name": "Sergey Stern",
+        "popularity": 0.6155,
+        "profile_path": "/yZkXon6kMjevfEa1reHpRotslb9.jpg",
+        "credit_id": "601492bfd266a200400ccc73",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64295,
+        "known_for_department": "Acting",
+        "name": "Alan Ritchson",
+        "original_name": "Alan Ritchson",
+        "popularity": 19.8691,
+        "profile_path": "/92YNEEpCyugkTzPprJwZpvVtvuK.jpg",
+        "credit_id": "601490b70e597b003f3b82c0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2678,
+        "known_for_department": "Production",
+        "name": "Stephanie Gorin",
+        "original_name": "Stephanie Gorin",
+        "popularity": 0.8633,
+        "profile_path": null,
+        "credit_id": "601492dbbe2d490042fec7cd",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1419268,
+        "known_for_department": "Lighting",
+        "name": "Michael Galbraith",
+        "original_name": "Michael Galbraith",
+        "popularity": 0.6289,
+        "profile_path": null,
+        "credit_id": "6014924f3e09f3003f3fc00b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2957266,
+        "known_for_department": "Production",
+        "name": "Marc Bach",
+        "original_name": "Marc Bach",
+        "popularity": 0.2622,
+        "profile_path": null,
+        "credit_id": "60149295ed96bc0040f91cfe",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1424454,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Anne Dixon",
+        "original_name": "Anne Dixon",
+        "popularity": 0.4392,
+        "profile_path": "/4xKKr3bud9sJJ6Avzjc7xI8e1Ch.jpg",
+        "credit_id": "601492acc3c891003d42fb3f",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64295,
+        "known_for_department": "Acting",
+        "name": "Alan Ritchson",
+        "original_name": "Alan Ritchson",
+        "popularity": 19.8691,
+        "profile_path": "/92YNEEpCyugkTzPprJwZpvVtvuK.jpg",
+        "credit_id": "60149058d7cd06003e055f56",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2957261,
+        "known_for_department": "Writing",
+        "name": "Joshua Montcalm",
+        "original_name": "Joshua Montcalm",
+        "popularity": 0.4604,
+        "profile_path": null,
+        "credit_id": "6014907d99d5c3003f5b2c29",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64295,
+        "known_for_department": "Acting",
+        "name": "Alan Ritchson",
+        "original_name": "Alan Ritchson",
+        "popularity": 19.8691,
+        "profile_path": "/92YNEEpCyugkTzPprJwZpvVtvuK.jpg",
+        "credit_id": "601490675ad76b004071ffeb",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1669817,
+        "known_for_department": "Directing",
+        "name": "D.J. Viola",
+        "original_name": "D.J. Viola",
+        "popularity": 0.4348,
+        "profile_path": null,
+        "credit_id": "601490fc55b0c0003f760d17",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2020905,
+        "known_for_department": "Art",
+        "name": "Burns Burns",
+        "original_name": "Burns Burns",
+        "popularity": 0.5498,
+        "profile_path": "/tuLSRdwQh28elaPJx5xTQmqaHL1.jpg",
+        "credit_id": "60149270ed96bc003ff90f35",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2957266,
+        "known_for_department": "Production",
+        "name": "Marc Bach",
+        "original_name": "Marc Bach",
+        "popularity": 0.2622,
+        "profile_path": null,
+        "credit_id": "60149176d7cd06003c054902",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1868590,
+        "known_for_department": "Production",
+        "name": "Carl Beyer",
+        "original_name": "Carl Beyer",
+        "popularity": 0.5285,
+        "profile_path": null,
+        "credit_id": "60149150d266a2003d0dcdd4",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

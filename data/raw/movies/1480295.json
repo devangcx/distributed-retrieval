@@ -1,0 +1,410 @@
+{
+  "adult": false,
+  "backdrop_path": "/ekpdjcuVVU2LIFM3EyePYykYZ4b.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 1480295,
+  "imdb_id": "tt6105978",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Affinity",
+  "overview": "Chilean martial-arts star Marko Zaror is Bruno, an ex-SEAL struggling with PTSD. He lives a life in fear of his demons until one day when he discovers a beautiful woman with no past of her own. Together they begin to build a life, but when she disappears, Bruno must return to his violent past if he’s going to save her from a shocking conspiracy.",
+  "popularity": 4.4884,
+  "poster_path": "/WKwQOPh2mQPRL12jSu2yFHk4A7.jpg",
+  "production_companies": [
+    {
+      "id": 262174,
+      "logo_path": null,
+      "name": "Zaror Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 262175,
+      "logo_path": "/aCXm9ekIrqXsMU2H783yzTpcrfy.png",
+      "name": "Los Lobos Records",
+      "origin_country": "CL"
+    },
+    {
+      "id": 262176,
+      "logo_path": "/qM1mEOXoGPTCa7kk87LUenay04e.png",
+      "name": "Atomik Content",
+      "origin_country": "US"
+    },
+    {
+      "id": 272649,
+      "logo_path": null,
+      "name": "D3 Telefilm",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    },
+    {
+      "iso_3166_1": "TH",
+      "name": "Thailand"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-11-27",
+  "revenue": 0,
+  "runtime": 81,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Ex-SEAL. Elite team. One impossible truth.",
+  "title": "Affinity",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 35,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118370,
+        "known_for_department": "Acting",
+        "name": "Marko Zaror",
+        "original_name": "Marko Zaror",
+        "popularity": 1.5891,
+        "profile_path": "/rQ8XFdLmnfXs5x8FsttdOUrFLWa.jpg",
+        "cast_id": 1,
+        "character": "Bruno",
+        "credit_id": "6822dbe6f63211b6986ee7f4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1831281,
+        "known_for_department": "Acting",
+        "name": "Brooke Ence",
+        "original_name": "Brooke Ence",
+        "popularity": 0.7712,
+        "profile_path": "/1xm90B63kg6q3dYVIiRjl56OPhH.jpg",
+        "cast_id": 3,
+        "character": "Fitch",
+        "credit_id": "6822dc0520415f9e284b4995",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5657262,
+        "known_for_department": "Acting",
+        "name": "Jane Mirro",
+        "original_name": "Jane Mirro",
+        "popularity": 1.2247,
+        "profile_path": "/hmc1lUaTV3CsIqfcAmFhHKvkPHu.jpg",
+        "cast_id": 20,
+        "character": "Athena",
+        "credit_id": "68b180c9f34fd9cd7654d68a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54649,
+        "known_for_department": "Acting",
+        "name": "Louis Mandylor",
+        "original_name": "Louis Mandylor",
+        "popularity": 2.2597,
+        "profile_path": "/skvNBR83wxjbFj6XuLxWAhCZTmh.jpg",
+        "cast_id": 2,
+        "character": "Joe",
+        "credit_id": "6822dbf32ea4c1497b7396a0",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 234990,
+        "known_for_department": "Acting",
+        "name": "Brahim Achabbakhe",
+        "original_name": "Brahim Achabbakhe",
+        "popularity": 0.9519,
+        "profile_path": "/vmvgvldLCBOPASWJbrWcEcvDrAZ.jpg",
+        "cast_id": 4,
+        "character": "Krieger",
+        "credit_id": "6822dc15ce81a3a9f16ee8b1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2675970,
+        "known_for_department": "Crew",
+        "name": "Andrey Kasushkin",
+        "original_name": "Andrey Kasushkin",
+        "popularity": 0.4952,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Man in Black",
+        "credit_id": "6822dc28c94058087d4b4a99",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1809216,
+        "known_for_department": "Acting",
+        "name": "Ego Mikitas",
+        "original_name": "Ego Mikitas",
+        "popularity": 0.8472,
+        "profile_path": "/6bpMVYgZVbrpWiEFn2jNwaYQWv4.jpg",
+        "cast_id": 6,
+        "character": "Dr. Kovalovski",
+        "credit_id": "6822dc3f53f6015367ad96e0",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3911984,
+        "known_for_department": "Acting",
+        "name": "Tofan Pirani",
+        "original_name": "Tofan Pirani",
+        "popularity": 0.6941,
+        "profile_path": "/izDUH8YihvwclQJuRf7OtE6BHAe.jpg",
+        "cast_id": 7,
+        "character": "Zeke",
+        "credit_id": "6822dc5320331e815dad972d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4164422,
+        "known_for_department": "Acting",
+        "name": "Elliott Allison",
+        "original_name": "Elliott Allison",
+        "popularity": 0.6935,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Hugo",
+        "credit_id": "6822dc63b90c27d095ad981a",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99096,
+        "known_for_department": "Acting",
+        "name": "Brandon Slagle",
+        "original_name": "Brandon Slagle",
+        "popularity": 0.7234,
+        "profile_path": "/v9c5nOLG05bXqQ4sOfSBLIcEWJb.jpg",
+        "credit_id": "6822dc75b5cdf0122d86457c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 118378,
+        "known_for_department": "Crew",
+        "name": "Gina Aguad",
+        "original_name": "Gina Aguad",
+        "popularity": 0.47,
+        "profile_path": null,
+        "credit_id": "6822dc89513e6f7b138644da",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5435099,
+        "known_for_department": "Writing",
+        "name": "Liam O'Neil",
+        "original_name": "Liam O'Neil",
+        "popularity": 0.2788,
+        "profile_path": null,
+        "credit_id": "6822dc9eaa0a2c16244b49bf",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118370,
+        "known_for_department": "Acting",
+        "name": "Marko Zaror",
+        "original_name": "Marko Zaror",
+        "popularity": 1.5891,
+        "profile_path": "/rQ8XFdLmnfXs5x8FsttdOUrFLWa.jpg",
+        "credit_id": "6822dca7f2fba6e6698644ff",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118370,
+        "known_for_department": "Acting",
+        "name": "Marko Zaror",
+        "original_name": "Marko Zaror",
+        "popularity": 1.5891,
+        "profile_path": "/rQ8XFdLmnfXs5x8FsttdOUrFLWa.jpg",
+        "credit_id": "6822dcb0aa0a2c16244b49c2",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92062,
+        "known_for_department": "Directing",
+        "name": "Daniel Zirilli",
+        "original_name": "Daniel Zirilli",
+        "popularity": 0.6672,
+        "profile_path": null,
+        "credit_id": "6822dcbd0f32b64995ad985b",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2792347,
+        "known_for_department": "Production",
+        "name": "Adam Pray",
+        "original_name": "Adam Pray",
+        "popularity": 0.5279,
+        "profile_path": null,
+        "credit_id": "6822dceb25d55bee4b5a2f58",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92062,
+        "known_for_department": "Directing",
+        "name": "Daniel Zirilli",
+        "original_name": "Daniel Zirilli",
+        "popularity": 0.6672,
+        "profile_path": null,
+        "credit_id": "6822dcf8aeac0742467e7ffb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118370,
+        "known_for_department": "Acting",
+        "name": "Marko Zaror",
+        "original_name": "Marko Zaror",
+        "popularity": 1.5891,
+        "profile_path": "/rQ8XFdLmnfXs5x8FsttdOUrFLWa.jpg",
+        "credit_id": "6822dd0147398221d58645b4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2438759,
+        "known_for_department": "Production",
+        "name": "Adel 'Future' Nur",
+        "original_name": "Adel 'Future' Nur",
+        "popularity": 0.7796,
+        "profile_path": null,
+        "credit_id": "6822dd11b3ef0ec9808644aa",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1805075,
+        "known_for_department": "Camera",
+        "name": "Joshua Dixon",
+        "original_name": "Joshua Dixon",
+        "popularity": 0.4157,
+        "profile_path": null,
+        "credit_id": "6822dd20d332be6464a165de",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3643022,
+        "known_for_department": "Camera",
+        "name": "Niccolo De La Fere",
+        "original_name": "Niccolo De La Fere",
+        "popularity": 0.4673,
+        "profile_path": "/2ePjVnpucxxd2fBOKkF7fh8fkUc.jpg",
+        "credit_id": "696611c35935ffb27aa43019",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1776149,
+        "known_for_department": "Sound",
+        "name": "Rocco",
+        "original_name": "Rocco",
+        "popularity": 0.3086,
+        "profile_path": null,
+        "credit_id": "696611d6d0c2606d9636dd36",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1776149,
+        "known_for_department": "Sound",
+        "name": "Rocco",
+        "original_name": "Rocco",
+        "popularity": 0.3086,
+        "profile_path": null,
+        "credit_id": "696611ebd2390e9d73cc96cb",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

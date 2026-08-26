@@ -1,0 +1,363 @@
+{
+  "adult": false,
+  "backdrop_path": "/8ePOLTgxGWzazd3PsdoxomuWIyi.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 141603,
+  "imdb_id": "tt0497915",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Gunda",
+  "overview": "Shankar, a coolie, comes in the way of the bad guys, Bulla and his cronies. They kill his father and sister. Shankar vows revenge and eliminates all of them in bizarre and gruesome fashion.",
+  "popularity": 0.9336,
+  "poster_path": "/ujuHUEzrf0kb0JUIloKjtgKfILY.jpg",
+  "production_companies": [
+    {
+      "id": 195920,
+      "logo_path": null,
+      "name": "Maruti Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "1998-09-04",
+  "revenue": 0,
+  "runtime": 129,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Gunda",
+  "video": false,
+  "vote_average": 5.792,
+  "vote_count": 24,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85450,
+        "known_for_department": "Acting",
+        "name": "Mithun Chakraborty",
+        "original_name": "Mithun Chakraborty",
+        "popularity": 1.9516,
+        "profile_path": "/4z8c5YAe0TCkEZNHXWlKxNTD8sV.jpg",
+        "cast_id": 3,
+        "character": "Shankar",
+        "credit_id": "52fe4abb9251416c750ec1bd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1115095,
+        "known_for_department": "Acting",
+        "name": "Verna Raj",
+        "original_name": "Verna Raj",
+        "popularity": 0.4503,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Ganga",
+        "credit_id": "52fe4abb9251416c750ec1c1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86245,
+        "known_for_department": "Acting",
+        "name": "Ishrat Ali",
+        "original_name": "Ishrat Ali",
+        "popularity": 0.9212,
+        "profile_path": "/tP8pNnCwpqQOWSoJ3RDQF0RUQlQ.jpg",
+        "cast_id": 5,
+        "character": "Lamboo Aata",
+        "credit_id": "52fe4abb9251416c750ec1c5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140665,
+        "known_for_department": "Acting",
+        "name": "Rana Jung Bahadur",
+        "original_name": "Rana Jung Bahadur",
+        "popularity": 0.9518,
+        "profile_path": "/iPFWEziPiwwXROEUa4b5asCrXhj.jpg",
+        "cast_id": 6,
+        "character": "Inspector Kale",
+        "credit_id": "52fe4abb9251416c750ec1c9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1115096,
+        "known_for_department": "Acting",
+        "name": "Bajrangi",
+        "original_name": "Bajrangi",
+        "popularity": 0.2948,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Naatey",
+        "credit_id": "52fe4abb9251416c750ec1cd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105442,
+        "known_for_department": "Acting",
+        "name": "Mohan Joshi",
+        "original_name": "Mohan Joshi",
+        "popularity": 1.0075,
+        "profile_path": "/hTZ61kTsGlxGebxjWmFDWmkgnjq.jpg",
+        "cast_id": 8,
+        "character": "Pote",
+        "credit_id": "52fe4abb9251416c750ec1d1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86017,
+        "known_for_department": "Acting",
+        "name": "Shakti Kapoor",
+        "original_name": "Shakti Kapoor",
+        "popularity": 1.1466,
+        "profile_path": "/8bkl6B8i8cgW5xVjCoHQkxEqqke.jpg",
+        "cast_id": 9,
+        "character": "Chutiya",
+        "credit_id": "52fe4abb9251416c750ec1d5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86054,
+        "known_for_department": "Acting",
+        "name": "Razak Khan",
+        "original_name": "Razak Khan",
+        "popularity": 0.6595,
+        "profile_path": "/cyfZyIApQK0eOrOeoyTgAl0U3EQ.jpg",
+        "cast_id": 10,
+        "character": "Lucky Chickna",
+        "credit_id": "52fe4abb9251416c750ec1d9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1106927,
+        "known_for_department": "Acting",
+        "name": "Arun Mathur",
+        "original_name": "Arun Mathur",
+        "popularity": 0.359,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "52fe4abb9251416c750ec1dd",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53362,
+        "known_for_department": "Acting",
+        "name": "Harish Patel",
+        "original_name": "Harish Patel",
+        "popularity": 0.8038,
+        "profile_path": "/g2aHA5J5ODMcBgIwCa72ykcmN85.jpg",
+        "cast_id": 12,
+        "character": "Ibu Hatela",
+        "credit_id": "52fe4abb9251416c750ec1e1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1115097,
+        "known_for_department": "Acting",
+        "name": "Gulshan Rana",
+        "original_name": "Gulshan Rana",
+        "popularity": 0.265,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Gulshan",
+        "credit_id": "52fe4abb9251416c750ec1e5",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1039607,
+        "known_for_department": "Acting",
+        "name": "Rami Reddy",
+        "original_name": "Rami Reddy",
+        "popularity": 0.8836,
+        "profile_path": "/nZsxImJ2EBtLzmvCuymoXyuvevh.jpg",
+        "cast_id": 14,
+        "character": "Kala Shetty",
+        "credit_id": "52fe4abb9251416c750ec1e9",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585404,
+        "known_for_department": "Acting",
+        "name": "Mukesh Rishi",
+        "original_name": "Mukesh Rishi",
+        "popularity": 1.3661,
+        "profile_path": "/iNLleMqHTHrbAlVRCFyye4NZxxb.jpg",
+        "cast_id": 15,
+        "character": "Bulla",
+        "credit_id": "52fe4abb9251416c750ec1ed",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1115098,
+        "known_for_department": "Acting",
+        "name": "Sapna Sappu",
+        "original_name": "Sapna Sappu",
+        "popularity": 1.0161,
+        "profile_path": "/psawayNgKz5XHJHoprKklQgl0dV.jpg",
+        "cast_id": 16,
+        "character": "Geeta",
+        "credit_id": "52fe4abb9251416c750ec1f1",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105443,
+        "known_for_department": "Acting",
+        "name": "Deepak Shirke",
+        "original_name": "Deepak Shirke",
+        "popularity": 0.8174,
+        "profile_path": "/eiPMYKXPjWEhOVzQ0KyNiEDkAes.jpg",
+        "cast_id": 17,
+        "character": "Politician Bachubhai Bhigona",
+        "credit_id": "52fe4abb9251416c750ec1f5",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1115099,
+        "known_for_department": "Acting",
+        "name": "Vinod Tripathi",
+        "original_name": "Vinod Tripathi",
+        "popularity": 0.4241,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Kundan",
+        "credit_id": "52fe4abb9251416c750ec1f9",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1115100,
+        "known_for_department": "Acting",
+        "name": "Babbanlal Yadav",
+        "original_name": "Babbanlal Yadav",
+        "popularity": 0.4207,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "52fe4abb9251416c750ec1fd",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1115093,
+        "known_for_department": "Directing",
+        "name": "Kanti Shah",
+        "original_name": "Kanti Shah",
+        "popularity": 0.6601,
+        "profile_path": null,
+        "credit_id": "52fe4abb9251416c750ec1b3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1115094,
+        "known_for_department": "Writing",
+        "name": "Bashir Babar",
+        "original_name": "Bashir Babar",
+        "popularity": 0.4525,
+        "profile_path": null,
+        "credit_id": "52fe4abb9251416c750ec1b9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1039576,
+        "known_for_department": "Sound",
+        "name": "Anand Raj Anand",
+        "original_name": "Anand Raj Anand",
+        "popularity": 0.5517,
+        "profile_path": null,
+        "credit_id": "659933e07d550402030ac0db",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2421831,
+        "known_for_department": "Camera",
+        "name": "Anil Singh",
+        "original_name": "Anil Singh",
+        "popularity": 0.2068,
+        "profile_path": null,
+        "credit_id": "659933cbbd588b02045746d5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1556296,
+        "known_for_department": "Directing",
+        "name": "Salim Suma",
+        "original_name": "Salim Suma",
+        "popularity": 0.3818,
+        "profile_path": null,
+        "credit_id": "659933d66e938a00931b3f26",
+        "department": "Crew",
+        "job": "Cinematography"
+      }
+    ]
+  }
+}

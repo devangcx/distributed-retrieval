@@ -1,0 +1,473 @@
+{
+  "adult": false,
+  "backdrop_path": "/7SkhcQYU8mxGGCbmRbqOf6UFIuE.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "https://www.mylifetime.com/movies/the-girl-who-escaped-the-kara-robinson-story",
+  "id": 1075334,
+  "imdb_id": "tt25602750",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Girl Who Escaped: The Kara Robinson Story",
+  "overview": "Based on a true story. 15-year-old Kara Robinson was kidnapped, assaulted and held captive for 18 hours. With her survival instincts kicking in, she plots a daring escape from the serial killer and leads police to his apartment.",
+  "popularity": 4.2805,
+  "poster_path": "/o9hwOE1FeOelkNxfsGtTNrlWnyq.jpg",
+  "production_companies": [
+    {
+      "id": 97269,
+      "logo_path": "/1h23XkBgPCTpFHd3MZNWyQsspQs.png",
+      "name": "Marwar Junction Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 34994,
+      "logo_path": "/fr0hEjEX7w4vPmDNxKGEjfGPEaH.png",
+      "name": "Julijette",
+      "origin_country": "CA"
+    },
+    {
+      "id": 3431,
+      "logo_path": "/bVTF0p5xlPfQhQIuBLr9BFtrKip.png",
+      "name": "Lifetime",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2023-02-11",
+  "revenue": 0,
+  "runtime": 88,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Girl Who Escaped: The Kara Robinson Story",
+  "video": false,
+  "vote_average": 7.146,
+  "vote_count": 126,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1183993,
+        "known_for_department": "Acting",
+        "name": "Katie Douglas",
+        "original_name": "Katie Douglas",
+        "popularity": 2.6379,
+        "profile_path": "/giqda0ElyLYLIOT7q5h9TsfJPAa.jpg",
+        "cast_id": 9,
+        "character": "Kara Robinson",
+        "credit_id": "63c6c33e66ae4d00935290f7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20047,
+        "known_for_department": "Acting",
+        "name": "Cara Buono",
+        "original_name": "Cara Buono",
+        "popularity": 3.3166,
+        "profile_path": "/QQv5pitEXvrGR4sgECvNDLwhTG.jpg",
+        "cast_id": 10,
+        "character": "Debra",
+        "credit_id": "63c6c347ea394900e2f2d95d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1309774,
+        "known_for_department": "Acting",
+        "name": "Kristian Bruun",
+        "original_name": "Kristian Bruun",
+        "popularity": 1.1883,
+        "profile_path": "/m2yXWJAQEWYPF5Q7DHqJtj3r9mc.jpg",
+        "cast_id": 11,
+        "character": "Richard Evonitz",
+        "credit_id": "63c6c34f66ae4d0085cb7af0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1303813,
+        "known_for_department": "Acting",
+        "name": "Erik Athavale",
+        "original_name": "Erik Athavale",
+        "popularity": 1.1438,
+        "profile_path": "/v5J8qSMldAixR3PcUoQmbAPlOOM.jpg",
+        "cast_id": 12,
+        "character": "Lt. Aaron Rowland",
+        "credit_id": "63c6c35660b58d008b7e96b1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1499329,
+        "known_for_department": "Acting",
+        "name": "Lisa Marie DiGiacinto",
+        "original_name": "Lisa Marie DiGiacinto",
+        "popularity": 0.6758,
+        "profile_path": "/7Xv2w8F0Z37eM4CMHZycVXVsH5e.jpg",
+        "cast_id": 13,
+        "character": "Sgt. Bonnie Jennings",
+        "credit_id": "63c6c360871b3400851cca47",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3478056,
+        "known_for_department": "Acting",
+        "name": "Sophia Carriere",
+        "original_name": "Sophia Carriere",
+        "popularity": 1.198,
+        "profile_path": "/ng7Juz5PFDWcqlMxuw5hYPVOv7M.jpg",
+        "cast_id": 14,
+        "character": "Jess",
+        "credit_id": "63c6c395c51acd00916c768e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3800854,
+        "known_for_department": "Acting",
+        "name": "Brandon McEwan",
+        "original_name": "Brandon McEwan",
+        "popularity": 1.0,
+        "profile_path": "/is6xbjlH14ritEVgiogRrcP27WI.jpg",
+        "cast_id": 15,
+        "character": "Ryan",
+        "credit_id": "63c6c39f60b58d0083a1d2ae",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2867963,
+        "known_for_department": "Acting",
+        "name": "Derek Kun",
+        "original_name": "Derek Kun",
+        "popularity": 0.6035,
+        "profile_path": "/977how8emS0z7d902iFmvONSKDU.jpg",
+        "cast_id": 16,
+        "character": "Lexington County Officer",
+        "credit_id": "63c6c3a866ae4d00c19f9619",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4115072,
+        "known_for_department": "Art",
+        "name": "Fritzi Adelman",
+        "original_name": "Fritzi Adelman",
+        "popularity": 0.2856,
+        "profile_path": null,
+        "credit_id": "653b2a3dbc2cb3010b49d825",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3283708,
+        "known_for_department": "Camera",
+        "name": "Greg Nicod",
+        "original_name": "Greg Nicod",
+        "popularity": 0.3544,
+        "profile_path": null,
+        "credit_id": "653b2a2d5907de00fe1dac2e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2997334,
+        "known_for_department": "Art",
+        "name": "Jesse Peterson",
+        "original_name": "Jesse Peterson",
+        "popularity": 0.4143,
+        "profile_path": null,
+        "credit_id": "653b2a1e564ec700c8aacafd",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3595076,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ellie Semchyshyn",
+        "original_name": "Ellie Semchyshyn",
+        "popularity": 0.2207,
+        "profile_path": null,
+        "credit_id": "653b2a4e5907de00fe1dac47",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1878883,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Dawn Grey",
+        "original_name": "Dawn Grey",
+        "popularity": 0.3164,
+        "profile_path": null,
+        "credit_id": "653b2a39564ec700e5f9e6fc",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2141123,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Roberta Gale",
+        "original_name": "Roberta Gale",
+        "popularity": 0.4204,
+        "profile_path": null,
+        "credit_id": "653b2a49519bbb00e18b731f",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4332976,
+        "known_for_department": "Sound",
+        "name": "Chris Ugbalo",
+        "original_name": "Chris Ugbalo",
+        "popularity": 0.3106,
+        "profile_path": null,
+        "credit_id": "653b2a67bc2cb3010b49d845",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 59588,
+        "known_for_department": "Art",
+        "name": "Taavo Soodor",
+        "original_name": "Taavo Soodor",
+        "popularity": 0.322,
+        "profile_path": "/i7yxOU4PllGxkyCYZlUeoUjG2Mc.jpg",
+        "credit_id": "653b2a23e894a600e2cce4ea",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1981052,
+        "known_for_department": "Directing",
+        "name": "Mark D. Currie",
+        "original_name": "Mark D. Currie",
+        "popularity": 0.4156,
+        "profile_path": null,
+        "credit_id": "653b29b9519bbb00e18b72aa",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2222268,
+        "known_for_department": "Camera",
+        "name": "Calvin Wood",
+        "original_name": "Calvin Wood",
+        "popularity": 0.275,
+        "profile_path": null,
+        "credit_id": "653b2a72564ec700afe57206",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 144599,
+        "known_for_department": "Production",
+        "name": "Howard Braunstein",
+        "original_name": "Howard Braunstein",
+        "popularity": 0.8186,
+        "profile_path": "/5xRaHTQW06OMZ2L4Qk2Mb5om3sz.jpg",
+        "credit_id": "63c6b6c5c51acd00916c7135",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3015705,
+        "known_for_department": "Directing",
+        "name": "Simone Stock",
+        "original_name": "Simone Stock",
+        "popularity": 0.5733,
+        "profile_path": null,
+        "credit_id": "63c6b677ea394900a0e0938e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1807683,
+        "known_for_department": "Writing",
+        "name": "Haley Harris",
+        "original_name": "Haley Harris",
+        "popularity": 0.5391,
+        "profile_path": null,
+        "credit_id": "63c6b67f903c52007af729ce",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2287327,
+        "known_for_department": "Production",
+        "name": "Allison Berkley",
+        "original_name": "Allison Berkley",
+        "popularity": 0.2699,
+        "profile_path": "/y6fBkSMikkmLmAStcBBj8FwWLs5.jpg",
+        "credit_id": "63c6b6bd871b3400c16bfb2a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1907352,
+        "known_for_department": "Acting",
+        "name": "Elizabeth Smart",
+        "original_name": "Elizabeth Smart",
+        "popularity": 0.7334,
+        "profile_path": "/3YcCbtqFrLqHaOGnT7R7BGAb8Rw.jpg",
+        "credit_id": "63c6b90b60b58d00c6db6351",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1026248,
+        "known_for_department": "Production",
+        "name": "Juliette Hagopian",
+        "original_name": "Juliette Hagopian",
+        "popularity": 0.3877,
+        "profile_path": null,
+        "credit_id": "63c6b8fcea394900e2f2d4f8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1228638,
+        "known_for_department": "Production",
+        "name": "Joseph Freed",
+        "original_name": "Joseph Freed",
+        "popularity": 0.3956,
+        "profile_path": "/k2O2GqBO1eyMdiO0xICXlwOSgiu.jpg",
+        "credit_id": "63c6b6cf903c5200daf9638a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1409537,
+        "known_for_department": "Editing",
+        "name": "John Gurdebeke",
+        "original_name": "John Gurdebeke",
+        "popularity": 0.4124,
+        "profile_path": null,
+        "credit_id": "63c6b912903c5200daf964a5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6037505,
+        "known_for_department": "Art",
+        "name": "Paige Croucher",
+        "original_name": "Paige Croucher",
+        "popularity": 0.4058,
+        "profile_path": null,
+        "credit_id": "69a2387887593a7d90cccb27",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1371131,
+        "known_for_department": "Sound",
+        "name": "Kevon Cronin",
+        "original_name": "Kevon Cronin",
+        "popularity": 0.4573,
+        "profile_path": null,
+        "credit_id": "69ed9b96f11ceeb7376b1cab",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 75814,
+        "known_for_department": "Crew",
+        "name": "Sean Skene",
+        "original_name": "Sean Skene",
+        "popularity": 1.0125,
+        "profile_path": "/nCpq5xa35rZaqrogZ3kUyMEjsj5.jpg",
+        "credit_id": "69ed9ba52de4e67aeb28d8c6",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      }
+    ]
+  }
+}

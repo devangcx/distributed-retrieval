@@ -1,0 +1,164 @@
+{
+  "adult": false,
+  "backdrop_path": "/kqbX7oWncMiHxrNUJdNQuuMM0ib.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 431562,
+  "imdb_id": "tt6110430",
+  "origin_country": [
+    "DK",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "LEGO Frozen Northern Lights",
+  "overview": "Elsa, Anna and friends search for the Northern Lights.",
+  "popularity": 2.647,
+  "poster_path": "/jlk5MeGlNSiy773SWot9dGAQ2as.jpg",
+  "production_companies": [
+    {
+      "id": 4081,
+      "logo_path": "/9Q0SyrhQD61wWbz5KJOkL6tu2mg.png",
+      "name": "The LEGO Group",
+      "origin_country": "DK"
+    },
+    {
+      "id": 3475,
+      "logo_path": "/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png",
+      "name": "Disney Television Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 210149,
+      "logo_path": null,
+      "name": "M2 Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "release_date": "2017-01-05",
+  "revenue": 0,
+  "runtime": 22,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "LEGO Frozen Northern Lights",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 100,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 40462,
+        "known_for_department": "Acting",
+        "name": "Kristen Bell",
+        "original_name": "Kristen Bell",
+        "popularity": 5.222,
+        "profile_path": "/rP74dJXl7EjinGM0shQtUOlH5s2.jpg",
+        "cast_id": 0,
+        "character": "Anna (voice)",
+        "credit_id": "585e573492514115ca00bb2d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1727188,
+        "known_for_department": "Acting",
+        "name": "Ashlyn Faith Williams",
+        "original_name": "Ashlyn Faith Williams",
+        "popularity": 0.4932,
+        "profile_path": "/rR8w62ZmFFHW4Au99KXeKaBh1St.jpg",
+        "cast_id": 1,
+        "character": "Girl Troll (voice)",
+        "credit_id": "585e575392514115cf00bd99",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54415,
+        "known_for_department": "Acting",
+        "name": "Josh Gad",
+        "original_name": "Josh Gad",
+        "popularity": 2.9897,
+        "profile_path": "/17iKlfWZBDTAucqjkhRKHr9xjIz.jpg",
+        "cast_id": 2,
+        "character": "Olaf (voice)",
+        "credit_id": "585e576092514115c000ba7d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 221611,
+        "known_for_department": "Acting",
+        "name": "Jonathan Groff",
+        "original_name": "Jonathan Groff",
+        "popularity": 2.1776,
+        "profile_path": "/3kmnYKAzSc3Lp7iK5pcj97Hx9Cm.jpg",
+        "cast_id": 3,
+        "character": "Kristoff (voice)",
+        "credit_id": "585e577192514115c400c3c9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19394,
+        "known_for_department": "Acting",
+        "name": "Idina Menzel",
+        "original_name": "Idina Menzel",
+        "popularity": 2.7948,
+        "profile_path": "/eGsyJmAZNV5tUU4RYy2DIRlFVpW.jpg",
+        "cast_id": 4,
+        "character": "Elsa (voice)",
+        "credit_id": "585e577fc3a3681a7200cc13",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15831,
+        "known_for_department": "Acting",
+        "name": "Frank Welker",
+        "original_name": "Frank Welker",
+        "popularity": 3.2633,
+        "profile_path": "/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg",
+        "cast_id": 5,
+        "character": "Sven (voice)",
+        "credit_id": "585e578e92514115c000bab0",
+        "order": 5
+      }
+    ],
+    "crew": []
+  }
+}

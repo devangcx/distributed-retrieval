@@ -1,0 +1,256 @@
+{
+  "adult": false,
+  "backdrop_path": "/bm8wJoFJ5a9MYAbCwgQLMVAbo07.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.gennadiyfilm.com/",
+  "id": 333097,
+  "imdb_id": "tt3080844",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Almost Holy",
+  "overview": "After the collapse of the Soviet Union, Ukraine's social and political institutions faced massive change, including an increasingly corrupt government and crippled infrastructure. A number of the nation's youth wound up homeless and addicted to a lethal cocktail of injected cold medicine and alcohol. In the early 2000s a pastor from Mariupol named Gennadiy Mokhnenko took up the fight against child homelessness by forcibly abducting street kids and bringing them to his Pilgrim Republic rehabilitation center—the largest organization of its kind in the former Soviet Union. Gennadiy's ongoing efforts and unabashedly tough love approach to his city's problems has made him a folk hero for some, and a lawless vigilante to others. Despite criticism, Gennadiy is determined to continue his work.",
+  "popularity": 2.7484,
+  "poster_path": "/qMaKRyGfECjC8LRqIarqYPEuCQ6.jpg",
+  "production_companies": [
+    {
+      "id": 138347,
+      "logo_path": null,
+      "name": "Animal",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "UA",
+      "name": "Ukraine"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2015-04-16",
+  "revenue": 23957,
+  "runtime": 96,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Ukrainian",
+      "iso_639_1": "uk",
+      "name": "Український"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Almost Holy",
+  "video": false,
+  "vote_average": 6.981,
+  "vote_count": 26,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3051163,
+        "known_for_department": "Acting",
+        "name": "Gennadiy Mokhnenko",
+        "original_name": "Gennadiy Mokhnenko",
+        "popularity": 0.3827,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "60761057d8f44e00417625dd",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1136919,
+        "known_for_department": "Directing",
+        "name": "Steve Hoover",
+        "original_name": "Steve Hoover",
+        "popularity": 0.5101,
+        "profile_path": "/7KgVdhatXlf0IkwZxbxP8b36lhp.jpg",
+        "credit_id": "60760f2e19ab5900297bf967",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3051156,
+        "known_for_department": "Production",
+        "name": "Kathy Dziubek",
+        "original_name": "Kathy Dziubek",
+        "popularity": 0.4382,
+        "profile_path": null,
+        "credit_id": "60760f418ddc340057d0d3aa",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3051160,
+        "known_for_department": "Production",
+        "name": "Jim Kreitzburg",
+        "original_name": "Jim Kreitzburg",
+        "popularity": 0.3098,
+        "profile_path": null,
+        "credit_id": "60760f743f483300297303db",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2602737,
+        "known_for_department": "Directing",
+        "name": "Michael Killen",
+        "original_name": "Michael Killen",
+        "popularity": 0.2789,
+        "profile_path": null,
+        "credit_id": "60760f651b1f3c0057b5702b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1089521,
+        "known_for_department": "Production",
+        "name": "Nicolas Gonda",
+        "original_name": "Nicolas Gonda",
+        "popularity": 0.5087,
+        "profile_path": null,
+        "credit_id": "60760f543f483300408bbab1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1618189,
+        "known_for_department": "Production",
+        "name": "Danny Yourd",
+        "original_name": "Danny Yourd",
+        "popularity": 0.3858,
+        "profile_path": null,
+        "credit_id": "60760f8218864b007b9332fd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1136919,
+        "known_for_department": "Directing",
+        "name": "Steve Hoover",
+        "original_name": "Steve Hoover",
+        "popularity": 0.5101,
+        "profile_path": "/7KgVdhatXlf0IkwZxbxP8b36lhp.jpg",
+        "credit_id": "60760fa618864b007b933330",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1136919,
+        "known_for_department": "Directing",
+        "name": "Steve Hoover",
+        "original_name": "Steve Hoover",
+        "popularity": 0.5101,
+        "profile_path": "/7KgVdhatXlf0IkwZxbxP8b36lhp.jpg",
+        "credit_id": "565e21e49251416da7003631",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30715,
+        "known_for_department": "Directing",
+        "name": "Terrence Malick",
+        "original_name": "Terrence Malick",
+        "popularity": 2.3523,
+        "profile_path": "/6FSi5aeyCNxJp96gxOmX7R4hCFu.jpg",
+        "credit_id": "5757fa73c3a368159400016c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 142391,
+        "known_for_department": "Sound",
+        "name": "Atticus Ross",
+        "original_name": "Atticus Ross",
+        "popularity": 0.9753,
+        "profile_path": "/q9FkywKCRqe3pNnhTApHYfnwMiC.jpg",
+        "credit_id": "64acf1c366a0d300ade9918d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 968471,
+        "known_for_department": "Sound",
+        "name": "Leopold Ross",
+        "original_name": "Leopold Ross",
+        "popularity": 0.4941,
+        "profile_path": "/1RkgxbxmI9AyvfNsba3UJED73lW.jpg",
+        "credit_id": "5d1010f1c3a3682f682473c4",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1580941,
+        "known_for_department": "Sound",
+        "name": "Bobby Krlic",
+        "original_name": "Bobby Krlic",
+        "popularity": 0.5146,
+        "profile_path": "/edyQ97jkTRbWBARUaB31ghl4mMT.jpg",
+        "credit_id": "5d101104c3a36809b21e590e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1543452,
+        "known_for_department": "Camera",
+        "name": "John Pope",
+        "original_name": "John Pope",
+        "popularity": 0.5679,
+        "profile_path": null,
+        "credit_id": "60271aad00508a004060e7d2",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

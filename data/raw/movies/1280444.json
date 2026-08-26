@@ -1,0 +1,453 @@
+{
+  "adult": false,
+  "backdrop_path": "/hltwDG1SWl1BqjORA619hIJb4Ui.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.decalreleasing.com/films/the-occupant",
+  "id": 1280444,
+  "imdb_id": "tt7230422",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Occupant",
+  "overview": "Desperate to save her sister, Abby takes a dangerous job in the remote Georgian wilderness. Stranded in the mountains after her helicopter crashes, she finds hope through John, a mysterious helper radioing from nearby. As he guides her through the harsh conditions, Abby struggles to survive, and her grip on reality falters until she is faced with an impossible choice.",
+  "popularity": 3.8535,
+  "poster_path": "/hIhJcFP7QhL85ag401W2eJw9ukL.jpg",
+  "production_companies": [
+    {
+      "id": 46421,
+      "logo_path": "/rajjM3rDu86FKIGDLQUGy1H41Ym.png",
+      "name": "Revolver Amsterdam",
+      "origin_country": "NL"
+    },
+    {
+      "id": 67260,
+      "logo_path": "/oV2FZfhRcEc1HReC66e1L4t2qPV.png",
+      "name": "Electric Shadow Company",
+      "origin_country": "GB"
+    },
+    {
+      "id": 93093,
+      "logo_path": "/pTSNH02SI9Qb6MEMjOgKmCeBKa1.png",
+      "name": "20 Steps Productions",
+      "origin_country": "GE"
+    },
+    {
+      "id": 94802,
+      "logo_path": "/za6AmJNMqbsOoPYUl3hpXtdjIta.png",
+      "name": "Artizm",
+      "origin_country": "GE"
+    },
+    {
+      "id": 19638,
+      "logo_path": "/ueSsb3nJfvu8utNO1linVypm2mv.png",
+      "name": "Altitude Film Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 257103,
+      "logo_path": "/ktFQNgQSwmVcLGpimpoPgoyjGPn.png",
+      "name": "Obscura",
+      "origin_country": "US"
+    },
+    {
+      "id": 244902,
+      "logo_path": "/e1OAXOyxwCHaFUdXIoNboz0XNwI.png",
+      "name": "UK Global Screen Fund",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GE",
+      "name": "Georgia"
+    },
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-08-07",
+  "revenue": 0,
+  "runtime": 104,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Stranded. Isolated. Not alone.",
+  "title": "The Occupant",
+  "video": false,
+  "vote_average": 5.599,
+  "vote_count": 86,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2092879,
+        "known_for_department": "Acting",
+        "name": "Ella Balinska",
+        "original_name": "Ella Balinska",
+        "popularity": 1.2859,
+        "profile_path": "/hq3diEug2eM9UPx88FvGkdipkih.jpg",
+        "cast_id": 1,
+        "character": "Abby Brennan",
+        "credit_id": "662b78b8f9183a011f312191",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1091324,
+        "known_for_department": "Acting",
+        "name": "Rob Delaney",
+        "original_name": "Rob Delaney",
+        "popularity": 1.9669,
+        "profile_path": "/xirfT1znRkkughLiPemKu3NhkKQ.jpg",
+        "cast_id": 25,
+        "character": "John Fisher",
+        "credit_id": "68402b802cb7a94dcffcb3ac",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2946871,
+        "known_for_department": "Acting",
+        "name": "Vanessa Ifediora",
+        "original_name": "Vanessa Ifediora",
+        "popularity": 0.6624,
+        "profile_path": "/yle2qGIS220YVgaqzAGDoMXIY4.jpg",
+        "cast_id": 2,
+        "character": "Beth Brennan",
+        "credit_id": "662b78c95c071b011e5e9d74",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18993,
+        "known_for_department": "Acting",
+        "name": "Stuart Graham",
+        "original_name": "Stuart Graham",
+        "popularity": 1.5085,
+        "profile_path": "/kLmI6avVGCNGXeW7M7o1lT5fAyD.jpg",
+        "cast_id": 3,
+        "character": "Archie Brennan",
+        "credit_id": "662b78d5b54002011c0442fb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1599245,
+        "known_for_department": "Acting",
+        "name": "George Lasha",
+        "original_name": "George Lasha",
+        "popularity": 0.7016,
+        "profile_path": "/vIfBzNhjOrmvubovIutWibvhoRO.jpg",
+        "cast_id": 4,
+        "character": "Tamaz",
+        "credit_id": "662b78e3175051011c78e0db",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4676035,
+        "known_for_department": "Acting",
+        "name": "Konstantine Roinishvili",
+        "original_name": "კონსტანტინე როინიშვილი",
+        "popularity": 0.4014,
+        "profile_path": "/2hKJKNuKsNJGZ40GSRl2jregPS0.jpg",
+        "cast_id": 5,
+        "character": "Sergi",
+        "credit_id": "662b7900501cf2011cb399d8",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1747161,
+        "known_for_department": "Acting",
+        "name": "Armin Karima",
+        "original_name": "Armin Karima",
+        "popularity": 0.7114,
+        "profile_path": "/iJcG6Ice0piUu4ixR6Pdrb5pVcn.jpg",
+        "cast_id": 9,
+        "character": "Hardy",
+        "credit_id": "662b79696e0d72011b1fa71d",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1475738,
+        "known_for_department": "Directing",
+        "name": "Hugo Keijzer",
+        "original_name": "Hugo Keijzer",
+        "popularity": 0.4921,
+        "profile_path": "/6p7zqWxcde9owQV2mqX1xsmdjnw.jpg",
+        "credit_id": "662b792b5c071b011d5e9d16",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1203978,
+        "known_for_department": "Editing",
+        "name": "Brian Philip Davis",
+        "original_name": "Brian Philip Davis",
+        "popularity": 0.5723,
+        "profile_path": "/g68vSoPLqbDY3mX7c5UaNOAUd2t.jpg",
+        "credit_id": "662b793799c964011c3a35a1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2444252,
+        "known_for_department": "Production",
+        "name": "Maurice Schutte",
+        "original_name": "Maurice Schutte",
+        "popularity": 0.3261,
+        "profile_path": "/zRe6mPviK3LvaFAFIUd2qU28BVQ.jpg",
+        "credit_id": "6644b6ac43cbfdb3ff58448b",
+        "department": "Writing",
+        "job": "Creative Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4543714,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ziggy Gaji",
+        "original_name": "Ziggy Gaji",
+        "popularity": 0.2808,
+        "profile_path": null,
+        "credit_id": "6644b7a5a8faaaac103d35d6",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1475738,
+        "known_for_department": "Directing",
+        "name": "Hugo Keijzer",
+        "original_name": "Hugo Keijzer",
+        "popularity": 0.4921,
+        "profile_path": "/6p7zqWxcde9owQV2mqX1xsmdjnw.jpg",
+        "credit_id": "6644b6db2d0a2ba32fec413b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4715789,
+        "known_for_department": "Art",
+        "name": "Theo Boswell",
+        "original_name": "Theo Boswell",
+        "popularity": 0.2444,
+        "profile_path": null,
+        "credit_id": "6644b7954cabdb42c5cf8faf",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74441,
+        "known_for_department": "Production",
+        "name": "Jay Taylor",
+        "original_name": "Jay Taylor",
+        "popularity": 0.4293,
+        "profile_path": null,
+        "credit_id": "6644b741a507e70e60cf9061",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2007413,
+        "known_for_department": "Writing",
+        "name": "Philip Michael Howe",
+        "original_name": "Philip Michael Howe",
+        "popularity": 0.4805,
+        "profile_path": null,
+        "credit_id": "6644b6ce3f00a3a89b5bcee2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1510994,
+        "known_for_department": "Production",
+        "name": "Shakyra Dowling",
+        "original_name": "Shakyra Dowling",
+        "popularity": 0.5705,
+        "profile_path": null,
+        "credit_id": "6644b781fbddf970f1ee9ef3",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1480697,
+        "known_for_department": "Writing",
+        "name": "Roelof Jan Minneboo",
+        "original_name": "Roelof Jan Minneboo",
+        "popularity": 0.6538,
+        "profile_path": null,
+        "credit_id": "6644b6ec232243b48458454e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2414391,
+        "known_for_department": "Production",
+        "name": "Isabel Freer",
+        "original_name": "Isabel Freer",
+        "popularity": 0.325,
+        "profile_path": null,
+        "credit_id": "6644b753f2442deba6241d96",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57816,
+        "known_for_department": "Production",
+        "name": "Kwesi Dickson",
+        "original_name": "Kwesi Dickson",
+        "popularity": 0.56,
+        "profile_path": "/qZftblpQGEOc15rvCHlrE87B61T.jpg",
+        "credit_id": "6644b7161d5c76bdae829fe8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1487612,
+        "known_for_department": "Sound",
+        "name": "Erik Griekspoor",
+        "original_name": "Erik Griekspoor",
+        "popularity": 0.7874,
+        "profile_path": null,
+        "credit_id": "6644b7cde611e54458ec4248",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4715780,
+        "known_for_department": "Writing",
+        "name": "Xiao Tang",
+        "original_name": "Xiao Tang",
+        "popularity": 0.3066,
+        "profile_path": null,
+        "credit_id": "6644b6f73f44dc5e37780050",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4715791,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Morgan Rafferty",
+        "original_name": "Morgan Rafferty",
+        "popularity": 0.2152,
+        "profile_path": null,
+        "credit_id": "6644b7b918c9e50511c53f26",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1426337,
+        "known_for_department": "Production",
+        "name": "Raymond van der Kaaij",
+        "original_name": "Raymond van der Kaaij",
+        "popularity": 0.5433,
+        "profile_path": null,
+        "credit_id": "6644b761232243b484584555",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1831374,
+        "known_for_department": "Camera",
+        "name": "Robbie van Brussel",
+        "original_name": "Robbie van Brussel",
+        "popularity": 0.4591,
+        "profile_path": null,
+        "credit_id": "6895d2d90d2104cc4e07c9a4",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1968836,
+        "known_for_department": "Sound",
+        "name": "Renger Koning",
+        "original_name": "Renger Koning",
+        "popularity": 0.388,
+        "profile_path": null,
+        "credit_id": "6895d30cba30a53a92c6eb0b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

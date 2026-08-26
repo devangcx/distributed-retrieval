@@ -1,0 +1,350 @@
+{
+  "adult": false,
+  "backdrop_path": "/vzO729sITNJ1jB6Y9AJpIhlbvb2.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81507283",
+  "id": 1213997,
+  "imdb_id": "tt30317302",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bitconned",
+  "overview": "In this true-crime documentary, three guys exploit the freewheeling cryptocurrency market to scam millions from investors and bankroll lavish lifestyles.",
+  "popularity": 2.4673,
+  "poster_path": "/dDHpIF5mcAkeiv3r8KlMkksr7b9.jpg",
+  "production_companies": [
+    {
+      "id": 116538,
+      "logo_path": "/n5d2MXzCcyG0FSbfQClp6fVrDJV.png",
+      "name": "Sidestilt Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 113634,
+      "logo_path": "/7ViBFQPmKYxSmfTQ0WC1RPFRQJ.png",
+      "name": "Library Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-01-01",
+  "revenue": 0,
+  "runtime": 95,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Bitconned",
+  "video": false,
+  "vote_average": 6.462,
+  "vote_count": 66,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4459160,
+        "known_for_department": "Acting",
+        "name": "Ray Trapani",
+        "original_name": "Ray Trapani",
+        "popularity": 0.3915,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Self",
+        "credit_id": "6592f772ebb99d5e179f9bae",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4459161,
+        "known_for_department": "Acting",
+        "name": "Robert Farkas",
+        "original_name": "Robert Farkas",
+        "popularity": 0.3316,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Self",
+        "credit_id": "6592f78fa5890271eb96a0c5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4459162,
+        "known_for_department": "Acting",
+        "name": "Sohrab Sharma",
+        "original_name": "Sohrab Sharma",
+        "popularity": 0.3206,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Self",
+        "credit_id": "6592f79b028f1478a6c579bf",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4459163,
+        "known_for_department": "Acting",
+        "name": "Sam Bankman-Fried",
+        "original_name": "Sam Bankman-Fried",
+        "popularity": 0.5951,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Self",
+        "credit_id": "6592f7c3069f0e3144210f2e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3606898,
+        "known_for_department": "Art",
+        "name": "Damian Williams",
+        "original_name": "Damian Williams",
+        "popularity": 0.8405,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Self",
+        "credit_id": "6592f7db64f7166d9f8e9652",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2277713,
+        "known_for_department": "Production",
+        "name": "Bo Butterworth",
+        "original_name": "Bo Butterworth",
+        "popularity": 0.2485,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "FBI Agent",
+        "credit_id": "6a51cff7b35cf470c60532bf",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5563426,
+        "known_for_department": "Acting",
+        "name": "Etika",
+        "original_name": "Etika",
+        "popularity": 0.6975,
+        "profile_path": "/5NfKeycZ6GQ1Y961E3zQKEEE6nJ.jpg",
+        "cast_id": 25,
+        "character": "Self (archive footage)",
+        "credit_id": "6a5e92fa0eb02447d84f62da",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 939400,
+        "known_for_department": "Directing",
+        "name": "Bryan Storkel",
+        "original_name": "Bryan Storkel",
+        "popularity": 0.7373,
+        "profile_path": "/1lAOsJAnn47CNZjN0fyh1lYWE8R.jpg",
+        "credit_id": "656f4c4e88055100e3716fdb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 930702,
+        "known_for_department": "Editing",
+        "name": "Weston Currie",
+        "original_name": "Weston Currie",
+        "popularity": 0.3509,
+        "profile_path": "/kc4Kqae9l4TM8Mkamm5j9sezevS.jpg",
+        "credit_id": "657736a9564ec7011b201e61",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31654,
+        "known_for_department": "Directing",
+        "name": "Chris Smith",
+        "original_name": "Chris Smith",
+        "popularity": 1.0202,
+        "profile_path": "/w7YxLmX6901brkneH06nxPBSmji.jpg",
+        "credit_id": "657736d2e93e95218dcbb273",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 939403,
+        "known_for_department": "Directing",
+        "name": "Amy Bandlien Storkel",
+        "original_name": "Amy Bandlien Storkel",
+        "popularity": 0.3882,
+        "profile_path": "/3yYtSkX5JSSDxeXOvfjG0okOcVT.jpg",
+        "credit_id": "657736f7bbe1dd00ac7d1bc2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1860205,
+        "known_for_department": "Directing",
+        "name": "Jonathan Ignatius Green",
+        "original_name": "Jonathan Ignatius Green",
+        "popularity": 0.6037,
+        "profile_path": null,
+        "credit_id": "6590b0b0e004a66dbb172a7d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2277713,
+        "known_for_department": "Production",
+        "name": "Bo Butterworth",
+        "original_name": "Bo Butterworth",
+        "popularity": 0.2485,
+        "profile_path": null,
+        "credit_id": "6590b1bae640d67f40d58683",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2874419,
+        "known_for_department": "Editing",
+        "name": "Arianna Shining Star",
+        "original_name": "Arianna Shining Star",
+        "popularity": 0.3354,
+        "profile_path": "/xGHk6GJ71oNQ9BjYkRl2p82wGkC.jpg",
+        "credit_id": "6590b31964f71665808ee55a",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1323896,
+        "known_for_department": "Camera",
+        "name": "Britton Foster",
+        "original_name": "Britton Foster",
+        "popularity": 0.4472,
+        "profile_path": null,
+        "credit_id": "6592e969e640d67ee0d666b7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2277721,
+        "known_for_department": "Production",
+        "name": "Nate Larson",
+        "original_name": "Nate Larson",
+        "popularity": 0.1672,
+        "profile_path": null,
+        "credit_id": "6592e97ca5890272599660e7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2277720,
+        "known_for_department": "Sound",
+        "name": "Michael James Lee",
+        "original_name": "Michael James Lee",
+        "popularity": 0.3144,
+        "profile_path": null,
+        "credit_id": "6592e99c51a64e041af46f02",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1713350,
+        "known_for_department": "Acting",
+        "name": "Nathaniel Popper",
+        "original_name": "Nathaniel Popper",
+        "popularity": 0.2982,
+        "profile_path": null,
+        "credit_id": "6592e9c84f9a99738e783282",
+        "department": "Production",
+        "job": "Consulting Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1808157,
+        "known_for_department": "Sound",
+        "name": "Lawrence Everson",
+        "original_name": "Lawrence Everson",
+        "popularity": 0.4276,
+        "profile_path": null,
+        "credit_id": "6592e9dce640d602e2d5761e",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1808157,
+        "known_for_department": "Sound",
+        "name": "Lawrence Everson",
+        "original_name": "Lawrence Everson",
+        "popularity": 0.4276,
+        "profile_path": null,
+        "credit_id": "6592e9e3a5890271eb969945",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4466304,
+        "known_for_department": "Production",
+        "name": "Jamie Bitz",
+        "original_name": "Jamie Bitz",
+        "popularity": 0.1936,
+        "profile_path": "/cfT0ZPReFx1r8uxf1cX1TG6vRoX.jpg",
+        "credit_id": "65987314bd588b020456dabd",
+        "department": "Production",
+        "job": "Production Assistant"
+      }
+    ]
+  }
+}

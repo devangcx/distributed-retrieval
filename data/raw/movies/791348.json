@@ -1,0 +1,449 @@
+{
+  "adult": false,
+  "backdrop_path": "/rQNWdUtbZxkvbFRfGZr9iUOizfs.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://www.warnerbros.com/movies/constantine-house-mystery",
+  "id": 791348,
+  "imdb_id": "tt18305072",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "DC Showcase - Constantine: The House of Mystery",
+  "overview": "John Constantine wakes up in the eerie House of Mystery with no recollection of how he got there. Fortunately, Zatanna and his friends are all there. Unfortunately, they have a bad habit of turning into demons and ripping him to shreds, over and over again!",
+  "popularity": 4.4021,
+  "poster_path": "/nKLa8IginSnGQAAsr1kzIqiDmkf.jpg",
+  "production_companies": [
+    {
+      "id": 2785,
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "name": "Warner Bros. Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 429,
+      "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
+      "name": "DC",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-05-02",
+  "revenue": 0,
+  "runtime": 27,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Enter a world where magic can't save you.",
+  "title": "DC Showcase - Constantine: The House of Mystery",
+  "video": false,
+  "vote_average": 6.84,
+  "vote_count": 194,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 127712,
+        "known_for_department": "Acting",
+        "name": "Matt Ryan",
+        "original_name": "Matt Ryan",
+        "popularity": 1.8337,
+        "profile_path": "/qLx6rzn6MMcJtTals5Z7Mb6z4Y9.jpg",
+        "cast_id": 3,
+        "character": "Constantine (voice)",
+        "credit_id": "61a46fe7383df2002c72e01a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1656863,
+        "known_for_department": "Acting",
+        "name": "Ray Chase",
+        "original_name": "Ray Chase",
+        "popularity": 1.0867,
+        "profile_path": "/xeJKJnvIwItI90roo7mMUduBbbq.jpg",
+        "cast_id": 6,
+        "character": "Jason Blood / Etrigan / Ritchie (voice)",
+        "credit_id": "625a5a5d3acd201628a3b4cd",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130081,
+        "known_for_department": "Acting",
+        "name": "Robin Atkin Downes",
+        "original_name": "Robin Atkin Downes",
+        "popularity": 1.5477,
+        "profile_path": "/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg",
+        "cast_id": 7,
+        "character": "Gary Lester / Negral (voice)",
+        "credit_id": "625a5a8bdff66e0098a87c32",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15761,
+        "known_for_department": "Acting",
+        "name": "Grey DeLisle",
+        "original_name": "Grey DeLisle",
+        "popularity": 3.1141,
+        "profile_path": "/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg",
+        "cast_id": 10,
+        "character": "Beelzebub / Little Della / Little Jack (voice)",
+        "credit_id": "625a5b32fe6c18009f18c6f0",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 236021,
+        "known_for_department": "Acting",
+        "name": "Camilla Luddington",
+        "original_name": "Camilla Luddington",
+        "popularity": 2.2369,
+        "profile_path": "/eKF5lSEdEtOCbsgb5mKjd8vYLck.jpg",
+        "cast_id": 8,
+        "character": "Zatanna (voice)",
+        "credit_id": "625a5ab53acd201628a3b57f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1712,
+        "known_for_department": "Acting",
+        "name": "Damian O'Hare",
+        "original_name": "Damian O'Hare",
+        "popularity": 1.0414,
+        "profile_path": "/bO6TMDYluACYKy7zWEloym1SUa5.jpg",
+        "cast_id": 9,
+        "character": "Ashox / Chas (voice)",
+        "credit_id": "625a5b00cb71b800504a74c1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38560,
+        "known_for_department": "Acting",
+        "name": "Lou Diamond Phillips",
+        "original_name": "Lou Diamond Phillips",
+        "popularity": 3.1545,
+        "profile_path": "/yqGZwaGe8XgoxfO7zmx7weGBaXZ.jpg",
+        "cast_id": 11,
+        "character": "Spectre (voice)",
+        "credit_id": "625a5b5171f09500666bb878",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1637776,
+        "known_for_department": "Directing",
+        "name": "Matt Peters",
+        "original_name": "Matt Peters",
+        "popularity": 0.9167,
+        "profile_path": "/twz7t4EyHuC3aTwQPedQI7ZBQXs.jpg",
+        "credit_id": "6219affb79a1c30043fd8c92",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1220905,
+        "known_for_department": "Writing",
+        "name": "Ernie Altbacker",
+        "original_name": "Ernie Altbacker",
+        "popularity": 0.6753,
+        "profile_path": null,
+        "credit_id": "6219b0369c24fc001997f159",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105642,
+        "known_for_department": "Directing",
+        "name": "Rick Morales",
+        "original_name": "Rick Morales",
+        "popularity": 0.9367,
+        "profile_path": "/qmzubkG4gb89WeFelMpa1VKvjfs.jpg",
+        "credit_id": "60537c1ca1d3320075e542a1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150856,
+        "known_for_department": "Writing",
+        "name": "Jim Krieg",
+        "original_name": "Jim Krieg",
+        "popularity": 1.4069,
+        "profile_path": null,
+        "credit_id": "625a5ba60cb335006569b5ae",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141043,
+        "known_for_department": "Production",
+        "name": "Sam Register",
+        "original_name": "Sam Register",
+        "popularity": 1.1426,
+        "profile_path": "/rCJa4fFOi3CcOGjljzn06XliSsz.jpg",
+        "credit_id": "625a5bcf74d6c01b6fc8fc62",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2599110,
+        "known_for_department": "Production",
+        "name": "Alyessa Ornelas",
+        "original_name": "Alyessa Ornelas",
+        "popularity": 0.6489,
+        "profile_path": null,
+        "credit_id": "626476e31f331900a9eeb243",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1297324,
+        "known_for_department": "Editing",
+        "name": "Craig Paulsen",
+        "original_name": "Craig Paulsen",
+        "popularity": 0.5113,
+        "profile_path": null,
+        "credit_id": "626476fe7caa4714b5fe4db1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1641642,
+        "known_for_department": "Production",
+        "name": "Wes Gleason",
+        "original_name": "Wes Gleason",
+        "popularity": 0.6393,
+        "profile_path": null,
+        "credit_id": "6264770ba35c8e006527ecba",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3151319,
+        "known_for_department": "Visual Effects",
+        "name": "Steven Choi",
+        "original_name": "Steven Choi",
+        "popularity": 0.3421,
+        "profile_path": null,
+        "credit_id": "626477b82fdec600688fddc7",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2103986,
+        "known_for_department": "Production",
+        "name": "Brian E.S. Jones",
+        "original_name": "Brian E.S. Jones",
+        "popularity": 0.5174,
+        "profile_path": null,
+        "credit_id": "6264781b6ca9a0006609cdad",
+        "department": "Production",
+        "job": "Executive In Charge Of Production"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2103985,
+        "known_for_department": "Production",
+        "name": "Peter Girardi",
+        "original_name": "Peter Girardi",
+        "popularity": 0.5528,
+        "profile_path": null,
+        "credit_id": "6264782c2fdec600a7f24da3",
+        "department": "Production",
+        "job": "Executive In Charge Of Production"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1322323,
+        "known_for_department": "Sound",
+        "name": "Robert J. Kral",
+        "original_name": "Robert J. Kral",
+        "popularity": 0.4511,
+        "profile_path": "/oZHQ9lp3h6QfOISMZyrwdliebNh.jpg",
+        "credit_id": "625c07d69661fc00506700f7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18866,
+        "known_for_department": "Writing",
+        "name": "Jack Kirby",
+        "original_name": "Jack Kirby",
+        "popularity": 2.5793,
+        "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg",
+        "credit_id": "66c0523ebb9e174a820d662e",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2103977,
+        "known_for_department": "Writing",
+        "name": "Steve Bissette",
+        "original_name": "Steve Bissette",
+        "popularity": 0.7507,
+        "profile_path": null,
+        "credit_id": "66c05246000d4a6d9c03b9de",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2103981,
+        "known_for_department": "Writing",
+        "name": "John Totleben",
+        "original_name": "John Totleben",
+        "popularity": 0.597,
+        "profile_path": null,
+        "credit_id": "66c0524d131224d652c30af3",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10944,
+        "known_for_department": "Writing",
+        "name": "Jamie Delano",
+        "original_name": "Jamie Delano",
+        "popularity": 0.6984,
+        "profile_path": null,
+        "credit_id": "66c052530ab6b23f05c30c92",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2103982,
+        "known_for_department": "Writing",
+        "name": "John Ridgway",
+        "original_name": "John Ridgway",
+        "popularity": 0.613,
+        "profile_path": null,
+        "credit_id": "66c052625ab8e38772c30ede",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20007,
+        "known_for_department": "Writing",
+        "name": "Jerry Siegel",
+        "original_name": "Jerry Siegel",
+        "popularity": 1.785,
+        "profile_path": "/tpkgpm3pHrkSNewoDasKz6Chpg4.jpg",
+        "credit_id": "66c05268150d42be109dc0e2",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4890621,
+        "known_for_department": "Writing",
+        "name": "Bernard Baily",
+        "original_name": "Bernard Baily",
+        "popularity": 0.6775,
+        "profile_path": null,
+        "credit_id": "66c0527681e29be85203b9c5",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1368162,
+        "known_for_department": "Writing",
+        "name": "Gardner Fox",
+        "original_name": "Gardner Fox",
+        "popularity": 1.0469,
+        "profile_path": "/uaMj71gVjjJHpqBEomTKmDkeYQR.jpg",
+        "credit_id": "66c0527f45684eef572ab266",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2379813,
+        "known_for_department": "Writing",
+        "name": "Murphy Anderson",
+        "original_name": "Murphy Anderson",
+        "popularity": 0.6375,
+        "profile_path": null,
+        "credit_id": "66c0528672c09b976ed44130",
+        "department": "Writing",
+        "job": "Characters"
+      }
+    ]
+  }
+}

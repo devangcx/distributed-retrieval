@@ -1,0 +1,347 @@
+{
+  "adult": false,
+  "backdrop_path": "/f5Ibo5CNLREuv7fwVKsn1TDzN4i.jpg",
+  "belongs_to_collection": null,
+  "budget": 1800000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 89139,
+  "imdb_id": "tt0099039",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Angel Town",
+  "overview": "A graduate student and martial-arts expert rents a room in a house owned by a single mother who lives there with her son. A local street gang is trying to recruit the son, but the new tenant tries to help the boy's mother keep him out of the gang. When they learn of this, they target both the mother and her new tenant.",
+  "popularity": 2.4676,
+  "poster_path": "/xiCoIDJG1afaBnCrSUNrM1vI2uP.jpg",
+  "production_companies": [
+    {
+      "id": 15041,
+      "logo_path": null,
+      "name": "Ellendale Place",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1990-02-23",
+  "revenue": 855810,
+  "runtime": 102,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "His justice...is one on one.",
+  "title": "Angel Town",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 40,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85412,
+        "known_for_department": "Acting",
+        "name": "Olivier Gruner",
+        "original_name": "Olivier Gruner",
+        "popularity": 1.2795,
+        "profile_path": "/8D6Wh7GZDgr3jRo508eXZ8lwDs1.jpg",
+        "cast_id": 3,
+        "character": "Jacques",
+        "credit_id": "52fe4a0e9251416c910c1b25",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97695,
+        "known_for_department": "Acting",
+        "name": "Peter Kwong",
+        "original_name": "Peter Kwong",
+        "popularity": 1.0749,
+        "profile_path": "/46PxGDXNCNTFbMJDBBibCMDejOU.jpg",
+        "cast_id": 4,
+        "character": "Henry",
+        "credit_id": "52fe4a0e9251416c910c1b29",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17652,
+        "known_for_department": "Acting",
+        "name": "Theresa Saldana",
+        "original_name": "Theresa Saldana",
+        "popularity": 1.1263,
+        "profile_path": "/VWTUbbQQX1Sq1b8AIwbXDuT93u.jpg",
+        "cast_id": 5,
+        "character": "Maria",
+        "credit_id": "52fe4a0e9251416c910c1b2d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1134690,
+        "known_for_department": "Acting",
+        "name": "Frank Aragon",
+        "original_name": "Frank Aragon",
+        "popularity": 0.3468,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Martin",
+        "credit_id": "52fe4a0e9251416c910c1b31",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 578074,
+        "known_for_department": "Acting",
+        "name": "James Carreras",
+        "original_name": "James Carreras",
+        "popularity": 0.3318,
+        "profile_path": "/y93kOYSSHGbAQfXB4SyiKKhjd4d.jpg",
+        "cast_id": 7,
+        "character": "Chuwey Zamora",
+        "credit_id": "52fe4a0e9251416c910c1b35",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66585,
+        "known_for_department": "Acting",
+        "name": "Gregory Cruz",
+        "original_name": "Gregory Cruz",
+        "popularity": 2.093,
+        "profile_path": "/8mYGlTJPctR1D6maIc64QMspqAs.jpg",
+        "cast_id": 8,
+        "character": "Stoner",
+        "credit_id": "52fe4a0e9251416c910c1b39",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1134691,
+        "known_for_department": "Acting",
+        "name": "Frankie Avina",
+        "original_name": "Frankie Avina",
+        "popularity": 0.4962,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Spider",
+        "credit_id": "52fe4a0e9251416c910c1b3d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18702,
+        "known_for_department": "Acting",
+        "name": "Mark Dacascos",
+        "original_name": "Mark Dacascos",
+        "popularity": 2.6346,
+        "profile_path": "/trOACuJz1KzhB51qe6asaxRuxrh.jpg",
+        "cast_id": 10,
+        "character": "Stoner's Driver",
+        "credit_id": "52fe4a0e9251416c910c1b41",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35244,
+        "known_for_department": "Acting",
+        "name": "Bruce Locke",
+        "original_name": "Bruce Locke",
+        "popularity": 1.2546,
+        "profile_path": "/rBXOctfwHRK8kh9rpOmLh7uQBns.jpg",
+        "cast_id": 11,
+        "character": "Mr. Park",
+        "credit_id": "52fe4a0e9251416c910c1b45",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 162035,
+        "known_for_department": "Acting",
+        "name": "Tom McGreevey",
+        "original_name": "Tom McGreevey",
+        "popularity": 0.3833,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Chairman Rice",
+        "credit_id": "52fe4a0e9251416c910c1b49",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1613833,
+        "known_for_department": "Acting",
+        "name": "Stuart Quan",
+        "original_name": "Stuart Quan",
+        "popularity": 0.6265,
+        "profile_path": "/b2TrFd2wM1TsSXHFtjy4LKORSuA.jpg",
+        "cast_id": 13,
+        "character": "Henry's 1st Blackbelt",
+        "credit_id": "61073026f706de005e05cd3b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2731590,
+        "known_for_department": "Acting",
+        "name": "Tony Valentino",
+        "original_name": "Tony Valentino",
+        "popularity": 0.5785,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Angel Diaz",
+        "credit_id": "63a2a95d8ddc3414969d505d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 154335,
+        "known_for_department": "Acting",
+        "name": "Nick Angotti",
+        "original_name": "Nick Angotti",
+        "popularity": 0.5524,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Professor",
+        "credit_id": "65a2dc35d35dea012e42c515",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1656382,
+        "known_for_department": "Crew",
+        "name": "Danny Rogers",
+        "original_name": "Danny Rogers",
+        "popularity": 0.7566,
+        "profile_path": "/4aVOu7bhGFOJxfXbfTwWTDhmRTO.jpg",
+        "cast_id": 21,
+        "character": "Campus Policeman",
+        "credit_id": "67b7296fe484fc21541a11f8",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57665,
+        "known_for_department": "Directing",
+        "name": "Eric Karson",
+        "original_name": "Eric Karson",
+        "popularity": 0.6004,
+        "profile_path": "/oiBrzIUkdzxFOcEaF7KpUEwed1I.jpg",
+        "credit_id": "52fe4a0e9251416c910c1b1b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1134689,
+        "known_for_department": "Writing",
+        "name": "S. Warren",
+        "original_name": "S. Warren",
+        "popularity": 0.2805,
+        "profile_path": null,
+        "credit_id": "52fe4a0e9251416c910c1b21",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57665,
+        "known_for_department": "Directing",
+        "name": "Eric Karson",
+        "original_name": "Eric Karson",
+        "popularity": 0.6004,
+        "profile_path": "/oiBrzIUkdzxFOcEaF7KpUEwed1I.jpg",
+        "credit_id": "61fadf97b6abc4004451fc90",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 930717,
+        "known_for_department": "Sound",
+        "name": "Terry Plumeri",
+        "original_name": "Terry Plumeri",
+        "popularity": 0.4139,
+        "profile_path": null,
+        "credit_id": "61fadfbacb80280069fb4c25",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 122132,
+        "known_for_department": "Camera",
+        "name": "John LeBlanc",
+        "original_name": "John LeBlanc",
+        "popularity": 0.396,
+        "profile_path": null,
+        "credit_id": "61fadfc5d100b6011551aaf6",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24953,
+        "known_for_department": "Production",
+        "name": "Ash R. Shah",
+        "original_name": "Ash R. Shah",
+        "popularity": 0.6158,
+        "profile_path": null,
+        "credit_id": "61fadfa69e401201165dc114",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 169628,
+        "known_for_department": "Crew",
+        "name": "Jeff Imada",
+        "original_name": "Jeff Imada",
+        "popularity": 0.7309,
+        "profile_path": "/sUNSaNQreSHYaJvKr0SfiBqMPDV.jpg",
+        "credit_id": "64272293a3e4ba007792cfed",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      }
+    ]
+  }
+}

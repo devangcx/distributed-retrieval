@@ -1,0 +1,349 @@
+{
+  "adult": false,
+  "backdrop_path": "/gVkqA2pIJ3HHjFu0cCNLsD1FBe2.jpg",
+  "belongs_to_collection": {
+    "id": 256477,
+    "name": "Saheb Biwi Aur Gangster Collection",
+    "poster_path": "/neUPdfrOC8klBFRZcH27PSURp4B.jpg",
+    "backdrop_path": "/1DrMxbboM3ugnX8fIgd1OZGgz3U.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 172817,
+  "imdb_id": "tt2362778",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Saheb Biwi Aur Gangster Returns",
+  "overview": "The Royal Scandal, the war for power and fight for money continues with the return of Saheb Biwi Aur Gangster. Aditya Pratap Singh is crippled and is trying to recover from the physical disability and his wifes betrayal. The lover cum seductress Madhavi Devi is now an MLA, her relationship with Aditya may have broken to shambles but her relation with alcohol is deep, dark and daunting. Indarjeet Singh, a ragged prince who has lost everything but his pride, pledges to get back his familys respect which was once destroyed by Adityas ancestors. Ranjana is a modern ambitious girl who is madly in love with Indarjeet Singh. The story takes a new turn when Aditya falls in love with Ranjana and forces Birendra her father, for their marriage. In this game of live chess between Saheb, Biwi and Gangster, the winner, the survivor takes it all.",
+  "popularity": 1.309,
+  "poster_path": "/cDMmAwGVYbKMF9GZVEceYeuvx47.jpg",
+  "production_companies": [
+    {
+      "id": 27619,
+      "logo_path": null,
+      "name": "Tigmanshu Dhulia Films",
+      "origin_country": ""
+    },
+    {
+      "id": 27620,
+      "logo_path": null,
+      "name": "Brandsmith Motion Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 27621,
+      "logo_path": null,
+      "name": "Select Media Holdings- Moving Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2013-03-08",
+  "revenue": 0,
+  "runtime": 139,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Saheb Biwi Aur Gangster Returns",
+  "video": false,
+  "vote_average": 6.87,
+  "vote_count": 27,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76793,
+        "known_for_department": "Acting",
+        "name": "Irrfan Khan",
+        "original_name": "Irrfan Khan",
+        "popularity": 3.0512,
+        "profile_path": "/qkA9PpWJRw3rNjVkWfNZdwLvRZx.jpg",
+        "cast_id": 1,
+        "character": "Indarjeet Singh",
+        "credit_id": "52fe4d27c3a36847f8251957",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35792,
+        "known_for_department": "Acting",
+        "name": "Jimmy Shergill",
+        "original_name": "Jimmy Shergill",
+        "popularity": 1.3602,
+        "profile_path": "/A3fJrhIgM7Q5TGwbQYxYBjNsV37.jpg",
+        "cast_id": 2,
+        "character": "Aditya Pratap Singh",
+        "credit_id": "52fe4d27c3a36847f825195b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 53672,
+        "known_for_department": "Acting",
+        "name": "Soha Ali Khan",
+        "original_name": "Soha Ali Khan",
+        "popularity": 0.8879,
+        "profile_path": "/yYgr8JPeFnQi4ZQ9AY0mauoo8TP.jpg",
+        "cast_id": 3,
+        "character": "Ranjana aka Raja Bhaiyya's wife",
+        "credit_id": "52fe4d27c3a36847f825195f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86085,
+        "known_for_department": "Acting",
+        "name": "Mahie Gill",
+        "original_name": "Mahie Gill",
+        "popularity": 0.99,
+        "profile_path": "/8BaceKKti0WFxa5PQLYLLhW684N.jpg",
+        "cast_id": 10,
+        "character": "Madhavi Devi",
+        "credit_id": "533d896cc3a368790b0032ed",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71090,
+        "known_for_department": "Acting",
+        "name": "Raj Babbar",
+        "original_name": "Raj Babbar",
+        "popularity": 1.0679,
+        "profile_path": "/czcJMiNDxfQrNnDPNBM2O6cTmZR.jpg",
+        "cast_id": 4,
+        "character": "Birendra Pratap",
+        "credit_id": "52fe4d27c3a36847f8251963",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1246538,
+        "known_for_department": "Acting",
+        "name": "Deepraj Rana",
+        "original_name": "Deepraj Rana",
+        "popularity": 0.6724,
+        "profile_path": "/iwcSbYrvzo7crjtMQwMSqB9gvqv.jpg",
+        "cast_id": 19,
+        "character": "Kanhaiya",
+        "credit_id": "57f4356a9251417fd400281e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1690969,
+        "known_for_department": "Acting",
+        "name": "Pravessh Rana",
+        "original_name": "Pravessh Rana",
+        "popularity": 0.5046,
+        "profile_path": "/3Ob2Fz0643Yir4tSC2t0B7Sf46r.jpg",
+        "cast_id": 22,
+        "character": "Paramjit Singh",
+        "credit_id": "57f81970c3a3683aa7005524",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1072011,
+        "known_for_department": "Acting",
+        "name": "Sitaram Panchal",
+        "original_name": "Sitaram Panchal",
+        "popularity": 0.4045,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Sundar",
+        "credit_id": "533d8a31c3a36878fb00344e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1689232,
+        "known_for_department": "Acting",
+        "name": "Kanika Dang",
+        "original_name": "Kanika Dang",
+        "popularity": 0.4016,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Badi Rani",
+        "credit_id": "57f7d7ab925141763600248c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1638525,
+        "known_for_department": "Acting",
+        "name": "Nissar Khan",
+        "original_name": "Nissar Khan",
+        "popularity": 0.2154,
+        "profile_path": "/zjO9FJ5WfPdUX78KFcv3V2ct6Ab.jpg",
+        "cast_id": 21,
+        "character": "Dhanraj Makhija",
+        "credit_id": "57f803d0c3a36874ba000d69",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85471,
+        "known_for_department": "Acting",
+        "name": "Mugdha Godse",
+        "original_name": "Mugdha Godse",
+        "popularity": 0.9614,
+        "profile_path": "/7IxEfJkhKujmMBSeQAgkapqmpkW.jpg",
+        "cast_id": 6,
+        "character": "Special Appearance",
+        "credit_id": "52fe4d27c3a36847f8251967",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 591116,
+        "known_for_department": "Acting",
+        "name": "Rajesh Khera",
+        "original_name": "Rajesh Khera",
+        "popularity": 1.0201,
+        "profile_path": "/9jO7dnwcmmLXoaeRQboNdnq9CGD.jpg",
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "5809bd809251413784006376",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2357580,
+        "known_for_department": "Acting",
+        "name": "Rajiv Gupta",
+        "original_name": "Rajiv Gupta",
+        "popularity": 1.1157,
+        "profile_path": "/2sXJLNQn86xUuR1poilKB3NHMt.jpg",
+        "cast_id": 24,
+        "character": "Prabhu Tiwari",
+        "credit_id": "61ab83e24f3a4c0041e8232a",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 545084,
+        "known_for_department": "Directing",
+        "name": "Tigmanshu Dhulia",
+        "original_name": "Tigmanshu Dhulia",
+        "popularity": 0.8575,
+        "profile_path": "/2CRk2UX3KfqMythuLBleMwQ7bQr.jpg",
+        "credit_id": "52fe4d27c3a36847f825196d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 545084,
+        "known_for_department": "Directing",
+        "name": "Tigmanshu Dhulia",
+        "original_name": "Tigmanshu Dhulia",
+        "popularity": 0.8575,
+        "profile_path": "/2CRk2UX3KfqMythuLBleMwQ7bQr.jpg",
+        "credit_id": "533d8908c3a36879120033e2",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 545084,
+        "known_for_department": "Directing",
+        "name": "Tigmanshu Dhulia",
+        "original_name": "Tigmanshu Dhulia",
+        "popularity": 0.8575,
+        "profile_path": "/2CRk2UX3KfqMythuLBleMwQ7bQr.jpg",
+        "credit_id": "533d8931c3a368790b0032eb",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1342185,
+        "known_for_department": "Production",
+        "name": "Nitin Tej Ahuja",
+        "original_name": "Nitin Tej Ahuja",
+        "popularity": 0.2609,
+        "profile_path": null,
+        "credit_id": "53c5fd83c3a368624b0015f0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1342186,
+        "known_for_department": "Camera",
+        "name": "Yogesh Jani",
+        "original_name": "Yogesh Jani",
+        "popularity": 0.3758,
+        "profile_path": null,
+        "credit_id": "53c5fda1c3a3686251001685",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37240,
+        "known_for_department": "Sound",
+        "name": "Sandeep Chowta",
+        "original_name": "Sandeep Chowta",
+        "popularity": 0.4232,
+        "profile_path": null,
+        "credit_id": "53c5fd93c3a368626600168b",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  }
+}

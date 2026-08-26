@@ -1,0 +1,423 @@
+{
+  "adult": false,
+  "backdrop_path": "/2M2I1vkStZMRoAyVnV4HmF23qLQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81226955",
+  "id": 528491,
+  "imdb_id": "tt11644096",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "WHAT DID JACK DO?",
+  "overview": "In a locked down train station, a homicide detective conducts an interview with a tormented monkey  who is suspected of murder.",
+  "popularity": 2.5772,
+  "poster_path": "/68FofMgclH1qCNXoL6foBqPfNFD.jpg",
+  "production_companies": [
+    {
+      "id": 11610,
+      "logo_path": null,
+      "name": "Absurda",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2017-11-08",
+  "revenue": 0,
+  "runtime": 17,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "WHAT DID JACK DO?",
+  "video": false,
+  "vote_average": 6.308,
+  "vote_count": 544,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2533356,
+        "known_for_department": "Acting",
+        "name": "Jack Cruz",
+        "original_name": "Jack Cruz",
+        "popularity": 0.2942,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Self",
+        "credit_id": "5e3fe03e9603310013ecee5b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5602,
+        "known_for_department": "Directing",
+        "name": "David Lynch",
+        "original_name": "David Lynch",
+        "popularity": 2.9916,
+        "profile_path": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "cast_id": 0,
+        "character": "Detective",
+        "credit_id": "5b16eb3f0e0a262dcc01d824",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1065329,
+        "known_for_department": "Acting",
+        "name": "Emily Stofle",
+        "original_name": "Emily Stofle",
+        "popularity": 0.7871,
+        "profile_path": "/1nZnqfJ9LFjMJjcA4LvXN75RL9K.jpg",
+        "cast_id": 7,
+        "character": "Waitress",
+        "credit_id": "5e25778fa894d600123be56b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5950214,
+        "known_for_department": "Acting",
+        "name": "Toototabon",
+        "original_name": "Toototabon",
+        "popularity": 0.2315,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Toototabon",
+        "credit_id": "696ed49732e6f1771cabce06",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5602,
+        "known_for_department": "Directing",
+        "name": "David Lynch",
+        "original_name": "David Lynch",
+        "popularity": 2.9916,
+        "profile_path": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "credit_id": "5b481b0492514168ac011eb1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1175029,
+        "known_for_department": "Sound",
+        "name": "Dean Hurley",
+        "original_name": "Dean Hurley",
+        "popularity": 0.4127,
+        "profile_path": "/knV2Nn3JZFj5fSqLQpjN1llwn0e.jpg",
+        "credit_id": "5e2577f31bf2660012fce49a",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5602,
+        "known_for_department": "Directing",
+        "name": "David Lynch",
+        "original_name": "David Lynch",
+        "popularity": 2.9916,
+        "profile_path": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "credit_id": "5e2578271bf2660014fd310d",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2515546,
+        "known_for_department": "Crew",
+        "name": "William warden",
+        "original_name": "William warden",
+        "popularity": 0.2166,
+        "profile_path": null,
+        "credit_id": "5e257869a894d600123be7e9",
+        "department": "Crew",
+        "job": "Animal Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9319,
+        "known_for_department": "Production",
+        "name": "Sabrina S. Sutherland",
+        "original_name": "Sabrina S. Sutherland",
+        "popularity": 0.4975,
+        "profile_path": "/yGzsmRDHPYZntzl8MHwqylOsSrM.jpg",
+        "credit_id": "5e2578eba894d600123be981",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1175029,
+        "known_for_department": "Sound",
+        "name": "Dean Hurley",
+        "original_name": "Dean Hurley",
+        "popularity": 0.4127,
+        "profile_path": "/knV2Nn3JZFj5fSqLQpjN1llwn0e.jpg",
+        "credit_id": "5e25780d8f26bc00157af3af",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1001631,
+        "known_for_department": "Editing",
+        "name": "Noriko Miyakawa",
+        "original_name": "Noriko Miyakawa",
+        "popularity": 0.4107,
+        "profile_path": "/mOC8lCha9esgKGvKCQGpTPi7LCF.jpg",
+        "credit_id": "5e2577c2bfeb8b0015d63a50",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1175029,
+        "known_for_department": "Sound",
+        "name": "Dean Hurley",
+        "original_name": "Dean Hurley",
+        "popularity": 0.4127,
+        "profile_path": "/knV2Nn3JZFj5fSqLQpjN1llwn0e.jpg",
+        "credit_id": "5e257830a894d6000f3bed96",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2515548,
+        "known_for_department": "Art",
+        "name": "Alfredo Ponce",
+        "original_name": "Alfredo Ponce",
+        "popularity": 0.2737,
+        "profile_path": null,
+        "credit_id": "5e2579175ed8e90017623059",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5602,
+        "known_for_department": "Directing",
+        "name": "David Lynch",
+        "original_name": "David Lynch",
+        "popularity": 2.9916,
+        "profile_path": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "credit_id": "5e2577d9a894d600123be701",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5602,
+        "known_for_department": "Directing",
+        "name": "David Lynch",
+        "original_name": "David Lynch",
+        "popularity": 2.9916,
+        "profile_path": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "credit_id": "5e2578808f26bc00137ad5c9",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5602,
+        "known_for_department": "Directing",
+        "name": "David Lynch",
+        "original_name": "David Lynch",
+        "popularity": 2.9916,
+        "profile_path": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "credit_id": "5e2578e28f26bc00137ad6ea",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5602,
+        "known_for_department": "Directing",
+        "name": "David Lynch",
+        "original_name": "David Lynch",
+        "popularity": 2.9916,
+        "profile_path": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "credit_id": "5e2577e81bf2660014fd3032",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5602,
+        "known_for_department": "Directing",
+        "name": "David Lynch",
+        "original_name": "David Lynch",
+        "popularity": 2.9916,
+        "profile_path": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "credit_id": "5e25773ba894d600153b9c39",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9352,
+        "known_for_department": "Camera",
+        "name": "Scott Andrew Ressler",
+        "original_name": "Scott Andrew Ressler",
+        "popularity": 0.6167,
+        "profile_path": "/qYpNKsNHUW6mjdbG3XASEisVQLT.jpg",
+        "credit_id": "5e2577ad1bf2660016fcd2e0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2515550,
+        "known_for_department": "Art",
+        "name": "Jesus Plasensia",
+        "original_name": "Jesus Plasensia",
+        "popularity": 0.2084,
+        "profile_path": null,
+        "credit_id": "5e2579041bf2660016fcd500",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5602,
+        "known_for_department": "Directing",
+        "name": "David Lynch",
+        "original_name": "David Lynch",
+        "popularity": 2.9916,
+        "profile_path": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "credit_id": "5e2577421bf2660016fcd1fa",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1001631,
+        "known_for_department": "Editing",
+        "name": "Noriko Miyakawa",
+        "original_name": "Noriko Miyakawa",
+        "popularity": 0.4107,
+        "profile_path": "/mOC8lCha9esgKGvKCQGpTPi7LCF.jpg",
+        "credit_id": "5e2577cf5ed8e9001562331d",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1157378,
+        "known_for_department": "Directing",
+        "name": "Riley Lynch",
+        "original_name": "Riley Lynch",
+        "popularity": 0.4074,
+        "profile_path": null,
+        "credit_id": "5e2578f35ed8e90017623008",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9319,
+        "known_for_department": "Production",
+        "name": "Sabrina S. Sutherland",
+        "original_name": "Sabrina S. Sutherland",
+        "popularity": 0.4975,
+        "profile_path": "/yGzsmRDHPYZntzl8MHwqylOsSrM.jpg",
+        "credit_id": "5e25774fbfeb8b0011d60b04",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2515549,
+        "known_for_department": "Art",
+        "name": "Anna Skarbek",
+        "original_name": "Anna Skarbek",
+        "popularity": 0.2748,
+        "profile_path": null,
+        "credit_id": "5e2578fc8f26bc00157af518",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2515551,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tracy Bernadotte",
+        "original_name": "Tracy Bernadotte",
+        "popularity": 0.2726,
+        "profile_path": null,
+        "credit_id": "5e25792f5ed8e9001762309d",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4972263,
+        "known_for_department": "Crew",
+        "name": "Michael Morris Jr.",
+        "original_name": "Michael Morris Jr.",
+        "popularity": 0.1982,
+        "profile_path": null,
+        "credit_id": "66fad5f6cc43cebd03f19e7e",
+        "department": "Crew",
+        "job": "Animal Coordinator"
+      }
+    ]
+  }
+}

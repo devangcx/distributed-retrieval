@@ -1,0 +1,302 @@
+{
+  "adult": false,
+  "backdrop_path": "/8YWY4oXFpsu4JTjrsfx1YjcygTe.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 476631,
+  "imdb_id": "tt7130740",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Barbie: Dolphin Magic",
+  "overview": "Barbie and her sisters take off on another exciting, global adventure to visit their friend Ken at his summer internship at a beautiful and exotic coral reef.",
+  "popularity": 2.878,
+  "poster_path": "/c8Bb9MnvkNTKstQSKixO4dWaUhL.jpg",
+  "production_companies": [
+    {
+      "id": 6220,
+      "logo_path": "/cAj69EL1zSXmZH6STbMGZrunyMD.png",
+      "name": "Mattel",
+      "origin_country": "US"
+    },
+    {
+      "id": 10280,
+      "logo_path": null,
+      "name": "Arc Productions",
+      "origin_country": "CA"
+    },
+    {
+      "id": 2213,
+      "logo_path": null,
+      "name": "Rainmaker Studios",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2017-09-20",
+  "revenue": 0,
+  "runtime": 63,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A New Aquatic Adventure!",
+  "title": "Barbie: Dolphin Magic",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 256,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1599422,
+        "known_for_department": "Acting",
+        "name": "Erica Lindbeck",
+        "original_name": "Erica Lindbeck",
+        "popularity": 1.4757,
+        "profile_path": "/l5ISBt8S8Upct0fDgaEPuELp4zE.jpg",
+        "cast_id": 0,
+        "character": "Barbie (voice)",
+        "credit_id": "59c14abb9251417d81018b21",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 221843,
+        "known_for_department": "Acting",
+        "name": "Shannon Chan-Kent",
+        "original_name": "Shannon Chan-Kent",
+        "popularity": 1.3969,
+        "profile_path": "/pt8rq0yQXPHxXBDi1xbeVBjfqiD.jpg",
+        "cast_id": 15,
+        "character": "Isla (Voice)",
+        "credit_id": "6360ba23590086007e3be096",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 569211,
+        "known_for_department": "Acting",
+        "name": "Kazumi Evans",
+        "original_name": "Kazumi Evans",
+        "popularity": 1.2647,
+        "profile_path": "/kYetwOsDrFRWDtTsQswNVPgVV4N.jpg",
+        "cast_id": 2,
+        "character": "Skipper (voice)",
+        "credit_id": "59c14ade9251417dea01783e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1250833,
+        "known_for_department": "Acting",
+        "name": "Claire Margaret Corlett",
+        "original_name": "Claire Margaret Corlett",
+        "popularity": 0.8236,
+        "profile_path": "/rvlkbEhpiZqakmGaeAubuyqATTE.jpg",
+        "cast_id": 1,
+        "character": "Stacie (voice)",
+        "credit_id": "59c14ac8c3a36804b10173f2",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1532532,
+        "known_for_department": "Acting",
+        "name": "Alyssya Swales",
+        "original_name": "Alyssya Swales",
+        "popularity": 0.5612,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Chelsea (voice)",
+        "credit_id": "59c14aedc3a36805080187cf",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101247,
+        "known_for_department": "Acting",
+        "name": "Adrian Petriw",
+        "original_name": "Adrian Petriw",
+        "popularity": 1.2878,
+        "profile_path": "/3jbR14GEKoUCbrs3NVmQw8eWRvu.jpg",
+        "cast_id": 11,
+        "character": "Ken (voice)",
+        "credit_id": "61580966dd731b0042ad420e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85432,
+        "known_for_department": "Acting",
+        "name": "Maryke Hendrikse",
+        "original_name": "Maryke Hendrikse",
+        "popularity": 0.8478,
+        "profile_path": "/9iMFnpg5VmZvNWJ7Lo9AlvemoMb.jpg",
+        "cast_id": 10,
+        "character": "Marlo (voice)",
+        "credit_id": "6158093eec18790042f6680c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52283,
+        "known_for_department": "Acting",
+        "name": "Paul Dobson",
+        "original_name": "Paul Dobson",
+        "popularity": 1.2849,
+        "profile_path": "/huQqiIHgnswYR9x5V1e46FTYfSI.jpg",
+        "cast_id": 12,
+        "character": "Hugo (voice)",
+        "credit_id": "615809cb6f8d950066960660",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26089,
+        "known_for_department": "Acting",
+        "name": "Garry Chalk",
+        "original_name": "Garry Chalk",
+        "popularity": 1.7245,
+        "profile_path": "/jESGnBSP0OjFxJejN1OPsjXA9sJ.jpg",
+        "cast_id": 13,
+        "character": "Pete (voice)",
+        "credit_id": "615809e4c8a2d40043bc6996",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1882882,
+        "known_for_department": "Writing",
+        "name": "Ruth Handler",
+        "original_name": "Ruth Handler",
+        "popularity": 1.2616,
+        "profile_path": "/dpjzMMrUxiLFWRgDQ9GedhQ9hmA.jpg",
+        "credit_id": "62a29c517f6c8d0065225e82",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2328990,
+        "known_for_department": "Editing",
+        "name": "Cassandra Mackay",
+        "original_name": "Cassandra Mackay",
+        "popularity": 0.2873,
+        "profile_path": null,
+        "credit_id": "615808d9d2147c008d047ecd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 150660,
+        "known_for_department": "Production",
+        "name": "Kallan Kagan",
+        "original_name": "Kallan Kagan",
+        "popularity": 0.402,
+        "profile_path": null,
+        "credit_id": "59c14b13c3a3680489019250",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92125,
+        "known_for_department": "Directing",
+        "name": "Conrad Helten",
+        "original_name": "Conrad Helten",
+        "popularity": 0.6406,
+        "profile_path": null,
+        "credit_id": "59c14af89251417dea017860",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1891176,
+        "known_for_department": "Writing",
+        "name": "Jennifer Skelly",
+        "original_name": "Jennifer Skelly",
+        "popularity": 0.2869,
+        "profile_path": null,
+        "credit_id": "59c14b06c3a36804f9018128",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1907753,
+        "known_for_department": "Directing",
+        "name": "Michael Douglas",
+        "original_name": "Michael Douglas",
+        "popularity": 0.403,
+        "profile_path": null,
+        "credit_id": "59e7513cc3a36851b100c5f6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2332716,
+        "known_for_department": "Sound",
+        "name": "Rebecca Kneubuhl",
+        "original_name": "Rebecca Kneubuhl",
+        "popularity": 0.3789,
+        "profile_path": null,
+        "credit_id": "6755246fee33b1097ac06150",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

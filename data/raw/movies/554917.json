@@ -1,0 +1,211 @@
+{
+  "adult": false,
+  "backdrop_path": "/esNKqrOc39Nye3fUfh96peW65Kg.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://www.therusalka.com",
+  "id": 554917,
+  "imdb_id": "tt7144200",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Siren",
+  "overview": "Tom, a mute man is on retreat to an isolated lakehouse where he meets Al, who is mourning the recent death of his husband. Starting off rather friendly, Tom and Al’s rapport slowly changes as the former befriends a mysterious woman named Nina, for whom Al can’t shake his negative suspicions.",
+  "popularity": 2.4466,
+  "poster_path": "/qR1Yf8e8EkmGwO0txvecCyw0PD.jpg",
+  "production_companies": [
+    {
+      "id": 114874,
+      "logo_path": "/lfk5FKLlTBaWqYHLeJs7J9atmNr.png",
+      "name": "Signature Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-03-02",
+  "revenue": 0,
+  "runtime": 78,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Love will haunt you",
+  "title": "The Siren",
+  "video": false,
+  "vote_average": 5.452,
+  "vote_count": 31,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1281328,
+        "known_for_department": "Acting",
+        "name": "Evan Dumouchel",
+        "original_name": "Evan Dumouchel",
+        "popularity": 0.8505,
+        "profile_path": "/wySZzdVAhjvsnqghlGKSx9Ke8kj.jpg",
+        "cast_id": 1,
+        "character": "Tom",
+        "credit_id": "5bc935140e0a260fd9003f2d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1465615,
+        "known_for_department": "Acting",
+        "name": "Margaret Ying Drake",
+        "original_name": "Margaret Ying Drake",
+        "popularity": 0.4761,
+        "profile_path": "/pAdnWaG2bl4wQNMRNyQdK7ZBWaY.jpg",
+        "cast_id": 5,
+        "character": "Nina",
+        "credit_id": "5ced888ec3a368441e202e46",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1465614,
+        "known_for_department": "Acting",
+        "name": "MacLeod Andrews",
+        "original_name": "MacLeod Andrews",
+        "popularity": 0.6035,
+        "profile_path": "/3cnYjiF1eYznJKupilzG47yOEl2.jpg",
+        "cast_id": 3,
+        "character": "Al",
+        "credit_id": "5bc935370e0a260fc1004bc0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1465613,
+        "known_for_department": "Production",
+        "name": "Perry Blackshear",
+        "original_name": "Perry Blackshear",
+        "popularity": 0.5845,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Michael",
+        "credit_id": "5ef4b83c81a7fc0035be61ee",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1465613,
+        "known_for_department": "Production",
+        "name": "Perry Blackshear",
+        "original_name": "Perry Blackshear",
+        "popularity": 0.5845,
+        "profile_path": null,
+        "credit_id": "5bc9361c9251415633003f53",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1465613,
+        "known_for_department": "Production",
+        "name": "Perry Blackshear",
+        "original_name": "Perry Blackshear",
+        "popularity": 0.5845,
+        "profile_path": null,
+        "credit_id": "5bc934e00e0a260fc1004ad2",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1465613,
+        "known_for_department": "Production",
+        "name": "Perry Blackshear",
+        "original_name": "Perry Blackshear",
+        "popularity": 0.5845,
+        "profile_path": null,
+        "credit_id": "5ef4b7d355b0c000350e42ef",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1465613,
+        "known_for_department": "Production",
+        "name": "Perry Blackshear",
+        "original_name": "Perry Blackshear",
+        "popularity": 0.5845,
+        "profile_path": null,
+        "credit_id": "5ef4b89e54508d0035c3f914",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1465613,
+        "known_for_department": "Production",
+        "name": "Perry Blackshear",
+        "original_name": "Perry Blackshear",
+        "popularity": 0.5845,
+        "profile_path": null,
+        "credit_id": "5ef4b8ad54508d0035c3f93f",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1465614,
+        "known_for_department": "Acting",
+        "name": "MacLeod Andrews",
+        "original_name": "MacLeod Andrews",
+        "popularity": 0.6035,
+        "profile_path": "/3cnYjiF1eYznJKupilzG47yOEl2.jpg",
+        "credit_id": "5ef4b7bdbccf1e003838d0b8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1281328,
+        "known_for_department": "Acting",
+        "name": "Evan Dumouchel",
+        "original_name": "Evan Dumouchel",
+        "popularity": 0.8505,
+        "profile_path": "/wySZzdVAhjvsnqghlGKSx9Ke8kj.jpg",
+        "credit_id": "5ef4b7a0bccf1e00363943a7",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "adult": false,
+  "backdrop_path": "/opc1eeUJkPuEPpoLFxkVOaXs6CO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 744876,
+  "imdb_id": "tt10235600",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "काली खुहि",
+  "overview": "When a restless spirit curses a Punjab village that has a history of female infanticide, the town's fate lies in the hands of a 10-year old girl, Shivangi.",
+  "popularity": 1.1269,
+  "poster_path": "/6zssTYgFelEo9XIzflrEvjhti6l.jpg",
+  "production_companies": [
+    {
+      "id": 141940,
+      "logo_path": null,
+      "name": "Manomay Motion Pictures",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2020-10-30",
+  "revenue": 0,
+  "runtime": 90,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "Punjabi",
+      "iso_639_1": "pa",
+      "name": "ਪੰਜਾਬੀ"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kaali Khuhi",
+  "video": false,
+  "vote_average": 4.6,
+  "vote_count": 24,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85672,
+        "known_for_department": "Acting",
+        "name": "Shabana Azmi",
+        "original_name": "शबाना आज़मी",
+        "popularity": 1.5329,
+        "profile_path": "/gy7DpFaZnpU4XOwBc8jhhE8rYYj.jpg",
+        "cast_id": 1,
+        "character": "Satya Maasi",
+        "credit_id": "5f66d33d08cf87003a4a841c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2785475,
+        "known_for_department": "Acting",
+        "name": "Riva Arora",
+        "original_name": "Riva Arora",
+        "popularity": 0.8266,
+        "profile_path": "/1dPTZNZYwxuDlLmlcZ78tyGoNzk.jpg",
+        "cast_id": 2,
+        "character": "Shivangi",
+        "credit_id": "5f66d3511684f7003647274c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 229952,
+        "known_for_department": "Acting",
+        "name": "Satyadeep Misra",
+        "original_name": "Satyadeep Misra",
+        "popularity": 0.8904,
+        "profile_path": "/413i5i1XUaRcoNzxCsJQIN0PhQ8.jpg",
+        "cast_id": 11,
+        "character": "Darshan",
+        "credit_id": "5f7adb18021cee0035313239",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1235179,
+        "known_for_department": "Acting",
+        "name": "Sanjeeda Sheikh",
+        "original_name": "Sanjeeda Sheikh",
+        "popularity": 1.2431,
+        "profile_path": "/rz92hLtWoj1OCCchAZLtZvPwp0o.jpg",
+        "cast_id": 12,
+        "character": "Priya",
+        "credit_id": "5f7adb2b8741c400387b17a4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1435699,
+        "known_for_department": "Acting",
+        "name": "Leela Samson",
+        "original_name": "Leela Samson",
+        "popularity": 0.6164,
+        "profile_path": "/6eLTE9m1mILV2ALZooKGbBoPZ9c.jpg",
+        "cast_id": 13,
+        "character": "Dadi",
+        "credit_id": "5f7adb41fdfc9f0036ac3f75",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2803958,
+        "known_for_department": "Directing",
+        "name": "Terrie Samundra",
+        "original_name": "Terrie Samundra",
+        "popularity": 0.3008,
+        "profile_path": null,
+        "credit_id": "5f7ad9d0da10f000347a8b78",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1543270,
+        "known_for_department": "Acting",
+        "name": "Rupinder Inderjit",
+        "original_name": "Rupinder Inderjit",
+        "popularity": 0.4271,
+        "profile_path": null,
+        "credit_id": "5f7ad9fad5ffcb0034a2d4ed",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1492786,
+        "known_for_department": "Camera",
+        "name": "David Walter Lech",
+        "original_name": "David Walter Lech",
+        "popularity": 0.323,
+        "profile_path": null,
+        "credit_id": "5f7ada0e7b7b4d0038715b8d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2803958,
+        "known_for_department": "Directing",
+        "name": "Terrie Samundra",
+        "original_name": "Terrie Samundra",
+        "popularity": 0.3008,
+        "profile_path": null,
+        "credit_id": "5f7ada1b09191b00388ad64f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1509774,
+        "known_for_department": "Crew",
+        "name": "Sejal Shah",
+        "original_name": "Sejal Shah",
+        "popularity": 0.4922,
+        "profile_path": null,
+        "credit_id": "5f7ada2b6082eb0032652a3a",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1668225,
+        "known_for_department": "Sound",
+        "name": "Daniel B George",
+        "original_name": "Daniel B George",
+        "popularity": 0.4002,
+        "profile_path": null,
+        "credit_id": "5f7ada4cda10f000347a8c60",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1322648,
+        "known_for_department": "Editing",
+        "name": "Sanyukta Kaza",
+        "original_name": "Sanyukta Kaza",
+        "popularity": 0.4461,
+        "profile_path": "/4jZBYj70jIYX5fywbseJ6CwA7H9.jpg",
+        "credit_id": "5f7ada5c7b7b4d0038715bb8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2803965,
+        "known_for_department": "Production",
+        "name": "Ramon Chibb",
+        "original_name": "Ramon Chibb",
+        "popularity": 0.5241,
+        "profile_path": null,
+        "credit_id": "5f7ada787b7b4d00376f389f",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

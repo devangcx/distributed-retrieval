@@ -1,0 +1,238 @@
+{
+  "adult": false,
+  "backdrop_path": "/uELCMpKxSXqKN47iOUTjJmJD57g.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 1166714,
+  "imdb_id": "tt28689850",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mickey and Friends: Trick or Treats",
+  "overview": "Mickey, Minnie, Goofy, Donald and Daisy are trick-or-treating when Donald spies the spookiest mansion he’s ever seen and assumes it has the best treats. After he convinces his friends to risk a visit, the owner, Witch Hazel, casts a spell that turns them into their costumes.",
+  "popularity": 2.8061,
+  "poster_path": "/5Gz3k1TqeAxL5M47XZzjltxQrMb.jpg",
+  "production_companies": [
+    {
+      "id": 51032,
+      "logo_path": "/eA0Ftu5tCEc8icg313EHMW0T0J8.png",
+      "name": "Stoopid Buddy Stoodios",
+      "origin_country": "US"
+    },
+    {
+      "id": 177195,
+      "logo_path": "/6f4uxPAJZ0IxncWRx2egHl0Pei8.png",
+      "name": "Disney Junior",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-10-01",
+  "revenue": 0,
+  "runtime": 22,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Mickey and Friends: Trick or Treats",
+  "video": false,
+  "vote_average": 7.037,
+  "vote_count": 41,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1235060,
+        "known_for_department": "Acting",
+        "name": "Bret Iwan",
+        "original_name": "Bret Iwan",
+        "popularity": 0.8873,
+        "profile_path": "/14m82iewt4tDjaaOmsYWMr6TKQ8.jpg",
+        "cast_id": 5,
+        "character": "Mickey Mouse (voice)",
+        "credit_id": "65166094c50ad200c91a224c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34478,
+        "known_for_department": "Acting",
+        "name": "Tony Anselmo",
+        "original_name": "Tony Anselmo",
+        "popularity": 1.274,
+        "profile_path": "/8ocCq9OxVg7A0g7hf7EqeT0QenX.jpg",
+        "cast_id": 6,
+        "character": "Donald Duck / Additional Voices (voice)",
+        "credit_id": "651660ba0499f200c44f3aa2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84213,
+        "known_for_department": "Acting",
+        "name": "Bill Farmer",
+        "original_name": "Bill Farmer",
+        "popularity": 1.5268,
+        "profile_path": "/lhezx68R12s5Bsv7d77BrQb7tWA.jpg",
+        "cast_id": 7,
+        "character": "Goofy / Additional Voices (voice)",
+        "credit_id": "651660d893bd69011b8cedab",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1382187,
+        "known_for_department": "Acting",
+        "name": "Kaitlyn Robrock",
+        "original_name": "Kaitlyn Robrock",
+        "popularity": 1.2565,
+        "profile_path": "/1joOQrgyU9ap9W1cvimh01XmKcO.jpg",
+        "cast_id": 8,
+        "character": "Minnie Mouse / Additional Voices (voice)",
+        "credit_id": "651660f09b8616011c483e4d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 83105,
+        "known_for_department": "Acting",
+        "name": "Debra Wilson",
+        "original_name": "Debra Wilson",
+        "popularity": 2.5382,
+        "profile_path": "/3anRgUtqohXRNM6HtwGl1ZFgCS8.jpg",
+        "cast_id": 9,
+        "character": "Daisy Duck (voice)",
+        "credit_id": "65166101967cc700c51838be",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1252861,
+        "known_for_department": "Acting",
+        "name": "Misty Lee",
+        "original_name": "Misty Lee",
+        "popularity": 0.7599,
+        "profile_path": "/wftoOAJvHYYuBOI0TjMfudxTnr0.jpg",
+        "cast_id": 10,
+        "character": "Witch Hazel (voice)",
+        "credit_id": "6516611f9b861600ff6880ff",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 108753,
+        "known_for_department": "Acting",
+        "name": "Kimmy Gatewood",
+        "original_name": "Kimmy Gatewood",
+        "popularity": 0.713,
+        "profile_path": "/bQPIpQXG0CQxHoOj5JFSuKEI7f5.jpg",
+        "cast_id": 11,
+        "character": "Ghost Bride (voice)",
+        "credit_id": "652d63dcea84c700ca11e08f",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1687926,
+        "known_for_department": "Directing",
+        "name": "David H. Brooks",
+        "original_name": "David H. Brooks",
+        "popularity": 0.7942,
+        "profile_path": "/44nKmQf2RJ4mmBocxQti0njIy1a.jpg",
+        "credit_id": "64df9fa05ab81a00e25b6ffa",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1457564,
+        "known_for_department": "Visual Effects",
+        "name": "John Harvatine IV",
+        "original_name": "John Harvatine IV",
+        "popularity": 0.5153,
+        "profile_path": null,
+        "credit_id": "64df9fac076ce800adce09e7",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1920122,
+        "known_for_department": "Sound",
+        "name": "Beau Black",
+        "original_name": "Beau Black",
+        "popularity": 0.2307,
+        "profile_path": null,
+        "credit_id": "64dfa004b77d4b11401a680c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1687926,
+        "known_for_department": "Directing",
+        "name": "David H. Brooks",
+        "original_name": "David H. Brooks",
+        "popularity": 0.7942,
+        "profile_path": "/44nKmQf2RJ4mmBocxQti0njIy1a.jpg",
+        "credit_id": "64df9f9b076ce800e312e755",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 207538,
+        "known_for_department": "Writing",
+        "name": "Kim Duran",
+        "original_name": "Kim Duran",
+        "popularity": 0.6403,
+        "profile_path": null,
+        "credit_id": "653a648b67825900e4474143",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,575 @@
+{
+  "adult": false,
+  "backdrop_path": "/vZw7cUeCj0n0o9hmubL0rSUYEhM.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 442056,
+  "imdb_id": "tt4729560",
+  "origin_country": [
+    "DK",
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Little Vampire 3D",
+  "overview": "Tony, a thirteen-year-old boy on vacation in rural Germany, is fascinated by the idea of vampires. Meanwhile Rudolph, a vampire of \"similar\" age (313!), encounters trouble when his clan is threatened by a dangerously obsessed hunter. Fate brings these two boys together, as Tony & Rudolph set off an action-packed battle to stop the villain, save Rudolph's family and learn the power of friendship.",
+  "popularity": 5.2589,
+  "poster_path": "/i9z2rBO4i5MhbvpEIxXZUoXSYUo.jpg",
+  "production_companies": [
+    {
+      "id": 3922,
+      "logo_path": "/uXDOnG25HLnban0UfpRVjxASMWW.png",
+      "name": "A. Film Production",
+      "origin_country": "DK"
+    },
+    {
+      "id": 8104,
+      "logo_path": null,
+      "name": "Ambient Entertainment",
+      "origin_country": "DE"
+    },
+    {
+      "id": 27277,
+      "logo_path": null,
+      "name": "Cool Beans",
+      "origin_country": ""
+    },
+    {
+      "id": 8177,
+      "logo_path": null,
+      "name": "Rothkirch Cartoon Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "release_date": "2017-10-04",
+  "revenue": 0,
+  "runtime": 83,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Little Vampire 3D",
+  "video": false,
+  "vote_average": 6.098,
+  "vote_count": 173,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 205725,
+        "known_for_department": "Acting",
+        "name": "Rasmus Hardiker",
+        "original_name": "Rasmus Hardiker",
+        "popularity": 1.1881,
+        "profile_path": "/gDdrt1YXPCxdv5LG8WvVJswPydZ.jpg",
+        "cast_id": 8,
+        "character": "Rudolph Sackville-Bagg / Gregory Sackville-Bagg (voice)",
+        "credit_id": "5a0551b8c3a3686a3800d428",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2020303,
+        "known_for_department": "Acting",
+        "name": "Amy Saville",
+        "original_name": "Amy Saville",
+        "popularity": 0.3935,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Tony Thompson (voice)",
+        "credit_id": "5accb4b19251410bda00ad60",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20070,
+        "known_for_department": "Acting",
+        "name": "Jim Carter",
+        "original_name": "Jim Carter",
+        "popularity": 2.0705,
+        "profile_path": "/okiL3gc0mNqP0kPfMQHHvFjKnHb.jpg",
+        "cast_id": 7,
+        "character": "Rookery (voice)",
+        "credit_id": "5a0551979251417e1200dd5c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 209631,
+        "known_for_department": "Acting",
+        "name": "Joseph Kloska",
+        "original_name": "Joseph Kloska",
+        "popularity": 0.7468,
+        "profile_path": "/eW9ArkqCSFGBIgOt3SUeF1jRZhL.jpg",
+        "cast_id": 17,
+        "character": "Maney (voice)",
+        "credit_id": "5accb6870e0a2631f7029d47",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2020305,
+        "known_for_department": "Acting",
+        "name": "Phoebe Givron-Taylor",
+        "original_name": "Phoebe Givron-Taylor",
+        "popularity": 0.5201,
+        "profile_path": "/3yvISkmbTF1IBb1eATWBD9sjPfW.jpg",
+        "cast_id": 18,
+        "character": "Anna Sackville-Bagg (voice)",
+        "credit_id": "5accb6ae9251414341028237",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11276,
+        "known_for_department": "Acting",
+        "name": "Tim Pigott-Smith",
+        "original_name": "Tim Pigott-Smith",
+        "popularity": 1.5057,
+        "profile_path": "/37OZUY7cq8eoWxhKR2VD1ppusJM.jpg",
+        "cast_id": 10,
+        "character": "Frederick Sackville-Bagg (voice)",
+        "credit_id": "5a0551d7c3a3686a7d00deec",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2506,
+        "known_for_department": "Acting",
+        "name": "Alice Krige",
+        "original_name": "Alice Krige",
+        "popularity": 2.4591,
+        "profile_path": "/jHOknQMjkIqqrm5RjtMCnJfnGXl.jpg",
+        "cast_id": 9,
+        "character": "Freda Sackville-Bagg (voice)",
+        "credit_id": "5a0551c8c3a3686af100e2a3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1048577,
+        "known_for_department": "Acting",
+        "name": "Julia Rhodes",
+        "original_name": "Julia Rhodes",
+        "popularity": 0.4396,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Dottie Thomson (voice)",
+        "credit_id": "5accb6f4c3a3687e2702a617",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146751,
+        "known_for_department": "Acting",
+        "name": "Kevin Otto",
+        "original_name": "Kevin Otto",
+        "popularity": 1.0612,
+        "profile_path": "/ueyvfE9GiKCq6bqzsHYiJQk8sUM.jpg",
+        "cast_id": 20,
+        "character": "Bob Thompson (voice)",
+        "credit_id": "5accb72ac3a3687e72028401",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1158458,
+        "known_for_department": "Acting",
+        "name": "Diane Wilson",
+        "original_name": "Diane Wilson",
+        "popularity": 0.3289,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Emma / Aunt Ashley (voice)",
+        "credit_id": "5accb7880e0a2631e702b7d3",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114457,
+        "known_for_department": "Acting",
+        "name": "Graham Clarke",
+        "original_name": "Graham Clarke",
+        "popularity": 0.7841,
+        "profile_path": "/jx3rbzkIh1F7uCDlADeOvn0nDrw.jpg",
+        "cast_id": 22,
+        "character": "Otto (voice)",
+        "credit_id": "5accb7d60e0a2631e702b839",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6199,
+        "known_for_department": "Acting",
+        "name": "Miriam Margolyes",
+        "original_name": "Miriam Margolyes",
+        "popularity": 1.8717,
+        "profile_path": "/vsnCGCp0nhJTag56HP8XFhXnZo9.jpg",
+        "cast_id": 11,
+        "character": "Wulftrud (voice)",
+        "credit_id": "5a0551e7c3a3686a3800d476",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17353,
+        "known_for_department": "Acting",
+        "name": "Matthew Marsh",
+        "original_name": "Matthew Marsh",
+        "popularity": 1.1451,
+        "profile_path": "/9NfvGnHBZI4CwyPIOgv8qPMIaAv.jpg",
+        "cast_id": 23,
+        "character": "Gernot (voice)",
+        "credit_id": "5accb95ac3a3687e0e0285f7",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 120092,
+        "known_for_department": "Acting",
+        "name": "Matthew Dylan Roberts",
+        "original_name": "Matthew Dylan Roberts",
+        "popularity": 0.5576,
+        "profile_path": "/ec9b5xAJ6fnH19LGxobFNgVg13T.jpg",
+        "cast_id": 24,
+        "character": "Old man with dog (voice)",
+        "credit_id": "5accb98ec3a36834de083721",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57810,
+        "known_for_department": "Production",
+        "name": "Richard Claus",
+        "original_name": "Richard Claus",
+        "popularity": 0.7037,
+        "profile_path": "/e986jPpP4oA9JGxI4iSMqBxcJ0M.jpg",
+        "credit_id": "58a607a4c3a3681c0b001db6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 73098,
+        "known_for_department": "Directing",
+        "name": "Karsten Kiilerich",
+        "original_name": "Karsten Kiilerich",
+        "popularity": 0.5681,
+        "profile_path": null,
+        "credit_id": "58a607af92514152b7001d26",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 323375,
+        "known_for_department": "Production",
+        "name": "Chris Brouwer",
+        "original_name": "Chris Brouwer",
+        "popularity": 0.3961,
+        "profile_path": null,
+        "credit_id": "663436a4d9f4a6012ce2bd32",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 993717,
+        "known_for_department": "Writing",
+        "name": "Brian Cleveland",
+        "original_name": "Brian Cleveland",
+        "popularity": 0.5148,
+        "profile_path": null,
+        "credit_id": "663436bce92d83012ad2560b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1037910,
+        "known_for_department": "Production",
+        "name": "Edward Noeltner",
+        "original_name": "Edward Noeltner",
+        "popularity": 0.5141,
+        "profile_path": null,
+        "credit_id": "663436f4af4324012254628b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 73230,
+        "known_for_department": "Camera",
+        "name": "Niels Grønlykke",
+        "original_name": "Niels Grønlykke",
+        "popularity": 0.3821,
+        "profile_path": null,
+        "credit_id": "66343c56e92d830121d264a4",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2488038,
+        "known_for_department": "Art",
+        "name": "Sten Mesterton",
+        "original_name": "Sten Mesterton",
+        "popularity": 0.3169,
+        "profile_path": null,
+        "credit_id": "66343ce3af43240122546c20",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 993718,
+        "known_for_department": "Writing",
+        "name": "Jason Cleveland",
+        "original_name": "Jason Cleveland",
+        "popularity": 0.8386,
+        "profile_path": null,
+        "credit_id": "663436c7c616ac012519699d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 74002,
+        "known_for_department": "Production",
+        "name": "Maya Gräfin Rothkirch",
+        "original_name": "Maya Gräfin Rothkirch",
+        "popularity": 0.4645,
+        "profile_path": null,
+        "credit_id": "663436d9c616ac0122197317",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1558952,
+        "known_for_department": "Sound",
+        "name": "Vidjay Beerepoot",
+        "original_name": "Vidjay Beerepoot",
+        "popularity": 0.4482,
+        "profile_path": null,
+        "credit_id": "66343c3dc616ac0128198bfe",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2447441,
+        "known_for_department": "Production",
+        "name": "Jana Bohl",
+        "original_name": "Jana Bohl",
+        "popularity": 0.2814,
+        "profile_path": null,
+        "credit_id": "6634369683ee67012a409cc2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3922,
+        "known_for_department": "Production",
+        "name": "Joyce Nettles",
+        "original_name": "Joyce Nettles",
+        "popularity": 1.1199,
+        "profile_path": null,
+        "credit_id": "66343cc3ad59b5012b6da1be",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2016630,
+        "known_for_department": "Art",
+        "name": "Edwin Rhemrev",
+        "original_name": "Edwin Rhemrev",
+        "popularity": 0.4174,
+        "profile_path": "/c0xeG8QI8PySHMHZOdKJu3SxAOb.jpg",
+        "credit_id": "66343cd4a1c59d012ce71de0",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57810,
+        "known_for_department": "Production",
+        "name": "Richard Claus",
+        "original_name": "Richard Claus",
+        "popularity": 0.7037,
+        "profile_path": "/e986jPpP4oA9JGxI4iSMqBxcJ0M.jpg",
+        "credit_id": "663436affe6c1801292f9844",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 73101,
+        "known_for_department": "Production",
+        "name": "Anders Mastrup",
+        "original_name": "Anders Mastrup",
+        "popularity": 0.4298,
+        "profile_path": null,
+        "credit_id": "663436e4a1c59d0129e71402",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66942,
+        "known_for_department": "Directing",
+        "name": "Holger Tappe",
+        "original_name": "Holger Tappe",
+        "popularity": 0.5997,
+        "profile_path": null,
+        "credit_id": "66343702c616ac01281980ac",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56916,
+        "known_for_department": "Editing",
+        "name": "Job ter Burg",
+        "original_name": "Job ter Burg",
+        "popularity": 0.3595,
+        "profile_path": "/ta0PrQC1O30WUeExJCaouXs2Ir.jpg",
+        "credit_id": "66343c6e99d5c30129571e16",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29529,
+        "known_for_department": "Writing",
+        "name": "Larry Wilson",
+        "original_name": "Larry Wilson",
+        "popularity": 0.7397,
+        "profile_path": "/n6zx69H2u1tOD4Ugl9DM2Q5aOLN.jpg",
+        "credit_id": "59e84a05c3a368282e00a1a0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57810,
+        "known_for_department": "Production",
+        "name": "Richard Claus",
+        "original_name": "Richard Claus",
+        "popularity": 0.7037,
+        "profile_path": "/e986jPpP4oA9JGxI4iSMqBxcJ0M.jpg",
+        "credit_id": "59e849bec3a36827b500b567",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1908221,
+        "known_for_department": "Writing",
+        "name": "Angela Sommer-Bodenburg",
+        "original_name": "Angela Sommer-Bodenburg",
+        "popularity": 0.4885,
+        "profile_path": "/hYfZrnC0jNtAyMx5iRZ99bylwdz.jpg",
+        "credit_id": "68e29b958dba4d8e56bd9610",
+        "department": "Writing",
+        "job": "Characters"
+      }
+    ]
+  }
+}

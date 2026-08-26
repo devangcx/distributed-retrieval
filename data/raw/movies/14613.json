@@ -1,0 +1,463 @@
+{
+  "adult": false,
+  "backdrop_path": "/6V6rhHkqYvJGlxIQ9mvZuIoY6c9.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 14613,
+  "imdb_id": "tt1259998",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Next Avengers: Heroes of Tomorrow",
+  "overview": "The children of the Avengers hone their powers and go head to head with the very enemy responsible for their parents' demise.",
+  "popularity": 3.3406,
+  "poster_path": "/1y4J9HZJoTIMdt77wCq80uXaQJ.jpg",
+  "production_companies": [
+    {
+      "id": 213002,
+      "logo_path": null,
+      "name": "MLG Productions 5",
+      "origin_country": "US"
+    },
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    },
+    {
+      "id": 420,
+      "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+      "name": "Marvel Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2008-09-02",
+  "revenue": 3800000,
+  "runtime": 78,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The children of heroes past are our only hope for the future!",
+  "title": "Next Avengers: Heroes of Tomorrow",
+  "video": false,
+  "vote_average": 7.054,
+  "vote_count": 313,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141530,
+        "known_for_department": "Acting",
+        "name": "Noah Crawford",
+        "original_name": "Noah Crawford",
+        "popularity": 1.1073,
+        "profile_path": "/c3R1GuH9wzKUlyZIM8f6uzY0lG9.jpg",
+        "cast_id": 3,
+        "character": "James Rogers (voice)",
+        "credit_id": "52fe46079251416c7506ab5b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 87736,
+        "known_for_department": "Acting",
+        "name": "Brenna O'Brien",
+        "original_name": "Brenna O'Brien",
+        "popularity": 0.8759,
+        "profile_path": "/uELRo1iat97rVeyBxCrpqy6v1OR.jpg",
+        "cast_id": 4,
+        "character": "Torunn (voice)",
+        "credit_id": "52fe46079251416c7506ab5f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 215395,
+        "known_for_department": "Acting",
+        "name": "Aidan Drummond",
+        "original_name": "Aidan Drummond",
+        "popularity": 0.8427,
+        "profile_path": "/atlly2oEm9ng6baREYcIuZc3EYN.jpg",
+        "cast_id": 5,
+        "character": "Pym (voice)",
+        "credit_id": "52fe46089251416c7506ab63",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 167756,
+        "known_for_department": "Acting",
+        "name": "Dempsey Pappion",
+        "original_name": "Dempsey Pappion",
+        "popularity": 0.8855,
+        "profile_path": "/jPqHoYUzlo5MwZbvFUKi2XqNYaN.jpg",
+        "cast_id": 6,
+        "character": "Azari (voice)",
+        "credit_id": "52fe46089251416c7506ab67",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71535,
+        "known_for_department": "Acting",
+        "name": "Tom Kane",
+        "original_name": "Tom Kane",
+        "popularity": 1.6081,
+        "profile_path": "/sq49aVP56G50Nr5kCL7Ove6Z9jE.jpg",
+        "cast_id": 8,
+        "character": "Tony Stark / Iron Man / Ultron (voice)",
+        "credit_id": "52fe46089251416c7506ab6f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60279,
+        "known_for_department": "Acting",
+        "name": "Fred Tatasciore",
+        "original_name": "Fred Tatasciore",
+        "popularity": 2.5726,
+        "profile_path": "/xodxYKRC9mdvgquTdqpmYldliJ3.jpg",
+        "cast_id": 9,
+        "character": "Hulk (voice)",
+        "credit_id": "52fe46089251416c7506ab73",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63566,
+        "known_for_department": "Acting",
+        "name": "Michael Adamthwaite",
+        "original_name": "Michael Adamthwaite",
+        "popularity": 1.7849,
+        "profile_path": "/J9R1DkSkmGDioXJmHIMg5Vt8pb.jpg",
+        "cast_id": 14,
+        "character": "Thor (voice)",
+        "credit_id": "52fe46089251416c7506ab83",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101247,
+        "known_for_department": "Acting",
+        "name": "Adrian Petriw",
+        "original_name": "Adrian Petriw",
+        "popularity": 1.2878,
+        "profile_path": "/3jbR14GEKoUCbrs3NVmQw8eWRvu.jpg",
+        "cast_id": 7,
+        "character": "Hawkeye (voice)",
+        "credit_id": "52fe46089251416c7506ab6b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 220787,
+        "known_for_department": "Acting",
+        "name": "Shawn Macdonald",
+        "original_name": "Shawn Macdonald",
+        "popularity": 0.7397,
+        "profile_path": "/tBDcAI3h0T6IHK2ON2Yupwq4jNy.jpg",
+        "cast_id": 10,
+        "character": "Vision (voice)",
+        "credit_id": "52fe46089251416c7506ab77",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 74370,
+        "known_for_department": "Acting",
+        "name": "Nicole Oliver",
+        "original_name": "Nicole Oliver",
+        "popularity": 1.5442,
+        "profile_path": "/plAsVfhTrYaU78JrZbJSQ4uXpX1.jpg",
+        "cast_id": 13,
+        "character": "Betty Ross (voice)",
+        "credit_id": "52fe46089251416c7506ab7f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 106950,
+        "known_for_department": "Acting",
+        "name": "Ken Kramer",
+        "original_name": "Ken Kramer",
+        "popularity": 1.3046,
+        "profile_path": "/has3BbqVWB9ZByFD0FXCCHEQ6Jc.jpg",
+        "cast_id": 12,
+        "character": "Bruce Banner (voice)",
+        "credit_id": "52fe46089251416c7506ab7b",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105643,
+        "known_for_department": "Directing",
+        "name": "Jay Oliva",
+        "original_name": "Jay Oliva",
+        "popularity": 1.3311,
+        "profile_path": "/y7EbnuoKFMvU7uZ4aD50jThyNoF.jpg",
+        "credit_id": "52fe46079251416c7506ab51",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10850,
+        "known_for_department": "Production",
+        "name": "Kevin Feige",
+        "original_name": "Kevin Feige",
+        "popularity": 3.5708,
+        "profile_path": "/kCBqXZ5PT5udYGEj2wfTSFbLMvT.jpg",
+        "credit_id": "59028ad8c3a368290a000b8d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215939,
+        "known_for_department": "Writing",
+        "name": "Greg Johnson",
+        "original_name": "Greg Johnson",
+        "popularity": 0.886,
+        "profile_path": null,
+        "credit_id": "5e9772ad9defda001aba76b8",
+        "department": "Writing",
+        "job": "Screenstory"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1214725,
+        "known_for_department": "Directing",
+        "name": "Gary Hartle",
+        "original_name": "Gary Hartle",
+        "popularity": 0.5044,
+        "profile_path": null,
+        "credit_id": "5e977325d1444300124ffe96",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1923007,
+        "known_for_department": "Directing",
+        "name": "Chuck Drost",
+        "original_name": "Chuck Drost",
+        "popularity": 0.3767,
+        "profile_path": null,
+        "credit_id": "5e977475b339030015a125df",
+        "department": "Art",
+        "job": "Additional Storyboarding"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69664,
+        "known_for_department": "Production",
+        "name": "Eric S. Rollman",
+        "original_name": "Eric S. Rollman",
+        "popularity": 0.4017,
+        "profile_path": null,
+        "credit_id": "5e9773e6f6787a0019ef831c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 109542,
+        "known_for_department": "Writing",
+        "name": "Christopher L. Yost",
+        "original_name": "Christopher L. Yost",
+        "popularity": 1.4819,
+        "profile_path": "/wPZAV6uK5t3MRd2gBt5AqBTzCsa.jpg",
+        "credit_id": "5e9772dcf6787a0012ef8493",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 43094,
+        "known_for_department": "Production",
+        "name": "Ken Katsumoto",
+        "original_name": "Ken Katsumoto",
+        "popularity": 0.4633,
+        "profile_path": null,
+        "credit_id": "5e97736df6787a0012ef84bd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7624,
+        "known_for_department": "Writing",
+        "name": "Stan Lee",
+        "original_name": "Stan Lee",
+        "popularity": 5.5316,
+        "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg",
+        "credit_id": "5e9773a1f6787a0012ef8504",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2602822,
+        "known_for_department": "Art",
+        "name": "Rick Farley",
+        "original_name": "Rick Farley",
+        "popularity": 0.2018,
+        "profile_path": null,
+        "credit_id": "5e9774b3fdf8b70013a1cea8",
+        "department": "Art",
+        "job": "Additional Storyboarding"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87173,
+        "known_for_department": "Writing",
+        "name": "Craig Kyle",
+        "original_name": "Craig Kyle",
+        "popularity": 0.8686,
+        "profile_path": "/kXtY46kM9bS8AlTXC2rD4u58v58.jpg",
+        "credit_id": "5e97726afdf8b7001aa1dd04",
+        "department": "Writing",
+        "job": "Screenstory"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1214725,
+        "known_for_department": "Directing",
+        "name": "Gary Hartle",
+        "original_name": "Gary Hartle",
+        "popularity": 0.5044,
+        "profile_path": null,
+        "credit_id": "5e977343097c4900120a6ad8",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87173,
+        "known_for_department": "Writing",
+        "name": "Craig Kyle",
+        "original_name": "Craig Kyle",
+        "popularity": 0.8686,
+        "profile_path": "/kXtY46kM9bS8AlTXC2rD4u58v58.jpg",
+        "credit_id": "5e97738919ab590012462a84",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1260274,
+        "known_for_department": "Production",
+        "name": "Carrie Wassenaar",
+        "original_name": "Carrie Wassenaar",
+        "popularity": 0.4319,
+        "profile_path": null,
+        "credit_id": "5e97740cfdf8b7001aa1e0e9",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 142570,
+        "known_for_department": "Sound",
+        "name": "Guy Michelmore",
+        "original_name": "Guy Michelmore",
+        "popularity": 0.4262,
+        "profile_path": null,
+        "credit_id": "5e9775fd0582240013ad6928",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1172887,
+        "known_for_department": "Production",
+        "name": "Cory Gustke",
+        "original_name": "Cory Gustke",
+        "popularity": 0.302,
+        "profile_path": null,
+        "credit_id": "5e977436b33903001aa135ed",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1659481,
+        "known_for_department": "Art",
+        "name": "Tim Divar",
+        "original_name": "Tim Divar",
+        "popularity": 0.4665,
+        "profile_path": null,
+        "credit_id": "5e977451fdf8b7001aa1e135",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      }
+    ]
+  }
+}

@@ -1,0 +1,459 @@
+{
+  "adult": false,
+  "backdrop_path": "/3HX8idPAiLf3tFWMc9x8t8ukNI1.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 21956,
+  "imdb_id": "tt0369903",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Scooby-Doo! and the Monster of Mexico",
+  "overview": "A friend of Fred's, Alejo Otero, invites the Scooby gang to Veracruz, Mexico. There they find a monster, El Chupacabra, terrorizing the town.",
+  "popularity": 3.1295,
+  "poster_path": "/fv4e6pGhl4fDUdRt2WIDLDgEq7e.jpg",
+  "production_companies": [
+    {
+      "id": 1353,
+      "logo_path": "/yXhCcOFK5Fy3ZBQwhBYx8Zu9ZIw.png",
+      "name": "Hanna-Barbera Cartoons",
+      "origin_country": "US"
+    },
+    {
+      "id": 2785,
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "name": "Warner Bros. Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2003-09-30",
+  "revenue": 0,
+  "runtime": 75,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A: Act macho. B: Eat tacos. C: Run!",
+  "title": "Scooby-Doo! and the Monster of Mexico",
+  "video": false,
+  "vote_average": 7.252,
+  "vote_count": 353,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15831,
+        "known_for_department": "Acting",
+        "name": "Frank Welker",
+        "original_name": "Frank Welker",
+        "popularity": 3.2633,
+        "profile_path": "/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg",
+        "cast_id": 3,
+        "character": "Fred Jones / Scooby-Doo (voice)",
+        "credit_id": "52fe442ec3a368484e0142b3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16418,
+        "known_for_department": "Acting",
+        "name": "Casey Kasem",
+        "original_name": "Casey Kasem",
+        "popularity": 1.648,
+        "profile_path": "/sBKx2Da5Igy55Sjk2dnhtI3JekC.jpg",
+        "cast_id": 6,
+        "character": "Shaggy Rogers (voice)",
+        "credit_id": "52fe442ec3a368484e0142bf",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 96340,
+        "known_for_department": "Acting",
+        "name": "Heather North",
+        "original_name": "Heather North",
+        "popularity": 0.9412,
+        "profile_path": "/rI0fhIxAFCOfPQn9GndwgaJdE0b.jpg",
+        "cast_id": 5,
+        "character": "Daphne Blake (voice)",
+        "credit_id": "52fe442ec3a368484e0142bb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 96339,
+        "known_for_department": "Acting",
+        "name": "Nicole Jaffe",
+        "original_name": "Nicole Jaffe",
+        "popularity": 0.8808,
+        "profile_path": "/pzXVk4H5jh45etugk3PBvyyjfWL.jpg",
+        "cast_id": 4,
+        "character": "Velma Dinkley (voice)",
+        "credit_id": "52fe442ec3a368484e0142b7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 95257,
+        "known_for_department": "Acting",
+        "name": "Candi Milo",
+        "original_name": "Candi Milo",
+        "popularity": 1.8006,
+        "profile_path": "/tUjXMG2118Oagj7IjWJDEdmtCRW.jpg",
+        "cast_id": 13,
+        "character": "Charlene Otero / Museum Guide / Old Woman #1 (voice)",
+        "credit_id": "5a7ff6a9c3a368189f0190d1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85759,
+        "known_for_department": "Acting",
+        "name": "Maria Canals-Barrera",
+        "original_name": "Maria Canals-Barrera",
+        "popularity": 2.1958,
+        "profile_path": "/bqlwEfG1oczOW0f8tsJ31lbIfPo.jpg",
+        "cast_id": 9,
+        "character": "Sofia Otero / Old Woman #2 (voice)",
+        "credit_id": "5a7ff60792514140f801802e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58647,
+        "known_for_department": "Acting",
+        "name": "Jesse Borrego",
+        "original_name": "Jesse Borrego",
+        "popularity": 1.445,
+        "profile_path": "/bK9cPqXTJSRN72ZDKN3UXlKN3gU.jpg",
+        "cast_id": 8,
+        "character": "Luis Otero / Musician #2 / Suspicious Tourist (voice)",
+        "credit_id": "5a7ff5e8c3a368189f01903c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1374148,
+        "known_for_department": "Acting",
+        "name": "Brandon Gonzales",
+        "original_name": "Brandon Gonzales",
+        "popularity": 0.5712,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Jorge Otero (voice)",
+        "credit_id": "5a7ff61ac3a36818cd017e45",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3979,
+        "known_for_department": "Acting",
+        "name": "Castulo Guerra",
+        "original_name": "Castulo Guerra",
+        "popularity": 1.1942,
+        "profile_path": "/nYZihE7w1baKehLmDQb0eKEqYqF.jpg",
+        "cast_id": 11,
+        "character": "Señor Fuente / Man #1 (voice)",
+        "credit_id": "5a7ff659925141410a0184fc",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2137,
+        "known_for_department": "Acting",
+        "name": "Benito Martinez",
+        "original_name": "Benito Martinez",
+        "popularity": 2.3301,
+        "profile_path": "/3lPxnrPCs31lnliBNEssgxw7Qxg.jpg",
+        "cast_id": 24,
+        "character": "El Curandero / Man #2 (voice)",
+        "credit_id": "6203a94d46f35400d8a13fe1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1975940,
+        "known_for_department": "Acting",
+        "name": "Darlene Mendoza",
+        "original_name": "Darlene Mendoza",
+        "popularity": 0.3716,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Natalia Otero / Little Girl (voice)",
+        "credit_id": "5a7ff68c0e0a262ab201a80b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13299,
+        "known_for_department": "Acting",
+        "name": "Rita Moreno",
+        "original_name": "Rita Moreno",
+        "popularity": 2.4939,
+        "profile_path": "/zB0M77jr7tmsmWHEr2bWO2Xq66L.jpg",
+        "cast_id": 14,
+        "character": "Doña Dolores / Woman #3 (voice)",
+        "credit_id": "5a7ff6c50e0a262aa601a49c",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1975941,
+        "known_for_department": "Acting",
+        "name": "Allyse Rivera",
+        "original_name": "Allyse Rivera",
+        "popularity": 0.3815,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Carolina Otero (voice)",
+        "credit_id": "5a7ff6e40e0a262aa201a1c6",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1975942,
+        "known_for_department": "Acting",
+        "name": "Casey Sandino",
+        "original_name": "Casey Sandino",
+        "popularity": 0.1775,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Sebastian Otero / Little Boy (voice)",
+        "credit_id": "5a7ff6fa92514141070181dc",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1524538,
+        "known_for_department": "Acting",
+        "name": "Eddie Santiago",
+        "original_name": "Eddie Santiago",
+        "popularity": 0.5615,
+        "profile_path": "/559tixUHIB6CiK3nFcL5mbuts95.jpg",
+        "cast_id": 17,
+        "character": "Alejo Otero / Musician #1 (voice)",
+        "credit_id": "5a7ff70a0e0a262aac01af22",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37438,
+        "known_for_department": "Acting",
+        "name": "Rip Taylor",
+        "original_name": "Rip Taylor",
+        "popularity": 1.5372,
+        "profile_path": "/8Dcp66lNJeGlgVCt6eELmv9pLBE.jpg",
+        "cast_id": 18,
+        "character": "Mr. Smiley / Ghost of Señor Otero (voice)",
+        "credit_id": "5a7ff71ec3a368189a01a322",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1007561,
+        "known_for_department": "Acting",
+        "name": "Michael Forest",
+        "original_name": "Michael Forest",
+        "popularity": 1.446,
+        "profile_path": "/zG1BVNsy3htNKAtZvihWD3btEWN.jpg",
+        "cast_id": 25,
+        "character": "El Chuprecabra (voice)",
+        "credit_id": "6203a9d02f3b17006a39bfeb",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96337,
+        "known_for_department": "Directing",
+        "name": "Scott Jeralds",
+        "original_name": "Scott Jeralds",
+        "popularity": 0.7251,
+        "profile_path": null,
+        "credit_id": "52fe442ec3a368484e0142a9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96338,
+        "known_for_department": "Writing",
+        "name": "Douglas Wood",
+        "original_name": "Douglas Wood",
+        "popularity": 0.5492,
+        "profile_path": "/jDNHPHxQYJHzUACg49G9Edyab5s.jpg",
+        "credit_id": "52fe442ec3a368484e0142af",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1450356,
+        "known_for_department": "Art",
+        "name": "Tristin Cole",
+        "original_name": "Tristin Cole",
+        "popularity": 0.5044,
+        "profile_path": null,
+        "credit_id": "5544514bc3a368573b00094b",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 555773,
+        "known_for_department": "Production",
+        "name": "Sander Schwartz",
+        "original_name": "Sander Schwartz",
+        "popularity": 0.5403,
+        "profile_path": null,
+        "credit_id": "65c5b6c72d531a0163c5983e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 966797,
+        "known_for_department": "Production",
+        "name": "Collette Sunderman",
+        "original_name": "Collette Sunderman",
+        "popularity": 0.6173,
+        "profile_path": null,
+        "credit_id": "65c5b6d5fd7aa4016197d91b",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13594,
+        "known_for_department": "Production",
+        "name": "Joseph Barbera",
+        "original_name": "Joseph Barbera",
+        "popularity": 1.47,
+        "profile_path": "/16UhnbVLaX9QBtcnjLH6hrdzq4F.jpg",
+        "credit_id": "65c5b6921b70ae0163a2935c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1756442,
+        "known_for_department": "Production",
+        "name": "Rich Dickerson",
+        "original_name": "Rich Dickerson",
+        "popularity": 0.2691,
+        "profile_path": null,
+        "credit_id": "5a7ff7810e0a262ab201a8c2",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96337,
+        "known_for_department": "Directing",
+        "name": "Scott Jeralds",
+        "original_name": "Scott Jeralds",
+        "popularity": 0.7251,
+        "profile_path": null,
+        "credit_id": "5a7ff76e0e0a262ab501a153",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 998195,
+        "known_for_department": "Editing",
+        "name": "Joe Gall",
+        "original_name": "Joe Gall",
+        "popularity": 0.475,
+        "profile_path": null,
+        "credit_id": "5a7ff7a29251414101018943",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1597796,
+        "known_for_department": "Sound",
+        "name": "Gigi Meroni",
+        "original_name": "Gigi Meroni",
+        "popularity": 0.3729,
+        "profile_path": null,
+        "credit_id": "5a7ff78e9251414107018251",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 141707,
+        "known_for_department": "Production",
+        "name": "Margaret M. Dean",
+        "original_name": "Margaret M. Dean",
+        "popularity": 0.4986,
+        "profile_path": null,
+        "credit_id": "5a7ff75f0e0a262aae01a06f",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

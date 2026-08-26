@@ -1,0 +1,305 @@
+{
+  "adult": false,
+  "backdrop_path": "/smdsVE6IU5aRQboF2WL1gPBqeoT.jpg",
+  "belongs_to_collection": {
+    "id": 1199363,
+    "name": "Khichdi Collection",
+    "poster_path": "/mm45BNE7Jspy9HBhlhZVwPMxWZH.jpg",
+    "backdrop_path": "/urALGGmKyrrbgNx1AocFmgM4JJF.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 53283,
+  "imdb_id": "tt1738293",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "खिचड़ी: द मूवी",
+  "overview": "In order to immortalize his love, a groom decides to create conflict between his and his to-be bride's families.",
+  "popularity": 1.1061,
+  "poster_path": "/pe00dnjrldNryggGZyBQ6zon30U.jpg",
+  "production_companies": [
+    {
+      "id": 149722,
+      "logo_path": null,
+      "name": "Hats Off Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2010-10-01",
+  "revenue": 0,
+  "runtime": 120,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Comedy Family ki Family Comedy",
+  "title": "Khichdi: The Movie",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 20,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86503,
+        "known_for_department": "Acting",
+        "name": "Anang Desai",
+        "original_name": "Anang Desai",
+        "popularity": 0.7894,
+        "profile_path": "/c5QbV2LHo1AFtavHO6owAObONBC.jpg",
+        "cast_id": 3,
+        "character": "Tulsidas Parekh a.k.a. Babuji",
+        "credit_id": "52fe485dc3a36847f8163a71",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 562225,
+        "known_for_department": "Acting",
+        "name": "Rajeev Mehta",
+        "original_name": "Rajeev Mehta",
+        "popularity": 0.519,
+        "profile_path": "/4BukEb1hxN7jQzpKkj6k8Sj4jSa.jpg",
+        "cast_id": 4,
+        "character": "Praful Parekh",
+        "credit_id": "6058ef5dfd4f800074bcc1db",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86892,
+        "known_for_department": "Acting",
+        "name": "Supriya Pathak",
+        "original_name": "Supriya Pathak",
+        "popularity": 0.817,
+        "profile_path": "/cDvNa9XL425kBiyT4xqRGM8kK4H.jpg",
+        "cast_id": 5,
+        "character": "Hansa Praful Parekh",
+        "credit_id": "6058ef72b39e35003dd86809",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1251306,
+        "known_for_department": "Acting",
+        "name": "JD Majethia",
+        "original_name": "JD Majethia",
+        "popularity": 0.5098,
+        "profile_path": "/omWtS3FZJNxfg2diiHXpAaMxyQt.jpg",
+        "cast_id": 6,
+        "character": "Himanshu",
+        "credit_id": "6058ef8e5c071b00546d52e6",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1252561,
+        "known_for_department": "Acting",
+        "name": "Nimisha Vakharia",
+        "original_name": "Nimisha Vakharia",
+        "popularity": 0.5944,
+        "profile_path": "/XjNYfTmIMoURyTWiSRmYaOTkqZ.jpg",
+        "cast_id": 7,
+        "character": "Jayshree Parekh",
+        "credit_id": "6058efa96e3deb0054ea5f5b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1386192,
+        "known_for_department": "Acting",
+        "name": "Kirti Kulhari",
+        "original_name": "Kirti Kulhari",
+        "popularity": 0.8762,
+        "profile_path": "/5jm5YN7QGKCjgHYFQOFySIZ1Od3.jpg",
+        "cast_id": 8,
+        "character": "Parminder",
+        "credit_id": "6058efcbd5ffcb007648ff87",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1254401,
+        "known_for_department": "Acting",
+        "name": "Gireesh Sahedev",
+        "original_name": "Gireesh Sahedev",
+        "popularity": 0.3928,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Parminder",
+        "credit_id": "6058efe94557a000681aa8be",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8311,
+        "known_for_department": "Crew",
+        "name": "Farah Khan",
+        "original_name": "Farah Khan",
+        "popularity": 1.0383,
+        "profile_path": "/rkAVUE9OfKYuYSCm0zEyjMZE3tC.jpg",
+        "cast_id": 10,
+        "character": "Herself",
+        "credit_id": "6058f008b04228005487f131",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1252844,
+        "known_for_department": "Acting",
+        "name": "Arvind Vaidya",
+        "original_name": "Arvind Vaidya",
+        "popularity": 0.6973,
+        "profile_path": "/ibKzKDJvQaPBakUHXhYuCS0773D.jpg",
+        "cast_id": 11,
+        "character": "Chandrakant Sheth",
+        "credit_id": "6058f020af2da80029f647de",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1012059,
+        "known_for_department": "Acting",
+        "name": "Dinyar Contractor",
+        "original_name": "Dinyar Contractor",
+        "popularity": 0.4888,
+        "profile_path": "/j4bM1gNt8LKpepgZKBVPeuCnI4B.jpg",
+        "cast_id": 12,
+        "character": "Judge",
+        "credit_id": "6058f0366e3deb003de418db",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35759,
+        "known_for_department": "Acting",
+        "name": "Satish Shah",
+        "original_name": "Satish Shah",
+        "popularity": 1.4609,
+        "profile_path": "/AaXbQI0fAoTW4Qjg4dAtC5xkK1G.jpg",
+        "cast_id": 13,
+        "character": "Buddhidev",
+        "credit_id": "6058f05d6e3deb003de418f9",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110292,
+        "known_for_department": "Acting",
+        "name": "Deven Bhojani",
+        "original_name": "Deven Bhojani",
+        "popularity": 1.038,
+        "profile_path": "/4gKlQ8QD6BtfachIRAXOxB5vidB.jpg",
+        "cast_id": 14,
+        "character": "Hospital Patient",
+        "credit_id": "6058f07922931a006a2a7089",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147706,
+        "known_for_department": "Acting",
+        "name": "Paresh Ganatra",
+        "original_name": "Paresh Ganatra",
+        "popularity": 0.8217,
+        "profile_path": "/cXT8wFugq8lmb09SmVYNhsEQhe2.jpg",
+        "cast_id": 15,
+        "character": "Advocate Pandit",
+        "credit_id": "6058f099af2da80076127a4c",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3020789,
+        "known_for_department": "Acting",
+        "name": "Kesar Majethia",
+        "original_name": "Kesar Majethia",
+        "popularity": 0.2856,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Chakki Praful Parekh (Narrator)",
+        "credit_id": "6058f0c5b04228005487f268",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3020791,
+        "known_for_department": "Acting",
+        "name": "Markand Soni",
+        "original_name": "Markand Soni",
+        "popularity": 0.3966,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Jacky Bharat Parekh (Narrator)",
+        "credit_id": "6058f0f2eec4f3006b9acfaf",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 142630,
+        "known_for_department": "Writing",
+        "name": "Aatish Kapadia",
+        "original_name": "Aatish Kapadia",
+        "popularity": 0.8999,
+        "profile_path": null,
+        "credit_id": "52fe485dc3a36847f8163a67",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 142630,
+        "known_for_department": "Writing",
+        "name": "Aatish Kapadia",
+        "original_name": "Aatish Kapadia",
+        "popularity": 0.8999,
+        "profile_path": null,
+        "credit_id": "52fe485dc3a36847f8163a6d",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

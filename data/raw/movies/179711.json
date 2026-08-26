@@ -1,0 +1,316 @@
+{
+  "adult": false,
+  "backdrop_path": "/whdNOwhFzOAqG4KXmQNMRXRmJoQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 179711,
+  "imdb_id": "tt2323964",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Mere Dad Ki Maruti",
+  "overview": "An irresponsible playboy steals the new car that was meant as his sister's wedding present and loses it after a night on the town.",
+  "popularity": 0.8072,
+  "poster_path": "/xzJIm62ZMewLP5sweQoRqAuVXhP.jpg",
+  "production_companies": [
+    {
+      "id": 91443,
+      "logo_path": null,
+      "name": "Y-Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2013-03-15",
+  "revenue": 0,
+  "runtime": 101,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Mere Dad Ki Maruti",
+  "video": false,
+  "vote_average": 6.05,
+  "vote_count": 30,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1147461,
+        "known_for_department": "Acting",
+        "name": "Saqib Saleem",
+        "original_name": "Saqib Saleem",
+        "popularity": 0.5693,
+        "profile_path": "/r9I1R0OwwSiCKRTxEp8zO89s7vS.jpg",
+        "cast_id": 2,
+        "character": "Sameer",
+        "credit_id": "52fe4daac3a36847f826d8e3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1162241,
+        "known_for_department": "Acting",
+        "name": "Rhea Chakraborty",
+        "original_name": "Rhea Chakraborty",
+        "popularity": 0.905,
+        "profile_path": "/qmWctDA1f7xRNRIkvtT931wO4x9.jpg",
+        "cast_id": 5,
+        "character": "Jasleen (Jazzleen)",
+        "credit_id": "52fe4daac3a36847f826d8ef",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112953,
+        "known_for_department": "Acting",
+        "name": "Ram Kapoor",
+        "original_name": "Ram Kapoor",
+        "popularity": 1.0565,
+        "profile_path": "/9oZ2btv1Sk6XAzosGzrqujutVoK.jpg",
+        "cast_id": 15,
+        "character": "Sameer's Father",
+        "credit_id": "5a8108b19251414107027b19",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1147465,
+        "known_for_department": "Acting",
+        "name": "Prabal Panjabi",
+        "original_name": "Prabal Panjabi",
+        "popularity": 0.5271,
+        "profile_path": "/hNFKhQ2Bbq1llEl9knp8kSk3Zx6.jpg",
+        "cast_id": 3,
+        "character": "Gattu",
+        "credit_id": "52fe4daac3a36847f826d8e7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4186182,
+        "known_for_department": "Acting",
+        "name": "Benazir Shaikh",
+        "original_name": "Benazir Shaikh",
+        "popularity": 0.4048,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Tanvi Khullar",
+        "credit_id": "67f92f227b43bdce20ae9064",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1256134,
+        "known_for_department": "Acting",
+        "name": "Karan Veer Mehra",
+        "original_name": "Karan Veer Mehra",
+        "popularity": 0.5831,
+        "profile_path": "/rEQuSLz2D2qEJ67GvXVIFvXSejA.jpg",
+        "cast_id": 19,
+        "character": "Raj",
+        "credit_id": "67f92f60d4c444a1cc99d04a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85882,
+        "known_for_department": "Acting",
+        "name": "Ravi Kishan",
+        "original_name": "रवि किशन",
+        "popularity": 1.8498,
+        "profile_path": "/rkUTRk0tuA98RepP9jhgcCbhHqy.jpg",
+        "cast_id": 4,
+        "character": "Pathan Bhai",
+        "credit_id": "52fe4daac3a36847f826d8eb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5364667,
+        "known_for_department": "Acting",
+        "name": "Savita Bhatti",
+        "original_name": "Savita Bhatti",
+        "popularity": 0.242,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Guest at Wedding",
+        "credit_id": "67f92fabd81748ccff99a825",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2333167,
+        "known_for_department": "Production",
+        "name": "Mukesh Gidderbaha",
+        "original_name": "Mukesh Gidderbaha",
+        "popularity": 0.218,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Raju",
+        "credit_id": "67f9300bde5e4dec62ad77bd",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1162244,
+        "known_for_department": "Writing",
+        "name": "Ashima Chibber",
+        "original_name": "Ashima Chibber",
+        "popularity": 0.5066,
+        "profile_path": null,
+        "credit_id": "52fe4daac3a36847f826d8f5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1162245,
+        "known_for_department": "Production",
+        "name": "Ashish Patil",
+        "original_name": "Ashish Patil",
+        "popularity": 0.4156,
+        "profile_path": null,
+        "credit_id": "52fe4daac3a36847f826d8fb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 971249,
+        "known_for_department": "Writing",
+        "name": "Neeraj Udhwani",
+        "original_name": "Neeraj Udhwani",
+        "popularity": 0.5279,
+        "profile_path": null,
+        "credit_id": "52fe4daac3a36847f826d901",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85462,
+        "known_for_department": "Writing",
+        "name": "Pooja Desai",
+        "original_name": "Pooja Desai",
+        "popularity": 0.4011,
+        "profile_path": null,
+        "credit_id": "52fe4daac3a36847f826d907",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1162244,
+        "known_for_department": "Writing",
+        "name": "Ashima Chibber",
+        "original_name": "Ashima Chibber",
+        "popularity": 0.5066,
+        "profile_path": null,
+        "credit_id": "52fe4daac3a36847f826d90d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1162246,
+        "known_for_department": "Writing",
+        "name": "Shreyansh Agrawal",
+        "original_name": "Shreyansh Agrawal",
+        "popularity": 0.3249,
+        "profile_path": null,
+        "credit_id": "52fe4daac3a36847f826d913",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1162247,
+        "known_for_department": "Sound",
+        "name": "Sachin Gupta",
+        "original_name": "Sachin Gupta",
+        "popularity": 0.352,
+        "profile_path": "/AsDRtmSJhFUnjWjRwOzcyKEduAE.jpg",
+        "credit_id": "52fe4daac3a36847f826d919",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1162248,
+        "known_for_department": "Editing",
+        "name": "Antara Lahiri",
+        "original_name": "Antara Lahiri",
+        "popularity": 0.433,
+        "profile_path": null,
+        "credit_id": "52fe4daac3a36847f826d925",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1144550,
+        "known_for_department": "Camera",
+        "name": "Adil Afsar",
+        "original_name": "Adil Afsar",
+        "popularity": 0.3392,
+        "profile_path": null,
+        "credit_id": "65aaf0b95346610131cd5d79",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1078260,
+        "known_for_department": "Sound",
+        "name": "Yo Yo Honey Singh",
+        "original_name": "Yo Yo Honey Singh",
+        "popularity": 0.6584,
+        "profile_path": "/w54B446zi7xrdq0vEBNplMDMM6K.jpg",
+        "credit_id": "5d6533d8813cb60014f9e9f8",
+        "department": "Sound",
+        "job": "Playback Singer"
+      }
+    ]
+  }
+}

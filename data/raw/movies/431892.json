@@ -1,0 +1,385 @@
+{
+  "adult": false,
+  "backdrop_path": "/dHStwRRtyQP5JeR0mnzpF0YLTWK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 431892,
+  "imdb_id": "tt6206564",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "ट्रैप्ड",
+  "overview": "A man gets stuck in an empty high rise without food, water or electricity.",
+  "popularity": 1.4004,
+  "poster_path": "/bkavKb2CIIJJqOx6Ta1QwBwUKqu.jpg",
+  "production_companies": [
+    {
+      "id": 7294,
+      "logo_path": "/kK4PRgceWp9KNrycD8xx8seWxYU.png",
+      "name": "Reliance Entertainment",
+      "origin_country": "IN"
+    },
+    {
+      "id": 7435,
+      "logo_path": "/kckDWHAeT7NTAL9CAjq0T7trwLJ.png",
+      "name": "Phantom Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2017-03-17",
+  "revenue": 436529,
+  "runtime": 105,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Freedom Lies Beyond Fear",
+  "title": "Trapped",
+  "video": false,
+  "vote_average": 6.975,
+  "vote_count": 140,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117727,
+        "known_for_department": "Acting",
+        "name": "Rajkummar Rao",
+        "original_name": "Rajkummar Rao",
+        "popularity": 1.3543,
+        "profile_path": "/ttBY7Y8x4NCpXfGS9Tc1NN8ISos.jpg",
+        "cast_id": 0,
+        "character": "Shaurya",
+        "credit_id": "58623864c3a3681a6f03ce0b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1182686,
+        "known_for_department": "Acting",
+        "name": "Geetanjali Thapa",
+        "original_name": "Geetanjali Thapa",
+        "popularity": 0.7901,
+        "profile_path": "/qQx2Z4LoQOvxmA28XSwVPsfVbez.jpg",
+        "cast_id": 1,
+        "character": "Noorie",
+        "credit_id": "5862389192514115ca03eaaa",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1780105,
+        "known_for_department": "Acting",
+        "name": "Khushboo Upadhyay",
+        "original_name": "Khushboo Upadhyay",
+        "popularity": 0.6129,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Swati",
+        "credit_id": "58cef4279251415a7d0297eb",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1728432,
+        "known_for_department": "Writing",
+        "name": "Amit Joshi",
+        "original_name": "Amit Joshi",
+        "popularity": 0.4193,
+        "profile_path": null,
+        "credit_id": "62d7ea66109cd0017349690c",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3339464,
+        "known_for_department": "Sound",
+        "name": "Tejas Menon",
+        "original_name": "Tejas Menon",
+        "popularity": 0.296,
+        "profile_path": null,
+        "credit_id": "61af8ce9699fb7001ce89176",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2373723,
+        "known_for_department": "Writing",
+        "name": "Rajeshwari Dasgupta Ghose",
+        "original_name": "Rajeshwari Dasgupta",
+        "popularity": 0.2725,
+        "profile_path": null,
+        "credit_id": "61af8cfa5bce9e0041d2124e",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3339465,
+        "known_for_department": "Sound",
+        "name": "Gowri Jayakumar",
+        "original_name": "Gowri Jayakumar",
+        "popularity": 0.2554,
+        "profile_path": null,
+        "credit_id": "61af8d1033ad8f005ef4a3bc",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223853,
+        "known_for_department": "Directing",
+        "name": "Vikramaditya Motwane",
+        "original_name": "Vikramaditya Motwane",
+        "popularity": 0.8664,
+        "profile_path": "/kG5sfFXKOsUMtWUiAOaQhI9xlHX.jpg",
+        "credit_id": "586238b492514115ca03eac2",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85670,
+        "known_for_department": "Directing",
+        "name": "Anurag Kashyap",
+        "original_name": "Anurag Kashyap",
+        "popularity": 1.5049,
+        "profile_path": "/wS1aF7dFDnKC44ZbFkbDcIpmFq5.jpg",
+        "credit_id": "58ceb2119251415a61026f78",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1664706,
+        "known_for_department": "Production",
+        "name": "Madhu Mantena Varma",
+        "original_name": "Madhu Mantena Varma",
+        "popularity": 0.2718,
+        "profile_path": null,
+        "credit_id": "58ceb21c9251415a61026f81",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1042011,
+        "known_for_department": "Production",
+        "name": "Vikas Bahl",
+        "original_name": "Vikas Bahl",
+        "popularity": 0.8051,
+        "profile_path": "/dSq2u9LkYyFzLf5PwwLTciKbwLj.jpg",
+        "credit_id": "58ceb22fc3a36850c0020966",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223853,
+        "known_for_department": "Directing",
+        "name": "Vikramaditya Motwane",
+        "original_name": "Vikramaditya Motwane",
+        "popularity": 0.8664,
+        "profile_path": "/kG5sfFXKOsUMtWUiAOaQhI9xlHX.jpg",
+        "credit_id": "58ceb239c3a36850e9023420",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1505915,
+        "known_for_department": "Production",
+        "name": "Dipa De Motwane",
+        "original_name": "Dipa De Motwane",
+        "popularity": 0.391,
+        "profile_path": null,
+        "credit_id": "58ceb3ba9251415a41025a12",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1208685,
+        "known_for_department": "Production",
+        "name": "Ranjan Singh",
+        "original_name": "Ranjan Singh",
+        "popularity": 0.4372,
+        "profile_path": null,
+        "credit_id": "58ceb3c7c3a3685104023bfa",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223853,
+        "known_for_department": "Directing",
+        "name": "Vikramaditya Motwane",
+        "original_name": "Vikramaditya Motwane",
+        "popularity": 0.8664,
+        "profile_path": "/kG5sfFXKOsUMtWUiAOaQhI9xlHX.jpg",
+        "credit_id": "58ceb3cf9251415a7d0263bd",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1322646,
+        "known_for_department": "Camera",
+        "name": "Siddharth Diwan",
+        "original_name": "Siddharth Diwan",
+        "popularity": 0.3073,
+        "profile_path": null,
+        "credit_id": "58ceb3e1c3a368510e023d02",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1779869,
+        "known_for_department": "Camera",
+        "name": "Rashid Jam",
+        "original_name": "Rashid Jam",
+        "popularity": 0.3028,
+        "profile_path": null,
+        "credit_id": "58ceb3ebc3a3685104023c1e",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1662231,
+        "known_for_department": "Sound",
+        "name": "Alokananda Dasgupta",
+        "original_name": "Alokananda Dasgupta",
+        "popularity": 0.3384,
+        "profile_path": null,
+        "credit_id": "58ceb3f4c3a36850f3024a6d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1757793,
+        "known_for_department": "Sound",
+        "name": "Anish John",
+        "original_name": "Anish John",
+        "popularity": 0.5693,
+        "profile_path": null,
+        "credit_id": "58ceb3fdc3a368510e023d19",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1208687,
+        "known_for_department": "Art",
+        "name": "Kazvin Dangor",
+        "original_name": "Kazvin Dangor",
+        "popularity": 0.3321,
+        "profile_path": null,
+        "credit_id": "58ceb405c3a3685104023c31",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1312085,
+        "known_for_department": "Production",
+        "name": "Prashant Singh",
+        "original_name": "Prashant Singh",
+        "popularity": 0.5779,
+        "profile_path": null,
+        "credit_id": "58ceb40fc3a368508c024a73",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1616619,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Shruti Kapoor",
+        "original_name": "Shruti Kapoor",
+        "popularity": 0.3956,
+        "profile_path": null,
+        "credit_id": "58ceb417c3a368508c024a7a",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1473713,
+        "known_for_department": "Editing",
+        "name": "Nitin Baid",
+        "original_name": "Nitin Baid",
+        "popularity": 0.4538,
+        "profile_path": "/8KrbfRxot42zQBWASBOsPJ7cKGi.jpg",
+        "credit_id": "58ceb41f9251415a390253be",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1770022,
+        "known_for_department": "Editing",
+        "name": "Sidharth Meer",
+        "original_name": "Sidharth Meer",
+        "popularity": 0.4443,
+        "profile_path": null,
+        "credit_id": "58ceb42b9251415a7d026417",
+        "department": "Visual Effects",
+        "job": "Color Designer"
+      }
+    ]
+  }
+}

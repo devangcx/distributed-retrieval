@@ -1,0 +1,353 @@
+{
+  "adult": false,
+  "backdrop_path": "/cOF7XiobQU4TC2tKDPXJ8d2nULP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1024127,
+  "imdb_id": "tt14057604",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "King of Killers",
+  "overview": "Garan is a part of a group of international hitmen who are contracted to take out the most dangerous killer in the world, only to find out that they're the ones being hunted.",
+  "popularity": 4.8005,
+  "poster_path": "/x5AreOAgkTBzUSL58o4jsYortw2.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-09-01",
+  "revenue": 0,
+  "runtime": 91,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In a game of life and death, murder is king.",
+  "title": "King of Killers",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 188,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1427888,
+        "known_for_department": "Crew",
+        "name": "Alain Moussi",
+        "original_name": "Alain Moussi",
+        "popularity": 1.3744,
+        "profile_path": "/cIpMdm0ggxVmZIBVj7vz8Q8nPLT.jpg",
+        "cast_id": 1,
+        "character": "Marcus Garan",
+        "credit_id": "6320cbefbe55b7007eed8f27",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81685,
+        "known_for_department": "Acting",
+        "name": "Frank Grillo",
+        "original_name": "Frank Grillo",
+        "popularity": 4.1378,
+        "profile_path": "/kuEco4vo1xrsM8DyrNSZUEi593P.jpg",
+        "cast_id": 3,
+        "character": "Jorg Drakos",
+        "credit_id": "6320cc30bdd568007e9e4512",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 140114,
+        "known_for_department": "Acting",
+        "name": "Marie Avgeropoulos",
+        "original_name": "Marie Avgeropoulos",
+        "popularity": 2.4385,
+        "profile_path": "/cCzCHmDZXrNfyzbkpxvaKDaGy77.jpg",
+        "cast_id": 4,
+        "character": "Asha Khanna",
+        "credit_id": "6320cc52c9054f007c620d15",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74750,
+        "known_for_department": "Acting",
+        "name": "Georges St-Pierre",
+        "original_name": "Georges St-Pierre",
+        "popularity": 1.012,
+        "profile_path": "/1gRSxCOOf9jxJdGtYNi5FPoXS9l.jpg",
+        "cast_id": 5,
+        "character": "Andre Lecroix",
+        "credit_id": "6320cc76c1ffbd007d24a533",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 979807,
+        "known_for_department": "Acting",
+        "name": "Shannon Kook",
+        "original_name": "Shannon Kook",
+        "popularity": 1.2032,
+        "profile_path": "/rCTdLWbrqsGbMml8TNfGD94jPpp.jpg",
+        "cast_id": 9,
+        "character": "Ren Hiro",
+        "credit_id": "64caa8b64fd14100e9679896",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3952,
+        "known_for_department": "Acting",
+        "name": "Kevin Grevioux",
+        "original_name": "Kevin Grevioux",
+        "popularity": 1.0758,
+        "profile_path": "/iN6mkK4GNBJGtOJ6Qwxp1wjkWqX.jpg",
+        "cast_id": 8,
+        "character": "Dyson Chord",
+        "credit_id": "64caa880e263bb00ad786fee",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2360768,
+        "known_for_department": "Acting",
+        "name": "Ryan Tarran",
+        "original_name": "Ryan Tarran",
+        "popularity": 0.7555,
+        "profile_path": "/s7xTzieO8cbWSl7tg3UC8L9ko0O.jpg",
+        "cast_id": 11,
+        "character": "Rick Nigel",
+        "credit_id": "664c2c1ef02cee3d9e1e1d7e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1138751,
+        "known_for_department": "Acting",
+        "name": "Gianni Capaldi",
+        "original_name": "Gianni Capaldi",
+        "popularity": 0.9442,
+        "profile_path": "/u4aBjxRSBNbn8OV8Sg23GnkBJbb.jpg",
+        "cast_id": 10,
+        "character": "Roman Korza",
+        "credit_id": "65168b5493bd6900e12cfefd",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10822,
+        "known_for_department": "Acting",
+        "name": "Stephen Dorff",
+        "original_name": "Stephen Dorff",
+        "popularity": 2.8538,
+        "profile_path": "/bhlM1xNzBvc8jTw42YloUKlGTCL.jpg",
+        "cast_id": 2,
+        "character": "Robert Xane",
+        "credit_id": "6320cc1ebe55b7007bf2e2d1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1120842,
+        "known_for_department": "Acting",
+        "name": "Amy Groening",
+        "original_name": "Amy Groening",
+        "popularity": 1.2428,
+        "profile_path": "/jOb8WUITh7zhRcUEkwjE41E4U2c.jpg",
+        "cast_id": 12,
+        "character": "Karla Garan",
+        "credit_id": "664c2c4f656f4cb8faf2dc50",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 61160,
+        "known_for_department": "Acting",
+        "name": "Marina Stephenson Kerr",
+        "original_name": "Marina Stephenson Kerr",
+        "popularity": 0.9529,
+        "profile_path": "/sLEOfwtdFCzpemIhOmpB1xpz6p0.jpg",
+        "cast_id": 13,
+        "character": "Aitkens",
+        "credit_id": "664c2cae3f44dc5e37798d5c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4726346,
+        "known_for_department": "Acting",
+        "name": "Zoe Worn",
+        "original_name": "Zoe Worn",
+        "popularity": 0.3329,
+        "profile_path": "/srfeyMO4RnH3CjqkZPx52R0Pw1C.jpg",
+        "cast_id": 14,
+        "character": "Kimberly Garan",
+        "credit_id": "664c2cd5764183f31ac50bf2",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 212142,
+        "known_for_department": "Acting",
+        "name": "Tom Anniko",
+        "original_name": "Tom Anniko",
+        "popularity": 0.5145,
+        "profile_path": "/32G86a7L9Zecfdxjsce10f3dfDR.jpg",
+        "cast_id": 15,
+        "character": "Dean",
+        "credit_id": "664c2d62a140894fa1ed88c2",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1207369,
+        "known_for_department": "Acting",
+        "name": "Dennis Lafond",
+        "original_name": "Dennis Lafond",
+        "popularity": 0.4491,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Hebron",
+        "credit_id": "664c2d6dfd41d53caff2d7f3",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2603539,
+        "known_for_department": "Acting",
+        "name": "Romy Peniche",
+        "original_name": "Romy Peniche",
+        "popularity": 0.3873,
+        "profile_path": "/cAEjXydn6gY0rRkf7IoIfJVq6Dj.jpg",
+        "cast_id": 17,
+        "character": "Beautiful Woman",
+        "credit_id": "664c2d7c38d7aad8c979b2ef",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2409950,
+        "known_for_department": "Acting",
+        "name": "Solange Sookram",
+        "original_name": "Solange Sookram",
+        "popularity": 0.5969,
+        "profile_path": "/uLdEo5VXkHXdUMPbOyVNwkpM1uI.jpg",
+        "cast_id": 18,
+        "character": "Bartender",
+        "credit_id": "664c2df4855bea90f21e15a5",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1438001,
+        "known_for_department": "Acting",
+        "name": "Shara Kim",
+        "original_name": "Shara Kim",
+        "popularity": 0.5169,
+        "profile_path": "/yhsNozllP1Jzxye97mL2Osb1fz8.jpg",
+        "cast_id": 20,
+        "character": "Geisha Assassin",
+        "credit_id": "664c2e6786e45191358a0480",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2090172,
+        "known_for_department": "Acting",
+        "name": "Sam Yunussov",
+        "original_name": "Sam Yunussov",
+        "popularity": 0.5597,
+        "profile_path": "/p1frG6xlWYSojhZXVExp4jg66kD.jpg",
+        "cast_id": 21,
+        "character": "Russian Man 2",
+        "credit_id": "664c2eb6d6f7d153399675e5",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4744024,
+        "known_for_department": "Acting",
+        "name": "Alan Wong",
+        "original_name": "Alan Wong",
+        "popularity": 0.3983,
+        "profile_path": "/qQ4VEXwR0jZVwJtvTfjnk3q5BND.jpg",
+        "cast_id": 22,
+        "character": "Asian Boss",
+        "credit_id": "6675cc4304020b45a54cf920",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3952,
+        "known_for_department": "Acting",
+        "name": "Kevin Grevioux",
+        "original_name": "Kevin Grevioux",
+        "popularity": 1.0758,
+        "profile_path": "/iN6mkK4GNBJGtOJ6Qwxp1wjkWqX.jpg",
+        "credit_id": "6320ccbf6905fb007a3c75c8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3952,
+        "known_for_department": "Acting",
+        "name": "Kevin Grevioux",
+        "original_name": "Kevin Grevioux",
+        "popularity": 1.0758,
+        "profile_path": "/iN6mkK4GNBJGtOJ6Qwxp1wjkWqX.jpg",
+        "credit_id": "64ca5903dd83fa0139dad7a8",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

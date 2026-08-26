@@ -1,0 +1,243 @@
+{
+  "adult": false,
+  "backdrop_path": "/hAuMdJGaBrjT9shwS0w5jQowiyJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://www.wearefamilythefilm.com/",
+  "id": 44972,
+  "imdb_id": "tt1428459",
+  "origin_country": [
+    "US",
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "वी आर फैमिली",
+  "overview": "Maya is the perfect mother. Her life revolves around her three children, Aleya, Ankush, and Anjali. Who thinks nothing much then the world of her. Despite being divorced from her husband, Aman. Maya has ensured that everything runs smoothly in her house, under her watch, and that they continue to remain a happy family unit. However, when Aman introduces his girlfriend, Shreya a career oriented woman, who has a lot to learn about children's, to the family, the situation immediately takes an unexpected turn. When an incident changes their lives drastically, bringing the two women under the same roof, they find themselves putting to test an unusual situation; can two mothers make a home?",
+  "popularity": 1.1832,
+  "poster_path": "/dy2qAtTqe83zCCB55sqVK2g7i1m.jpg",
+  "production_companies": [
+    {
+      "id": 2320,
+      "logo_path": "/nSAXfUCy16cNRiPlBMHeb700t9p.png",
+      "name": "UTV Motion Pictures",
+      "origin_country": "IN"
+    },
+    {
+      "id": 19146,
+      "logo_path": "/5Ff25ornzVNhm5skuAvMAR556NB.png",
+      "name": "Dharma Productions",
+      "origin_country": "IN"
+    },
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2010-09-03",
+  "revenue": 0,
+  "runtime": 115,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A family... in an unusual situation.",
+  "title": "We Are Family",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 40,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52263,
+        "known_for_department": "Acting",
+        "name": "Arjun Rampal",
+        "original_name": "अर्जुन रामपाल",
+        "popularity": 3.0905,
+        "profile_path": "/1F81WNcVV5cW9O4D5Otk1Y2WHV9.jpg",
+        "cast_id": 6,
+        "character": "Aman",
+        "credit_id": "52fe46a7c3a36847f810ad99",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55061,
+        "known_for_department": "Acting",
+        "name": "Kajol",
+        "original_name": "काजोल",
+        "popularity": 3.1277,
+        "profile_path": "/h4m0TkDuEMCUNaPrQxMRyFb2AQ7.jpg",
+        "cast_id": 7,
+        "character": "Maya",
+        "credit_id": "52fe46a7c3a36847f810ad9d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 37233,
+        "known_for_department": "Acting",
+        "name": "Kareena Kapoor Khan",
+        "original_name": "करीना कपूर खान",
+        "popularity": 1.9139,
+        "profile_path": "/kp9xnwDALUt6nuPBGuJHlvnxGnM.jpg",
+        "cast_id": 8,
+        "character": "Shreya",
+        "credit_id": "52fe46a7c3a36847f810ada1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 131839,
+        "known_for_department": "Acting",
+        "name": "Aanchal Munjal",
+        "original_name": "Aanchal Munjal",
+        "popularity": 0.8362,
+        "profile_path": "/vgUv7SO4Lwx7iNzjiX1f4wU5BFC.jpg",
+        "cast_id": 9,
+        "character": "Aleya",
+        "credit_id": "52fe46a7c3a36847f810ada5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 131840,
+        "known_for_department": "Acting",
+        "name": "Diya Sonecha",
+        "original_name": "Diya Sonecha",
+        "popularity": 0.3226,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Anjali",
+        "credit_id": "52fe46a7c3a36847f810ada9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131841,
+        "known_for_department": "Acting",
+        "name": "Nominath Ginsburg",
+        "original_name": "Nominath Ginsburg",
+        "popularity": 0.3071,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Ankush",
+        "credit_id": "52fe46a7c3a36847f810adad",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35736,
+        "known_for_department": "Production",
+        "name": "Karan Johar",
+        "original_name": "Karan Johar",
+        "popularity": 1.4295,
+        "profile_path": "/zip1x7OXOBxXxcdYvKOgw6MnAWm.jpg",
+        "credit_id": "52fe46a7c3a36847f810ad7d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85699,
+        "known_for_department": "Production",
+        "name": "Hiroo Johar",
+        "original_name": "Hiroo Johar",
+        "popularity": 0.5738,
+        "profile_path": "/sUiSreZyXRj9raYlISB1eGVQ5LR.jpg",
+        "credit_id": "52fe46a7c3a36847f810ad83",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131836,
+        "known_for_department": "Production",
+        "name": "Apoorva Mehta",
+        "original_name": "Apoorva Mehta",
+        "popularity": 0.5487,
+        "profile_path": "/1AJ9HUiwkA7zuIX57YNZ0yvw9sj.jpg",
+        "credit_id": "52fe46a7c3a36847f810ad89",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 131837,
+        "known_for_department": "Production",
+        "name": "Parth Arora",
+        "original_name": "Parth Arora",
+        "popularity": 0.3007,
+        "profile_path": null,
+        "credit_id": "52fe46a7c3a36847f810ad8f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1944716,
+        "known_for_department": "Directing",
+        "name": "Siddharth P. Malhotra",
+        "original_name": "Siddharth P. Malhotra",
+        "popularity": 0.8601,
+        "profile_path": "/8ztRaJUV9qHNLbm1rcLffWKy6Sh.jpg",
+        "credit_id": "60f7beca3103250046ccfbbd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1147472,
+        "known_for_department": "Writing",
+        "name": "Anvita Dutt",
+        "original_name": "Anvita Dutt",
+        "popularity": 0.5122,
+        "profile_path": "/ayAdNgOEDktAo0Sp8CVZYeUGSEC.jpg",
+        "credit_id": "638f2112fb834600ccd495fe",
+        "department": "Writing",
+        "job": "Lyricist"
+      }
+    ]
+  }
+}

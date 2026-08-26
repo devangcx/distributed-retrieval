@@ -1,0 +1,469 @@
+{
+  "adult": false,
+  "backdrop_path": "/woOuvteoLJ0HVJVYnGDXMr6ICTI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 43641,
+  "imdb_id": "tt1701223",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Superman/Shazam!: The Return of Black Adam",
+  "overview": "Chosen the world’s protector against the Seven Deadly Enemies of Man – pride, envy, greed, hatred, selfishness, laziness and injustice – young Billy Batson accepts his destiny as Captain Marvel. Battling alongside Superman against nefarious Black Adam, Billy soon discovers the challenge super heroes ultimately face: is it revenge or justice?",
+  "popularity": 3.4775,
+  "poster_path": "/3MgwChvi42N1RnhQE9A4pQVHyUY.jpg",
+  "production_companies": [
+    {
+      "id": 4811,
+      "logo_path": "/7xym5CnL4LcMPaWpp51cN1v73AR.png",
+      "name": "Warner Premiere",
+      "origin_country": "US"
+    },
+    {
+      "id": 2785,
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "name": "Warner Bros. Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 9993,
+      "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+      "name": "DC Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2010-11-16",
+  "revenue": 0,
+  "runtime": 25,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "We fight for those you can't fight for themselves!",
+  "title": "Superman/Shazam!: The Return of Black Adam",
+  "video": false,
+  "vote_average": 7.045,
+  "vote_count": 1551,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59222,
+        "known_for_department": "Acting",
+        "name": "George Newbern",
+        "original_name": "George Newbern",
+        "popularity": 2.3104,
+        "profile_path": "/1Xx0K3KGqxyIpL6o2eVQKui86jS.jpg",
+        "cast_id": 6,
+        "character": "Kal-El / Clark Kent / Superman (voice)",
+        "credit_id": "52fe4656c3a36847f80f9931",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3035,
+        "known_for_department": "Acting",
+        "name": "Jerry O'Connell",
+        "original_name": "Jerry O'Connell",
+        "popularity": 2.6011,
+        "profile_path": "/siMZhO5SIUc6K5sTKyVJRXmkoiG.jpg",
+        "cast_id": 9,
+        "character": "Captain Marvel (voice)",
+        "credit_id": "52fe4656c3a36847f80f9941",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16743,
+        "known_for_department": "Acting",
+        "name": "Arnold Vosloo",
+        "original_name": "Arnold Vosloo",
+        "popularity": 3.3219,
+        "profile_path": "/o23Z1EvWEYR7PArq2w5UpreVipV.jpg",
+        "cast_id": 5,
+        "character": "Black Adam (voice)",
+        "credit_id": "52fe4656c3a36847f80f992d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225863,
+        "known_for_department": "Acting",
+        "name": "Zach Callison",
+        "original_name": "Zach Callison",
+        "popularity": 1.0986,
+        "profile_path": "/xZ498fu7e34DNBDVNMAs4phMrdV.jpg",
+        "cast_id": 12,
+        "character": "Billy Batson (voice)",
+        "credit_id": "52fe4656c3a36847f80f994f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16896,
+        "known_for_department": "Acting",
+        "name": "James Garner",
+        "original_name": "James Garner",
+        "popularity": 2.7729,
+        "profile_path": "/8186fvIAGrIGqnvb49CgULo34G4.jpg",
+        "cast_id": 4,
+        "character": "Shazam (voice)",
+        "credit_id": "52fe4656c3a36847f80f9929",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24362,
+        "known_for_department": "Acting",
+        "name": "Kevin Michael Richardson",
+        "original_name": "Kevin Michael Richardson",
+        "popularity": 3.2234,
+        "profile_path": "/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg",
+        "cast_id": 13,
+        "character": "Mister Tawky Tawny (voice)",
+        "credit_id": "52fe4656c3a36847f80f9953",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 65220,
+        "known_for_department": "Acting",
+        "name": "Danica McKellar",
+        "original_name": "Danica McKellar",
+        "popularity": 2.3761,
+        "profile_path": "/qVasJ8uKtvrntIXaPylneLW3ykf.jpg",
+        "cast_id": 11,
+        "character": "Sally (voice)",
+        "credit_id": "52fe4656c3a36847f80f994b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20903,
+        "known_for_department": "Acting",
+        "name": "Josh Keaton",
+        "original_name": "Josh Keaton",
+        "popularity": 1.6051,
+        "profile_path": "/9ss2EXbN0VarF1tM2Qotwxy6fJs.jpg",
+        "cast_id": 14,
+        "character": "Punk (voice)",
+        "credit_id": "52fe4656c3a36847f80f9957",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34934,
+        "known_for_department": "Production",
+        "name": "Bruce Timm",
+        "original_name": "Bruce Timm",
+        "popularity": 1.7742,
+        "profile_path": "/4G64qCUGFQ1Sfwa6MK7CzwAaHyL.jpg",
+        "credit_id": "52fe4656c3a36847f80f9937",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 129722,
+        "known_for_department": "Production",
+        "name": "Bobbie Page",
+        "original_name": "Bobbie Page",
+        "popularity": 0.5543,
+        "profile_path": null,
+        "credit_id": "52fe4656c3a36847f80f993d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113901,
+        "known_for_department": "Writing",
+        "name": "Michael Jelenic",
+        "original_name": "Michael Jelenic",
+        "popularity": 1.3927,
+        "profile_path": "/rzfpbDQ3S3lDqnyMfcGzDv0QCwZ.jpg",
+        "credit_id": "52fe4656c3a36847f80f9947",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8068,
+        "known_for_department": "Editing",
+        "name": "Margaret Hou",
+        "original_name": "Margaret Hou",
+        "popularity": 0.4277,
+        "profile_path": null,
+        "credit_id": "57ebe57392514117ec000338",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141043,
+        "known_for_department": "Production",
+        "name": "Sam Register",
+        "original_name": "Sam Register",
+        "popularity": 1.1426,
+        "profile_path": "/rCJa4fFOi3CcOGjljzn06XliSsz.jpg",
+        "credit_id": "5916d89ec3a3683a9302d0de",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34936,
+        "known_for_department": "Writing",
+        "name": "Alan Burnett",
+        "original_name": "Alan Burnett",
+        "popularity": 1.1567,
+        "profile_path": "/3gNmuxxdQbZ6nX2F63SMQNVbmqz.jpg",
+        "credit_id": "5916d8c3925141572302f731",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89596,
+        "known_for_department": "Directing",
+        "name": "Joaquim Dos Santos",
+        "original_name": "Joaquim Dos Santos",
+        "popularity": 1.021,
+        "profile_path": "/w45GPb3cW6TqPw4FxB5Hc6zzAwx.jpg",
+        "credit_id": "5916da1292514105da026119",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89596,
+        "known_for_department": "Directing",
+        "name": "Joaquim Dos Santos",
+        "original_name": "Joaquim Dos Santos",
+        "popularity": 1.021,
+        "profile_path": "/w45GPb3cW6TqPw4FxB5Hc6zzAwx.jpg",
+        "credit_id": "5916da1cc3a3683fb602c2a1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1172894,
+        "known_for_department": "Production",
+        "name": "Gregory Noveck",
+        "original_name": "Gregory Noveck",
+        "popularity": 0.4165,
+        "profile_path": null,
+        "credit_id": "59353e98c3a36859b3033474",
+        "department": "Production",
+        "job": "Executive In Charge Of Production"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 937490,
+        "known_for_department": "Production",
+        "name": "Jamie Thomason",
+        "original_name": "Jamie Thomason",
+        "popularity": 0.5823,
+        "profile_path": null,
+        "credit_id": "59353de2c3a3685a35033c14",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1828760,
+        "known_for_department": "Sound",
+        "name": "Jeremy Zuckerman",
+        "original_name": "Jeremy Zuckerman",
+        "popularity": 0.5626,
+        "profile_path": "/rvOUD2lsJiq8bq2JJlyjEFlhaQE.jpg",
+        "credit_id": "59353dc69251417e03033f85",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1672192,
+        "known_for_department": "Sound",
+        "name": "Benjamin Wynn",
+        "original_name": "Benjamin Wynn",
+        "popularity": 0.4611,
+        "profile_path": "/zVVHqL3Thik464buKPbmEiyRXf2.jpg",
+        "credit_id": "59353dd09251417de2032f55",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1200787,
+        "known_for_department": "Production",
+        "name": "Michael Macasero",
+        "original_name": "Michael Macasero",
+        "popularity": 0.3817,
+        "profile_path": null,
+        "credit_id": "59353eab9251417ddc034dfb",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89596,
+        "known_for_department": "Directing",
+        "name": "Joaquim Dos Santos",
+        "original_name": "Joaquim Dos Santos",
+        "popularity": 1.021,
+        "profile_path": "/w45GPb3cW6TqPw4FxB5Hc6zzAwx.jpg",
+        "credit_id": "59353ec49251417dd8033cd0",
+        "department": "Art",
+        "job": "Storyboard Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1252487,
+        "known_for_department": "Art",
+        "name": "Ki Hyun Ryu",
+        "original_name": "Ki Hyun Ryu",
+        "popularity": 0.4147,
+        "profile_path": "/igGe9ln2CxcMlRkv3Eo2UMgSSv4.jpg",
+        "credit_id": "59353ed29251417dd4034e50",
+        "department": "Art",
+        "job": "Storyboard Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89596,
+        "known_for_department": "Directing",
+        "name": "Joaquim Dos Santos",
+        "original_name": "Joaquim Dos Santos",
+        "popularity": 1.021,
+        "profile_path": "/w45GPb3cW6TqPw4FxB5Hc6zzAwx.jpg",
+        "credit_id": "59353f05c3a3685a0b03491e",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 204553,
+        "known_for_department": "Directing",
+        "name": "Ethan Spaulding",
+        "original_name": "Ethan Spaulding",
+        "popularity": 0.8606,
+        "profile_path": "/wLTbLnSJ1jnjA2YOHOPqz2g0XNe.jpg",
+        "credit_id": "59353ee29251417de2033057",
+        "department": "Art",
+        "job": "Storyboard Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20007,
+        "known_for_department": "Writing",
+        "name": "Jerry Siegel",
+        "original_name": "Jerry Siegel",
+        "popularity": 1.785,
+        "profile_path": "/tpkgpm3pHrkSNewoDasKz6Chpg4.jpg",
+        "credit_id": "5c8aff3c0e0a260420c55e70",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1967023,
+        "known_for_department": "Writing",
+        "name": "C. C. Beck",
+        "original_name": "C. C. Beck",
+        "popularity": 0.6304,
+        "profile_path": null,
+        "credit_id": "5c8aff6ac3a36824bf0dec1c",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1967024,
+        "known_for_department": "Writing",
+        "name": "Bill Parker",
+        "original_name": "Bill Parker",
+        "popularity": 0.7214,
+        "profile_path": null,
+        "credit_id": "5c8aff490e0a267d08c471d7",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20008,
+        "known_for_department": "Writing",
+        "name": "Joe Shuster",
+        "original_name": "Joe Shuster",
+        "popularity": 1.6637,
+        "profile_path": "/bb2RpPm1GZy45dxndVdlxNx7AvU.jpg",
+        "credit_id": "5c8aff329251410ccfc41ce5",
+        "department": "Writing",
+        "job": "Characters"
+      }
+    ]
+  }
+}

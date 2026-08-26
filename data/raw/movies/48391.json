@@ -1,0 +1,311 @@
+{
+  "adult": false,
+  "backdrop_path": "/9NcQ98dSkIJF13RibV9hY8MapJa.jpg",
+  "belongs_to_collection": {
+    "id": 134251,
+    "name": "Jism Collection",
+    "poster_path": "/aSB6lVM2Ge0KtLDfjBigEqXeE28.jpg",
+    "backdrop_path": "/5r1ZSdRwtmIPnLsKCTOV8nrO2z.jpg"
+  },
+  "budget": 501717,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 48391,
+  "imdb_id": "tt0348843",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Jism",
+  "overview": "Kabir Lal is an alcoholic lawyer whose life is looking as if going down the drain. One morning he sees a stunningly attractive woman on a beach and is instantly enamored by her. By chance he sees her again in a restaurant and offers to buy her a drink. In the process he learns that her name is Sonia and she is married. Unable to resist, he asks her whether she would show him her home. It marks the beginning of a passionate affair, during which Kabir is told that Sonia's husband neglects her. But Sonia cannot leave him because she cannot support herself without her husband's money. Sonia suggests murder and Kabir, blind with lust, agrees. They manage to kill Sonia's husband and make it look like an accident, but then Kabir gets to see Sonia's other side: she no longer is the passionate lover as before, but is a cool-headed mean woman now who won't let go of her wealth at any cost.",
+  "popularity": 1.4923,
+  "poster_path": "/afSVOdens3jMc1QzLA3Ps3XGSbR.jpg",
+  "production_companies": [
+    {
+      "id": 23685,
+      "logo_path": null,
+      "name": "Fish Eye Network",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2003-01-17",
+  "revenue": 5481471,
+  "runtime": 136,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Jism",
+  "video": false,
+  "vote_average": 4.212,
+  "vote_count": 26,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85035,
+        "known_for_department": "Acting",
+        "name": "Bipasha Basu",
+        "original_name": "Bipasha Basu",
+        "popularity": 1.0489,
+        "profile_path": "/j4p0NOHUNvOCBcfaZiCoyxdJJou.jpg",
+        "cast_id": 8,
+        "character": "Sonia Khanna",
+        "credit_id": "52fe4763c3a36847f8132e4f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52971,
+        "known_for_department": "Acting",
+        "name": "John Abraham",
+        "original_name": "John Abraham",
+        "popularity": 2.1315,
+        "profile_path": "/2ITVYVFou0dh3QVcJlhNJVzrA2p.jpg",
+        "cast_id": 7,
+        "character": "Kabir Lal",
+        "credit_id": "52fe4763c3a36847f8132e4b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42208,
+        "known_for_department": "Acting",
+        "name": "Gulshan Grover",
+        "original_name": "Gulshan Grover",
+        "popularity": 1.1555,
+        "profile_path": "/hmGFOgCnYVUpeY1gTc0gx4QUCOF.jpg",
+        "cast_id": 6,
+        "character": "Rohit Khanna",
+        "credit_id": "52fe4763c3a36847f8132e47",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43416,
+        "known_for_department": "Acting",
+        "name": "Vinay Pathak",
+        "original_name": "Vinay Pathak",
+        "popularity": 0.8531,
+        "profile_path": "/nt4MvHjHq5sF1aPrLyFO1YizD8y.jpg",
+        "cast_id": 5,
+        "character": "DCP Siddharth",
+        "credit_id": "52fe4763c3a36847f8132e43",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85451,
+        "known_for_department": "Acting",
+        "name": "Ranvir Shorey",
+        "original_name": "Ranvir Shorey",
+        "popularity": 1.0165,
+        "profile_path": "/bkJYFpPmBB77GwlbjCIgYE8qVrO.jpg",
+        "cast_id": 4,
+        "character": "Vishal",
+        "credit_id": "52fe4763c3a36847f8132e3f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 933394,
+        "known_for_department": "Acting",
+        "name": "Anahita Oberoi",
+        "original_name": "Anahita Oberoi",
+        "popularity": 0.432,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Priyanka Kapoor",
+        "credit_id": "52fe4763c3a36847f8132e3b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1170170,
+        "known_for_department": "Acting",
+        "name": "Harsh Vasisht",
+        "original_name": "Harsh Vasisht",
+        "popularity": 0.5194,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "52fe4763c3a36847f8132e37",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1070883,
+        "known_for_department": "Editing",
+        "name": "Amit Saxena",
+        "original_name": "Amit Saxena",
+        "popularity": 0.4473,
+        "profile_path": null,
+        "credit_id": "52fe4763c3a36847f8132e33",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85894,
+        "known_for_department": "Directing",
+        "name": "Mahesh Bhatt",
+        "original_name": "Mahesh Bhatt",
+        "popularity": 0.6913,
+        "profile_path": "/hEvDopJhOKbcEPdwcuz3e4b0w4m.jpg",
+        "credit_id": "561912bcc3a368245600242d",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 110146,
+        "known_for_department": "Acting",
+        "name": "Pooja Bhatt",
+        "original_name": "Pooja Bhatt",
+        "popularity": 0.8338,
+        "profile_path": "/y9Tv1hsfjJEFVnK7cauLFuA2pg7.jpg",
+        "credit_id": "561912cdc3a3682456002430",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 933374,
+        "known_for_department": "Production",
+        "name": "Sujit Kumar Singh",
+        "original_name": "Sujit Kumar Singh",
+        "popularity": 0.2142,
+        "profile_path": null,
+        "credit_id": "57facc36925141447900173f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94564,
+        "known_for_department": "Writing",
+        "name": "Niranjan Iyengar",
+        "original_name": "Niranjan Iyengar",
+        "popularity": 0.5167,
+        "profile_path": "/wWLGmEijsfokLUfyRDNLgYqxfqK.jpg",
+        "credit_id": "57facc4ac3a3683ac600163b",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85894,
+        "known_for_department": "Directing",
+        "name": "Mahesh Bhatt",
+        "original_name": "Mahesh Bhatt",
+        "popularity": 0.6913,
+        "profile_path": "/hEvDopJhOKbcEPdwcuz3e4b0w4m.jpg",
+        "credit_id": "57facc5ac3a3683a8f00152e",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225318,
+        "known_for_department": "Sound",
+        "name": "M.M. Keeravaani",
+        "original_name": "M.M. Keeravaani",
+        "popularity": 0.8407,
+        "profile_path": "/r0f7RTGIkG0ZBaQViIKrE1g82Ec.jpg",
+        "credit_id": "57facc7792514143aa00170a",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 123224,
+        "known_for_department": "Crew",
+        "name": "Fuwad Khan",
+        "original_name": "Fuwad Khan",
+        "popularity": 0.3223,
+        "profile_path": null,
+        "credit_id": "57facc8a92514143c8001732",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1070883,
+        "known_for_department": "Editing",
+        "name": "Amit Saxena",
+        "original_name": "Amit Saxena",
+        "popularity": 0.4473,
+        "profile_path": null,
+        "credit_id": "57facc98c3a36839100015a6",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1932076,
+        "known_for_department": "Sound",
+        "name": "Shreya Ghoshal",
+        "original_name": "Shreya Ghoshal",
+        "popularity": 0.8739,
+        "profile_path": "/rTmgSXriOmd6TyQVFXvf3DctYXQ.jpg",
+        "credit_id": "66d00c1ff08d1db11059b862",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2081003,
+        "known_for_department": "Sound",
+        "name": "KK",
+        "original_name": "KK",
+        "popularity": 0.5916,
+        "profile_path": "/6z8DvUO334G9d25Fv7pZkmx6B75.jpg",
+        "credit_id": "66d00c335ee6f9b067bb3480",
+        "department": "Sound",
+        "job": "Playback Singer"
+      }
+    ]
+  }
+}

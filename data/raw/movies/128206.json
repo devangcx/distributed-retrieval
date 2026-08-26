@@ -1,0 +1,422 @@
+{
+  "adult": false,
+  "backdrop_path": "/oKvjowyRtr8SDITScfKOXxJwP4D.jpg",
+  "belongs_to_collection": null,
+  "budget": 970000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 128206,
+  "imdb_id": "tt2181831",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "शाहिद",
+  "overview": "A story based on real-life human-rights and criminal lawyer, Shahid Azmi, who was slain while defending the wrongly accused by the law in terrorist activities.",
+  "popularity": 0.7791,
+  "poster_path": "/9AO8ciYnqjg9YavpR01n9sobE0.jpg",
+  "production_companies": [
+    {
+      "id": 11870,
+      "logo_path": null,
+      "name": "Anurag Kashyap Films",
+      "origin_country": "IN"
+    },
+    {
+      "id": 78591,
+      "logo_path": "/iQajpTydnc01XAqPnTURHAMZfWr.png",
+      "name": "Bohra Bros Productions",
+      "origin_country": "IN"
+    },
+    {
+      "id": 79481,
+      "logo_path": null,
+      "name": "Paramhans Creations",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2013-10-18",
+  "revenue": 6100000,
+  "runtime": 129,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Based On The Life Of One Of The Most Controversial Figures Of Our Time.",
+  "title": "Shahid",
+  "video": false,
+  "vote_average": 7.325,
+  "vote_count": 77,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117727,
+        "known_for_department": "Acting",
+        "name": "Rajkummar Rao",
+        "original_name": "Rajkummar Rao",
+        "popularity": 1.3543,
+        "profile_path": "/ttBY7Y8x4NCpXfGS9Tc1NN8ISos.jpg",
+        "cast_id": 11,
+        "character": "Shahid Azmi",
+        "credit_id": "54421be40e0a26633a0016a1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86020,
+        "known_for_department": "Acting",
+        "name": "Kay Kay Menon",
+        "original_name": "Kay Kay Menon",
+        "popularity": 1.2111,
+        "profile_path": "/lcCMzGpxHXTStLMN7G9SQovxSQo.jpg",
+        "cast_id": 12,
+        "character": "War saab",
+        "credit_id": "566d874292514125d30067e7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 545084,
+        "known_for_department": "Directing",
+        "name": "Tigmanshu Dhulia",
+        "original_name": "Tigmanshu Dhulia",
+        "popularity": 0.8575,
+        "profile_path": "/2CRk2UX3KfqMythuLBleMwQ7bQr.jpg",
+        "cast_id": 6,
+        "character": "Maqbool Menon",
+        "credit_id": "52fe4b15c3a368484e176cdb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1307516,
+        "known_for_department": "Acting",
+        "name": "Mohammed Zeeshan Ayyub",
+        "original_name": "Mohammed Zeeshan Ayyub",
+        "popularity": 0.9309,
+        "profile_path": "/cF1j8Vt9YPlOBjy3lfmhuF11dmD.jpg",
+        "cast_id": 8,
+        "character": "Arif Azmi",
+        "credit_id": "5340c24ec3a3681507000c9f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52768,
+        "known_for_department": "Acting",
+        "name": "Vipin Sharma",
+        "original_name": "Vipin Sharma",
+        "popularity": 1.0007,
+        "profile_path": "/3TZHbQ1Zi3z1B721jwwTKxAMXqI.jpg",
+        "cast_id": 13,
+        "character": "Prosecutor More",
+        "credit_id": "578b8a05c3a3685b44000789",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1247025,
+        "known_for_department": "Acting",
+        "name": "Prabhleen Sandhu",
+        "original_name": "Prabhleen Sandhu",
+        "popularity": 0.6814,
+        "profile_path": "/btWHhyTcBZxRu0vPqBScG4sm2IQ.jpg",
+        "cast_id": 3,
+        "character": "Mariam",
+        "credit_id": "52fe4b15c3a368484e176ccf",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1262474,
+        "known_for_department": "Acting",
+        "name": "Baljinder Kaur",
+        "original_name": "Baljinder Kaur",
+        "popularity": 0.5019,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Ammi",
+        "credit_id": "52fe4b15c3a368484e176cd7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1147465,
+        "known_for_department": "Acting",
+        "name": "Prabal Panjabi",
+        "original_name": "Prabal Panjabi",
+        "popularity": 0.5271,
+        "profile_path": "/hNFKhQ2Bbq1llEl9knp8kSk3Zx6.jpg",
+        "cast_id": 15,
+        "character": "Omar Sheikh",
+        "credit_id": "5affb44b0e0a26303f002c14",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 990865,
+        "known_for_department": "Directing",
+        "name": "Hansal Mehta",
+        "original_name": "Hansal Mehta",
+        "popularity": 0.6859,
+        "profile_path": "/nOol2pFJsjQBKz1WUpc0bEMcNqb.jpg",
+        "credit_id": "52fe4b15c3a368484e176cc7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1795065,
+        "known_for_department": "Writing",
+        "name": "Sameer Gautam Singh",
+        "original_name": "Sameer Gautam Singh",
+        "popularity": 0.2965,
+        "profile_path": null,
+        "credit_id": "58ef0583c3a36825de003f1b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1645928,
+        "known_for_department": "Production",
+        "name": "Sunil Bohra",
+        "original_name": "Sunil Bohra",
+        "popularity": 0.3607,
+        "profile_path": null,
+        "credit_id": "5affb4920e0a26302c0026eb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 233068,
+        "known_for_department": "Production",
+        "name": "Siddharth Roy Kapur",
+        "original_name": "Siddharth Roy Kapur",
+        "popularity": 0.7279,
+        "profile_path": "/jZbPkiiSPRF9JEsq63eg7YESAlc.jpg",
+        "credit_id": "5affb4899251413644001ddb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1124934,
+        "known_for_department": "Production",
+        "name": "Guneet Monga",
+        "original_name": "Guneet Monga",
+        "popularity": 0.5005,
+        "profile_path": "/AkYxwPiaOOD6GvKTMEAyKfpjkUU.jpg",
+        "credit_id": "5affb4780e0a26303b0025c9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2045714,
+        "known_for_department": "Production",
+        "name": "Abhisek Vyas",
+        "original_name": "Abhisek Vyas",
+        "popularity": 0.2018,
+        "profile_path": null,
+        "credit_id": "5affb4b90e0a2630310027b1",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2045716,
+        "known_for_department": "Production",
+        "name": "Arbind Alok Thakur",
+        "original_name": "Arbind Alok Thakur",
+        "popularity": 0.2988,
+        "profile_path": null,
+        "credit_id": "5affb5c4925141363f002bfa",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1795065,
+        "known_for_department": "Writing",
+        "name": "Sameer Gautam Singh",
+        "original_name": "Sameer Gautam Singh",
+        "popularity": 0.2965,
+        "profile_path": null,
+        "credit_id": "5affb5de9251413659002c14",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1505920,
+        "known_for_department": "Production",
+        "name": "Shaan Vyas",
+        "original_name": "Shaan Vyas",
+        "popularity": 0.3999,
+        "profile_path": null,
+        "credit_id": "5affb5d30e0a263024002a3e",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85670,
+        "known_for_department": "Directing",
+        "name": "Anurag Kashyap",
+        "original_name": "Anurag Kashyap",
+        "popularity": 1.5049,
+        "profile_path": "/wS1aF7dFDnKC44ZbFkbDcIpmFq5.jpg",
+        "credit_id": "5affb46f0e0a26301e002eb6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1549711,
+        "known_for_department": "Sound",
+        "name": "Karan Kulkarni",
+        "original_name": "Karan Kulkarni",
+        "popularity": 0.3148,
+        "profile_path": null,
+        "credit_id": "5affb5f20e0a26302c00278e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 227704,
+        "known_for_department": "Production",
+        "name": "Shailesh R. Singh",
+        "original_name": "Shailesh R. Singh",
+        "popularity": 0.4129,
+        "profile_path": null,
+        "credit_id": "5affb481925141366a002ba1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1462556,
+        "known_for_department": "Camera",
+        "name": "Anuj Dhawan",
+        "original_name": "Anuj Dhawan",
+        "popularity": 0.4401,
+        "profile_path": null,
+        "credit_id": "5affb5e7c3a3687c3e0018ab",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2045715,
+        "known_for_department": "Production",
+        "name": "Alok Thakur",
+        "original_name": "Alok Thakur",
+        "popularity": 0.2976,
+        "profile_path": null,
+        "credit_id": "5affb5b99251413659002c04",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2045842,
+        "known_for_department": "Art",
+        "name": "Rabiul Sarkar",
+        "original_name": "Rabiul Sarkar",
+        "popularity": 0.2634,
+        "profile_path": null,
+        "credit_id": "5b001e10c3a3687c320078b1",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1189585,
+        "known_for_department": "Acting",
+        "name": "Aakash Dahiya",
+        "original_name": "Aakash Dahiya",
+        "popularity": 0.9092,
+        "profile_path": "/tnMS1dSJr4Jgl0JcSVv3zUvXgM8.jpg",
+        "credit_id": "5b001e23c3a3687c5300858f",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 110196,
+        "known_for_department": "Editing",
+        "name": "Apurva Asrani",
+        "original_name": "Apurva Asrani",
+        "popularity": 0.4809,
+        "profile_path": null,
+        "credit_id": "5b001e2d0e0a263041006162",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1108802,
+        "known_for_department": "Production",
+        "name": "Mukesh Chhabra",
+        "original_name": "मुकेश छाबरा",
+        "popularity": 0.7494,
+        "profile_path": "/f5XI2wJs2JPcd5FSECsdcnkyOMW.jpg",
+        "credit_id": "5b001e1b0e0a26302c005ba9",
+        "department": "Production",
+        "job": "Casting"
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "adult": false,
+  "backdrop_path": "/oIChiLRlyW09syl6n1cEVrjtu4W.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 551824,
+  "imdb_id": "tt6953974",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sex Weather",
+  "overview": "Sleepy-eyed filmmaker Darrel wakes to find himself in bed with his crew member Sydney. As they begin to discuss the previous evening and tepid reviews of his new film, emotions give rise to a passionate and thoughtful relationship that once could have been if either had taken the chance.",
+  "popularity": 2.4301,
+  "poster_path": "/iXBUy4bSVuGZTAq2SnwS8FF8x93.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-10-01",
+  "revenue": 0,
+  "runtime": 90,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sex Weather",
+  "video": false,
+  "vote_average": 5.592,
+  "vote_count": 71,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1933055,
+        "known_for_department": "Acting",
+        "name": "Al'Jaleel McGhee",
+        "original_name": "Al'Jaleel McGhee",
+        "popularity": 0.7079,
+        "profile_path": "/xaqYLDg7QI1lq1SMPa8neyNWP6O.jpg",
+        "cast_id": 3,
+        "character": "Darrel Graham",
+        "credit_id": "5c59d1570e0a26031bcdd57e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1896552,
+        "known_for_department": "Acting",
+        "name": "Amber Stonebraker",
+        "original_name": "Amber Stonebraker",
+        "popularity": 1.171,
+        "profile_path": "/qcMSt7O50B8XrbB31XKKhFSEbhf.jpg",
+        "cast_id": 4,
+        "character": "Sydney Livingston",
+        "credit_id": "5c59d1ca9251415e346c9b8d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2235465,
+        "known_for_department": "Acting",
+        "name": "Alan Burrell",
+        "original_name": "Alan Burrell",
+        "popularity": 0.4788,
+        "profile_path": "/Ujg4p2Jr19htoof18VzhH3R4Wa.jpg",
+        "cast_id": 5,
+        "character": "Delivery Guy",
+        "credit_id": "5c59d204c3a36826a689a29a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2235466,
+        "known_for_department": "Acting",
+        "name": "Martin Bannon Beaudet",
+        "original_name": "Martin Bannon Beaudet",
+        "popularity": 0.6562,
+        "profile_path": "/8HETOdaV8tzFRhy27rbBX3QM1Fd.jpg",
+        "cast_id": 6,
+        "character": "Driver",
+        "credit_id": "5c59d2420e0a265e19d9e960",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1266283,
+        "known_for_department": "Directing",
+        "name": "Jon García",
+        "original_name": "Jon García",
+        "popularity": 0.581,
+        "profile_path": "/t21maqN9eDTqeZCVKNSytIY7qPU.jpg",
+        "credit_id": "5bb442e5c3a3687b010074a0",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1266283,
+        "known_for_department": "Directing",
+        "name": "Jon García",
+        "original_name": "Jon García",
+        "popularity": 0.581,
+        "profile_path": "/t21maqN9eDTqeZCVKNSytIY7qPU.jpg",
+        "credit_id": "5bb442fdc3a3687af7009343",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2040309,
+        "known_for_department": "Production",
+        "name": "Zach Carter",
+        "original_name": "Zach Carter",
+        "popularity": 0.5561,
+        "profile_path": null,
+        "credit_id": "5d4b0b6453f83314d5d30c34",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1266283,
+        "known_for_department": "Directing",
+        "name": "Jon García",
+        "original_name": "Jon García",
+        "popularity": 0.581,
+        "profile_path": "/t21maqN9eDTqeZCVKNSytIY7qPU.jpg",
+        "credit_id": "5d4b0ab153f8330015d355f7",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

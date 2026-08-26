@@ -1,0 +1,368 @@
+{
+  "adult": false,
+  "backdrop_path": "/cZzuz3nbwh2126L0mFtngLNrNKd.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 30321,
+  "imdb_id": "tt0267548",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Haseena Maan Jaayegi",
+  "overview": "Brothers Sonu and Monu's regular pranks worry their father. However, their lives take a turn when they fall in love and go to great lengths to impress the girls' father.",
+  "popularity": 0.9691,
+  "poster_path": "/pNZkVQOpSFkOEVRIXJGUInFNE5w.jpg",
+  "production_companies": [
+    {
+      "id": 64375,
+      "logo_path": null,
+      "name": "Rahul Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "1999-06-25",
+  "revenue": 0,
+  "runtime": 150,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Haseena Maan Jaayegi",
+  "video": false,
+  "vote_average": 5.913,
+  "vote_count": 40,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97546,
+        "known_for_department": "Acting",
+        "name": "Govinda",
+        "original_name": "Govinda",
+        "popularity": 1.747,
+        "profile_path": "/jIY8akWgvhgbIgZDd20yIPFDSv8.jpg",
+        "cast_id": 1,
+        "character": "Monu",
+        "credit_id": "52fe440d9251416c91003471",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85881,
+        "known_for_department": "Acting",
+        "name": "Sanjay Dutt",
+        "original_name": "संजय दत्त",
+        "popularity": 2.4825,
+        "profile_path": "/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg",
+        "cast_id": 2,
+        "character": "Sonu",
+        "credit_id": "52fe440d9251416c91003475",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 76233,
+        "known_for_department": "Acting",
+        "name": "Karisma Kapoor",
+        "original_name": "करिश्मा कपूर",
+        "popularity": 1.8471,
+        "profile_path": "/fqSzKXcBzTP0BxWUh3poExOApmd.jpg",
+        "cast_id": 3,
+        "character": "Ritu Verma",
+        "credit_id": "56094334c3a3685ca3003325",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 110704,
+        "known_for_department": "Acting",
+        "name": "Pooja Batra",
+        "original_name": "Pooja Batra",
+        "popularity": 0.9233,
+        "profile_path": "/b0ZRDKTixu27ljge5W4oNUv6wZ.jpg",
+        "cast_id": 4,
+        "character": "Pooja Verma",
+        "credit_id": "56094342c3a3681211008caa",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 174606,
+        "known_for_department": "Acting",
+        "name": "Kader Khan",
+        "original_name": "Kader Khan",
+        "popularity": 0.9845,
+        "profile_path": "/gf0v2N4xKNGDfHN5lxk7yxUEYQ3.jpg",
+        "cast_id": 5,
+        "character": "Amirchand",
+        "credit_id": "560943619251417a4500521b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85033,
+        "known_for_department": "Acting",
+        "name": "Paresh Rawal",
+        "original_name": "Paresh Rawal",
+        "popularity": 1.1939,
+        "profile_path": "/xFVHMvDC8s4Ab2sLXrdVxMxZ33b.jpg",
+        "cast_id": 24,
+        "character": "Bhoothnath",
+        "credit_id": "6775fc23fbe3722a9861c48d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 93290,
+        "known_for_department": "Acting",
+        "name": "Satish Kaushik",
+        "original_name": "Satish Kaushik",
+        "popularity": 1.1025,
+        "profile_path": "/lnqVTsUKVxJYPWN3KRBhRlGP1Z0.jpg",
+        "cast_id": 12,
+        "character": "Kunj Bihari",
+        "credit_id": "63f1041ba67254008202dbe7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 110724,
+        "known_for_department": "Acting",
+        "name": "Aruna Irani",
+        "original_name": "Aruna Irani",
+        "popularity": 1.0783,
+        "profile_path": "/opwljyDvJyxW6ZmC3Ao6lNCQi0r.jpg",
+        "cast_id": 13,
+        "character": "Santho Verma",
+        "credit_id": "63f1042c524978009e778ca3",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6217,
+        "known_for_department": "Acting",
+        "name": "Anupam Kher",
+        "original_name": "Anupam Kher",
+        "popularity": 1.9559,
+        "profile_path": "/kgU5Ap1Kf9RnicB5DMcXEZqed2f.jpg",
+        "cast_id": 14,
+        "character": "Gulzarilal Verma",
+        "credit_id": "63f1043ca6725400a3a28d10",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85684,
+        "known_for_department": "Acting",
+        "name": "Ashish Vidhyarthi",
+        "original_name": "Ashish Vidhyarthi",
+        "popularity": 1.4173,
+        "profile_path": "/iBUUpfHZIfpC5afHrHwcyGTHKQF.jpg",
+        "cast_id": 15,
+        "character": "Bhai",
+        "credit_id": "63f1044c4a4bfc00f07ceb6e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141322,
+        "known_for_department": "Acting",
+        "name": "Aasif Sheikh",
+        "original_name": "Aasif Sheikh",
+        "popularity": 0.9804,
+        "profile_path": "/c9uAZ8YGpKnJ6O5ScSNtlePw5M1.jpg",
+        "cast_id": 16,
+        "character": "Pritam Nath",
+        "credit_id": "63f1045ea24c5000848c9ec8",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86054,
+        "known_for_department": "Acting",
+        "name": "Razak Khan",
+        "original_name": "Razak Khan",
+        "popularity": 0.6595,
+        "profile_path": "/cyfZyIApQK0eOrOeoyTgAl0U3EQ.jpg",
+        "cast_id": 17,
+        "character": "Bhai's henchman",
+        "credit_id": "63f1046ea6725400d7c81c1e",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105442,
+        "known_for_department": "Acting",
+        "name": "Mohan Joshi",
+        "original_name": "Mohan Joshi",
+        "popularity": 1.0075,
+        "profile_path": "/hTZ61kTsGlxGebxjWmFDWmkgnjq.jpg",
+        "cast_id": 18,
+        "character": "Prem Nath",
+        "credit_id": "63f10482caaca200b9f59246",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 623417,
+        "known_for_department": "Acting",
+        "name": "Bindu",
+        "original_name": "Bindu Desai",
+        "popularity": 0.8312,
+        "profile_path": "/zD1ZSbQOIcs9k0KdKMsE1iJOpz6.jpg",
+        "cast_id": 19,
+        "character": "Shakuntala",
+        "credit_id": "63f1049bcaaca20085776cd5",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86019,
+        "known_for_department": "Acting",
+        "name": "Asrani",
+        "original_name": "Govardhan Asrani",
+        "popularity": 0.9031,
+        "profile_path": "/zoZRnIHNkCRq4gKZGaQhbtPrIDj.jpg",
+        "cast_id": 20,
+        "character": "Jamnadas",
+        "credit_id": "63f104ad5249780084f630f7",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86017,
+        "known_for_department": "Acting",
+        "name": "Shakti Kapoor",
+        "original_name": "Shakti Kapoor",
+        "popularity": 1.1466,
+        "profile_path": "/8bkl6B8i8cgW5xVjCoHQkxEqqke.jpg",
+        "cast_id": 21,
+        "character": "Himself",
+        "credit_id": "63f104c1caaca200892e0754",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1033068,
+        "known_for_department": "Acting",
+        "name": "Anil Dhawan",
+        "original_name": "Anil Dhawan",
+        "popularity": 0.7467,
+        "profile_path": "/oApALmbgo0FzKYy2vJj4TFGkc71.jpg",
+        "cast_id": 22,
+        "character": "Police Commissioner",
+        "credit_id": "63f104d0caaca200a19b03bf",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1032584,
+        "known_for_department": "Acting",
+        "name": "Mahavir Shah",
+        "original_name": "Mahavir Shah",
+        "popularity": 0.4571,
+        "profile_path": "/gGtbBkXMJodQcO8MXdvMVM630br.jpg",
+        "cast_id": 23,
+        "character": "Goa's Police Inspector",
+        "credit_id": "63f104df4a4bfc009637d525",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90454,
+        "known_for_department": "Directing",
+        "name": "David Dhawan",
+        "original_name": "David Dhawan",
+        "popularity": 0.8794,
+        "profile_path": "/xLbcV54lqPF2w5NnjPgVjbmPvk5.jpg",
+        "credit_id": "560943b3925141305e007d2e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1516095,
+        "known_for_department": "Production",
+        "name": "Smita Thackeray",
+        "original_name": "Smita Thackeray",
+        "popularity": 0.27,
+        "profile_path": null,
+        "credit_id": "560943c3c3a36812050085cb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87354,
+        "known_for_department": "Writing",
+        "name": "Rumi Jaffery",
+        "original_name": "Rumi Jaffery",
+        "popularity": 0.8187,
+        "profile_path": null,
+        "credit_id": "560943d8925141305e007d34",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2050189,
+        "known_for_department": "Sound",
+        "name": "Sudesh Bhosle",
+        "original_name": "Sudesh Bhosle",
+        "popularity": 0.4632,
+        "profile_path": "/sGKoZuZUsnYY5gefmutOgF7hXn.jpg",
+        "credit_id": "5d5ff96bea37e0140075be23",
+        "department": "Sound",
+        "job": "Playback Singer"
+      }
+    ]
+  }
+}

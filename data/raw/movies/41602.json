@@ -1,0 +1,532 @@
+{
+  "adult": false,
+  "backdrop_path": "/9iKFQ0Ka2tWL1k9baXwYoyCjZ0D.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 41602,
+  "imdb_id": "tt1196948",
+  "origin_country": [
+    "RO",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Charlie Countryman",
+  "overview": "A young American falls hard for a Romanian cellist whose father has recently died -- and whose violent past could bring about his own demise.",
+  "popularity": 4.1635,
+  "poster_path": "/7BbrgKfnRfEFIePqdRcWzuHs3KI.jpg",
+  "production_companies": [
+    {
+      "id": 6626,
+      "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+      "name": "Voltage Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 715,
+      "logo_path": "/yDo2dtvQ45dtZb1r2lhIwufz42s.png",
+      "name": "Bona Fide Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2013-02-09",
+  "revenue": 11650,
+  "runtime": 108,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Română"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The only way to save the one you love, is to die.",
+  "title": "Charlie Countryman",
+  "video": false,
+  "vote_average": 6.383,
+  "vote_count": 659,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10959,
+        "known_for_department": "Acting",
+        "name": "Shia LaBeouf",
+        "original_name": "Shia LaBeouf",
+        "popularity": 4.3546,
+        "profile_path": "/egvlIdeizCkSkuHVoDuuduIThFA.jpg",
+        "cast_id": 1,
+        "character": "Charlie Countryman",
+        "credit_id": "52fe45d5c3a36847f80dd21f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 38940,
+        "known_for_department": "Acting",
+        "name": "Evan Rachel Wood",
+        "original_name": "Evan Rachel Wood",
+        "popularity": 3.7167,
+        "profile_path": "/mRJ5WgP7UyQXcYHRiWKERJAfNke.jpg",
+        "cast_id": 4,
+        "character": "Gabi Ibanescu",
+        "credit_id": "52fe45d5c3a36847f80dd227",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1019,
+        "known_for_department": "Acting",
+        "name": "Mads Mikkelsen",
+        "original_name": "Mads Mikkelsen",
+        "popularity": 6.6399,
+        "profile_path": "/AsX4bdvZ8UCayWTmAf9lAqOA8V7.jpg",
+        "cast_id": 5,
+        "character": "Nigel",
+        "credit_id": "52fe45d5c3a36847f80dd22b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1844,
+        "known_for_department": "Acting",
+        "name": "Til Schweiger",
+        "original_name": "Til Schweiger",
+        "popularity": 3.143,
+        "profile_path": "/3Jk7y4sKgckrN9RzAAt0drlR0QG.jpg",
+        "cast_id": 7,
+        "character": "Darko",
+        "credit_id": "52fe45d5c3a36847f80dd22f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10989,
+        "known_for_department": "Acting",
+        "name": "Rupert Grint",
+        "original_name": "Rupert Grint",
+        "popularity": 4.967,
+        "profile_path": "/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg",
+        "cast_id": 3,
+        "character": "Carl",
+        "credit_id": "52fe45d5c3a36847f80dd223",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 207321,
+        "known_for_department": "Acting",
+        "name": "James Buckley",
+        "original_name": "James Buckley",
+        "popularity": 1.2319,
+        "profile_path": "/dDVwMhnWGEICmfwjNh2eOxqb9f2.jpg",
+        "cast_id": 9,
+        "character": "Luc",
+        "credit_id": "52fe45d5c3a36847f80dd239",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15321,
+        "known_for_department": "Acting",
+        "name": "Ion Caramitru",
+        "original_name": "Ion Caramitru",
+        "popularity": 0.6048,
+        "profile_path": "/rzyxpmQiHH4hpPVJWvDzU3dDzsJ.jpg",
+        "cast_id": 15,
+        "character": "Victor Ibanescu",
+        "credit_id": "52fe45d6c3a36847f80dd255",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7132,
+        "known_for_department": "Acting",
+        "name": "Vincent D'Onofrio",
+        "original_name": "Vincent D'Onofrio",
+        "popularity": 3.7384,
+        "profile_path": "/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg",
+        "cast_id": 16,
+        "character": "Bill",
+        "credit_id": "52fe45d6c3a36847f80dd259",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6832,
+        "known_for_department": "Acting",
+        "name": "Melissa Leo",
+        "original_name": "Melissa Leo",
+        "popularity": 2.76,
+        "profile_path": "/ueAIX0MH68xCei3N8vFLS0EUEjY.jpg",
+        "cast_id": 10,
+        "character": "Kate",
+        "credit_id": "52fe45d5c3a36847f80dd23d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1022032,
+        "known_for_department": "Acting",
+        "name": "Andrei Finti",
+        "original_name": "Andrei Finti",
+        "popularity": 0.6806,
+        "profile_path": "/tycnutcdGKzRlmjtD8aUMInfnMX.jpg",
+        "cast_id": 20,
+        "character": "Bela",
+        "credit_id": "58d3394a9251411f90009808",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 119592,
+        "known_for_department": "Acting",
+        "name": "Aubrey Plaza",
+        "original_name": "Aubrey Plaza",
+        "popularity": 4.9917,
+        "profile_path": "/ejtGfjOAvUHBdVc3xTIV1HtJBi9.jpg",
+        "cast_id": 21,
+        "character": "Ashley",
+        "credit_id": "58d33950c3a368124f0095d0",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 209998,
+        "known_for_department": "Acting",
+        "name": "Lachlan Nieboer",
+        "original_name": "Lachlan Nieboer",
+        "popularity": 1.0082,
+        "profile_path": "/eTlgYhhscbTX0OQ7k9Em7OkOtvD.jpg",
+        "cast_id": 22,
+        "character": "Ted",
+        "credit_id": "58d33963c3a3681267008870",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 556356,
+        "known_for_department": "Acting",
+        "name": "Vanessa Kirby",
+        "original_name": "Vanessa Kirby",
+        "popularity": 5.8916,
+        "profile_path": "/tViEEsjvbhrJxWsOipUqIYjdHEb.jpg",
+        "cast_id": 11,
+        "character": "Felicity",
+        "credit_id": "52fe45d5c3a36847f80dd241",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 118035,
+        "known_for_department": "Acting",
+        "name": "Montserrat Lombard",
+        "original_name": "Montserrat Lombard",
+        "popularity": 1.0112,
+        "profile_path": "/6gc7lPDFSPmlby9UAE4D0XjAeqH.jpg",
+        "cast_id": 14,
+        "character": "Madison",
+        "credit_id": "52fe45d6c3a36847f80dd251",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1437321,
+        "known_for_department": "Acting",
+        "name": "Cosmin Pădureanu",
+        "original_name": "Cosmin Pădureanu",
+        "popularity": 0.4901,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Bosko",
+        "credit_id": "54fdd11092514123af00501b",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 115120,
+        "known_for_department": "Camera",
+        "name": "Roman Vasyanov",
+        "original_name": "Роман Васьянов",
+        "popularity": 0.5712,
+        "profile_path": "/4BAp0DUD6FUJi1Kw2odWFwe4PJ4.jpg",
+        "credit_id": "52fe45d6c3a36847f80dd24d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1140271,
+        "known_for_department": "Directing",
+        "name": "Fredrik Bond",
+        "original_name": "Fredrik Bond",
+        "popularity": 0.5089,
+        "profile_path": null,
+        "credit_id": "52fe45d5c3a36847f80dd235",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 208139,
+        "known_for_department": "Writing",
+        "name": "Matt Drake",
+        "original_name": "Matt Drake",
+        "popularity": 0.4875,
+        "profile_path": null,
+        "credit_id": "52fe45d6c3a36847f80dd247",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 188097,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jennifer Johnson",
+        "original_name": "Jennifer Johnson",
+        "popularity": 0.5609,
+        "profile_path": "/vXNfoSxN58GPdKRb8zEyP0HLVPY.jpg",
+        "credit_id": "638bc2650e64af00c25da2fe",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17173,
+        "known_for_department": "Production",
+        "name": "Ron Yerxa",
+        "original_name": "Ron Yerxa",
+        "popularity": 0.5193,
+        "profile_path": "/8Fbq2w5Nv1U7q8RVa6itMN2cPDa.jpg",
+        "credit_id": "5acb8dc20e0a2631a30150d6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17172,
+        "known_for_department": "Production",
+        "name": "Albert Berger",
+        "original_name": "Albert Berger",
+        "popularity": 0.7149,
+        "profile_path": "/50zNQH3kWcSlvRmVHehpOcEoUWQ.jpg",
+        "credit_id": "5acb8db60e0a2631bc01420f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15906,
+        "known_for_department": "Production",
+        "name": "William Horberg",
+        "original_name": "William Horberg",
+        "popularity": 0.622,
+        "profile_path": "/jG8rBdoOSO6HyEjMmJb1prmpgBF.jpg",
+        "credit_id": "5acb8dd70e0a2631fa01415d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1102071,
+        "known_for_department": "Production",
+        "name": "Craig J. Flores",
+        "original_name": "Craig J. Flores",
+        "popularity": 0.3479,
+        "profile_path": "/xhXUaqBqfNfFDBKxlCmG7nE892N.jpg",
+        "credit_id": "5acb8dcfc3a3687e400142ee",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20649,
+        "known_for_department": "Editing",
+        "name": "Hughes Winborne",
+        "original_name": "Hughes Winborne",
+        "popularity": 0.5003,
+        "profile_path": "/3CoFwdFtv8jAt40WVzuyELY7YjI.jpg",
+        "credit_id": "5acb8e5e92514143c4013963",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1941819,
+        "known_for_department": "Sound",
+        "name": "DeadMono",
+        "original_name": "DeadMono",
+        "popularity": 0.1895,
+        "profile_path": null,
+        "credit_id": "5acb8e4d9251414344013da9",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23486,
+        "known_for_department": "Sound",
+        "name": "Christophe Beck",
+        "original_name": "Christophe Beck",
+        "popularity": 1.0916,
+        "profile_path": "/n3U0OPETTZGTx4mgsrryARKphR4.jpg",
+        "credit_id": "5acb8e369251414303013303",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1031200,
+        "known_for_department": "Production",
+        "name": "Nicolas Chartier",
+        "original_name": "Nicolas Chartier",
+        "popularity": 0.754,
+        "profile_path": "/59ptYCph60CtAtLmWuC9dASHhsp.jpg",
+        "credit_id": "688720503f67cfd7aa55f740",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15002,
+        "known_for_department": "Directing",
+        "name": "Dean Parisot",
+        "original_name": "Dean Parisot",
+        "popularity": 0.8975,
+        "profile_path": "/jpgHbQjkrQHZnhmOvmDLhxvSf3r.jpg",
+        "credit_id": "6887205de088d578c78a739a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1193191,
+        "known_for_department": "Production",
+        "name": "Patrick Newall",
+        "original_name": "Patrick Newall",
+        "popularity": 0.7203,
+        "profile_path": "/dOGLRCvGb8mCXSjoDAq4l9Xroob.jpg",
+        "credit_id": "688720773fea9c7de916c9e3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2005903,
+        "known_for_department": "Production",
+        "name": "Corrie Rothbart",
+        "original_name": "Corrie Rothbart",
+        "popularity": 0.3481,
+        "profile_path": "/9FVSTuzOulcfowXlTrbrmkzDbdF.jpg",
+        "credit_id": "688720886c0df3da9b16c674",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40383,
+        "known_for_department": "Production",
+        "name": "Nathan Kahane",
+        "original_name": "Nathan Kahane",
+        "popularity": 0.5906,
+        "profile_path": "/2J94KWasJlrH4RVI4BQaR0i8P0t.jpg",
+        "credit_id": "6887209d3f1f6bc2bed9b49e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59529,
+        "known_for_department": "Art",
+        "name": "Joel Collins",
+        "original_name": "Joel Collins",
+        "popularity": 0.5738,
+        "profile_path": "/dCzvTtuHzqOWZ6ivLFWBsojXHFB.jpg",
+        "credit_id": "688720aca231441fb516c763",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1325,
+        "known_for_department": "Production",
+        "name": "John Hubbard",
+        "original_name": "John Hubbard",
+        "popularity": 0.8305,
+        "profile_path": "/frymbiZm34J86snrQvYVLYeAkZ1.jpg",
+        "credit_id": "688720c5ff26beb16372f25f",
+        "department": "Production",
+        "job": "Casting"
+      }
+    ]
+  }
+}

@@ -1,0 +1,608 @@
+{
+  "adult": false,
+  "backdrop_path": "/dkPi08aPgRrOTB8OLrdSpt6zfa3.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://emufilms.com/projects/americanstar/",
+  "id": 1170824,
+  "imdb_id": "tt19984386",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "American Star",
+  "overview": "An assassin on a final assignment in Fuerteventura, to kill a man he has never met. When his target is delayed, he finds himself drawn to the island, people and a ghostly shipwreck. Instead of following protocol he stays. But when the target returns, the world has shifted. Before everything was simple, now nothing is.",
+  "popularity": 2.7152,
+  "poster_path": "/aFjxI9yMd142au1O74JlUttG4Ki.jpg",
+  "production_companies": [
+    {
+      "id": 215960,
+      "logo_path": null,
+      "name": "Tamariska",
+      "origin_country": "US"
+    },
+    {
+      "id": 74063,
+      "logo_path": "/xnsCQCEwUhofmWgBMzzPqhxJOhT.png",
+      "name": "EMU Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 27991,
+      "logo_path": "/9HFJsaC79OYiGVeTX4FGEUcSvTH.png",
+      "name": "Aquí y Allí Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 215962,
+      "logo_path": "/xllKLR0tVjAYfMkm6QcFyJqpTr1.png",
+      "name": "Cayuga Ficción",
+      "origin_country": "ES"
+    },
+    {
+      "id": 5056,
+      "logo_path": "/ok7CQyn0RPEuI0upznPoo93YE6H.png",
+      "name": "Head Gear Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 9987,
+      "logo_path": "/o5OTKAw7Acl5fTZYPyl8M8D9570.png",
+      "name": "Lipsync Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 215964,
+      "logo_path": "/hgueKTQkSwc6r7rNfMaC155E1bl.png",
+      "name": "Richmond Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 25954,
+      "logo_path": "/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png",
+      "name": "Metrol Technology",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-01-26",
+  "revenue": 0,
+  "runtime": 107,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "American Star",
+  "video": false,
+  "vote_average": 5.683,
+  "vote_count": 60,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6972,
+        "known_for_department": "Acting",
+        "name": "Ian McShane",
+        "original_name": "Ian McShane",
+        "popularity": 4.6227,
+        "profile_path": "/rteBJYNgD1yGsHg2HGZAIrYHz1t.jpg",
+        "cast_id": 2,
+        "character": "Wilson",
+        "credit_id": "64ecc38b458199010099c5ec",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 453272,
+        "known_for_department": "Acting",
+        "name": "Nora Arnezeder",
+        "original_name": "Nora Arnezeder",
+        "popularity": 2.1562,
+        "profile_path": "/hRjatqhtiGjIabRvvX57doO36Sx.jpg",
+        "cast_id": 3,
+        "character": "Gloria",
+        "credit_id": "64ecc4a2e894a6011ef9937a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1435230,
+        "known_for_department": "Acting",
+        "name": "Adam Nagaitis",
+        "original_name": "Adam Nagaitis",
+        "popularity": 1.6048,
+        "profile_path": "/e05YxtScfLCI723ZFU6WOzLiJ6u.jpg",
+        "cast_id": 5,
+        "character": "Ryan",
+        "credit_id": "64ecc528c3c89100c6842293",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3491,
+        "known_for_department": "Acting",
+        "name": "Thomas Kretschmann",
+        "original_name": "Thomas Kretschmann",
+        "popularity": 2.387,
+        "profile_path": "/7M0P39a3CVA22dJyv5YQEkTThU7.jpg",
+        "cast_id": 4,
+        "character": "Thomas",
+        "credit_id": "64ecc4f3c613ce010b8e0f2b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20234,
+        "known_for_department": "Acting",
+        "name": "Fanny Ardant",
+        "original_name": "Fanny Ardant",
+        "popularity": 2.028,
+        "profile_path": "/q8Hj88E3ME5z795haGMqVDwFDjp.jpg",
+        "cast_id": 6,
+        "character": "Anne",
+        "credit_id": "64ecc552594c940139c9fa33",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51905,
+        "known_for_department": "Acting",
+        "name": "Andrés Gertrúdix",
+        "original_name": "Andrés Gertrúdix",
+        "popularity": 0.7789,
+        "profile_path": "/qR9EyorWi9Z8WnoFcY5AskYBW4B.jpg",
+        "cast_id": 8,
+        "character": "Cowboy",
+        "credit_id": "64ecc5925258ae010bdab433",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3492820,
+        "known_for_department": "Acting",
+        "name": "Oscar Coleman",
+        "original_name": "Oscar Coleman",
+        "popularity": 0.6562,
+        "profile_path": "/bx9kzUmhKjZreA3EcGFAiElnbkz.jpg",
+        "cast_id": 7,
+        "character": "Max",
+        "credit_id": "64ecc55f1feac100e16bb733",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1019691,
+        "known_for_department": "Acting",
+        "name": "Sabela Arán",
+        "original_name": "Sabela Arán",
+        "popularity": 0.858,
+        "profile_path": "/n0sA6fgGSEG7mqtyd8RcFLme4hg.jpg",
+        "cast_id": 13,
+        "character": "Linda",
+        "credit_id": "6579cb25564ec7011b21086d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4239432,
+        "known_for_department": "Acting",
+        "name": "Pedro Alberto Galindo",
+        "original_name": "Pedro Alberto Galindo",
+        "popularity": 0.3919,
+        "profile_path": "/9kV6t7NNSKwmhhkt7QUUj0SMq8J.jpg",
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "64ecc5b95258ae014df3b397",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77123,
+        "known_for_department": "Directing",
+        "name": "Gonzalo López-Gallego",
+        "original_name": "Gonzalo López-Gallego",
+        "popularity": 0.5408,
+        "profile_path": "/2IeZ2WkOGxcsFt85eQ4A1iPeyc7.jpg",
+        "credit_id": "64ecc30e458199013a7f4c6e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 990816,
+        "known_for_department": "Writing",
+        "name": "Nacho Faerna",
+        "original_name": "Nacho Faerna",
+        "popularity": 0.4277,
+        "profile_path": null,
+        "credit_id": "64ecc60ec613ce012cc6a0b6",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3280852,
+        "known_for_department": "Sound",
+        "name": "Remate",
+        "original_name": "Remate",
+        "popularity": 0.5624,
+        "profile_path": "/ywWDII8oDJ9C42eMPuRYE5MMORJ.jpg",
+        "credit_id": "64ecc770e2bca800ad0d2973",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1126235,
+        "known_for_department": "Camera",
+        "name": "José David Montero",
+        "original_name": "José David Montero",
+        "popularity": 0.436,
+        "profile_path": null,
+        "credit_id": "6579cb46a1d332011b5067a4",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77123,
+        "known_for_department": "Directing",
+        "name": "Gonzalo López-Gallego",
+        "original_name": "Gonzalo López-Gallego",
+        "popularity": 0.5408,
+        "profile_path": "/2IeZ2WkOGxcsFt85eQ4A1iPeyc7.jpg",
+        "credit_id": "6579cb4f4d23dd00ad5e1c3d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1367557,
+        "known_for_department": "Sound",
+        "name": "Stephen Griffiths",
+        "original_name": "Stephen Griffiths",
+        "popularity": 0.4661,
+        "profile_path": null,
+        "credit_id": "6579cb5f7ecd2800c70cc653",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1354925,
+        "known_for_department": "Sound",
+        "name": "Andy Shelley",
+        "original_name": "Andy Shelley",
+        "popularity": 0.5049,
+        "profile_path": null,
+        "credit_id": "6579cb67ec8a4300aa6d56de",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1459850,
+        "known_for_department": "Art",
+        "name": "Óscar Sempere",
+        "original_name": "Óscar Sempere",
+        "popularity": 0.395,
+        "profile_path": null,
+        "credit_id": "6579cc83a1d33200e1b8f979",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1046370,
+        "known_for_department": "Production",
+        "name": "Vicky Wildman",
+        "original_name": "Vicky Wildman",
+        "popularity": 0.408,
+        "profile_path": null,
+        "credit_id": "6579cc8d20ecaf011db684a4",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1668621,
+        "known_for_department": "Production",
+        "name": "Lucy Rands",
+        "original_name": "Lucy Rands",
+        "popularity": 0.5681,
+        "profile_path": null,
+        "credit_id": "6579cc95a1d33200acba42d7",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4428071,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Leire Zurdo",
+        "original_name": "Leire Zurdo",
+        "popularity": 0.4757,
+        "profile_path": null,
+        "credit_id": "6579cca335a61e00ad87fd7e",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2177400,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ainhoa Eskisabel",
+        "original_name": "Ainhoa Eskisabel",
+        "popularity": 0.405,
+        "profile_path": "/krdmTMtK6UjtCRgjIEGhjoKSOan.jpg",
+        "credit_id": "6579ccb3ec8a4300aa6d5723",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1483697,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Leire Orella",
+        "original_name": "Leire Orella",
+        "popularity": 0.4793,
+        "profile_path": null,
+        "credit_id": "6579ccbdec8a4300c33ae2df",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2047047,
+        "known_for_department": "Production",
+        "name": "Manuel Arango",
+        "original_name": "Manuel Arango",
+        "popularity": 0.3966,
+        "profile_path": null,
+        "credit_id": "6579cccd4d23dd00e3ded405",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 986415,
+        "known_for_department": "Production",
+        "name": "Compton Ross",
+        "original_name": "Compton Ross",
+        "popularity": 0.8401,
+        "profile_path": "/v0EW6qBxMfQcT1nrytBAFj2w6eE.jpg",
+        "credit_id": "6579ccde4bfa545d020af665",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 951484,
+        "known_for_department": "Production",
+        "name": "Phil Hunt",
+        "original_name": "Phil Hunt",
+        "popularity": 1.0724,
+        "profile_path": "/f5CL2pPFzcte7a0lBE2BzIZ5YJq.jpg",
+        "credit_id": "6579cd11e93e95218f6c6e5d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1669393,
+        "known_for_department": "Production",
+        "name": "Simon Baxter",
+        "original_name": "Simon Baxter",
+        "popularity": 0.4072,
+        "profile_path": null,
+        "credit_id": "6579cd75564ec700c474bed9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1669396,
+        "known_for_department": "Production",
+        "name": "Evangelo Kioussis",
+        "original_name": "Evangelo Kioussis",
+        "popularity": 0.4198,
+        "profile_path": "/op8wrKM0cbU0AuI99R9R0rqtnFC.jpg",
+        "credit_id": "6579ce3820ecaf00ad86f81b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 73517,
+        "known_for_department": "Production",
+        "name": "Peter Hampden",
+        "original_name": "Peter Hampden",
+        "popularity": 0.6545,
+        "profile_path": "/dAcjSpXDTzahdwsouBQrp3mObf9.jpg",
+        "credit_id": "6579ce4320ecaf00ad86f820",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73524,
+        "known_for_department": "Production",
+        "name": "Norman Merry",
+        "original_name": "Norman Merry",
+        "popularity": 0.7354,
+        "profile_path": "/9bv53Hu8oSulXtNXuvK8ioR2rcm.jpg",
+        "credit_id": "6579ce4de93e95219109eb04",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77123,
+        "known_for_department": "Directing",
+        "name": "Gonzalo López-Gallego",
+        "original_name": "Gonzalo López-Gallego",
+        "popularity": 0.5408,
+        "profile_path": "/2IeZ2WkOGxcsFt85eQ4A1iPeyc7.jpg",
+        "credit_id": "6579ce5ce93e95218f6c6e93",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 990816,
+        "known_for_department": "Writing",
+        "name": "Nacho Faerna",
+        "original_name": "Nacho Faerna",
+        "popularity": 0.4277,
+        "profile_path": null,
+        "credit_id": "6579ce6635a61e013ac28678",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2070462,
+        "known_for_department": "Production",
+        "name": "Pedro Hernández Santos",
+        "original_name": "Pedro Hernández Santos",
+        "popularity": 0.5418,
+        "profile_path": "/ta7D9T11AAXYXYqPTfKJWSr2VRa.jpg",
+        "credit_id": "6579ce73e93e95218f6c6e9a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1785133,
+        "known_for_department": "Production",
+        "name": "Jim Mooney",
+        "original_name": "Jim Mooney",
+        "popularity": 0.2845,
+        "profile_path": null,
+        "credit_id": "6579ce814d23dd013a12bb8b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1785134,
+        "known_for_department": "Production",
+        "name": "Walli Ullah",
+        "original_name": "Walli Ullah",
+        "popularity": 0.2554,
+        "profile_path": null,
+        "credit_id": "6579ce8ae93e9521900d7c00",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3585681,
+        "known_for_department": "Production",
+        "name": "Terry Smith",
+        "original_name": "Terry Smith",
+        "popularity": 0.2402,
+        "profile_path": null,
+        "credit_id": "6579ce9c4d23dd011d1a5547",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6972,
+        "known_for_department": "Acting",
+        "name": "Ian McShane",
+        "original_name": "Ian McShane",
+        "popularity": 4.6227,
+        "profile_path": "/rteBJYNgD1yGsHg2HGZAIrYHz1t.jpg",
+        "credit_id": "6579cea520ecaf00c69a4b8a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4428073,
+        "known_for_department": "Production",
+        "name": "Michael Elliott",
+        "original_name": "Michael Elliott",
+        "popularity": 0.2413,
+        "profile_path": null,
+        "credit_id": "6579cecc7ecd2800ad23d6d8",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

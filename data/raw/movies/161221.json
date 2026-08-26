@@ -1,0 +1,279 @@
+{
+  "adult": false,
+  "backdrop_path": "/5ixAurvhxUU1N8fRYm6wTqp5I8C.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 161221,
+  "imdb_id": "tt0245825",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Chal Mere Bhai",
+  "overview": "Vicky, a businessman, loves his younger brother Prem, who spends his time chasing women. The family feels that secretary Sapna will make a good wife for Vicky, but she is already in love with Prem.",
+  "popularity": 1.024,
+  "poster_path": "/7eyv5NxoQFwFGYwi2je4ryayYWb.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2000-05-04",
+  "revenue": 0,
+  "runtime": 136,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Chal Mere Bhai",
+  "video": false,
+  "vote_average": 5.1,
+  "vote_count": 28,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42802,
+        "known_for_department": "Acting",
+        "name": "Salman Khan",
+        "original_name": "Salman Khan",
+        "popularity": 4.3121,
+        "profile_path": "/n7pKtccmf2jVOz8Qn90q2ThqLge.jpg",
+        "cast_id": 3,
+        "character": "Prem Oberoi",
+        "credit_id": "52fe4c40c3a36847f822505b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85881,
+        "known_for_department": "Acting",
+        "name": "Sanjay Dutt",
+        "original_name": "संजय दत्त",
+        "popularity": 2.4825,
+        "profile_path": "/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg",
+        "cast_id": 4,
+        "character": "Vicky Oberoi",
+        "credit_id": "52fe4c40c3a36847f822505f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 76233,
+        "known_for_department": "Acting",
+        "name": "Karisma Kapoor",
+        "original_name": "करिश्मा कपूर",
+        "popularity": 1.8471,
+        "profile_path": "/fqSzKXcBzTP0BxWUh3poExOApmd.jpg",
+        "cast_id": 5,
+        "character": "Sapna Mehra",
+        "credit_id": "52fe4c40c3a36847f8225063",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11861,
+        "known_for_department": "Acting",
+        "name": "Dalip Tahil",
+        "original_name": "Dalip Tahil",
+        "popularity": 1.0672,
+        "profile_path": "/4kgTd5aKh3IRxrJ7uG5h9mojb57.jpg",
+        "cast_id": 8,
+        "character": "Balraj Oberoi",
+        "credit_id": "53a776bd0e0a26143c0048bc",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86017,
+        "known_for_department": "Acting",
+        "name": "Shakti Kapoor",
+        "original_name": "Shakti Kapoor",
+        "popularity": 1.1466,
+        "profile_path": "/8bkl6B8i8cgW5xVjCoHQkxEqqke.jpg",
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "5ed567a4528b2e001e6c3894",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35754,
+        "known_for_department": "Acting",
+        "name": "Sonali Bendre",
+        "original_name": "सोनाली बेंद्रे",
+        "popularity": 1.9967,
+        "profile_path": "/4xvVvT9RyLvOa2hQjecIhYuSPjx.jpg",
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "5ed567ae8ddc340021d82c5e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 131347,
+        "known_for_department": "Acting",
+        "name": "Twinkle Khanna",
+        "original_name": "Twinkle Khanna",
+        "popularity": 0.6912,
+        "profile_path": "/ipAV6rBOkJQhTW5Zs8phZWGmXMt.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "5ed567b8a284eb002038825c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 229117,
+        "known_for_department": "Acting",
+        "name": "Nagma",
+        "original_name": "Nagma",
+        "popularity": 0.7258,
+        "profile_path": "/osQbepU8ejfIaeONvAlqsGVCOeC.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "5ed567c20398ab0023cedb0b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 129731,
+        "known_for_department": "Acting",
+        "name": "Javed Khan",
+        "original_name": "Javed Khan",
+        "popularity": 0.7438,
+        "profile_path": "/dYi2y5kxKRCRty0llXlt2sDO5xb.jpg",
+        "cast_id": 13,
+        "character": "Murari",
+        "credit_id": "5f0554e461bac400339d42ea",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150686,
+        "known_for_department": "Acting",
+        "name": "Shiva Rindani",
+        "original_name": "Shiva Rindani",
+        "popularity": 0.6495,
+        "profile_path": "/iDbWfoMxgBnF94gue1ZWdobOmCp.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "5f05bd048a0e9b00359df7b6",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78248,
+        "known_for_department": "Acting",
+        "name": "Himani Shivpuri",
+        "original_name": "Himani Shivpuri",
+        "popularity": 0.8383,
+        "profile_path": "/iEgl4ME7OfMJ8CVKxpeMiC4Wv5w.jpg",
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "690cfc860d1d06c2f031a0dc",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35749,
+        "known_for_department": "Acting",
+        "name": "Sushma Seth",
+        "original_name": "Sushma Seth",
+        "popularity": 0.7748,
+        "profile_path": "/1UqCt8kfYWfkrWNfcWp4nO8XWcz.jpg",
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "690cfc9927297f2e379aafe6",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 230977,
+        "known_for_department": "Acting",
+        "name": "Ravi Baswani",
+        "original_name": "Ravi Baswani",
+        "popularity": 0.5309,
+        "profile_path": "/v9FWZpmLdngd1iLhml4enWCLRrS.jpg",
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "690cfcbb8ee8d331b8d2481c",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1033068,
+        "known_for_department": "Acting",
+        "name": "Anil Dhawan",
+        "original_name": "Anil Dhawan",
+        "popularity": 0.7467,
+        "profile_path": "/oApALmbgo0FzKYy2vJj4TFGkc71.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "690cfcc37a78588b403853e2",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90454,
+        "known_for_department": "Directing",
+        "name": "David Dhawan",
+        "original_name": "David Dhawan",
+        "popularity": 0.8794,
+        "profile_path": "/xLbcV54lqPF2w5NnjPgVjbmPvk5.jpg",
+        "credit_id": "52fe4c40c3a36847f8225051",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87354,
+        "known_for_department": "Writing",
+        "name": "Rumi Jaffery",
+        "original_name": "Rumi Jaffery",
+        "popularity": 0.8187,
+        "profile_path": null,
+        "credit_id": "52fe4c40c3a36847f8225057",
+        "department": "Writing",
+        "job": "Dialogue"
+      }
+    ]
+  }
+}

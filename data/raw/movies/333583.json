@@ -1,0 +1,154 @@
+{
+  "adult": false,
+  "backdrop_path": "/4bY839VFMXTOrn76y2P1LrF9VJP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 333583,
+  "imdb_id": "tt0117983",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Tu Chor Main Sipahi",
+  "overview": "Thakur Gajendra Singh runs a criminal empire from a small town. The Thakur rules this town, including the police, who only cater to his interests. His town has been known to be the grave-yard of police officers who have dared to oppose him. Inspector Amar Varma accepts the assignment to serve in this town, not knowing that he is not only putting his own life, but the lives of his loved ones also, in the hands of the merciless Thakur.",
+  "popularity": 1.0907,
+  "poster_path": "/cmRoqW06eqgjSLiAuxgD3sVscJK.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "1996-05-10",
+  "revenue": 0,
+  "runtime": 153,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tu Chor Main Sipahi",
+  "video": false,
+  "vote_average": 5.425,
+  "vote_count": 20,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35070,
+        "known_for_department": "Acting",
+        "name": "Akshay Kumar",
+        "original_name": "अक्षय कुमार",
+        "popularity": 2.5711,
+        "profile_path": "/sR8nASRtTpiwXqkFHjG2jdRBZ7a.jpg",
+        "cast_id": 1,
+        "character": "Inspector Amar Verma/Guddu",
+        "credit_id": "594bd6f5925141312701203b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35747,
+        "known_for_department": "Acting",
+        "name": "Saif Ali Khan",
+        "original_name": "सैफ़ अली ख़ान",
+        "popularity": 2.0849,
+        "profile_path": "/85uKiFDEcIqzLh0GwqYvecXw4uA.jpg",
+        "cast_id": 2,
+        "character": "Raja/King",
+        "credit_id": "594bd6fb9251413127012041",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55062,
+        "known_for_department": "Acting",
+        "name": "Tabu",
+        "original_name": "तबु",
+        "popularity": 2.293,
+        "profile_path": "/cvt5nvCHr1ICf5u8A2mlzLQ8LsV.jpg",
+        "cast_id": 3,
+        "character": "Kajal Singh",
+        "credit_id": "594bd70cc3a36832bd011d5a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1046672,
+        "known_for_department": "Acting",
+        "name": "Pratibha Sinha",
+        "original_name": "Pratibha Sinha",
+        "popularity": 0.626,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Rani",
+        "credit_id": "594bd710c3a36832ca011fc7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88139,
+        "known_for_department": "Acting",
+        "name": "Deven Verma",
+        "original_name": "Deven Verma",
+        "popularity": 0.8445,
+        "profile_path": "/6Mf7cg9TVaVNA4i7zZP3jf7kp4d.jpg",
+        "cast_id": 6,
+        "character": "ACP Verma, Amar's dad",
+        "credit_id": "594bd726c3a36832bd011d74",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 691,
+        "known_for_department": "Acting",
+        "name": "Amrish Puri",
+        "original_name": "Amrish Puri",
+        "popularity": 1.9577,
+        "profile_path": "/uhMGFS7tuG71LDv2wk9LfZZ4EG6.jpg",
+        "cast_id": 7,
+        "character": "Thakur Gajendra Singh",
+        "credit_id": "594bd72bc3a368329b013a04",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 625416,
+        "known_for_department": "Directing",
+        "name": "Guddu Dhanoa",
+        "original_name": "Guddu Dhanoa",
+        "popularity": 0.7258,
+        "profile_path": "/tYLOzHH6rIDlgYObRIIydfEkIHj.jpg",
+        "credit_id": "58212739c3a36863e50003be",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

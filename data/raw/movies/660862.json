@@ -1,0 +1,154 @@
+{
+  "adult": false,
+  "backdrop_path": "/nqs5E6N6QspQ2XY7JM6Su3K5vWm.jpg",
+  "belongs_to_collection": {
+    "id": 1644911,
+    "name": "Forky Asks a Question",
+    "poster_path": "/mFTL66WdrFRsqrAwK7SByESxQek.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.disneyplus.com/movies/forky-asks-a-question-what-is-a-leader/innL8S4a5F7s",
+  "id": 660862,
+  "imdb_id": "tt11194646",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Forky Asks a Question: What Is a Leader?",
+  "overview": "Dolly teaches Forky about the qualities of a good leader, and Forky puts those qualities to the test!",
+  "popularity": 2.4684,
+  "poster_path": "/iNQAy98W4LvdkDDJcNe1XFnghmU.jpg",
+  "production_companies": [
+    {
+      "id": 3,
+      "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+      "name": "Pixar",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-12-20",
+  "revenue": 0,
+  "runtime": 3,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Forky Asks a Question: What Is a Leader?",
+  "video": false,
+  "vote_average": 5.672,
+  "vote_count": 64,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25147,
+        "known_for_department": "Acting",
+        "name": "Tony Hale",
+        "original_name": "Tony Hale",
+        "popularity": 3.6522,
+        "profile_path": "/3dEyZgTye0Ec17VGKp0mJ3aU6ty.jpg",
+        "cast_id": 3,
+        "character": "Forky (voice)",
+        "credit_id": "5e1cc40c0e29a20019f82fa3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5149,
+        "known_for_department": "Acting",
+        "name": "Bonnie Hunt",
+        "original_name": "Bonnie Hunt",
+        "popularity": 3.5694,
+        "profile_path": "/tT9C6uLztgN8OxJULq6F9iEzqlA.jpg",
+        "cast_id": 4,
+        "character": "Dolly (voice)",
+        "credit_id": "5e1cc41b6a300b00165eb6e8",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10,
+        "known_for_department": "Acting",
+        "name": "Bob Peterson",
+        "original_name": "Bob Peterson",
+        "popularity": 2.0702,
+        "profile_path": "/dJe3nTCIToebjj1WHFHP7LmZKyk.jpg",
+        "cast_id": 7,
+        "character": "Voice Over Announcer (voice)",
+        "credit_id": "5f35a044c4f5520032097b8b",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10,
+        "known_for_department": "Acting",
+        "name": "Bob Peterson",
+        "original_name": "Bob Peterson",
+        "popularity": 2.0702,
+        "profile_path": "/dJe3nTCIToebjj1WHFHP7LmZKyk.jpg",
+        "credit_id": "5e1cc3f94df2910015beb654",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10,
+        "known_for_department": "Acting",
+        "name": "Bob Peterson",
+        "original_name": "Bob Peterson",
+        "popularity": 2.0702,
+        "profile_path": "/dJe3nTCIToebjj1WHFHP7LmZKyk.jpg",
+        "credit_id": "5e32596b4ca67600174dfd68",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 567205,
+        "known_for_department": "Sound",
+        "name": "Jake Monaco",
+        "original_name": "Jake Monaco",
+        "popularity": 0.5773,
+        "profile_path": "/fvusYTZwIy953k01dOC6gsRQsvY.jpg",
+        "credit_id": "5f523bb2e894a6003850b4cd",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  }
+}

@@ -1,0 +1,515 @@
+{
+  "adult": false,
+  "backdrop_path": "/3oRwn7WIMt4Vtw65mnydDQHthwQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://films.nationalgeographic.com/fire-of-love",
+  "id": 913823,
+  "imdb_id": "tt16227014",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Fire of Love",
+  "overview": "A doomed love triangle between intrepid French scientists Katia and Maurice Krafft, and their beloved volcanoes.",
+  "popularity": 3.0484,
+  "poster_path": "/9smEX8UP84yb2GisLwyAyQKvCWS.jpg",
+  "production_companies": [
+    {
+      "id": 143062,
+      "logo_path": null,
+      "name": "Sandbox Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 168685,
+      "logo_path": "/11AfwHV7feDZ63YWwee6kcuhIgY.png",
+      "name": "Cottage M",
+      "origin_country": "US"
+    },
+    {
+      "id": 75749,
+      "logo_path": "/j5FhgdD4sSqmJ0kQAk1rDVSVrTe.png",
+      "name": "Intuitive Pictures",
+      "origin_country": "CA"
+    },
+    {
+      "id": 189457,
+      "logo_path": "/a0ruFlMfEs2pTOLZ1tPHqzDH7Fc.png",
+      "name": "National Geographic Documentary Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 7521,
+      "logo_path": "/fRqMjLjyAqThtEg9P9WKCXLmCpJ.png",
+      "name": "National Geographic",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2022-07-06",
+  "revenue": 1695072,
+  "runtime": 94,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The greatest lava-fueled love story ever told.",
+  "title": "Fire of Love",
+  "video": false,
+  "vote_average": 7.506,
+  "vote_count": 260,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1405536,
+        "known_for_department": "Acting",
+        "name": "Alka Balbir",
+        "original_name": "Alka Balbir",
+        "popularity": 0.5645,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Katia Conrad Krafft (voice)",
+        "credit_id": "6468e64a006b0100e6b44023",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1290672,
+        "known_for_department": "Acting",
+        "name": "Guillaume Tremblay",
+        "original_name": "Guillaume Tremblay",
+        "popularity": 0.4477,
+        "profile_path": "/bS8ovyMk2u5MmsHaNChnVYmIous.jpg",
+        "cast_id": 26,
+        "character": "Maurice Krafft (voice)",
+        "credit_id": "6468e65b2bcf67015582d61b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 16860,
+        "known_for_department": "Directing",
+        "name": "Miranda July",
+        "original_name": "Miranda July",
+        "popularity": 0.825,
+        "profile_path": "/fs32oVyHtwWV4czdTaNzCMFaEe4.jpg",
+        "cast_id": 28,
+        "character": "Self - Narrator (voice)",
+        "credit_id": "657e47a68f26bc1c66751bba",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1701875,
+        "known_for_department": "Acting",
+        "name": "Katia Krafft",
+        "original_name": "Katia Krafft",
+        "popularity": 0.6474,
+        "profile_path": "/sCxeZATCPoVfOsHQXQ151u9VJqL.jpg",
+        "cast_id": 29,
+        "character": "Self (archive footage)",
+        "credit_id": "68ff3af99800edd3eea310bd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1701876,
+        "known_for_department": "Acting",
+        "name": "Maurice Krafft",
+        "original_name": "Maurice Krafft",
+        "popularity": 0.449,
+        "profile_path": "/kiC18Hy7ppBqlzFVZy5JbfVmI7s.jpg",
+        "cast_id": 30,
+        "character": "Self (archive footage)",
+        "credit_id": "68ff3b072cb21f930abc029f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3847910,
+        "known_for_department": "Acting",
+        "name": "Harry Glicken",
+        "original_name": "Harry Glicken",
+        "popularity": 0.3053,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Self (archive footage)",
+        "credit_id": "6a1631543efe6209ea90f0d7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3848914,
+        "known_for_department": "Acting",
+        "name": "Roland Haas",
+        "original_name": "Roland Haas",
+        "popularity": 0.3631,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Self (archive footage)",
+        "credit_id": "6a16317fe9bbd04c77fce428",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3065719,
+        "known_for_department": "Acting",
+        "name": "Jacques Durieux",
+        "original_name": "Jacques Durieux",
+        "popularity": 0.3431,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Self (archive footage)",
+        "credit_id": "6a1631a036993f7272fcdffc",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6242469,
+        "known_for_department": "Acting",
+        "name": "Michel Wolff",
+        "original_name": "Michel Wolff",
+        "popularity": 0.2193,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Self (archive footage)",
+        "credit_id": "6a1631ca108e8b934dfcde94",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3396650,
+        "known_for_department": "Production",
+        "name": "Ben Braun",
+        "original_name": "Ben Braun",
+        "popularity": 0.4035,
+        "profile_path": null,
+        "credit_id": "6243acee5a9915005d5c6f17",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 229995,
+        "known_for_department": "Sound",
+        "name": "Gavin Fernandes",
+        "original_name": "Gavin Fernandes",
+        "popularity": 0.5512,
+        "profile_path": null,
+        "credit_id": "6243acce965220005c551e79",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1349268,
+        "known_for_department": "Directing",
+        "name": "Sara Dosa",
+        "original_name": "Sara Dosa",
+        "popularity": 0.6268,
+        "profile_path": "/dHmxhlLMM9TUGehs0rZ0tusQrLl.jpg",
+        "credit_id": "61b2d07855c9260086541fef",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2817450,
+        "known_for_department": "Production",
+        "name": "Jessica Harrop",
+        "original_name": "Jessica Harrop",
+        "popularity": 0.3948,
+        "profile_path": null,
+        "credit_id": "61e84a3157d37800dae35569",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2817449,
+        "known_for_department": "Production",
+        "name": "Greg Boustead",
+        "original_name": "Greg Boustead",
+        "popularity": 0.3517,
+        "profile_path": null,
+        "credit_id": "61e84a26d371970092b15296",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 937782,
+        "known_for_department": "Sound",
+        "name": "Nicolas Godin",
+        "original_name": "Nicolas Godin",
+        "popularity": 0.5249,
+        "profile_path": "/grqgav0ZN1r2ST3lAbOG9y50gP0.jpg",
+        "credit_id": "61e84a69df294500686d5dc3",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1349268,
+        "known_for_department": "Directing",
+        "name": "Sara Dosa",
+        "original_name": "Sara Dosa",
+        "popularity": 0.6268,
+        "profile_path": "/dHmxhlLMM9TUGehs0rZ0tusQrLl.jpg",
+        "credit_id": "61e84a1c3faba0009605731d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27710,
+        "known_for_department": "Production",
+        "name": "Josh Braun",
+        "original_name": "Josh Braun",
+        "popularity": 0.6651,
+        "profile_path": null,
+        "credit_id": "61e84a3bdf294500e30d60df",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044495,
+        "known_for_department": "Production",
+        "name": "Ina Fichman",
+        "original_name": "Ina Fichman",
+        "popularity": 0.4574,
+        "profile_path": null,
+        "credit_id": "61e84a13ea37e000dcb63d1a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1298693,
+        "known_for_department": "Editing",
+        "name": "Erin Casper",
+        "original_name": "Erin Casper",
+        "popularity": 0.6132,
+        "profile_path": "/8nyp2hboVTWy5dYIq57uSSMFIPY.jpg",
+        "credit_id": "61e84a4a6c84d60124c76133",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1710371,
+        "known_for_department": "Editing",
+        "name": "Jocelyne Chaput",
+        "original_name": "Jocelyne Chaput",
+        "popularity": 0.5002,
+        "profile_path": null,
+        "credit_id": "61e84a536c449c01197a703a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1018682,
+        "known_for_department": "Production",
+        "name": "Shane Boris",
+        "original_name": "Shane Boris",
+        "popularity": 0.4887,
+        "profile_path": "/j5ceRFv1sFSeXCxujNo4agTYOoH.jpg",
+        "credit_id": "61e84a08df2945001b8416fe",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1349268,
+        "known_for_department": "Directing",
+        "name": "Sara Dosa",
+        "original_name": "Sara Dosa",
+        "popularity": 0.6268,
+        "profile_path": "/dHmxhlLMM9TUGehs0rZ0tusQrLl.jpg",
+        "credit_id": "63aca98879a1c300a027c7ae",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1298693,
+        "known_for_department": "Editing",
+        "name": "Erin Casper",
+        "original_name": "Erin Casper",
+        "popularity": 0.6132,
+        "profile_path": "/8nyp2hboVTWy5dYIq57uSSMFIPY.jpg",
+        "credit_id": "63aca9f457530e0085fff300",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1710371,
+        "known_for_department": "Editing",
+        "name": "Jocelyne Chaput",
+        "original_name": "Jocelyne Chaput",
+        "popularity": 0.5002,
+        "profile_path": null,
+        "credit_id": "63acaa1579a1c300c4d63874",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1018682,
+        "known_for_department": "Production",
+        "name": "Shane Boris",
+        "original_name": "Shane Boris",
+        "popularity": 0.4887,
+        "profile_path": "/j5ceRFv1sFSeXCxujNo4agTYOoH.jpg",
+        "credit_id": "63aca9d17ef3811f8dcc8280",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3848913,
+        "known_for_department": "Crew",
+        "name": "Alain Gerente",
+        "original_name": "Alain Gerente",
+        "popularity": 0.1304,
+        "profile_path": null,
+        "credit_id": "6a16319083bd8af2472f65c4",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3714891,
+        "known_for_department": "Camera",
+        "name": "Jón Björgvinsson",
+        "original_name": "Jón Björgvinsson",
+        "popularity": 0.8999,
+        "profile_path": null,
+        "credit_id": "6a16319183bd8af2472f65c7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3848912,
+        "known_for_department": "Crew",
+        "name": "Olivier Doat",
+        "original_name": "Olivier Doat",
+        "popularity": 0.6388,
+        "profile_path": null,
+        "credit_id": "6a1631935cc01aea65b46410",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1387452,
+        "known_for_department": "Directing",
+        "name": "Pablo Alvarez Mesa",
+        "original_name": "Pablo Alvarez Mesa",
+        "popularity": 0.7233,
+        "profile_path": null,
+        "credit_id": "6a1631943efe6209ea90f0e3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3848914,
+        "known_for_department": "Acting",
+        "name": "Roland Haas",
+        "original_name": "Roland Haas",
+        "popularity": 0.3631,
+        "profile_path": null,
+        "credit_id": "6a1631955ea3b67a9d90f10f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6341215,
+        "known_for_department": "Production",
+        "name": "Elijah Stevens",
+        "original_name": "Elijah Stevens",
+        "popularity": 0.1913,
+        "profile_path": null,
+        "credit_id": "6a5266f2cdfd464b88c0cd98",
+        "department": "Production",
+        "job": "Associate Producer"
+      }
+    ]
+  }
+}

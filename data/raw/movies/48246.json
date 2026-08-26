@@ -1,0 +1,304 @@
+{
+  "adult": false,
+  "backdrop_path": "/wSr4GJg8NfF4EJlRw4or8WuIzlH.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 48246,
+  "imdb_id": "tt0252227",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Alvin and the Chipmunks Meet the Wolfman",
+  "overview": "As Alvin struggles with nightmares involving werewolves, the school play of Jekyll & Hyde is in jeopardy when the lead, Alvin, is suspended. In an attempt to boost his confidence, the principal suggests Theodore, who's suddenly going through some canine changes.",
+  "popularity": 3.007,
+  "poster_path": "/xvAGKjbAl2F71hterQ6BpPzQMEc.jpg",
+  "production_companies": [
+    {
+      "id": 10930,
+      "logo_path": "/gTl5zq214ifd2qW7sp7to0aHS6C.png",
+      "name": "Bagdasarian Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 4285,
+      "logo_path": "/2lYBhGMYUUUToRssPb2Oxka5MrP.png",
+      "name": "Universal Cartoon Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 3436,
+      "logo_path": null,
+      "name": "Universal Studios Home Entertainment Family Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2000-08-29",
+  "revenue": 0,
+  "runtime": 77,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Alvin and the Chipmunks Meet the Wolfman",
+  "video": false,
+  "vote_average": 6.894,
+  "vote_count": 203,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30694,
+        "known_for_department": "Acting",
+        "name": "Ross Bagdasarian Jr.",
+        "original_name": "Ross Bagdasarian Jr.",
+        "popularity": 1.1182,
+        "profile_path": "/iLAmgXvN8SosYQjPewerrU9EaGb.jpg",
+        "cast_id": 3,
+        "character": "Alvin Seville / Simon Seville / Dave Seville (voice)",
+        "credit_id": "52fe475cc3a36847f81315e5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30696,
+        "known_for_department": "Acting",
+        "name": "Janice Karman",
+        "original_name": "Janice Karman",
+        "popularity": 0.7854,
+        "profile_path": "/luYmCukdeF1pNK5nhIWwSKudo2c.jpg",
+        "cast_id": 6,
+        "character": "Theodore / Brittany / Jeanette / Eleanor (voice)",
+        "credit_id": "52fe475cc3a36847f81315f1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34521,
+        "known_for_department": "Acting",
+        "name": "Maurice LaMarche",
+        "original_name": "Maurice LaMarche",
+        "popularity": 1.9489,
+        "profile_path": "/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg",
+        "cast_id": 10,
+        "character": "Mr. Lawrence Talbot (voice)",
+        "credit_id": "52fe475cc3a36847f8131601",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35109,
+        "known_for_department": "Acting",
+        "name": "Miriam Flynn",
+        "original_name": "Miriam Flynn",
+        "popularity": 1.3183,
+        "profile_path": "/8o4nFOpCPrgJRhrUMHoouT1E9X3.jpg",
+        "cast_id": 12,
+        "character": "Principal Milliken (voice)",
+        "credit_id": "583ec298925141152a009e9d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43125,
+        "known_for_department": "Acting",
+        "name": "Rob Paulsen",
+        "original_name": "Rob Paulsen",
+        "popularity": 2.1766,
+        "profile_path": "/c9Gb8stOOftFgUiZXtXAWlSaq6e.jpg",
+        "cast_id": 13,
+        "character": "Mr. Rochelle (voice)",
+        "credit_id": "583ec2ad9251411521009868",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 60741,
+        "known_for_department": "Acting",
+        "name": "April Winchell",
+        "original_name": "April Winchell",
+        "popularity": 1.4439,
+        "profile_path": "/twx3xkmvRAuHHJp3xUd1sbxTZRS.jpg",
+        "cast_id": 14,
+        "character": "Madame Raya (voice)",
+        "credit_id": "583ec2bcc3a368667d00a69f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15274,
+        "known_for_department": "Acting",
+        "name": "E. G. Daily",
+        "original_name": "E. G. Daily",
+        "popularity": 2.7687,
+        "profile_path": "/sWLXj0yvpMEsZTIsS1ReVQzGnwO.jpg",
+        "cast_id": 15,
+        "character": "Nathan (voice)",
+        "credit_id": "583ec2ccc3a368668300a035",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15831,
+        "known_for_department": "Acting",
+        "name": "Frank Welker",
+        "original_name": "Frank Welker",
+        "popularity": 3.2633,
+        "profile_path": "/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg",
+        "cast_id": 16,
+        "character": "Werewolf Vocal Effects (voice)",
+        "credit_id": "583ec38b925141152d0099a0",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 30691,
+        "known_for_department": "Directing",
+        "name": "Kathi Castillo",
+        "original_name": "Kathi Castillo",
+        "popularity": 0.5769,
+        "profile_path": null,
+        "credit_id": "52fe475cc3a36847f81315db",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30692,
+        "known_for_department": "Writing",
+        "name": "John Loy",
+        "original_name": "John Loy",
+        "popularity": 0.7035,
+        "profile_path": null,
+        "credit_id": "52fe475cc3a36847f81315e1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 30691,
+        "known_for_department": "Directing",
+        "name": "Kathi Castillo",
+        "original_name": "Kathi Castillo",
+        "popularity": 0.5769,
+        "profile_path": null,
+        "credit_id": "617aba6dd6dbba0066c77367",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1447559,
+        "known_for_department": "Visual Effects",
+        "name": "Micki Zurcher",
+        "original_name": "Micki Zurcher",
+        "popularity": 0.4177,
+        "profile_path": null,
+        "credit_id": "553ad4b792514135c8000d70",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30693,
+        "known_for_department": "Sound",
+        "name": "Mark Watters",
+        "original_name": "Mark Watters",
+        "popularity": 0.5356,
+        "profile_path": "/dzCsUYihvdp7V8PSIBo3uMH0EQ9.jpg",
+        "credit_id": "67551b0aee33b1097ac05fbe",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 30691,
+        "known_for_department": "Directing",
+        "name": "Kathi Castillo",
+        "original_name": "Kathi Castillo",
+        "popularity": 0.5769,
+        "profile_path": null,
+        "credit_id": "68c71593d75bd408f2ca705b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30694,
+        "known_for_department": "Acting",
+        "name": "Ross Bagdasarian Jr.",
+        "original_name": "Ross Bagdasarian Jr.",
+        "popularity": 1.1182,
+        "profile_path": "/iLAmgXvN8SosYQjPewerrU9EaGb.jpg",
+        "credit_id": "68c715b436187be96bf21d73",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30696,
+        "known_for_department": "Acting",
+        "name": "Janice Karman",
+        "original_name": "Janice Karman",
+        "popularity": 0.7854,
+        "profile_path": "/luYmCukdeF1pNK5nhIWwSKudo2c.jpg",
+        "credit_id": "68c715d648bc7532838683f9",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

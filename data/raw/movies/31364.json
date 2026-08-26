@@ -1,0 +1,301 @@
+{
+  "adult": false,
+  "backdrop_path": "/rCEV9DyJly8yf0x5oAMErlS6etl.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 31364,
+  "imdb_id": "tt0390614",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "वक्त",
+  "overview": "A chronic illness leaves Ishwar with only a few months to live. His son Aditya is extremely reckless. To make him realise his responsibilities, Ishwar throws his son out of the house.",
+  "popularity": 0.8512,
+  "poster_path": "/x6bor6Zkuj5FVt9B7YyztbeKOJ4.jpg",
+  "production_companies": [
+    {
+      "id": 4428,
+      "logo_path": null,
+      "name": "Blockbuster Movie Entertainers",
+      "origin_country": ""
+    },
+    {
+      "id": 3653,
+      "logo_path": "/dEpilNgoW7tElN3xacXckHxGXbo.png",
+      "name": "Eros International",
+      "origin_country": "IN"
+    },
+    {
+      "id": 234202,
+      "logo_path": null,
+      "name": "E1 India",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2005-04-22",
+  "revenue": 0,
+  "runtime": 153,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Race Against Time",
+  "title": "Waqt",
+  "video": false,
+  "vote_average": 5.98,
+  "vote_count": 50,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35780,
+        "known_for_department": "Acting",
+        "name": "Amitabh Bachchan",
+        "original_name": "Amitabh Bachchan",
+        "popularity": 1.4751,
+        "profile_path": "/u69PvpWqGkywSm0YjFiw77j9eqS.jpg",
+        "cast_id": 1,
+        "character": "Ishwarchand Thakur",
+        "credit_id": "52fe44779251416c91011c1b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35070,
+        "known_for_department": "Acting",
+        "name": "Akshay Kumar",
+        "original_name": "अक्षय कुमार",
+        "popularity": 2.5711,
+        "profile_path": "/sR8nASRtTpiwXqkFHjG2jdRBZ7a.jpg",
+        "cast_id": 2,
+        "character": "Aditya Ishwarchand Thakur",
+        "credit_id": "52fe44779251416c91011c1f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 77234,
+        "known_for_department": "Acting",
+        "name": "Priyanka Chopra Jonas",
+        "original_name": "Priyanka Chopra Jonas",
+        "popularity": 3.6536,
+        "profile_path": "/hh48u9scic0nITGtzi9b6rJeAtT.jpg",
+        "cast_id": 3,
+        "character": "Pooja 'Mitali' Thakur",
+        "credit_id": "52fe44779251416c91011c23",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 120430,
+        "known_for_department": "Acting",
+        "name": "Shefali Shah",
+        "original_name": "शेफ़ाली शाह",
+        "popularity": 1.4856,
+        "profile_path": "/9F8UGARvP7w10Chq5povDPHpfUC.jpg",
+        "cast_id": 4,
+        "character": "Sumitra Thakur",
+        "credit_id": "52fe44779251416c91011c27",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35779,
+        "known_for_department": "Acting",
+        "name": "Boman Irani",
+        "original_name": "Boman Irani",
+        "popularity": 1.3847,
+        "profile_path": "/5J7GiiNar9bg9rGYeA2L30JXE2W.jpg",
+        "cast_id": 5,
+        "character": "Nattu Bhai",
+        "credit_id": "52fe44779251416c91011c2b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35756,
+        "known_for_department": "Acting",
+        "name": "Rajpal Yadav",
+        "original_name": "राजपाल यादव",
+        "popularity": 1.388,
+        "profile_path": "/aJJAU9EPiiXRsWDuy60mXE8U6lT.jpg",
+        "cast_id": 6,
+        "character": "Laxman",
+        "credit_id": "52fe44779251416c91011c2f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1054685,
+        "known_for_department": "Acting",
+        "name": "Asawari Joshi",
+        "original_name": "Asawari Joshi",
+        "popularity": 0.65,
+        "profile_path": "/8W1ppAgF0oQi4e2dh6WeNKkmVJ4.jpg",
+        "cast_id": 8,
+        "character": "Ashalata",
+        "credit_id": "58720013925141355e013616",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 562225,
+        "known_for_department": "Acting",
+        "name": "Rajeev Mehta",
+        "original_name": "Rajeev Mehta",
+        "popularity": 0.519,
+        "profile_path": "/4BukEb1hxN7jQzpKkj6k8Sj4jSa.jpg",
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "6093a9c3c669ad00570f2db4",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88142,
+        "known_for_department": "Production",
+        "name": "Vipul Amrutlal Shah",
+        "original_name": "Vipul Amrutlal Shah",
+        "popularity": 0.6535,
+        "profile_path": "/gH75umEehoYbiohMwz5xzBtgrq6.jpg",
+        "credit_id": "58720037c3a3684f07012573",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37241,
+        "known_for_department": "Sound",
+        "name": "Anu Malik",
+        "original_name": "Anu Malik",
+        "popularity": 0.7303,
+        "profile_path": "/6TqNRZ8pm0woMxNXAtQrQjkcnfB.jpg",
+        "credit_id": "5872006ac3a3684f1d0150fe",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88142,
+        "known_for_department": "Production",
+        "name": "Vipul Amrutlal Shah",
+        "original_name": "Vipul Amrutlal Shah",
+        "popularity": 0.6535,
+        "profile_path": "/gH75umEehoYbiohMwz5xzBtgrq6.jpg",
+        "credit_id": "5872002d9251413561013129",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 9897,
+        "known_for_department": "Editing",
+        "name": "Shirish Kunder",
+        "original_name": "Shirish Kunder",
+        "popularity": 0.6403,
+        "profile_path": null,
+        "credit_id": "5872008892514135570130f7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 142630,
+        "known_for_department": "Writing",
+        "name": "Aatish Kapadia",
+        "original_name": "Aatish Kapadia",
+        "popularity": 0.8999,
+        "profile_path": null,
+        "credit_id": "5872005c925141356401311b",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 142630,
+        "known_for_department": "Writing",
+        "name": "Aatish Kapadia",
+        "original_name": "Aatish Kapadia",
+        "popularity": 0.8999,
+        "profile_path": null,
+        "credit_id": "58720053c3a3684f1d0150f6",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2050189,
+        "known_for_department": "Sound",
+        "name": "Sudesh Bhosle",
+        "original_name": "Sudesh Bhosle",
+        "popularity": 0.4632,
+        "profile_path": "/sGKoZuZUsnYY5gefmutOgF7hXn.jpg",
+        "credit_id": "5d5ff4a2a894d667939ab942",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70848,
+        "known_for_department": "Camera",
+        "name": "Santosh Thundiyil",
+        "original_name": "Santosh Thundiyil",
+        "popularity": 0.5493,
+        "profile_path": "/2nrFyFnypMLOnnD7mlRdGQODYk6.jpg",
+        "credit_id": "5ef53fe427d9cc0037a8f153",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35808,
+        "known_for_department": "Camera",
+        "name": "Ashok Mehta",
+        "original_name": "Ashok Mehta",
+        "popularity": 0.437,
+        "profile_path": "/7QmEian3ZJdfzo8xiyA75T9fA6v.jpg",
+        "credit_id": "5ef53fd639a1a600342bceb6",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

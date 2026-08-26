@@ -1,0 +1,479 @@
+{
+  "adult": false,
+  "backdrop_path": "/qulnQ3Q4TcQuOqKbIlfqkJ4vh9g.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1300962,
+  "imdb_id": "tt14539318",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Beast Within",
+  "overview": "Ten-year-old Willow follows her parents on one of their secret late-night treks to the heart of an ancient forest. After witnessing her father undergo a terrible transformation, she too becomes ensnared by the dark ancestral secret that they've so desperately tried to conceal.",
+  "popularity": 4.2687,
+  "poster_path": "/8cKyTYUMHcgGCq46pppGC3zt2w3.jpg",
+  "production_companies": [
+    {
+      "id": 162941,
+      "logo_path": "/br6FiBUYCz57C6VAphJeBf1yxnB.png",
+      "name": "Future Artists Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 294927,
+      "logo_path": "/oFt31THBcA39mXtx7xVTKcvjQhE.png",
+      "name": "Moerlein Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 139207,
+      "logo_path": null,
+      "name": "Paradox House",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-07-22",
+  "revenue": 51860,
+  "runtime": 97,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Protector. Provider. Predator.",
+  "title": "The Beast Within",
+  "video": false,
+  "vote_average": 5.648,
+  "vote_count": 237,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239019,
+        "known_for_department": "Acting",
+        "name": "Kit Harington",
+        "original_name": "Kit Harington",
+        "popularity": 3.9131,
+        "profile_path": "/iGXlJbExWwZmo9sUDsYuzf4Sv4y.jpg",
+        "cast_id": 1,
+        "character": "Noah",
+        "credit_id": "6661da3036b775f41a491bbd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1255846,
+        "known_for_department": "Acting",
+        "name": "Ashleigh Cummings",
+        "original_name": "Ashleigh Cummings",
+        "popularity": 1.9764,
+        "profile_path": "/yyU5YaJBJFxE1WfREe5SujJukYW.jpg",
+        "cast_id": 3,
+        "character": "Imogene",
+        "credit_id": "66720b78bb8f5f4d3690b11b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2424535,
+        "known_for_department": "Acting",
+        "name": "Caoilinn Springall",
+        "original_name": "Caoilinn Springall",
+        "popularity": 0.7238,
+        "profile_path": "/uZNtbPHowlBYo74U1qlTaRlrdiY.jpg",
+        "cast_id": 5,
+        "character": "Willow",
+        "credit_id": "66720b9a6c400d3b3135401e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2467,
+        "known_for_department": "Acting",
+        "name": "James Cosmo",
+        "original_name": "James Cosmo",
+        "popularity": 2.8546,
+        "profile_path": "/4QZnZ3wyGALVuwZ70HdXZk4O14W.jpg",
+        "cast_id": 4,
+        "character": "Waylon",
+        "credit_id": "66720b8c56d4e5c9b13540d4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1654741,
+        "known_for_department": "Acting",
+        "name": "Andrei Nova",
+        "original_name": "Andrei Nova",
+        "popularity": 1.1272,
+        "profile_path": "/qW4RfbmHffTdiwmuEIQv3oyJ8YA.jpg",
+        "cast_id": 28,
+        "character": "Werewolf",
+        "credit_id": "67a64c534dc052ba5585f79a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2437985,
+        "known_for_department": "Crew",
+        "name": "Adam Basil",
+        "original_name": "Adam Basil",
+        "popularity": 0.862,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Werewolf",
+        "credit_id": "66a53916ce2d0a87b21a0e9d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1697856,
+        "known_for_department": "Acting",
+        "name": "Martina McClements",
+        "original_name": "Martina McClements",
+        "popularity": 0.4875,
+        "profile_path": "/fd0z3hXKBGbsMAghAF2qwezORjc.jpg",
+        "cast_id": 25,
+        "character": "Great Grandmother",
+        "credit_id": "66a5392bd32c6484aa367002",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2207296,
+        "known_for_department": "Acting",
+        "name": "Ian Giles",
+        "original_name": "Ian Giles",
+        "popularity": 0.301,
+        "profile_path": "/3N2l1UeHPxV0Ep7l0zcM6WdfgLk.jpg",
+        "cast_id": 23,
+        "character": "William",
+        "credit_id": "66a539078c2e0bdc6a91236b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 209998,
+        "known_for_department": "Acting",
+        "name": "Lachlan Nieboer",
+        "original_name": "Lachlan Nieboer",
+        "popularity": 1.0082,
+        "profile_path": "/eTlgYhhscbTX0OQ7k9Em7OkOtvD.jpg",
+        "cast_id": 29,
+        "character": "Shopkeeper",
+        "credit_id": "67a64c633b92fb06492fdcfa",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2954777,
+        "known_for_department": "Directing",
+        "name": "Alexander J. Farrell",
+        "original_name": "Alexander J. Farrell",
+        "popularity": 0.4092,
+        "profile_path": null,
+        "credit_id": "6661da475d91a601f7d7c319",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1773448,
+        "known_for_department": "Writing",
+        "name": "Greer Taylor Ellison",
+        "original_name": "Greer Taylor Ellison",
+        "popularity": 0.5848,
+        "profile_path": null,
+        "credit_id": "66720c180bd9d0ec5f343a15",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2954777,
+        "known_for_department": "Directing",
+        "name": "Alexander J. Farrell",
+        "original_name": "Alexander J. Farrell",
+        "popularity": 0.4092,
+        "profile_path": null,
+        "credit_id": "66720c306283a6acca167384",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2732092,
+        "known_for_department": "Production",
+        "name": "Jack Christian",
+        "original_name": "Jack Christian",
+        "popularity": 0.4863,
+        "profile_path": "/6Kn5VpZu5zzX3Ckjo5x39KsmyN7.jpg",
+        "credit_id": "667389e5ee0a7177c8646b3d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2262398,
+        "known_for_department": "Production",
+        "name": "Karl Hall",
+        "original_name": "Karl Hall",
+        "popularity": 0.3443,
+        "profile_path": null,
+        "credit_id": "667389fbbb8f5f4d3690f0e3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1322031,
+        "known_for_department": "Writing",
+        "name": "Martin Owen",
+        "original_name": "Martin Owen",
+        "popularity": 0.532,
+        "profile_path": null,
+        "credit_id": "66738ac346d218bacacefc39",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1547085,
+        "known_for_department": "Production",
+        "name": "D.J. McPherson",
+        "original_name": "D.J. McPherson",
+        "popularity": 0.3584,
+        "profile_path": "/pjN8KKgCRUpBdAXcCj6sUPv8BTn.jpg",
+        "credit_id": "66738a152d6421c11590f638",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2719132,
+        "known_for_department": "Sound",
+        "name": "Jack Halama",
+        "original_name": "Jack Halama",
+        "popularity": 0.4033,
+        "profile_path": null,
+        "credit_id": "66a40ea4279b6d7276c70963",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2042692,
+        "known_for_department": "Production",
+        "name": "Merlin Merton",
+        "original_name": "Merlin Merton",
+        "popularity": 0.4486,
+        "profile_path": null,
+        "credit_id": "66a40e90840c4b0589766736",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1731561,
+        "known_for_department": "Camera",
+        "name": "Daniel Katz",
+        "original_name": "Daniel Katz",
+        "popularity": 0.4962,
+        "profile_path": "/sHbsW7tblS9oiBFxiX7Z3xw53rx.jpg",
+        "credit_id": "66a40ec934ac186c74766709",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4232137,
+        "known_for_department": "Art",
+        "name": "Oskar De Rozario",
+        "original_name": "Oskar De Rozario",
+        "popularity": 0.3963,
+        "profile_path": null,
+        "credit_id": "66a40f09778acf23fe5219ed",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2337280,
+        "known_for_department": "Art",
+        "name": "Janeeta Panesar",
+        "original_name": "Janeeta Panesar",
+        "popularity": 0.2968,
+        "profile_path": null,
+        "credit_id": "66a40f16da39d7b2d6b4a5d9",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2345248,
+        "known_for_department": "Production",
+        "name": "Ryan Hamilton",
+        "original_name": "Ryan Hamilton",
+        "popularity": 0.4531,
+        "profile_path": null,
+        "credit_id": "66a40e6871a5d054537befc2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2779169,
+        "known_for_department": "Sound",
+        "name": "Nathan Klein",
+        "original_name": "Nathan Klein",
+        "popularity": 0.5471,
+        "profile_path": null,
+        "credit_id": "66a40eb49999fc0b6686c0bc",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1195356,
+        "known_for_department": "Production",
+        "name": "Ben Parkinson",
+        "original_name": "Ben Parkinson",
+        "popularity": 0.4,
+        "profile_path": null,
+        "credit_id": "66a40ee937bd1a08b17befc8",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61580,
+        "known_for_department": "Art",
+        "name": "Russell De Rozario",
+        "original_name": "Russell De Rozario",
+        "popularity": 0.5525,
+        "profile_path": "/cNlEMZk6gmDOCtT75DrEbrYhpp5.jpg",
+        "credit_id": "66a40efb46361dcb0f35a8dc",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1425035,
+        "known_for_department": "Editing",
+        "name": "Matthieu Laclau",
+        "original_name": "Matthieu Laclau",
+        "popularity": 0.4932,
+        "profile_path": "/uJrbn70TJyMfRXDBoKkA4YhzZcJ.jpg",
+        "credit_id": "66a40ed7a4738f521835a902",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2797022,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Adam Howe",
+        "original_name": "Adam Howe",
+        "popularity": 0.4676,
+        "profile_path": null,
+        "credit_id": "66a40f2a0bae6cd360ad4bbb",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1673407,
+        "known_for_department": "Editing",
+        "name": "Andy Lee",
+        "original_name": "Andy Lee",
+        "popularity": 0.6507,
+        "profile_path": null,
+        "credit_id": "66e359129013fe872223c0e6",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5085047,
+        "known_for_department": "Production",
+        "name": "Spencer Friend",
+        "original_name": "Spencer Friend",
+        "popularity": 0.28,
+        "profile_path": null,
+        "credit_id": "6746cf44b525089ddf9b54eb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1811451,
+        "known_for_department": "Sound",
+        "name": "Ryan McMurray",
+        "original_name": "Ryan McMurray",
+        "popularity": 0.3506,
+        "profile_path": null,
+        "credit_id": "69d364be6fac9fd8e2f5f8a9",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      }
+    ]
+  }
+}

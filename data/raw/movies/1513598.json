@@ -1,0 +1,179 @@
+{
+  "adult": false,
+  "backdrop_path": "/hz59eF5z6ObaaWiGlUKcVbODti7.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81733898",
+  "id": 1513598,
+  "imdb_id": "tt37543886",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Stolen: Heist of the Century",
+  "overview": "Antwerp, 2003. A gang of thieves rob the impenetrable Diamond Center. Who was behind one of the world's biggest heists - and how did they pull it off?",
+  "popularity": 3.5339,
+  "poster_path": "/aqZOJkBd3DR6ioacm136lP7BGvi.jpg",
+  "production_companies": [
+    {
+      "id": 56,
+      "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+      "name": "Amblin Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 23949,
+      "logo_path": "/3QFwomSxcZZgMQGBkdUPuJEnSFB.png",
+      "name": "RAW",
+      "origin_country": "GB"
+    },
+    {
+      "id": 270520,
+      "logo_path": null,
+      "name": "Wildside",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2025-08-07",
+  "revenue": 0,
+  "runtime": 96,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Stolen: Heist of the Century",
+  "video": false,
+  "vote_average": 6.989,
+  "vote_count": 45,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5180046,
+        "known_for_department": "Acting",
+        "name": "Agim De Bruycker",
+        "original_name": "Agim De Bruycker",
+        "popularity": 0.2268,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Self - Former Commander, Diamond Squad, Federal Police",
+        "credit_id": "68a29869381d75682fed1c96",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5632909,
+        "known_for_department": "Acting",
+        "name": "Patrick Peys",
+        "original_name": "Patrick Peys",
+        "popularity": 0.217,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Self - Forensic Officer, Federal Police",
+        "credit_id": "68a2987e231576b96461c560",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5632986,
+        "known_for_department": "Acting",
+        "name": "Annie Lauwers",
+        "original_name": "Annie Lauwers",
+        "popularity": 0.262,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Self - Shopkeeper",
+        "credit_id": "68a2ae3d6bf602ce35e94cac",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5632988,
+        "known_for_department": "Acting",
+        "name": "Peter Kerkhof",
+        "original_name": "Peter Kerkhof",
+        "popularity": 0.2499,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Self - Forensic Officer, Federal Police",
+        "credit_id": "68a2ae54ae11225da061c46d",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2485727,
+        "known_for_department": "Writing",
+        "name": "Mark Lewis",
+        "original_name": "Mark Lewis",
+        "popularity": 0.3983,
+        "profile_path": null,
+        "credit_id": "68762f83ac398430475712a0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3413536,
+        "known_for_department": "Production",
+        "name": "Sinead Casey",
+        "original_name": "Sinead Casey",
+        "popularity": 0.1329,
+        "profile_path": null,
+        "credit_id": "68a2aeaca7ddfa7fa1e94e84",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1355933,
+        "known_for_department": "Production",
+        "name": "Dimitri Doganis",
+        "original_name": "Dimitri Doganis",
+        "popularity": 0.4707,
+        "profile_path": null,
+        "credit_id": "68a2aec1e7fa6974a7870224",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6088631,
+        "known_for_department": "Art",
+        "name": "Joren van Houdt",
+        "original_name": "Joren van Houdt",
+        "popularity": 0.2099,
+        "profile_path": null,
+        "credit_id": "69bfc33d1f168610d713bca9",
+        "department": "Art",
+        "job": "Art Direction"
+      }
+    ]
+  }
+}

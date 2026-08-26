@@ -1,0 +1,409 @@
+{
+  "adult": false,
+  "backdrop_path": "/iUmJYNPuF5hMsTW3yy5FEo1miSW.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.xyzfilms.com/the-artific-girl",
+  "id": 983282,
+  "imdb_id": "tt20859464",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Artifice Girl",
+  "overview": "A team of special agents discovers a revolutionary new computer program to bait and trap online predators. After teaming up with the program's troubled developer, they soon find that the AI is rapidly advancing beyond its original purpose.",
+  "popularity": 3.1467,
+  "poster_path": "/A3qrVjsBd4IZ3QWHMs2x1dwRxuX.jpg",
+  "production_companies": [
+    {
+      "id": 89269,
+      "logo_path": "/pKWk2XfT9xoHYdGKW1Bac7hFvrz.png",
+      "name": "Paper Street Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 197256,
+      "logo_path": "/6g4ZrzEJYj9Tk6EoZ4DFnYGVTCn.png",
+      "name": "Last Resort Ideas",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-04-27",
+  "revenue": 0,
+  "runtime": 93,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "She's not real. She's more than that.",
+  "title": "The Artifice Girl",
+  "video": false,
+  "vote_average": 6.751,
+  "vote_count": 319,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3328807,
+        "known_for_department": "Acting",
+        "name": "Tatum Matthews",
+        "original_name": "Tatum Matthews",
+        "popularity": 0.7075,
+        "profile_path": "/wLQnssK1CuL9ZyrQ93AXFgSQ4Ay.jpg",
+        "cast_id": 11,
+        "character": "Cherry",
+        "credit_id": "63e777d7a2e6020085344d38",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3977672,
+        "known_for_department": "Directing",
+        "name": "Franklin Ritch",
+        "original_name": "Franklin Ritch",
+        "popularity": 0.5306,
+        "profile_path": "/AdVMTgvPLcjCwNB80vpVCbzdaje.jpg",
+        "cast_id": 14,
+        "character": "Gareth (Acts 1 & 2)",
+        "credit_id": "641e03c8e1faed010b366972",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2615845,
+        "known_for_department": "Acting",
+        "name": "Sinda Nichols",
+        "original_name": "Sinda Nichols",
+        "popularity": 0.663,
+        "profile_path": "/tHy2kdxExKwFsa1uLGo64lvihnr.jpg",
+        "cast_id": 12,
+        "character": "Deena",
+        "credit_id": "63e778aed388ae0094c3ff1e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2772175,
+        "known_for_department": "Acting",
+        "name": "David Girard",
+        "original_name": "David Girard",
+        "popularity": 0.5274,
+        "profile_path": "/zbXhUmEms14yWP0hOSj8PQ1T9XI.jpg",
+        "cast_id": 7,
+        "character": "Amos",
+        "credit_id": "62def84533ad8f0050037f99",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2714,
+        "known_for_department": "Acting",
+        "name": "Lance Henriksen",
+        "original_name": "Lance Henriksen",
+        "popularity": 2.7834,
+        "profile_path": "/1PkFmD5HdjmRa2DumtwINnnAjTH.jpg",
+        "cast_id": 13,
+        "character": "Gareth (Act 3)",
+        "credit_id": "63e778c6d388ae00869809ad",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4053339,
+        "known_for_department": "Acting",
+        "name": "Rashaud Sessoms",
+        "original_name": "Rashaud Sessoms",
+        "popularity": 0.3014,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Ben",
+        "credit_id": "645a79b76aa8e000ff5bd86a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3977678,
+        "known_for_department": "Acting",
+        "name": "Alyssa Moody",
+        "original_name": "Alyssa Moody",
+        "popularity": 0.501,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Ilia",
+        "credit_id": "641e0462ae6f09010c8e3ded",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4053344,
+        "known_for_department": "Acting",
+        "name": "Lucy Noelle",
+        "original_name": "Lucy Noelle",
+        "popularity": 0.3429,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Young Ilia",
+        "credit_id": "645a79ea156cc700e39ebde8",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4053346,
+        "known_for_department": "Acting",
+        "name": "Andi Ciccotelli",
+        "original_name": "Andi Ciccotelli",
+        "popularity": 0.5483,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Custodian",
+        "credit_id": "645a7a08156cc7011e00e554",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3977674,
+        "known_for_department": "Acting",
+        "name": "Ivana Barnes",
+        "original_name": "Ivana Barnes",
+        "popularity": 0.2726,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Funeral Home Director",
+        "credit_id": "641e03edae6f09007b6a71bb",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1494021,
+        "known_for_department": "Art",
+        "name": "Britt McTammany",
+        "original_name": "Britt McTammany",
+        "popularity": 0.2609,
+        "profile_path": null,
+        "credit_id": "62e02a0e1dbc880672d034da",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1288345,
+        "known_for_department": "Production",
+        "name": "Aaron B. Koontz",
+        "original_name": "Aaron B. Koontz",
+        "popularity": 0.5839,
+        "profile_path": "/3i8wrVYl6IR9ltEC2gYhWAR2TwX.jpg",
+        "credit_id": "62def85ce18e3f004e31b842",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1288346,
+        "known_for_department": "Writing",
+        "name": "Cameron Burns",
+        "original_name": "Cameron Burns",
+        "popularity": 0.6456,
+        "profile_path": null,
+        "credit_id": "642f686295c0af0097a218b4",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1417215,
+        "known_for_department": "Production",
+        "name": "Peter Kuplowsky",
+        "original_name": "Peter Kuplowsky",
+        "popularity": 0.4452,
+        "profile_path": "/z3HvJrWGK9X1WnyKEmJ1v7LMynw.jpg",
+        "credit_id": "642f68736dea3a00d4369915",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3998003,
+        "known_for_department": "Production",
+        "name": "Melinda Friedlin",
+        "original_name": "Melinda Friedlin",
+        "popularity": 0.2438,
+        "profile_path": null,
+        "credit_id": "642f688631032501036e1c57",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2543096,
+        "known_for_department": "Production",
+        "name": "Alex Euting",
+        "original_name": "Alex Euting",
+        "popularity": 0.3674,
+        "profile_path": null,
+        "credit_id": "642f685567203d0103d2aa18",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1981961,
+        "known_for_department": "Production",
+        "name": "Ashleigh Snead",
+        "original_name": "Ashleigh Snead",
+        "popularity": 0.46,
+        "profile_path": null,
+        "credit_id": "642f68943103250126966c56",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3977672,
+        "known_for_department": "Directing",
+        "name": "Franklin Ritch",
+        "original_name": "Franklin Ritch",
+        "popularity": 0.5306,
+        "profile_path": "/AdVMTgvPLcjCwNB80vpVCbzdaje.jpg",
+        "credit_id": "6451f36733ad8f011b3ebe98",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3977672,
+        "known_for_department": "Directing",
+        "name": "Franklin Ritch",
+        "original_name": "Franklin Ritch",
+        "popularity": 0.5306,
+        "profile_path": "/AdVMTgvPLcjCwNB80vpVCbzdaje.jpg",
+        "credit_id": "6451f395091e6201653069d1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3977672,
+        "known_for_department": "Directing",
+        "name": "Franklin Ritch",
+        "original_name": "Franklin Ritch",
+        "popularity": 0.5306,
+        "profile_path": "/AdVMTgvPLcjCwNB80vpVCbzdaje.jpg",
+        "credit_id": "6451f383091e6201653069c8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2018569,
+        "known_for_department": "Sound",
+        "name": "Dave Chmela",
+        "original_name": "Dave Chmela",
+        "popularity": 0.3279,
+        "profile_path": null,
+        "credit_id": "64555465dd731b011b44f4d7",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3015360,
+        "known_for_department": "Sound",
+        "name": "Jason Strawley",
+        "original_name": "Jason Strawley",
+        "popularity": 0.5858,
+        "profile_path": null,
+        "credit_id": "645554864e67420122ba69a8",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2018569,
+        "known_for_department": "Sound",
+        "name": "Dave Chmela",
+        "original_name": "Dave Chmela",
+        "popularity": 0.3279,
+        "profile_path": null,
+        "credit_id": "6455546d4e6742014332c109",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3015360,
+        "known_for_department": "Sound",
+        "name": "Jason Strawley",
+        "original_name": "Jason Strawley",
+        "popularity": 0.5858,
+        "profile_path": null,
+        "credit_id": "6455548071083a0183768187",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1760786,
+        "known_for_department": "Sound",
+        "name": "Alex Cuervo",
+        "original_name": "Alex Cuervo",
+        "popularity": 0.4347,
+        "profile_path": "/8kbLrHKWPP6a1md0rd1m9gst6cA.jpg",
+        "credit_id": "66d49c2c41fb6ff11a9bca19",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

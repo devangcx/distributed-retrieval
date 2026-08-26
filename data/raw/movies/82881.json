@@ -1,0 +1,395 @@
+{
+  "adult": false,
+  "backdrop_path": "/6qvKbLYkfXXKM82M38UmDz3IfBk.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 82881,
+  "imdb_id": "tt2112281",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Tangled Ever After",
+  "overview": "The kingdom is in a festive mood as everyone gathers for the royal wedding of Rapunzel and Flynn. However, when Pascal and Maximus, as flower chameleon and ring bearer, respectively, lose the gold bands, a frenzied search and recovery mission gets underway. As the desperate duo tries to find the rings before anyone discovers that they’re missing, they leave behind a trail of comical chaos that includes flying lanterns, a flock of doves, a wine barrel barricade and a very sticky finale. Will Maximus and Pascal save the day and make it to the church in time? And will they ever get Flynn’s nose right?",
+  "popularity": 9.3939,
+  "poster_path": "/5IeMW79OxftIUoR5duxyQ4LW5Iy.jpg",
+  "production_companies": [
+    {
+      "id": 6125,
+      "logo_path": "/8bH86UPmMP8hlITzXV3XgV9eaAc.png",
+      "name": "Walt Disney Animation Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2012-01-13",
+  "revenue": 0,
+  "runtime": 6,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tangled Ever After",
+  "video": false,
+  "vote_average": 7.141,
+  "vote_count": 1131,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 16855,
+        "known_for_department": "Acting",
+        "name": "Mandy Moore",
+        "original_name": "Mandy Moore",
+        "popularity": 3.3747,
+        "profile_path": "/2n0rqUGojRNEHrmtPeCEptHREEY.jpg",
+        "cast_id": 6,
+        "character": "Rapunzel (voice)",
+        "credit_id": "52fe487a9251416c9108dd2f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69899,
+        "known_for_department": "Acting",
+        "name": "Zachary Levi",
+        "original_name": "Zachary Levi",
+        "popularity": 2.6873,
+        "profile_path": "/1W8L3kEMMPF9umT3ZGaNIiCYKfZ.jpg",
+        "cast_id": 3,
+        "character": "Flynn Rider (voice)",
+        "credit_id": "52fe487a9251416c9108dd2b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52760,
+        "known_for_department": "Acting",
+        "name": "Alan Dale",
+        "original_name": "Alan Dale",
+        "popularity": 1.9249,
+        "profile_path": "/3BcpSoKBOwHX0wxaPZpOJ5buO89.jpg",
+        "cast_id": 21,
+        "character": "Priest (voice)",
+        "credit_id": "550d8004925141469c005ad7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219029,
+        "known_for_department": "Acting",
+        "name": "Paul F. Tompkins",
+        "original_name": "Paul F. Tompkins",
+        "popularity": 1.9402,
+        "profile_path": "/pL9v2aubEAOSW0lgrWyP0vvGr34.jpg",
+        "cast_id": 22,
+        "character": "Short Thug (voice)",
+        "credit_id": "550d801ec3a368487d005e70",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 116315,
+        "known_for_department": "Acting",
+        "name": "Kari Wahlgren",
+        "original_name": "Kari Wahlgren",
+        "popularity": 2.3589,
+        "profile_path": "/kc0BOnSdzCfq8w9qoNVEm5K12x1.jpg",
+        "cast_id": 9,
+        "character": "Queen (voice)",
+        "credit_id": "52fe487a9251416c9108dd33",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 649103,
+        "known_for_department": "Acting",
+        "name": "Mark Allan Stewart",
+        "original_name": "Mark Allan Stewart",
+        "popularity": 0.6976,
+        "profile_path": "/kvsKWZe9TxG5EkOVaSdC80AIOiL.jpg",
+        "cast_id": 11,
+        "character": "Dove Caller (voice)",
+        "credit_id": "52fe487a9251416c9108dd3b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76595,
+        "known_for_department": "Directing",
+        "name": "Byron Howard",
+        "original_name": "Byron Howard",
+        "popularity": 1.8667,
+        "profile_path": "/ePJXkxrD44nM0VB7Xx9Q4ityzfT.jpg",
+        "cast_id": 23,
+        "character": "Lantern Wrangler / Chef (voice)",
+        "credit_id": "550d804292514146910059a1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121830,
+        "known_for_department": "Writing",
+        "name": "Nathan Greno",
+        "original_name": "Nathan Greno",
+        "popularity": 1.2115,
+        "profile_path": "/eFE9odW9uzWAGomGFmmusxJT1Ee.jpg",
+        "cast_id": 24,
+        "character": "Maximus / Guard / Stabbington Brothers (voice)",
+        "credit_id": "550d805192514146910059ad",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 159720,
+        "known_for_department": "Acting",
+        "name": "Matt Nolan",
+        "original_name": "Matt Nolan",
+        "popularity": 1.1539,
+        "profile_path": "/cph12yf1h82tucawsqo8wIIlivb.jpg",
+        "cast_id": 10,
+        "character": "Frying Pan Caller (voice)",
+        "credit_id": "52fe487a9251416c9108dd37",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65715,
+        "known_for_department": "Acting",
+        "name": "Robert Bagnell",
+        "original_name": "Robert Bagnell",
+        "popularity": 0.805,
+        "profile_path": "/z3HiZive4qVRxw5Ou0ME0NeMt0C.jpg",
+        "cast_id": 25,
+        "character": "Additional Voices (voice)",
+        "credit_id": "550d806292514133c3003975",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1219571,
+        "known_for_department": "Acting",
+        "name": "Erin Matthews",
+        "original_name": "Erin Matthews",
+        "popularity": 0.8303,
+        "profile_path": "/kMIpdbqQrxjEPKovHXQKpL0J3zI.jpg",
+        "cast_id": 26,
+        "character": "Additional Voices (voice)",
+        "credit_id": "550d807092514135540036e1",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121830,
+        "known_for_department": "Writing",
+        "name": "Nathan Greno",
+        "original_name": "Nathan Greno",
+        "popularity": 1.2115,
+        "profile_path": "/eFE9odW9uzWAGomGFmmusxJT1Ee.jpg",
+        "credit_id": "52fe487a9251416c9108dd21",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76595,
+        "known_for_department": "Directing",
+        "name": "Byron Howard",
+        "original_name": "Byron Howard",
+        "popularity": 1.8667,
+        "profile_path": "/ePJXkxrD44nM0VB7Xx9Q4ityzfT.jpg",
+        "credit_id": "52fe487a9251416c9108dd27",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 137198,
+        "known_for_department": "Production",
+        "name": "Jamie Sparer Roberts",
+        "original_name": "Jamie Sparer Roberts",
+        "popularity": 0.5141,
+        "profile_path": "/qAXxHH7GIXTnySqB0GUi7hLxW89.jpg",
+        "credit_id": "550d7fd592514146a00058a6",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7884,
+        "known_for_department": "Writing",
+        "name": "Daniel Gerson",
+        "original_name": "Daniel Gerson",
+        "popularity": 0.6981,
+        "profile_path": "/amOuK3ytWV7KXeWrpl9joCglRlF.jpg",
+        "credit_id": "550d7fa592514135540036d0",
+        "department": "Crew",
+        "job": "Additional Writing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7879,
+        "known_for_department": "Production",
+        "name": "John Lasseter",
+        "original_name": "John Lasseter",
+        "popularity": 2.5321,
+        "profile_path": "/xlrE4VD2VbZCDpaNdWCpH1ZihPS.jpg",
+        "credit_id": "550d7fb692514134430035fb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7931,
+        "known_for_department": "Writing",
+        "name": "Robert L. Baird",
+        "original_name": "Robert L. Baird",
+        "popularity": 0.7901,
+        "profile_path": "/okdPZRcL1eZCxBb5BqkLRlTgK5v.jpg",
+        "credit_id": "550d7f98c3a36848720060e9",
+        "department": "Crew",
+        "job": "Additional Writing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65644,
+        "known_for_department": "Sound",
+        "name": "Kevin Kliesch",
+        "original_name": "Kevin Kliesch",
+        "popularity": 0.4621,
+        "profile_path": null,
+        "credit_id": "550d7fc392514135540036d4",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76595,
+        "known_for_department": "Directing",
+        "name": "Byron Howard",
+        "original_name": "Byron Howard",
+        "popularity": 1.8667,
+        "profile_path": "/ePJXkxrD44nM0VB7Xx9Q4ityzfT.jpg",
+        "credit_id": "550d7f739251414695005b08",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1443211,
+        "known_for_department": "Production",
+        "name": "Aimee Scribner",
+        "original_name": "Aimee Scribner",
+        "popularity": 0.4067,
+        "profile_path": null,
+        "credit_id": "550d7f31c3a3684886005dc3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121830,
+        "known_for_department": "Writing",
+        "name": "Nathan Greno",
+        "original_name": "Nathan Greno",
+        "popularity": 1.2115,
+        "profile_path": "/eFE9odW9uzWAGomGFmmusxJT1Ee.jpg",
+        "credit_id": "550d7f6b92514134430035ee",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 61414,
+        "known_for_department": "Writing",
+        "name": "Mark Kennedy",
+        "original_name": "Mark Kennedy",
+        "popularity": 0.9454,
+        "profile_path": null,
+        "credit_id": "550d7f84c3a368487d005e5d",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1447483,
+        "known_for_department": "Directing",
+        "name": "Rick Moore",
+        "original_name": "Rick Moore",
+        "popularity": 0.538,
+        "profile_path": null,
+        "credit_id": "55423463c3a36877ee003954",
+        "department": "Directing",
+        "job": "Layout"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4627327,
+        "known_for_department": "Visual Effects",
+        "name": "Aaron Adams",
+        "original_name": "Aaron Adams",
+        "popularity": 0.2064,
+        "profile_path": null,
+        "credit_id": "660a88b4a88587017ce5b0a2",
+        "department": "Visual Effects",
+        "job": "Animation Technical Director"
+      }
+    ]
+  }
+}

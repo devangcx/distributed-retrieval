@@ -1,0 +1,487 @@
+{
+  "adult": false,
+  "backdrop_path": "/xPyK28g63erpiWwjs34meaweuit.jpg",
+  "belongs_to_collection": {
+    "id": 1067970,
+    "name": "The Velocipastor Collection",
+    "poster_path": "/af5nyGZGNJAQTrFwuFxQFolIx4k.jpg",
+    "backdrop_path": "/AlqTF0ZRUI0xVasQcBTnNpG5v9Y.jpg"
+  },
+  "budget": 36000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.thevelocipastor.com/velocipastor",
+  "id": 457712,
+  "imdb_id": "tt1843303",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The VelociPastor",
+  "overview": "After losing his parents, a priest travels to China, where he inherits a mysterious ability to turn into a dinosaur. At first horrified by this new power, a prostitute convinces him to fight crime. And ninjas.",
+  "popularity": 3.1655,
+  "poster_path": "/trSmNw63luh84MBy5XLH0UiN1BC.jpg",
+  "production_companies": [
+    {
+      "id": 20955,
+      "logo_path": null,
+      "name": "WildEye Releasing",
+      "origin_country": ""
+    },
+    {
+      "id": 102807,
+      "logo_path": null,
+      "name": "Hollow Tree Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-09-28",
+  "revenue": 100000,
+  "runtime": 75,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A man of the claw",
+  "title": "The VelociPastor",
+  "video": false,
+  "vote_average": 5.351,
+  "vote_count": 262,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1970662,
+        "known_for_department": "Acting",
+        "name": "Gregory James Cohan",
+        "original_name": "Gregory James Cohan",
+        "popularity": 1.3083,
+        "profile_path": "/ykUzY7WJuT98TauLH1J4j6fh0h0.jpg",
+        "cast_id": 2,
+        "character": "Doug Jones / The VelociPastor",
+        "credit_id": "5cbc550c925141066ef7ad5a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2223360,
+        "known_for_department": "Acting",
+        "name": "Alyssa Kempinski",
+        "original_name": "Alyssa Kempinski",
+        "popularity": 0.8807,
+        "profile_path": "/ivcphtmvoZxIdnY1KinAvkNv2rA.jpg",
+        "cast_id": 3,
+        "character": "Carol",
+        "credit_id": "5cbc5524c3a3680a6f85cb10",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2293479,
+        "known_for_department": "Acting",
+        "name": "Daniel Steere",
+        "original_name": "Daniel Steere",
+        "popularity": 0.3867,
+        "profile_path": "/1FcNip81z89viNfgNnMOD1RT3us.jpg",
+        "cast_id": 5,
+        "character": "Father Stewart",
+        "credit_id": "5cbc55430e0a2615fdeeae4a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2293483,
+        "known_for_department": "Acting",
+        "name": "Fernando Pacheco de Castro",
+        "original_name": "Fernando Pacheco de Castro",
+        "popularity": 0.3588,
+        "profile_path": "/lyWAZVcJW79N49YaTlO0DqMR3vG.jpg",
+        "cast_id": 8,
+        "character": "Frankie Mermaid",
+        "credit_id": "5cbc55a8c3a3683abf893a7a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1749472,
+        "known_for_department": "Directing",
+        "name": "Aurelio Voltaire",
+        "original_name": "Aurelio Voltaire",
+        "popularity": 0.5975,
+        "profile_path": "/33efSok1wJUCzsp3B6AfRxwmmQn.jpg",
+        "cast_id": 22,
+        "character": "Altair",
+        "credit_id": "5e261c43a6c1043e0b842f75",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2293482,
+        "known_for_department": "Acting",
+        "name": "Yang Jiechang",
+        "original_name": "Yang Jiechang",
+        "popularity": 0.2782,
+        "profile_path": "/dactkaECmrs4xkwQeLl6MdNUNXm.jpg",
+        "cast_id": 7,
+        "character": "Wei Chang",
+        "credit_id": "5cbc5595925141097df78a47",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2293480,
+        "known_for_department": "Acting",
+        "name": "Jesse Turits",
+        "original_name": "Jesse Turits",
+        "popularity": 0.4831,
+        "profile_path": "/5bpOvLIeXHmuZnL8q4aOl792ws6.jpg",
+        "cast_id": 25,
+        "character": "Sam the White Ninja",
+        "credit_id": "5e261cb1a6c104001384f928",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2515984,
+        "known_for_department": "Acting",
+        "name": "Zachary Steere",
+        "original_name": "Zachary Steere",
+        "popularity": 0.3947,
+        "profile_path": "/9NJMQ5gXipMOqxwTtSVjf4z4Jta.jpg",
+        "cast_id": 24,
+        "character": "Dinosaur Suit Performer",
+        "credit_id": "5e261c9ea6c1043e0b842f95",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1536131,
+        "known_for_department": "Acting",
+        "name": "Claire Hsu",
+        "original_name": "Claire Hsu",
+        "popularity": 0.4093,
+        "profile_path": "/8aancG9cP2ncYMNG9TxpyqmoelQ.jpg",
+        "cast_id": 21,
+        "character": "Chinese Villager",
+        "credit_id": "5e261ba7031deb0011c5aa8a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2032534,
+        "known_for_department": "Acting",
+        "name": "David Sokol",
+        "original_name": "David Sokol",
+        "popularity": 0.6325,
+        "profile_path": "/1nb1Ho7Pjhtnxrr13Aee9hOaykb.jpg",
+        "cast_id": 26,
+        "character": "Ali",
+        "credit_id": "5e261cc6a6c104001384f92c",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1562985,
+        "known_for_department": "Acting",
+        "name": "Nicholas M. Garofolo",
+        "original_name": "Nicholas M. Garofolo",
+        "popularity": 0.3862,
+        "profile_path": "/fnTllMSDrKQ5p1ZjkzPcUzl2873.jpg",
+        "cast_id": 23,
+        "character": "Hobo",
+        "credit_id": "5e261c78a6c104001384f8f9",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2515987,
+        "known_for_department": "Acting",
+        "name": "George Schewnzer",
+        "original_name": "George Schewnzer",
+        "popularity": 0.3028,
+        "profile_path": "/8n2EPCI5UNasPEmFb1MVK2rtGIu.jpg",
+        "cast_id": 31,
+        "character": "Doug's Dad",
+        "credit_id": "5e261d09a6c1043e0b842fa9",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5686964,
+        "known_for_department": "Acting",
+        "name": "Janice Young",
+        "original_name": "Janice Young",
+        "popularity": 0.2534,
+        "profile_path": "/k3iIP9sy6UMDsuy6gbQzydGdclm.jpg",
+        "cast_id": 35,
+        "character": "Doug's Mom",
+        "credit_id": "68c58701fe286eb64cacac8e",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2515985,
+        "known_for_department": "Acting",
+        "name": "Douglas Saint James",
+        "original_name": "Douglas Saint James",
+        "popularity": 0.2361,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Surgeon",
+        "credit_id": "5e261cd0a6c104001384f935",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2515986,
+        "known_for_department": "Acting",
+        "name": "Pat Hroncich",
+        "original_name": "Pat Hroncich",
+        "popularity": 0.2932,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Vietnam Soldier 1",
+        "credit_id": "5e261cf8a6c1043e0b842fa0",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5566225,
+        "known_for_department": "Acting",
+        "name": "Alec Lambert",
+        "original_name": "Alec Lambert",
+        "popularity": 0.6314,
+        "profile_path": "/aMP4QTTuEiufrQ8azvBZYMw397b.jpg",
+        "cast_id": 34,
+        "character": "Thug",
+        "credit_id": "68769e84c1084f2736f48a07",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2293485,
+        "known_for_department": "Camera",
+        "name": "Jesse Gouldsbury",
+        "original_name": "Jesse Gouldsbury",
+        "popularity": 0.2216,
+        "profile_path": "/qwD0xT447s5Cd4pykg7MQZXMpNP.jpg",
+        "credit_id": "63b325de57530e008502713f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1299434,
+        "known_for_department": "Directing",
+        "name": "Brendan Steere",
+        "original_name": "Brendan Steere",
+        "popularity": 0.3949,
+        "profile_path": "/giT1vMgdBaMIphEyjoQzCUyfXI3.jpg",
+        "credit_id": "63b324b6a9117f058bc43918",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2133117,
+        "known_for_department": "Lighting",
+        "name": "Kurt Voltmann",
+        "original_name": "Kurt Voltmann",
+        "popularity": 0.428,
+        "profile_path": null,
+        "credit_id": "5ba6ad12c3a3680e68015615",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1285606,
+        "known_for_department": "Sound",
+        "name": "Ali Helnwein",
+        "original_name": "Ali Helnwein",
+        "popularity": 0.3873,
+        "profile_path": null,
+        "credit_id": "5cbc57dfc3a3681369849918",
+        "department": "Sound",
+        "job": "Music Arranger"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2293484,
+        "known_for_department": "Production",
+        "name": "Brandon Taylor",
+        "original_name": "Brandon Taylor",
+        "popularity": 0.2131,
+        "profile_path": null,
+        "credit_id": "5cbc564d0e0a2641edf13202",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2276919,
+        "known_for_department": "Sound",
+        "name": "Daniel McCormick",
+        "original_name": "Daniel McCormick",
+        "popularity": 0.2655,
+        "profile_path": null,
+        "credit_id": "5cbc57d10e0a266b96f721de",
+        "department": "Sound",
+        "job": "Music Arranger"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1299434,
+        "known_for_department": "Directing",
+        "name": "Brendan Steere",
+        "original_name": "Brendan Steere",
+        "popularity": 0.3949,
+        "profile_path": "/giT1vMgdBaMIphEyjoQzCUyfXI3.jpg",
+        "credit_id": "5cbc5807925141097df78d7e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1445964,
+        "known_for_department": "Sound",
+        "name": "Steve Burgess",
+        "original_name": "Steve Burgess",
+        "popularity": 0.5559,
+        "profile_path": null,
+        "credit_id": "5cbc571d92514151caf7a7ef",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2293487,
+        "known_for_department": "Art",
+        "name": "Siyu Lin",
+        "original_name": "Siyu Lin",
+        "popularity": 0.3298,
+        "profile_path": null,
+        "credit_id": "5cbc56e292514151caf7a7a9",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2023766,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jennifer Suarez",
+        "original_name": "Jennifer Suarez",
+        "popularity": 0.351,
+        "profile_path": null,
+        "credit_id": "5cbc57860e0a2615fdeeb1c3",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2293486,
+        "known_for_department": "Production",
+        "name": "Jessica Yue",
+        "original_name": "Jessica Yue",
+        "popularity": 0.2609,
+        "profile_path": null,
+        "credit_id": "5cbc566d9251417d39f7a8e8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2293488,
+        "known_for_department": "Sound",
+        "name": "Brian Perry",
+        "original_name": "Brian Perry",
+        "popularity": 0.1795,
+        "profile_path": null,
+        "credit_id": "5cbc5703c3a3686b0b8c8181",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2293485,
+        "known_for_department": "Camera",
+        "name": "Jesse Gouldsbury",
+        "original_name": "Jesse Gouldsbury",
+        "popularity": 0.2216,
+        "profile_path": "/qwD0xT447s5Cd4pykg7MQZXMpNP.jpg",
+        "credit_id": "5cbc565dc3a368694c85a946",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

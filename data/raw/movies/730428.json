@@ -1,0 +1,396 @@
+{
+  "adult": false,
+  "backdrop_path": "/mxRjxyDIk9BeZBBB40TiXn3s8ZZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/in/title/80997361",
+  "id": 730428,
+  "imdb_id": "tt10230422",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "क्लास ऑफ '83",
+  "overview": "A hero policeman shunted to a punishment posting as the Dean of the police academy decides to punish the corrupt bureaucracy and its criminal allies in return by training five lethal assassin policemen.",
+  "popularity": 1.119,
+  "poster_path": "/exlQEMxbolmsCE4D5Ky6u4onnvC.jpg",
+  "production_companies": [
+    {
+      "id": 2343,
+      "logo_path": "/fkrlAFxgAtIHgYJGIQcDggeucKV.png",
+      "name": "Red Chillies Entertainment",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2020-08-21",
+  "revenue": 0,
+  "runtime": 98,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Class of '83",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 40,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77235,
+        "known_for_department": "Acting",
+        "name": "Bobby Deol",
+        "original_name": "बॉबी द्योल",
+        "popularity": 1.5865,
+        "profile_path": "/2npVa3PduichY8e7qBiE54m9VVP.jpg",
+        "cast_id": 1,
+        "character": "Dean Vijay Singh",
+        "credit_id": "5f2bb0792b531d00390291f1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1238203,
+        "known_for_department": "Acting",
+        "name": "Anup Soni",
+        "original_name": "Anup Soni",
+        "popularity": 0.6166,
+        "profile_path": "/ublFtg8PKJ7k3L2Tn3mfdjD6Ic9.jpg",
+        "cast_id": 3,
+        "character": "CM Manohar Patkar",
+        "credit_id": "5f2bb0af45819900315a92a6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1047716,
+        "known_for_department": "Acting",
+        "name": "Joy Sengupta",
+        "original_name": "Joy Sengupta",
+        "popularity": 0.8345,
+        "profile_path": "/8flKDQq1uAnK4ZHYIguhee2Pf3h.jpg",
+        "cast_id": 5,
+        "character": "DGP Raghav Desai",
+        "credit_id": "5f2bb0ef4b6d9d0034883825",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 562226,
+        "known_for_department": "Acting",
+        "name": "Vishwajeet Pradhan",
+        "original_name": "Vishwajeet Pradhan",
+        "popularity": 0.8572,
+        "profile_path": "/fk5mBFnclEBE8AtgUfoa1i79oqt.jpg",
+        "cast_id": 4,
+        "character": "Mangesh Dixit",
+        "credit_id": "5f2bb0bc2b531d0039029620",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2733097,
+        "known_for_department": "Acting",
+        "name": "Hitesh Bhojraj",
+        "original_name": "Hitesh Bhojraj",
+        "popularity": 0.3392,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Vishnu Varde",
+        "credit_id": "5f2bc4d64581990032595e13",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2733015,
+        "known_for_department": "Acting",
+        "name": "Bhupendra Jadawat",
+        "original_name": "Bhupendra Jadawat",
+        "popularity": 0.4657,
+        "profile_path": "/nE7m63dUPe0G9Pp1zZLfAIWoPxN.jpg",
+        "cast_id": 2,
+        "character": "Pramod Shukla",
+        "credit_id": "5f2bb09b4b6d9d003786f31e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2733098,
+        "known_for_department": "Acting",
+        "name": "Sameer Paranjape",
+        "original_name": "Sameer Paranjape",
+        "popularity": 0.3176,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Aslam Khan",
+        "credit_id": "5f2bc4f245819900335bb72d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2751578,
+        "known_for_department": "Acting",
+        "name": "Adesh Bharadwaj",
+        "original_name": "Adesh Bharadwaj",
+        "popularity": 0.3615,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Umar Kalsekar",
+        "credit_id": "5f416e7147721500345ca1da",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2154798,
+        "known_for_department": "Acting",
+        "name": "Ninad Mahajani",
+        "original_name": "Ninad Mahajani",
+        "popularity": 0.446,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Laxman Jadhav",
+        "credit_id": "5f2bc4c1fab3fa0034fe6713",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2733100,
+        "known_for_department": "Acting",
+        "name": "Prithvik Pratap",
+        "original_name": "Prithvik Pratap",
+        "popularity": 0.3057,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Janardan Surve",
+        "credit_id": "5f2bc5e5fab3fa0034fe68e0",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2122525,
+        "known_for_department": "Acting",
+        "name": "Geetika Tyagi",
+        "original_name": "Geetika Tyagi",
+        "popularity": 0.5645,
+        "profile_path": "/tNpcdgjt40IzycVtCktamKRgpMF.jpg",
+        "cast_id": 18,
+        "character": "Sudha Singh",
+        "credit_id": "5f2d15f1afe2240037fdf4fd",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1318308,
+        "known_for_department": "Acting",
+        "name": "Ravi Singh",
+        "original_name": "Ravi Singh",
+        "popularity": 0.4557,
+        "profile_path": "/iZ3bt2WULorYs1eQRzVgwDBHRhb.jpg",
+        "cast_id": 7,
+        "character": "Pathan Nalwala",
+        "credit_id": "5f2bb12d2b531d0037025575",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2505977,
+        "known_for_department": "Acting",
+        "name": "Monika Panwar",
+        "original_name": "Monika Panwar",
+        "popularity": 1.2573,
+        "profile_path": "/k6KDBJnLyvx0LWCW1DHEi4XeZES.jpg",
+        "cast_id": 20,
+        "character": "Niranjana",
+        "credit_id": "5f32c7631967570038b1989c",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2208916,
+        "known_for_department": "Acting",
+        "name": "Spruha Joshi",
+        "original_name": "Spruha Joshi",
+        "popularity": 0.4983,
+        "profile_path": "/4pyqUbTVPuo6nkv5VCBCIry0ot8.jpg",
+        "cast_id": 19,
+        "character": "Ameeta",
+        "credit_id": "5f32c7581967570039b38bba",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3012948,
+        "known_for_department": "Acting",
+        "name": "Lekha Prajapati",
+        "original_name": "Lekha Prajapati",
+        "popularity": 0.5037,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Vineesha",
+        "credit_id": "6050d722031deb0054e53fbd",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2023723,
+        "known_for_department": "Acting",
+        "name": "Ahmareen Anjum",
+        "original_name": "Ahmareen Anjum",
+        "popularity": 0.5995,
+        "profile_path": "/2tz69L0ECPKJl0eWDV6ABJHYjss.jpg",
+        "cast_id": 25,
+        "character": "Sweta",
+        "credit_id": "613806d65f6c490088ad3d02",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101839,
+        "known_for_department": "Writing",
+        "name": "Hussain Zaidi",
+        "original_name": "Hussain Zaidi",
+        "popularity": 0.7102,
+        "profile_path": "/qMexS456Nk60P8mZSWIfr71dbj6.jpg",
+        "credit_id": "60a7ee3985b10500593b7161",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101839,
+        "known_for_department": "Writing",
+        "name": "Hussain Zaidi",
+        "original_name": "Hussain Zaidi",
+        "popularity": 0.7102,
+        "profile_path": "/qMexS456Nk60P8mZSWIfr71dbj6.jpg",
+        "credit_id": "60a7ec10fac5020070736ad1",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2733023,
+        "known_for_department": "Crew",
+        "name": "Mario Poljac",
+        "original_name": "Mario Poljac",
+        "popularity": 0.2879,
+        "profile_path": null,
+        "credit_id": "5f2bb1a9fab3fa0035fed818",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1143470,
+        "known_for_department": "Writing",
+        "name": "Atul Sabharwal",
+        "original_name": "Atul Sabharwal",
+        "popularity": 0.391,
+        "profile_path": null,
+        "credit_id": "5f2bb16afab3fa0033fd570e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1124938,
+        "known_for_department": "Writing",
+        "name": "Abhijeet Deshpande",
+        "original_name": "Abhijeet Deshpande",
+        "popularity": 0.5256,
+        "profile_path": null,
+        "credit_id": "5f2bb1862b531d0036021a3b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1106748,
+        "known_for_department": "Sound",
+        "name": "Viju Shah",
+        "original_name": "Viju Shah",
+        "popularity": 0.4186,
+        "profile_path": "/760cNna4qEV9K03MJsa2EezXcob.jpg",
+        "credit_id": "5f2bc60d8e87020037331179",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35742,
+        "known_for_department": "Acting",
+        "name": "Shah Rukh Khan",
+        "original_name": "शाहरुख़ ख़ान",
+        "popularity": 3.6069,
+        "profile_path": "/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg",
+        "credit_id": "5f2c08b52b531d0039034b94",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 53973,
+        "known_for_department": "Production",
+        "name": "Gauri Khan",
+        "original_name": "Gauri Khan",
+        "popularity": 1.1711,
+        "profile_path": "/k3VBuerXy0GixEQflLgZgQKq8rF.jpg",
+        "credit_id": "5f2c0899b02f5e0038df0dc2",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

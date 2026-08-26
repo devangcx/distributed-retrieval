@@ -1,0 +1,364 @@
+{
+  "adult": false,
+  "backdrop_path": "/5YnYOcShkPhcP4q4xZX52FzCHe8.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 291154,
+  "imdb_id": "tt3398052",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "दावत-ए-इश्क",
+  "overview": "A deliciously romantic coming together of Gulrez “Gullu” Qadir a Hyderabadi shoe-sales girl disillusioned with love because of her encounters with dowry-seeking men; and Tariq “Taru” Haidar a Lucknawi cook who can charm anybody with the aroma and flavours of his biryani and kebabs.",
+  "popularity": 0.9899,
+  "poster_path": "/aGsDrtKQe0SnyecnJWdAeBo99u.jpg",
+  "production_companies": [
+    {
+      "id": 1569,
+      "logo_path": "/lvzN86o3jrP44DIvn4SMBLOl9PF.png",
+      "name": "Yash Raj Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2014-09-05",
+  "revenue": 0,
+  "runtime": 118,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Daawat-e-Ishq",
+  "video": false,
+  "vote_average": 6.806,
+  "vote_count": 62,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 142626,
+        "known_for_department": "Acting",
+        "name": "Aditya Roy Kapur",
+        "original_name": "Aditya Roy Kapur",
+        "popularity": 1.2908,
+        "profile_path": "/5rO5U3JnAUGzJJ4ghCosHYNGPYi.jpg",
+        "cast_id": 5,
+        "character": "Tariq \"Taru\" Haidar",
+        "credit_id": "5417dedb0e0a2637fd001e93",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1034471,
+        "known_for_department": "Acting",
+        "name": "Parineeti Chopra",
+        "original_name": "Parineeti Chopra",
+        "popularity": 0.6899,
+        "profile_path": "/DDBuGxqPZOcb2o9bk3ihPQdBn8.jpg",
+        "cast_id": 6,
+        "character": "Gulrez \"Gullu\" Qadir",
+        "credit_id": "5417def00e0a2637f9001ec2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6217,
+        "known_for_department": "Acting",
+        "name": "Anupam Kher",
+        "original_name": "Anupam Kher",
+        "popularity": 1.9559,
+        "profile_path": "/kgU5Ap1Kf9RnicB5DMcXEZqed2f.jpg",
+        "cast_id": 7,
+        "character": "Abdul Qadir",
+        "credit_id": "5417df060e0a26380b001f36",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1222859,
+        "known_for_department": "Acting",
+        "name": "Karan Wahi",
+        "original_name": "Karan Wahi",
+        "popularity": 0.8659,
+        "profile_path": "/kC32LtyUq0CQCEpwFi01d4VQnKc.jpg",
+        "cast_id": 8,
+        "character": "Amjad",
+        "credit_id": "5417e02a0e0a2637ef001ea4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1648904,
+        "known_for_department": "Acting",
+        "name": "Aziz Rizwan",
+        "original_name": "Aziz Rizwan",
+        "popularity": 0.3983,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Hyderatiad Railway Station Male Cop",
+        "credit_id": "57842998c3a368178e001e3e",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147709,
+        "known_for_department": "Writing",
+        "name": "Habib Faisal",
+        "original_name": "Habib Faisal",
+        "popularity": 0.6015,
+        "profile_path": null,
+        "credit_id": "5417de57c3a368199c001f3e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1364353,
+        "known_for_department": "Production",
+        "name": "Shanoo Sharma",
+        "original_name": "Shanoo Sharma",
+        "popularity": 0.4142,
+        "profile_path": "/78wQF7xfirzblKvSnx0ljopD8lc.jpg",
+        "credit_id": "5417e1f80e0a263804001ee5",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85055,
+        "known_for_department": "Production",
+        "name": "Aashish Singh",
+        "original_name": "Aashish Singh",
+        "popularity": 0.4753,
+        "profile_path": null,
+        "credit_id": "5417e2550e0a2637ef001f08",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227204,
+        "known_for_department": "Sound",
+        "name": "Sajid Ali Khan",
+        "original_name": "Sajid Ali Khan",
+        "popularity": 0.4582,
+        "profile_path": null,
+        "credit_id": "5417e1850e0a2637f9001f42",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1364352,
+        "known_for_department": "Editing",
+        "name": "Meghna Manchanda Sen",
+        "original_name": "Meghna Manchanda Sen",
+        "popularity": 0.315,
+        "profile_path": null,
+        "credit_id": "5417e1e4c3a36819a8001fb0",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 35840,
+        "known_for_department": "Camera",
+        "name": "Himman Dhamija",
+        "original_name": "Himman Dhamija",
+        "popularity": 0.4082,
+        "profile_path": null,
+        "credit_id": "5417de99c3a36819b4001d8a",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227205,
+        "known_for_department": "Sound",
+        "name": "Wajid Khan",
+        "original_name": "Wajid Khan",
+        "popularity": 0.6562,
+        "profile_path": null,
+        "credit_id": "5417e194c3a36819a4001f3c",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1364349,
+        "known_for_department": "Sound",
+        "name": "Hitesh Modak",
+        "original_name": "Hitesh Modak",
+        "popularity": 0.2972,
+        "profile_path": null,
+        "credit_id": "5417e1c0c3a368199f00203a",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147709,
+        "known_for_department": "Writing",
+        "name": "Habib Faisal",
+        "original_name": "Habib Faisal",
+        "popularity": 0.6015,
+        "profile_path": null,
+        "credit_id": "5417de4ec3a36819ae001e3a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35771,
+        "known_for_department": "Production",
+        "name": "Aditya Chopra",
+        "original_name": "Aditya Chopra",
+        "popularity": 1.4109,
+        "profile_path": "/eXYKfA6bg12pn9LPrWeRfxYQwcb.jpg",
+        "credit_id": "5417de6fc3a368199f001f82",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85060,
+        "known_for_department": "Production",
+        "name": "Yogendra Mogre",
+        "original_name": "Yogendra Mogre",
+        "popularity": 0.4237,
+        "profile_path": null,
+        "credit_id": "5417e236c3a36819b4001e45",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1979884,
+        "known_for_department": "Sound",
+        "name": "Javed Ali",
+        "original_name": "Javed Ali",
+        "popularity": 0.5445,
+        "profile_path": "/wrzUSspdLgraaNjEuOWuKxgXJMt.jpg",
+        "credit_id": "695b2dcaca4535cfb03bdc7d",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1244564,
+        "known_for_department": "Sound",
+        "name": "Sunidhi Chauhan",
+        "original_name": "Sunidhi Chauhan",
+        "popularity": 0.9595,
+        "profile_path": "/fFo6dqP4gIEXqJbkBdwIr3uGiOY.jpg",
+        "credit_id": "695b2df3c6e5c0cb677c6bdf",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1932076,
+        "known_for_department": "Sound",
+        "name": "Shreya Ghoshal",
+        "original_name": "Shreya Ghoshal",
+        "popularity": 0.8739,
+        "profile_path": "/rTmgSXriOmd6TyQVFXvf3DctYXQ.jpg",
+        "credit_id": "695b2e1c3edc9f6163cbd2a2",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1046503,
+        "known_for_department": "Sound",
+        "name": "Sonu Nigam",
+        "original_name": "Sonu Nigam",
+        "popularity": 0.8454,
+        "profile_path": "/lWoKKVb4caU4YeaP00DewHOE5Jp.jpg",
+        "credit_id": "695b2e40852854e508c3730d",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2268337,
+        "known_for_department": "Sound",
+        "name": "Shalmali Kholgade",
+        "original_name": "Shalmali Kholgade",
+        "popularity": 0.4166,
+        "profile_path": "/b5Yyom9Mt57i15aGtEx8gGMRsJ0.jpg",
+        "credit_id": "695b2e68543c084908cc98a6",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2303082,
+        "known_for_department": "Sound",
+        "name": "Shabab Sabri",
+        "original_name": "Shabab Sabri",
+        "popularity": 0.3694,
+        "profile_path": "/sA32Nn3zcRoRMFV7oxPMDWRv1qS.jpg",
+        "credit_id": "695b2e8ea840cda601cc989e",
+        "department": "Sound",
+        "job": "Playback Singer"
+      }
+    ]
+  }
+}

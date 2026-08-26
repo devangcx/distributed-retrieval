@@ -1,0 +1,167 @@
+{
+  "adult": false,
+  "backdrop_path": "/j7Dk5Zc5eR06DtCXhAg56TxsBY8.jpg",
+  "belongs_to_collection": null,
+  "budget": 15000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "http://drona.erosentertainment.com/",
+  "id": 19623,
+  "imdb_id": "tt1060249",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Drona",
+  "overview": "Aditya is an orphaned and lonely young man. He soon learns that he belongs to a family of ancestral warriors who guard a mystic source of cosmic energy, and he must now take up his responsibilities.",
+  "popularity": 1.5062,
+  "poster_path": "/7l5lejRwvkEnQ3s1dOLQ1qUXGRf.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2008-10-02",
+  "revenue": 3250000,
+  "runtime": 150,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Drona",
+  "video": false,
+  "vote_average": 3.4,
+  "vote_count": 20,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35793,
+        "known_for_department": "Acting",
+        "name": "Abhishek Bachchan",
+        "original_name": "अभिषेक बच्चन",
+        "popularity": 1.6264,
+        "profile_path": "/o2hWC004VnRyGLOgg8OjiP1Ch5A.jpg",
+        "cast_id": 1,
+        "character": "Aditya/Drona",
+        "credit_id": "52fe47e69251416c750a92bf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 77234,
+        "known_for_department": "Acting",
+        "name": "Priyanka Chopra Jonas",
+        "original_name": "Priyanka Chopra Jonas",
+        "popularity": 3.6536,
+        "profile_path": "/hh48u9scic0nITGtzi9b6rJeAtT.jpg",
+        "cast_id": 2,
+        "character": "Sonia",
+        "credit_id": "52fe47e69251416c750a92c3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35743,
+        "known_for_department": "Acting",
+        "name": "Jaya Bachchan",
+        "original_name": "Jaya Bachchan",
+        "popularity": 1.0551,
+        "profile_path": "/gXmIdkOhJN7pa8XDR7KQJXgtXni.jpg",
+        "cast_id": 3,
+        "character": "Queen Jayanti",
+        "credit_id": "55cd427f925141319f000de4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55071,
+        "known_for_department": "Acting",
+        "name": "Ali Haji",
+        "original_name": "Ali Haji",
+        "popularity": 0.8707,
+        "profile_path": "/ailp7sKfoMEukhgWt4gFVgvLOyp.jpg",
+        "cast_id": 4,
+        "character": "Young Drona",
+        "credit_id": "55cd4337925141319f000e09",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86020,
+        "known_for_department": "Acting",
+        "name": "Kay Kay Menon",
+        "original_name": "Kay Kay Menon",
+        "popularity": 1.2111,
+        "profile_path": "/lcCMzGpxHXTStLMN7G9SQovxSQo.jpg",
+        "cast_id": 5,
+        "character": "Riz Raizada",
+        "credit_id": "55cd4348c3a368158000087a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 127453,
+        "known_for_department": "Acting",
+        "name": "Conan Stevens",
+        "original_name": "Conan Stevens",
+        "popularity": 1.2358,
+        "profile_path": "/t0yJVjekKzNhM6p7UjEuXA10tgJ.jpg",
+        "cast_id": 6,
+        "character": "Asura",
+        "credit_id": "55cd44ff925141319c000cdc",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1731198,
+        "known_for_department": "Directing",
+        "name": "Goldie Behl",
+        "original_name": "Goldie Behl",
+        "popularity": 0.7549,
+        "profile_path": null,
+        "credit_id": "594828d39251413fb1047a81",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2241419,
+        "known_for_department": "Visual Effects",
+        "name": "Abhilash Nanda",
+        "original_name": "Abhilash Nanda",
+        "popularity": 0.3521,
+        "profile_path": "/cGRj05WWibgif1pLuhtl0h8RQZ8.jpg",
+        "credit_id": "6974b928f4b9846158087f3c",
+        "department": "Visual Effects",
+        "job": "Rotoscoping Artist"
+      }
+    ]
+  }
+}

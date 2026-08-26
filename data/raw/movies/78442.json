@@ -1,0 +1,257 @@
+{
+  "adult": false,
+  "backdrop_path": "/b68BfAbriZBZBlX0tTc7YHS7oXX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 78442,
+  "imdb_id": "tt2057441",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Mujhse Fraaandship Karoge",
+  "overview": "Two rival college students begin an unconventional online romance when they pretend to be each other's crushes on social media.",
+  "popularity": 1.0544,
+  "poster_path": "/oew8lhCSVVw44vttJ8vCFVdyfHn.jpg",
+  "production_companies": [
+    {
+      "id": 91443,
+      "logo_path": null,
+      "name": "Y-Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2011-10-14",
+  "revenue": 0,
+  "runtime": 106,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Mujhse Fraaandship Karoge",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 23,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1147461,
+        "known_for_department": "Acting",
+        "name": "Saqib Saleem",
+        "original_name": "Saqib Saleem",
+        "popularity": 0.5693,
+        "profile_path": "/r9I1R0OwwSiCKRTxEp8zO89s7vS.jpg",
+        "cast_id": 0,
+        "character": "Vishal Bhatt",
+        "credit_id": "5605b75992514167f1000676",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1514871,
+        "known_for_department": "Acting",
+        "name": "Saba Azad",
+        "original_name": "Saba Azad",
+        "popularity": 0.733,
+        "profile_path": "/kK1IEhbhpKCQz4pZ5HWuqpDf9rD.jpg",
+        "cast_id": 1,
+        "character": "Preity Sen",
+        "credit_id": "5605b773c3a36829220006a5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2718212,
+        "known_for_department": "Acting",
+        "name": "Nishant Dahiya",
+        "original_name": "Nishant Dahiya",
+        "popularity": 0.6434,
+        "profile_path": "/iKBuDUubIAchwQFE6tY94PPfvbw.jpg",
+        "cast_id": 6,
+        "character": "Rahul Sareen",
+        "credit_id": "5f16011c62620800366324b3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1035354,
+        "known_for_department": "Acting",
+        "name": "Tara D'Souza",
+        "original_name": "Tara D'Souza",
+        "popularity": 0.3617,
+        "profile_path": "/ojzbAEbDEyklIlNvVpV1mzwePzI.jpg",
+        "cast_id": 5,
+        "character": "Malvika Kelkar",
+        "credit_id": "590275e19251412652000368",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1147465,
+        "known_for_department": "Acting",
+        "name": "Prabal Panjabi",
+        "original_name": "Prabal Panjabi",
+        "popularity": 0.5271,
+        "profile_path": "/hNFKhQ2Bbq1llEl9knp8kSk3Zx6.jpg",
+        "cast_id": 10,
+        "character": "Hacky",
+        "credit_id": "60f9665c07e281005c6db18c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2288397,
+        "known_for_department": "Acting",
+        "name": "Manasi Rachh",
+        "original_name": "Manasi Rachh",
+        "popularity": 0.4136,
+        "profile_path": "/79lYRyAmBepKYTwSc6jwvhlChZV.jpg",
+        "cast_id": 7,
+        "character": "Neha",
+        "credit_id": "6022cf985690b5003e26177e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3673245,
+        "known_for_department": "Acting",
+        "name": "Chitrak Bandhopadhyay",
+        "original_name": "Chitrak Bandhopadhyay",
+        "popularity": 0.3583,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Satyavrat Bandyopadhyay",
+        "credit_id": "6a409c2218063fa4f0b052d6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2389934,
+        "known_for_department": "Acting",
+        "name": "Suparna Marwah",
+        "original_name": "Suparna Marwah",
+        "popularity": 0.6833,
+        "profile_path": "/wvu7uXRLKsN1qnjP71xWmtbB8gy.jpg",
+        "cast_id": 9,
+        "character": "Arunima Sen",
+        "credit_id": "60f96645944a5700304008cc",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1140663,
+        "known_for_department": "Acting",
+        "name": "Mita Vashisht",
+        "original_name": "Mita Vashisht",
+        "popularity": 0.8044,
+        "profile_path": "/mcnaQTCmuz3lXNotFFdkwCO7FTY.jpg",
+        "cast_id": 12,
+        "character": "Ms. Raghubir",
+        "credit_id": "60f96697f056d5005e70b49e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2820984,
+        "known_for_department": "Acting",
+        "name": "Harsh Nagar",
+        "original_name": "Harsh Nagar",
+        "popularity": 0.525,
+        "profile_path": "/gelCx36u5x5bpgdnFKCYJrExlph.jpg",
+        "cast_id": 11,
+        "character": "Amit Khanna",
+        "credit_id": "60f9668007e281005c6db1db",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1430639,
+        "known_for_department": "Acting",
+        "name": "Kavi Shastri",
+        "original_name": "Kavi Shastri",
+        "popularity": 0.6043,
+        "profile_path": "/4JNKypBfxjHxE8BAGdxqv2amMat.jpg",
+        "cast_id": 8,
+        "character": "Pre",
+        "credit_id": "609377ec8dbc3300760e27d6",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1147472,
+        "known_for_department": "Writing",
+        "name": "Anvita Dutt",
+        "original_name": "Anvita Dutt",
+        "popularity": 0.5122,
+        "profile_path": "/ayAdNgOEDktAo0Sp8CVZYeUGSEC.jpg",
+        "credit_id": "638f2038fb834600ccd49548",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1147472,
+        "known_for_department": "Writing",
+        "name": "Anvita Dutt",
+        "original_name": "Anvita Dutt",
+        "popularity": 0.5122,
+        "profile_path": "/ayAdNgOEDktAo0Sp8CVZYeUGSEC.jpg",
+        "credit_id": "638f2041196757026ca511f0",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1006575,
+        "known_for_department": "Directing",
+        "name": "Nupur Asthana",
+        "original_name": "Nupur Asthana",
+        "popularity": 0.5104,
+        "profile_path": null,
+        "credit_id": "5902758cc3a3680abc000331",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

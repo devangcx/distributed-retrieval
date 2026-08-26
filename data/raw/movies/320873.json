@@ -1,0 +1,388 @@
+{
+  "adult": false,
+  "backdrop_path": "/8Q09GgC37ITXDPQkMRfxQ9q1euk.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 320873,
+  "imdb_id": "tt4088588",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "धनक",
+  "overview": "Orphaned siblings Pari and Chotu embark on a journey to restore Chotu's eyesight.",
+  "popularity": 1.0174,
+  "poster_path": "/7mBn8XwMkx2HlNtIRhZE5SIfAwl.jpg",
+  "production_companies": [
+    {
+      "id": 79275,
+      "logo_path": null,
+      "name": "Manish Realities",
+      "origin_country": ""
+    },
+    {
+      "id": 68466,
+      "logo_path": "/krPQgLPv9Mbk5NkRfUE3Rx96HwO.png",
+      "name": "Drishyam Films",
+      "origin_country": "IN"
+    },
+    {
+      "id": 79276,
+      "logo_path": null,
+      "name": "Kukunoor Movies",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2015-02-02",
+  "revenue": 0,
+  "runtime": 106,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dhanak",
+  "video": false,
+  "vote_average": 7.412,
+  "vote_count": 51,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1427450,
+        "known_for_department": "Acting",
+        "name": "Krrish Chhabria",
+        "original_name": "Krrish Chhabria",
+        "popularity": 0.3474,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Chotu",
+        "credit_id": "54e084d5c3a368454b004df2",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1764449,
+        "known_for_department": "Acting",
+        "name": "Hetal Gada",
+        "original_name": "Hetal Gada",
+        "popularity": 0.8334,
+        "profile_path": "/a4wi8M23F3ckcKmU25BlYJNKumP.jpg",
+        "cast_id": 21,
+        "character": "Pari",
+        "credit_id": "64698db5c1606a00e66d0d45",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52768,
+        "known_for_department": "Acting",
+        "name": "Vipin Sharma",
+        "original_name": "Vipin Sharma",
+        "popularity": 1.0007,
+        "profile_path": "/3TZHbQ1Zi3z1B721jwwTKxAMXqI.jpg",
+        "cast_id": 16,
+        "character": "Dungaram",
+        "credit_id": "5d3e1eba21621b132aedb0a8",
+        "order": 2
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 1255457,
+        "known_for_department": "Acting",
+        "name": "Gulfam Khan",
+        "original_name": "Gulfam Khan",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Gowri",
+        "credit_id": "64b274573780620139065f59",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 576165,
+        "known_for_department": "Acting",
+        "name": "Daniel Vincent Gordh",
+        "original_name": "Daniel Vincent Gordh",
+        "popularity": 0.5727,
+        "profile_path": "/oEm8jmCXAmzQLnQyLDSIqwz1M3A.jpg",
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "54e084e6c3a368454d00547b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1427449,
+        "known_for_department": "Acting",
+        "name": "Swastik Ram Chavan",
+        "original_name": "Swastik Ram Chavan",
+        "popularity": 0.3177,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "54e084cfc3a3684541005e9a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1185943,
+        "known_for_department": "Acting",
+        "name": "Rishi Deshpande",
+        "original_name": "Rishi Deshpande",
+        "popularity": 0.3964,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "54e084f3925141027c004c7e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 993640,
+        "known_for_department": "Acting",
+        "name": "Vijay Maurya",
+        "original_name": "Vijay Maurya",
+        "popularity": 1.0947,
+        "profile_path": "/bv5PBdLWy6MZxpDukrkHbaiLcsL.jpg",
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "5d3e1ec454f6eb0010022fd1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1240443,
+        "known_for_department": "Acting",
+        "name": "Vibha Chibber",
+        "original_name": "Vibha Chibber",
+        "popularity": 1.2655,
+        "profile_path": "/3UIRA4TKnlcR4lGtkIH6KCCULSZ.jpg",
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "54e084e0925141454f002e62",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1427452,
+        "known_for_department": "Acting",
+        "name": "Ramakant Dayma",
+        "original_name": "Ramakant Dayma",
+        "popularity": 0.8396,
+        "profile_path": "/2b8RYfCpkhywDZ6NmIV3aHiLvnM.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "54e084edc3a3684551005b0c",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1427453,
+        "known_for_department": "Acting",
+        "name": "Chet Dixon",
+        "original_name": "Chet Dixon",
+        "popularity": 0.3234,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "54e084f9c3a3684541005ea3",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1107231,
+        "known_for_department": "Acting",
+        "name": "Flora Saini",
+        "original_name": "Flora Saini",
+        "popularity": 1.125,
+        "profile_path": "/mimiUPvv1S5L7kjXD79EKnfvSDs.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "5b09233992514146fb001429",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86011,
+        "known_for_department": "Acting",
+        "name": "Suresh Menon",
+        "original_name": "Suresh Menon",
+        "popularity": 0.7808,
+        "profile_path": "/qlNtDoPjcqJTuzER6MWW4pZrRVw.jpg",
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "5d3e1eb021621b132aedb071",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1505914,
+        "known_for_department": "Directing",
+        "name": "Shiladitya Bora",
+        "original_name": "Shiladitya Bora",
+        "popularity": 0.4922,
+        "profile_path": "/ldBer3JacEoih5uzJ8veVypK7nc.jpg",
+        "credit_id": "64dfc0bce19de9013a27ec8b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83594,
+        "known_for_department": "Directing",
+        "name": "Nagesh Kukunoor",
+        "original_name": "Nagesh Kukunoor",
+        "popularity": 0.7198,
+        "profile_path": "/km7h1Dp2TLL1TlXZIype9rN1fjX.jpg",
+        "credit_id": "54e08491925141194b00573b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83594,
+        "known_for_department": "Directing",
+        "name": "Nagesh Kukunoor",
+        "original_name": "Nagesh Kukunoor",
+        "popularity": 0.7198,
+        "profile_path": "/km7h1Dp2TLL1TlXZIype9rN1fjX.jpg",
+        "credit_id": "54e084a79251411950005219",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1427447,
+        "known_for_department": "Sound",
+        "name": "Tapas Relia",
+        "original_name": "Tapas Relia",
+        "popularity": 0.3515,
+        "profile_path": null,
+        "credit_id": "54e084ba925141027c004c75",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1427446,
+        "known_for_department": "Production",
+        "name": "Manish Mundra",
+        "original_name": "Manish Mundra",
+        "popularity": 0.3655,
+        "profile_path": null,
+        "credit_id": "54e084af925141194b005742",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1427448,
+        "known_for_department": "Camera",
+        "name": "Chirantan Das",
+        "original_name": "Chirantan Das",
+        "popularity": 0.386,
+        "profile_path": null,
+        "credit_id": "54e084c3c3a3684541005e94",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 83596,
+        "known_for_department": "Production",
+        "name": "Elahe Hiptoola",
+        "original_name": "Elahe Hiptoola",
+        "popularity": 0.464,
+        "profile_path": null,
+        "credit_id": "54e0849d9251411950005217",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83594,
+        "known_for_department": "Directing",
+        "name": "Nagesh Kukunoor",
+        "original_name": "Nagesh Kukunoor",
+        "popularity": 0.7198,
+        "profile_path": "/km7h1Dp2TLL1TlXZIype9rN1fjX.jpg",
+        "credit_id": "54c2cf86c3a368142101085b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83594,
+        "known_for_department": "Directing",
+        "name": "Nagesh Kukunoor",
+        "original_name": "Nagesh Kukunoor",
+        "popularity": 0.7198,
+        "profile_path": "/km7h1Dp2TLL1TlXZIype9rN1fjX.jpg",
+        "credit_id": "668fcf00675193f39edfa04e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2533367,
+        "known_for_department": "Sound",
+        "name": "Shivam Pathak",
+        "original_name": "Shivam Pathak",
+        "popularity": 0.4329,
+        "profile_path": null,
+        "credit_id": "5e3fe9b43dd1260018536ba5",
+        "department": "Sound",
+        "job": "Playback Singer"
+      }
+    ]
+  }
+}

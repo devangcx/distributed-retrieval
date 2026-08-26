@@ -1,0 +1,411 @@
+{
+  "adult": false,
+  "backdrop_path": "/rhk371OPZApJHQzKfXQBs0twK61.jpg",
+  "belongs_to_collection": {
+    "id": 1304422,
+    "name": "Khiladi",
+    "poster_path": "/bsxp0CTRCCAtreORMayeWWmyV2Q.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 147767,
+  "imdb_id": "tt2166214",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Khiladi 786",
+  "overview": "A father who runs a marriage bureau believes that his son is a failure in life. In order to prove him wrong, his son takes on the task of finding a match for a gangster's sister.",
+  "popularity": 1.2757,
+  "poster_path": "/3chNHVi7j0jmUvJ1k7n2EYPfFmC.jpg",
+  "production_companies": [
+    {
+      "id": 3942,
+      "logo_path": null,
+      "name": "Hari Om Entertainment",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2012-12-07",
+  "revenue": 126,
+  "runtime": 139,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Khiladi 786",
+  "video": false,
+  "vote_average": 4.848,
+  "vote_count": 56,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35070,
+        "known_for_department": "Acting",
+        "name": "Akshay Kumar",
+        "original_name": "अक्षय कुमार",
+        "popularity": 2.5711,
+        "profile_path": "/sR8nASRtTpiwXqkFHjG2jdRBZ7a.jpg",
+        "cast_id": 2,
+        "character": "Bahattar Singh (72) / Inspector Tehattar Singh (73)",
+        "credit_id": "52fe4bb29251416c7510b2e1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 81092,
+        "known_for_department": "Acting",
+        "name": "Asin Thottumkal",
+        "original_name": "Asin Thottumkal",
+        "popularity": 1.1929,
+        "profile_path": "/86oUMGp7lPZtKiAUhdoQgM9QtDp.jpg",
+        "cast_id": 3,
+        "character": "Indu Tendulkar",
+        "credit_id": "52fe4bb29251416c7510b2e5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88593,
+        "known_for_department": "Sound",
+        "name": "Himesh Reshammiya",
+        "original_name": "Himesh Reshammiya",
+        "popularity": 0.8663,
+        "profile_path": "/klaNPMWG9caEA0BG33LdAzn3Cwn.jpg",
+        "cast_id": 4,
+        "character": "Mansukh Desai",
+        "credit_id": "52fe4bb29251416c7510b2e9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85450,
+        "known_for_department": "Acting",
+        "name": "Mithun Chakraborty",
+        "original_name": "Mithun Chakraborty",
+        "popularity": 1.9516,
+        "profile_path": "/4z8c5YAe0TCkEZNHXWlKxNTD8sV.jpg",
+        "cast_id": 5,
+        "character": "Tatya Tukaram Tendulkar",
+        "credit_id": "52fe4bb29251416c7510b2ed",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71090,
+        "known_for_department": "Acting",
+        "name": "Raj Babbar",
+        "original_name": "Raj Babbar",
+        "popularity": 1.0679,
+        "profile_path": "/czcJMiNDxfQrNnDPNBM2O6cTmZR.jpg",
+        "cast_id": 6,
+        "character": "Sattar Singh (70)",
+        "credit_id": "52fe4bb29251416c7510b2f1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35819,
+        "known_for_department": "Acting",
+        "name": "Johny Lever",
+        "original_name": "Johny Lever",
+        "popularity": 1.7738,
+        "profile_path": "/kohAOhKr4HBln8b9P4i1kmMONyi.jpg",
+        "cast_id": 7,
+        "character": "Inspector Kambli",
+        "credit_id": "52fe4bb29251416c7510b2f5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1656028,
+        "known_for_department": "Acting",
+        "name": "Bharti Singh",
+        "original_name": "Bharti Singh",
+        "popularity": 0.9505,
+        "profile_path": "/plZJAk6xToOUiELg6pU3hOYt1te.jpg",
+        "cast_id": 11,
+        "character": "Mili (as Bharati Singh)",
+        "credit_id": "5e172717cf4b8b001381ba69",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81981,
+        "known_for_department": "Acting",
+        "name": "Rajesh Khattar",
+        "original_name": "Rajesh Khattar",
+        "popularity": 0.7378,
+        "profile_path": "/cOdGbGXaGgwhLOZoYg0qFszVyMY.jpg",
+        "cast_id": 12,
+        "character": "Inspector Jugnu Singh",
+        "credit_id": "5e17273d2fe2fa0012c6089d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1246567,
+        "known_for_department": "Acting",
+        "name": "Rahul Singh",
+        "original_name": "Rahul Singh",
+        "popularity": 0.7761,
+        "profile_path": "/bS9X3sChKeprjBwdlVMduwdgGNd.jpg",
+        "cast_id": 13,
+        "character": "Azaad",
+        "credit_id": "5e1727610cb3350017054f0b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585404,
+        "known_for_department": "Acting",
+        "name": "Mukesh Rishi",
+        "original_name": "Mukesh Rishi",
+        "popularity": 1.3661,
+        "profile_path": "/iNLleMqHTHrbAlVRCFyye4NZxxb.jpg",
+        "cast_id": 14,
+        "character": "Ikhattar Singh",
+        "credit_id": "5e17276f11386c0015c9bc3a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86018,
+        "known_for_department": "Acting",
+        "name": "Manoj Joshi",
+        "original_name": "Manoj Joshi",
+        "popularity": 0.911,
+        "profile_path": "/u7GllU8dO2bkAvRC0i8yszogYqY.jpg",
+        "cast_id": 16,
+        "character": "Champaklal",
+        "credit_id": "5e172802c2f44b0017bedae0",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85033,
+        "known_for_department": "Acting",
+        "name": "Paresh Rawal",
+        "original_name": "Paresh Rawal",
+        "popularity": 1.1939,
+        "profile_path": "/xFVHMvDC8s4Ab2sLXrdVxMxZ33b.jpg",
+        "cast_id": 17,
+        "character": "Narrator (uncredited)",
+        "credit_id": "5e1728190cb3350015058c8f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85879,
+        "known_for_department": "Acting",
+        "name": "Sanjay Mishra",
+        "original_name": "Sanjay Mishra",
+        "popularity": 1.3322,
+        "profile_path": "/4MGKohKGU4v9SoXcQKCcC4e4Bpi.jpg",
+        "cast_id": 18,
+        "character": "Jeevanlal Pranlal D'costa",
+        "credit_id": "5e1728281d01910017f20799",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 57787,
+        "known_for_department": "Acting",
+        "name": "Claudia Ciesla",
+        "original_name": "Claudia Ciesla",
+        "popularity": 0.4138,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Club Singer (uncredited)",
+        "credit_id": "5e17283f0cb3350017054fdc",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86064,
+        "known_for_department": "Acting",
+        "name": "Mukesh Tiwari",
+        "original_name": "Mukesh Tiwari",
+        "popularity": 1.0627,
+        "profile_path": "/37GTjltEJHpi1lQmLmHKJYTpxjj.jpg",
+        "cast_id": 20,
+        "character": "Jailer (uncredited)",
+        "credit_id": "5e17284cc2f44b0012bee112",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1954395,
+        "known_for_department": "Acting",
+        "name": "Naushaad Abbas",
+        "original_name": "Naushaad Abbas",
+        "popularity": 0.5447,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Fighter (uncredited)",
+        "credit_id": "5e17285b11386c0013c9accb",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32335,
+        "known_for_department": "Acting",
+        "name": "Mushtaq Khan",
+        "original_name": "Mushtaq Khan",
+        "popularity": 0.8584,
+        "profile_path": "/xj2fPOfGRiQCFp7V9MUAlshNGZH.jpg",
+        "cast_id": 22,
+        "character": "Bhagat",
+        "credit_id": "5e17286acf4b8b001181b57d",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88593,
+        "known_for_department": "Sound",
+        "name": "Himesh Reshammiya",
+        "original_name": "Himesh Reshammiya",
+        "popularity": 0.8663,
+        "profile_path": "/klaNPMWG9caEA0BG33LdAzn3Cwn.jpg",
+        "credit_id": "52fe4bb29251416c7510b301",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88593,
+        "known_for_department": "Sound",
+        "name": "Himesh Reshammiya",
+        "original_name": "Himesh Reshammiya",
+        "popularity": 0.8663,
+        "profile_path": "/klaNPMWG9caEA0BG33LdAzn3Cwn.jpg",
+        "credit_id": "52fe4bb29251416c7510b2fb",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 131856,
+        "known_for_department": "Directing",
+        "name": "Ashish R. Mohan",
+        "original_name": "Ashish R. Mohan",
+        "popularity": 0.4832,
+        "profile_path": null,
+        "credit_id": "52fe4bb29251416c7510b2dd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1078260,
+        "known_for_department": "Sound",
+        "name": "Yo Yo Honey Singh",
+        "original_name": "Yo Yo Honey Singh",
+        "popularity": 0.6584,
+        "profile_path": "/w54B446zi7xrdq0vEBNplMDMM6K.jpg",
+        "credit_id": "5d653400bcf8c9001576e7fb",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 131347,
+        "known_for_department": "Acting",
+        "name": "Twinkle Khanna",
+        "original_name": "Twinkle Khanna",
+        "popularity": 0.6912,
+        "profile_path": "/ipAV6rBOkJQhTW5Zs8phZWGmXMt.jpg",
+        "credit_id": "6940be5d149be868299c4e66",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 94280,
+        "known_for_department": "Production",
+        "name": "Sunil Lulla",
+        "original_name": "Sunil Lulla",
+        "popularity": 0.3782,
+        "profile_path": null,
+        "credit_id": "6940beab28b1e1f973c018e6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88593,
+        "known_for_department": "Sound",
+        "name": "Himesh Reshammiya",
+        "original_name": "Himesh Reshammiya",
+        "popularity": 0.8663,
+        "profile_path": "/klaNPMWG9caEA0BG33LdAzn3Cwn.jpg",
+        "credit_id": "6940bece78f1a0fa0f3c5227",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2332946,
+        "known_for_department": "Sound",
+        "name": "Sreerama Chandra Mynampati",
+        "original_name": "Sreerama Chandra",
+        "popularity": 0.3958,
+        "profile_path": "/iNtrx8h5KpiSH3TqnSEZrNBI3tk.jpg",
+        "credit_id": "699a7cc89ec2a44e16fc254c",
+        "department": "Sound",
+        "job": "Playback Singer"
+      }
+    ]
+  }
+}

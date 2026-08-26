@@ -1,0 +1,141 @@
+{
+  "adult": false,
+  "backdrop_path": "/9GRpXCoH19UVfpeLUfxK6TrfWry.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.youtube.com/watch?v=tQqgAUu3Vxo",
+  "id": 1055806,
+  "imdb_id": "tt23901664",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Oswald the Lucky Rabbit",
+  "overview": "For the first time in nearly 95 years, Oswald stars in an all-new hand-drawn short from Walt Disney Animation Studios in celebration of Disney 100 Years of Wonder!",
+  "popularity": 3.4001,
+  "poster_path": "/WMAhNXIa6fMRuQrC3wkGogVh1R.jpg",
+  "production_companies": [
+    {
+      "id": 6125,
+      "logo_path": "/8bH86UPmMP8hlITzXV3XgV9eaAc.png",
+      "name": "Walt Disney Animation Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-12-01",
+  "revenue": 0,
+  "runtime": 2,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Walt Disney's Oswald the Lucky Rabbit is back!",
+  "title": "Oswald the Lucky Rabbit",
+  "video": false,
+  "vote_average": 6.441,
+  "vote_count": 34,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 16844,
+        "known_for_department": "Production",
+        "name": "Dorothy McKim",
+        "original_name": "Dorothy McKim",
+        "popularity": 0.6062,
+        "profile_path": "/dFjPWKn0a9RZkLzJKS0wtxKwzky.jpg",
+        "credit_id": "650eb357f29d6600ff3b9e83",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65531,
+        "known_for_department": "Acting",
+        "name": "Eric Goldberg",
+        "original_name": "Eric Goldberg",
+        "popularity": 0.9817,
+        "profile_path": "/pqulcFpHW4dBLNUeflN5BY21yTA.jpg",
+        "credit_id": "650eb365a9117f00ab684dfd",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1461395,
+        "known_for_department": "Crew",
+        "name": "Randy Haycock",
+        "original_name": "Randy Haycock",
+        "popularity": 0.5532,
+        "profile_path": "/eavV2eDsW2Je0cBexXpH4YZuh9i.jpg",
+        "credit_id": "650eb384a9117f00feb22c85",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 115755,
+        "known_for_department": "Crew",
+        "name": "Mark Henn",
+        "original_name": "Mark Henn",
+        "popularity": 0.6988,
+        "profile_path": "/moi93ZFbFglebgd5MDwm9D21bks.jpg",
+        "credit_id": "650eb37ae8d0b4012d5cee08",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65531,
+        "known_for_department": "Acting",
+        "name": "Eric Goldberg",
+        "original_name": "Eric Goldberg",
+        "popularity": 0.9817,
+        "profile_path": "/pqulcFpHW4dBLNUeflN5BY21yTA.jpg",
+        "credit_id": "638e4828c2b9df00b5377847",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1117307,
+        "known_for_department": "Editing",
+        "name": "Shannon Stein",
+        "original_name": "Shannon Stein",
+        "popularity": 0.4472,
+        "profile_path": null,
+        "credit_id": "69e3acfc624963bce4adf096",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

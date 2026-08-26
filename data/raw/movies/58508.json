@@ -1,0 +1,488 @@
+{
+  "adult": false,
+  "backdrop_path": "/6eNNQc5UQ1GjNcKkz1Fht5K0ALQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 58508,
+  "imdb_id": "tt0438844",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Far Far Away Idol",
+  "overview": "Shrek, Fiona, Donkey, Puss in Boots, and the rest of the Far Far Away Kingdom battle it out in a singing competition.",
+  "popularity": 2.4258,
+  "poster_path": "/7dYOQjiUS9WY4AuXYvJG6cMZZmm.jpg",
+  "production_companies": [
+    {
+      "id": 521,
+      "logo_path": "/3BPX5VGBov8SDqTV7wC1L1xShAS.png",
+      "name": "DreamWorks Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 520,
+      "logo_path": "/pU7YTI9FfrICurXpl5V9TfCO0oJ.png",
+      "name": "Pacific Data Images",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2004-11-05",
+  "revenue": 0,
+  "runtime": 10,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Far Far Away Idol",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 256,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12073,
+        "known_for_department": "Acting",
+        "name": "Mike Myers",
+        "original_name": "Mike Myers",
+        "popularity": 5.2171,
+        "profile_path": "/gjfDl52Kk02MPgUYFjs9bOy33OY.jpg",
+        "cast_id": 6,
+        "character": "Shrek (voice)",
+        "credit_id": "52fe4965c3a36847f8198047",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 776,
+        "known_for_department": "Acting",
+        "name": "Eddie Murphy",
+        "original_name": "Eddie Murphy",
+        "popularity": 5.7318,
+        "profile_path": "/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg",
+        "cast_id": 3,
+        "character": "Donkey (voice)",
+        "credit_id": "52fe4965c3a36847f819803b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6941,
+        "known_for_department": "Acting",
+        "name": "Cameron Diaz",
+        "original_name": "Cameron Diaz",
+        "popularity": 4.6774,
+        "profile_path": "/tTpQSKwdLrR6xBGHCqg8VcVQZzH.jpg",
+        "cast_id": 7,
+        "character": "Princess Fiona (voice)",
+        "credit_id": "582cbc379251417802001c82",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3131,
+        "known_for_department": "Acting",
+        "name": "Antonio Banderas",
+        "original_name": "Antonio Banderas",
+        "popularity": 4.8367,
+        "profile_path": "/fce7zl6elUzsv7wudHFc7RgFtjD.jpg",
+        "cast_id": 4,
+        "character": "Puss In Boots (voice)",
+        "credit_id": "52fe4965c3a36847f819803f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 165899,
+        "known_for_department": "Acting",
+        "name": "Simon Cowell",
+        "original_name": "Simon Cowell",
+        "popularity": 1.2597,
+        "profile_path": "/pKllSRO03fLD6z0dMMQAuooKXhF.jpg",
+        "cast_id": 5,
+        "character": "Simon Cowell (voice)",
+        "credit_id": "52fe4965c3a36847f8198043",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12098,
+        "known_for_department": "Acting",
+        "name": "Chris Miller",
+        "original_name": "Chris Miller",
+        "popularity": 1.1111,
+        "profile_path": "/qKdbhP9amIRlydcoivWlTx3szuS.jpg",
+        "cast_id": 8,
+        "character": "Magic Mirror (voice)",
+        "credit_id": "58d872109251411f8906257d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44127,
+        "known_for_department": "Acting",
+        "name": "Larry King",
+        "original_name": "Larry King",
+        "popularity": 0.9038,
+        "profile_path": "/afNrrwBSbeFLrh0dVHvlMRRyont.jpg",
+        "cast_id": 9,
+        "character": "Doris (voice)",
+        "credit_id": "58d8721b925141442f01690b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12095,
+        "known_for_department": "Acting",
+        "name": "Cody Cameron",
+        "original_name": "Cody Cameron",
+        "popularity": 1.2516,
+        "profile_path": "/gmlav8ikKPojgvQOQ8vQSQt9hoj.jpg",
+        "cast_id": 10,
+        "character": "Pinocchio / Three Pigs (voice)",
+        "credit_id": "58d87226c3a368126f05a3d6",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12080,
+        "known_for_department": "Directing",
+        "name": "Conrad Vernon",
+        "original_name": "Conrad Vernon",
+        "popularity": 1.9109,
+        "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg",
+        "cast_id": 11,
+        "character": "Gingerbread Man (voice)",
+        "credit_id": "58d8722fc3a368125f05e8df",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12106,
+        "known_for_department": "Production",
+        "name": "Aron Warner",
+        "original_name": "Aron Warner",
+        "popularity": 1.3278,
+        "profile_path": "/xufgIi9MJIuLmn3q4qi3AMmFtkM.jpg",
+        "cast_id": 12,
+        "character": "Wolf (voice)",
+        "credit_id": "58d87239c3a36812890618a6",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1720666,
+        "known_for_department": "Acting",
+        "name": "Randy Crenshaw",
+        "original_name": "Randy Crenshaw",
+        "popularity": 0.4674,
+        "profile_path": "/7k0I27lamR9EZqZm37cOHBIqJcP.jpg",
+        "cast_id": 13,
+        "character": "Prince Charming / Three Blind Mice (singing voice)",
+        "credit_id": "58d8724a9251411f90061e00",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1213976,
+        "known_for_department": "Acting",
+        "name": "Michael Gough",
+        "original_name": "Michael Gough",
+        "popularity": 0.8666,
+        "profile_path": "/a1dGHmgxR6xvnHY1CSw9GN7Yy9Z.jpg",
+        "cast_id": 14,
+        "character": "Shrek (singing voice)",
+        "credit_id": "58d872ddc3a368125f05e96a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1784362,
+        "known_for_department": "Sound",
+        "name": "Matt Mahaffey",
+        "original_name": "Matt Mahaffey",
+        "popularity": 0.6013,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Captain Hook (singing voice)",
+        "credit_id": "58d872ef9251411faa06080f",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71857,
+        "known_for_department": "Acting",
+        "name": "Mark Moseley",
+        "original_name": "Mark Moseley",
+        "popularity": 0.865,
+        "profile_path": "/1I65kWE6cM25G14Wz3TanpTtYev.jpg",
+        "cast_id": 16,
+        "character": "(voice)",
+        "credit_id": "58d872fc9251411f90061eb3",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1784363,
+        "known_for_department": "Acting",
+        "name": "Rick Riso",
+        "original_name": "Rick Riso",
+        "popularity": 0.2696,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "\"My Way\" Singer (voice)",
+        "credit_id": "58d873089251411f90061ebf",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1215871,
+        "known_for_department": "Acting",
+        "name": "Renee Sands",
+        "original_name": "Renee Sands",
+        "popularity": 1.0557,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Princess Fiona (singing voice)",
+        "credit_id": "58d87315c3a368127c05de14",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44114,
+        "known_for_department": "Directing",
+        "name": "Simon J. Smith",
+        "original_name": "Simon J. Smith",
+        "popularity": 1.0783,
+        "profile_path": "/puCP7MQ8Gm9aKGcQiOcLiKIKcpJ.jpg",
+        "credit_id": "52fe4965c3a36847f8198037",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 574003,
+        "known_for_department": "Production",
+        "name": "Denise Nolan Cascino",
+        "original_name": "Denise Nolan Cascino",
+        "popularity": 0.3522,
+        "profile_path": null,
+        "credit_id": "63b0a063875d1a008201ce18",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1416298,
+        "known_for_department": "Visual Effects",
+        "name": "Ken Bielenberg",
+        "original_name": "Ken Bielenberg",
+        "popularity": 0.4895,
+        "profile_path": "/9z0tbh92pCm8PcqvYJ4hpcHM1JT.jpg",
+        "credit_id": "63b0a03e7ef3811f8dce0078",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1678654,
+        "known_for_department": "Production",
+        "name": "Kristen D. Chidel",
+        "original_name": "Kristen D. Chidel",
+        "popularity": 0.3875,
+        "profile_path": null,
+        "credit_id": "63b0a06e875d1a008201ce1c",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12087,
+        "known_for_department": "Production",
+        "name": "David Lipman",
+        "original_name": "David Lipman",
+        "popularity": 0.5115,
+        "profile_path": null,
+        "credit_id": "5d8ad81e172d7f001f4fbfa7",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1677820,
+        "known_for_department": "Editing",
+        "name": "Michelle Belforte",
+        "original_name": "Michelle Belforte",
+        "popularity": 0.4798,
+        "profile_path": null,
+        "credit_id": "5d8ad84c6c1e040019ad7e22",
+        "department": "Sound",
+        "job": "Music Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12071,
+        "known_for_department": "Acting",
+        "name": "Guillaume Aretos",
+        "original_name": "Guillaume Aretos",
+        "popularity": 0.6163,
+        "profile_path": "/jpbghMhQuCuSmLPBtN4SjVrmmF9.jpg",
+        "credit_id": "5d8ad86c79b3d4000f85c708",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1677832,
+        "known_for_department": "Visual Effects",
+        "name": "Tim Cheung",
+        "original_name": "Tim Cheung",
+        "popularity": 0.4084,
+        "profile_path": null,
+        "credit_id": "5d8ad8a079b3d4001f864c5e",
+        "department": "Crew",
+        "job": "Supervising Animator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1677820,
+        "known_for_department": "Editing",
+        "name": "Michelle Belforte",
+        "original_name": "Michelle Belforte",
+        "popularity": 0.4798,
+        "profile_path": null,
+        "credit_id": "5d8ad858d9f4a6000e50f8c3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12087,
+        "known_for_department": "Production",
+        "name": "David Lipman",
+        "original_name": "David Lipman",
+        "popularity": 0.5115,
+        "profile_path": null,
+        "credit_id": "5d8ad80ed9f4a60028510c82",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12092,
+        "known_for_department": "Art",
+        "name": "Steve Pilcher",
+        "original_name": "Steve Pilcher",
+        "popularity": 0.2491,
+        "profile_path": null,
+        "credit_id": "5d8ad890abf8e20021773746",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1450331,
+        "known_for_department": "Visual Effects",
+        "name": "James Baxter",
+        "original_name": "James Baxter",
+        "popularity": 0.7612,
+        "profile_path": "/lKuG6c7dY8kLEBTBn0SQifoRwUJ.jpg",
+        "credit_id": "5d8ad8af79b3d4000f85c765",
+        "department": "Crew",
+        "job": "Supervising Animator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12081,
+        "known_for_department": "Writing",
+        "name": "William Steig",
+        "original_name": "William Steig",
+        "popularity": 0.7835,
+        "profile_path": "/1tIgpPL0wyOEANwn1JvODLuIaCM.jpg",
+        "credit_id": "67afb5fc1f3841ee176c3296",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12081,
+        "known_for_department": "Writing",
+        "name": "William Steig",
+        "original_name": "William Steig",
+        "popularity": 0.7835,
+        "profile_path": "/1tIgpPL0wyOEANwn1JvODLuIaCM.jpg",
+        "credit_id": "6a0e274de60cb14bea5bdcba",
+        "department": "Crew",
+        "job": "In Memory Of"
+      }
+    ]
+  }
+}

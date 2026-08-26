@@ -1,0 +1,330 @@
+{
+  "adult": false,
+  "backdrop_path": "/hiqB5fFZ230MeFAGLPahoy06UOE.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "https://www.forsamafilm.com/",
+  "id": 576017,
+  "imdb_id": "tt9617456",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "For Sama",
+  "overview": "A love letter from a young mother to her daughter, the film tells the story of Waad al-Kateab’s life through five years of the uprising in Aleppo, Syria as she falls in love, gets married and gives birth to Sama, all while cataclysmic conflict rises around her.  Her camera captures incredible stories of loss, laughter and survival as Waad wrestles with an impossible choice– whether or not to flee the city to protect her daughter’s life, when leaving means abandoning the struggle for freedom for which she has already sacrificed so much.",
+  "popularity": 3.4633,
+  "poster_path": "/mDna51F8QfrJFZOgPGQUz3VKqsB.jpg",
+  "production_companies": [
+    {
+      "id": 67906,
+      "logo_path": "/Ad78qLMFwcHCodkXPb2BQFfdjx2.png",
+      "name": "ITN Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 5778,
+      "logo_path": "/2loyoQweDxvotH3AknfL2zhsthg.png",
+      "name": "Channel 4 Television",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SY",
+      "name": "Syrian Arab Republic"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2019-07-26",
+  "revenue": 0,
+  "runtime": 100,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "An intimate and epic journey into the female experience of war.",
+  "title": "For Sama",
+  "video": false,
+  "vote_average": 8.226,
+  "vote_count": 318,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2461576,
+        "known_for_department": "Acting",
+        "name": "Sama Al-Khateab",
+        "original_name": "Sama Al-Khateab",
+        "popularity": 0.5691,
+        "profile_path": "/ujR4KGJ7i2oqt7htGbdsvBxtUoL.jpg",
+        "cast_id": 8,
+        "character": "Self",
+        "credit_id": "5dd32ab428723c00144c817d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2461575,
+        "known_for_department": "Acting",
+        "name": "Hamza Al-Khateab",
+        "original_name": "Hamza Al-Khateab",
+        "popularity": 0.6238,
+        "profile_path": "/tAmMSHrK5gcfTdCFkD5FMnzr7Tf.jpg",
+        "cast_id": 7,
+        "character": "Self",
+        "credit_id": "5dd32aa9b39e3500188b929a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2220265,
+        "known_for_department": "Directing",
+        "name": "Waad al-Kateab",
+        "original_name": "Waad al-Kateab",
+        "popularity": 0.49,
+        "profile_path": "/rhpBO1OBzwdn4BtERlEmwy5JupZ.jpg",
+        "cast_id": 9,
+        "character": "Self",
+        "credit_id": "5dd32accfd6fa10014820859",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2220265,
+        "known_for_department": "Directing",
+        "name": "Waad al-Kateab",
+        "original_name": "Waad al-Kateab",
+        "popularity": 0.49,
+        "profile_path": "/rhpBO1OBzwdn4BtERlEmwy5JupZ.jpg",
+        "credit_id": "5c4152df0e0a2654c193536c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2220266,
+        "known_for_department": "Directing",
+        "name": "Edward Watts",
+        "original_name": "Edward Watts",
+        "popularity": 0.4538,
+        "profile_path": "/xEWhh4MRvGZ5FZjUHXVNx8Zg1yJ.jpg",
+        "credit_id": "5c4152fc925141344cb19e95",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2220265,
+        "known_for_department": "Directing",
+        "name": "Waad al-Kateab",
+        "original_name": "Waad al-Kateab",
+        "popularity": 0.49,
+        "profile_path": "/rhpBO1OBzwdn4BtERlEmwy5JupZ.jpg",
+        "credit_id": "5c7d3ca8925141514747ac8e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1069812,
+        "known_for_department": "Sound",
+        "name": "Nainita Desai",
+        "original_name": "Nainita Desai",
+        "popularity": 0.4527,
+        "profile_path": "/qXQfrocquCuHgOS1AX4oXby6kGI.jpg",
+        "credit_id": "5c7d3cd20e0a2631f80edd62",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2257073,
+        "known_for_department": "Editing",
+        "name": "Chloe Lambourne",
+        "original_name": "Chloe Lambourne",
+        "popularity": 0.42,
+        "profile_path": null,
+        "credit_id": "5c7d3d3dc3a3684a95189548",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2257074,
+        "known_for_department": "Editing",
+        "name": "Simon McMahon",
+        "original_name": "Simon McMahon",
+        "popularity": 0.5393,
+        "profile_path": "/kaUz2yB6T3kiRg11EaVpXPIPZ4L.jpg",
+        "credit_id": "5c7d3d890e0a2617540ef349",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2027845,
+        "known_for_department": "Crew",
+        "name": "Olly Strous",
+        "original_name": "Olly Strous",
+        "popularity": 0.2018,
+        "profile_path": null,
+        "credit_id": "5dd32b64356a710012ebcde8",
+        "department": "Production",
+        "job": "Head of Production"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1240045,
+        "known_for_department": "Production",
+        "name": "George Waldrum",
+        "original_name": "George Waldrum",
+        "popularity": 0.3053,
+        "profile_path": null,
+        "credit_id": "5dd32b36356a710012ebcd97",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2461581,
+        "known_for_department": "Sound",
+        "name": "Jez Spencer",
+        "original_name": "Jez Spencer",
+        "popularity": 0.4304,
+        "profile_path": null,
+        "credit_id": "5dd32b7db39e3500188b940a",
+        "department": "Sound",
+        "job": "Recording Supervision"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2261773,
+        "known_for_department": "Editing",
+        "name": "Enge Gray",
+        "original_name": "Enge Gray",
+        "popularity": 0.297,
+        "profile_path": null,
+        "credit_id": "5dd32b8857d3780013dc4451",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1424494,
+        "known_for_department": "Production",
+        "name": "Raney Aronson-Rath",
+        "original_name": "Raney Aronson-Rath",
+        "popularity": 0.6726,
+        "profile_path": null,
+        "credit_id": "5dd32aff28723c00144c81fb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2461579,
+        "known_for_department": "Production",
+        "name": "Siobhan Sinnerton",
+        "original_name": "Siobhan Sinnerton",
+        "popularity": 0.5385,
+        "profile_path": null,
+        "credit_id": "5dd32b2b356a710012ebcd8d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2461578,
+        "known_for_department": "Production",
+        "name": "Nevine Mabro",
+        "original_name": "Nevine Mabro",
+        "popularity": 0.3135,
+        "profile_path": null,
+        "credit_id": "5dd32b2057d3780018dc8b38",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2027844,
+        "known_for_department": "Crew",
+        "name": "Sam Hardy",
+        "original_name": "Sam Hardy",
+        "popularity": 0.2454,
+        "profile_path": null,
+        "credit_id": "5dd32b53fd6fa100188234e3",
+        "department": "Crew",
+        "job": "Post-Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2461577,
+        "known_for_department": "Production",
+        "name": "Ben de Pear",
+        "original_name": "Ben de Pear",
+        "popularity": 0.536,
+        "profile_path": "/cTF75yZpzYOFbAiefc0NyaW3406.jpg",
+        "credit_id": "5dd32b11356a710017ec13a5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2220265,
+        "known_for_department": "Directing",
+        "name": "Waad al-Kateab",
+        "original_name": "Waad al-Kateab",
+        "popularity": 0.49,
+        "profile_path": "/rhpBO1OBzwdn4BtERlEmwy5JupZ.jpg",
+        "credit_id": "5e260d1ac3bffe00165afe3d",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

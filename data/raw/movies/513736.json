@@ -1,0 +1,414 @@
+{
+  "adult": false,
+  "backdrop_path": "/5LCwGrZM0GtpRZdSnTSX63AYuFG.jpg",
+  "belongs_to_collection": {
+    "id": 386162,
+    "name": "LEGO DC Comics Super Heroes Collection",
+    "poster_path": "/noBsTnvxo1G4DVd36kaKSbTtM1M.jpg",
+    "backdrop_path": "/xMSbYXiCstnssIdxAajbGST8lpI.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 513736,
+  "imdb_id": "tt8457394",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "LEGO DC Comics Super Heroes: Aquaman - Rage of Atlantis",
+  "overview": "Aquaman must battle foes in the air, on land and in the depths of the Seven Seas, along with some help from The Justice League, to save the day.",
+  "popularity": 6.0788,
+  "poster_path": "/8BqoJXMhrV9KfKmodPtyi67VgBG.jpg",
+  "production_companies": [
+    {
+      "id": 2785,
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "name": "Warner Bros. Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 9993,
+      "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+      "name": "DC Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 4081,
+      "logo_path": "/9Q0SyrhQD61wWbz5KJOkL6tu2mg.png",
+      "name": "The LEGO Group",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-12-21",
+  "revenue": 0,
+  "runtime": 77,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "LEGO DC Comics Super Heroes: Aquaman - Rage of Atlantis",
+  "video": false,
+  "vote_average": 6.182,
+  "vote_count": 121,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23680,
+        "known_for_department": "Acting",
+        "name": "Dee Bradley Baker",
+        "original_name": "Dee Bradley Baker",
+        "popularity": 3.309,
+        "profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg",
+        "cast_id": 0,
+        "character": "Arthur Curry / Aquaman (voice) / Dex-Starr (voice) / Fishy (voice)",
+        "credit_id": "5af2141c925141064f002eda",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 112043,
+        "known_for_department": "Acting",
+        "name": "Susan Eisenberg",
+        "original_name": "Susan Eisenberg",
+        "popularity": 0.7436,
+        "profile_path": "/Ak63eUqvD7PvehBkpd00pcHaGFE.jpg",
+        "cast_id": 1,
+        "character": "Mera (voice)",
+        "credit_id": "5af214559251410642002649",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 82816,
+        "known_for_department": "Acting",
+        "name": "Trevor Devall",
+        "original_name": "Trevor Devall",
+        "popularity": 1.3394,
+        "profile_path": "/iCFqgVzkhLkMOw9DKmUmfQ3OyCZ.jpg",
+        "cast_id": 2,
+        "character": "Orm Marius / Ocean Master (voice)",
+        "credit_id": "5af21476c3a36855cc004128",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13477,
+        "known_for_department": "Acting",
+        "name": "Jonathan Adams",
+        "original_name": "Jonathan Adams",
+        "popularity": 1.8641,
+        "profile_path": "/mkgyl2MciZ14wsYi6zedyj6hnR8.jpg",
+        "cast_id": 3,
+        "character": "Atrocitus (voice)",
+        "credit_id": "5af21482925141066a001e07",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 963818,
+        "known_for_department": "Acting",
+        "name": "Troy Baker",
+        "original_name": "Troy Baker",
+        "popularity": 2.1407,
+        "profile_path": "/mppX8pDkwNvx3dJzclwcGkngEb3.jpg",
+        "cast_id": 4,
+        "character": "Bruce Wayne / Batman (voice)",
+        "credit_id": "5af2148c0e0a2668ab002e35",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19508,
+        "known_for_department": "Acting",
+        "name": "Nolan North",
+        "original_name": "Nolan North",
+        "popularity": 2.4952,
+        "profile_path": "/gb499KZIoBTZnKCGKE4zwzlcfSe.jpg",
+        "cast_id": 5,
+        "character": "Clark Kent / Superman (voice)",
+        "credit_id": "5af21499c3a36855aa0032a4",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15761,
+        "known_for_department": "Acting",
+        "name": "Grey DeLisle",
+        "original_name": "Grey DeLisle",
+        "popularity": 3.1141,
+        "profile_path": "/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg",
+        "cast_id": 6,
+        "character": "Diana Prince / Wonder Woman (voice) / Lois Lane (voice) / Ring (voice)",
+        "credit_id": "5af214a40e0a26688e002c5f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65640,
+        "known_for_department": "Acting",
+        "name": "Khary Payton",
+        "original_name": "Khary Payton",
+        "popularity": 2.0801,
+        "profile_path": "/4PgEGuAb2KkaRb7P9PdK40pPeVH.jpg",
+        "cast_id": 7,
+        "character": "Victor Stone / Cyborg (voice)",
+        "credit_id": "5af214ae0e0a26688c002b80",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1681143,
+        "known_for_department": "Acting",
+        "name": "Cristina Milizia",
+        "original_name": "Cristina Milizia",
+        "popularity": 0.8257,
+        "profile_path": "/hyoNXHS3W4bvzq6wziy7q3JSklN.jpg",
+        "cast_id": 8,
+        "character": "Jessica Cruz / Green Lantern (voice)",
+        "credit_id": "5af214bb9251410642002670",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 58965,
+        "known_for_department": "Acting",
+        "name": "Alyson Stoner",
+        "original_name": "Alyson Stoner",
+        "popularity": 3.0713,
+        "profile_path": "/oIjU19kaJv2laaYnAHemghHfyPh.jpg",
+        "cast_id": 9,
+        "character": "Barbara Gordon / Batgirl (voice)",
+        "credit_id": "5af214f49251410673002ba4",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89599,
+        "known_for_department": "Acting",
+        "name": "Eric Bauza",
+        "original_name": "Eric Bauza",
+        "popularity": 2.5243,
+        "profile_path": "/afOlsVPQxbtkom604MeCemjlwEV.jpg",
+        "cast_id": 10,
+        "character": "Jimmy Olsen (voice) / Bartender (voice)",
+        "credit_id": "5af214fd0e0a26689c0028e4",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113916,
+        "known_for_department": "Acting",
+        "name": "Scott Menville",
+        "original_name": "Scott Menville",
+        "popularity": 1.8822,
+        "profile_path": "/iLoApH8LbyJSKFmdgWxNR314GGa.jpg",
+        "cast_id": 11,
+        "character": "Damian Wayne / Robin (voice)",
+        "credit_id": "5af215080e0a2668af002ae3",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60279,
+        "known_for_department": "Acting",
+        "name": "Fred Tatasciore",
+        "original_name": "Fred Tatasciore",
+        "popularity": 2.5726,
+        "profile_path": "/xodxYKRC9mdvgquTdqpmYldliJ3.jpg",
+        "cast_id": 12,
+        "character": "Lobo (voice)",
+        "credit_id": "5af215120e0a2668920027b5",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1637776,
+        "known_for_department": "Directing",
+        "name": "Matt Peters",
+        "original_name": "Matt Peters",
+        "popularity": 0.9167,
+        "profile_path": "/twz7t4EyHuC3aTwQPedQI7ZBQXs.jpg",
+        "credit_id": "5af81e949251412c4300586c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1674791,
+        "known_for_department": "Writing",
+        "name": "Jeremy Adams",
+        "original_name": "Jeremy Adams",
+        "popularity": 0.8213,
+        "profile_path": null,
+        "credit_id": "5af81eb00e0a2655b20096d0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150856,
+        "known_for_department": "Writing",
+        "name": "Jim Krieg",
+        "original_name": "Jim Krieg",
+        "popularity": 1.4069,
+        "profile_path": null,
+        "credit_id": "5af81ea89251412c4b009647",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 966797,
+        "known_for_department": "Production",
+        "name": "Collette Sunderman",
+        "original_name": "Collette Sunderman",
+        "popularity": 0.6173,
+        "profile_path": null,
+        "credit_id": "5b4e4ea59251417d0f055738",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1768132,
+        "known_for_department": "Editing",
+        "name": "Cris Mertens",
+        "original_name": "Cris Mertens",
+        "popularity": 0.4273,
+        "profile_path": null,
+        "credit_id": "5b4e4e8b9251417d2705bcf3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141043,
+        "known_for_department": "Production",
+        "name": "Sam Register",
+        "original_name": "Sam Register",
+        "popularity": 1.1426,
+        "profile_path": "/rCJa4fFOi3CcOGjljzn06XliSsz.jpg",
+        "credit_id": "5b4e4de59251417d0f055657",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124279,
+        "known_for_department": "Production",
+        "name": "Brandon Vietti",
+        "original_name": "Brandon Vietti",
+        "popularity": 0.8558,
+        "profile_path": "/3aQCKuGIGzs7yJiD3z12EatL7P8.jpg",
+        "credit_id": "5b4e4df80e0a26454005db50",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 110643,
+        "known_for_department": "Production",
+        "name": "Jill Wilfert",
+        "original_name": "Jill Wilfert",
+        "popularity": 0.4543,
+        "profile_path": null,
+        "credit_id": "5b4e4e19c3a36823d8053dab",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1720983,
+        "known_for_department": "Production",
+        "name": "Robert Fewkes",
+        "original_name": "Robert Fewkes",
+        "popularity": 0.3747,
+        "profile_path": null,
+        "credit_id": "5b4e4e250e0a26454005db91",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1535346,
+        "known_for_department": "Production",
+        "name": "Jason Cosler",
+        "original_name": "Jason Cosler",
+        "popularity": 0.4722,
+        "profile_path": null,
+        "credit_id": "5b4e4e0c9251417d20059f82",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1420598,
+        "known_for_department": "Sound",
+        "name": "Tim Kelly",
+        "original_name": "Tim Kelly",
+        "popularity": 0.4627,
+        "profile_path": null,
+        "credit_id": "69fe57f6caa05d0a3d87dec7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

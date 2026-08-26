@@ -1,0 +1,422 @@
+{
+  "adult": false,
+  "backdrop_path": "/zWi9OOOz01wuZ84h8ODhPJVhPyI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1278983,
+  "imdb_id": "tt31614921",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Under the Stars",
+  "overview": "A struggling romance novelist stuck in a passionless relationship goes to Italy seeking inspiration, and unexpectedly finds the girl of his dreams.",
+  "popularity": 3.5662,
+  "poster_path": "/oJjCXVwPbNq2QeNdNvG2atZHj11.jpg",
+  "production_companies": [
+    {
+      "id": 2520,
+      "logo_path": "/dAfMKKimOSxL147xNghoXM1Tuah.png",
+      "name": "Arclight Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 179831,
+      "logo_path": "/9yUvtr26VMnSRJnePouXgOLFV7K.png",
+      "name": "Capstone Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 262143,
+      "logo_path": null,
+      "name": "Brandos Film",
+      "origin_country": ""
+    },
+    {
+      "id": 262144,
+      "logo_path": null,
+      "name": "Cloud9 Studios",
+      "origin_country": ""
+    },
+    {
+      "id": 262145,
+      "logo_path": null,
+      "name": "Nura Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-11-09",
+  "revenue": 0,
+  "runtime": 99,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It's never too late for a new chapter.",
+  "title": "Under the Stars",
+  "video": false,
+  "vote_average": 5.761,
+  "vote_count": 23,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61363,
+        "known_for_department": "Acting",
+        "name": "Alex Pettyfer",
+        "original_name": "Alex Pettyfer",
+        "popularity": 2.2242,
+        "profile_path": "/jcejkad2OWB71Bz1RRc4Ib0961k.jpg",
+        "cast_id": 3,
+        "character": "Ian",
+        "credit_id": "6627f603176a94016681aa7d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1240538,
+        "known_for_department": "Acting",
+        "name": "Eva De Dominici",
+        "original_name": "Eva de Dominici",
+        "popularity": 3.6054,
+        "profile_path": "/6Ar0UWAuscsKdyL3qa7iTYIVktP.jpg",
+        "cast_id": 4,
+        "character": "Arianna",
+        "credit_id": "6627f60de295b401879d167b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1271,
+        "known_for_department": "Acting",
+        "name": "Andy Garcia",
+        "original_name": "Andy Garcia",
+        "popularity": 4.6843,
+        "profile_path": "/9EivXoBlczZcFBet96WOoFbDsfF.jpg",
+        "cast_id": 2,
+        "character": "Giacomo",
+        "credit_id": "6627f5f7cb6db50186b2362c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3051,
+        "known_for_department": "Acting",
+        "name": "Toni Collette",
+        "original_name": "Toni Collette",
+        "popularity": 4.2796,
+        "profile_path": "/lzXRh16qe4HHeBN6tMyw0DHvaMn.jpg",
+        "cast_id": 1,
+        "character": "Audrey",
+        "credit_id": "6627f5ec63d93701647375f1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20960,
+        "known_for_department": "Acting",
+        "name": "Rob Estes",
+        "original_name": "Rob Estes",
+        "popularity": 1.7197,
+        "profile_path": "/uRex9dyCv4mt7V4mxUzZ9NmVxjH.jpg",
+        "cast_id": 5,
+        "character": "Andrew",
+        "credit_id": "6627f618e54d5d017eef14e4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1898994,
+        "known_for_department": "Acting",
+        "name": "Jessica Serfaty",
+        "original_name": "Jessica Serfaty",
+        "popularity": 0.6914,
+        "profile_path": "/iTYVFmKyrost4AkxaFscuURiPgP.jpg",
+        "cast_id": 6,
+        "character": "Kate",
+        "credit_id": "6627f629cb6db50163afbba7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1435168,
+        "known_for_department": "Acting",
+        "name": "Chiara Iezzi",
+        "original_name": "Chiara Iezzi",
+        "popularity": 0.5929,
+        "profile_path": "/7kyoCJKKYxPdjK6ZTElfflg489Z.jpg",
+        "cast_id": 7,
+        "character": "Marta",
+        "credit_id": "6627f63262f335017ddc7fa0",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1121580,
+        "known_for_department": "Acting",
+        "name": "Tim Fellingham",
+        "original_name": "Tim Fellingham",
+        "popularity": 0.972,
+        "profile_path": "/nUOe69E3kYrGseYLQlV4ukP1oiJ.jpg",
+        "cast_id": 21,
+        "character": "Peter",
+        "credit_id": "6855379cfde8c8a26cdc39f9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 439915,
+        "known_for_department": "Directing",
+        "name": "Michelle Danner",
+        "original_name": "Michelle Danner",
+        "popularity": 0.5343,
+        "profile_path": "/3AykyGo7LXSHlLA3hQ3g3cVUx5P.jpg",
+        "cast_id": 22,
+        "character": "Loredana",
+        "credit_id": "685537a8dedc4ba23a550bb1",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1428252,
+        "known_for_department": "Production",
+        "name": "Christian Mercuri",
+        "original_name": "Christian Mercuri",
+        "popularity": 0.7571,
+        "profile_path": "/vISkC384cFXhjKxPbdAhtSyoBDY.jpg",
+        "credit_id": "6627f69f63d937014a71f519",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4047565,
+        "known_for_department": "Writing",
+        "name": "Victoria Vinuesa",
+        "original_name": "Victoria Vinuesa",
+        "popularity": 0.5151,
+        "profile_path": "/aBHoXirUkrz13PRFwJJxXTwygTS.jpg",
+        "credit_id": "6627f683e54d5d017eef1509",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4670973,
+        "known_for_department": "Production",
+        "name": "Davide Meritti",
+        "original_name": "Davide Meritti",
+        "popularity": 0.188,
+        "profile_path": null,
+        "credit_id": "6627f6fbcb6db50186b23696",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1375803,
+        "known_for_department": "Production",
+        "name": "Ying Ye",
+        "original_name": "Ying Ye",
+        "popularity": 0.4212,
+        "profile_path": "/2y6TXoaBLqDMP4HZuPrvcDfZogU.jpg",
+        "credit_id": "6627f710af9590017d6be996",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4670975,
+        "known_for_department": "Production",
+        "name": "Gian G. Foschini",
+        "original_name": "Gian G. Foschini",
+        "popularity": 0.2355,
+        "profile_path": null,
+        "credit_id": "6627f72d176a940133813a4a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4670969,
+        "known_for_department": "Production",
+        "name": "Leonardo Maria Del Vecchio",
+        "original_name": "Leonardo Maria Del Vecchio",
+        "popularity": 0.3721,
+        "profile_path": null,
+        "credit_id": "6627f6cf63d937018775b53c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2750352,
+        "known_for_department": "Production",
+        "name": "Roman Viaris-de-Lesegno",
+        "original_name": "Roman Viaris-de-Lesegno",
+        "popularity": 0.5946,
+        "profile_path": null,
+        "credit_id": "6627f6a9cb6db50163afbbf0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1898994,
+        "known_for_department": "Acting",
+        "name": "Jessica Serfaty",
+        "original_name": "Jessica Serfaty",
+        "popularity": 0.6914,
+        "profile_path": "/iTYVFmKyrost4AkxaFscuURiPgP.jpg",
+        "credit_id": "6627f6e063d937018775b543",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56095,
+        "known_for_department": "Production",
+        "name": "Gary Hamilton",
+        "original_name": "Gary Hamilton",
+        "popularity": 0.7069,
+        "profile_path": "/wYcqkq5AKImjqSAnn59EwCdag1o.jpg",
+        "credit_id": "6627f706176a94014c815504",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 439915,
+        "known_for_department": "Directing",
+        "name": "Michelle Danner",
+        "original_name": "Michelle Danner",
+        "popularity": 0.5343,
+        "profile_path": "/3AykyGo7LXSHlLA3hQ3g3cVUx5P.jpg",
+        "credit_id": "6627f670af959001646972c0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3929180,
+        "known_for_department": "Production",
+        "name": "Pia Patatian",
+        "original_name": "Pia Patatian",
+        "popularity": 0.353,
+        "profile_path": null,
+        "credit_id": "6627f690cb6db50186b23666",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4476276,
+        "known_for_department": "Directing",
+        "name": "Giulia Cascella",
+        "original_name": "Giulia Cascella",
+        "popularity": 0.389,
+        "profile_path": "/x0kIma2IbnxFlWO4sYQPXr238DM.jpg",
+        "credit_id": "668326fbafdadff0ce9b0b52",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5434466,
+        "known_for_department": "Production",
+        "name": "Jacques Abrahamian",
+        "original_name": "Jacques Abrahamian",
+        "popularity": 0.2265,
+        "profile_path": null,
+        "credit_id": "68226ad0e8ab2ec38b4b4768",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61363,
+        "known_for_department": "Acting",
+        "name": "Alex Pettyfer",
+        "original_name": "Alex Pettyfer",
+        "popularity": 2.2242,
+        "profile_path": "/jcejkad2OWB71Bz1RRc4Ib0961k.jpg",
+        "credit_id": "6855380d1b698150331c1109",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1302529,
+        "known_for_department": "Camera",
+        "name": "Pierluigi Malavasi",
+        "original_name": "Pierluigi Malavasi",
+        "popularity": 0.4298,
+        "profile_path": null,
+        "credit_id": "68553ac6a2b0fb5846fc0a99",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20648,
+        "known_for_department": "Sound",
+        "name": "Andrea Guerra",
+        "original_name": "Andrea Guerra",
+        "popularity": 0.7214,
+        "profile_path": "/mqTi0J49NCqOwQjpM0Qu0vTquDK.jpg",
+        "credit_id": "6a3f8986958c04abdb165f85",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

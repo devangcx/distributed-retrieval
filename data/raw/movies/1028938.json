@@ -1,0 +1,450 @@
+{
+  "adult": false,
+  "backdrop_path": "/WqN2eD2R2GOGds5iiZDJcHh7JS.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1028938,
+  "imdb_id": "tt21950514",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "A Hollywood Christmas",
+  "overview": "Jessica, a young, up-and-coming filmmaker in Hollywood has made a name for herself directing Christmas movies. But when handsome network executive Christopher shows up threatening to halt production on her latest movie, Jessica’s assistant, Reena, points out the irony: Jessica isn’t just trying to save her Christmas movie, she’s actually living in one. Jessica must now juggle all the classic tropes—her actors falling in and out of love, a wayward elf dog, and her own stirring romantic feelings for her perceived nemesis—in order to get her movie and her life to their happy endings.",
+  "popularity": 2.5441,
+  "poster_path": "/f8D6dobydMiuabqRDQi0598ghc4.jpg",
+  "production_companies": [
+    {
+      "id": 79279,
+      "logo_path": "/gcCJ3eCR1bzw7IPQX3UoxqClpUP.png",
+      "name": "ESX Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 186218,
+      "logo_path": "/4G1yai3i2nUmoBbz78BSP0TDh8l.png",
+      "name": "Lila Lane Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-12-01",
+  "revenue": 0,
+  "runtime": 91,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "She's directed every love story... but her own.",
+  "title": "A Hollywood Christmas",
+  "video": false,
+  "vote_average": 6.03,
+  "vote_count": 66,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1013165,
+        "known_for_department": "Acting",
+        "name": "Jessika Van",
+        "original_name": "Jessika Van",
+        "popularity": 0.836,
+        "profile_path": "/52PJEF90hThCvmdo9mpNBMjttQU.jpg",
+        "cast_id": 1,
+        "character": "Jessica",
+        "credit_id": "633208142a210c007fd23199",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2521557,
+        "known_for_department": "Acting",
+        "name": "Josh Swickard",
+        "original_name": "Josh Swickard",
+        "popularity": 0.6983,
+        "profile_path": "/5yVwWt6TCkGnUPGY2ENQs7PUVc7.jpg",
+        "cast_id": 2,
+        "character": "Christopher",
+        "credit_id": "6332081c006b0100833d8079",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1294,
+        "known_for_department": "Acting",
+        "name": "Missi Pyle",
+        "original_name": "Missi Pyle",
+        "popularity": 3.6349,
+        "profile_path": "/lKMPTI0PbPv6kGQiublwHOp73Ff.jpg",
+        "cast_id": 3,
+        "character": "Theresa Frost",
+        "credit_id": "637762a1156cc700bc40891f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1759659,
+        "known_for_department": "Acting",
+        "name": "Anissa Borrego",
+        "original_name": "Anissa Borrego",
+        "popularity": 0.925,
+        "profile_path": "/sCD07WiAI9EskZJcLvBVqh07Y33.jpg",
+        "cast_id": 4,
+        "character": "Reena",
+        "credit_id": "637762a8156cc700763106d6",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2259152,
+        "known_for_department": "Acting",
+        "name": "Riley Dandy",
+        "original_name": "Riley Dandy",
+        "popularity": 1.0247,
+        "profile_path": "/kjUM5YipEOiOoY8GQbJiCfx0uFK.jpg",
+        "cast_id": 5,
+        "character": "Ashley / Chloe",
+        "credit_id": "637762b1336e0100d977c3d9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1903427,
+        "known_for_department": "Acting",
+        "name": "Zak Steiner",
+        "original_name": "Zak Steiner",
+        "popularity": 0.9271,
+        "profile_path": "/kv2EAljlsru1XWF6uC4P9tRrNGc.jpg",
+        "cast_id": 6,
+        "character": "Michael / Jeb",
+        "credit_id": "637762b911c06600840ac157",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1194698,
+        "known_for_department": "Acting",
+        "name": "Tom Williamson",
+        "original_name": "Tom Williamson",
+        "popularity": 0.7627,
+        "profile_path": "/rG8ObJpnCHXygQJwgc4oyqYYYLA.jpg",
+        "cast_id": 7,
+        "character": "Daniel",
+        "credit_id": "637762c1156cc7009434d83b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54718,
+        "known_for_department": "Acting",
+        "name": "Brooke Dillman",
+        "original_name": "Brooke Dillman",
+        "popularity": 1.3788,
+        "profile_path": "/tmZM7jwbz8xMVGvp89T0TAhH1lL.jpg",
+        "cast_id": 8,
+        "character": "Karla",
+        "credit_id": "637762ca336e01009be4c70f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25295,
+        "known_for_department": "Camera",
+        "name": "Mark W. Gray",
+        "original_name": "Mark W. Gray",
+        "popularity": 0.454,
+        "profile_path": "/x2ZnAAinkw9iMJkKm6fDXTfx1LT.jpg",
+        "cast_id": 9,
+        "character": "Santa Claus",
+        "credit_id": "637762d8336e01007695ccc7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3349398,
+        "known_for_department": "Acting",
+        "name": "Emelia Hartford",
+        "original_name": "Emelia Hartford",
+        "popularity": 1.3916,
+        "profile_path": "/5XGLlapvYbL90OMfPi1JN6V2Dph.jpg",
+        "cast_id": 27,
+        "character": "Clapper",
+        "credit_id": "63a9aa9c15a4a1007a90d59b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1759424,
+        "known_for_department": "Acting",
+        "name": "Olga Safari",
+        "original_name": "Olga Safari",
+        "popularity": 0.3881,
+        "profile_path": "/woBJvu2MftJvIkEtyyhHJ9p88um.jpg",
+        "cast_id": 28,
+        "character": "Noreen / Nadia",
+        "credit_id": "63a9aad8e4b576007a96e00f",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 474199,
+        "known_for_department": "Directing",
+        "name": "Alex Ranarivelo",
+        "original_name": "Alex Ranarivelo",
+        "popularity": 0.6424,
+        "profile_path": "/evlgsXKLW95hnOWEcNZtbzvkQXk.jpg",
+        "credit_id": "6377646811c066008e9a76c1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 151383,
+        "known_for_department": "Acting",
+        "name": "John Ducey",
+        "original_name": "John Ducey",
+        "popularity": 1.4347,
+        "profile_path": "/iAWEzIuVHOcvVdBdI3uAbvxUlTT.jpg",
+        "credit_id": "6377646f11c06600840ac209",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 294813,
+        "known_for_department": "Acting",
+        "name": "Ali Afshar",
+        "original_name": "Ali Afshar",
+        "popularity": 1.3862,
+        "profile_path": "/9Z7OqjfsZtg6ifDhiA3AwMQlIXV.jpg",
+        "credit_id": "63776479c2f44b00917a3b84",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1657570,
+        "known_for_department": "Directing",
+        "name": "Daniel Aspromonte",
+        "original_name": "Daniel Aspromonte",
+        "popularity": 0.3547,
+        "profile_path": null,
+        "credit_id": "6377648111c06600c8009334",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 439765,
+        "known_for_department": "Acting",
+        "name": "Christina Moore",
+        "original_name": "Christina Moore",
+        "popularity": 1.3708,
+        "profile_path": "/kbv3pHnb1w0JkUfiseamJ91VgMB.jpg",
+        "credit_id": "6377648fc2f44b00c354cb8c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1341240,
+        "known_for_department": "Production",
+        "name": "Mandi Reno",
+        "original_name": "Mandi Reno",
+        "popularity": 0.3285,
+        "profile_path": null,
+        "credit_id": "6377649511c06600840ac218",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1283653,
+        "known_for_department": "Sound",
+        "name": "Jamie Christopherson",
+        "original_name": "Jamie Christopherson",
+        "popularity": 0.3791,
+        "profile_path": null,
+        "credit_id": "6377649fc2f44b009b136d9b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1077612,
+        "known_for_department": "Camera",
+        "name": "Reuben Steinberg",
+        "original_name": "Reuben Steinberg",
+        "popularity": 0.3454,
+        "profile_path": null,
+        "credit_id": "637764ad5b2f4700c3ced654",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 991671,
+        "known_for_department": "Editing",
+        "name": "Brett Hedlund",
+        "original_name": "Brett Hedlund",
+        "popularity": 0.5186,
+        "profile_path": "/xuKyfUIN97o9PpBdRhNcG5meaUB.jpg",
+        "credit_id": "637764b6336e01007695cd70",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1037914,
+        "known_for_department": "Production",
+        "name": "Dori Zuckerman",
+        "original_name": "Dori Zuckerman",
+        "popularity": 0.3996,
+        "profile_path": null,
+        "credit_id": "637764bd11c06600abe2e799",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3349453,
+        "known_for_department": "Acting",
+        "name": "Johnny Afshar",
+        "original_name": "Johnny Afshar",
+        "popularity": 0.2402,
+        "profile_path": null,
+        "credit_id": "63a9a91d15a4a10082d2b99a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3845886,
+        "known_for_department": "Production",
+        "name": "Pasha Afshar",
+        "original_name": "Pasha Afshar",
+        "popularity": 0.2386,
+        "profile_path": null,
+        "credit_id": "63a9a933e4b57600ba0cc098",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1013165,
+        "known_for_department": "Acting",
+        "name": "Jessika Van",
+        "original_name": "Jessika Van",
+        "popularity": 0.836,
+        "profile_path": "/52PJEF90hThCvmdo9mpNBMjttQU.jpg",
+        "credit_id": "63a9a964e4b57600ba0cc0b6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2521557,
+        "known_for_department": "Acting",
+        "name": "Josh Swickard",
+        "original_name": "Josh Swickard",
+        "popularity": 0.6983,
+        "profile_path": "/5yVwWt6TCkGnUPGY2ENQs7PUVc7.jpg",
+        "credit_id": "63a9a99415a4a1007a90d517",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1845299,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Elizabeth Jett",
+        "original_name": "Elizabeth Jett",
+        "popularity": 0.5009,
+        "profile_path": null,
+        "credit_id": "63a9a9f9eda4b700ae5aa8c2",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1037914,
+        "known_for_department": "Production",
+        "name": "Dori Zuckerman",
+        "original_name": "Dori Zuckerman",
+        "popularity": 0.3996,
+        "profile_path": null,
+        "credit_id": "63a9aa1ba6a4c1008097e760",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1657570,
+        "known_for_department": "Directing",
+        "name": "Daniel Aspromonte",
+        "original_name": "Daniel Aspromonte",
+        "popularity": 0.3547,
+        "profile_path": null,
+        "credit_id": "63a9aa4ea6a4c1008097e785",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      }
+    ]
+  }
+}

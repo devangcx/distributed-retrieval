@@ -1,0 +1,441 @@
+{
+  "adult": false,
+  "backdrop_path": "/xLaGDBuiWgZ9grp69NbVISEDsXn.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 96147,
+  "imdb_id": "tt0106204",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Aankhen",
+  "overview": "Two good-for-nothing brothers are embroiled in a conspiracy involving a political assassination and try their best to save the country.",
+  "popularity": 1.3706,
+  "poster_path": "/zuLd519jDNN4kXOd3m6IIMslXK3.jpg",
+  "production_companies": [
+    {
+      "id": 16020,
+      "logo_path": null,
+      "name": "Chiragdeep International",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "1993-09-09",
+  "revenue": 0,
+  "runtime": 170,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Aankhen",
+  "video": false,
+  "vote_average": 6.068,
+  "vote_count": 22,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97546,
+        "known_for_department": "Acting",
+        "name": "Govinda",
+        "original_name": "Govinda",
+        "popularity": 1.747,
+        "profile_path": "/jIY8akWgvhgbIgZDd20yIPFDSv8.jpg",
+        "cast_id": 1,
+        "character": "Bunnu / Gaurishankar",
+        "credit_id": "52fe49a49251416c750ce8a1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81983,
+        "known_for_department": "Acting",
+        "name": "Chunky Panday",
+        "original_name": "Chunky Pandey",
+        "popularity": 1.1138,
+        "profile_path": "/2dG7abdDNs3MVmrAa6HEBFKhch4.jpg",
+        "cast_id": 2,
+        "character": "Munnu",
+        "credit_id": "52fe49a49251416c750ce8a5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1003360,
+        "known_for_department": "Acting",
+        "name": "Shilpa Shirodkar",
+        "original_name": "Shilpa Shirodkar",
+        "popularity": 1.1042,
+        "profile_path": "/kMteZPdvUd2kwTICukJ6KVVdQdL.jpg",
+        "cast_id": 9,
+        "character": "Chandramukhi",
+        "credit_id": "52fe49a49251416c750ce8c1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1033806,
+        "known_for_department": "Acting",
+        "name": "Raageshwari",
+        "original_name": "Raageshwari",
+        "popularity": 0.543,
+        "profile_path": "/d8PGCFrF7XksjLmx1UkOlGc54Hd.jpg",
+        "cast_id": 8,
+        "character": "Priya Mohan",
+        "credit_id": "52fe49a49251416c750ce8bd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1196297,
+        "known_for_department": "Acting",
+        "name": "Ritu Shivpuri",
+        "original_name": "Ritu Shivpuri",
+        "popularity": 0.4675,
+        "profile_path": "/9q5dgtLy0SOlr49PmElgqMAAHn1.jpg",
+        "cast_id": 7,
+        "character": "Ritu",
+        "credit_id": "52fe49a49251416c750ce8b9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71090,
+        "known_for_department": "Acting",
+        "name": "Raj Babbar",
+        "original_name": "Raj Babbar",
+        "popularity": 1.0679,
+        "profile_path": "/czcJMiNDxfQrNnDPNBM2O6cTmZR.jpg",
+        "cast_id": 3,
+        "character": "Chief Minister / Sarang",
+        "credit_id": "52fe49a49251416c750ce8a9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86017,
+        "known_for_department": "Acting",
+        "name": "Shakti Kapoor",
+        "original_name": "Shakti Kapoor",
+        "popularity": 1.1466,
+        "profile_path": "/8bkl6B8i8cgW5xVjCoHQkxEqqke.jpg",
+        "cast_id": 12,
+        "character": "Tejeshwar",
+        "credit_id": "52fe49a49251416c750ce8cd",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 174606,
+        "known_for_department": "Acting",
+        "name": "Kader Khan",
+        "original_name": "Kader Khan",
+        "popularity": 0.9845,
+        "profile_path": "/gf0v2N4xKNGDfHN5lxk7yxUEYQ3.jpg",
+        "cast_id": 4,
+        "character": "Hasmukh Rai",
+        "credit_id": "52fe49a49251416c750ce8ad",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105444,
+        "known_for_department": "Acting",
+        "name": "Sadashiv Amrapurkar",
+        "original_name": "Sadashiv Amrapurkar",
+        "popularity": 0.7175,
+        "profile_path": "/5ppazNZPQjlR1IRM0DyN3Kf3hfd.jpg",
+        "cast_id": 5,
+        "character": "Inspector Pyare Mohan",
+        "credit_id": "52fe49a49251416c750ce8b1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42208,
+        "known_for_department": "Acting",
+        "name": "Gulshan Grover",
+        "original_name": "Gulshan Grover",
+        "popularity": 1.1555,
+        "profile_path": "/hmGFOgCnYVUpeY1gTc0gx4QUCOF.jpg",
+        "cast_id": 14,
+        "character": "Natwar Shah (uncredited)",
+        "credit_id": "52fe49a49251416c750ce8d5",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 623417,
+        "known_for_department": "Acting",
+        "name": "Bindu",
+        "original_name": "Bindu Desai",
+        "popularity": 0.8312,
+        "profile_path": "/zD1ZSbQOIcs9k0KdKMsE1iJOpz6.jpg",
+        "cast_id": 10,
+        "character": "Anuradha",
+        "credit_id": "52fe49a49251416c750ce8c5",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53362,
+        "known_for_department": "Acting",
+        "name": "Harish Patel",
+        "original_name": "Harish Patel",
+        "popularity": 0.8038,
+        "profile_path": "/g2aHA5J5ODMcBgIwCa72ykcmN85.jpg",
+        "cast_id": 11,
+        "character": "Monto (uncredited)",
+        "credit_id": "52fe49a49251416c750ce8c9",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 565160,
+        "known_for_department": "Acting",
+        "name": "Raza Murad",
+        "original_name": "Raza Murad",
+        "popularity": 1.0211,
+        "profile_path": "/gMyvs7yl3woLOiBgFGB3V08utBc.jpg",
+        "cast_id": 16,
+        "character": "D.C.P (uncredited)",
+        "credit_id": "52fe49a49251416c750ce8dd",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110200,
+        "known_for_department": "Acting",
+        "name": "Rakesh Bedi",
+        "original_name": "राकेश बेदी",
+        "popularity": 1.4253,
+        "profile_path": "/dWLCiA3rqnaFPn9s0bk2MiSq5Mt.jpg",
+        "cast_id": 23,
+        "character": "(uncredited)",
+        "credit_id": "5e807461a127e500185666f8",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1032584,
+        "known_for_department": "Acting",
+        "name": "Mahavir Shah",
+        "original_name": "Mahavir Shah",
+        "popularity": 0.4571,
+        "profile_path": "/gGtbBkXMJodQcO8MXdvMVM630br.jpg",
+        "cast_id": 13,
+        "character": "Pravin Shah (uncredited)",
+        "credit_id": "52fe49a49251416c750ce8d1",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140763,
+        "known_for_department": "Acting",
+        "name": "Manav Vij",
+        "original_name": "Manav Vij",
+        "popularity": 1.0989,
+        "profile_path": "/qBGYyDNhHB8Gt2gKQUs0VdsWutJ.jpg",
+        "cast_id": 19,
+        "character": "(uncredited)",
+        "credit_id": "57f2cf159251410c31002cc3",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 105652,
+        "known_for_department": "Acting",
+        "name": "Dina Pathak",
+        "original_name": "Dina Pathak",
+        "popularity": 0.8096,
+        "profile_path": "/h3LWoC8nnJUJ2CZ2nCluGsI8o0P.jpg",
+        "cast_id": 22,
+        "character": "(uncredited)",
+        "credit_id": "5e807088ce5d820017e9c7f5",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1196298,
+        "known_for_department": "Acting",
+        "name": "Radha Seth",
+        "original_name": "Radha Seth",
+        "popularity": 0.4114,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Moll (uncredited)",
+        "credit_id": "52fe49a49251416c750ce8d9",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2129067,
+        "known_for_department": "Crew",
+        "name": "Tinnu Verma",
+        "original_name": "Tinnu Verma",
+        "popularity": 0.4895,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "(uncredited)",
+        "credit_id": "65ca6a4c54a0980163029adb",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 583509,
+        "known_for_department": "Acting",
+        "name": "Neena Gupta",
+        "original_name": "Neena Gupta",
+        "popularity": 0.9584,
+        "profile_path": "/znCPPYR79c1DU2MvA61JXhdMeCs.jpg",
+        "cast_id": 24,
+        "character": "(uncredited)",
+        "credit_id": "5e807fd276484100153dd55b",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1032583,
+        "known_for_department": "Acting",
+        "name": "Guddi Maruti",
+        "original_name": "Guddi Maruti",
+        "popularity": 0.7826,
+        "profile_path": "/peGAOT20fUdhel2Qf6WGWz0fLe0.jpg",
+        "cast_id": 26,
+        "character": "(uncredited)",
+        "credit_id": "5e8081d6a127e50018567aba",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1511727,
+        "known_for_department": "Acting",
+        "name": "Gavin Packard",
+        "original_name": "Gavin Packard",
+        "popularity": 0.5218,
+        "profile_path": "/r4KKyIJcv8jzZwTQbBcblX9trDh.jpg",
+        "cast_id": 27,
+        "character": "Henchman (uncredited)",
+        "credit_id": "5eb55e5ccc277c0021697e78",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90454,
+        "known_for_department": "Directing",
+        "name": "David Dhawan",
+        "original_name": "David Dhawan",
+        "popularity": 0.8794,
+        "profile_path": "/xLbcV54lqPF2w5NnjPgVjbmPvk5.jpg",
+        "credit_id": "52fe49a49251416c750ce8e3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85801,
+        "known_for_department": "Writing",
+        "name": "Anees Bazmee",
+        "original_name": "Anees Bazmee",
+        "popularity": 0.6504,
+        "profile_path": "/5ZapTXeavaYyMhhurei7qzHgd7D.jpg",
+        "credit_id": "52fe49a49251416c750ce8e9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1032600,
+        "known_for_department": "Production",
+        "name": "Pahlaj Nihalani",
+        "original_name": "Pahlaj Nihalani",
+        "popularity": 0.8059,
+        "profile_path": "/qhAW8Ds8jgoNcY9Rq692hl6oSkC.jpg",
+        "credit_id": "5c1ae6789251414b035338ad",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2050189,
+        "known_for_department": "Sound",
+        "name": "Sudesh Bhosle",
+        "original_name": "Sudesh Bhosle",
+        "popularity": 0.4632,
+        "profile_path": "/sGKoZuZUsnYY5gefmutOgF7hXn.jpg",
+        "credit_id": "5d5ff094e375c03edc1c2f5a",
+        "department": "Sound",
+        "job": "Playback Singer"
+      }
+    ]
+  }
+}

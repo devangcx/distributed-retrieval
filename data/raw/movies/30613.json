@@ -1,0 +1,353 @@
+{
+  "adult": false,
+  "backdrop_path": "/ciuacABTErf6XEzxHAOWEvFvaYm.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 30613,
+  "imdb_id": "tt0119285",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Hero No. 1",
+  "overview": "Rajesh and Meena fall in love and want to get married. But Meena's grandfather rejects Rajesh without seeing him because of a terrible encounter with Rajesh's father. Rajesh pretends to be a servant and finds employment in Meena's house to try and win her family over.",
+  "popularity": 1.0132,
+  "poster_path": "/ruKS1nf9EfMuAIEQZqj2N2aCySW.jpg",
+  "production_companies": [
+    {
+      "id": 3931,
+      "logo_path": null,
+      "name": "Pooja Entertainment",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "1997-02-21",
+  "revenue": 0,
+  "runtime": 134,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A modern retelling of Bawarchi",
+  "title": "Hero No. 1",
+  "video": false,
+  "vote_average": 6.139,
+  "vote_count": 36,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97546,
+        "known_for_department": "Acting",
+        "name": "Govinda",
+        "original_name": "Govinda",
+        "popularity": 1.747,
+        "profile_path": "/jIY8akWgvhgbIgZDd20yIPFDSv8.jpg",
+        "cast_id": 1,
+        "character": "Rajesh Malhotra 'Raju'",
+        "credit_id": "52fe44289251416c91006d9b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 76233,
+        "known_for_department": "Acting",
+        "name": "Karisma Kapoor",
+        "original_name": "करिश्मा कपूर",
+        "popularity": 1.8471,
+        "profile_path": "/fqSzKXcBzTP0BxWUh3poExOApmd.jpg",
+        "cast_id": 2,
+        "character": "Meena Nath",
+        "credit_id": "52fe44289251416c91006d9f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 174606,
+        "known_for_department": "Acting",
+        "name": "Kader Khan",
+        "original_name": "Kader Khan",
+        "popularity": 0.9845,
+        "profile_path": "/gf0v2N4xKNGDfHN5lxk7yxUEYQ3.jpg",
+        "cast_id": 3,
+        "character": "Dhanraj Malhotra",
+        "credit_id": "560946a592514169d90006d1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85033,
+        "known_for_department": "Acting",
+        "name": "Paresh Rawal",
+        "original_name": "Paresh Rawal",
+        "popularity": 1.1939,
+        "profile_path": "/xFVHMvDC8s4Ab2sLXrdVxMxZ33b.jpg",
+        "cast_id": 4,
+        "character": "Dinanath",
+        "credit_id": "560946b9c3a3681211008d26",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35759,
+        "known_for_department": "Acting",
+        "name": "Satish Shah",
+        "original_name": "Satish Shah",
+        "popularity": 1.4609,
+        "profile_path": "/AaXbQI0fAoTW4Qjg4dAtC5xkK1G.jpg",
+        "cast_id": 5,
+        "character": "Pappi",
+        "credit_id": "560946d4c3a36859e200371c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86228,
+        "known_for_department": "Acting",
+        "name": "Tiku Talsania",
+        "original_name": "Tiku Talsania",
+        "popularity": 0.6838,
+        "profile_path": "/pcEzSYDTRrnvA5pcbxhrfGOVTuM.jpg",
+        "cast_id": 9,
+        "character": "Vidya Nath",
+        "credit_id": "58c814ae9251417a1700ff70",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1033068,
+        "known_for_department": "Acting",
+        "name": "Anil Dhawan",
+        "original_name": "Anil Dhawan",
+        "popularity": 0.7467,
+        "profile_path": "/oApALmbgo0FzKYy2vJj4TFGkc71.jpg",
+        "cast_id": 10,
+        "character": "Jeevan Nath",
+        "credit_id": "58c814b9c3a3683df30109c5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1198680,
+        "known_for_department": "Acting",
+        "name": "Master Omkar Kapoor",
+        "original_name": "Master Omkar Kapoor",
+        "popularity": 0.3352,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Rinku",
+        "credit_id": "58c814d7c3a3683ddf010d68",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110200,
+        "known_for_department": "Acting",
+        "name": "Rakesh Bedi",
+        "original_name": "राकेश बेदी",
+        "popularity": 1.4253,
+        "profile_path": "/dWLCiA3rqnaFPn9s0bk2MiSq5Mt.jpg",
+        "cast_id": 12,
+        "character": "Sharma",
+        "credit_id": "58c814e692514179da010224",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78248,
+        "known_for_department": "Acting",
+        "name": "Himani Shivpuri",
+        "original_name": "Himani Shivpuri",
+        "popularity": 0.8383,
+        "profile_path": "/iEgl4ME7OfMJ8CVKxpeMiC4Wv5w.jpg",
+        "cast_id": 13,
+        "character": "Shannu",
+        "credit_id": "58c814f1c3a3683dbd00f6a9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86017,
+        "known_for_department": "Acting",
+        "name": "Shakti Kapoor",
+        "original_name": "Shakti Kapoor",
+        "popularity": 1.1466,
+        "profile_path": "/8bkl6B8i8cgW5xVjCoHQkxEqqke.jpg",
+        "cast_id": 14,
+        "character": "Babu",
+        "credit_id": "58c8150292514179da010249",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 928181,
+        "known_for_department": "Acting",
+        "name": "Harish Kumar",
+        "original_name": "Harish Kumar",
+        "popularity": 0.8598,
+        "profile_path": "/3s1mSSZxlPSnUHEdGKqfJ30Uc1o.jpg",
+        "cast_id": 23,
+        "character": "Meena's prospective husband",
+        "credit_id": "62f79c5de323f3008ba6b369",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 991646,
+        "known_for_department": "Sound",
+        "name": "Anand Chitragupth",
+        "original_name": "Anand Chitragupth",
+        "popularity": 0.4066,
+        "profile_path": null,
+        "credit_id": "610ed9a9dcf875006075fd28",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 991636,
+        "known_for_department": "Sound",
+        "name": "Milind Chitragupth",
+        "original_name": "Milind Chitragupth",
+        "popularity": 0.4446,
+        "profile_path": null,
+        "credit_id": "610ed9b5ae3843005eac4d83",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90454,
+        "known_for_department": "Directing",
+        "name": "David Dhawan",
+        "original_name": "David Dhawan",
+        "popularity": 0.8794,
+        "profile_path": "/xLbcV54lqPF2w5NnjPgVjbmPvk5.jpg",
+        "credit_id": "560946edc3a3681207008031",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110192,
+        "known_for_department": "Production",
+        "name": "Vashu Bhagnani",
+        "original_name": "Vashu Bhagnani",
+        "popularity": 0.3591,
+        "profile_path": "/Aiw7K2YkuuVZDgtiJ7XuyQlIBM6.jpg",
+        "credit_id": "560946fa9251411adb002d85",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87354,
+        "known_for_department": "Writing",
+        "name": "Rumi Jaffery",
+        "original_name": "Rumi Jaffery",
+        "popularity": 0.8187,
+        "profile_path": null,
+        "credit_id": "56094709925141015c00284a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 231589,
+        "known_for_department": "Visual Effects",
+        "name": "Rajiv Raghunathan",
+        "original_name": "Rajiv Raghunathan",
+        "popularity": 0.4463,
+        "profile_path": null,
+        "credit_id": "58c81713c3a3683d9500e103",
+        "department": "Visual Effects",
+        "job": "Digital Compositors"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 437387,
+        "known_for_department": "Directing",
+        "name": "Ajay Chandhok",
+        "original_name": "Ajay Chandhok",
+        "popularity": 0.5998,
+        "profile_path": null,
+        "credit_id": "58c816e5c3a3683dcd01090e",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 213158,
+        "known_for_department": "Directing",
+        "name": "K. S. Prakash Rao",
+        "original_name": "K. S. Prakash Rao",
+        "popularity": 0.5617,
+        "profile_path": null,
+        "credit_id": "58c816a8c3a3683dc500f930",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 641166,
+        "known_for_department": "Editing",
+        "name": "A. Muthu",
+        "original_name": "A. Muthu",
+        "popularity": 0.4153,
+        "profile_path": null,
+        "credit_id": "58c816b8c3a3683dc500f93b",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

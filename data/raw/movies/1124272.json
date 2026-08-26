@@ -1,0 +1,387 @@
+{
+  "adult": false,
+  "backdrop_path": "/2NUMDEskldasNZxWhHFmy0bgFs2.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1124272,
+  "imdb_id": "tt9658288",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bone Cold",
+  "overview": "An experienced Black Ops sniper attempts a nightmarish escape after a failed mission, tracked by enemy soldiers hellbent on revenge, and also hunted by something sinister and monstrous, hungry and determined.",
+  "popularity": 2.8546,
+  "poster_path": "/yi8TQ9txgb7wDtGkghQmkkZLL9r.jpg",
+  "production_companies": [
+    {
+      "id": 208673,
+      "logo_path": null,
+      "name": "Dirigo Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-06-13",
+  "revenue": 0,
+  "runtime": 109,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sometimes we make our own demons.",
+  "title": "Bone Cold",
+  "video": false,
+  "vote_average": 5.766,
+  "vote_count": 32,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1895788,
+        "known_for_department": "Acting",
+        "name": "Trinity Jo-Li Bliss",
+        "original_name": "Trinity Jo-Li Bliss",
+        "popularity": 1.6849,
+        "profile_path": "/a3WQPKhMHOZ5TjdnqStTfquzVB7.jpg",
+        "cast_id": 6,
+        "character": "Wendy",
+        "credit_id": "648c6ecc42bf01013bbc1200",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1751311,
+        "known_for_department": "Acting",
+        "name": "Jonathan Stoddard",
+        "original_name": "Jonathan Stoddard",
+        "popularity": 1.8961,
+        "profile_path": "/ct64PRjZpTFphgdlezQ7c2lMIrC.jpg",
+        "cast_id": 7,
+        "character": "Jon Bryant",
+        "credit_id": "648c6edf559d2200ad81622d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1959337,
+        "known_for_department": "Acting",
+        "name": "Jennifer Khoe",
+        "original_name": "Jennifer Khoe",
+        "popularity": 0.7511,
+        "profile_path": "/fnHkK8w4iHyDDG6hhVX6hw7ifIU.jpg",
+        "cast_id": 8,
+        "character": "Mel",
+        "credit_id": "648c6eef42bf01013bbc120d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1859427,
+        "known_for_department": "Acting",
+        "name": "Elise Berggreen",
+        "original_name": "Elise Berggreen",
+        "popularity": 0.391,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Sveta",
+        "credit_id": "648c6efd076ce800ad72b03f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2463284,
+        "known_for_department": "Acting",
+        "name": "Matt Munroe",
+        "original_name": "Matt Munroe",
+        "popularity": 0.5295,
+        "profile_path": "/bVEnHxBv8arqafikmZm8ONZx6RM.jpg",
+        "cast_id": 10,
+        "character": "Marco Miller",
+        "credit_id": "648c6fb9c3c891012d5cd3bc",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4115364,
+        "known_for_department": "Acting",
+        "name": "Jeremy Iversen",
+        "original_name": "Jeremy Iversen",
+        "popularity": 0.3613,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Morris",
+        "credit_id": "648c701fc2ff3d0139ad414f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1194993,
+        "known_for_department": "Acting",
+        "name": "Juliet Lopez",
+        "original_name": "Juliet Lopez",
+        "popularity": 0.5521,
+        "profile_path": "/aZHUeji9oZQ6kphgIQ2AocNp8FW.jpg",
+        "cast_id": 13,
+        "character": "Soldier",
+        "credit_id": "648c7044c2ff3d011cb88c26",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4115369,
+        "known_for_department": "Acting",
+        "name": "Danielle Poblarp",
+        "original_name": "Danielle Poblarp",
+        "popularity": 0.3599,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Angel",
+        "credit_id": "648c707426346200ae1af680",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4115371,
+        "known_for_department": "Acting",
+        "name": "Anthony McKeown",
+        "original_name": "Anthony McKeown",
+        "popularity": 0.3014,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "648c70d7c2ff3d00c59924b9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1894222,
+        "known_for_department": "Acting",
+        "name": "Ricardo Mestres",
+        "original_name": "Ricardo Mestres",
+        "popularity": 0.3081,
+        "profile_path": "/wzBfMEvJO8pbcH5ytq5sOIttABa.jpg",
+        "cast_id": 16,
+        "character": "Desert Fighter",
+        "credit_id": "648c713d263462012d495b2d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4115372,
+        "known_for_department": "Acting",
+        "name": "Mikhail Bugaev",
+        "original_name": "Mikhail Bugaev",
+        "popularity": 0.2413,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Green Mask",
+        "credit_id": "648c714f559d2200ad81633e",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4115382,
+        "known_for_department": "Acting",
+        "name": "Alan Hanson",
+        "original_name": "Alan Hanson",
+        "popularity": 0.2043,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Pavel Oliynyk",
+        "credit_id": "648c726342bf01011e725abd",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4115385,
+        "known_for_department": "Acting",
+        "name": "Edgar Pavsner",
+        "original_name": "Edgar Pavsner",
+        "popularity": 0.2361,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Black Mask",
+        "credit_id": "648c727f42bf01011e725ad5",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4115386,
+        "known_for_department": "Acting",
+        "name": "Duncan Perry",
+        "original_name": "Duncan Perry",
+        "popularity": 0.2361,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Fyodor Burick",
+        "credit_id": "648c729cc3c891010ca40f80",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4115387,
+        "known_for_department": "Acting",
+        "name": "Brenda Pollock",
+        "original_name": "Brenda Pollock",
+        "popularity": 0.1977,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Patriot Lady",
+        "credit_id": "648c72a9c3c89100eb31db4d",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1198968,
+        "known_for_department": "Production",
+        "name": "Billy Hanson",
+        "original_name": "Billy Hanson",
+        "popularity": 0.413,
+        "profile_path": null,
+        "credit_id": "6459a6fc1b70ae01260cb885",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1198968,
+        "known_for_department": "Production",
+        "name": "Billy Hanson",
+        "original_name": "Billy Hanson",
+        "popularity": 0.413,
+        "profile_path": null,
+        "credit_id": "6459a7221b70ae00e2ac57fb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1751311,
+        "known_for_department": "Acting",
+        "name": "Jonathan Stoddard",
+        "original_name": "Jonathan Stoddard",
+        "popularity": 1.8961,
+        "profile_path": "/ct64PRjZpTFphgdlezQ7c2lMIrC.jpg",
+        "credit_id": "6459a72c3fe160013866a8ec",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4052466,
+        "known_for_department": "Production",
+        "name": "Ness Wilson",
+        "original_name": "Ness Wilson",
+        "popularity": 0.2609,
+        "profile_path": null,
+        "credit_id": "6459a73aae384300fef54c34",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2676069,
+        "known_for_department": "Art",
+        "name": "Jaclyn Amor",
+        "original_name": "Jaclyn Amor",
+        "popularity": 0.4755,
+        "profile_path": null,
+        "credit_id": "6459a783ae3843011b517774",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1198968,
+        "known_for_department": "Production",
+        "name": "Billy Hanson",
+        "original_name": "Billy Hanson",
+        "popularity": 0.413,
+        "profile_path": null,
+        "credit_id": "648c72d5076ce800c8b9f72f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1198968,
+        "known_for_department": "Production",
+        "name": "Billy Hanson",
+        "original_name": "Billy Hanson",
+        "popularity": 0.413,
+        "profile_path": null,
+        "credit_id": "648c72ee42bf01011e725b2f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3194133,
+        "known_for_department": "Camera",
+        "name": "Ben Meredith",
+        "original_name": "Ben Meredith",
+        "popularity": 0.2744,
+        "profile_path": null,
+        "credit_id": "685962326a98798a5f6ba684",
+        "department": "Crew",
+        "job": "Cinematography"
+      }
+    ]
+  }
+}

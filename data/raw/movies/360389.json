@@ -1,0 +1,355 @@
+{
+  "adult": false,
+  "backdrop_path": "/twio8SQ4gHB0j74nM7lHanCVyar.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 360389,
+  "imdb_id": "tt0493076",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Nina",
+  "overview": "The story of the late jazz musician and classical pianist Nina Simone including her rise to fame and relationship with her manager Clifton Henderson.",
+  "popularity": 2.5331,
+  "poster_path": "/bgu5NoLBb8Pf84qKiVqK54BsRrr.jpg",
+  "production_companies": [
+    {
+      "id": 61933,
+      "logo_path": null,
+      "name": "Londinium Films",
+      "origin_country": ""
+    },
+    {
+      "id": 2650,
+      "logo_path": "/sDWe94w5fuyfgfRKc3N27CSJvsD.png",
+      "name": "Ealing Studios",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2016-04-22",
+  "revenue": 0,
+  "runtime": 90,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Singer. Activist. Survivor. Legend.",
+  "title": "Nina",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 92,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8691,
+        "known_for_department": "Acting",
+        "name": "Zoe Saldaña",
+        "original_name": "Zoe Saldaña",
+        "popularity": 9.6233,
+        "profile_path": "/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg",
+        "cast_id": 0,
+        "character": "Nina Simone",
+        "credit_id": "55fc7e5ec3a368618f0008cb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35013,
+        "known_for_department": "Acting",
+        "name": "David Oyelowo",
+        "original_name": "David Oyelowo",
+        "popularity": 2.8718,
+        "profile_path": "/7UZHRwOKe2cYxj8SeNUklyPYkns.jpg",
+        "cast_id": 1,
+        "character": "Clifton Henderson",
+        "credit_id": "55fc7e7b925141706b00078a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51944,
+        "known_for_department": "Acting",
+        "name": "Mike Epps",
+        "original_name": "Mike Epps",
+        "popularity": 1.8793,
+        "profile_path": "/kDI4E3ALm2rVkF38GwhWwXmDq0a.jpg",
+        "cast_id": 5,
+        "character": "Richard Pryor",
+        "credit_id": "570edd87c3a3685370000d79",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 206045,
+        "known_for_department": "Acting",
+        "name": "Ella A. Thomas",
+        "original_name": "Ella A. Thomas",
+        "popularity": 1.2825,
+        "profile_path": "/yUsD7YsZSxOrolNccdE7Jhp84dz.jpg",
+        "cast_id": 6,
+        "character": "Lorraine Hansberry",
+        "credit_id": "570edd9dc3a3685378000d1d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47085,
+        "known_for_department": "Acting",
+        "name": "Ronald Guttman",
+        "original_name": "Ronald Guttman",
+        "popularity": 1.0623,
+        "profile_path": "/n3F5Azj2fJ5XUVGcarunAyrNCQo.jpg",
+        "cast_id": 7,
+        "character": "Henri Edwards",
+        "credit_id": "570eddafc3a3685385000df3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 58681,
+        "known_for_department": "Acting",
+        "name": "Ella Joyce",
+        "original_name": "Ella Joyce",
+        "popularity": 0.8001,
+        "profile_path": "/p42wlar0hRZUtW9E96xFWZmNs9h.jpg",
+        "cast_id": 8,
+        "character": "Clifton's Mom",
+        "credit_id": "570eddbfc3a3685385000dff",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65827,
+        "known_for_department": "Acting",
+        "name": "Keith David",
+        "original_name": "Keith David",
+        "popularity": 4.1531,
+        "profile_path": "/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg",
+        "cast_id": 12,
+        "character": "Clifton's Father",
+        "credit_id": "5b8ea921c3a3681af4000df1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 62595,
+        "known_for_department": "Acting",
+        "name": "Mary Pat Gleason",
+        "original_name": "Mary Pat Gleason",
+        "popularity": 1.1568,
+        "profile_path": "/zS07GnCViZj5XSHqjxqNcrIG9KC.jpg",
+        "cast_id": 9,
+        "character": "Ordlery Pat",
+        "credit_id": "570edddfc3a3685378000d32",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 116475,
+        "known_for_department": "Acting",
+        "name": "Siena Goines",
+        "original_name": "Siena Goines",
+        "popularity": 1.0263,
+        "profile_path": "/sDgHHVLmEFkVN6ANpPOxDYHAMMp.jpg",
+        "cast_id": 10,
+        "character": "Heather",
+        "credit_id": "570eddf4c3a3685385000e1c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2004175,
+        "known_for_department": "Acting",
+        "name": "Kit Leonard Dennis",
+        "original_name": "Kit Leonard Dennis",
+        "popularity": 0.5206,
+        "profile_path": "/lg91hAePrJ2kP7Pjuf2rGVmR9Ux.jpg",
+        "cast_id": 11,
+        "character": "Lawyer",
+        "credit_id": "5ab27dc6c3a3686fd200d1ce",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1128284,
+        "known_for_department": "Production",
+        "name": "Yasmine Golchan",
+        "original_name": "Yasmine Golchan",
+        "popularity": 0.3042,
+        "profile_path": "/stEKoOORcO85mPgIATj2iYx11w2.jpg",
+        "cast_id": 14,
+        "character": "Dr. Cousier",
+        "credit_id": "5e8f0a1bfdc146001145a9b9",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6734,
+        "known_for_department": "Acting",
+        "name": "Ken Davitian",
+        "original_name": "Ken Davitian",
+        "popularity": 1.0994,
+        "profile_path": "/odykKQKSJDDJ5O5Drq1RVNaTbqM.jpg",
+        "cast_id": 21,
+        "character": "Club Owner",
+        "credit_id": "69474e6952827378fa8ce0af",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3162319,
+        "known_for_department": "Sound",
+        "name": "Daniel Galindo",
+        "original_name": "Daniel Galindo",
+        "popularity": 0.3319,
+        "profile_path": null,
+        "credit_id": "60f3f00fdb70580075f25b90",
+        "department": "Crew",
+        "job": "Score Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 37161,
+        "known_for_department": "Writing",
+        "name": "Cynthia Mort",
+        "original_name": "Cynthia Mort",
+        "popularity": 0.5964,
+        "profile_path": "/4d1yH3GxTNYSZhvJL2pYhqZwore.jpg",
+        "credit_id": "55fc7eb7c3a368618700074f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 37161,
+        "known_for_department": "Writing",
+        "name": "Cynthia Mort",
+        "original_name": "Cynthia Mort",
+        "popularity": 0.5964,
+        "profile_path": "/4d1yH3GxTNYSZhvJL2pYhqZwore.jpg",
+        "credit_id": "55fc7ec59251417f050000f4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1334501,
+        "known_for_department": "Editing",
+        "name": "Josh Rifkin",
+        "original_name": "Josh Rifkin",
+        "popularity": 0.3945,
+        "profile_path": null,
+        "credit_id": "64b43e5978570e011da99655",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1098,
+        "known_for_department": "Editing",
+        "name": "Mark Helfrich",
+        "original_name": "Mark Helfrich",
+        "popularity": 0.7743,
+        "profile_path": "/zCx3E9m6fmJXPstWtdsmnMNB7fy.jpg",
+        "credit_id": "64b43e2e37806200ff39384b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 61484,
+        "known_for_department": "Editing",
+        "name": "Susan Littenberg",
+        "original_name": "Susan Littenberg",
+        "popularity": 0.5163,
+        "profile_path": "/eJSgEolfUfaJdadFXEcY5N2cCj3.jpg",
+        "credit_id": "64b43e4423d27800e88ba87d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52981,
+        "known_for_department": "Camera",
+        "name": "Mihai Malaimare Jr.",
+        "original_name": "Mihai Malaimare Jr.",
+        "popularity": 0.6718,
+        "profile_path": "/iSZ3pdIHgH4cPjpzp6cejTVkKVE.jpg",
+        "credit_id": "5c31a5c9c3a3682919aa9454",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92336,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Clinton Wayne",
+        "original_name": "Clinton Wayne",
+        "popularity": 0.8155,
+        "profile_path": "/eYKuhXBXpZ16Yu8hMhEkOTSAbPN.jpg",
+        "credit_id": "674001931cd8c243e6be5fd3",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Effects Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2016665,
+        "known_for_department": "Sound",
+        "name": "Eric Vetro",
+        "original_name": "Eric Vetro",
+        "popularity": 0.5176,
+        "profile_path": "/hw3Iaenihq6nVQQvvbzZi8qqUjH.jpg",
+        "credit_id": "691f91f5876060b1c6058843",
+        "department": "Sound",
+        "job": "Vocal Coach"
+      }
+    ]
+  }
+}

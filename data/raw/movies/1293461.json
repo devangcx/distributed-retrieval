@@ -1,0 +1,290 @@
+{
+  "adult": false,
+  "backdrop_path": "/3ziHBm9NazFn7oP06zdzG8Y8ucG.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.disneyplus.com/movies/diy-duck/3JbQiEEQwHt4",
+  "id": 1293461,
+  "imdb_id": "tt32568049",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "D.I.Y. Duck",
+  "overview": "Donald Duck's efforts to replace a light bulb end in comic and catastrophic results.",
+  "popularity": 2.5082,
+  "poster_path": "/hDQKUwOYBJFzJv4eHEjH0gi6Ddp.jpg",
+  "production_companies": [
+    {
+      "id": 6125,
+      "logo_path": "/8bH86UPmMP8hlITzXV3XgV9eaAc.png",
+      "name": "Walt Disney Animation Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-06-08",
+  "revenue": 0,
+  "runtime": 3,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Celebrate 90 years of Donald with an all-new hand-drawn animated short!",
+  "title": "D.I.Y. Duck",
+  "video": false,
+  "vote_average": 6.707,
+  "vote_count": 29,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78077,
+        "known_for_department": "Acting",
+        "name": "Clarence Nash",
+        "original_name": "Clarence Nash",
+        "popularity": 1.2718,
+        "profile_path": "/x2g2hbu4RRIcn6Q5RT8gpWR1FKV.jpg",
+        "cast_id": 2,
+        "character": "Donald (voice) (archive footage)",
+        "credit_id": "666324856b4346569c8344f2",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2520767,
+        "known_for_department": "Visual Effects",
+        "name": "Lureline Weatherly",
+        "original_name": "Lureline Weatherly",
+        "popularity": 0.306,
+        "profile_path": null,
+        "credit_id": "6665e8e57cbed2fef3be5b6d",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2273979,
+        "known_for_department": "Visual Effects",
+        "name": "Courtney DiPaola",
+        "original_name": "Courtney DiPaola",
+        "popularity": 0.2634,
+        "profile_path": null,
+        "credit_id": "6665e905ebf7ade1ec9f3994",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1461395,
+        "known_for_department": "Crew",
+        "name": "Randy Haycock",
+        "original_name": "Randy Haycock",
+        "popularity": 0.5532,
+        "profile_path": "/eavV2eDsW2Je0cBexXpH4YZuh9i.jpg",
+        "credit_id": "6665e916964e2976a2a67a24",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4765384,
+        "known_for_department": "Visual Effects",
+        "name": "Ella Khan",
+        "original_name": "Ella Khan",
+        "popularity": 0.3363,
+        "profile_path": null,
+        "credit_id": "6665e942419b28ec1a1c1092",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3021158,
+        "known_for_department": "Directing",
+        "name": "Tyler Pacana",
+        "original_name": "Tyler Pacana",
+        "popularity": 0.3708,
+        "profile_path": "/mnibr01ur8NcD65w9UU2Eswf9oW.jpg",
+        "credit_id": "6665e99598484d18b3c8b6ae",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4765391,
+        "known_for_department": "Visual Effects",
+        "name": "Austin Traylor",
+        "original_name": "Austin Traylor",
+        "popularity": 0.1688,
+        "profile_path": null,
+        "credit_id": "6665e9ab752063ec0ee9cc90",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1998407,
+        "known_for_department": "Editing",
+        "name": "Brian Millman",
+        "original_name": "Brian Millman",
+        "popularity": 0.451,
+        "profile_path": null,
+        "credit_id": "6665e9d6958c08e40ab9a84b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64868,
+        "known_for_department": "Sound",
+        "name": "Oliver Wallace",
+        "original_name": "Oliver Wallace",
+        "popularity": 0.6236,
+        "profile_path": null,
+        "credit_id": "6665e9f9258a7988319d012b",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57337,
+        "known_for_department": "Sound",
+        "name": "George Bruns",
+        "original_name": "George Bruns",
+        "popularity": 0.5418,
+        "profile_path": "/h7TkHWHbQvjZxgUFqwMtnMV3lWF.jpg",
+        "credit_id": "6665ea2309cb2b34675320b3",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2107,
+        "known_for_department": "Sound",
+        "name": "Paul J. Smith",
+        "original_name": "Paul J. Smith",
+        "popularity": 0.5397,
+        "profile_path": "/vzOKtpDdvLwr4EgwU4y60JFtmkF.jpg",
+        "credit_id": "6665ea52f92cafe3c1532116",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1341141,
+        "known_for_department": "Sound",
+        "name": "Earl Ghaffari",
+        "original_name": "Earl Ghaffari",
+        "popularity": 0.5443,
+        "profile_path": null,
+        "credit_id": "6665eb0d09cb2b34675320c7",
+        "department": "Sound",
+        "job": "Supervising Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 115755,
+        "known_for_department": "Crew",
+        "name": "Mark Henn",
+        "original_name": "Mark Henn",
+        "popularity": 0.6988,
+        "profile_path": "/moi93ZFbFglebgd5MDwm9D21bks.jpg",
+        "credit_id": "6663246b8db38831ac134194",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 115755,
+        "known_for_department": "Crew",
+        "name": "Mark Henn",
+        "original_name": "Mark Henn",
+        "popularity": 0.6988,
+        "profile_path": "/moi93ZFbFglebgd5MDwm9D21bks.jpg",
+        "credit_id": "66632497417d4c33503ca2e7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 115755,
+        "known_for_department": "Crew",
+        "name": "Mark Henn",
+        "original_name": "Mark Henn",
+        "popularity": 0.6988,
+        "profile_path": "/moi93ZFbFglebgd5MDwm9D21bks.jpg",
+        "credit_id": "666324af70f096e569834534",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 16844,
+        "known_for_department": "Production",
+        "name": "Dorothy McKim",
+        "original_name": "Dorothy McKim",
+        "popularity": 0.6062,
+        "profile_path": "/dFjPWKn0a9RZkLzJKS0wtxKwzky.jpg",
+        "credit_id": "66632657e462678f7e133bdb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1120694,
+        "known_for_department": "Writing",
+        "name": "Jennifer Lee",
+        "original_name": "Jennifer Lee",
+        "popularity": 2.2706,
+        "profile_path": "/cRxBIe0sa2JcBtczzysV4aFUaEy.jpg",
+        "credit_id": "666326696a46310fb7762a33",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

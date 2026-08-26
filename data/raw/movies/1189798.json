@@ -1,0 +1,433 @@
+{
+  "adult": false,
+  "backdrop_path": "/zWtF5eWVAyenIYu26VZbsLJon38.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://www.lionsgate.com/movies/squealer",
+  "id": 1189798,
+  "imdb_id": "tt14768616",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Squealer",
+  "overview": "When young women begin to disappear across a small town, a police officer and a street-smart social worker follow clues to a remote pig farm and discover the local butcher has been bringing his work home.",
+  "popularity": 2.8796,
+  "poster_path": "/wdNdrqVJgkNNuYbI11TiiYkuP7Q.jpg",
+  "production_companies": [
+    {
+      "id": 3604,
+      "logo_path": "/jC6Hk3ZyNRlVPJsA0xGlAhgd2RP.png",
+      "name": "Grindstone Entertainment Group",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-11-03",
+  "revenue": 0,
+  "runtime": 99,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Meet the world's most diabolical serial killer.",
+  "title": "Squealer",
+  "video": false,
+  "vote_average": 5.797,
+  "vote_count": 74,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51682,
+        "known_for_department": "Acting",
+        "name": "Wes Chatham",
+        "original_name": "Wes Chatham",
+        "popularity": 2.3751,
+        "profile_path": "/lFoUyX8FZs3XvUWWItCm2ezvAEs.jpg",
+        "cast_id": 1,
+        "character": "Jack",
+        "credit_id": "65261965cedac400ace429d5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98804,
+        "known_for_department": "Acting",
+        "name": "Ronnie Gene Blevins",
+        "original_name": "Ronnie Gene Blevins",
+        "popularity": 1.0269,
+        "profile_path": "/28O4ALimfSVQgMOvkstDJpzHKDc.jpg",
+        "cast_id": 2,
+        "character": "Theodore (\"Squealer\")",
+        "credit_id": "6526196bcaef2d011dc1f036",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8169,
+        "known_for_department": "Acting",
+        "name": "Tyrese Gibson",
+        "original_name": "Tyrese Gibson",
+        "popularity": 2.9976,
+        "profile_path": "/jxoy4fbXNKFQtBdK73cLXEz3ufS.jpg",
+        "cast_id": 7,
+        "character": "Officer Paul",
+        "credit_id": "65261983ea84c7010c19757e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51995,
+        "known_for_department": "Acting",
+        "name": "Theo Rossi",
+        "original_name": "Theo Rossi",
+        "popularity": 2.9007,
+        "profile_path": "/344QE41Jileu4OE41cmYgBxc5BF.jpg",
+        "cast_id": 6,
+        "character": "Danny D.",
+        "credit_id": "652619800cb33516f7454041",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 122231,
+        "known_for_department": "Acting",
+        "name": "Kate Moennig",
+        "original_name": "Kate Moennig",
+        "popularity": 2.8099,
+        "profile_path": "/k9V8rcebmJlbfePAigJWG7yWaW5.jpg",
+        "cast_id": 3,
+        "character": "Earline",
+        "credit_id": "65261971fd630000ffcd556b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 96753,
+        "known_for_department": "Acting",
+        "name": "Danielle Burgio",
+        "original_name": "Danielle Burgio",
+        "popularity": 0.9173,
+        "profile_path": "/fKryQnnevPmW0AEASQIrPbGHs0G.jpg",
+        "cast_id": 4,
+        "character": "Lisa",
+        "credit_id": "65261976d399e600e36406c9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6804,
+        "known_for_department": "Acting",
+        "name": "Graham Greene",
+        "original_name": "Graham Greene",
+        "popularity": 3.2728,
+        "profile_path": "/ubX9pwrzQqnR41gAGyY1GoSZr1G.jpg",
+        "cast_id": 5,
+        "character": "Joe",
+        "credit_id": "6526197b07216645b4007044",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3252034,
+        "known_for_department": "Acting",
+        "name": "Sydney Carvill",
+        "original_name": "Sydney Carvill",
+        "popularity": 0.5071,
+        "profile_path": "/aNZgp789CK28jj7QolWkx8MIfHC.jpg",
+        "cast_id": 20,
+        "character": "Sadie",
+        "credit_id": "652d780aa8023600ab3fddf1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1837932,
+        "known_for_department": "Acting",
+        "name": "Rebecca Knox",
+        "original_name": "Rebecca Knox",
+        "popularity": 0.4729,
+        "profile_path": "/iT5afuQGOwC2NIE3UDuLNzFmXrH.jpg",
+        "cast_id": 21,
+        "character": "Kate",
+        "credit_id": "652d781e358da75b61f8da6c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1465274,
+        "known_for_department": "Acting",
+        "name": "Ramona DuBarry",
+        "original_name": "Ramona DuBarry",
+        "popularity": 0.6698,
+        "profile_path": "/Ag2zpgUYUkX1gqsSskLTXLi0uQG.jpg",
+        "cast_id": 22,
+        "character": "Anoki",
+        "credit_id": "652d78290cb33516f7488a4f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1754785,
+        "known_for_department": "Acting",
+        "name": "Holly Kaplan",
+        "original_name": "Holly Kaplan",
+        "popularity": 0.6464,
+        "profile_path": "/nxST5pwchMdqMFnk8Us7uzBt9JZ.jpg",
+        "cast_id": 23,
+        "character": "Helen",
+        "credit_id": "652d7838024ec8013c58f76c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3842091,
+        "known_for_department": "Acting",
+        "name": "Ellen Woomer",
+        "original_name": "Ellen Woomer",
+        "popularity": 0.3467,
+        "profile_path": "/uTAE7026tuaBUHJ3H7RwZUFE6Po.jpg",
+        "cast_id": 24,
+        "character": "Silvia",
+        "credit_id": "6552e94e9653f613f62942d1",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4409858,
+        "known_for_department": "Acting",
+        "name": "Jo Armstrong",
+        "original_name": "Jo Armstrong",
+        "popularity": 0.2043,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Star",
+        "credit_id": "656c759656846300ee12eb63",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3548093,
+        "known_for_department": "Acting",
+        "name": "RaSandra Daniels",
+        "original_name": "RaSandra Daniels",
+        "popularity": 0.4614,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Kiki",
+        "credit_id": "656c7a668eda87013a0aa97c",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2856520,
+        "known_for_department": "Crew",
+        "name": "Cameron Goodrich",
+        "original_name": "Cameron Goodrich",
+        "popularity": 0.2998,
+        "profile_path": null,
+        "credit_id": "65261a110cb33516fec579bf",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4010166,
+        "known_for_department": "Production",
+        "name": "Josh Spector",
+        "original_name": "Josh Spector",
+        "popularity": 0.3216,
+        "profile_path": null,
+        "credit_id": "65261a070cb33516f63c36d0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15024,
+        "known_for_department": "Crew",
+        "name": "Andy Armstrong",
+        "original_name": "Andy Armstrong",
+        "popularity": 0.7175,
+        "profile_path": "/aJSiNq14rBKVVGYnL8FmeusgyoU.jpg",
+        "credit_id": "6526199881383101390d6c33",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1384817,
+        "known_for_department": "Production",
+        "name": "Shaun S. Sanghani",
+        "original_name": "Shaun S. Sanghani",
+        "popularity": 0.5375,
+        "profile_path": "/pTDTZAn87r1qT2K8yh4mQn95mrZ.jpg",
+        "credit_id": "65261a17629b2c0139a76160",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94047,
+        "known_for_department": "Production",
+        "name": "Stan Wertlieb",
+        "original_name": "Stan Wertlieb",
+        "popularity": 0.6697,
+        "profile_path": null,
+        "credit_id": "652619fc629b2c00e265863a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1573290,
+        "known_for_department": "Production",
+        "name": "Lee Broda",
+        "original_name": "Lee Broda",
+        "popularity": 0.6103,
+        "profile_path": null,
+        "credit_id": "65261a1fcedac400ace42aa4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2388377,
+        "known_for_department": "Production",
+        "name": "Daniel Cummings",
+        "original_name": "Daniel Cummings",
+        "popularity": 0.3955,
+        "profile_path": null,
+        "credit_id": "65261a2ecaef2d00c6e30ecd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 96753,
+        "known_for_department": "Acting",
+        "name": "Danielle Burgio",
+        "original_name": "Danielle Burgio",
+        "popularity": 0.9173,
+        "profile_path": "/fKryQnnevPmW0AEASQIrPbGHs0G.jpg",
+        "credit_id": "652619e4d399e6011d15893a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15024,
+        "known_for_department": "Crew",
+        "name": "Andy Armstrong",
+        "original_name": "Andy Armstrong",
+        "popularity": 0.7175,
+        "profile_path": "/aJSiNq14rBKVVGYnL8FmeusgyoU.jpg",
+        "credit_id": "652619d8629b2c00c59cb004",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65814,
+        "known_for_department": "Production",
+        "name": "Barry Brooker",
+        "original_name": "Barry Brooker",
+        "popularity": 0.8737,
+        "profile_path": null,
+        "credit_id": "652619f481383100fe3cb64b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15024,
+        "known_for_department": "Crew",
+        "name": "Andy Armstrong",
+        "original_name": "Andy Armstrong",
+        "popularity": 0.7175,
+        "profile_path": "/aJSiNq14rBKVVGYnL8FmeusgyoU.jpg",
+        "credit_id": "652619920cb33516f63c3656",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 96753,
+        "known_for_department": "Acting",
+        "name": "Danielle Burgio",
+        "original_name": "Danielle Burgio",
+        "popularity": 0.9173,
+        "profile_path": "/fKryQnnevPmW0AEASQIrPbGHs0G.jpg",
+        "credit_id": "6526199c0cb33516f5c7149b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4069283,
+        "known_for_department": "Camera",
+        "name": "Matthew Gay",
+        "original_name": "Matthew Gay",
+        "popularity": 0.4172,
+        "profile_path": null,
+        "credit_id": "683e175570e7b0c382f2b958",
+        "department": "Camera",
+        "job": "Camera Operator"
+      }
+    ]
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "adult": false,
+  "backdrop_path": "/892rHLop6XobpTmdJ05UfkWMZpf.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81150180",
+  "id": 789708,
+  "imdb_id": "tt15777864",
+  "origin_country": [
+    "CA",
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hilda and the Mountain King",
+  "overview": "When Hilda wakes up in the body of a troll, she must use her wits and courage to get back home, become human again — and save the city of Trolberg.",
+  "popularity": 2.6684,
+  "poster_path": "/3vm7LOe7DhkiA7umBhslQy9MdkY.jpg",
+  "production_companies": [
+    {
+      "id": 79465,
+      "logo_path": "/6qOISqaMEeKhvYGB0ryEtlcRZaM.png",
+      "name": "Mercury Filmworks",
+      "origin_country": "CA"
+    },
+    {
+      "id": 62976,
+      "logo_path": "/sJsAk4hueWVKp6bgMfUVslPob81.png",
+      "name": "Silvergate Media",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-12-30",
+  "revenue": 0,
+  "runtime": 83,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Such is the life of an adventurer.",
+  "title": "Hilda and the Mountain King",
+  "video": false,
+  "vote_average": 7.558,
+  "vote_count": 199,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 1668004,
+        "known_for_department": "Acting",
+        "name": "Bella Ramsey",
+        "original_name": "Bella Ramsey",
+        "popularity": 3.5192,
+        "profile_path": "/vDbgxc7RYawpB1wK7JDEj62j06H.jpg",
+        "cast_id": 1,
+        "character": "Hilda (voice)",
+        "credit_id": "619d382466362700448a31ce",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1729392,
+        "known_for_department": "Acting",
+        "name": "Ameerah Falzon-Ojo",
+        "original_name": "Ameerah Falzon-Ojo",
+        "popularity": 0.5416,
+        "profile_path": "/ePkFWWc88EqAC1BYQFHfNun2CCz.jpg",
+        "cast_id": 4,
+        "character": "Frida (voice)",
+        "credit_id": "61a938ce3d4d960091a199e6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3333160,
+        "known_for_department": "Acting",
+        "name": "Oliver Nelson",
+        "original_name": "Oliver Nelson",
+        "popularity": 0.6128,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "David (voice)",
+        "credit_id": "61a938f8383df200647deb83",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 209458,
+        "known_for_department": "Acting",
+        "name": "Daisy Haggard",
+        "original_name": "Daisy Haggard",
+        "popularity": 1.2952,
+        "profile_path": "/10T4bAeX8AkjNFchad2mOPtAyuV.jpg",
+        "cast_id": 6,
+        "character": "Johanna (voice)",
+        "credit_id": "61a9393c35a61e002ea965ac",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 205725,
+        "known_for_department": "Acting",
+        "name": "Rasmus Hardiker",
+        "original_name": "Rasmus Hardiker",
+        "popularity": 1.1881,
+        "profile_path": "/gDdrt1YXPCxdv5LG8WvVJswPydZ.jpg",
+        "cast_id": 7,
+        "character": "Alfur Aldric (voice)",
+        "credit_id": "61a93953e267de00642784ce",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1220121,
+        "known_for_department": "Acting",
+        "name": "John Hopkins",
+        "original_name": "John Hopkins",
+        "popularity": 1.2839,
+        "profile_path": "/uHlU7Noyk784MXMwwPRa0Gl02aZ.jpg",
+        "cast_id": 8,
+        "character": "Erik Ahlberg (voice)",
+        "credit_id": "61a93963a24c500045d25d16",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1222239,
+        "known_for_department": "Acting",
+        "name": "Lucy Montgomery",
+        "original_name": "Lucy Montgomery",
+        "popularity": 0.8565,
+        "profile_path": "/xF6lY41BTfOgatqvroTsHLy2wes.jpg",
+        "cast_id": 9,
+        "character": "Gerda Gustav (voice)",
+        "credit_id": "61a9397105822400912c480b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2434251,
+        "known_for_department": "Acting",
+        "name": "Dino Kelly",
+        "original_name": "Dino Kelly",
+        "popularity": 0.965,
+        "profile_path": "/8zNhDEjQGjWKCDdsso2fp49IK8d.jpg",
+        "cast_id": 10,
+        "character": "Trundle (voice)",
+        "credit_id": "61a939910816c7008b946092",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3062261,
+        "known_for_department": "Acting",
+        "name": "Rachel August",
+        "original_name": "Rachel August",
+        "popularity": 0.5231,
+        "profile_path": "/qTstfZpxUR3gKHKpXfowCkC0K3C.jpg",
+        "cast_id": 11,
+        "character": "Trylla (voice)",
+        "credit_id": "61a939a9d2f5b500970372e2",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2473920,
+        "known_for_department": "Acting",
+        "name": "Agnes Peacok",
+        "original_name": "Agnes Peacok",
+        "popularity": 0.4108,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Baba (voice)",
+        "credit_id": "61a939cc9a64350062a98312",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1801770,
+        "known_for_department": "Acting",
+        "name": "Harriet Turnbull",
+        "original_name": "Harriet Turnbull",
+        "popularity": 0.8287,
+        "profile_path": "/yzOXAn1zV4lifddmZ0zC5eEnzxw.jpg",
+        "cast_id": 18,
+        "character": "Additional Voices (voice)",
+        "credit_id": "647fb6b6ca7ec6011cb45cf3",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3469909,
+        "known_for_department": "Production",
+        "name": "Steve Jacobson",
+        "original_name": "Steve Jacobson",
+        "popularity": 0.3062,
+        "profile_path": null,
+        "credit_id": "623458eaba131b001f8a63fc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1246569,
+        "known_for_department": "Acting",
+        "name": "Chantal Ling",
+        "original_name": "Chantal Ling",
+        "popularity": 0.416,
+        "profile_path": null,
+        "credit_id": "623459068e8d30001d0b7025",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2015136,
+        "known_for_department": "Sound",
+        "name": "Ryan Carlson",
+        "original_name": "Ryan Carlson",
+        "popularity": 0.4387,
+        "profile_path": null,
+        "credit_id": "62345975da10f00076426911",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3469910,
+        "known_for_department": "Production",
+        "name": "Rachel Simon",
+        "original_name": "Rachel Simon",
+        "popularity": 0.416,
+        "profile_path": null,
+        "credit_id": "6234594934e1520046193aff",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2779098,
+        "known_for_department": "Writing",
+        "name": "John McKinnon",
+        "original_name": "John McKinnon",
+        "popularity": 0.3616,
+        "profile_path": null,
+        "credit_id": "623459a2894ed6001c96acf4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1653394,
+        "known_for_department": "Directing",
+        "name": "Andy Coyle",
+        "original_name": "Andy Coyle",
+        "popularity": 0.6008,
+        "profile_path": "/oPMNqFNtoYywEPxmGMglcxm5V69.jpg",
+        "credit_id": "61a93896a6a4c10044975279",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1684258,
+        "known_for_department": "Writing",
+        "name": "Luke Pearson",
+        "original_name": "Luke Pearson",
+        "popularity": 0.63,
+        "profile_path": null,
+        "credit_id": "61a938a17ecd2800462287f1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1684258,
+        "known_for_department": "Writing",
+        "name": "Luke Pearson",
+        "original_name": "Luke Pearson",
+        "popularity": 0.63,
+        "profile_path": null,
+        "credit_id": "66bb827c44314f88b0807c15",
+        "department": "Writing",
+        "job": "Graphic Novel"
+      }
+    ]
+  }
+}

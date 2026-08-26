@@ -1,0 +1,433 @@
+{
+  "adult": false,
+  "backdrop_path": "/rI9Mh0Q0XAtqTiSgKI0M2fflO1X.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81686326",
+  "id": 1329336,
+  "imdb_id": "tt33130902",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Bad Guys: Haunted Heist",
+  "overview": "The crafty Bad Guys crew embarks on a high-stakes Halloween heist to swipe a priceless amulet from a spooky mansion. What could go wrong?",
+  "popularity": 4.1409,
+  "poster_path": "/oEJC05CqPugMxC4rFu9r6r6vg6m.jpg",
+  "production_companies": [
+    {
+      "id": 42141,
+      "logo_path": "/3DWUezrpxTqVMW4oKRhzfqJbULK.png",
+      "name": "DreamWorks Animation Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-10-02",
+  "revenue": 0,
+  "runtime": 25,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Bad Guys: Haunted Heist",
+  "video": false,
+  "vote_average": 6.864,
+  "vote_count": 166,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 972294,
+        "known_for_department": "Acting",
+        "name": "Michael Godere",
+        "original_name": "Michael Godere",
+        "popularity": 0.9555,
+        "profile_path": "/cwC5R5ErDsP81Dwo6154Ld5uves.jpg",
+        "cast_id": 2,
+        "character": "Wolf (voice)",
+        "credit_id": "66d894267ac8675c160ee966",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3320600,
+        "known_for_department": "Acting",
+        "name": "Ezekiel Ajeigbe",
+        "original_name": "Ezekiel Ajeigbe",
+        "popularity": 0.5439,
+        "profile_path": "/uU6UCcQlyyXZ0hbergglsyVxlUm.jpg",
+        "cast_id": 3,
+        "character": "Shark (voice)",
+        "credit_id": "66d8942e173bb433d74f4f8b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3700657,
+        "known_for_department": "Acting",
+        "name": "Raul Ceballos",
+        "original_name": "Raul Ceballos",
+        "popularity": 0.6364,
+        "profile_path": "/8Pq2Igpm0x7XmkokP4yfGi3GdVr.jpg",
+        "cast_id": 4,
+        "character": "Piranha (voice)",
+        "credit_id": "66d89438d8e885ab846ce8f6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1217648,
+        "known_for_department": "Acting",
+        "name": "Chris Diamantopoulos",
+        "original_name": "Chris Diamantopoulos",
+        "popularity": 2.5192,
+        "profile_path": "/oenBtpk0RTId4wacQKYU4cPcq8Z.jpg",
+        "cast_id": 5,
+        "character": "Snake / Reginald E. Scary (voice)",
+        "credit_id": "66d894415ecec696f6b8b76a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1213391,
+        "known_for_department": "Acting",
+        "name": "Mallory Low",
+        "original_name": "Mallory Low",
+        "popularity": 0.7165,
+        "profile_path": "/amS893X6E4w2n3Go73HkbuYZjI9.jpg",
+        "cast_id": 6,
+        "character": "Tarantula (voice)",
+        "credit_id": "66d8944e7e0be42fdaea3638",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1479536,
+        "known_for_department": "Visual Effects",
+        "name": "Kevin Peaty",
+        "original_name": "Kevin Peaty",
+        "popularity": 0.4698,
+        "profile_path": null,
+        "credit_id": "66d894a344d359f12c4f507d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1216560,
+        "known_for_department": "Directing",
+        "name": "Bret Haaland",
+        "original_name": "Bret Haaland",
+        "popularity": 0.6598,
+        "profile_path": "/rifsF5YLlGzxTOzNJWvQh1GchFN.jpg",
+        "credit_id": "66d894b2ed918364606ce8cc",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1442642,
+        "known_for_department": "Writing",
+        "name": "Katherine Nolfi",
+        "original_name": "Katherine Nolfi",
+        "popularity": 0.5883,
+        "profile_path": null,
+        "credit_id": "66d894bf17813ddaac3967eb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4404548,
+        "known_for_department": "Writing",
+        "name": "Ben Glass",
+        "original_name": "Ben Glass",
+        "popularity": 0.5272,
+        "profile_path": null,
+        "credit_id": "66fe5411b146282f7b84d04d",
+        "department": "Writing",
+        "job": "Story Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 577596,
+        "known_for_department": "Acting",
+        "name": "Shane Lynch",
+        "original_name": "Shane Lynch",
+        "popularity": 0.4404,
+        "profile_path": "/kkGPa5hyR6d4tQP0i9lEhUCTSB6.jpg",
+        "credit_id": "66fe54326fc74e5756f7c68d",
+        "department": "Writing",
+        "job": "Staff Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4977851,
+        "known_for_department": "Writing",
+        "name": "Elizabeth Chun",
+        "original_name": "Elizabeth Chun",
+        "popularity": 0.4484,
+        "profile_path": null,
+        "credit_id": "66fe54bdf878adfed084d9bc",
+        "department": "Writing",
+        "job": "Staff Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 187070,
+        "known_for_department": "Writing",
+        "name": "Aaron Blabey",
+        "original_name": "Aaron Blabey",
+        "popularity": 0.6822,
+        "profile_path": null,
+        "credit_id": "66fe54cf6fc74e5756f7c6af",
+        "department": "Production",
+        "job": "Consulting Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2463858,
+        "known_for_department": "Production",
+        "name": "Patrick Hughes",
+        "original_name": "Patrick Hughes",
+        "popularity": 0.3414,
+        "profile_path": null,
+        "credit_id": "66fe54e5f878adfed084d9cd",
+        "department": "Production",
+        "job": "Consulting Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1319119,
+        "known_for_department": "Production",
+        "name": "Ania O'Hare",
+        "original_name": "Ania O'Hare",
+        "popularity": 0.5997,
+        "profile_path": null,
+        "credit_id": "66fe5549b146282f7b84d0de",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2788811,
+        "known_for_department": "Production",
+        "name": "Katie Galvan",
+        "original_name": "Katie Galvan",
+        "popularity": 0.4595,
+        "profile_path": null,
+        "credit_id": "66fe5556b146282f7b84d0e6",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3971357,
+        "known_for_department": "Sound",
+        "name": "Taylor Page",
+        "original_name": "Taylor Page",
+        "popularity": 0.578,
+        "profile_path": null,
+        "credit_id": "66fe556c6fc74e5756f7c700",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3971357,
+        "known_for_department": "Sound",
+        "name": "Taylor Page",
+        "original_name": "Taylor Page",
+        "popularity": 0.578,
+        "profile_path": null,
+        "credit_id": "66fe55756fc74e5756f7c70a",
+        "department": "Sound",
+        "job": "Main Title Theme Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4150772,
+        "known_for_department": "Sound",
+        "name": "Daniel Futcher",
+        "original_name": "Daniel Futcher",
+        "popularity": 0.3277,
+        "profile_path": null,
+        "credit_id": "66fe5581e84eeb35a0f7c557",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4150772,
+        "known_for_department": "Sound",
+        "name": "Daniel Futcher",
+        "original_name": "Daniel Futcher",
+        "popularity": 0.3277,
+        "profile_path": null,
+        "credit_id": "66fe5587fa3e69e0ef7c7e2b",
+        "department": "Sound",
+        "job": "Main Title Theme Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3147264,
+        "known_for_department": "Sound",
+        "name": "Brandon Liew",
+        "original_name": "Brandon Liew",
+        "popularity": 0.4239,
+        "profile_path": null,
+        "credit_id": "66fe55a36fc74e5756f7c714",
+        "department": "Sound",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3016889,
+        "known_for_department": "Production",
+        "name": "Shaun Avnet",
+        "original_name": "Shaun Avnet",
+        "popularity": 0.3636,
+        "profile_path": null,
+        "credit_id": "66fe560d7830c1301e7c78af",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3818980,
+        "known_for_department": "Art",
+        "name": "Jonathan Pyun",
+        "original_name": "Jonathan Pyun",
+        "popularity": 0.2043,
+        "profile_path": null,
+        "credit_id": "66fe5621b146282f7b84d148",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4404548,
+        "known_for_department": "Writing",
+        "name": "Ben Glass",
+        "original_name": "Ben Glass",
+        "popularity": 0.5272,
+        "profile_path": null,
+        "credit_id": "66fe563ae84eeb35a0f7c5b4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3687212,
+        "known_for_department": "Art",
+        "name": "Marc Camelbeke",
+        "original_name": "Marc Camelbeke",
+        "popularity": 0.3683,
+        "profile_path": null,
+        "credit_id": "66fe56547830c1301e7c78c2",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3815447,
+        "known_for_department": "Art",
+        "name": "Derek Moore",
+        "original_name": "Derek Moore",
+        "popularity": 0.3705,
+        "profile_path": null,
+        "credit_id": "66fe5660e84eeb35a0f7c5ba",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1984313,
+        "known_for_department": "Art",
+        "name": "Simon O'Leary",
+        "original_name": "Simon O'Leary",
+        "popularity": 0.2964,
+        "profile_path": null,
+        "credit_id": "66fe566c6fc74e5756f7c73c",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2340994,
+        "known_for_department": "Sound",
+        "name": "Matthew Festle",
+        "original_name": "Matthew Festle",
+        "popularity": 0.4754,
+        "profile_path": null,
+        "credit_id": "6704b3445ae01d090e1d3950",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 187070,
+        "known_for_department": "Writing",
+        "name": "Aaron Blabey",
+        "original_name": "Aaron Blabey",
+        "popularity": 0.6822,
+        "profile_path": null,
+        "credit_id": "690299fed512a54d637d44d3",
+        "department": "Writing",
+        "job": "Book"
+      }
+    ]
+  }
+}

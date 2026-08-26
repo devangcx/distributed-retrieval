@@ -1,0 +1,364 @@
+{
+  "adult": false,
+  "backdrop_path": "/mRJz6v0JAHOuU4D9vOFjQMlCwE5.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 7092,
+  "imdb_id": "tt0406310",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Van Helsing: The London Assignment",
+  "overview": "It tells of the events before the film, in which monster hunter Gabriel Van Helsing travels to London to investigate a series of horrific, and decidedly supernatural murders, being committed by the mad scientist Dr. Jekyll, in the form of his evil alter-ego, Mr. Hyde.",
+  "popularity": 2.6077,
+  "poster_path": "/2MFdzeCL2YTqbbBgiZT8e51MUGO.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 4285,
+      "logo_path": "/2lYBhGMYUUUToRssPb2Oxka5MrP.png",
+      "name": "Universal Cartoon Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2004-05-11",
+  "revenue": 0,
+  "runtime": 30,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Van Helsing: The London Assignment",
+  "video": false,
+  "vote_average": 6.168,
+  "vote_count": 176,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6968,
+        "known_for_department": "Acting",
+        "name": "Hugh Jackman",
+        "original_name": "Hugh Jackman",
+        "popularity": 6.6075,
+        "profile_path": "/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg",
+        "cast_id": 4,
+        "character": "Gabriel Van Helsing (voice)",
+        "credit_id": "52fe4471c3a36847f8096453",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1923,
+        "known_for_department": "Acting",
+        "name": "Robbie Coltrane",
+        "original_name": "Robbie Coltrane",
+        "popularity": 2.9337,
+        "profile_path": "/jOHs3xvlwRiiG2CLtso5zzmGCXg.jpg",
+        "cast_id": 5,
+        "character": "Mr. Hyde (voice)",
+        "credit_id": "52fe4471c3a36847f8096457",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1371,
+        "known_for_department": "Acting",
+        "name": "David Wenham",
+        "original_name": "David Wenham",
+        "popularity": 3.2052,
+        "profile_path": "/F7CWSqUE75HtrcdqIQ7UMZ9aTX.jpg",
+        "cast_id": 6,
+        "character": "Carl (voice)",
+        "credit_id": "52fe4471c3a36847f809645b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15761,
+        "known_for_department": "Acting",
+        "name": "Grey DeLisle",
+        "original_name": "Grey DeLisle",
+        "popularity": 3.1141,
+        "profile_path": "/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg",
+        "cast_id": 7,
+        "character": "First Victim (voice)",
+        "credit_id": "52fe4471c3a36847f809645f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28248,
+        "known_for_department": "Acting",
+        "name": "Dwight Schultz",
+        "original_name": "Dwight Schultz",
+        "popularity": 1.8041,
+        "profile_path": "/kVXkC94gNdSWRvDAs0DqBCduJ4S.jpg",
+        "cast_id": 8,
+        "character": "Dr. Jekyll (voice)",
+        "credit_id": "52fe4471c3a36847f8096463",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31531,
+        "known_for_department": "Acting",
+        "name": "John DiMaggio",
+        "original_name": "John DiMaggio",
+        "popularity": 3.2614,
+        "profile_path": "/qcbQe71nSlULDsP1OxTqltEKFbl.jpg",
+        "cast_id": 9,
+        "character": "Coachman (voice)",
+        "credit_id": "52fe4471c3a36847f8096467",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51956,
+        "known_for_department": "Acting",
+        "name": "Scott Mosenson",
+        "original_name": "Scott Mosenson",
+        "popularity": 0.8143,
+        "profile_path": "/g3zbLatQo3SEcCfdVOvFY4qZSuw.jpg",
+        "cast_id": 10,
+        "character": "Palastwache (voice)",
+        "credit_id": "52fe4471c3a36847f809646b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2629,
+        "known_for_department": "Acting",
+        "name": "Alun Armstrong",
+        "original_name": "Alun Armstrong",
+        "popularity": 1.7717,
+        "profile_path": "/zSIzT6iM53ZdXbC2bEZCzNgW1h6.jpg",
+        "cast_id": 11,
+        "character": "Cardinal Jinetta (voice)",
+        "credit_id": "52fe4471c3a36847f809646f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51957,
+        "known_for_department": "Acting",
+        "name": "Roger L. Jackson",
+        "original_name": "Roger L. Jackson",
+        "popularity": 1.664,
+        "profile_path": "/kDAoLRPVKgfTXRhDep0JNouhyAV.jpg",
+        "cast_id": 12,
+        "character": "Gentleman (voice)",
+        "credit_id": "52fe4471c3a36847f8096473",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 51958,
+        "known_for_department": "Acting",
+        "name": "Julia Fletcher",
+        "original_name": "Julia Fletcher",
+        "popularity": 0.8661,
+        "profile_path": "/rnhgUbel89ZshWIMsHe8DLZPDlG.jpg",
+        "cast_id": 13,
+        "character": "Lady (voice)",
+        "credit_id": "52fe4471c3a36847f8096477",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 34983,
+        "known_for_department": "Acting",
+        "name": "Tress MacNeille",
+        "original_name": "Tress MacNeille",
+        "popularity": 2.6709,
+        "profile_path": "/gI2LsgByvSffQY34vabVnPmrHzw.jpg",
+        "cast_id": 14,
+        "character": "Queen Victoria (voice)",
+        "credit_id": "52fe4471c3a36847f809647b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15762,
+        "known_for_department": "Acting",
+        "name": "Tara Strong",
+        "original_name": "Tara Strong",
+        "popularity": 3.8197,
+        "profile_path": "/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg",
+        "cast_id": 15,
+        "character": "Young Victoria (voice)",
+        "credit_id": "52fe4471c3a36847f809647f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19506,
+        "known_for_department": "Acting",
+        "name": "James Arnold Taylor",
+        "original_name": "James Arnold Taylor",
+        "popularity": 1.8992,
+        "profile_path": "/sSthBDGT8HBd2hXRNPymA6D0ov8.jpg",
+        "cast_id": 16,
+        "character": "Narrator (voice)",
+        "credit_id": "52fe4471c3a36847f8096483",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 51955,
+        "known_for_department": "Art",
+        "name": "Sharon Bridgeman",
+        "original_name": "Sharon Bridgeman",
+        "popularity": 0.4684,
+        "profile_path": null,
+        "credit_id": "52fe4471c3a36847f8096443",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 35276,
+        "known_for_department": "Writing",
+        "name": "Garfield Reeves-Stevens",
+        "original_name": "Garfield Reeves-Stevens",
+        "popularity": 0.6448,
+        "profile_path": null,
+        "credit_id": "52fe4471c3a36847f8096449",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 35278,
+        "known_for_department": "Writing",
+        "name": "Judith Reeves-Stevens",
+        "original_name": "Judith Reeves-Stevens",
+        "popularity": 0.5749,
+        "profile_path": null,
+        "credit_id": "52fe4471c3a36847f809644f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51959,
+        "known_for_department": "Directing",
+        "name": "John Kafka",
+        "original_name": "John Kafka",
+        "popularity": 0.607,
+        "profile_path": null,
+        "credit_id": "52fe4471c3a36847f8096489",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25362,
+        "known_for_department": "Sound",
+        "name": "John Van Tongeren",
+        "original_name": "John Van Tongeren",
+        "popularity": 0.5164,
+        "profile_path": null,
+        "credit_id": "52fe4471c3a36847f809648f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51961,
+        "known_for_department": "Production",
+        "name": "Ken Solomon",
+        "original_name": "Ken Solomon",
+        "popularity": 0.3325,
+        "profile_path": null,
+        "credit_id": "52fe4471c3a36847f8096495",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544,
+        "known_for_department": "Writing",
+        "name": "Bram Stoker",
+        "original_name": "Bram Stoker",
+        "popularity": 1.147,
+        "profile_path": "/qJR6jc8hSFZyyZbthfZPi2QU40U.jpg",
+        "credit_id": "68ca44293e6f72a6b1e4f9ed",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29533,
+        "known_for_department": "Writing",
+        "name": "Robert Louis Stevenson",
+        "original_name": "Robert Louis Stevenson",
+        "popularity": 1.2049,
+        "profile_path": "/4gHYG4Gn1uxmG0k1gilfp8cwdBX.jpg",
+        "credit_id": "68ca443ffa72b626281f20ea",
+        "department": "Writing",
+        "job": "Characters"
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "adult": false,
+  "backdrop_path": "/mZxI4yqDsBkzZx5YkKBlZdFFXbM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 39218,
+  "imdb_id": "tt0485513",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "मैं मेरी पत्नी और वह",
+  "overview": "A nondescript man weds the woman of his dreams, but his insecurities kick into high gear when her charismatic childhood friend arrives.",
+  "popularity": 0.9121,
+  "poster_path": "/hedAEBVB4TzodNZeixNP9xrqZ5t.jpg",
+  "production_companies": [
+    {
+      "id": 2320,
+      "logo_path": "/nSAXfUCy16cNRiPlBMHeb700t9p.png",
+      "name": "UTV Motion Pictures",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2005-10-07",
+  "revenue": 0,
+  "runtime": 128,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Love comes in all sizes",
+  "title": "Main, Meri Patni Aur Woh",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 23,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35756,
+        "known_for_department": "Acting",
+        "name": "Rajpal Yadav",
+        "original_name": "राजपाल यादव",
+        "popularity": 1.388,
+        "profile_path": "/aJJAU9EPiiXRsWDuy60mXE8U6lT.jpg",
+        "cast_id": 7,
+        "character": "Mithilesh",
+        "credit_id": "52fe47039251416c910675e7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1390456,
+        "known_for_department": "Acting",
+        "name": "Rituparna Sengupta",
+        "original_name": "Rituparna Sengupta",
+        "popularity": 0.6706,
+        "profile_path": "/b40dqU9ZHFWC3ujcYGpzvJv6Lma.jpg",
+        "cast_id": 12,
+        "character": "Veena",
+        "credit_id": "5a47b1ec0e0a26172100e850",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86020,
+        "known_for_department": "Acting",
+        "name": "Kay Kay Menon",
+        "original_name": "Kay Kay Menon",
+        "popularity": 1.2111,
+        "profile_path": "/lcCMzGpxHXTStLMN7G9SQovxSQo.jpg",
+        "cast_id": 11,
+        "character": "Akash",
+        "credit_id": "52fe47039251416c910675f7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80389,
+        "known_for_department": "Acting",
+        "name": "Vinod Nagpal",
+        "original_name": "Vinod Nagpal",
+        "popularity": 0.8945,
+        "profile_path": "/qKutm7klBg0XiMThbbQ8m2kgZWP.jpg",
+        "cast_id": 9,
+        "character": "Kishorilal Mishra",
+        "credit_id": "52fe47039251416c910675ef",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 122498,
+        "known_for_department": "Acting",
+        "name": "Varun Badola",
+        "original_name": "Varun Badola",
+        "popularity": 0.4985,
+        "profile_path": "/dzSBwofeP4dh3bP8TG6VxkHSjLy.jpg",
+        "cast_id": 10,
+        "character": "Salim",
+        "credit_id": "52fe47039251416c910675f3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2031871,
+        "known_for_department": "Acting",
+        "name": "Veena Mehta",
+        "original_name": "Veena Mehta",
+        "popularity": 0.4993,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Mithilesh's Mother",
+        "credit_id": "6a2ba38b0413afc484e3b921",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1169119,
+        "known_for_department": "Acting",
+        "name": "Anil Rastogi",
+        "original_name": "Anil Rastogi",
+        "popularity": 0.5775,
+        "profile_path": "/8Mte0kdmV0YKEuM3Iei3W2KUcHP.jpg",
+        "cast_id": 19,
+        "character": "Veena's Father",
+        "credit_id": "6a2ba3b5bd9c742d41e5d065",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 122496,
+        "known_for_department": "Editing",
+        "name": "Chandan Arora",
+        "original_name": "Chandan Arora",
+        "popularity": 0.6204,
+        "profile_path": null,
+        "credit_id": "52fe47039251416c910675e3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53677,
+        "known_for_department": "Production",
+        "name": "Ronnie Screwvala",
+        "original_name": "Ronnie Screwvala",
+        "popularity": 0.6028,
+        "profile_path": "/yBlADqlWOXWAgDOt3RnBb51JgOu.jpg",
+        "credit_id": "60bf76348a88b20077c41037",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2163265,
+        "known_for_department": "Writing",
+        "name": "Pankaj Saraswat",
+        "original_name": "Pankaj Saraswat",
+        "popularity": 0.4293,
+        "profile_path": null,
+        "credit_id": "671c0e106e4210780f790cb2",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

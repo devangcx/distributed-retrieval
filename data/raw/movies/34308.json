@@ -1,0 +1,493 @@
+{
+  "adult": false,
+  "backdrop_path": "/volZgUC7W4QMIwWr3hAZPSZ6tb4.jpg",
+  "belongs_to_collection": null,
+  "budget": 12000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 34308,
+  "imdb_id": "tt0367188",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Modigliani",
+  "overview": "Set in Paris in 1919, biopic centers on the life of late Italian artist Amedeo Modigliani, focusing on his last days as well as his rivalry with Pablo Picasso. Modigliani, a Jew, has fallen in love with Jeanne, a young and beautiful Catholic girl. The couple has an illegitimate child, and Jeanne's bigoted parents send the baby to a faraway convent to be raised by nuns.",
+  "popularity": 2.6303,
+  "poster_path": "/dyvkjImdzdERJnRPwx5Tj39c8a0.jpg",
+  "production_companies": [
+    {
+      "id": 35002,
+      "logo_path": null,
+      "name": "Lucky 7 Productions LLC",
+      "origin_country": ""
+    },
+    {
+      "id": 3244,
+      "logo_path": null,
+      "name": "Media Pro Pictures",
+      "origin_country": "RO"
+    },
+    {
+      "id": 34999,
+      "logo_path": "/z5jayq9LD7fjOieyHkBKmILBllF.png",
+      "name": "Bauer Martinez Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 74662,
+      "logo_path": null,
+      "name": "Buskin Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "RO",
+      "name": "Romania"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2004-05-18",
+  "revenue": 0,
+  "runtime": 128,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "His passion was life. His obsession was art.",
+  "title": "Modigliani",
+  "video": false,
+  "vote_average": 7.038,
+  "vote_count": 211,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1271,
+        "known_for_department": "Acting",
+        "name": "Andy Garcia",
+        "original_name": "Andy Garcia",
+        "popularity": 4.6843,
+        "profile_path": "/9EivXoBlczZcFBet96WOoFbDsfF.jpg",
+        "cast_id": 1,
+        "character": "Amedeo Modigliani",
+        "credit_id": "52fe455f9251416c91030061",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39195,
+        "known_for_department": "Acting",
+        "name": "Elsa Zylberstein",
+        "original_name": "Elsa Zylberstein",
+        "popularity": 1.3014,
+        "profile_path": "/bw1bIuyfyOyxRlx2qIKk4AwQLTU.jpg",
+        "cast_id": 2,
+        "character": "Jeanne Hébuterne",
+        "credit_id": "52fe455f9251416c91030065",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41379,
+        "known_for_department": "Acting",
+        "name": "Omid Djalili",
+        "original_name": "Omid Djalili",
+        "popularity": 1.4482,
+        "profile_path": "/lCgVvAw8EkIKbc93ZtINdwxH1CV.jpg",
+        "cast_id": 3,
+        "character": "Pablo Picasso",
+        "credit_id": "52fe455f9251416c91030069",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23388,
+        "known_for_department": "Acting",
+        "name": "Hippolyte Girardot",
+        "original_name": "Hippolyte Girardot",
+        "popularity": 0.8874,
+        "profile_path": "/2n4CBW1GEUTkUnNv2HxPpFMnRNm.jpg",
+        "cast_id": 4,
+        "character": "Maurice Utrillo",
+        "credit_id": "52fe455f9251416c9103006d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 112225,
+        "known_for_department": "Acting",
+        "name": "Eva Herzigová",
+        "original_name": "Eva Herzigová",
+        "popularity": 1.0323,
+        "profile_path": "/ojew5lY70irucdauCnGL14T6Uz3.jpg",
+        "cast_id": 5,
+        "character": "Olga Picasso",
+        "credit_id": "52fe455f9251416c91030071",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6199,
+        "known_for_department": "Acting",
+        "name": "Miriam Margolyes",
+        "original_name": "Miriam Margolyes",
+        "popularity": 1.8717,
+        "profile_path": "/vsnCGCp0nhJTag56HP8XFhXnZo9.jpg",
+        "cast_id": 8,
+        "character": "Gertrude Stein",
+        "credit_id": "530713eec3a3684d700002f4",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1646,
+        "known_for_department": "Acting",
+        "name": "Udo Kier",
+        "original_name": "Udo Kier",
+        "popularity": 2.4667,
+        "profile_path": "/lIOGDMvrVHMgPXdhicLI41tY1zf.jpg",
+        "cast_id": 9,
+        "character": "Max Jacob",
+        "credit_id": "56273fea92514137cd00186d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 141540,
+        "known_for_department": "Acting",
+        "name": "Susie Amy",
+        "original_name": "Susie Amy",
+        "popularity": 0.7331,
+        "profile_path": "/7pZOQXWNaixOLEYZgIOpBe7FpTv.jpg",
+        "cast_id": 10,
+        "character": "Beatrice Hastings",
+        "credit_id": "56274022c3a36827880018af",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12982,
+        "known_for_department": "Acting",
+        "name": "Peter Capaldi",
+        "original_name": "Peter Capaldi",
+        "popularity": 2.0628,
+        "profile_path": "/r5bEXZBOSA89SZvv4jjqa4iSgst.jpg",
+        "cast_id": 11,
+        "character": "Jean Cocteau",
+        "credit_id": "5627404cc3a36827910018fd",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20070,
+        "known_for_department": "Acting",
+        "name": "Jim Carter",
+        "original_name": "Jim Carter",
+        "popularity": 2.0705,
+        "profile_path": "/okiL3gc0mNqP0kPfMQHHvFjKnHb.jpg",
+        "cast_id": 19,
+        "character": "Achilles Hebuterne",
+        "credit_id": "5a39e0cd925141547207ea2a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1525112,
+        "known_for_department": "Acting",
+        "name": "Louis Hilyer",
+        "original_name": "Louis Hilyer",
+        "popularity": 0.4977,
+        "profile_path": "/5Oa3GrsnPwwrt21r5bSAmsZZrjH.jpg",
+        "cast_id": 12,
+        "character": "Zborowski",
+        "credit_id": "5627406992514137c40017f1",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78097,
+        "known_for_department": "Acting",
+        "name": "Stevan Rimkus",
+        "original_name": "Stevan Rimkus",
+        "popularity": 0.9271,
+        "profile_path": "/vgaNZIZTZXSL1JK7NRRcpcb8hvL.jpg",
+        "cast_id": 13,
+        "character": "Soutine",
+        "credit_id": "5627408692514137c70018f9",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41199,
+        "known_for_department": "Acting",
+        "name": "Dan Aştileanu",
+        "original_name": "Dan Aştileanu",
+        "popularity": 0.5247,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Diego Rivera",
+        "credit_id": "562740abc3a368278f0018b1",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1286904,
+        "known_for_department": "Acting",
+        "name": "George Ivașcu",
+        "original_name": "George Ivașcu",
+        "popularity": 0.7242,
+        "profile_path": "/siT1993IZ0N0cPoxNlJqf4CG28z.jpg",
+        "cast_id": 15,
+        "character": "Moise Kisling",
+        "credit_id": "562740c392514137c7001901",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1525113,
+        "known_for_department": "Acting",
+        "name": "Frederico Ambrosino",
+        "original_name": "Frederico Ambrosino",
+        "popularity": 0.2744,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Little Dedo",
+        "credit_id": "562740f692514112be0012f5",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 186163,
+        "known_for_department": "Acting",
+        "name": "Michelle Newell",
+        "original_name": "Michelle Newell",
+        "popularity": 0.7639,
+        "profile_path": "/qLhaz2YGNMjttOPvtLK5JL1KFUx.jpg",
+        "cast_id": 18,
+        "character": "Eudoxie Hébuterne",
+        "credit_id": "5680fdd0c3a3682abc008ccb",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2057188,
+        "known_for_department": "Acting",
+        "name": "Dominique Schwoebel",
+        "original_name": "Dominique Schwoebel",
+        "popularity": 0.243,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Salon Manager",
+        "credit_id": "68594a0d62da0ff9b8cb51c1",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59248,
+        "known_for_department": "Writing",
+        "name": "Mick Davis",
+        "original_name": "Mick Davis",
+        "popularity": 0.9452,
+        "profile_path": null,
+        "credit_id": "52fe455f9251416c9103007d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59248,
+        "known_for_department": "Writing",
+        "name": "Mick Davis",
+        "original_name": "Mick Davis",
+        "popularity": 0.9452,
+        "profile_path": null,
+        "credit_id": "52fe455f9251416c91030077",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3881672,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Giovanni Scotti",
+        "original_name": "Giovanni Scotti",
+        "popularity": 0.3025,
+        "profile_path": null,
+        "credit_id": "63c9aa55bb070d00c8a0bee5",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Master"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16597,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Giannetto De Rossi",
+        "original_name": "Giannetto De Rossi",
+        "popularity": 0.6265,
+        "profile_path": "/unjx1w1E6rsHajAXgZm7IfTtQ1Y.jpg",
+        "credit_id": "67a318892588c0d32b8a6d04",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1271,
+        "known_for_department": "Acting",
+        "name": "Andy Garcia",
+        "original_name": "Andy Garcia",
+        "popularity": 4.6843,
+        "profile_path": "/9EivXoBlczZcFBet96WOoFbDsfF.jpg",
+        "credit_id": "67a318b8dc24ee93d1810deb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59982,
+        "known_for_department": "Camera",
+        "name": "Emmanuel Kadosh",
+        "original_name": "Emmanuel Kadosh",
+        "popularity": 0.5932,
+        "profile_path": null,
+        "credit_id": "67a318cbe17dd4fbd8810cbf",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 57087,
+        "known_for_department": "Editing",
+        "name": "Emma E. Hickox",
+        "original_name": "Emma E. Hickox",
+        "popularity": 0.5129,
+        "profile_path": null,
+        "credit_id": "67a318d9dc24ee93d1810df9",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32259,
+        "known_for_department": "Sound",
+        "name": "Guy Farley",
+        "original_name": "Guy Farley",
+        "popularity": 0.44,
+        "profile_path": "/oQkAvuCZPvGSBUvIFIAQXhdMg6j.jpg",
+        "credit_id": "67a318e87c860960298a6e10",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 422701,
+        "known_for_department": "Art",
+        "name": "Luigi Marchione",
+        "original_name": "Luigi Marchione",
+        "popularity": 0.4681,
+        "profile_path": null,
+        "credit_id": "67a318f62588c0d32b8a6d18",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 32311,
+        "known_for_department": "Art",
+        "name": "Giantito Burchiellaro",
+        "original_name": "Giantito Burchiellaro",
+        "popularity": 0.3224,
+        "profile_path": null,
+        "credit_id": "67a319082588c0d32b8a6d1d",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1529787,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Pam Downe",
+        "original_name": "Pam Downe",
+        "popularity": 0.4261,
+        "profile_path": null,
+        "credit_id": "67a3191a2588c0d32b8a6d2b",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2469813,
+        "known_for_department": "Directing",
+        "name": "Sallie Hard",
+        "original_name": "Sallie Hard",
+        "popularity": 0.7176,
+        "profile_path": null,
+        "credit_id": "6982a7b65b00486563ded200",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      }
+    ]
+  }
+}

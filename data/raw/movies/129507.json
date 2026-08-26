@@ -1,0 +1,403 @@
+{
+  "adult": false,
+  "backdrop_path": "/hduMeCHbr3ISsjyblQ2DxmTRvAb.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 129507,
+  "imdb_id": "tt1918886",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Joker",
+  "overview": "In 1947 when the maps of India and Pakistan were being drawn, an oversight ensured that the village of Paglapur didn't find a place in either country. Over 60 years later, Paglapur is isolated, and in need of help. The residents seek help, but as a direct result of being left off the map, they find no one willing to accept Paglapur, and its problems, as their jurisdiction. The villagers decide they need to draw media attention to Paglapur, and in so doing, gain acceptance and help from those who had previously denied them.",
+  "popularity": 1.0771,
+  "poster_path": "/gA3xoiTWuaqEAiBXUqTv0gfZRSA.jpg",
+  "production_companies": [
+    {
+      "id": 3942,
+      "logo_path": null,
+      "name": "Hari Om Entertainment",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2012-08-31",
+  "revenue": 0,
+  "runtime": 104,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Joker",
+  "video": false,
+  "vote_average": 4.223,
+  "vote_count": 56,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35070,
+        "known_for_department": "Acting",
+        "name": "Akshay Kumar",
+        "original_name": "अक्षय कुमार",
+        "popularity": 2.5711,
+        "profile_path": "/sR8nASRtTpiwXqkFHjG2jdRBZ7a.jpg",
+        "cast_id": 2,
+        "character": "Agastya",
+        "credit_id": "52fe4b3fc3a368484e17f375",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130958,
+        "known_for_department": "Acting",
+        "name": "Sonakshi Sinha",
+        "original_name": "सोनाक्षी सिन्हा",
+        "popularity": 1.9924,
+        "profile_path": "/7HaI5owaKzOb6Qdtwifp29uhHk2.jpg",
+        "cast_id": 3,
+        "character": "Manali",
+        "credit_id": "52fe4b3fc3a368484e17f379",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53974,
+        "known_for_department": "Acting",
+        "name": "Shreyas Talpade",
+        "original_name": "Shreyas Talpade",
+        "popularity": 0.9878,
+        "profile_path": "/rKORFoIrI4GlcIfzzyVwCQNL9no.jpg",
+        "cast_id": 4,
+        "character": "Babban",
+        "credit_id": "5b40c5ef0e0a26711d0057c6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85036,
+        "known_for_department": "Acting",
+        "name": "Minissha Lamba",
+        "original_name": "Minissha Lamba",
+        "popularity": 0.7567,
+        "profile_path": "/8wcM5Yy58jVUAwKSMWNhbHmoURJ.jpg",
+        "cast_id": 5,
+        "character": "Saniya",
+        "credit_id": "5b40c5f70e0a2670fc0058ef",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85879,
+        "known_for_department": "Acting",
+        "name": "Sanjay Mishra",
+        "original_name": "Sanjay Mishra",
+        "popularity": 1.3322,
+        "profile_path": "/4MGKohKGU4v9SoXcQKCcC4e4Bpi.jpg",
+        "cast_id": 6,
+        "character": "Raja",
+        "credit_id": "5b40c6029251414f4f006348",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92692,
+        "known_for_department": "Acting",
+        "name": "Arya Babbar",
+        "original_name": "Arya Babbar",
+        "popularity": 1.0642,
+        "profile_path": "/fPnrbaQVKuZKdKDCkwGhnqsGqVS.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "5b40c61c9251414f3c005abf",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225163,
+        "known_for_department": "Acting",
+        "name": "Pitobash",
+        "original_name": "Pitobash",
+        "popularity": 0.7802,
+        "profile_path": "/p6BMCwXziu3tiqOfXYbHaS3ZZX1.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "5b40c62bc3a3684095005c95",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 110850,
+        "known_for_department": "Acting",
+        "name": "Chitrangada Singh",
+        "original_name": "चित्रांगदा सिंह",
+        "popularity": 1.0585,
+        "profile_path": "/r9ekq6jFvY8MOpaRSORwNIYPr0P.jpg",
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "5b40c6360e0a2671010058d0",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8311,
+        "known_for_department": "Crew",
+        "name": "Farah Khan",
+        "original_name": "Farah Khan",
+        "popularity": 1.0383,
+        "profile_path": "/rkAVUE9OfKYuYSCm0zEyjMZE3tC.jpg",
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "5b40c63dc3a3684090006718",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130115,
+        "known_for_department": "Acting",
+        "name": "Alexx O'Nell",
+        "original_name": "Alexx O'Nell",
+        "popularity": 0.6031,
+        "profile_path": "/bHMSI8fDQpVMjbdzu2trX6T9bgm.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "5b40c64ac3a368409e004534",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140648,
+        "known_for_department": "Acting",
+        "name": "Vindu Dara Singh",
+        "original_name": "Vindu Dara Singh",
+        "popularity": 0.5964,
+        "profile_path": "/fF6DszQw3ewg8K5ZrvYuu1yXo8R.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "5b40c656c3a36840a70053bd",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86019,
+        "known_for_department": "Acting",
+        "name": "Asrani",
+        "original_name": "Govardhan Asrani",
+        "popularity": 0.9031,
+        "profile_path": "/zoZRnIHNkCRq4gKZGaQhbtPrIDj.jpg",
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "5b40c65e0e0a2670f90057b3",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92686,
+        "known_for_department": "Acting",
+        "name": "Darshan Jariwala",
+        "original_name": "दर्शन जरीवाला",
+        "popularity": 0.8386,
+        "profile_path": "/wUjcLcLzM2E7kEde5aq33AyYcDf.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "5b40c66a0e0a2670f90057bc",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77240,
+        "known_for_department": "Acting",
+        "name": "Gurpreet Ghuggi",
+        "original_name": "Gurpreet Ghuggi",
+        "popularity": 0.6592,
+        "profile_path": "/7ZENS2dXJ4BU3Hg6dgJwtyvEGBm.jpg",
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "5b40c67e0e0a267110005d2e",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 9897,
+        "known_for_department": "Editing",
+        "name": "Shirish Kunder",
+        "original_name": "Shirish Kunder",
+        "popularity": 0.6403,
+        "profile_path": null,
+        "credit_id": "52fe4b3fc3a368484e17f371",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 9897,
+        "known_for_department": "Editing",
+        "name": "Shirish Kunder",
+        "original_name": "Shirish Kunder",
+        "popularity": 0.6403,
+        "profile_path": null,
+        "credit_id": "603436a2a14e10003fce87b5",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 9897,
+        "known_for_department": "Editing",
+        "name": "Shirish Kunder",
+        "original_name": "Shirish Kunder",
+        "popularity": 0.6403,
+        "profile_path": null,
+        "credit_id": "603437101130bd003f438514",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 9897,
+        "known_for_department": "Editing",
+        "name": "Shirish Kunder",
+        "original_name": "Shirish Kunder",
+        "popularity": 0.6403,
+        "profile_path": null,
+        "credit_id": "6034372bc1ffbd003f48bcee",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 9897,
+        "known_for_department": "Editing",
+        "name": "Shirish Kunder",
+        "original_name": "Shirish Kunder",
+        "popularity": 0.6403,
+        "profile_path": null,
+        "credit_id": "60343740d7f465003f70526d",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584950,
+        "known_for_department": "Sound",
+        "name": "G. V. Prakash Kumar",
+        "original_name": "G. V. Prakash Kumar",
+        "popularity": 1.1971,
+        "profile_path": "/ArX3l6CdNo0sGI8b6PFYveR9Azm.jpg",
+        "credit_id": "60343751a14e100040ce91c2",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89151,
+        "known_for_department": "Camera",
+        "name": "Sudeep Chatterjee",
+        "original_name": "Sudeep Chatterjee",
+        "popularity": 0.4845,
+        "profile_path": "/15GgrkFoxuNBETljcK6Ety2KyPN.jpg",
+        "credit_id": "6034384c1130bd0041437cb9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 9897,
+        "known_for_department": "Editing",
+        "name": "Shirish Kunder",
+        "original_name": "Shirish Kunder",
+        "popularity": 0.6403,
+        "profile_path": null,
+        "credit_id": "6034386da14e10003fce8a2c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 9897,
+        "known_for_department": "Editing",
+        "name": "Shirish Kunder",
+        "original_name": "Shirish Kunder",
+        "popularity": 0.6403,
+        "profile_path": null,
+        "credit_id": "603438bf394a87004073d3c2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35070,
+        "known_for_department": "Acting",
+        "name": "Akshay Kumar",
+        "original_name": "अक्षय कुमार",
+        "popularity": 2.5711,
+        "profile_path": "/sR8nASRtTpiwXqkFHjG2jdRBZ7a.jpg",
+        "credit_id": "603438d2c1ffbd003c48bf33",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8311,
+        "known_for_department": "Crew",
+        "name": "Farah Khan",
+        "original_name": "Farah Khan",
+        "popularity": 1.0383,
+        "profile_path": "/rkAVUE9OfKYuYSCm0zEyjMZE3tC.jpg",
+        "credit_id": "603438e8d7f465003e704e0b",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

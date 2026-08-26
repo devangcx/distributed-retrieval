@@ -1,0 +1,364 @@
+{
+  "adult": false,
+  "backdrop_path": "/nqOxPXfCR8hyPyYtfESOQsZULSy.jpg",
+  "belongs_to_collection": null,
+  "budget": 2100000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://www.kaleidoscopefilmdistribution.com/movie/stardog-and-turbocat",
+  "id": 515789,
+  "imdb_id": "tt7531096",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "StarDog and TurboCat",
+  "overview": "When vigilante cat, Felix, and loyal canine, Buddy, set out to find Buddy’s lost owner, they discover not only the power of friendship, but their inner superpowers along the way.",
+  "popularity": 4.1047,
+  "poster_path": "/aM0Ksnnuc7NtRibMUhXGmAYAMrx.jpg",
+  "production_companies": [
+    {
+      "id": 5056,
+      "logo_path": "/ok7CQyn0RPEuI0upznPoo93YE6H.png",
+      "name": "Head Gear Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 25954,
+      "logo_path": "/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png",
+      "name": "Metrol Technology",
+      "origin_country": "GB"
+    },
+    {
+      "id": 115965,
+      "logo_path": "/cgUf9kfDknzYxShoCdhHFvqNwTm.png",
+      "name": "Red Star 3D",
+      "origin_country": "GB"
+    },
+    {
+      "id": 119056,
+      "logo_path": "/vbhwOf0TQ4z12GIytYGWmhPJAOz.png",
+      "name": "Particular Crowd",
+      "origin_country": "US"
+    },
+    {
+      "id": 254320,
+      "logo_path": null,
+      "name": "Metro Applied Intelligence",
+      "origin_country": ""
+    },
+    {
+      "id": 254322,
+      "logo_path": null,
+      "name": "Kaleidoscope Film Distribution",
+      "origin_country": ""
+    },
+    {
+      "id": 254323,
+      "logo_path": null,
+      "name": "Screen Orkshire",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2019-12-06",
+  "revenue": 585443,
+  "runtime": 88,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The greatest superheroes ever unleashed!",
+  "title": "StarDog and TurboCat",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 100,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114019,
+        "known_for_department": "Acting",
+        "name": "Luke Evans",
+        "original_name": "Luke Evans",
+        "popularity": 3.8637,
+        "profile_path": "/qUkYJcrDc4M0LHNYASs30luFvw0.jpg",
+        "cast_id": 1,
+        "character": "Felix (voice)",
+        "credit_id": "5e1e6bb166751d0015be46bb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11109,
+        "known_for_department": "Acting",
+        "name": "Nick Frost",
+        "original_name": "Nick Frost",
+        "popularity": 3.7268,
+        "profile_path": "/2CHS4t6miNGLgMQAjhFqb4fFuKS.jpg",
+        "cast_id": 2,
+        "character": "Buddy (voice)",
+        "credit_id": "5e1e6bbdd9f4a600159a482a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 59620,
+        "known_for_department": "Acting",
+        "name": "Gemma Arterton",
+        "original_name": "Gemma Arterton",
+        "popularity": 4.0446,
+        "profile_path": "/dbBjz1EC9SqoudIaJ75NOB56bbh.jpg",
+        "cast_id": 3,
+        "character": "Cassidy (voice)",
+        "credit_id": "5e1e6bc866751d0013be6899",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2440,
+        "known_for_department": "Acting",
+        "name": "Bill Nighy",
+        "original_name": "Bill Nighy",
+        "popularity": 5.244,
+        "profile_path": "/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg",
+        "cast_id": 4,
+        "character": "Sinclair (voice)",
+        "credit_id": "5e1e6bd4d9f4a600139a2c11",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1514177,
+        "known_for_department": "Acting",
+        "name": "Ben Bailey Smith",
+        "original_name": "Ben Bailey Smith",
+        "popularity": 0.9431,
+        "profile_path": "/7fZMM4HAVyYscZ2boJXzvLwl45w.jpg",
+        "cast_id": 20,
+        "character": "Bullion (voice)",
+        "credit_id": "5f62a4acce5d8200379df5ce",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2579531,
+        "known_for_department": "Acting",
+        "name": "Rachael Louise Miller",
+        "original_name": "Rachael Louise Miller",
+        "popularity": 0.6659,
+        "profile_path": "/3esHk6ixcvVHiOqo8XUvcThHD8n.jpg",
+        "cast_id": 22,
+        "character": "Tinker (voice)",
+        "credit_id": "626a8de690dde000a6e349a0",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1850295,
+        "known_for_department": "Acting",
+        "name": "Cory English",
+        "original_name": "Cory English",
+        "popularity": 0.5667,
+        "profile_path": "/sXXGri3RQmawat3Q9JM9QVZIJlM.jpg",
+        "cast_id": 12,
+        "character": "Peck (voice)",
+        "credit_id": "5e7b7be48c44b900174df313",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2579529,
+        "known_for_department": "Acting",
+        "name": "Morgan Cambs",
+        "original_name": "Morgan Cambs",
+        "popularity": 0.4217,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Alex (voice)",
+        "credit_id": "5e7ce1d5eec4f355eaa9730a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2266314,
+        "known_for_department": "Directing",
+        "name": "Ben Smith",
+        "original_name": "Ben Smith",
+        "popularity": 0.4569,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "David (voice)",
+        "credit_id": "5e7ce38ff794ad0011eeab5c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1254161,
+        "known_for_department": "Acting",
+        "name": "Dan Russell",
+        "original_name": "Dan Russell",
+        "popularity": 0.9157,
+        "profile_path": "/mPh8i23ot7WQbQMu0R9ggay5Z95.jpg",
+        "cast_id": 13,
+        "character": "Victor (voice)",
+        "credit_id": "5e7b7bfaeec4f30018a9c306",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1395428,
+        "known_for_department": "Acting",
+        "name": "Robert G. Slade",
+        "original_name": "Robert G. Slade",
+        "popularity": 0.6746,
+        "profile_path": "/756w8isxnLHsfaL7M8MZUPi692A.jpg",
+        "cast_id": 14,
+        "character": "Todd (voice)",
+        "credit_id": "5e7b7c04ab1bc70015c1c45e",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2579527,
+        "known_for_department": "Acting",
+        "name": "Charli D'Amelio",
+        "original_name": "Charli D'Amelio",
+        "popularity": 1.8392,
+        "profile_path": "/lL1vhkPKN6FXZMGV1wUlhaLJGDi.jpg",
+        "cast_id": 21,
+        "character": "(voice)",
+        "credit_id": "613adbffaaf897002af65d39",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2266314,
+        "known_for_department": "Directing",
+        "name": "Ben Smith",
+        "original_name": "Ben Smith",
+        "popularity": 0.4569,
+        "profile_path": null,
+        "credit_id": "5e1e6c25e559370013233bb1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 951484,
+        "known_for_department": "Production",
+        "name": "Phil Hunt",
+        "original_name": "Phil Hunt",
+        "popularity": 1.0724,
+        "profile_path": "/f5CL2pPFzcte7a0lBE2BzIZ5YJq.jpg",
+        "credit_id": "5e1e6c4ae559370013233c50",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 986415,
+        "known_for_department": "Production",
+        "name": "Compton Ross",
+        "original_name": "Compton Ross",
+        "popularity": 0.8401,
+        "profile_path": "/v0EW6qBxMfQcT1nrytBAFj2w6eE.jpg",
+        "credit_id": "5e1e6c56d9f4a600139a2e1b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1273063,
+        "known_for_department": "Sound",
+        "name": "Heather Fenoughty",
+        "original_name": "Heather Fenoughty",
+        "popularity": 0.2668,
+        "profile_path": null,
+        "credit_id": "5e1e6c31511d090014823024",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2266317,
+        "known_for_department": "Sound",
+        "name": "Wilfredo Acosta",
+        "original_name": "Wilfredo Acosta",
+        "popularity": 0.6165,
+        "profile_path": null,
+        "credit_id": "5e1e6c3dd9f4a600159a4987",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2266314,
+        "known_for_department": "Directing",
+        "name": "Ben Smith",
+        "original_name": "Ben Smith",
+        "popularity": 0.4569,
+        "profile_path": null,
+        "credit_id": "5e1e6c1be559370013233b94",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2266315,
+        "known_for_department": "Production",
+        "name": "Jan Rogowski",
+        "original_name": "Jan Rogowski",
+        "popularity": 0.4706,
+        "profile_path": null,
+        "credit_id": "67f5486da5471a51ee999abf",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

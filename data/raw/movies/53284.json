@@ -1,0 +1,358 @@
+{
+  "adult": false,
+  "backdrop_path": "/bkGgYyFsgCfEwMDhpJuLFsFVMGw.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 53284,
+  "imdb_id": "tt1714832",
+  "origin_country": [
+    "US",
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Do Dooni Chaar",
+  "overview": "A middle-class father in India struggles through a series of unexpected events for upholding respect and smiles.",
+  "popularity": 0.7846,
+  "poster_path": "/LeCB4YVGeabEEs0iuI4OapKrrX.jpg",
+  "production_companies": [
+    {
+      "id": 2212,
+      "logo_path": null,
+      "name": "Planman Motion Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 89347,
+      "logo_path": null,
+      "name": "Disney World Cinema",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2010-10-08",
+  "revenue": 0,
+  "runtime": 111,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Two Twos are Four",
+  "title": "Do Dooni Chaar",
+  "video": false,
+  "vote_average": 6.781,
+  "vote_count": 32,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35791,
+        "known_for_department": "Acting",
+        "name": "Rishi Kapoor",
+        "original_name": "Rishi Kapoor",
+        "popularity": 1.1195,
+        "profile_path": "/yQOKkmQaksa3hOi72MbPnrqz77k.jpg",
+        "cast_id": 1001,
+        "character": "Santosh Duggal",
+        "credit_id": "52fe485dc3a36847f8163a89",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 88812,
+        "known_for_department": "Acting",
+        "name": "Neetu Singh",
+        "original_name": "नीतू कपूर",
+        "popularity": 0.9125,
+        "profile_path": "/sErXXqb3YkKCYAvlFv7FrZHHxhg.jpg",
+        "cast_id": 1002,
+        "character": "Kusum Duggal",
+        "credit_id": "52fe485dc3a36847f8163a8d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 229112,
+        "known_for_department": "Acting",
+        "name": "Aditi Vasudev",
+        "original_name": "Aditi Vasudev",
+        "popularity": 0.7061,
+        "profile_path": "/cSSCRwW4Uxe6h1b444BapCYskfL.jpg",
+        "cast_id": 1003,
+        "character": "Payal Duggal",
+        "credit_id": "52fe485dc3a36847f8163a91",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2850498,
+        "known_for_department": "Acting",
+        "name": "Archit Krishna",
+        "original_name": "Archit Krishna",
+        "popularity": 0.2993,
+        "profile_path": null,
+        "cast_id": 1005,
+        "character": "Sandy",
+        "credit_id": "5fa9fca394d8a80040e2c37e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2217420,
+        "known_for_department": "Acting",
+        "name": "Supriya Shukla",
+        "original_name": "Supriya Shukla",
+        "popularity": 0.6205,
+        "profile_path": "/gwEC4C1nETkXLZN9Cv1InGH6JSe.jpg",
+        "cast_id": 1004,
+        "character": "Urmi",
+        "credit_id": "5e1c2c416a300b00165ddd0e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 129726,
+        "known_for_department": "Acting",
+        "name": "Rajesh Vivek",
+        "original_name": "Rajesh Vivek",
+        "popularity": 0.5277,
+        "profile_path": "/vMlXTIBYVx2B8JUtHri8xuEe6e8.jpg",
+        "cast_id": 1006,
+        "character": "Anchor",
+        "credit_id": "5fa9fcb43a340b0042c570f1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85724,
+        "known_for_department": "Acting",
+        "name": "Akhilendra Mishra",
+        "original_name": "Akhilendra Mishra",
+        "popularity": 0.6303,
+        "profile_path": "/98XU1EhlP6i6CqEvuYtyCzoTlf.jpg",
+        "cast_id": 1007,
+        "character": "Farooqui",
+        "credit_id": "5fa9fccc5346610041ebe5eb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 956782,
+        "known_for_department": "Acting",
+        "name": "Natasha Rastogi",
+        "original_name": "Natasha Rastogi",
+        "popularity": 0.62,
+        "profile_path": "/4pZCEfGjmA8KVhput4Xjbkj62wF.jpg",
+        "cast_id": 1008,
+        "character": "Salma Farooqui",
+        "credit_id": "5fa9fce321621d003ef8fad6",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1611830,
+        "known_for_department": "Acting",
+        "name": "Mohit Chadda",
+        "original_name": "Mohit Chadda",
+        "popularity": 0.5188,
+        "profile_path": null,
+        "cast_id": 1019,
+        "character": "Rahul",
+        "credit_id": "65ca8abcf44f2700ca2d72f9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4523307,
+        "known_for_department": "Acting",
+        "name": "Manju Bahuguna",
+        "original_name": "Manju Bahuguna",
+        "popularity": 0.1715,
+        "profile_path": null,
+        "cast_id": 1020,
+        "character": "Teacher at school",
+        "credit_id": "65ca8ae5fd140b017dd79f21",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147709,
+        "known_for_department": "Writing",
+        "name": "Habib Faisal",
+        "original_name": "Habib Faisal",
+        "popularity": 0.6015,
+        "profile_path": null,
+        "credit_id": "52fe485dc3a36847f8163a85",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1959814,
+        "known_for_department": "Sound",
+        "name": "Anjjan Bhattacharya",
+        "original_name": "Anjjan Bhattacharya",
+        "popularity": 0.3628,
+        "profile_path": null,
+        "credit_id": "5fe5cca5d70594003d022b16",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1414454,
+        "known_for_department": "Sound",
+        "name": "Ankit Tiwari",
+        "original_name": "Ankit Tiwari",
+        "popularity": 0.3813,
+        "profile_path": "/d8oWnCDRlsbtsOEirZQK428p9YF.jpg",
+        "credit_id": "5fe5cc305be00e0041a25561",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147709,
+        "known_for_department": "Writing",
+        "name": "Habib Faisal",
+        "original_name": "Habib Faisal",
+        "popularity": 0.6015,
+        "profile_path": null,
+        "credit_id": "5fe5cbd770309f003e832c48",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 71275,
+        "known_for_department": "Editing",
+        "name": "Aarti Bajaj",
+        "original_name": "Aarti Bajaj",
+        "popularity": 0.7322,
+        "profile_path": "/hBQtmxZRTdgUftIChKGfO2AgsQ6.jpg",
+        "credit_id": "5fe5cd09d70594003f028ca5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2909507,
+        "known_for_department": "Production",
+        "name": "Arindam Chaudhuri",
+        "original_name": "Arindam Chaudhuri",
+        "popularity": 0.3808,
+        "profile_path": null,
+        "credit_id": "5fe5cd58160e73003cac7df3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1648944,
+        "known_for_department": "Writing",
+        "name": "Rahil Qazi",
+        "original_name": "Rahil Qazi",
+        "popularity": 0.2768,
+        "profile_path": null,
+        "credit_id": "5fe5cbfb70309f003e832c8b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147709,
+        "known_for_department": "Writing",
+        "name": "Habib Faisal",
+        "original_name": "Habib Faisal",
+        "popularity": 0.6015,
+        "profile_path": null,
+        "credit_id": "5fe5cc0c5be00e003fa3a79e",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2306281,
+        "known_for_department": "Sound",
+        "name": "Manmeet Singh",
+        "original_name": "Manmeet Singh",
+        "popularity": 0.29,
+        "profile_path": null,
+        "credit_id": "5fe5cc6531644b0040facfde",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1959815,
+        "known_for_department": "Sound",
+        "name": "Harmeet Singh",
+        "original_name": "Harmeet Singh",
+        "popularity": 0.3797,
+        "profile_path": null,
+        "credit_id": "5fe5cc91f14dad003ad1c0b7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933376,
+        "known_for_department": "Camera",
+        "name": "Anshuman Mahaley",
+        "original_name": "Anshuman Mahaley",
+        "popularity": 0.3363,
+        "profile_path": null,
+        "credit_id": "5fe5ccc51ac2920040baaeae",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

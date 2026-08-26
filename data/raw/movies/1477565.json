@@ -1,0 +1,244 @@
+{
+  "adult": false,
+  "backdrop_path": "/rZhenUlFlwwoLTyVRUV1kFVV0c6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81763681",
+  "id": 1477565,
+  "imdb_id": "tt36856496",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Trainwreck: The Real Project X",
+  "overview": "A night of drunken chaos rocks a quiet Dutch town in this shocking documentary about a teen's birthday invite that accidentally went viral on Facebook.",
+  "popularity": 3.7001,
+  "poster_path": "/p6NQOlvAcdK6VJ4CoZMzLUQLtfL.jpg",
+  "production_companies": [
+    {
+      "id": 23949,
+      "logo_path": "/3QFwomSxcZZgMQGBkdUPuJEnSFB.png",
+      "name": "RAW",
+      "origin_country": "GB"
+    },
+    {
+      "id": 143113,
+      "logo_path": "/GuxdgS4Hdu90LhxttMCA8OOCvu.png",
+      "name": "BBH Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-07-07",
+  "revenue": 0,
+  "runtime": 48,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Trainwreck: The Real Project X",
+  "video": false,
+  "vote_average": 5.871,
+  "vote_count": 66,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5624373,
+        "known_for_department": "Acting",
+        "name": "Merthe Marije Weusthuis",
+        "original_name": "Merthe Marije Weusthuis",
+        "popularity": 0.2784,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Self",
+        "credit_id": "689d270ab1a4590dbe5e4aef",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5624375,
+        "known_for_department": "Acting",
+        "name": "Jorik Clarck",
+        "original_name": "Jorik Clarck",
+        "popularity": 0.2532,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Self",
+        "credit_id": "689d2718a1ebf014ce2690d0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2114775,
+        "known_for_department": "Acting",
+        "name": "Giel de Winter",
+        "original_name": "Giel de Winter",
+        "popularity": 0.5196,
+        "profile_path": "/3m2jdlA4xdKZonDH8OfvdKbIqMj.jpg",
+        "cast_id": 11,
+        "character": "Self",
+        "credit_id": "689d2734ba053036a66d7efc",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3222381,
+        "known_for_department": "Acting",
+        "name": "Thomas van der Vlugt",
+        "original_name": "Thomas van der Vlugt",
+        "popularity": 0.97,
+        "profile_path": "/lUwktC7T7uUxlCIAznPfAqoUui0.jpg",
+        "cast_id": 12,
+        "character": "Self",
+        "credit_id": "689d273dc370ee80eb6d7cb6",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5424268,
+        "known_for_department": "Production",
+        "name": "Sheun Adelasoye De Nicola",
+        "original_name": "Sheun Adelasoye De Nicola",
+        "popularity": 0.2291,
+        "profile_path": null,
+        "credit_id": "682c0b9364ff813d3b9e3811",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2172536,
+        "known_for_department": "Production",
+        "name": "Alexander Marengo",
+        "original_name": "Alexander Marengo",
+        "popularity": 0.3191,
+        "profile_path": "/krR8HL03Ngj6P4OmAKsymEIHJL5.jpg",
+        "credit_id": "682c0b9d832e03ca62e250b2",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1252910,
+        "known_for_department": "Directing",
+        "name": "Tim Wardle",
+        "original_name": "Tim Wardle",
+        "popularity": 0.6564,
+        "profile_path": "/uOyvCAyGfPpO6QDTTpdNotx9e2f.jpg",
+        "credit_id": "682c0ba7cc033df11c2f0e8b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1928227,
+        "known_for_department": "Production",
+        "name": "Casey Feldman",
+        "original_name": "Casey Feldman",
+        "popularity": 0.2114,
+        "profile_path": null,
+        "credit_id": "682c0bb6a5e1b359b79e3b10",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5424270,
+        "known_for_department": "Production",
+        "name": "Erica Roberts",
+        "original_name": "Erica Roberts",
+        "popularity": 0.1845,
+        "profile_path": null,
+        "credit_id": "682c0bbf7c8c04687e64924d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3089162,
+        "known_for_department": "Production",
+        "name": "William Swann",
+        "original_name": "William Swann",
+        "popularity": 0.3016,
+        "profile_path": null,
+        "credit_id": "682c0bc6ccb6519a1fe25143",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4159294,
+        "known_for_department": "Production",
+        "name": "Alex Wood",
+        "original_name": "Alex Wood",
+        "popularity": 0.3372,
+        "profile_path": null,
+        "credit_id": "682c0c211939824f11db309a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1252908,
+        "known_for_department": "Production",
+        "name": "Ben Rumney",
+        "original_name": "Ben Rumney",
+        "popularity": 0.3237,
+        "profile_path": null,
+        "credit_id": "682c172215a01d5a44e251c4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5848253,
+        "known_for_department": "Art",
+        "name": "Andy Pointer",
+        "original_name": "Andy Pointer",
+        "popularity": 0.2245,
+        "profile_path": null,
+        "credit_id": "692c8dbdd913fee4982862a3",
+        "department": "Art",
+        "job": "Set Dresser"
+      }
+    ]
+  }
+}

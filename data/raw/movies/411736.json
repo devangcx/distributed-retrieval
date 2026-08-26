@@ -1,0 +1,384 @@
+{
+  "adult": false,
+  "backdrop_path": "/j5IKfaaWd15dcrewlSSA0NRZpMG.jpg",
+  "belongs_to_collection": {
+    "id": 626517,
+    "name": "Batman (Adam West) Animation Collection",
+    "poster_path": "/6iXSL4m8s0dEJ88grAJIZ7Ynb0a.jpg",
+    "backdrop_path": "/cqTHdZABOzqQq0dT2hbc9h6MAT4.jpg"
+  },
+  "budget": 3500000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://www.warnerbros.co.uk/movies/batman-return-of-the-caped-crusaders",
+  "id": 411736,
+  "imdb_id": "tt5973626",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Batman: Return of the Caped Crusaders",
+  "overview": "Adam West and Burt Ward returns to their iconic roles of Batman and Robin. The film sees the superheroes going up against classic villains like The Joker, The Riddler, The Penguin and Catwoman, both in Gotham City… and in space.",
+  "popularity": 2.9094,
+  "poster_path": "/kXV5rVxxRYWHksELUi6dxzWG7Sj.jpg",
+  "production_companies": [
+    {
+      "id": 2785,
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "name": "Warner Bros. Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 9993,
+      "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+      "name": "DC Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2016-10-08",
+  "revenue": 0,
+  "runtime": 78,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The crusade continues...",
+  "title": "Batman: Return of the Caped Crusaders",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 298,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26847,
+        "known_for_department": "Acting",
+        "name": "Adam West",
+        "original_name": "Adam West",
+        "popularity": 2.2972,
+        "profile_path": "/a3Yw8bb6AF7a8Zr7IyEZhZxWVWN.jpg",
+        "cast_id": 0,
+        "character": "Bruce Wayne / Batman (voice)",
+        "credit_id": "57b4a133925141716a00109a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35192,
+        "known_for_department": "Acting",
+        "name": "Burt Ward",
+        "original_name": "Burt Ward",
+        "popularity": 1.3291,
+        "profile_path": "/13qUIbdB6D6BaTy3znHoHWdHuYN.jpg",
+        "cast_id": 1,
+        "character": "Dick Grayson / Robin (voice)",
+        "credit_id": "57b4a13ec3a3686a11000a8b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15973,
+        "known_for_department": "Acting",
+        "name": "Julie Newmar",
+        "original_name": "Julie Newmar",
+        "popularity": 1.492,
+        "profile_path": "/1VJkHq8I1gfh3wBcUZMBSs0anu8.jpg",
+        "cast_id": 2,
+        "character": "Catwoman (voice)",
+        "credit_id": "57b4a153c3a3686a47000a79",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 179896,
+        "known_for_department": "Acting",
+        "name": "Jeff Bergman",
+        "original_name": "Jeff Bergman",
+        "popularity": 1.3988,
+        "profile_path": "/qeCpFCrmocsMvI7pZ1vqCCo6cPZ.jpg",
+        "cast_id": 9,
+        "character": "Announcer / Joker (voice)",
+        "credit_id": "57fe9cb5c3a36850ac0067db",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 48163,
+        "known_for_department": "Acting",
+        "name": "Sirena Irwin",
+        "original_name": "Sirena Irwin",
+        "popularity": 1.0919,
+        "profile_path": "/uWP0DF9hOy1G8rMEDS1qLguwOEr.jpg",
+        "cast_id": 16,
+        "character": "Miranda Moore (voice)",
+        "credit_id": "57fe9d76c3a368528500549c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 539,
+        "known_for_department": "Acting",
+        "name": "Thomas Lennon",
+        "original_name": "Thomas Lennon",
+        "popularity": 2.6531,
+        "profile_path": "/s8pw7BfuMxN7P0p5XJ9POfod7zW.jpg",
+        "cast_id": 7,
+        "character": "Chief O'Hara (voice)",
+        "credit_id": "57f8cfeec3a3685094000f1e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215264,
+        "known_for_department": "Acting",
+        "name": "William Salyers",
+        "original_name": "William Salyers",
+        "popularity": 1.4728,
+        "profile_path": "/lB1R4NwWAlBnWkYCJdOrVDq92H2.jpg",
+        "cast_id": 10,
+        "character": "Penguin (voice)",
+        "credit_id": "57fe9cd592514114b300661e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1232417,
+        "known_for_department": "Acting",
+        "name": "Lynne Marie Stewart",
+        "original_name": "Lynne Marie Stewart",
+        "popularity": 1.3104,
+        "profile_path": "/pYesz7Pajx1vm5OYopiGYNvGQEN.jpg",
+        "cast_id": 14,
+        "character": "Aunt Harriet (voice)",
+        "credit_id": "57fe9d59c3a3681de600a91d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86007,
+        "known_for_department": "Acting",
+        "name": "Jim Ward",
+        "original_name": "Jim Ward",
+        "popularity": 1.153,
+        "profile_path": "/7Um56ftGoxN6c5GxJSNckeARCDy.jpg",
+        "cast_id": 12,
+        "character": "James Gordon (voice)",
+        "credit_id": "57fe9d1192514115070065c7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6106,
+        "known_for_department": "Acting",
+        "name": "Steven Weber",
+        "original_name": "Steven Weber",
+        "popularity": 2.439,
+        "profile_path": "/8FtkapenCOpe39eE1sQus5WLWAq.jpg",
+        "cast_id": 13,
+        "character": "Alfred Pennyworth (voice)",
+        "credit_id": "57fe9d2b925141069900ac52",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19513,
+        "known_for_department": "Acting",
+        "name": "Wally Wingert",
+        "original_name": "Wally Wingert",
+        "popularity": 1.0708,
+        "profile_path": "/5B9STa1OwelvyUs37SWUIFzhIhB.jpg",
+        "cast_id": 11,
+        "character": "Riddler (voice)",
+        "credit_id": "57fe9ce4c3a368504a005f9d",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105642,
+        "known_for_department": "Directing",
+        "name": "Rick Morales",
+        "original_name": "Rick Morales",
+        "popularity": 0.9367,
+        "profile_path": "/qmzubkG4gb89WeFelMpa1VKvjfs.jpg",
+        "credit_id": "57f8cfa4c3a368311a003e32",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113901,
+        "known_for_department": "Writing",
+        "name": "Michael Jelenic",
+        "original_name": "Michael Jelenic",
+        "popularity": 1.3927,
+        "profile_path": "/rzfpbDQ3S3lDqnyMfcGzDv0QCwZ.jpg",
+        "credit_id": "57f8cfb6c3a36850a4001263",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1225820,
+        "known_for_department": "Production",
+        "name": "James Tucker",
+        "original_name": "James Tucker",
+        "popularity": 0.9944,
+        "profile_path": "/3Z3VmdGbGk9qkM32m1e3khIwwDE.jpg",
+        "credit_id": "582e6f63c3a3683bae0000a1",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1225820,
+        "known_for_department": "Production",
+        "name": "James Tucker",
+        "original_name": "James Tucker",
+        "popularity": 0.9944,
+        "profile_path": "/3Z3VmdGbGk9qkM32m1e3khIwwDE.jpg",
+        "credit_id": "58899020c3a3681810000e22",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1033619,
+        "known_for_department": "Editing",
+        "name": "Christopher D. Lozinski",
+        "original_name": "Christopher D. Lozinski",
+        "popularity": 0.4217,
+        "profile_path": null,
+        "credit_id": "58d59f5b9251411fd5032044",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113901,
+        "known_for_department": "Writing",
+        "name": "Michael Jelenic",
+        "original_name": "Michael Jelenic",
+        "popularity": 1.3927,
+        "profile_path": "/rzfpbDQ3S3lDqnyMfcGzDv0QCwZ.jpg",
+        "credit_id": "5bdf372e92514137cb0283fb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1964180,
+        "known_for_department": "Production",
+        "name": "Amy McKenna",
+        "original_name": "Amy McKenna",
+        "popularity": 0.4222,
+        "profile_path": null,
+        "credit_id": "5bdf37e90e0a26057e02c24d",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10951,
+        "known_for_department": "Production",
+        "name": "Benjamin Melniker",
+        "original_name": "Benjamin Melniker",
+        "popularity": 1.1156,
+        "profile_path": null,
+        "credit_id": "5bdf381e92514137cb028524",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141043,
+        "known_for_department": "Production",
+        "name": "Sam Register",
+        "original_name": "Sam Register",
+        "popularity": 1.1426,
+        "profile_path": "/rCJa4fFOi3CcOGjljzn06XliSsz.jpg",
+        "credit_id": "5bdf386892514137e2028094",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10949,
+        "known_for_department": "Production",
+        "name": "Michael Uslan",
+        "original_name": "Michael Uslan",
+        "popularity": 0.7986,
+        "profile_path": "/cXiiH0SSk5UHCvHOVAhHX7tNuls.jpg",
+        "credit_id": "5bdf38f6c3a3682b3d02bb1a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90367,
+        "known_for_department": "Directing",
+        "name": "Sam Liu",
+        "original_name": "Sam Liu",
+        "popularity": 1.1827,
+        "profile_path": "/3u01dPeS4Us9sUFzwS8DzjA3udr.jpg",
+        "credit_id": "5c243bf4c3a368429ee90bba",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      }
+    ]
+  }
+}

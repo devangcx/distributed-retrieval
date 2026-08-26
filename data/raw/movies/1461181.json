@@ -1,0 +1,438 @@
+{
+  "adult": false,
+  "backdrop_path": "/gosq7YRhLHhJ4GalCuQaDJQ0EhC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 1461181,
+  "imdb_id": "tt13540044",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hierarchy",
+  "overview": "In an undisclosed area of Texas after two adoptive brothers become entangled in criminal activity, forced to evade law enforcement and the greedy Russian mafia.",
+  "popularity": 4.366,
+  "poster_path": "/3KVq24NkOn98nrSEAFphnRWVWNd.jpg",
+  "production_companies": [
+    {
+      "id": 279256,
+      "logo_path": null,
+      "name": "Sabi Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 279257,
+      "logo_path": null,
+      "name": "Smalltown Hero Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-08-15",
+  "revenue": 0,
+  "runtime": 97,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Hierarchy",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 47,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3685062,
+        "known_for_department": "Acting",
+        "name": "Chiderah Uzowulu",
+        "original_name": "Chiderah Uzowulu",
+        "popularity": 0.472,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Stone",
+        "credit_id": "67f4759c7b43bdce20ad6083",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2725955,
+        "known_for_department": "Acting",
+        "name": "Xavier Alvarado",
+        "original_name": "Xavier Alvarado",
+        "popularity": 0.4759,
+        "profile_path": "/qcF42B7mh6E7GY1oZcMKoztdkmS.jpg",
+        "cast_id": 2,
+        "character": "Reach",
+        "credit_id": "67f475b1eddec28b03adc14d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5356439,
+        "known_for_department": "Acting",
+        "name": "Dylan Winters",
+        "original_name": "Dylan Winters",
+        "popularity": 0.57,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Driss Buress",
+        "credit_id": "67f475da31c9f27299ad3b64",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2926384,
+        "known_for_department": "Acting",
+        "name": "Jenny Frame",
+        "original_name": "Jenny Frame",
+        "popularity": 0.6531,
+        "profile_path": "/uXr384Jt9q6VrVem8y9Fq9YD1nt.jpg",
+        "cast_id": 4,
+        "character": "Captain Domingo",
+        "credit_id": "67f475eaa5471a51ee997e48",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3238977,
+        "known_for_department": "Acting",
+        "name": "Ruben Javier Caballero",
+        "original_name": "Ruben Javier Caballero",
+        "popularity": 0.6871,
+        "profile_path": "/cyZFEQB0qq4vlbJhkq1u1OokM1a.jpg",
+        "cast_id": 5,
+        "character": "Detective Kipp",
+        "credit_id": "67f475fd8cfccf7bafd931e6",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1865927,
+        "known_for_department": "Acting",
+        "name": "Carol Hickey",
+        "original_name": "Carol Hickey",
+        "popularity": 0.6658,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Francis Pritchett",
+        "credit_id": "67f4761531c9f27299ad3b70",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2230613,
+        "known_for_department": "Acting",
+        "name": "Neyla Cantu",
+        "original_name": "Neyla Cantu",
+        "popularity": 0.5223,
+        "profile_path": "/iAF6C2WYmrazzWIbXNFpYCRMy46.jpg",
+        "cast_id": 7,
+        "character": "Letty",
+        "credit_id": "67f476271bb04728999987f8",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3419571,
+        "known_for_department": "Acting",
+        "name": "Ervin Brown",
+        "original_name": "Ervin Brown",
+        "popularity": 0.3716,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "JP",
+        "credit_id": "67f476378cfccf7bafd931f5",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2548287,
+        "known_for_department": "Acting",
+        "name": "Alec Franco",
+        "original_name": "Alec Franco",
+        "popularity": 0.3305,
+        "profile_path": "/j5ubuqkWhRd26VTkcpx8LmrOvzl.jpg",
+        "cast_id": 9,
+        "character": "Sully",
+        "credit_id": "67f4764b8cfccf7bafd931fd",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4392513,
+        "known_for_department": "Crew",
+        "name": "Russell K Reed",
+        "original_name": "Russell K Reed",
+        "popularity": 0.2925,
+        "profile_path": null,
+        "credit_id": "67f4769aa5471a51ee997e67",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3685062,
+        "known_for_department": "Acting",
+        "name": "Chiderah Uzowulu",
+        "original_name": "Chiderah Uzowulu",
+        "popularity": 0.472,
+        "profile_path": null,
+        "credit_id": "67f476a831c9f27299ad3b8e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2725955,
+        "known_for_department": "Acting",
+        "name": "Xavier Alvarado",
+        "original_name": "Xavier Alvarado",
+        "popularity": 0.4759,
+        "profile_path": "/qcF42B7mh6E7GY1oZcMKoztdkmS.jpg",
+        "credit_id": "67f476bc8cfccf7bafd93232",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5356445,
+        "known_for_department": "Production",
+        "name": "Alberto Medina",
+        "original_name": "Alberto Medina",
+        "popularity": 0.1688,
+        "profile_path": null,
+        "credit_id": "67f476ce31c9f27299ad3ba8",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3126717,
+        "known_for_department": "Production",
+        "name": "David Rafailovich",
+        "original_name": "David Rafailovich",
+        "popularity": 0.314,
+        "profile_path": null,
+        "credit_id": "67f476db31c9f27299ad3bab",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4392513,
+        "known_for_department": "Crew",
+        "name": "Russell K Reed",
+        "original_name": "Russell K Reed",
+        "popularity": 0.2925,
+        "profile_path": null,
+        "credit_id": "67f476eb31c9f27299ad3bc0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3685062,
+        "known_for_department": "Acting",
+        "name": "Chiderah Uzowulu",
+        "original_name": "Chiderah Uzowulu",
+        "popularity": 0.472,
+        "profile_path": null,
+        "credit_id": "67f476f6ddf9194387d9b950",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4272184,
+        "known_for_department": "Sound",
+        "name": "Braden Deal",
+        "original_name": "Braden Deal",
+        "popularity": 0.4945,
+        "profile_path": null,
+        "credit_id": "67f4770f1bb0472899998808",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4392513,
+        "known_for_department": "Crew",
+        "name": "Russell K Reed",
+        "original_name": "Russell K Reed",
+        "popularity": 0.2925,
+        "profile_path": null,
+        "credit_id": "67f4771dddf9194387d9b956",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5356448,
+        "known_for_department": "Camera",
+        "name": "Magic Hoskins",
+        "original_name": "Magic Hoskins",
+        "popularity": 0.4996,
+        "profile_path": null,
+        "credit_id": "67f4772e8cfccf7bafd9325b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4392513,
+        "known_for_department": "Crew",
+        "name": "Russell K Reed",
+        "original_name": "Russell K Reed",
+        "popularity": 0.2925,
+        "profile_path": null,
+        "credit_id": "67f4774f8cfccf7bafd9325e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3936239,
+        "known_for_department": "Sound",
+        "name": "Abby Austria",
+        "original_name": "Abby Austria",
+        "popularity": 0.3738,
+        "profile_path": null,
+        "credit_id": "67f4775e1bb0472899998822",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1646066,
+        "known_for_department": "Sound",
+        "name": "Tim Farrell",
+        "original_name": "Tim Farrell",
+        "popularity": 0.3403,
+        "profile_path": null,
+        "credit_id": "67f4776bddf9194387d9b982",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1982640,
+        "known_for_department": "Sound",
+        "name": "Dean White",
+        "original_name": "Dean White",
+        "popularity": 0.2609,
+        "profile_path": null,
+        "credit_id": "67f477978cfccf7bafd93273",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5186016,
+        "known_for_department": "Visual Effects",
+        "name": "Andrea Abtahi",
+        "original_name": "Andrea Abtahi",
+        "popularity": 0.3095,
+        "profile_path": null,
+        "credit_id": "67f477b88cfccf7bafd93296",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3630642,
+        "known_for_department": "Editing",
+        "name": "Keyhan Bayegan",
+        "original_name": "Keyhan Bayegan",
+        "popularity": 0.3471,
+        "profile_path": null,
+        "credit_id": "67f477ca31c9f27299ad3c12",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4992643,
+        "known_for_department": "Editing",
+        "name": "Sam Zarrin",
+        "original_name": "Sam Zarrin",
+        "popularity": 0.307,
+        "profile_path": "/wJlXb9QbWw134w6YYZs1iNdgoFO.jpg",
+        "credit_id": "67f477dc6c3583c9759958da",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5186007,
+        "known_for_department": "Sound",
+        "name": "Jeremy Jardine",
+        "original_name": "Jeremy Jardine",
+        "popularity": 0.2616,
+        "profile_path": null,
+        "credit_id": "67f477eaeddec28b03adc1a9",
+        "department": "Crew",
+        "job": "Additional Music"
+      }
+    ]
+  }
+}

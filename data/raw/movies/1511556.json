@@ -1,0 +1,423 @@
+{
+  "adult": false,
+  "backdrop_path": "/oAFd9y3myakKyTAwcv0YIpxt08Z.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1511556,
+  "imdb_id": "tt32212611",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Under Fire",
+  "overview": "Story unfolds in the scorching heat of the Mexico border, where rival drug dealers Griff and Abbott arrive at a remote drop point for a routine drug deal. But when the exchange goes down, both reveal undercover badges — Griff is FBI, Abbott is DEA — and neither knew they were working the same case.",
+  "popularity": 2.7234,
+  "poster_path": "/dIQcDDuDPewwELfhmYMnt25AyZ6.jpg",
+  "production_companies": [
+    {
+      "id": 6626,
+      "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+      "name": "Voltage Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-08-07",
+  "revenue": 7560,
+  "runtime": 95,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Under Fire",
+  "video": false,
+  "vote_average": 6.49,
+  "vote_count": 51,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 95686,
+        "known_for_department": "Acting",
+        "name": "Dylan Sprouse",
+        "original_name": "Dylan Sprouse",
+        "popularity": 2.7046,
+        "profile_path": "/zy7ueLZtJwiRFdYkDlzjQhbA6SW.jpg",
+        "cast_id": 1,
+        "character": "Griff",
+        "credit_id": "68700f72037b58e41a70402d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2174509,
+        "known_for_department": "Acting",
+        "name": "Mason Gooding",
+        "original_name": "Mason Gooding",
+        "popularity": 2.6073,
+        "profile_path": "/bmlry1xqBzNgv8Chm783ss93Cvg.jpg",
+        "cast_id": 2,
+        "character": "Abbott",
+        "credit_id": "68700f86e56c47a84c6e9630",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 51992,
+        "known_for_department": "Acting",
+        "name": "Odette Annable",
+        "original_name": "Odette Annable",
+        "popularity": 4.9013,
+        "profile_path": "/zbEaTdg8a7USjfH5LxaU2U3W6Zb.jpg",
+        "cast_id": 3,
+        "character": "Vazquez",
+        "credit_id": "68700f92b8e689a75954136f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1333195,
+        "known_for_department": "Acting",
+        "name": "Bayardo De Murguia",
+        "original_name": "Bayardo De Murguia",
+        "popularity": 0.8638,
+        "profile_path": "/lk9A9gi6l1jqPh6gA52NleRil3q.jpg",
+        "cast_id": 4,
+        "character": "Delgado",
+        "credit_id": "68700fb7f6ff1a25916e9518",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53257,
+        "known_for_department": "Acting",
+        "name": "Emilio Rivera",
+        "original_name": "Emilio Rivera",
+        "popularity": 1.8733,
+        "profile_path": "/pHgPJSoZVgmt4FQ8zyMVqwovpRb.jpg",
+        "cast_id": 5,
+        "character": "Valentino",
+        "credit_id": "68700fc32fd123268270436f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1264908,
+        "known_for_department": "Acting",
+        "name": "Declan Michael Laird",
+        "original_name": "Declan Michael Laird",
+        "popularity": 0.494,
+        "profile_path": "/bCo8DZIeQfbEolIJ4RpUt61GdO2.jpg",
+        "cast_id": 13,
+        "character": "Spotter",
+        "credit_id": "687015ec445f5aad1c70438a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1449393,
+        "known_for_department": "Acting",
+        "name": "Austin North",
+        "original_name": "Austin North",
+        "popularity": 1.1518,
+        "profile_path": "/AuamGbm12flhZ0K95hhdyhYAbBS.jpg",
+        "cast_id": 14,
+        "character": "The Sniper",
+        "credit_id": "687015f42a644c69099a544e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3326868,
+        "known_for_department": "Crew",
+        "name": "Lorena Abreu",
+        "original_name": "Lorena Abreu",
+        "popularity": 1.4469,
+        "profile_path": "/dLX84nYdQqvXnGALiiU9gHdwzlg.jpg",
+        "cast_id": 26,
+        "character": "Cartel Member",
+        "credit_id": "68e495688dba4d8e56bd9ea6",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30058,
+        "known_for_department": "Directing",
+        "name": "Steven C. Miller",
+        "original_name": "Steven C. Miller",
+        "popularity": 0.8073,
+        "profile_path": "/yLj3FB6lDLQq4P5xKK54h61pzib.jpg",
+        "credit_id": "68700feea5a9370ce3104c52",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4291748,
+        "known_for_department": "Writing",
+        "name": "Cory Todd Hughes",
+        "original_name": "Cory Todd Hughes",
+        "popularity": 0.5825,
+        "profile_path": null,
+        "credit_id": "687010141e2d400fe07043d3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1317897,
+        "known_for_department": "Art",
+        "name": "Niko Vilaivongs",
+        "original_name": "Niko Vilaivongs",
+        "popularity": 0.4818,
+        "profile_path": null,
+        "credit_id": "68701046900a7bccc4ed6bf8",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 158825,
+        "known_for_department": "Acting",
+        "name": "Simon Rhee",
+        "original_name": "Simon Rhee",
+        "popularity": 1.0045,
+        "profile_path": "/ffic6wucnGrVdq884RguSQCCXeW.jpg",
+        "credit_id": "687010570849184ac2ba2781",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1116280,
+        "known_for_department": "Sound",
+        "name": "Kevin Riepl",
+        "original_name": "Kevin Riepl",
+        "popularity": 0.6671,
+        "profile_path": "/etRP6laZjRUTviM1HlryAulIPtE.jpg",
+        "credit_id": "6870106c432b8e7299104b47",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5556331,
+        "known_for_department": "Editing",
+        "name": "Vanessa Miller",
+        "original_name": "Vanessa Miller",
+        "popularity": 0.231,
+        "profile_path": null,
+        "credit_id": "687010a0f6ff1a25916e952a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30058,
+        "known_for_department": "Directing",
+        "name": "Steven C. Miller",
+        "original_name": "Steven C. Miller",
+        "popularity": 0.8073,
+        "profile_path": "/yLj3FB6lDLQq4P5xKK54h61pzib.jpg",
+        "credit_id": "687010b5327a052ea4541286",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1420596,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Kris Deskins",
+        "original_name": "Kris Deskins",
+        "popularity": 0.4291,
+        "profile_path": "/zSMo39sgTdC5fjVgqhIk4vkREDQ.jpg",
+        "credit_id": "687016abf3d805056051f51f",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 964820,
+        "known_for_department": "Camera",
+        "name": "Jonathan Hall",
+        "original_name": "Jonathan Hall",
+        "popularity": 0.5208,
+        "profile_path": null,
+        "credit_id": "687016d3bb64f77f457040f1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5556369,
+        "known_for_department": "Production",
+        "name": "Darcy Donelan",
+        "original_name": "Darcy Donelan",
+        "popularity": 0.2052,
+        "profile_path": null,
+        "credit_id": "687016f3275bb46eee6e95b3",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4652009,
+        "known_for_department": "Production",
+        "name": "Cindy Truong",
+        "original_name": "Cindy Truong",
+        "popularity": 0.406,
+        "profile_path": null,
+        "credit_id": "68701706a722d3894b104f16",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1690875,
+        "known_for_department": "Production",
+        "name": "Christian Ackerman",
+        "original_name": "Christian Ackerman",
+        "popularity": 0.4848,
+        "profile_path": null,
+        "credit_id": "6870171faf21e0729cba28c8",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1473474,
+        "known_for_department": "Production",
+        "name": "Lucas Jarach",
+        "original_name": "Lucas Jarach",
+        "popularity": 0.6336,
+        "profile_path": null,
+        "credit_id": "687017350ad7681110ed6c60",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1031200,
+        "known_for_department": "Production",
+        "name": "Nicolas Chartier",
+        "original_name": "Nicolas Chartier",
+        "popularity": 0.754,
+        "profile_path": "/59ptYCph60CtAtLmWuC9dASHhsp.jpg",
+        "credit_id": "68701744940547aa229a56bc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1084929,
+        "known_for_department": "Production",
+        "name": "Jonathan Deckter",
+        "original_name": "Jonathan Deckter",
+        "popularity": 0.4085,
+        "profile_path": null,
+        "credit_id": "68701757af6b528508ed723d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4291750,
+        "known_for_department": "Writing",
+        "name": "Adrian Speckert",
+        "original_name": "Adrian Speckert",
+        "popularity": 0.4871,
+        "profile_path": null,
+        "credit_id": "68701766402729461651f431",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1795686,
+        "known_for_department": "Production",
+        "name": "Neely Eisenstein",
+        "original_name": "Neely Eisenstein",
+        "popularity": 0.4193,
+        "profile_path": null,
+        "credit_id": "687017dd980d1a63c7a96e78",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1116280,
+        "known_for_department": "Sound",
+        "name": "Kevin Riepl",
+        "original_name": "Kevin Riepl",
+        "popularity": 0.6671,
+        "profile_path": "/etRP6laZjRUTviM1HlryAulIPtE.jpg",
+        "credit_id": "68ac332be8163640b37823c9",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

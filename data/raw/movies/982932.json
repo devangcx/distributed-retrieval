@@ -1,0 +1,387 @@
+{
+  "adult": false,
+  "backdrop_path": "/ufR7C4AtkqS0INda0qBICpupOxy.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 982932,
+  "imdb_id": "tt11069220",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Shrapnel",
+  "overview": "A former Marine and his old war buddy face off against the Mexican cartel behind the disappearance of his daughter.",
+  "popularity": 5.8438,
+  "poster_path": "/gsRDrAML7hJC8ZCgRQobHIrzbxR.jpg",
+  "production_companies": [
+    {
+      "id": 35625,
+      "logo_path": "/zxIrXuRMBmsXf7XpouDrF0P4RjI.png",
+      "name": "Premiere Entertainment Group",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-07-28",
+  "revenue": 0,
+  "runtime": 89,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They're going to war for his daughter.",
+  "title": "Shrapnel",
+  "video": false,
+  "vote_average": 5.619,
+  "vote_count": 80,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12261,
+        "known_for_department": "Acting",
+        "name": "Jason Patric",
+        "original_name": "Jason Patric",
+        "popularity": 2.6201,
+        "profile_path": "/iv21ZjE90f9QNiNONKF9Lp6ZD68.jpg",
+        "cast_id": 2,
+        "character": "Sean Beckwith",
+        "credit_id": "6298943ccddbbc6e078b23ed",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55086,
+        "known_for_department": "Acting",
+        "name": "Cam Gigandet",
+        "original_name": "Cam Gigandet",
+        "popularity": 2.2988,
+        "profile_path": "/kdSVRqCR0p8KZTvVkRccBLoim7L.jpg",
+        "cast_id": 1,
+        "character": "Max Vohden",
+        "credit_id": "6298942c7ad08c009e9ee9e3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1021632,
+        "known_for_department": "Acting",
+        "name": "Kesia Elwin",
+        "original_name": "Kesia Elwin",
+        "popularity": 0.7538,
+        "profile_path": "/wejWDo1EpV0Y0D3wuAsdlKLwZ76.jpg",
+        "cast_id": 12,
+        "character": "Susan Beckwith",
+        "credit_id": "62a7c212eb14fa09dca312d4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1314891,
+        "known_for_department": "Acting",
+        "name": "Mauricio Mendoza",
+        "original_name": "Mauricio Mendoza",
+        "popularity": 0.9441,
+        "profile_path": "/fsNHqoQ1UAS2VnSoCfh5tqMP4Bu.jpg",
+        "cast_id": 5,
+        "character": "Victor Garza",
+        "credit_id": "629894675507e91492626491",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1020699,
+        "known_for_department": "Acting",
+        "name": "Guillermo Iván",
+        "original_name": "Guillermo Iván",
+        "popularity": 0.9048,
+        "profile_path": "/zH8BOepVqv3l1uQvHfRyPSX65OJ.jpg",
+        "cast_id": 7,
+        "character": "Carlos Garza",
+        "credit_id": "629894801e9225009ce38dbb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3191732,
+        "known_for_department": "Acting",
+        "name": "Emily Perry",
+        "original_name": "Emily Perry",
+        "popularity": 0.5516,
+        "profile_path": "/dMb6M35CX1ZViRjHmz45U10u6B2.jpg",
+        "cast_id": 18,
+        "character": "Lauren Beckwith",
+        "credit_id": "62a7e1f05541fa0050cc3cbc",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1490641,
+        "known_for_department": "Acting",
+        "name": "David DeLao",
+        "original_name": "David DeLao",
+        "popularity": 0.8402,
+        "profile_path": "/bmafS5MhJePWp4Jzbrwg8j0Y8ZA.jpg",
+        "cast_id": 17,
+        "character": "Officer Hector Montoya",
+        "credit_id": "62a7c4f6d5569718c7591ce7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1573609,
+        "known_for_department": "Acting",
+        "name": "Teresa Decher",
+        "original_name": "Teresa Decher",
+        "popularity": 0.6856,
+        "profile_path": "/ftOmHJZZkQXfOycHQKlA8qcBDGx.jpg",
+        "cast_id": 8,
+        "character": "Leigh Beckwith",
+        "credit_id": "6298948f3faba000663d0023",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2250745,
+        "known_for_department": "Acting",
+        "name": "Megan Elisabeth Kelly",
+        "original_name": "Megan Elisabeth Kelly",
+        "popularity": 0.8095,
+        "profile_path": "/OAH2t3fHJxNV6cwN0LQmwNuiym.jpg",
+        "cast_id": 4,
+        "character": "Billi Langencamp",
+        "credit_id": "6298945aa44d095276e3c494",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2296718,
+        "known_for_department": "Acting",
+        "name": "Jesus Banuelos",
+        "original_name": "Jesus Banuelos",
+        "popularity": 0.3381,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Officer Jose Sandoval",
+        "credit_id": "62a7e2f8eb14fa09ddb99506",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101184,
+        "known_for_department": "Acting",
+        "name": "Jack Forcinito",
+        "original_name": "Jack Forcinito",
+        "popularity": 0.6404,
+        "profile_path": "/1Epvt2eqbWc2U3dfLVV2ntEw7GI.jpg",
+        "cast_id": 6,
+        "character": "Marcus Dobson",
+        "credit_id": "62989473a44d095275e813bb",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2375263,
+        "known_for_department": "Acting",
+        "name": "Efrain Villa",
+        "original_name": "Efrain Villa",
+        "popularity": 0.6488,
+        "profile_path": "/96VorlHTrcyQ7hdDvpGBvnOR7o7.jpg",
+        "cast_id": 3,
+        "character": "Eduardo",
+        "credit_id": "6298944bec0c58006680289c",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1877294,
+        "known_for_department": "Acting",
+        "name": "Tasos Hernandez",
+        "original_name": "Tasos Hernandez",
+        "popularity": 0.4643,
+        "profile_path": "/4jJhm1TBYlXs5EYscmNWxZpkBCf.jpg",
+        "cast_id": 20,
+        "character": "Anastasio",
+        "credit_id": "62a7e34e7e12f00e2833396f",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2814908,
+        "known_for_department": "Production",
+        "name": "Vincent E. McDaniel",
+        "original_name": "Vincent E. McDaniel",
+        "popularity": 0.6628,
+        "profile_path": "/kVJjrrB63ICSvvHF5of8JE4dELU.jpg",
+        "cast_id": 14,
+        "character": "Sheriff Jeff Riggins",
+        "credit_id": "62a7c2915541fa0066b6c147",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2761488,
+        "known_for_department": "Acting",
+        "name": "Tamas Nadas",
+        "original_name": "Tamas Nadas",
+        "popularity": 0.4759,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "John Langencamp",
+        "credit_id": "62a7c272eb14fa09dca313fb",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 228177,
+        "known_for_department": "Directing",
+        "name": "William Kaufman",
+        "original_name": "William Kaufman",
+        "popularity": 0.8178,
+        "profile_path": "/a7cLQauPNw41xH06xfYx9tiCmVZ.jpg",
+        "credit_id": "62989675ca8354544b3b081d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78217,
+        "known_for_department": "Writing",
+        "name": "Chad Law",
+        "original_name": "Chad Law",
+        "popularity": 0.5969,
+        "profile_path": "/n0AfVXra1nA6NwLW2ZnrifyqK3.jpg",
+        "credit_id": "629896aaca83545448baa1a2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2960391,
+        "known_for_department": "Production",
+        "name": "Carlos Rincon",
+        "original_name": "Carlos Rincon",
+        "popularity": 0.5513,
+        "profile_path": "/tzgsAtv3oudyRtfTAVDVRB7jZ5B.jpg",
+        "credit_id": "629b360ad71fb474df16c192",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1451812,
+        "known_for_department": "Production",
+        "name": "Elías Axume",
+        "original_name": "Elias Axume",
+        "popularity": 0.6427,
+        "profile_path": "/57504kMAezyFZ6nGMq8iJPS6IB8.jpg",
+        "credit_id": "62a7c34365e0a200ab253907",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1064916,
+        "known_for_department": "Writing",
+        "name": "Al Bravo",
+        "original_name": "Al Bravo",
+        "popularity": 0.4442,
+        "profile_path": null,
+        "credit_id": "62a7c34d5541fa0050cba172",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 41654,
+        "known_for_department": "Production",
+        "name": "Lindsay Chag",
+        "original_name": "Lindsay Chag",
+        "popularity": 0.7164,
+        "profile_path": null,
+        "credit_id": "62a7e40aa8b2ca0068d49ac2",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 971793,
+        "known_for_department": "Camera",
+        "name": "Mark Rutledge",
+        "original_name": "Mark Rutledge",
+        "popularity": 0.3554,
+        "profile_path": null,
+        "credit_id": "62a7e3f53d4d9617e86cd09e",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 232460,
+        "known_for_department": "Acting",
+        "name": "Johnny Martin Walters",
+        "original_name": "Johnny Martin Walters",
+        "popularity": 0.5447,
+        "profile_path": null,
+        "credit_id": "649b7a6faf58cb00fff9bbc1",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

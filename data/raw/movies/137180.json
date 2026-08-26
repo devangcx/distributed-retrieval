@@ -1,0 +1,303 @@
+{
+  "adult": false,
+  "backdrop_path": "/dwAADvsDwXUHbHE8JtOYMhy2aaq.jpg",
+  "belongs_to_collection": null,
+  "budget": 1200000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 137180,
+  "imdb_id": "tt2255934",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "अइय्या",
+  "overview": "Meenakshi, a Marathi gal with an ultra-sensitive sense of smell, lives her life in her dreams, dancing and enacting her favourite actresses Sridevi, Madhuri and Juhi. Not believing in arranged marriages, Meenakshi awaits her prince when she comes across Tamil artist Surya, to whom she is strangely attracted to.",
+  "popularity": 1.0936,
+  "poster_path": "/gz4zgMZGg3zYOLYL7qzOQwDP13.jpg",
+  "production_companies": [
+    {
+      "id": 11870,
+      "logo_path": null,
+      "name": "Anurag Kashyap Films",
+      "origin_country": "IN"
+    },
+    {
+      "id": 6808,
+      "logo_path": "/xa1Yz7B5eRC2F9oHA6mDn8NE6ci.png",
+      "name": "Viacom18 Studios",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2012-10-12",
+  "revenue": 2500000,
+  "runtime": 146,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "தமிழ்"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Go Wakda",
+  "title": "Aiyyaa",
+  "video": false,
+  "vote_average": 4.7,
+  "vote_count": 31,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35776,
+        "known_for_department": "Acting",
+        "name": "Rani Mukerji",
+        "original_name": "रानी मुखर्जी",
+        "popularity": 2.0168,
+        "profile_path": "/6bm1lhrEgGFpOLBjvcOi3aoQmtg.jpg",
+        "cast_id": 18,
+        "character": "Meenakshi",
+        "credit_id": "534fe6910e0a267ea1001051",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117690,
+        "known_for_department": "Acting",
+        "name": "Prithviraj Sukumaran",
+        "original_name": "പൃഥ്വിരാജ് സുകുമാരൻ",
+        "popularity": 2.1295,
+        "profile_path": "/1xhG42QU8tMQRTDdP1Ed3y9GRvm.jpg",
+        "cast_id": 17,
+        "character": "Surya",
+        "credit_id": "52fe4c2ac3a368484e1aacdd",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1124940,
+        "known_for_department": "Acting",
+        "name": "Nirmiti Sawant",
+        "original_name": "Nirmiti Sawant",
+        "popularity": 0.5554,
+        "profile_path": "/rZEx5ERVGURSsxDcUTJcKq5Eqma.jpg",
+        "cast_id": 11,
+        "character": "Aai",
+        "credit_id": "52fe4c2ac3a368484e1aacc3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1124941,
+        "known_for_department": "Acting",
+        "name": "Satish Alekar",
+        "original_name": "Satish Alekar",
+        "popularity": 0.5309,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Meenakshi's father",
+        "credit_id": "52fe4c2ac3a368484e1aacc7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1124942,
+        "known_for_department": "Acting",
+        "name": "Anita Date-Kelkar",
+        "original_name": "Anita Date-Kelkar",
+        "popularity": 0.6553,
+        "profile_path": "/9Z0hza0AH246xEIl7miBaRyc1xu.jpg",
+        "cast_id": 13,
+        "character": "Mynah",
+        "credit_id": "52fe4c2ac3a368484e1aaccb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1124943,
+        "known_for_department": "Acting",
+        "name": "Amey Wagh",
+        "original_name": "Amey Wagh",
+        "popularity": 0.5434,
+        "profile_path": "/aGGnvRLozVnFgjZSuROHKDstAXT.jpg",
+        "cast_id": 15,
+        "character": "Nanu",
+        "credit_id": "52fe4c2ac3a368484e1aacd3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 187865,
+        "known_for_department": "Acting",
+        "name": "Tamizh",
+        "original_name": "Tamizh",
+        "popularity": 0.4805,
+        "profile_path": "/jiAg91ufkNGfjU2Qoby1UagTz2o.jpg",
+        "cast_id": 20,
+        "character": "Pakkada",
+        "credit_id": "6176b1b0a579f90027146ca1",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1106960,
+        "known_for_department": "Writing",
+        "name": "Sachin Kundalkar",
+        "original_name": "Sachin Kundalkar",
+        "popularity": 0.3207,
+        "profile_path": null,
+        "credit_id": "52fe4c2ac3a368484e1aac8f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223854,
+        "known_for_department": "Sound",
+        "name": "Amit Trivedi",
+        "original_name": "Amit Trivedi",
+        "popularity": 0.6536,
+        "profile_path": "/lRewkQ2Smolc0TjNMSycYHnbFil.jpg",
+        "credit_id": "52fe4c2ac3a368484e1aacad",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 233075,
+        "known_for_department": "Art",
+        "name": "Ashok Lokare",
+        "original_name": "Ashok Lokare",
+        "popularity": 0.3016,
+        "profile_path": null,
+        "credit_id": "52fe4c2ac3a368484e1aacbf",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85670,
+        "known_for_department": "Directing",
+        "name": "Anurag Kashyap",
+        "original_name": "Anurag Kashyap",
+        "popularity": 1.5049,
+        "profile_path": "/wS1aF7dFDnKC44ZbFkbDcIpmFq5.jpg",
+        "credit_id": "52fe4c2ac3a368484e1aac95",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1124934,
+        "known_for_department": "Production",
+        "name": "Guneet Monga",
+        "original_name": "Guneet Monga",
+        "popularity": 0.5005,
+        "profile_path": "/AkYxwPiaOOD6GvKTMEAyKfpjkUU.jpg",
+        "credit_id": "52fe4c2ac3a368484e1aac9b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1106960,
+        "known_for_department": "Writing",
+        "name": "Sachin Kundalkar",
+        "original_name": "Sachin Kundalkar",
+        "popularity": 0.3207,
+        "profile_path": null,
+        "credit_id": "52fe4c2ac3a368484e1aacd9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1124935,
+        "known_for_department": "Production",
+        "name": "Meraj Shaikh",
+        "original_name": "Meraj Shaikh",
+        "popularity": 0.2389,
+        "profile_path": null,
+        "credit_id": "52fe4c2ac3a368484e1aaca1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1124936,
+        "known_for_department": "Production",
+        "name": "Ranjit Gugle",
+        "original_name": "Ranjit Gugle",
+        "popularity": 0.2307,
+        "profile_path": null,
+        "credit_id": "52fe4c2ac3a368484e1aaca7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2462867,
+        "known_for_department": "Editing",
+        "name": "Abhijit Deshpande",
+        "original_name": "Abhijit Deshpande",
+        "popularity": 0.3766,
+        "profile_path": null,
+        "credit_id": "62092de1af2da8001c09116e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1124937,
+        "known_for_department": "Crew",
+        "name": "Amal Chaudhary",
+        "original_name": "Amal Chaudhary",
+        "popularity": 0.2166,
+        "profile_path": null,
+        "credit_id": "5af05b85925141764a011cd6",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

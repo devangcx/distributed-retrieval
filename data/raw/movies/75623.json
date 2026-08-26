@@ -1,0 +1,431 @@
+{
+  "adult": false,
+  "backdrop_path": "/r1SLUnnyFCGBuHPrt9uUG85vCqu.jpg",
+  "belongs_to_collection": {
+    "id": 174218,
+    "name": "The Howling Collection",
+    "poster_path": "/g04UfThJDQSx0rQlEgNsjThCsjy.jpg",
+    "backdrop_path": "/5hzWBe1wTgPWyVg3e5ftN2ETAnf.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 75623,
+  "imdb_id": "tt1554092",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Howling: Reborn",
+  "overview": "On the eve of his high school graduation, unremarkable Will Kidman finally bonds with the girl he has long yearned for, reclusive Eliana Wynter. But he also discovers a dark secret from his past... that he is about to become a werewolf. Now, in an effort to fight destiny and save their love as well as their lives, they must battle not only Will's growing blood lust but an army of fearsome beasts bent on killing them... and then, us all.",
+  "popularity": 2.6638,
+  "poster_path": "/8BSPC26lfw1WThhDaYaRMe6OBj.jpg",
+  "production_companies": [
+    {
+      "id": 4052,
+      "logo_path": null,
+      "name": "Sunfilm Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2011-10-18",
+  "revenue": 0,
+  "runtime": 92,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Nothing will ever be the same.",
+  "title": "The Howling: Reborn",
+  "video": false,
+  "vote_average": 4.7,
+  "vote_count": 148,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138558,
+        "known_for_department": "Acting",
+        "name": "Landon Liboiron",
+        "original_name": "Landon Liboiron",
+        "popularity": 0.8299,
+        "profile_path": "/sgiZ4V1XNuErHVFjozXHyaUaDAk.jpg",
+        "cast_id": 3,
+        "character": "Will",
+        "credit_id": "52fe4909c3a368484e11778b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1225783,
+        "known_for_department": "Acting",
+        "name": "Lindsey Shaw",
+        "original_name": "Lindsey Shaw",
+        "popularity": 1.725,
+        "profile_path": "/muOK9TiK5KpqnumOU0jOg5DUepc.jpg",
+        "cast_id": 14,
+        "character": "Eliana Wynter",
+        "credit_id": "5ad5e08fc3a3680bfc015618",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 29930,
+        "known_for_department": "Acting",
+        "name": "Ivana Miličević",
+        "original_name": "Ivana Miličević",
+        "popularity": 4.5719,
+        "profile_path": "/3bWPeAnqRwuCAoYBDig3E3cFx5m.jpg",
+        "cast_id": 7,
+        "character": "Kathryn / Kay",
+        "credit_id": "52fe4909c3a368484e117797",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96593,
+        "known_for_department": "Acting",
+        "name": "Jesse Rath",
+        "original_name": "Jesse Rath",
+        "popularity": 1.3797,
+        "profile_path": "/AphsaApS4dINg5y3oO9Y2qDDbeV.jpg",
+        "cast_id": 9,
+        "character": "Sachin",
+        "credit_id": "57d77e829251415386000d0b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143596,
+        "known_for_department": "Acting",
+        "name": "Niels Schneider",
+        "original_name": "Niels Schneider",
+        "popularity": 1.7918,
+        "profile_path": "/eG7go6nzgnb791avzYoN7GSqPd6.jpg",
+        "cast_id": 10,
+        "character": "Roland",
+        "credit_id": "57d77e89c3a36852ba0015ab",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 500085,
+        "known_for_department": "Acting",
+        "name": "Erin Agostino",
+        "original_name": "Erin Agostino",
+        "popularity": 1.7554,
+        "profile_path": "/fIuwUhBQQ2pyIcW8sZqekZVNbkl.jpg",
+        "cast_id": 5,
+        "character": "Regina",
+        "credit_id": "52fe4909c3a368484e11778f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 580231,
+        "known_for_department": "Acting",
+        "name": "Kristian Hodko",
+        "original_name": "Kristian Hodko",
+        "popularity": 0.8389,
+        "profile_path": "/aDhMC4a8qeYAoawsU4QX6wXL2u5.jpg",
+        "cast_id": 6,
+        "character": "Tribe",
+        "credit_id": "52fe4909c3a368484e117793",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 135993,
+        "known_for_department": "Acting",
+        "name": "Frank Schorpion",
+        "original_name": "Frank Schorpion",
+        "popularity": 1.2512,
+        "profile_path": "/aYHpKplVgIeuN8VoJq5R1Im9QKi.jpg",
+        "cast_id": 11,
+        "character": "Jack Kidman",
+        "credit_id": "57d77e9dc3a3682a87001fd9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1678388,
+        "known_for_department": "Acting",
+        "name": "Sean Mercado",
+        "original_name": "Sean Mercado",
+        "popularity": 0.3945,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Pierce",
+        "credit_id": "57d77ea99251415390000d27",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1569227,
+        "known_for_department": "Acting",
+        "name": "Sacha Charles",
+        "original_name": "Sacha Charles",
+        "popularity": 0.5611,
+        "profile_path": "/2MUXMg7D5azItPdDTN3hNUeZLhj.jpg",
+        "cast_id": 13,
+        "character": "Roddick",
+        "credit_id": "57d77eb19251415386000d21",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 371298,
+        "known_for_department": "Writing",
+        "name": "Joe Nimziki",
+        "original_name": "Joe Nimziki",
+        "popularity": 0.5848,
+        "profile_path": null,
+        "credit_id": "52fe4909c3a368484e117787",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 371298,
+        "known_for_department": "Writing",
+        "name": "Joe Nimziki",
+        "original_name": "Joe Nimziki",
+        "popularity": 0.5848,
+        "profile_path": null,
+        "credit_id": "52fe4909c3a368484e117781",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1037909,
+        "known_for_department": "Production",
+        "name": "Kevin Kasha",
+        "original_name": "Kevin Kasha",
+        "popularity": 0.3974,
+        "profile_path": null,
+        "credit_id": "629103df76eecf009a1fb179",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64053,
+        "known_for_department": "Production",
+        "name": "Robert Pringle",
+        "original_name": "Robert Pringle",
+        "popularity": 0.4995,
+        "profile_path": null,
+        "credit_id": "629103f0fb8346009bab1320",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2092283,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Larysa Chernienko",
+        "original_name": "Larysa Chernienko",
+        "popularity": 0.4889,
+        "profile_path": null,
+        "credit_id": "629104725a46900052b3c6b6",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1155727,
+        "known_for_department": "Production",
+        "name": "Cynthia H. Margulis",
+        "original_name": "Cynthia H. Margulis",
+        "popularity": 0.5366,
+        "profile_path": null,
+        "credit_id": "629104095a4690009e41257e",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57858,
+        "known_for_department": "Editing",
+        "name": "James Coblentz",
+        "original_name": "James Coblentz",
+        "popularity": 0.5739,
+        "profile_path": null,
+        "credit_id": "62910433ecbde90b61979615",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 174108,
+        "known_for_department": "Art",
+        "name": "David Blanchard",
+        "original_name": "David Blanchard",
+        "popularity": 0.5708,
+        "profile_path": null,
+        "credit_id": "6291043f89b5610066a7a214",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1034517,
+        "known_for_department": "Production",
+        "name": "Joel Kastelberg",
+        "original_name": "Joel Kastelberg",
+        "popularity": 0.3552,
+        "profile_path": null,
+        "credit_id": "629103d7ed2ac216ba10ffaa",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1201224,
+        "known_for_department": "Art",
+        "name": "Yuda Acco",
+        "original_name": "Yuda Acco",
+        "popularity": 0.4265,
+        "profile_path": null,
+        "credit_id": "6291044c12425c00a0d87328",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 957146,
+        "known_for_department": "Production",
+        "name": "Vera Miller",
+        "original_name": "Vera Miller",
+        "popularity": 0.4403,
+        "profile_path": null,
+        "credit_id": "6291045789b561009f1fb7fe",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 20639,
+        "known_for_department": "Production",
+        "name": "Ernst Etchie Stroh",
+        "original_name": "Ernst Etchie Stroh",
+        "popularity": 0.5347,
+        "profile_path": null,
+        "credit_id": "629103f889b561009f1fb6c1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1166608,
+        "known_for_department": "Camera",
+        "name": "Benoit Beaulieu",
+        "original_name": "Benoit Beaulieu",
+        "popularity": 0.5625,
+        "profile_path": null,
+        "credit_id": "6291041decbde90b5ff45518",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1468930,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Claire Nadon",
+        "original_name": "Claire Nadon",
+        "popularity": 0.4218,
+        "profile_path": null,
+        "credit_id": "62910461df86a87625b8aacb",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1357029,
+        "known_for_department": "Sound",
+        "name": "Christopher Carmichael",
+        "original_name": "Christopher Carmichael",
+        "popularity": 0.3896,
+        "profile_path": "/yzdHPp9Fkakr2xOpk4Uxs04LrRf.jpg",
+        "credit_id": "66be12026680904c1b4035c9",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2174351,
+        "known_for_department": "Sound",
+        "name": "Mark Yaeger",
+        "original_name": "Mark Yaeger",
+        "popularity": 0.3303,
+        "profile_path": null,
+        "credit_id": "66be12081604b60f26403585",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 122,
+        "known_for_department": "Sound",
+        "name": "Klaus Badelt",
+        "original_name": "Klaus Badelt",
+        "popularity": 0.7699,
+        "profile_path": "/tU2OY1Oj5a2JVh9VKt9QsDPZkos.jpg",
+        "credit_id": "66be12171c15ca9349403652",
+        "department": "Crew",
+        "job": "Executive Music Producer"
+      }
+    ]
+  }
+}

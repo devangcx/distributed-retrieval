@@ -1,0 +1,366 @@
+{
+  "adult": false,
+  "backdrop_path": "/xVLbRglz8yOPT1m32rycJQNAI2C.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 1123282,
+  "imdb_id": "tt1659324",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Depravity",
+  "overview": "A group of residents begins to suspect that their strange neighbor might be hiding something dark.",
+  "popularity": 3.3398,
+  "poster_path": "/FdVaHyz80vatz25boNLneTNCrR.jpg",
+  "production_companies": [
+    {
+      "id": 121204,
+      "logo_path": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
+      "name": "BondIt Media Capital",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-10-11",
+  "revenue": 0,
+  "runtime": 112,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Depravity",
+  "video": false,
+  "vote_average": 5.621,
+  "vote_count": 62,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1369329,
+        "known_for_department": "Acting",
+        "name": "Taylor John Smith",
+        "original_name": "Taylor John Smith",
+        "popularity": 1.6124,
+        "profile_path": "/6dXZRf8ePa1oxQN9a5hFGEjDoI0.jpg",
+        "cast_id": 5,
+        "character": "Alex Burke",
+        "credit_id": "645733ca156cc700ffa63e37",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 191228,
+        "known_for_department": "Acting",
+        "name": "Victoria Justice",
+        "original_name": "Victoria Justice",
+        "popularity": 3.6281,
+        "profile_path": "/47IQmeSdGg6CD4UxquwGbI5gARy.jpg",
+        "cast_id": 4,
+        "character": "Grace Shaw",
+        "credit_id": "645733c26aa8e00139ba59f1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3505999,
+        "known_for_department": "Acting",
+        "name": "Devon Ross",
+        "original_name": "Devon Ross",
+        "popularity": 0.6164,
+        "profile_path": "/rkHwTd27pB43ORTbI21FLZNWvhZ.jpg",
+        "cast_id": 6,
+        "character": "Aria",
+        "credit_id": "645733d423be46011bc6727f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20212,
+        "known_for_department": "Acting",
+        "name": "Dermot Mulroney",
+        "original_name": "Dermot Mulroney",
+        "popularity": 6.055,
+        "profile_path": "/kkrMKD6b4vEdphVgKsenRY4NgiC.jpg",
+        "cast_id": 3,
+        "character": "Mr. Evers",
+        "credit_id": "645733bbfe077a01398bc839",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1411561,
+        "known_for_department": "Acting",
+        "name": "Sasha Luss",
+        "original_name": "Sasha Luss",
+        "popularity": 2.087,
+        "profile_path": "/x2NAXWLuUBLDNBSANeyGgTbQocl.jpg",
+        "cast_id": 8,
+        "character": "Tovia",
+        "credit_id": "662e67e1d96c3c012598b6ec",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1167375,
+        "known_for_department": "Acting",
+        "name": "Alex Roe",
+        "original_name": "Alex Roe",
+        "popularity": 2.1208,
+        "profile_path": "/n3EVRACN3XEuOzrWK3TTn791gWo.jpg",
+        "cast_id": 10,
+        "character": "Claude",
+        "credit_id": "662e67ff072166012469c1ff",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 157859,
+        "known_for_department": "Acting",
+        "name": "Adam Lazarre-White",
+        "original_name": "Adam Lazarre-White",
+        "popularity": 0.9172,
+        "profile_path": "/p63rzBpX50N94k81febrIwxUeQD.jpg",
+        "cast_id": 11,
+        "character": "Detective Polk",
+        "credit_id": "662e6811511d090121c546b3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5638839,
+        "known_for_department": "Acting",
+        "name": "Noi Pru",
+        "original_name": "Noi Pru",
+        "popularity": 0.3333,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Manny",
+        "credit_id": "68a6579517c9772887d54e9f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1688996,
+        "known_for_department": "Acting",
+        "name": "Stephen Stapinski",
+        "original_name": "Stephen Stapinski",
+        "popularity": 0.3604,
+        "profile_path": "/ruujTPaP3WEZawuwQvG8lKqIEGa.jpg",
+        "cast_id": 12,
+        "character": "Jay",
+        "credit_id": "662e68257d5db5012c3e261b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1415841,
+        "known_for_department": "Production",
+        "name": "Geoff Browne",
+        "original_name": "Geoff Browne",
+        "popularity": 0.3687,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Cop #1",
+        "credit_id": "68a6571eb579937917fd2984",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1820088,
+        "known_for_department": "Acting",
+        "name": "Bear Williams",
+        "original_name": "Bear Williams",
+        "popularity": 0.5549,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Cop #2",
+        "credit_id": "68a65742684d6acaf8a81a37",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5638834,
+        "known_for_department": "Acting",
+        "name": "Sawad Wongkaen",
+        "original_name": "Sawad Wongkaen",
+        "popularity": 0.1812,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Small Person",
+        "credit_id": "68a6575f31e18256b8697583",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4680506,
+        "known_for_department": "Production",
+        "name": "Gary Hirsch",
+        "original_name": "Gary Hirsch",
+        "popularity": 0.222,
+        "profile_path": null,
+        "credit_id": "662e68be511d090121c546d8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67682,
+        "known_for_department": "Production",
+        "name": "Dorothy Aufiero",
+        "original_name": "Dorothy Aufiero",
+        "popularity": 0.4615,
+        "profile_path": null,
+        "credit_id": "662e68441f0275012a14672c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86525,
+        "known_for_department": "Writing",
+        "name": "Paul Tamasy",
+        "original_name": "Paul Tamasy",
+        "popularity": 0.6879,
+        "profile_path": null,
+        "credit_id": "662e6888511d090124c532b8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1382441,
+        "known_for_department": "Production",
+        "name": "Scott Clayton",
+        "original_name": "Scott Clayton",
+        "popularity": 0.523,
+        "profile_path": null,
+        "credit_id": "662e68745a7884012ac1ddc7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 950644,
+        "known_for_department": "Production",
+        "name": "Jordan Gertner",
+        "original_name": "Jordan Gertner",
+        "popularity": 0.457,
+        "profile_path": null,
+        "credit_id": "662e685c7d5db501233e29c3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65615,
+        "known_for_department": "Directing",
+        "name": "Wych Kaosayananda",
+        "original_name": "Wych Kaosayananda",
+        "popularity": 0.715,
+        "profile_path": null,
+        "credit_id": "662e689ac3aa3f0126fd5c22",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86525,
+        "known_for_department": "Writing",
+        "name": "Paul Tamasy",
+        "original_name": "Paul Tamasy",
+        "popularity": 0.6879,
+        "profile_path": null,
+        "credit_id": "645733a96c8492018186ed8b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86525,
+        "known_for_department": "Writing",
+        "name": "Paul Tamasy",
+        "original_name": "Paul Tamasy",
+        "popularity": 0.6879,
+        "profile_path": null,
+        "credit_id": "645733af77d23b01365c81c2",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 60590,
+        "known_for_department": "Sound",
+        "name": "Joseph Metcalfe",
+        "original_name": "Joseph Metcalfe",
+        "popularity": 0.3124,
+        "profile_path": null,
+        "credit_id": "68a6594f5a10ad806e697498",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65615,
+        "known_for_department": "Directing",
+        "name": "Wych Kaosayananda",
+        "original_name": "Wych Kaosayananda",
+        "popularity": 0.715,
+        "profile_path": null,
+        "credit_id": "68a659824b9cf27b073e8840",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

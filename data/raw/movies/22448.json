@@ -1,0 +1,434 @@
+{
+  "adult": false,
+  "backdrop_path": "/hNHvjW48NwXKwncvU8XuTbr210o.jpg",
+  "belongs_to_collection": {
+    "id": 1726913,
+    "name": "Awarapan Collection",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 6000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 22448,
+  "imdb_id": "tt1020937",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "आवारापन",
+  "overview": "A loyal henchman is ordered by his boss to keep an eye on his mistress, and trouble begins when he refuses to kill her.",
+  "popularity": 5.6146,
+  "poster_path": "/yVArEukDbkfNjxsynes4PWI4nlk.jpg",
+  "production_companies": [
+    {
+      "id": 3749,
+      "logo_path": "/54N3BYPtuETnYumu6gjv97dg6H8.png",
+      "name": "Vishesh Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2007-06-29",
+  "revenue": 0,
+  "runtime": 124,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Love was his only destination!",
+  "title": "Awarapan",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 53,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85969,
+        "known_for_department": "Acting",
+        "name": "Emraan Hashmi",
+        "original_name": "इमरान हाशमी",
+        "popularity": 2.2624,
+        "profile_path": "/kflgvFCFZnpTRbKmJWn5T0G5EKI.jpg",
+        "cast_id": 4,
+        "character": "Shivam Pandit",
+        "credit_id": "52fe4441c3a368484e01899d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 145628,
+        "known_for_department": "Acting",
+        "name": "Shriya Saran",
+        "original_name": "శ్రియా శరణ్",
+        "popularity": 1.9101,
+        "profile_path": "/7TVh3yF6kpZOQFyWV5jC5XqJruI.jpg",
+        "cast_id": 9,
+        "character": "Aaliyah",
+        "credit_id": "52fe4441c3a368484e0189ad",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 88803,
+        "known_for_department": "Acting",
+        "name": "Mrinalini Sharma",
+        "original_name": "Mrinalini Sharma",
+        "popularity": 0.8274,
+        "profile_path": "/rzcrmzkGvtGA6uCD42cvJk9EeAC.jpg",
+        "cast_id": 6,
+        "character": "Reema",
+        "credit_id": "52fe4441c3a368484e0189a1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88804,
+        "known_for_department": "Acting",
+        "name": "Salil Acharya",
+        "original_name": "Salil Acharya",
+        "popularity": 1.0207,
+        "profile_path": "/nRiaQWdRQpSqbpBf2lvbXzOOoRI.jpg",
+        "cast_id": 7,
+        "character": "Ronnie Malik",
+        "credit_id": "52fe4441c3a368484e0189a5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85574,
+        "known_for_department": "Acting",
+        "name": "Purab Kohli",
+        "original_name": "Purab Kohli",
+        "popularity": 1.0955,
+        "profile_path": "/86rSTyRxb63UwmTrJxwjhwfHCbT.jpg",
+        "cast_id": 8,
+        "character": "Munna Malik",
+        "credit_id": "52fe4441c3a368484e0189a9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85684,
+        "known_for_department": "Acting",
+        "name": "Ashish Vidhyarthi",
+        "original_name": "Ashish Vidhyarthi",
+        "popularity": 1.4173,
+        "profile_path": "/iBUUpfHZIfpC5afHrHwcyGTHKQF.jpg",
+        "cast_id": 14,
+        "character": "Raja D. Malik",
+        "credit_id": "5bb8cbd3c3a368241b01122a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86508,
+        "known_for_department": "Acting",
+        "name": "Ashutosh Rana",
+        "original_name": "Ashutosh Rana",
+        "popularity": 1.2177,
+        "profile_path": "/jFlhAoEP3KGEXO3SXCA4YLM2Goc.jpg",
+        "cast_id": 15,
+        "character": "Bharat Daulat Malik",
+        "credit_id": "5bb8cbde0e0a2634f900f835",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 230022,
+        "known_for_department": "Acting",
+        "name": "Rehan Khan",
+        "original_name": "Rehan Khan",
+        "popularity": 0.7892,
+        "profile_path": "/sAQeRJcx4eDwzhNUvQMGdCn0pRW.jpg",
+        "cast_id": 16,
+        "character": "Bilal",
+        "credit_id": "5bb8cbf0c3a368241800ff77",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 562227,
+        "known_for_department": "Acting",
+        "name": "Atul Parchure",
+        "original_name": "Atul Parchure",
+        "popularity": 0.6521,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Siddharth Sood",
+        "credit_id": "5bb8cc060e0a2634e800fce4",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 229276,
+        "known_for_department": "Acting",
+        "name": "Shaad Randhawa",
+        "original_name": "Shaad Randhawa",
+        "popularity": 1.0691,
+        "profile_path": "/eFUtx2lbDmu6RUaezRsub9O7yGv.jpg",
+        "cast_id": 18,
+        "character": "Kabir",
+        "credit_id": "5bb8cc169251410a1a00eaed",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88800,
+        "known_for_department": "Directing",
+        "name": "Mohit Suri",
+        "original_name": "Mohit Suri",
+        "popularity": 1.1896,
+        "profile_path": "/iDAUmTKFKD0XVDyqFNtAyMNzx4W.jpg",
+        "credit_id": "52fe4441c3a368484e01898d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88802,
+        "known_for_department": "Production",
+        "name": "Mukesh Bhatt",
+        "original_name": "Mukesh Bhatt",
+        "popularity": 0.739,
+        "profile_path": "/yHEtla0qYbPGXGXSaYGIlKWERLT.jpg",
+        "credit_id": "52fe4441c3a368484e018999",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71273,
+        "known_for_department": "Sound",
+        "name": "Pritam Chakraborty",
+        "original_name": "Pritam Chakraborty",
+        "popularity": 0.7956,
+        "profile_path": "/zS8kE2DWQBTQ7ArSSZiWg0OTXvo.jpg",
+        "credit_id": "52fe4441c3a368484e0189b3",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69081,
+        "known_for_department": "Directing",
+        "name": "Kim Jee-woon",
+        "original_name": "김지운",
+        "popularity": 1.2729,
+        "profile_path": "/5HYk7X2ygmOEWBAjBgxIEz4aT8t.jpg",
+        "credit_id": "65a63134988afd012b898260",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 229109,
+        "known_for_department": "Writing",
+        "name": "Shagufta Rafique",
+        "original_name": "Shagufta Rafique",
+        "popularity": 0.5757,
+        "profile_path": null,
+        "credit_id": "5925fe139251413b5b015f61",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2330931,
+        "known_for_department": "Sound",
+        "name": "Mustafa Zahid",
+        "original_name": "Mustafa Zahid",
+        "popularity": 0.431,
+        "profile_path": "/cvBxCOc9nnoOlMHaY0l3McPjMJP.jpg",
+        "credit_id": "5d63e576aafebd0018a71792",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1810771,
+        "known_for_department": "Sound",
+        "name": "Rafaqat Ali Khan",
+        "original_name": "Rafaqat Ali Khan",
+        "popularity": 0.3013,
+        "profile_path": null,
+        "credit_id": "5dbfcdc8f1b5710015e84eb4",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2347383,
+        "known_for_department": "Acting",
+        "name": "Annie Khalid",
+        "original_name": "Annie Khalid",
+        "popularity": 0.2941,
+        "profile_path": null,
+        "credit_id": "5dbfcf5fef4889001715ef5e",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 229109,
+        "known_for_department": "Writing",
+        "name": "Shagufta Rafique",
+        "original_name": "Shagufta Rafique",
+        "popularity": 0.5757,
+        "profile_path": null,
+        "credit_id": "5e05c8c89bcd0f00150dbee7",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2253252,
+        "known_for_department": "Sound",
+        "name": "Suzanne D'Mello",
+        "original_name": "Suzanne D'Mello",
+        "popularity": 0.3332,
+        "profile_path": "/1X8yO4UaZQ5fxVdiugV8jSqpj71.jpg",
+        "credit_id": "5e05c9194c1d9a0019ddcaa4",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85894,
+        "known_for_department": "Directing",
+        "name": "Mahesh Bhatt",
+        "original_name": "Mahesh Bhatt",
+        "popularity": 0.6913,
+        "profile_path": "/hEvDopJhOKbcEPdwcuz3e4b0w4m.jpg",
+        "credit_id": "5e05c8d29bcd0f00150dbf00",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2280590,
+        "known_for_department": "Camera",
+        "name": "Raaj Chakravarti",
+        "original_name": "Raaj Chakravarti",
+        "popularity": 0.3545,
+        "profile_path": null,
+        "credit_id": "5e05c8e54c1d9a0019ddc9f2",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85894,
+        "known_for_department": "Directing",
+        "name": "Mahesh Bhatt",
+        "original_name": "Mahesh Bhatt",
+        "popularity": 0.6913,
+        "profile_path": "/hEvDopJhOKbcEPdwcuz3e4b0w4m.jpg",
+        "credit_id": "5e05c89d9bcd0f00150dbe93",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4044768,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Shriniwas Narayan Reddy",
+        "original_name": "Shriniwas Narayan Reddy",
+        "popularity": 0.2668,
+        "profile_path": null,
+        "credit_id": "6a081ebacae42a0bc15a7c0b",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6217401,
+        "known_for_department": "Production",
+        "name": "Naveen Mathur",
+        "original_name": "Naveen Mathur",
+        "popularity": 0.2272,
+        "profile_path": null,
+        "credit_id": "6a081ece31fab655ac3b74fd",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2234433,
+        "known_for_department": "Sound",
+        "name": "Jayesh Dhakan",
+        "original_name": "Jayesh Dhakan",
+        "popularity": 0.3486,
+        "profile_path": null,
+        "credit_id": "6a081ed703d5d867620fd1c2",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2074617,
+        "known_for_department": "Editing",
+        "name": "Rahul Purav",
+        "original_name": "Rahul Purav",
+        "popularity": 0.3899,
+        "profile_path": null,
+        "credit_id": "6a081ee8974d3aa1d20fd38f",
+        "department": "Editing",
+        "job": "Colorist"
+      }
+    ]
+  }
+}

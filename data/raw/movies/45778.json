@@ -1,0 +1,306 @@
+{
+  "adult": false,
+  "backdrop_path": "/rcWqCmRwLU9P8ENDgfTa1hZM5CZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 3000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 45778,
+  "imdb_id": "tt1047449",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Camp Hell",
+  "overview": "At the end of every summer, the children of a Christian community from a suburb of New Jersey attend Camp Hope. They travel deep into the woods far from any distractions the world provides. Here, the children are taught the ways of the Lord, the perils of the flesh, and the horror of the Devil. A charismatic priest leads them in their training. But, he unknowingly has brought something with him, something evil. What was supposed to be a safe place, a spiritual retreat has now turned into a nightmare that not even faith can end.",
+  "popularity": 2.6337,
+  "poster_path": "/ouZMwWVcU4X3H6WSjNAsx96ogR8.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2010-08-13",
+  "revenue": 0,
+  "runtime": 99,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Ways of the Lord, Perils of the Flesh and Horror of the Devil",
+  "title": "Camp Hell",
+  "video": false,
+  "vote_average": 3.669,
+  "vote_count": 59,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133814,
+        "known_for_department": "Acting",
+        "name": "Will Denton",
+        "original_name": "Will Denton",
+        "popularity": 0.95,
+        "profile_path": "/o3C3fpbtg3j65Nnl8SYiYwRLwzj.jpg",
+        "cast_id": 12,
+        "character": "Tommy",
+        "credit_id": "52fe46d3c3a36847f81144dd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52374,
+        "known_for_department": "Acting",
+        "name": "Bruce Davison",
+        "original_name": "Bruce Davison",
+        "popularity": 2.5509,
+        "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg",
+        "cast_id": 16,
+        "character": "Fr. Phineas McAllister",
+        "credit_id": "52fe46d3c3a36847f81144e9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61510,
+        "known_for_department": "Acting",
+        "name": "Christopher Denham",
+        "original_name": "Christopher Denham",
+        "popularity": 1.6885,
+        "profile_path": "/ffPY0KrV5KP9Nuv27m3JQU6j3Tq.jpg",
+        "cast_id": 15,
+        "character": "Christian",
+        "credit_id": "52fe46d3c3a36847f81144e5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4738,
+        "known_for_department": "Acting",
+        "name": "Connor Paolo",
+        "original_name": "Connor Paolo",
+        "popularity": 1.9634,
+        "profile_path": "/fAvc2hUrh0cqi3OfLteu5cWRD50.jpg",
+        "cast_id": 22,
+        "character": "Jack",
+        "credit_id": "57240404c3a3682d3f00401a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 92999,
+        "known_for_department": "Acting",
+        "name": "Valentina de Angelis",
+        "original_name": "Valentina de Angelis",
+        "popularity": 0.8828,
+        "profile_path": "/hs2xlX7jAgY0dib1RPmjMjqVLMC.jpg",
+        "cast_id": 21,
+        "character": "Melissa",
+        "credit_id": "52fe46d3c3a36847f81144fd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4012,
+        "known_for_department": "Acting",
+        "name": "Spencer Treat Clark",
+        "original_name": "Spencer Treat Clark",
+        "popularity": 2.1073,
+        "profile_path": "/8qb2Unu2907rU7k6UxmF9PFamau.jpg",
+        "cast_id": 4,
+        "character": "Timothy",
+        "credit_id": "52fe46d3c3a36847f81144cd",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 65002,
+        "known_for_department": "Acting",
+        "name": "Dana Delany",
+        "original_name": "Dana Delany",
+        "popularity": 3.3277,
+        "profile_path": "/5mEVqIAVj0YzqUKDy5YXbQPcUyM.jpg",
+        "cast_id": 17,
+        "character": "Patricia Leary",
+        "credit_id": "52fe46d3c3a36847f81144ed",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37041,
+        "known_for_department": "Acting",
+        "name": "Andrew McCarthy",
+        "original_name": "Andrew McCarthy",
+        "popularity": 1.9771,
+        "profile_path": "/swlewiX5zUjF5za9JOFXIVrL3kH.jpg",
+        "cast_id": 18,
+        "character": "Michael Leary",
+        "credit_id": "52fe46d3c3a36847f81144f1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44735,
+        "known_for_department": "Acting",
+        "name": "Jesse Eisenberg",
+        "original_name": "Jesse Eisenberg",
+        "popularity": 4.5601,
+        "profile_path": "/2ojZrkt5rdkUi857WSeCatxXdGS.jpg",
+        "cast_id": 3,
+        "character": "Daniel",
+        "credit_id": "52fe46d3c3a36847f81144c9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133801,
+        "known_for_department": "Acting",
+        "name": "Joseph Vincent Cordaro",
+        "original_name": "Joseph Vincent Cordaro",
+        "popularity": 0.4901,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Ryan",
+        "credit_id": "52fe46d3c3a36847f81144d1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 155173,
+        "known_for_department": "Acting",
+        "name": "James McCaffrey",
+        "original_name": "James McCaffrey",
+        "popularity": 1.3658,
+        "profile_path": "/6rH41NHtOuPMFpIYL1XPvEMPq1t.jpg",
+        "cast_id": 25,
+        "character": "Dr. John",
+        "credit_id": "6303f0c85f4b73007af19fa9",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5377,
+        "known_for_department": "Acting",
+        "name": "Ato Essandoh",
+        "original_name": "Ato Essandoh",
+        "popularity": 1.392,
+        "profile_path": "/bXwpCbl2grM5UYv5l5DXMrqrlxp.jpg",
+        "cast_id": 19,
+        "character": "Priest",
+        "credit_id": "52fe46d3c3a36847f81144f5",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133046,
+        "known_for_department": "Acting",
+        "name": "Charlie Hewson",
+        "original_name": "Charlie Hewson",
+        "popularity": 0.7485,
+        "profile_path": "/pIH2ghVYyU1WiLMTQYbJUoTdYNq.jpg",
+        "cast_id": 20,
+        "character": "Paramedic",
+        "credit_id": "52fe46d3c3a36847f81144f9",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133811,
+        "known_for_department": "Sound",
+        "name": "Gary DeMichele",
+        "original_name": "Gary DeMichele",
+        "popularity": 0.2356,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Hobo",
+        "credit_id": "52fe46d3c3a36847f81144d9",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 133815,
+        "known_for_department": "Editing",
+        "name": "Jaron Downs",
+        "original_name": "Jaron Downs",
+        "popularity": 0.412,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Camp Brother",
+        "credit_id": "52fe46d3c3a36847f81144e1",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2841221,
+        "known_for_department": "Directing",
+        "name": "Carrie Bush",
+        "original_name": "Carrie Bush",
+        "popularity": 0.3979,
+        "profile_path": null,
+        "credit_id": "609762e0b34409003cb7d31a",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 133794,
+        "known_for_department": "Production",
+        "name": "George VanBuskirk",
+        "original_name": "George VanBuskirk",
+        "popularity": 0.3951,
+        "profile_path": null,
+        "credit_id": "52fe46d3c3a36847f81144bf",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 133794,
+        "known_for_department": "Production",
+        "name": "George VanBuskirk",
+        "original_name": "George VanBuskirk",
+        "popularity": 0.3951,
+        "profile_path": null,
+        "credit_id": "5b22c9aa9251416e4201ddce",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

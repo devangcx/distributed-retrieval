@@ -1,0 +1,466 @@
+{
+  "adult": false,
+  "backdrop_path": "/fEQZhYwDsnlkVRJYTMB682et3tE.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://films.nationalgeographic.com/torn",
+  "id": 730057,
+  "imdb_id": "tt11876896",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Torn",
+  "overview": "When world renowned climber Alex Lowe was tragically lost in a deadly avalanche, his best friend and climbing partner went on to marry his widow and help raise his three sons. This profoundly intimate film from eldest son Max, captures the family's intense personal journey toward understanding as they finally lay him to rest.",
+  "popularity": 2.7102,
+  "poster_path": "/A2FQq9rXzIp9uMLnhB15686Y6uJ.jpg",
+  "production_companies": [
+    {
+      "id": 7521,
+      "logo_path": "/fRqMjLjyAqThtEg9P9WKCXLmCpJ.png",
+      "name": "National Geographic",
+      "origin_country": "US"
+    },
+    {
+      "id": 15285,
+      "logo_path": "/wvM3yt9OZwmAYzYWE4RWn45eZeh.png",
+      "name": "Lightbox Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 160218,
+      "logo_path": null,
+      "name": "Wilderpeople Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 189457,
+      "logo_path": "/a0ruFlMfEs2pTOLZ1tPHqzDH7Fc.png",
+      "name": "National Geographic Documentary Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NP",
+      "name": "Nepal"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-12-03",
+  "revenue": 0,
+  "runtime": 92,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The bigger the life, the greater the risk.",
+  "title": "Torn",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 25,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3372546,
+        "known_for_department": "Acting",
+        "name": "Alex Lowe",
+        "original_name": "Alex Lowe",
+        "popularity": 0.6885,
+        "profile_path": "/ArqMhi7Omuf7MPQYro8c2Ka3GjF.jpg",
+        "cast_id": 9,
+        "character": "Self (archive footage)",
+        "credit_id": "61d813eea35c8e004182c9e2",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1581187,
+        "known_for_department": "Directing",
+        "name": "Max Lowe",
+        "original_name": "Max Lowe",
+        "popularity": 0.6174,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Self",
+        "credit_id": "61d81412a35c8e008f191430",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3372547,
+        "known_for_department": "Acting",
+        "name": "Sam Lowe",
+        "original_name": "Sam Lowe",
+        "popularity": 0.3369,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Self",
+        "credit_id": "61d81428e039f10068394fc0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3372548,
+        "known_for_department": "Acting",
+        "name": "Isaac Lowe",
+        "original_name": "Isaac Lowe",
+        "popularity": 0.3324,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Self",
+        "credit_id": "61d81432160e73004197fb98",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3372549,
+        "known_for_department": "Acting",
+        "name": "Jennifer Lowe",
+        "original_name": "Jennifer Lowe",
+        "popularity": 0.3259,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Self",
+        "credit_id": "61d81443e039f10068394fd5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 229073,
+        "known_for_department": "Acting",
+        "name": "Conrad Anker",
+        "original_name": "Conrad Anker",
+        "popularity": 0.7896,
+        "profile_path": "/k5dEicG6PEEUcU7tIePSYoTkU7M.jpg",
+        "cast_id": 14,
+        "character": "Self",
+        "credit_id": "61d81451a3e4ba006403154f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1403129,
+        "known_for_department": "Directing",
+        "name": "Jimmy Chin",
+        "original_name": "Jimmy Chin",
+        "popularity": 1.0336,
+        "profile_path": "/3ay242p85A9QzR785SuBv4xASAp.jpg",
+        "cast_id": 29,
+        "character": "Self",
+        "credit_id": "62c0aa79a67254007ee6761e",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2329798,
+        "known_for_department": "Production",
+        "name": "Ryan Harrington",
+        "original_name": "Ryan Harrington",
+        "popularity": 0.4308,
+        "profile_path": null,
+        "credit_id": "61327c99a6a4c10043dbc76d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1244034,
+        "known_for_department": "Production",
+        "name": "Jonathan Chinn",
+        "original_name": "Jonathan Chinn",
+        "popularity": 0.4789,
+        "profile_path": null,
+        "credit_id": "61327ca46cf3d50042837abf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3221588,
+        "known_for_department": "Production",
+        "name": "Chris Murphy",
+        "original_name": "Chris Murphy",
+        "popularity": 0.2386,
+        "profile_path": null,
+        "credit_id": "61327cf864f7160042eb7fb5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 984513,
+        "known_for_department": "Sound",
+        "name": "Saunder Jurriaans",
+        "original_name": "Saunder Jurriaans",
+        "popularity": 0.6618,
+        "profile_path": null,
+        "credit_id": "61327c7a1b7294008f563019",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1181321,
+        "known_for_department": "Production",
+        "name": "Simon Chinn",
+        "original_name": "Simon Chinn",
+        "popularity": 0.5906,
+        "profile_path": "/7FYUMJrnRLRpvRPsagvkNEnAwdR.jpg",
+        "credit_id": "61327caa5e12000061cf3cf4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1208226,
+        "known_for_department": "Sound",
+        "name": "Danny Bensi",
+        "original_name": "Danny Bensi",
+        "popularity": 0.5976,
+        "profile_path": "/qyyiInZcq9uKI7BAUON6XKxOBim.jpg",
+        "credit_id": "61327c731fb94f00613c86b0",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1636429,
+        "known_for_department": "Production",
+        "name": "Carolyn Bernstein",
+        "original_name": "Carolyn Bernstein",
+        "popularity": 0.5402,
+        "profile_path": "/nq3ZiuDdX19AtT8NuSRPl0KnKnT.jpg",
+        "credit_id": "61327c92a39d0b0093b4d6a1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2524224,
+        "known_for_department": "Camera",
+        "name": "Logan Schneider",
+        "original_name": "Logan Schneider",
+        "popularity": 0.2758,
+        "profile_path": null,
+        "credit_id": "6313ca6f0cb335007a924664",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1636536,
+        "known_for_department": "Sound",
+        "name": "Max Braverman",
+        "original_name": "Max Braverman",
+        "popularity": 0.3275,
+        "profile_path": null,
+        "credit_id": "62015cff00508a008e12d02a",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3417049,
+        "known_for_department": "Sound",
+        "name": "Marcin Chojnowski",
+        "original_name": "Marcin Chojnowski",
+        "popularity": 0.2386,
+        "profile_path": null,
+        "credit_id": "62015d1166ae4d00d9f73918",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3417052,
+        "known_for_department": "Crew",
+        "name": "Jordi Nus",
+        "original_name": "Jordi Nus",
+        "popularity": 0.2062,
+        "profile_path": null,
+        "credit_id": "62015d7be54d5d009573148c",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2153135,
+        "known_for_department": "Crew",
+        "name": "David Kraemer",
+        "original_name": "David Kraemer",
+        "popularity": 0.3222,
+        "profile_path": null,
+        "credit_id": "62015c895a5ed000992ff988",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3417050,
+        "known_for_department": "Editing",
+        "name": "Santiago Padilla",
+        "original_name": "Santiago Padilla",
+        "popularity": 0.2289,
+        "profile_path": null,
+        "credit_id": "62015d57e8d0b400de5e8e58",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3417047,
+        "known_for_department": "Production",
+        "name": "Levi Hawkinson",
+        "original_name": "Levi Hawkinson",
+        "popularity": 0.1647,
+        "profile_path": null,
+        "credit_id": "62015c7711386c4c2f364834",
+        "department": "Production",
+        "job": "Post Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2780989,
+        "known_for_department": "Editing",
+        "name": "Molly Nolan",
+        "original_name": "Molly Nolan",
+        "popularity": 0.2018,
+        "profile_path": null,
+        "credit_id": "62015d40d34eb3006b6147e0",
+        "department": "Editing",
+        "job": "Online Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 75366,
+        "known_for_department": "Editing",
+        "name": "Doug Delaney",
+        "original_name": "Doug Delaney",
+        "popularity": 0.489,
+        "profile_path": null,
+        "credit_id": "62015d2fe9da6900e292c4a9",
+        "department": "Editing",
+        "job": "Senior Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2642424,
+        "known_for_department": "Production",
+        "name": "Bengt Anderson",
+        "original_name": "Bengt Anderson",
+        "popularity": 0.4456,
+        "profile_path": null,
+        "credit_id": "62015c4d16893500685f4ccb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1824517,
+        "known_for_department": "Sound",
+        "name": "Phil McGowan",
+        "original_name": "Phil McGowan",
+        "popularity": 0.4368,
+        "profile_path": null,
+        "credit_id": "62015d6b8f26bc010a7ada53",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3403868,
+        "known_for_department": "Production",
+        "name": "Christopher Matson",
+        "original_name": "Christopher Matson",
+        "popularity": 0.2921,
+        "profile_path": null,
+        "credit_id": "62015dc000508a0043e2f579",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1727373,
+        "known_for_department": "Sound",
+        "name": "Gary Welch",
+        "original_name": "Gary Welch",
+        "popularity": 0.4538,
+        "profile_path": null,
+        "credit_id": "62015d86af2da800ce3f45f8",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3417053,
+        "known_for_department": "Production",
+        "name": "Stephen Woloszyn",
+        "original_name": "Stephen Woloszyn",
+        "popularity": 0.1647,
+        "profile_path": null,
+        "credit_id": "62015dd71e922500df5ff07f",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1581187,
+        "known_for_department": "Directing",
+        "name": "Max Lowe",
+        "original_name": "Max Lowe",
+        "popularity": 0.6174,
+        "profile_path": null,
+        "credit_id": "5f29af313e09f300381ff3d1",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

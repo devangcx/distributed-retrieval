@@ -1,0 +1,272 @@
+{
+  "adult": false,
+  "backdrop_path": "/tRdorrIjlybrGsebXOzgF7vRyYy.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.sonypictures.com/movies/borderhunters",
+  "id": 1469354,
+  "imdb_id": "tt32565484",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Border Hunters",
+  "overview": "After his police officer brother is killed by a drug dealer who flees to the protection of his cartel-connected uncle in Mexico, an American man with a diverse law enforcement/military background goes south of the border to get revenge",
+  "popularity": 6.5414,
+  "poster_path": "/6TNFZnJ5CU0uFQxGaO9dbqriiI7.jpg",
+  "production_companies": [
+    {
+      "id": 170350,
+      "logo_path": "/6xu1OMCIcAsXMkHaSHEo58EVizG.png",
+      "name": "Grandave Capital",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-10-20",
+  "revenue": 0,
+  "runtime": 82,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "If you're not an asset, you're a target.",
+  "title": "Border Hunters",
+  "video": false,
+  "vote_average": 6.207,
+  "vote_count": 58,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14329,
+        "known_for_department": "Acting",
+        "name": "Dean Norris",
+        "original_name": "Dean Norris",
+        "popularity": 3.3952,
+        "profile_path": "/mKRrEbsxAX3ro700HsViFArRM7l.jpg",
+        "cast_id": 1,
+        "character": "Abraham",
+        "credit_id": "6808eea3c5c8035fb08acfa1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2000659,
+        "known_for_department": "Acting",
+        "name": "Julio Macias",
+        "original_name": "Julio Macias",
+        "popularity": 0.7143,
+        "profile_path": "/uyCFrzrUXfNn3VMz5xhsCr6EkFR.jpg",
+        "cast_id": 2,
+        "character": "Andro",
+        "credit_id": "6808eeacb6c63d270faaec68",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2612357,
+        "known_for_department": "Acting",
+        "name": "Danforth Comins",
+        "original_name": "Danforth Comins",
+        "popularity": 0.6199,
+        "profile_path": "/qkmqseaHqrtX7zBduJ1z0ypPKEl.jpg",
+        "cast_id": 3,
+        "character": "Jake",
+        "credit_id": "6808eeb7c96e0dcc05ee48d8",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1309812,
+        "known_for_department": "Acting",
+        "name": "Ramón Medina",
+        "original_name": "Ramón Medína",
+        "popularity": 0.737,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Nando",
+        "credit_id": "6808eec0c5c8035fb08acfb2",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2127045,
+        "known_for_department": "Acting",
+        "name": "Pía Sanz",
+        "original_name": "Pía Sanz",
+        "popularity": 0.6833,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Angelica",
+        "credit_id": "6808eedbf913e66a3aee081e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 985456,
+        "known_for_department": "Acting",
+        "name": "Eligio Meléndez",
+        "original_name": "Eligio Meléndez",
+        "popularity": 0.697,
+        "profile_path": "/9fxr0eAMl2DXVv8as4juIGXkD08.jpg",
+        "cast_id": 7,
+        "character": "Ezekiel",
+        "credit_id": "6808eee9c5c8035fb08acfc4",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5390894,
+        "known_for_department": "Acting",
+        "name": "Christina Urias",
+        "original_name": "Christina Urias",
+        "popularity": 0.5756,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Tracy",
+        "credit_id": "6808eed0c96e0dcc05ee48e9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1488706,
+        "known_for_department": "Acting",
+        "name": "Luis Velázquez",
+        "original_name": "Luis Velázquez",
+        "popularity": 0.5515,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Gato",
+        "credit_id": "6808eef8c5c8035fb08acfcf",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2746099,
+        "known_for_department": "Production",
+        "name": "Ruben Islas",
+        "original_name": "Ruben Islas",
+        "popularity": 0.6326,
+        "profile_path": "/2NF4ooRXYEGj3AyeciowElnZrNm.jpg",
+        "credit_id": "6808ef1c6e1a769e81ef01af",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5390900,
+        "known_for_department": "Writing",
+        "name": "Pedro Fernandez",
+        "original_name": "Pedro Fernandez",
+        "popularity": 0.7705,
+        "profile_path": null,
+        "credit_id": "6808ef5ac3e8e74b6deef98d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2612357,
+        "known_for_department": "Acting",
+        "name": "Danforth Comins",
+        "original_name": "Danforth Comins",
+        "popularity": 0.6199,
+        "profile_path": "/qkmqseaHqrtX7zBduJ1z0ypPKEl.jpg",
+        "credit_id": "6808ef6ec5c8035fb08ad017",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3919196,
+        "known_for_department": "Production",
+        "name": "Adan Garay",
+        "original_name": "Adan Garay",
+        "popularity": 0.2881,
+        "profile_path": null,
+        "credit_id": "6808ef7f142b09cecf8a0003",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2746099,
+        "known_for_department": "Production",
+        "name": "Ruben Islas",
+        "original_name": "Ruben Islas",
+        "popularity": 0.6326,
+        "profile_path": "/2NF4ooRXYEGj3AyeciowElnZrNm.jpg",
+        "credit_id": "6808ef90142b09cecf8a0012",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1727405,
+        "known_for_department": "Camera",
+        "name": "Istvan Lettang",
+        "original_name": "Istvan Lettang",
+        "popularity": 0.2994,
+        "profile_path": null,
+        "credit_id": "6808efa1c96e0dcc05ee4958",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1317797,
+        "known_for_department": "Editing",
+        "name": "Sam Reyes",
+        "original_name": "Sam Reyes",
+        "popularity": 0.6841,
+        "profile_path": null,
+        "credit_id": "6808efabb6c63d270faaecbd",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

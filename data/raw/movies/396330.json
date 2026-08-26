@@ -1,0 +1,382 @@
+{
+  "adult": false,
+  "backdrop_path": "/heHlmq6MPp5SdZSvUApCEXDfOBs.jpg",
+  "belongs_to_collection": {
+    "id": 386162,
+    "name": "LEGO DC Comics Super Heroes Collection",
+    "poster_path": "/noBsTnvxo1G4DVd36kaKSbTtM1M.jpg",
+    "backdrop_path": "/xMSbYXiCstnssIdxAajbGST8lpI.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 396330,
+  "imdb_id": "tt5612702",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "LEGO DC Comics Super Heroes: Justice League - Gotham City Breakout",
+  "overview": "The caped crusader reluctantly agrees to let Batgirl and Nightwing take him on a long overdue vacation from crime-fighting, while Superman and the Justice League watch over Gotham City.",
+  "popularity": 2.8702,
+  "poster_path": "/lVlV77juRfkB4gXtkgEqZyqHzkk.jpg",
+  "production_companies": [
+    {
+      "id": 2785,
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "name": "Warner Bros. Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 9993,
+      "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+      "name": "DC Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 4081,
+      "logo_path": "/9Q0SyrhQD61wWbz5KJOkL6tu2mg.png",
+      "name": "The LEGO Group",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2016-06-21",
+  "revenue": 0,
+  "runtime": 78,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "LEGO DC Comics Super Heroes: Justice League - Gotham City Breakout",
+  "video": false,
+  "vote_average": 6.692,
+  "vote_count": 156,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 963818,
+        "known_for_department": "Acting",
+        "name": "Troy Baker",
+        "original_name": "Troy Baker",
+        "popularity": 2.1407,
+        "profile_path": "/mppX8pDkwNvx3dJzclwcGkngEb3.jpg",
+        "cast_id": 2,
+        "character": "Batman (voice)",
+        "credit_id": "576528b1c3a3681d710003ee",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89599,
+        "known_for_department": "Acting",
+        "name": "Eric Bauza",
+        "original_name": "Eric Bauza",
+        "popularity": 2.5243,
+        "profile_path": "/afOlsVPQxbtkom604MeCemjlwEV.jpg",
+        "cast_id": 15,
+        "character": "Bane / Commissioner Gordon (voice)",
+        "credit_id": "5765294c9251414da40003ea",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60227,
+        "known_for_department": "Acting",
+        "name": "Greg Cipes",
+        "original_name": "Greg Cipes",
+        "popularity": 1.9534,
+        "profile_path": "/x6kE9Ox4sR3HnrF6qtnjGNgujzV.jpg",
+        "cast_id": 8,
+        "character": "Beast Boy (voice)",
+        "credit_id": "576528fec3a3681d2d0003c8",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31531,
+        "known_for_department": "Acting",
+        "name": "John DiMaggio",
+        "original_name": "John DiMaggio",
+        "popularity": 3.2614,
+        "profile_path": "/qcbQe71nSlULDsP1OxTqltEKFbl.jpg",
+        "cast_id": 4,
+        "character": "Deathstroke (voice)",
+        "credit_id": "576528cbc3a3681838001200",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76621,
+        "known_for_department": "Acting",
+        "name": "Will Friedle",
+        "original_name": "Will Friedle",
+        "popularity": 1.7191,
+        "profile_path": "/Ao3fp9f4loVQ1Vvk6ph8HU5p0Lu.jpg",
+        "cast_id": 6,
+        "character": "Nightwing (voice)",
+        "credit_id": "576528e89251414db00003d4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15761,
+        "known_for_department": "Acting",
+        "name": "Grey DeLisle",
+        "original_name": "Grey DeLisle",
+        "popularity": 3.1141,
+        "profile_path": "/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg",
+        "cast_id": 7,
+        "character": "Wonder Woman (voice)",
+        "credit_id": "576528f392514167de001227",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 59401,
+        "known_for_department": "Acting",
+        "name": "Amy Hill",
+        "original_name": "Amy Hill",
+        "popularity": 2.3749,
+        "profile_path": "/x5vR2MXZiWGHkppRXlXYj7y7611.jpg",
+        "cast_id": 11,
+        "character": "Madame Mantis (voice)",
+        "credit_id": "5765291fc3a3681838001210",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 91351,
+        "known_for_department": "Acting",
+        "name": "Sarah Hyland",
+        "original_name": "Sarah Hyland",
+        "popularity": 4.612,
+        "profile_path": "/iJBshYABkUfkfFZTFo4gM00HauA.jpg",
+        "cast_id": 0,
+        "character": "Batgirl (voice)",
+        "credit_id": "57652896c3a3681cff0003f7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78798,
+        "known_for_department": "Acting",
+        "name": "Tom Kenny",
+        "original_name": "Tom Kenny",
+        "popularity": 3.5943,
+        "profile_path": "/kftXtExrcoTTjyeYmSXJ0Ogr3R7.jpg",
+        "cast_id": 5,
+        "character": "Penguin (voice)",
+        "credit_id": "576528ddc3a3681838001204",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 81663,
+        "known_for_department": "Acting",
+        "name": "Vanessa Marshall",
+        "original_name": "Vanessa Marshall",
+        "popularity": 1.95,
+        "profile_path": "/yZsWfaiOxaN5MZkWIKPbxz1KKS1.jpg",
+        "cast_id": 13,
+        "character": "Poison Ivy (voice)",
+        "credit_id": "5765293692514168ab001245",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113916,
+        "known_for_department": "Acting",
+        "name": "Scott Menville",
+        "original_name": "Scott Menville",
+        "popularity": 1.8822,
+        "profile_path": "/iLoApH8LbyJSKFmdgWxNR314GGa.jpg",
+        "cast_id": 10,
+        "character": "Robin (voice)",
+        "credit_id": "57652913c3a36818ee0013ff",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19508,
+        "known_for_department": "Acting",
+        "name": "Nolan North",
+        "original_name": "Nolan North",
+        "popularity": 2.4952,
+        "profile_path": "/gb499KZIoBTZnKCGKE4zwzlcfSe.jpg",
+        "cast_id": 1,
+        "character": "Superman (voice)",
+        "credit_id": "576528a7925141681e0011b5",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65640,
+        "known_for_department": "Acting",
+        "name": "Khary Payton",
+        "original_name": "Khary Payton",
+        "popularity": 2.0801,
+        "profile_path": "/4PgEGuAb2KkaRb7P9PdK40pPeVH.jpg",
+        "cast_id": 9,
+        "character": "Cyborg (voice)",
+        "credit_id": "576529099251414d4600038a",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 216973,
+        "known_for_department": "Acting",
+        "name": "Jason Spisak",
+        "original_name": "Jason Spisak",
+        "popularity": 1.4456,
+        "profile_path": "/yWxJDXNcocccr1LkEuVXapVdcXS.jpg",
+        "cast_id": 14,
+        "character": "The Joker / Prince Grungle (voice)",
+        "credit_id": "57652941925141685e00114e",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15762,
+        "known_for_department": "Acting",
+        "name": "Tara Strong",
+        "original_name": "Tara Strong",
+        "popularity": 3.8197,
+        "profile_path": "/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg",
+        "cast_id": 3,
+        "character": "Harley Quinn (voice)",
+        "credit_id": "576528bc92514168ab00122d",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 113919,
+        "known_for_department": "Acting",
+        "name": "Hynden Walch",
+        "original_name": "Hynden Walch",
+        "popularity": 1.6537,
+        "profile_path": "/oFfZaFF1o724BuZ3cLK6tl9L03.jpg",
+        "cast_id": 12,
+        "character": "Starfire (voice)",
+        "credit_id": "5765292cc3a3681cff000410",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1637776,
+        "known_for_department": "Directing",
+        "name": "Matt Peters",
+        "original_name": "Matt Peters",
+        "popularity": 0.9167,
+        "profile_path": "/twz7t4EyHuC3aTwQPedQI7ZBQXs.jpg",
+        "credit_id": "576529a1c3a3681c47000462",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1637778,
+        "known_for_department": "Directing",
+        "name": "Melchior Zwyer",
+        "original_name": "Melchior Zwyer",
+        "popularity": 0.7011,
+        "profile_path": null,
+        "credit_id": "576529ba9251414ced000443",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150856,
+        "known_for_department": "Writing",
+        "name": "Jim Krieg",
+        "original_name": "Jim Krieg",
+        "popularity": 1.4069,
+        "profile_path": null,
+        "credit_id": "576529c792514167de001245",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1420598,
+        "known_for_department": "Sound",
+        "name": "Tim Kelly",
+        "original_name": "Tim Kelly",
+        "popularity": 0.4627,
+        "profile_path": null,
+        "credit_id": "576529e0c3a3681c070004b5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1297324,
+        "known_for_department": "Editing",
+        "name": "Craig Paulsen",
+        "original_name": "Craig Paulsen",
+        "popularity": 0.5113,
+        "profile_path": null,
+        "credit_id": "5891dacf9251412dd1006df1",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

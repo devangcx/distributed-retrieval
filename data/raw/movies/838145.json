@@ -1,0 +1,346 @@
+{
+  "adult": false,
+  "backdrop_path": "/K6O04LC7yMfvJNd65RCPKKINzV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 838145,
+  "imdb_id": "tt14812784",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "कुछ भी न जानने की एक रात",
+  "overview": "L, a student in India witness to the government's violent response to university protests, writes letters to her estranged lover while he is away.",
+  "popularity": 1.8231,
+  "poster_path": "/34tv7dVLl1arMD1ZB4v07GYqsAb.jpg",
+  "production_companies": [
+    {
+      "id": 157683,
+      "logo_path": "/evHvySXGYzQTyaoUhZPZl2vTFFc.png",
+      "name": "petit chaos",
+      "origin_country": "FR"
+    },
+    {
+      "id": 173216,
+      "logo_path": null,
+      "name": "Another Birth",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2022-04-13",
+  "revenue": 0,
+  "runtime": 99,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "বাংলা"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Night of Knowing Nothing",
+  "video": false,
+  "vote_average": 7.4,
+  "vote_count": 27,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3301107,
+        "known_for_department": "Acting",
+        "name": "Bhumisuta Das",
+        "original_name": "Bhumisuta Das",
+        "popularity": 0.4403,
+        "profile_path": "/lJkkdfkCCl79JcG73TnWnUZnPsp.jpg",
+        "cast_id": 9,
+        "character": "L.'s Letters Reader (voice)",
+        "credit_id": "6188950fddd52d0061695775",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1467320,
+        "known_for_department": "Directing",
+        "name": "Payal Kapadia",
+        "original_name": "Payal Kapadia",
+        "popularity": 0.5963,
+        "profile_path": "/nBH3sKTMMghVcmf58AdKumB3RBW.jpg",
+        "credit_id": "60bf3d00244182004205c47a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2231955,
+        "known_for_department": "Production",
+        "name": "Thomas Hakim",
+        "original_name": "Thomas Hakim",
+        "popularity": 0.7255,
+        "profile_path": null,
+        "credit_id": "60f724bce72fe80074954e0d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2538590,
+        "known_for_department": "Camera",
+        "name": "Ranabir Das",
+        "original_name": "Ranabir Das",
+        "popularity": 0.5007,
+        "profile_path": null,
+        "credit_id": "60f724cd39a1a60082fd4b51",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1467320,
+        "known_for_department": "Directing",
+        "name": "Payal Kapadia",
+        "original_name": "Payal Kapadia",
+        "popularity": 0.5963,
+        "profile_path": "/nBH3sKTMMghVcmf58AdKumB3RBW.jpg",
+        "credit_id": "60f724dc3103250072a5d1aa",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3165529,
+        "known_for_department": "Production",
+        "name": "Julien Graff",
+        "original_name": "Julien Graff",
+        "popularity": 0.7524,
+        "profile_path": null,
+        "credit_id": "60f724b3e72fe80074954e09",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2538590,
+        "known_for_department": "Camera",
+        "name": "Ranabir Das",
+        "original_name": "Ranabir Das",
+        "popularity": 0.5007,
+        "profile_path": null,
+        "credit_id": "60f724d21685da0045775bb4",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2837111,
+        "known_for_department": "Writing",
+        "name": "Himanshu Prajapati",
+        "original_name": "Himanshu Prajapati",
+        "popularity": 0.3465,
+        "profile_path": null,
+        "credit_id": "6188948675f1ad008e45c1f5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3748691,
+        "known_for_department": "Crew",
+        "name": "Neel Mani Kant",
+        "original_name": "Neel Mani Kant",
+        "popularity": 0.2609,
+        "profile_path": null,
+        "credit_id": "6350caa7c998260082972fc4",
+        "department": "Crew",
+        "job": "Post-Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1934699,
+        "known_for_department": "Editing",
+        "name": "Clément Pinteaux",
+        "original_name": "Clément Pinteaux",
+        "popularity": 0.574,
+        "profile_path": null,
+        "credit_id": "6350cbe4a0f1a20079627f8d",
+        "department": "Editing",
+        "job": "Consulting Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3748691,
+        "known_for_department": "Crew",
+        "name": "Neel Mani Kant",
+        "original_name": "Neel Mani Kant",
+        "popularity": 0.2609,
+        "profile_path": null,
+        "credit_id": "6350cbff56b9f70099353fc2",
+        "department": "Writing",
+        "job": "Script Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3481195,
+        "known_for_department": "Directing",
+        "name": "Soumyajit Ghosh Dastidar",
+        "original_name": "Soumyajit Ghosh Dastidar",
+        "popularity": 0.5449,
+        "profile_path": null,
+        "credit_id": "6350cabf2fdec60081867766",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1127891,
+        "known_for_department": "Editing",
+        "name": "Lionel Kopp",
+        "original_name": "Lionel Kopp",
+        "popularity": 0.446,
+        "profile_path": "/9WWI2jPOmdtnLkaSiObYRtmQUAC.jpg",
+        "credit_id": "6350cbca4ca676007a523159",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3165532,
+        "known_for_department": "Sound",
+        "name": "Moinak Bose",
+        "original_name": "Moinak Bose",
+        "popularity": 0.7411,
+        "profile_path": null,
+        "credit_id": "6350cae24ca676007a523138",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1622522,
+        "known_for_department": "Sound",
+        "name": "Romain Ozanne",
+        "original_name": "Romain Ozanne",
+        "popularity": 0.3603,
+        "profile_path": null,
+        "credit_id": "6350cb644ca67600825bab52",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2817095,
+        "known_for_department": "Sound",
+        "name": "Pierre George",
+        "original_name": "Pierre George",
+        "popularity": 0.4084,
+        "profile_path": null,
+        "credit_id": "6350cb1fb42242007ffbb870",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3748691,
+        "known_for_department": "Crew",
+        "name": "Neel Mani Kant",
+        "original_name": "Neel Mani Kant",
+        "popularity": 0.2609,
+        "profile_path": null,
+        "credit_id": "6350cbb6f3b49a007dd2a206",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3748699,
+        "known_for_department": "Camera",
+        "name": "Danish Qazi",
+        "original_name": "Danish Qazi",
+        "popularity": 0.2837,
+        "profile_path": null,
+        "credit_id": "6350cb8bd363e5007d03c775",
+        "department": "Camera",
+        "job": "Additional Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3165532,
+        "known_for_department": "Sound",
+        "name": "Moinak Bose",
+        "original_name": "Moinak Bose",
+        "popularity": 0.7411,
+        "profile_path": null,
+        "credit_id": "6350cadaf3b49a007dd2a1dc",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2538590,
+        "known_for_department": "Camera",
+        "name": "Ranabir Das",
+        "original_name": "Ranabir Das",
+        "popularity": 0.5007,
+        "profile_path": null,
+        "credit_id": "644bf27b596a91054d57ef2d",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

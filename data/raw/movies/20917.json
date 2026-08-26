@@ -1,0 +1,248 @@
+{
+  "adult": false,
+  "backdrop_path": "/wmZqlsmnEirYLEo4jFJkmi5qFpM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 20917,
+  "imdb_id": "tt1039989",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "संडे",
+  "overview": "It is about a woman who wakes up with amnesia and discovers she can’t remember anything that happened on Sunday, which connects her to a murder investigation",
+  "popularity": 0.9922,
+  "poster_path": "/rEFD2MOV4XrjVTmNwPP7p2Sm7hp.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2008-01-25",
+  "revenue": 0,
+  "runtime": 130,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sunday",
+  "video": false,
+  "vote_average": 4.907,
+  "vote_count": 27,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42803,
+        "known_for_department": "Acting",
+        "name": "Ajay Devgn",
+        "original_name": "Ajay Devgan",
+        "popularity": 2.3821,
+        "profile_path": "/vnHQQFzTjJ0sv14DGMIoKa3qTxN.jpg",
+        "cast_id": 1,
+        "character": "A C P Rajveer Randhawa",
+        "credit_id": "52fe4401c3a368484e00a333",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85889,
+        "known_for_department": "Acting",
+        "name": "Arshad Warsi",
+        "original_name": "Arshad Warsi",
+        "popularity": 1.2883,
+        "profile_path": "/iXSA1C7B5mtoUrfDZ2sULE28bww.jpg",
+        "cast_id": 2,
+        "character": "Ballu",
+        "credit_id": "52fe4401c3a368484e00a337",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 83591,
+        "known_for_department": "Acting",
+        "name": "Ayesha Takia",
+        "original_name": "Ayesha Takia",
+        "popularity": 1.3762,
+        "profile_path": "/nMwZp4tfg6W4BkkWpaXesUMUAxR.jpg",
+        "cast_id": 3,
+        "character": "Sehar",
+        "credit_id": "52fe4401c3a368484e00a33b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76793,
+        "known_for_department": "Acting",
+        "name": "Irrfan Khan",
+        "original_name": "Irrfan Khan",
+        "popularity": 3.0512,
+        "profile_path": "/qkA9PpWJRw3rNjVkWfNZdwLvRZx.jpg",
+        "cast_id": 4,
+        "character": "Kumar Mangat",
+        "credit_id": "52fe4401c3a368484e00a33f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85887,
+        "known_for_department": "Acting",
+        "name": "Anjana Sukhani",
+        "original_name": "Anjana Sukhani",
+        "popularity": 0.7427,
+        "profile_path": "/dAflBouhR7ygcJFkufCv9g8Bk5L.jpg",
+        "cast_id": 5,
+        "character": "Ritu",
+        "credit_id": "52fe4401c3a368484e00a343",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86064,
+        "known_for_department": "Acting",
+        "name": "Mukesh Tiwari",
+        "original_name": "Mukesh Tiwari",
+        "popularity": 1.0627,
+        "profile_path": "/37GTjltEJHpi1lQmLmHKJYTpxjj.jpg",
+        "cast_id": 6,
+        "character": "Anwar",
+        "credit_id": "52fe4401c3a368484e00a347",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85891,
+        "known_for_department": "Acting",
+        "name": "Tusshar Kapoor",
+        "original_name": "Tusshar Kapoor",
+        "popularity": 0.9774,
+        "profile_path": "/5ApUsEt56R0SVQMu11fbmUSHCIi.jpg",
+        "cast_id": 7,
+        "character": "special appearance in an item song",
+        "credit_id": "52fe4401c3a368484e00a34b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 81926,
+        "known_for_department": "Acting",
+        "name": "Esha Deol",
+        "original_name": "Esha Deol",
+        "popularity": 0.9457,
+        "profile_path": "/kf61c4lNSAjExCHQh03x5f0tQWL.jpg",
+        "cast_id": 8,
+        "character": "special appearance in an item song",
+        "credit_id": "52fe4401c3a368484e00a34f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86782,
+        "known_for_department": "Writing",
+        "name": "Robin Bhatt",
+        "original_name": "Robin Bhatt",
+        "popularity": 0.9267,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Dr. Robin Bhatt",
+        "credit_id": "52fe4401c3a368484e00a353",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86783,
+        "known_for_department": "Directing",
+        "name": "Rohit Shetty",
+        "original_name": "Rohit Shetty",
+        "popularity": 0.9722,
+        "profile_path": "/9ZRyKwijT7OAMjIEEPATeTZ2ZQn.jpg",
+        "credit_id": "52fe4401c3a368484e00a359",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107252,
+        "known_for_department": "Directing",
+        "name": "Chandra Sekhar Yeleti",
+        "original_name": "Chandra Sekhar Yeleti",
+        "popularity": 0.7473,
+        "profile_path": "/2N4mhSqWaJ3ztTDvb0c9xRZM0fb.jpg",
+        "credit_id": "62b2db1d38765105e9bebb43",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584859,
+        "known_for_department": "Directing",
+        "name": "K. Subash",
+        "original_name": "K. Subash",
+        "popularity": 0.5569,
+        "profile_path": "/nK09cH2niMT0kOKCksrCth6YrhR.jpg",
+        "credit_id": "62b2db2c245dbe06b5208f44",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1264504,
+        "known_for_department": "Writing",
+        "name": "Sajid Samji",
+        "original_name": "Sajid Samji",
+        "popularity": 0.6838,
+        "profile_path": null,
+        "credit_id": "58458524c3a368478d017e57",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1264503,
+        "known_for_department": "Writing",
+        "name": "Farhad Samji",
+        "original_name": "Farhad Samji",
+        "popularity": 0.8324,
+        "profile_path": null,
+        "credit_id": "58458531c3a3684664017bc6",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

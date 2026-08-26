@@ -1,0 +1,288 @@
+{
+  "adult": false,
+  "backdrop_path": "/zkPheFJAk0xjGW9IC3rAxjNuDSB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81346827",
+  "id": 851281,
+  "imdb_id": "tt9174358",
+  "origin_country": [
+    "JP",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Monster Hunter: Legends of the Guild",
+  "overview": "In a world where humans and fearsome monsters live in an uneasy balance, young hunter Aiden fights to save his village from destruction by a dragon.",
+  "popularity": 2.6892,
+  "poster_path": "/nQnsD1u1n2aFq8qfu4dQrhLzaUp.jpg",
+  "production_companies": [
+    {
+      "id": 72779,
+      "logo_path": "/w0vTxI7gAX8tJlZ1EGc5PXmeTbA.png",
+      "name": "Pure Imagination Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 7220,
+      "logo_path": "/dD0x5awPmtx4sAr2pNvkmxkCODh.png",
+      "name": "Capcom",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-08-12",
+  "revenue": 0,
+  "runtime": 58,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Hope. Fear. Pleasure. Pain. Fight. Survive.",
+  "title": "Monster Hunter: Legends of the Guild",
+  "video": false,
+  "vote_average": 5.719,
+  "vote_count": 98,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13391,
+        "known_for_department": "Acting",
+        "name": "Dante Basco",
+        "original_name": "Dante Basco",
+        "popularity": 2.658,
+        "profile_path": "/2bfQho7MEo4wAQTmC687FkXUoKU.jpg",
+        "cast_id": 4,
+        "character": "Aiden (voice)",
+        "credit_id": "60f1e25e88055100302870c0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 208406,
+        "known_for_department": "Acting",
+        "name": "Brando Eaton",
+        "original_name": "Brando Eaton",
+        "popularity": 1.8302,
+        "profile_path": "/dl6ZBzrd5CCgFOLBajResN1MeB8.jpg",
+        "cast_id": 5,
+        "character": "Julius (voice)",
+        "credit_id": "60f1e266cd204600467f8639",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1599422,
+        "known_for_department": "Acting",
+        "name": "Erica Lindbeck",
+        "original_name": "Erica Lindbeck",
+        "popularity": 1.4757,
+        "profile_path": "/l5ISBt8S8Upct0fDgaEPuELp4zE.jpg",
+        "cast_id": 3,
+        "character": "Lea (voice)",
+        "credit_id": "60f1e25874507d00460adc17",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3217973,
+        "known_for_department": "Acting",
+        "name": "Ben Rausch",
+        "original_name": "Ben Rausch",
+        "popularity": 0.3414,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Gibson (voice)",
+        "credit_id": "612e2e93eb79c2002bf04428",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 120720,
+        "known_for_department": "Acting",
+        "name": "Stephen Kramer Glickman",
+        "original_name": "Stephen Kramer Glickman",
+        "popularity": 0.8673,
+        "profile_path": "/1t9ZSWNtcYfVVg28Qi1UQJbtQ2E.jpg",
+        "cast_id": 6,
+        "character": "Nox (voice)",
+        "credit_id": "60f1e26c435abd005d61b88f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3160545,
+        "known_for_department": "Acting",
+        "name": "Caroline Caliston",
+        "original_name": "Caroline Caliston",
+        "popularity": 0.3135,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Mae (voice)",
+        "credit_id": "60f1e28c497560005e1195c6",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 563376,
+        "known_for_department": "Acting",
+        "name": "G.K. Bowes",
+        "original_name": "G.K. Bowes",
+        "popularity": 0.7852,
+        "profile_path": "/zORrViYVbN5EQ1AjaVXu5acc9An.jpg",
+        "cast_id": 8,
+        "character": "Nadia (voice)",
+        "credit_id": "60f1e297cb9f4b005e73e3b2",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 59065,
+        "known_for_department": "Acting",
+        "name": "Karen Strassman",
+        "original_name": "Karen Strassman",
+        "popularity": 0.8409,
+        "profile_path": "/6fLPatm6IhYu3dtje3zRPXXgRfs.jpg",
+        "cast_id": 10,
+        "character": "Genovan / Ebbi (voice)",
+        "credit_id": "612e2c79c490480042b94fa7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 174012,
+        "known_for_department": "Acting",
+        "name": "Brian Beacock",
+        "original_name": "Brian Beacock",
+        "popularity": 0.6453,
+        "profile_path": "/m6bAqXTVTYLql9SwlPGMXJpV9tz.jpg",
+        "cast_id": 11,
+        "character": "Navid (voice)",
+        "credit_id": "612e2cbe1d3563008e83e59c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 194804,
+        "known_for_department": "Acting",
+        "name": "Katie Leigh",
+        "original_name": "Katie Leigh",
+        "popularity": 1.0245,
+        "profile_path": "/jApn1mOWTxQG6a8a3IJmgjRaxqH.jpg",
+        "cast_id": 12,
+        "character": "Elder Daazel (voice)",
+        "credit_id": "612e2d021d3563008e83e5d9",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1914648,
+        "known_for_department": "Visual Effects",
+        "name": "Steve Yamamoto",
+        "original_name": "Steve Yamamoto",
+        "popularity": 0.3027,
+        "profile_path": null,
+        "credit_id": "60f1ddb2cb9f4b0047a93da6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1213648,
+        "known_for_department": "Writing",
+        "name": "Joshua Fine",
+        "original_name": "Joshua Fine",
+        "popularity": 0.6028,
+        "profile_path": null,
+        "credit_id": "60f1de4989d97f007453994f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59644,
+        "known_for_department": "Production",
+        "name": "Joshua Wexler",
+        "original_name": "Joshua Wexler",
+        "popularity": 0.6825,
+        "profile_path": "/uJq12XuvZAowLGcisajokZwlr3S.jpg",
+        "credit_id": "612e2b536a3448002c1442a8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2082824,
+        "known_for_department": "Visual Effects",
+        "name": "Aaron Cowan",
+        "original_name": "Aaron Cowan",
+        "popularity": 0.4566,
+        "profile_path": null,
+        "credit_id": "6740073b7b825e685b4e1568",
+        "department": "Crew",
+        "job": "Executive Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4935213,
+        "known_for_department": "Visual Effects",
+        "name": "Xu Li",
+        "original_name": "Xu Li",
+        "popularity": 0.2572,
+        "profile_path": null,
+        "credit_id": "6a2ab6a73fded06b87e711ea",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      }
+    ]
+  }
+}

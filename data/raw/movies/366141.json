@@ -1,0 +1,171 @@
+{
+  "adult": false,
+  "backdrop_path": "/taCWtbPrBNooPqavM9dktdPYtIj.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 366141,
+  "imdb_id": "tt5242396",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Cro Minion",
+  "overview": "Two minions have to babysit a little Neanderthal baby.",
+  "popularity": 2.5116,
+  "poster_path": "/gduXRlGrywqLry0sdDrf37Tyibh.jpg",
+  "production_companies": [
+    {
+      "id": 6704,
+      "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+      "name": "Illumination",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2015-11-04",
+  "revenue": 0,
+  "runtime": 5,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Cro Minion",
+  "video": false,
+  "vote_average": 7.225,
+  "vote_count": 264,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124747,
+        "known_for_department": "Directing",
+        "name": "Pierre Coffin",
+        "original_name": "Pierre Coffin",
+        "popularity": 2.995,
+        "profile_path": "/eAA9uWRqHlm1LT3nZfXb7UuPfVb.jpg",
+        "cast_id": 4,
+        "character": "Minion (voice)",
+        "credit_id": "5634ece8c3a3681b4b0167ef",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124748,
+        "known_for_department": "Directing",
+        "name": "Chris Renaud",
+        "original_name": "Chris Renaud",
+        "popularity": 1.5688,
+        "profile_path": "/sumBJgBqRkK4XEJ2JYXpad3MTJs.jpg",
+        "cast_id": 5,
+        "character": "Minion / Neanderthal Dad (voice)",
+        "credit_id": "5634ecf2c3a3681b4b0167f3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15762,
+        "known_for_department": "Acting",
+        "name": "Tara Strong",
+        "original_name": "Tara Strong",
+        "popularity": 3.8197,
+        "profile_path": "/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg",
+        "cast_id": 7,
+        "character": "Neanderthal Baby (voice)",
+        "credit_id": "5634ed0ec3a3681b61018a11",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1529873,
+        "known_for_department": "Art",
+        "name": "Didier Ah-Koon",
+        "original_name": "Didier Ah-Koon",
+        "popularity": 0.511,
+        "profile_path": null,
+        "credit_id": "5634ec9f9251414ad8016758",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1265059,
+        "known_for_department": "Directing",
+        "name": "Régis Schuller",
+        "original_name": "Régis Schuller",
+        "popularity": 0.6189,
+        "profile_path": "/AdNKeLC4ZFAVpVl9gjQIQHmh4Bj.jpg",
+        "credit_id": "5634ec8192514128570179ec",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5720,
+        "known_for_department": "Production",
+        "name": "Chris Meledandri",
+        "original_name": "Chris Meledandri",
+        "popularity": 1.1906,
+        "profile_path": "/iRcvLhuIzkUkjCR4C3NKbi2juuv.jpg",
+        "credit_id": "5634eccbc3a3681b5401853e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 65674,
+        "known_for_department": "Production",
+        "name": "Janet Healy",
+        "original_name": "Janet Healy",
+        "popularity": 0.8094,
+        "profile_path": "/2qrNGmhXsZN21LYXF1p42ob27d3.jpg",
+        "credit_id": "5634ecd8c3a3681b52017b01",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237759,
+        "known_for_department": "Writing",
+        "name": "Brett Hoffman",
+        "original_name": "Brett Hoffman",
+        "popularity": 0.8337,
+        "profile_path": null,
+        "credit_id": "563f96e19251417fa9007760",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  }
+}

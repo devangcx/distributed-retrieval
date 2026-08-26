@@ -1,0 +1,313 @@
+{
+  "adult": false,
+  "backdrop_path": "/8QXxhlTmbXaDvi1nMFNV8EnwbbW.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 69346,
+  "imdb_id": "tt0451983",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "ज़हर",
+  "overview": "Siddharth and Sonia are happily married until Anna walks into Siddharth's life. Things go from bad to worse, when Anna gets killed and Siddharth finds himself sinking in troubled waters.",
+  "popularity": 1.218,
+  "poster_path": "/ch9QmFsEmCKDvEWrDDY0jYCB8WM.jpg",
+  "production_companies": [
+    {
+      "id": 3749,
+      "logo_path": "/54N3BYPtuETnYumu6gjv97dg6H8.png",
+      "name": "Vishesh Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2005-03-25",
+  "revenue": 0,
+  "runtime": 132,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Zeher",
+  "video": false,
+  "vote_average": 5.386,
+  "vote_count": 22,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85969,
+        "known_for_department": "Acting",
+        "name": "Emraan Hashmi",
+        "original_name": "इमरान हाशमी",
+        "popularity": 2.2624,
+        "profile_path": "/kflgvFCFZnpTRbKmJWn5T0G5EKI.jpg",
+        "cast_id": 1,
+        "character": "Siddharth Mehra",
+        "credit_id": "52fe47c4c3a368484e0d8501",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85732,
+        "known_for_department": "Acting",
+        "name": "Shamita Shetty",
+        "original_name": "Shamita Shetty",
+        "popularity": 0.7044,
+        "profile_path": "/y6RaI7U7kDfXKMo1bviKYutE09b.jpg",
+        "cast_id": 2,
+        "character": "Sonia Mehra",
+        "credit_id": "52fe47c4c3a368484e0d8505",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 88439,
+        "known_for_department": "Acting",
+        "name": "Udita Goswami",
+        "original_name": "Udita Goswami",
+        "popularity": 0.6806,
+        "profile_path": "/xilFBmI0d97CI8hzvccHiArF1xB.jpg",
+        "cast_id": 3,
+        "character": "Anna Verghese",
+        "credit_id": "52fe47c4c3a368484e0d8509",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130680,
+        "known_for_department": "Acting",
+        "name": "Sameer Kochhar",
+        "original_name": "Sameer Kochhar",
+        "popularity": 0.5818,
+        "profile_path": "/77iaZ0mxIMVWYlwSd9LhcJ5rVOx.jpg",
+        "cast_id": 4,
+        "character": "Sean Verghese",
+        "credit_id": "52fe47c4c3a368484e0d850d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 123318,
+        "known_for_department": "Acting",
+        "name": "Ninad Kamat",
+        "original_name": "Ninad Kamat",
+        "popularity": 0.7822,
+        "profile_path": "/egSReKfBGZoxwlS6bBxNd05030b.jpg",
+        "cast_id": 8,
+        "character": "James",
+        "credit_id": "5609980bc3a368681900015f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 562226,
+        "known_for_department": "Acting",
+        "name": "Vishwajeet Pradhan",
+        "original_name": "Vishwajeet Pradhan",
+        "popularity": 0.8572,
+        "profile_path": "/fk5mBFnclEBE8AtgUfoa1i79oqt.jpg",
+        "cast_id": 9,
+        "character": "Inspetor Shah",
+        "credit_id": "560998259251417196000152",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88802,
+        "known_for_department": "Production",
+        "name": "Mukesh Bhatt",
+        "original_name": "Mukesh Bhatt",
+        "popularity": 0.739,
+        "profile_path": "/yHEtla0qYbPGXGXSaYGIlKWERLT.jpg",
+        "credit_id": "560998fc92514171a00001be",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 125474,
+        "known_for_department": "Sound",
+        "name": "Mithoon Sharma",
+        "original_name": "Mithoon Sharma",
+        "popularity": 0.5674,
+        "profile_path": "/dKcejV0tiolRCQP5YgTtH8aVzc4.jpg",
+        "credit_id": "61b8bb2d6a3448001cdb43a1",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88800,
+        "known_for_department": "Directing",
+        "name": "Mohit Suri",
+        "original_name": "Mohit Suri",
+        "popularity": 1.1896,
+        "profile_path": "/iDAUmTKFKD0XVDyqFNtAyMNzx4W.jpg",
+        "credit_id": "58f0eb3dc3a3686b7f01175d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 936744,
+        "known_for_department": "Sound",
+        "name": "Roop Kumar Rathod",
+        "original_name": "Roop Kumar Rathod",
+        "popularity": 0.4643,
+        "profile_path": null,
+        "credit_id": "5c3c95d00e0a2643d38d5b0a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 131894,
+        "known_for_department": "Sound",
+        "name": "Raju Singh",
+        "original_name": "Raju Singh",
+        "popularity": 0.3566,
+        "profile_path": null,
+        "credit_id": "5c3c95e9c3a36853ce3ce1ee",
+        "department": "Sound",
+        "job": "Additional Soundtrack"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37241,
+        "known_for_department": "Sound",
+        "name": "Anu Malik",
+        "original_name": "Anu Malik",
+        "popularity": 0.7303,
+        "profile_path": "/6TqNRZ8pm0woMxNXAtQrQjkcnfB.jpg",
+        "credit_id": "5c3c95f30e0a260fe68d5eed",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85894,
+        "known_for_department": "Directing",
+        "name": "Mahesh Bhatt",
+        "original_name": "Mahesh Bhatt",
+        "popularity": 0.6913,
+        "profile_path": "/hEvDopJhOKbcEPdwcuz3e4b0w4m.jpg",
+        "credit_id": "5c3c9614c3a36821623cda72",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 123224,
+        "known_for_department": "Crew",
+        "name": "Fuwad Khan",
+        "original_name": "Fuwad Khan",
+        "popularity": 0.3223,
+        "profile_path": null,
+        "credit_id": "5c3c963392514156e5aba2e7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 120478,
+        "known_for_department": "Editing",
+        "name": "Akiv Ali",
+        "original_name": "Akiv Ali",
+        "popularity": 0.3956,
+        "profile_path": null,
+        "credit_id": "5c3c963bc3a36869493cf723",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 557892,
+        "known_for_department": "Sound",
+        "name": "Atif Aslam",
+        "original_name": "Atif Aslam",
+        "popularity": 0.7022,
+        "profile_path": "/cGZaaaq3AGchW0OF1i1bOtIabl3.jpg",
+        "credit_id": "5cb498120e0a2677d1c1c0bd",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1932076,
+        "known_for_department": "Sound",
+        "name": "Shreya Ghoshal",
+        "original_name": "Shreya Ghoshal",
+        "popularity": 0.8739,
+        "profile_path": "/rTmgSXriOmd6TyQVFXvf3DctYXQ.jpg",
+        "credit_id": "5e01c9a026dac1001766a93c",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2081003,
+        "known_for_department": "Sound",
+        "name": "KK",
+        "original_name": "KK",
+        "popularity": 0.5916,
+        "profile_path": "/6z8DvUO334G9d25Fv7pZkmx6B75.jpg",
+        "credit_id": "5e01c9ab26dac1001265dc7a",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1113618,
+        "known_for_department": "Sound",
+        "name": "Udit Narayan",
+        "original_name": "Udit Narayan",
+        "popularity": 0.6205,
+        "profile_path": "/2LYPkxyTqlIluiKzYnDMgM5o1Wq.jpg",
+        "credit_id": "5e01c9b8d1a89300128da980",
+        "department": "Sound",
+        "job": "Playback Singer"
+      }
+    ]
+  }
+}

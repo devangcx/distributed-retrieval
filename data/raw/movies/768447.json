@@ -1,0 +1,391 @@
+{
+  "adult": false,
+  "backdrop_path": "/ugZbX5lKx4L9ONEu0WTNbR96J0t.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 768447,
+  "imdb_id": "tt11464730",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Motherly",
+  "overview": "Kate and her daughter Beth live alone in an isolated farmhouse in the woods, but when Kate slowly begins to suspect that something sinister is happening, her motherly instincts are put to the test.",
+  "popularity": 3.513,
+  "poster_path": "/wmh1likQEetSLIUs5MAvfWjEayY.jpg",
+  "production_companies": [
+    {
+      "id": 87595,
+      "logo_path": null,
+      "name": "Federgreen Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 136816,
+      "logo_path": null,
+      "name": "Lucky Dime Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2022-08-04",
+  "revenue": 0,
+  "runtime": 90,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Motherly",
+  "video": false,
+  "vote_average": 6.085,
+  "vote_count": 65,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1649898,
+        "known_for_department": "Acting",
+        "name": "Lora Burke",
+        "original_name": "Lora Burke",
+        "popularity": 0.6894,
+        "profile_path": "/hkK47d2DduNisGUYfAXmSFcr97D.jpg",
+        "cast_id": 4,
+        "character": "Kate",
+        "credit_id": "5fbe50a7d9f4a6003f9b7313",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2860562,
+        "known_for_department": "Acting",
+        "name": "Tessa Kozma",
+        "original_name": "Tessa Kozma",
+        "popularity": 0.7637,
+        "profile_path": "/jIEH0AzQPXuk3z4E63CYhSNNcvw.jpg",
+        "cast_id": 5,
+        "character": "Beth",
+        "credit_id": "5fbe50b10c271000402debdd",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2531837,
+        "known_for_department": "Acting",
+        "name": "Kristen MacCulloch",
+        "original_name": "Kristen MacCulloch",
+        "popularity": 0.5104,
+        "profile_path": "/1NVjmQzdHGXssb8MFNKDRmokxuG.jpg",
+        "cast_id": 6,
+        "character": "Mary",
+        "credit_id": "5fbe50bb17505100401157fb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1196611,
+        "known_for_department": "Acting",
+        "name": "Nick Smyth",
+        "original_name": "Nick Smyth",
+        "popularity": 0.6157,
+        "profile_path": "/p646wRSMA2ladOAf4ONf6xWaSjF.jpg",
+        "cast_id": 7,
+        "character": "Lewis",
+        "credit_id": "5fbe50c6271ca50040535f27",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1020684,
+        "known_for_department": "Acting",
+        "name": "Colin Paradine",
+        "original_name": "Colin Paradine",
+        "popularity": 0.4972,
+        "profile_path": "/zrXoUkSEiPeqGzVhEAN68dwFItb.jpg",
+        "cast_id": 8,
+        "character": "Hal",
+        "credit_id": "5fbe50d34c1d9a0040820140",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2869642,
+        "known_for_department": "Acting",
+        "name": "Angel Gallego",
+        "original_name": "Angel Gallego",
+        "popularity": 0.5467,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Courtenay",
+        "credit_id": "5fbe50e04c1d9a0040820165",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1445600,
+        "known_for_department": "Acting",
+        "name": "Laura Tremblay",
+        "original_name": "Laura Tremblay",
+        "popularity": 0.4748,
+        "profile_path": "/eRzNc4SO1Xy6GghHxHeYzd8rkrz.jpg",
+        "cast_id": 10,
+        "character": "Woman",
+        "credit_id": "5fbe50eb323eba0040fcb61f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2548672,
+        "known_for_department": "Acting",
+        "name": "Christina Bryson",
+        "original_name": "Christina Bryson",
+        "popularity": 0.4498,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Yulia",
+        "credit_id": "6196c8664ccc500062d77e5e",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1251913,
+        "known_for_department": "Directing",
+        "name": "Craig David Wallace",
+        "original_name": "Craig David Wallace",
+        "popularity": 0.4992,
+        "profile_path": null,
+        "credit_id": "5fbe50796bdec3003d23655f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2638621,
+        "known_for_department": "Writing",
+        "name": "Ian Malone",
+        "original_name": "Ian Malone",
+        "popularity": 0.5548,
+        "profile_path": null,
+        "credit_id": "5fbe508454508d003ed5aa84",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1251913,
+        "known_for_department": "Directing",
+        "name": "Craig David Wallace",
+        "original_name": "Craig David Wallace",
+        "popularity": 0.4992,
+        "profile_path": null,
+        "credit_id": "5fbe509057530e003f3b3738",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1035749,
+        "known_for_department": "Production",
+        "name": "Avi Federgreen",
+        "original_name": "Avi Federgreen",
+        "popularity": 0.426,
+        "profile_path": null,
+        "credit_id": "5fbe51169c97bd003fa05ec5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1503403,
+        "known_for_department": "Acting",
+        "name": "Lauren Saarimaki",
+        "original_name": "Lauren Saarimaki",
+        "popularity": 0.4075,
+        "profile_path": null,
+        "credit_id": "5fbe5124271ca5003e52e1be",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1445600,
+        "known_for_department": "Acting",
+        "name": "Laura Tremblay",
+        "original_name": "Laura Tremblay",
+        "popularity": 0.4748,
+        "profile_path": "/eRzNc4SO1Xy6GghHxHeYzd8rkrz.jpg",
+        "credit_id": "5fbe513b0c2710003f2da164",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1617501,
+        "known_for_department": "Sound",
+        "name": "Spencer Creaghan",
+        "original_name": "Spencer Creaghan",
+        "popularity": 0.3384,
+        "profile_path": "/oDw3A2pFMwbYA90JUwTGxz4zuBD.jpg",
+        "credit_id": "5fbe514ad9f4a6003f9b7449",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2708626,
+        "known_for_department": "Camera",
+        "name": "Christoph Benfey",
+        "original_name": "Christoph Benfey",
+        "popularity": 0.8982,
+        "profile_path": null,
+        "credit_id": "5fbe515a57530e003f3b37e7",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2869643,
+        "known_for_department": "Editing",
+        "name": "Joel Varickanickal",
+        "original_name": "Joel Varickanickal",
+        "popularity": 0.5021,
+        "profile_path": null,
+        "credit_id": "5fbe516ef9475b0040c592e0",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1445600,
+        "known_for_department": "Acting",
+        "name": "Laura Tremblay",
+        "original_name": "Laura Tremblay",
+        "popularity": 0.4748,
+        "profile_path": "/eRzNc4SO1Xy6GghHxHeYzd8rkrz.jpg",
+        "credit_id": "5fbe5179271ca50040535fba",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2869644,
+        "known_for_department": "Art",
+        "name": "Meryl Allysa Romo",
+        "original_name": "Meryl Allysa Romo",
+        "popularity": 0.3955,
+        "profile_path": null,
+        "credit_id": "5fbe518bf9475b003fc535a2",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2869645,
+        "known_for_department": "Directing",
+        "name": "Steph Boyko",
+        "original_name": "Steph Boyko",
+        "popularity": 0.362,
+        "profile_path": null,
+        "credit_id": "5fbe51970c271000412db116",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2869644,
+        "known_for_department": "Art",
+        "name": "Meryl Allysa Romo",
+        "original_name": "Meryl Allysa Romo",
+        "popularity": 0.3955,
+        "profile_path": null,
+        "credit_id": "5fbe51a84c1d9a003e8310d6",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2869647,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jenny Duckworth",
+        "original_name": "Jenny Duckworth",
+        "popularity": 0.4991,
+        "profile_path": null,
+        "credit_id": "5fbe51b635c30a0040559b04",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2869648,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Becky Grimman",
+        "original_name": "Becky Grimman",
+        "popularity": 0.4169,
+        "profile_path": null,
+        "credit_id": "5fbe51c9f9475b003fc535ec",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1035749,
+        "known_for_department": "Production",
+        "name": "Avi Federgreen",
+        "original_name": "Avi Federgreen",
+        "popularity": 0.426,
+        "profile_path": null,
+        "credit_id": "5fbe51e457530e00423baa54",
+        "department": "Production",
+        "job": "Production Manager"
+      }
+    ]
+  }
+}

@@ -1,0 +1,487 @@
+{
+  "adult": false,
+  "backdrop_path": "/91YouXHP7MufOfl1Ymw2LWKh6x2.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 432942,
+  "imdb_id": "tt6057032",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Gook",
+  "overview": "Eli and Daniel, two Korean American brothers who own a struggling women's shoe store, have an unlikely friendship with 11-year-old Kamilla. On the first day of the 1992 L.A. riots, the trio must defend their store—and contemplate the meaning of family, their personal dreams and the future.",
+  "popularity": 3.1021,
+  "poster_path": "/Ij6zyFnVd3ha5uR5b4na3LYux6.jpg",
+  "production_companies": [
+    {
+      "id": 4560,
+      "logo_path": "/96D35bqBIK3UErSTEiD3nrwNkMw.png",
+      "name": "Tunnel Post",
+      "origin_country": "US"
+    },
+    {
+      "id": 90790,
+      "logo_path": "/dnXPy4hZyUGl00Ju2lF2pbocG11.png",
+      "name": "Datari Turner Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 92449,
+      "logo_path": null,
+      "name": "Birthday Soup Films",
+      "origin_country": ""
+    },
+    {
+      "id": 92450,
+      "logo_path": null,
+      "name": "The Fishbowl Studios",
+      "origin_country": ""
+    },
+    {
+      "id": 92451,
+      "logo_path": null,
+      "name": "Foxtrout Studios",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2017-08-18",
+  "revenue": 250130,
+  "runtime": 94,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Gook",
+  "video": false,
+  "vote_average": 6.427,
+  "vote_count": 55,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65225,
+        "known_for_department": "Acting",
+        "name": "Justin Chon",
+        "original_name": "Justin Chon",
+        "popularity": 1.2312,
+        "profile_path": "/fGgdkJO7SAPHNo3siSyaYUpguyj.jpg",
+        "cast_id": 10,
+        "character": "Eli",
+        "credit_id": "586b70ac9251415d21003d21",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1731824,
+        "known_for_department": "Acting",
+        "name": "Simone Baker",
+        "original_name": "Simone Baker",
+        "popularity": 0.4216,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Kamilla",
+        "credit_id": "586b70f09251415d21003d3a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1731825,
+        "known_for_department": "Acting",
+        "name": "David So",
+        "original_name": "David So",
+        "popularity": 0.4775,
+        "profile_path": "/TwPkNS4RrAV2Bi6mmVYIJXfnjp.jpg",
+        "cast_id": 12,
+        "character": "Daniel",
+        "credit_id": "586b71319251415d21003d66",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1704223,
+        "known_for_department": "Acting",
+        "name": "Curtiss Cook Jr.",
+        "original_name": "Curtiss Cook Jr.",
+        "popularity": 0.7845,
+        "profile_path": "/oZg5T64gHnKoo1sMsmljtBRx7WD.jpg",
+        "cast_id": 13,
+        "character": "Keith",
+        "credit_id": "586b7142c3a3685e9c003a3a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1731826,
+        "known_for_department": "Acting",
+        "name": "Sang Chon",
+        "original_name": "Sang Chon",
+        "popularity": 0.4493,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Mr. Kim",
+        "credit_id": "586b7159c3a3685ea300427d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1731827,
+        "known_for_department": "Acting",
+        "name": "Ben Munoz",
+        "original_name": "Ben Munoz",
+        "popularity": 0.3209,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Jesus",
+        "credit_id": "586b71699251415d31003e54",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 99985,
+        "known_for_department": "Acting",
+        "name": "Natalie Sutherland",
+        "original_name": "Natalie Sutherland",
+        "popularity": 0.5209,
+        "profile_path": "/hJwyWHrnwiszZ7C8hlP3rn8FZtn.jpg",
+        "cast_id": 22,
+        "character": "Nurse Gianna",
+        "credit_id": "60d75d9525b9550046b04265",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1766961,
+        "known_for_department": "Acting",
+        "name": "Isaiah Jarel",
+        "original_name": "Isaiah Jarel",
+        "popularity": 0.5087,
+        "profile_path": "/fela4Jvq68CVHIfQyL0VbkGyVYb.jpg",
+        "cast_id": 29,
+        "character": "Curtis",
+        "credit_id": "62be279312197e004fb0ad25",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1601640,
+        "known_for_department": "Sound",
+        "name": "Joseph E. Colmenero",
+        "original_name": "Joseph E. Colmenero",
+        "popularity": 0.2777,
+        "profile_path": null,
+        "credit_id": "61636f237d41aa008922ebfc",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1302966,
+        "known_for_department": "Sound",
+        "name": "Michael J. McDonald",
+        "original_name": "Michael J. McDonald",
+        "popularity": 0.404,
+        "profile_path": null,
+        "credit_id": "61636f358e2ba60021573629",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1302966,
+        "known_for_department": "Sound",
+        "name": "Michael J. McDonald",
+        "original_name": "Michael J. McDonald",
+        "popularity": 0.404,
+        "profile_path": null,
+        "credit_id": "61636f3ca127e5002ad07560",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1403008,
+        "known_for_department": "Sound",
+        "name": "Brad Whitcanack",
+        "original_name": "Brad Whitcanack",
+        "popularity": 0.4552,
+        "profile_path": null,
+        "credit_id": "61636f55d18b2400271b1191",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1636837,
+        "known_for_department": "Sound",
+        "name": "Terah 'Bishop' Woodley II",
+        "original_name": "Terah 'Bishop' Woodley II",
+        "popularity": 0.3912,
+        "profile_path": null,
+        "credit_id": "61636f607d41aa00429b92d2",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1404192,
+        "known_for_department": "Visual Effects",
+        "name": "May Satsuki Asai",
+        "original_name": "May Satsuki Asai",
+        "popularity": 0.3422,
+        "profile_path": null,
+        "credit_id": "61636f7853866e0068fcccc1",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65225,
+        "known_for_department": "Acting",
+        "name": "Justin Chon",
+        "original_name": "Justin Chon",
+        "popularity": 1.2312,
+        "profile_path": "/fGgdkJO7SAPHNo3siSyaYUpguyj.jpg",
+        "credit_id": "586b6f909251415d2a003da0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65225,
+        "known_for_department": "Acting",
+        "name": "Justin Chon",
+        "original_name": "Justin Chon",
+        "popularity": 1.2312,
+        "profile_path": "/fGgdkJO7SAPHNo3siSyaYUpguyj.jpg",
+        "credit_id": "586b6fa5c3a3685ea6003cc6",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1731819,
+        "known_for_department": "Camera",
+        "name": "Ante Cheng",
+        "original_name": "Ante Cheng",
+        "popularity": 0.5812,
+        "profile_path": "/7cEOcv5RJoVPR9rxPUdsREllbwI.jpg",
+        "credit_id": "586b6fc4c3a3685e9c00399e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1731820,
+        "known_for_department": "Art",
+        "name": "Sharon Roggio",
+        "original_name": "Sharon Roggio",
+        "popularity": 0.4539,
+        "profile_path": null,
+        "credit_id": "586b6fd6c3a3685e9900408f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1630199,
+        "known_for_department": "Art",
+        "name": "Jena Serbu",
+        "original_name": "Jena Serbu",
+        "popularity": 0.404,
+        "profile_path": null,
+        "credit_id": "586b6fe19251415d1e003bf4",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1354685,
+        "known_for_department": "Editing",
+        "name": "Rooth Tang",
+        "original_name": "Rooth Tang",
+        "popularity": 0.43,
+        "profile_path": null,
+        "credit_id": "586b7007c3a3685eae00409f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1731821,
+        "known_for_department": "Editing",
+        "name": "Reynolds Barney",
+        "original_name": "Reynolds Barney",
+        "popularity": 0.2413,
+        "profile_path": null,
+        "credit_id": "586b701ac3a3685e9c0039c3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1731822,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Eunice Jera Lee",
+        "original_name": "Eunice Jera Lee",
+        "popularity": 0.479,
+        "profile_path": null,
+        "credit_id": "586b702b9251415d24003be5",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1301177,
+        "known_for_department": "Production",
+        "name": "James J. Yi",
+        "original_name": "James J. Yi",
+        "popularity": 0.3767,
+        "profile_path": null,
+        "credit_id": "586b7077c3a3685eb2003864",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1731823,
+        "known_for_department": "Production",
+        "name": "Alex Chi",
+        "original_name": "Alex Chi",
+        "popularity": 0.2788,
+        "profile_path": null,
+        "credit_id": "586b70969251415d1e003c59",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1690182,
+        "known_for_department": "Sound",
+        "name": "Roger Suen",
+        "original_name": "Roger Suen",
+        "popularity": 0.3722,
+        "profile_path": "/A4XNTdoipFux3kKE9nptYywJK07.jpg",
+        "credit_id": "5968ce9a92514133fe0207e0",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2830897,
+        "known_for_department": "Production",
+        "name": "Naja Pham Lockwood",
+        "original_name": "Naja Pham Lockwood",
+        "popularity": 0.257,
+        "profile_path": null,
+        "credit_id": "5f96d8491cc4ff003444881c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2384564,
+        "known_for_department": "Production",
+        "name": "Pierre Delachaux",
+        "original_name": "Pierre Delachaux",
+        "popularity": 0.2711,
+        "profile_path": null,
+        "credit_id": "5f96d8671941860036268af0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1517545,
+        "known_for_department": "Crew",
+        "name": "Chuck Rockford",
+        "original_name": "Chuck Rockford",
+        "popularity": 0.2599,
+        "profile_path": null,
+        "credit_id": "5f96d8960792e100355a82ba",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2133441,
+        "known_for_department": "Sound",
+        "name": "Joseph R. De Guzman",
+        "original_name": "Joseph R. De Guzman",
+        "popularity": 0.2463,
+        "profile_path": null,
+        "credit_id": "5f96d8a71941860039265b69",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1415093,
+        "known_for_department": "Editing",
+        "name": "Sebastian Perez-Burchard",
+        "original_name": "Sebastian Perez-Burchard",
+        "popularity": 0.3996,
+        "profile_path": null,
+        "credit_id": "5f96d8cf64de350036f1d757",
+        "department": "Editing",
+        "job": "Colorist"
+      }
+    ]
+  }
+}

@@ -1,0 +1,542 @@
+{
+  "adult": false,
+  "backdrop_path": "/xeIkV4e4joAmlRJhqJu2N8jR6zC.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.lightoftheworld.com/",
+  "id": 1374686,
+  "imdb_id": "tt33235979",
+  "origin_country": [
+    "IE",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Light of the World",
+  "overview": "It's 30 AD and everyone is expectantly awaiting the coming Messiah. While Jesus isn't exactly what they imagined, there is something special about this man. Soon, John, James, Andrew, Peter, and others begin to follow Jesus on an unexpected adventure. This beautifully animated story of Jesus is told through the eyes of his beloved young friend, the Apostle John.",
+  "popularity": 5.1973,
+  "poster_path": "/3vUqo90FCIHXPiXnQJEeqzg5EDV.jpg",
+  "production_companies": [
+    {
+      "id": 256605,
+      "logo_path": "/1PysNyvSb2vHlibdfHPuCFex7ok.png",
+      "name": "Salvation Poem Project",
+      "origin_country": "US"
+    },
+    {
+      "id": 272677,
+      "logo_path": "/dFi27ZAsPJzvmus5bzDHK91ZFIQ.png",
+      "name": "Epipheo",
+      "origin_country": "US"
+    },
+    {
+      "id": 166365,
+      "logo_path": "/vdOOHuKfK376ID8IjhsT1LroDfn.png",
+      "name": "Lighthouse Studios",
+      "origin_country": "IE"
+    },
+    {
+      "id": 178926,
+      "logo_path": "/stskfPqRyiH7tssi4u2HrAsCfvN.png",
+      "name": "Combo Studio",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "2025-09-04",
+  "revenue": 2595702,
+  "runtime": 84,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "An ordinary boy, an extraordinary faith.",
+  "title": "Light of the World",
+  "video": false,
+  "vote_average": 8.663,
+  "vote_count": 46,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1599433,
+        "known_for_department": "Acting",
+        "name": "Ian Hanlin",
+        "original_name": "Ian Hanlin",
+        "popularity": 0.7742,
+        "profile_path": "/o7uOuKMH7FN3kUnvfGW7LAdcZaz.jpg",
+        "cast_id": 14,
+        "character": "Jesus (voice)",
+        "credit_id": "6859f0c4aa68f2962e4f6a8e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3139308,
+        "known_for_department": "Acting",
+        "name": "Benjamin Jacobson",
+        "original_name": "Benjamin Jacobson",
+        "popularity": 0.5231,
+        "profile_path": "/wxPQ9uNKBDUBRtX2vJ59vWbNCQi.jpg",
+        "cast_id": 22,
+        "character": "John (voice)",
+        "credit_id": "6859f1b6e9a2abdbe9a84aef",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1240645,
+        "known_for_department": "Acting",
+        "name": "Vincent Tong",
+        "original_name": "Vincent Tong",
+        "popularity": 3.141,
+        "profile_path": "/lpgVwZPewejru3WcgQEBMNWm4ze.jpg",
+        "cast_id": 11,
+        "character": "Andrew (voice)",
+        "credit_id": "6859f079c71425e8c1a84b56",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27588,
+        "known_for_department": "Acting",
+        "name": "Michael Benyaer",
+        "original_name": "Michael Benyaer",
+        "popularity": 1.0738,
+        "profile_path": "/rN6CNG1XqFTf88rUO64RDlLLwO4.jpg",
+        "cast_id": 12,
+        "character": "Nicodemus (voice)",
+        "credit_id": "6859f093c9afb21d6208d650",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1048574,
+        "known_for_department": "Acting",
+        "name": "David A. Kaye",
+        "original_name": "David A. Kaye",
+        "popularity": 1.4735,
+        "profile_path": "/fAK9KpVtPeZ9MTUXamfVqwUGBId.jpg",
+        "cast_id": 8,
+        "character": "Judas Iscariot (voice)",
+        "credit_id": "67d8a62c4f0246de39ee97bc",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83424,
+        "known_for_department": "Acting",
+        "name": "Peter New",
+        "original_name": "Peter New",
+        "popularity": 1.0206,
+        "profile_path": "/bT71ieZH2qhgxLNTPyorMlVp3PN.jpg",
+        "cast_id": 17,
+        "character": "Pharisee (voice)",
+        "credit_id": "6859f12eb5be71de5fe64ae2",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46995,
+        "known_for_department": "Acting",
+        "name": "Richard Newman",
+        "original_name": "Richard Newman",
+        "popularity": 0.9954,
+        "profile_path": "/t7fBQZH581NgM1DCQYPEqzkqZ3D.jpg",
+        "cast_id": 16,
+        "character": "Fish Monger (voice)",
+        "credit_id": "6859f0ff744fb61eeaa84b54",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3018012,
+        "known_for_department": "Acting",
+        "name": "Sam Darkoh",
+        "original_name": "Sam Darkoh",
+        "popularity": 0.5709,
+        "profile_path": "/cQu93wq4B6wy6ti8AXdYBT60XxX.jpg",
+        "cast_id": 26,
+        "character": "Peter (voice)",
+        "credit_id": "6859f297189189696f9a2883",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89552,
+        "known_for_department": "Acting",
+        "name": "Colin Murdock",
+        "original_name": "Colin Murdock",
+        "popularity": 1.1865,
+        "profile_path": "/6t5LJdFTW7VSu7UYULs22quJIT.jpg",
+        "cast_id": 18,
+        "character": "Lucius (voice)",
+        "credit_id": "6859f143eb6f09dcfb796a7a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1368266,
+        "known_for_department": "Acting",
+        "name": "Jesse Inocalla",
+        "original_name": "Jesse Inocalla",
+        "popularity": 0.5892,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "The Baptizer (voice)",
+        "credit_id": "6859f0aa77cc19f82b0ccd97",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 585723,
+        "known_for_department": "Acting",
+        "name": "Erin Mathews",
+        "original_name": "Erin Mathews",
+        "popularity": 0.6516,
+        "profile_path": "/plGRjKUo7Lr9Ua8TpT89gihNPZj.jpg",
+        "cast_id": 20,
+        "character": "Salome (voice)",
+        "credit_id": "6859f177d0576c8daa21c7b7",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1243018,
+        "known_for_department": "Acting",
+        "name": "Dave Pettitt",
+        "original_name": "Dave Pettitt",
+        "popularity": 0.5548,
+        "profile_path": "/qaohw3Q0M57lSww37pK421b7P04.jpg",
+        "cast_id": 19,
+        "character": "Zebedee (voice)",
+        "credit_id": "6859f1585c7cbe1a3da5a443",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4044225,
+        "known_for_department": "Acting",
+        "name": "Ceara Morgana",
+        "original_name": "Ceara Morgana",
+        "popularity": 0.3905,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Mary Magdalene (voice)",
+        "credit_id": "6859f0de2b7bd3ec05a5a4e9",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3082476,
+        "known_for_department": "Acting",
+        "name": "Bill Newton",
+        "original_name": "Bill Newton",
+        "popularity": 0.6025,
+        "profile_path": "/qVrw91HR7dGFRfcyKuIgdPM58KR.jpg",
+        "cast_id": 21,
+        "character": "Simon (voice)",
+        "credit_id": "6859f19d1eea56638fa5a499",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5523751,
+        "known_for_department": "Acting",
+        "name": "Mark Oliver",
+        "original_name": "Mark Oliver",
+        "popularity": 0.2383,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Pontius (voice)",
+        "credit_id": "6859f26ac452e49cff796ac1",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3611105,
+        "known_for_department": "Acting",
+        "name": "Adam Nurada",
+        "original_name": "Adam Nurada",
+        "popularity": 0.5999,
+        "profile_path": "/pJpbr3qeJZOfa5dM3VV6fk7NOFK.jpg",
+        "cast_id": 24,
+        "character": "Caiaphas (voice)",
+        "credit_id": "6859f2151feec53cd54f69e6",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5523749,
+        "known_for_department": "Acting",
+        "name": "Dylan Leonard",
+        "original_name": "Dylan Leonard",
+        "popularity": 0.2058,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "James (voice)",
+        "credit_id": "6859f1fdd0576c8daa21c7c2",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1907547,
+        "known_for_department": "Acting",
+        "name": "Adam Kozlick",
+        "original_name": "Adam Kozlick",
+        "popularity": 0.5475,
+        "profile_path": "/tk7DMTr2tG3Ee21VuAZ0AGRD42X.jpg",
+        "cast_id": 9,
+        "character": "Matthew (voice)",
+        "credit_id": "67d8a63da7f1f7ac1c858edf",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1547220,
+        "known_for_department": "Directing",
+        "name": "Tom Bancroft",
+        "original_name": "Tom Bancroft",
+        "popularity": 0.5016,
+        "profile_path": "/ksc5uHbe2cT6VUuh4EDjhZOMxqk.jpg",
+        "credit_id": "671655649943637ce582bd6b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5013133,
+        "known_for_department": "Directing",
+        "name": "John J. Schafer",
+        "original_name": "John J. Schafer",
+        "popularity": 0.3687,
+        "profile_path": null,
+        "credit_id": "671655819943637ce582bda1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5311415,
+        "known_for_department": "Writing",
+        "name": "David M. Armstrong",
+        "original_name": "David M. Armstrong",
+        "popularity": 0.3682,
+        "profile_path": null,
+        "credit_id": "67d8a5b7ee370afa15a73108",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5311417,
+        "known_for_department": "Writing",
+        "name": "Drew Barton Armstrong",
+        "original_name": "Drew Barton Armstrong",
+        "popularity": 0.2294,
+        "profile_path": null,
+        "credit_id": "67d8a5c7c4c2b520a0858e55",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5311419,
+        "known_for_department": "Production",
+        "name": "Brennan McPherson",
+        "original_name": "Brennan McPherson",
+        "popularity": 0.2834,
+        "profile_path": null,
+        "credit_id": "67d8a5dcc4c2b520a0858e71",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2530665,
+        "known_for_department": "Sound",
+        "name": "Alex McKenzie",
+        "original_name": "Alex McKenzie",
+        "popularity": 0.4689,
+        "profile_path": null,
+        "credit_id": "67d8a5ed4f0246de39ee97ad",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1568462,
+        "known_for_department": "Visual Effects",
+        "name": "Rob Zeigler",
+        "original_name": "Rob Zeigler",
+        "popularity": 0.3025,
+        "profile_path": null,
+        "credit_id": "67d8a5ffc4c2b520a0858e8a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2803754,
+        "known_for_department": "Art",
+        "name": "Mike Dutton",
+        "original_name": "Mike Dutton",
+        "popularity": 0.2686,
+        "profile_path": null,
+        "credit_id": "6859f33f744fb61eeaa84b5d",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2867754,
+        "known_for_department": "Writing",
+        "name": "Jason Heaton",
+        "original_name": "Jason Heaton",
+        "popularity": 0.4141,
+        "profile_path": null,
+        "credit_id": "68a4eb2ca13eb9db68696ef6",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5311419,
+        "known_for_department": "Production",
+        "name": "Brennan McPherson",
+        "original_name": "Brennan McPherson",
+        "popularity": 0.2834,
+        "profile_path": null,
+        "credit_id": "68a4eb6ba13eb9db68696f09",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5768798,
+        "known_for_department": "Production",
+        "name": "Daniel Armstrong",
+        "original_name": "Daniel Armstrong",
+        "popularity": 0.2644,
+        "profile_path": null,
+        "credit_id": "69025611c379f4f9e13d4137",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5789682,
+        "known_for_department": "Creator",
+        "name": "Alex J. Marek",
+        "original_name": "Alex J. Marek",
+        "popularity": 0.352,
+        "profile_path": "/7jDEyW8dlNaskAz0Hcj0mSAJ98Y.jpg",
+        "credit_id": "69067bcaa387314be52fe61d",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5789682,
+        "known_for_department": "Creator",
+        "name": "Alex J. Marek",
+        "original_name": "Alex J. Marek",
+        "popularity": 0.352,
+        "profile_path": "/7jDEyW8dlNaskAz0Hcj0mSAJ98Y.jpg",
+        "credit_id": "69078fa4b52e69099f0816c3",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1453628,
+        "known_for_department": "Writing",
+        "name": "Ovi Nedelcu",
+        "original_name": "Ovi Nedelcu",
+        "popularity": 0.52,
+        "profile_path": null,
+        "credit_id": "697e9286e4a96311bf70e6c4",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6081386,
+        "known_for_department": "Visual Effects",
+        "name": "Johannes Wipfelder",
+        "original_name": "Johannes Wipfelder",
+        "popularity": 0.1872,
+        "profile_path": null,
+        "credit_id": "69bb579f6dd6a0ef8a2c998c",
+        "department": "Visual Effects",
+        "job": "Animation"
+      }
+    ]
+  }
+}

@@ -1,0 +1,525 @@
+{
+  "adult": false,
+  "backdrop_path": "/cXOmsj07pbIpAbI8sZ4UGqiyjco.jpg",
+  "belongs_to_collection": {
+    "id": 305576,
+    "name": "Robot Chicken: DC Comics Collection",
+    "poster_path": "/89cCxS6Evi7fqvMcPU2RIGQzHcU.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 363863,
+  "imdb_id": "tt5028778",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Robot Chicken DC Comics Special III: Magical Friendship",
+  "overview": "The Robot Chicken DC Comics Special 3: Magical Friendship surrenders DC Comics' multitude of Super Heroes and Super-Villains to the demented whims of the award-winning Robot Chicken for a triumphant third time. This time around, Batman and Superman’s bromance takes a competitive turn and the fate of the universe somehow hangs in the balance!",
+  "popularity": 2.5741,
+  "poster_path": "/1SCkb0XAJUlqr9ugt91Up94P1LF.jpg",
+  "production_companies": [
+    {
+      "id": 2785,
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "name": "Warner Bros. Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 9993,
+      "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+      "name": "DC Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 51032,
+      "logo_path": "/eA0Ftu5tCEc8icg313EHMW0T0J8.png",
+      "name": "Stoopid Buddy Stoodios",
+      "origin_country": "US"
+    },
+    {
+      "id": 11073,
+      "logo_path": "/wHs44fktdoj6c378ZbSWfzKsM2Z.png",
+      "name": "Sony Pictures Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 67233,
+      "logo_path": "/bMrvWLiGTuUOKnly1UlBDPvuqtL.png",
+      "name": "Stoopid Monkey",
+      "origin_country": "US"
+    },
+    {
+      "id": 6759,
+      "logo_path": "/i8gXIVGO3yXogOIsyioSVwRKGuz.png",
+      "name": "Adult Swim",
+      "origin_country": "US"
+    },
+    {
+      "id": 6760,
+      "logo_path": "/h3syDHowNmk61FzlW2GPY0vJCFh.png",
+      "name": "Williams Street",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2015-10-18",
+  "revenue": 0,
+  "runtime": 23,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Robot Chicken DC Comics Special III: Magical Friendship",
+  "video": false,
+  "vote_average": 7.4,
+  "vote_count": 29,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13922,
+        "known_for_department": "Acting",
+        "name": "Seth Green",
+        "original_name": "Seth Green",
+        "popularity": 3.6418,
+        "profile_path": "/l4No5Eu6j0U80hCIkaSn17AOWrj.jpg",
+        "cast_id": 4,
+        "character": "The Nerd / Batman / Robin / Aquaman / Additional Voices (voice)",
+        "credit_id": "561e48c8c3a3686cc30022d1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33654,
+        "known_for_department": "Acting",
+        "name": "Breckin Meyer",
+        "original_name": "Breckin Meyer",
+        "popularity": 2.1453,
+        "profile_path": "/lKzhwW7qqQF4ZMGtRqakqrKrxzm.jpg",
+        "cast_id": 5,
+        "character": "Superman / Plastic Man (voice)",
+        "credit_id": "561e48d4c3a3686ccc001fae",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24357,
+        "known_for_department": "Acting",
+        "name": "Alex Borstein",
+        "original_name": "Alex Borstein",
+        "popularity": 2.9446,
+        "profile_path": "/g0OYqCNSa5N7zRVJl3J2FKV3LFj.jpg",
+        "cast_id": 2,
+        "character": "Wonder Woman (voice)",
+        "credit_id": "561e48a5c3a3686cc900236a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51797,
+        "known_for_department": "Acting",
+        "name": "Nathan Fillion",
+        "original_name": "Nathan Fillion",
+        "popularity": 7.2175,
+        "profile_path": "/aW6vCxkUZtwb6iH2Wf88Uq0XNVv.jpg",
+        "cast_id": 3,
+        "character": "Green Lantern (voice)",
+        "credit_id": "561e48bbc3a3686cdd002586",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 188238,
+        "known_for_department": "Acting",
+        "name": "Matthew Senreich",
+        "original_name": "Matthew Senreich",
+        "popularity": 0.7056,
+        "profile_path": "/xRNJ0SS5Ot3HoxEbZEXeheIb4Fl.jpg",
+        "cast_id": 8,
+        "character": "The Flash / Brainiac (voice)",
+        "credit_id": "561e48f79251414fb200079a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 783,
+        "known_for_department": "Acting",
+        "name": "Jonathan Banks",
+        "original_name": "Jonathan Banks",
+        "popularity": 4.7725,
+        "profile_path": "/bswk26L13PvY4iMTwUTAsepXCLv.jpg",
+        "cast_id": 1,
+        "character": "Composite Superman (voice)",
+        "credit_id": "561e489a92514142b600236e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 658,
+        "known_for_department": "Acting",
+        "name": "Alfred Molina",
+        "original_name": "Alfred Molina",
+        "popularity": 4.4986,
+        "profile_path": "/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg",
+        "cast_id": 6,
+        "character": "Lex Luthor (voice)",
+        "credit_id": "561e48e0c3a3686cc30022d5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1771,
+        "known_for_department": "Acting",
+        "name": "Giovanni Ribisi",
+        "original_name": "Giovanni Ribisi",
+        "popularity": 4.3792,
+        "profile_path": "/8EAiS9D3YtGOrwNM0OrwmDpWK7s.jpg",
+        "cast_id": 7,
+        "character": "The Joker / Two-Face (voice)",
+        "credit_id": "561e48ea925141756d000510",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5129,
+        "known_for_department": "Acting",
+        "name": "Paul Reubens",
+        "original_name": "Paul Reubens",
+        "popularity": 2.4165,
+        "profile_path": "/9xGL3pGNAiZDtzKTVDQY90Mkyqs.jpg",
+        "cast_id": 28,
+        "character": "The Riddler (voice)",
+        "credit_id": "63bc7a9faede5900b103fb8b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26847,
+        "known_for_department": "Acting",
+        "name": "Adam West",
+        "original_name": "Adam West",
+        "popularity": 2.2972,
+        "profile_path": "/a3Yw8bb6AF7a8Zr7IyEZhZxWVWN.jpg",
+        "cast_id": 12,
+        "character": "60's Batman / Bank Robber (voice)",
+        "credit_id": "561e4929c3a3686cc1002127",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35192,
+        "known_for_department": "Acting",
+        "name": "Burt Ward",
+        "original_name": "Burt Ward",
+        "popularity": 1.3291,
+        "profile_path": "/13qUIbdB6D6BaTy3znHoHWdHuYN.jpg",
+        "cast_id": 10,
+        "character": "Self (voice)",
+        "credit_id": "561e4910925141756d000519",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89001,
+        "known_for_department": "Acting",
+        "name": "Hugh Davidson",
+        "original_name": "Hugh Davidson",
+        "popularity": 1.0452,
+        "profile_path": "/sFYTqQaUx77cpL7T8YZuB3nIjMC.jpg",
+        "cast_id": 29,
+        "character": "Martian Manhunter / Tran-Zar (voice)",
+        "credit_id": "63bc7aeaa6e2d20083e22bbb",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219669,
+        "known_for_department": "Writing",
+        "name": "Zeb Wells",
+        "original_name": "Zeb Wells",
+        "popularity": 1.0573,
+        "profile_path": "/cfc4Y9MjnAMSr0Fs68M4nubvSIQ.jpg",
+        "cast_id": 11,
+        "character": "Green Arrow / Swamp Thing (voice)",
+        "credit_id": "561e491bc3a3686ccc001fb9",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23680,
+        "known_for_department": "Acting",
+        "name": "Dee Bradley Baker",
+        "original_name": "Dee Bradley Baker",
+        "popularity": 3.309,
+        "profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg",
+        "cast_id": 0,
+        "character": "Ra's al Ghul (voice)",
+        "credit_id": "561e48929251414fb200077d",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219677,
+        "known_for_department": "Acting",
+        "name": "Kevin Shinick",
+        "original_name": "Kevin Shinick",
+        "popularity": 0.7832,
+        "profile_path": "/xHoANxU56jFSmkcSTsqPBWSn5tG.jpg",
+        "cast_id": 9,
+        "character": "Narrator (voice)",
+        "credit_id": "561e4901c3a3686cd80022be",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 52404,
+        "known_for_department": "Acting",
+        "name": "Mae Whitman",
+        "original_name": "Mae Whitman",
+        "popularity": 3.7202,
+        "profile_path": "/y7fg9R5zvqDCZCUt3uwcyOoCOFp.jpg",
+        "cast_id": 13,
+        "character": "Power Girl (voice)",
+        "credit_id": "561e4931c3a3686cc900238b",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71041,
+        "known_for_department": "Acting",
+        "name": "'Weird Al' Yankovic",
+        "original_name": "'Weird Al' Yankovic",
+        "popularity": 1.7824,
+        "profile_path": "/ptaQLv6iMCCTTkNeqm5tpffJhjm.jpg",
+        "cast_id": 14,
+        "character": "Rubberduck (voice)",
+        "credit_id": "561e4935c3a3686cc100212b",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 421,
+        "known_for_department": "Acting",
+        "name": "Shooter Jennings",
+        "original_name": "Shooter Jennings",
+        "popularity": 0.8802,
+        "profile_path": "/tAhCFZbrJapI79sRBZeVZ7dQkmL.jpg",
+        "cast_id": 30,
+        "character": "Mr. Banjo (singing voice)",
+        "credit_id": "63bc7b20ae6f093c4e66a849",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219301,
+        "known_for_department": "Writing",
+        "name": "Tom Sheppard",
+        "original_name": "Tom Sheppard",
+        "popularity": 0.6253,
+        "profile_path": null,
+        "credit_id": "562e6145925141284500a78d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89002,
+        "known_for_department": "Writing",
+        "name": "Mike Fasolo",
+        "original_name": "Mike Fasolo",
+        "popularity": 0.7893,
+        "profile_path": null,
+        "credit_id": "562e616b9251410a22006cc4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1527521,
+        "known_for_department": "Writing",
+        "name": "J.T. Krul",
+        "original_name": "J.T. Krul",
+        "popularity": 0.8092,
+        "profile_path": null,
+        "credit_id": "562e61c89251414ad800948c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219664,
+        "known_for_department": "Acting",
+        "name": "Tom Root",
+        "original_name": "Tom Root",
+        "popularity": 0.6643,
+        "profile_path": null,
+        "credit_id": "562e61ddc3a3681b5400b45c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 188238,
+        "known_for_department": "Acting",
+        "name": "Matthew Senreich",
+        "original_name": "Matthew Senreich",
+        "popularity": 0.7056,
+        "profile_path": "/xRNJ0SS5Ot3HoxEbZEXeheIb4Fl.jpg",
+        "credit_id": "562e61eb9251414006009733",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13922,
+        "known_for_department": "Acting",
+        "name": "Seth Green",
+        "original_name": "Seth Green",
+        "popularity": 3.6418,
+        "profile_path": "/l4No5Eu6j0U80hCIkaSn17AOWrj.jpg",
+        "credit_id": "562e6199c3a3681b5400b454",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219663,
+        "known_for_department": "Writing",
+        "name": "Doug Goldstein",
+        "original_name": "Doug Goldstein",
+        "popularity": 0.471,
+        "profile_path": null,
+        "credit_id": "562e618b925141285700ad50",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33654,
+        "known_for_department": "Acting",
+        "name": "Breckin Meyer",
+        "original_name": "Breckin Meyer",
+        "popularity": 2.1453,
+        "profile_path": "/lKzhwW7qqQF4ZMGtRqakqrKrxzm.jpg",
+        "credit_id": "562e61d3c3a3681b4b00a728",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219669,
+        "known_for_department": "Writing",
+        "name": "Zeb Wells",
+        "original_name": "Zeb Wells",
+        "popularity": 1.0573,
+        "profile_path": "/cfc4Y9MjnAMSr0Fs68M4nubvSIQ.jpg",
+        "credit_id": "562e614ec3a3681b4b00a70f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89001,
+        "known_for_department": "Acting",
+        "name": "Hugh Davidson",
+        "original_name": "Hugh Davidson",
+        "popularity": 1.0452,
+        "profile_path": "/sFYTqQaUx77cpL7T8YZuB3nIjMC.jpg",
+        "credit_id": "562e6162c3a3681b5400b44c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 211962,
+        "known_for_department": "Writing",
+        "name": "Geoff Johns",
+        "original_name": "Geoff Johns",
+        "popularity": 1.5203,
+        "profile_path": "/1hiQjkIkeFoiwvD4yIk2Dq6tnOa.jpg",
+        "credit_id": "562e61acc3a3681b5e00ad3c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219301,
+        "known_for_department": "Writing",
+        "name": "Tom Sheppard",
+        "original_name": "Tom Sheppard",
+        "popularity": 0.6253,
+        "profile_path": null,
+        "credit_id": "562e61f4c3a3681b5400b463",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

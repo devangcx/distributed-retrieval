@@ -1,0 +1,291 @@
+{
+  "adult": false,
+  "backdrop_path": "/cKZTdEyaU74CbuhdlnkV681DGHk.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 52462,
+  "imdb_id": "tt0825728",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Pet",
+  "overview": "A young woman in dire financial straights accepts an offer to be a wealthy aristocrat's human \"pet\" for six months. Then ruthless modern \"pet-nappers\" kidnap the woman to sell her on the GSM (Global Slave Market).",
+  "popularity": 10.3436,
+  "poster_path": "/k6UZzTszSpIysEt3mk47U93iS0v.jpg",
+  "production_companies": [
+    {
+      "id": 152299,
+      "logo_path": null,
+      "name": "TriCoast Worldwide",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2006-05-17",
+  "revenue": 0,
+  "runtime": 94,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Pet",
+  "video": false,
+  "vote_average": 4.5,
+  "vote_count": 31,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146028,
+        "known_for_department": "Acting",
+        "name": "Pierre Dulat",
+        "original_name": "Pierre Dulat",
+        "popularity": 0.5028,
+        "profile_path": "/pN5bR4ssewokmqtxCxcinXx6pYJ.jpg",
+        "cast_id": 1002,
+        "character": "Philip",
+        "credit_id": "52fe482dc3a36847f815b3f1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 146029,
+        "known_for_department": "Acting",
+        "name": "Andrea Edmondson",
+        "original_name": "Andrea Edmondson",
+        "popularity": 0.3931,
+        "profile_path": "/zaXjtMQ9Hli1nKzrBo70W7deC7s.jpg",
+        "cast_id": 1003,
+        "character": "Mary / GG",
+        "credit_id": "52fe482dc3a36847f815b3f5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 146030,
+        "known_for_department": "Acting",
+        "name": "Summer Nguyen",
+        "original_name": "Summer Nguyen",
+        "popularity": 0.3518,
+        "profile_path": null,
+        "cast_id": 1004,
+        "character": "Nicky / Taps",
+        "credit_id": "52fe482dc3a36847f815b3f9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1090024,
+        "known_for_department": "Acting",
+        "name": "Lydia McLane",
+        "original_name": "Lydia McLane",
+        "popularity": 0.5107,
+        "profile_path": null,
+        "cast_id": 1005,
+        "character": "Red",
+        "credit_id": "52fe482dc3a36847f815b3fd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 956483,
+        "known_for_department": "Acting",
+        "name": "Steven Wollenberg",
+        "original_name": "Steven Wollenberg",
+        "popularity": 0.6488,
+        "profile_path": null,
+        "cast_id": 1006,
+        "character": "Charles",
+        "credit_id": "52fe482dc3a36847f815b401",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 554633,
+        "known_for_department": "Acting",
+        "name": "Magi Avila",
+        "original_name": "Magi Avila",
+        "popularity": 0.597,
+        "profile_path": "/8fR1S23E6L10M1WRVJEG1V88Ey7.jpg",
+        "cast_id": 1007,
+        "character": "Rita",
+        "credit_id": "52fe482dc3a36847f815b405",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146026,
+        "known_for_department": "Camera",
+        "name": "D. Stevens",
+        "original_name": "D. Stevens",
+        "popularity": 0.4458,
+        "profile_path": null,
+        "credit_id": "52fe482dc3a36847f815b3e7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1375858,
+        "known_for_department": "Sound",
+        "name": "Chris Walden",
+        "original_name": "Chris Walden",
+        "popularity": 0.5444,
+        "profile_path": "/kakrPzbpevNa4IZ597Q4lmLCbQL.jpg",
+        "credit_id": "61637c83fe5c910088157271",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146026,
+        "known_for_department": "Camera",
+        "name": "D. Stevens",
+        "original_name": "D. Stevens",
+        "popularity": 0.4458,
+        "profile_path": null,
+        "credit_id": "61637c77f9aa470042f34707",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1556601,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Francie Paull",
+        "original_name": "Francie Paull",
+        "popularity": 0.42,
+        "profile_path": null,
+        "credit_id": "61637cb0f9aa47002998ec39",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1263434,
+        "known_for_department": "Writing",
+        "name": "Jeannie Neill",
+        "original_name": "Jeannie Neill",
+        "popularity": 0.2059,
+        "profile_path": null,
+        "credit_id": "61637c6e33ec260091a31c89",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 52276,
+        "known_for_department": "Editing",
+        "name": "Steven Nielson",
+        "original_name": "Steven Nielson",
+        "popularity": 0.4921,
+        "profile_path": null,
+        "credit_id": "61637c90e942ee00421bd406",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72427,
+        "known_for_department": "Directing",
+        "name": "Alan Rudolph",
+        "original_name": "Alan Rudolph",
+        "popularity": 0.9826,
+        "profile_path": "/vJD43MfiVQTCOMnz2JnBltYm8nf.jpg",
+        "credit_id": "61637c9d8e2ba6008bf98f5b",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 998473,
+        "known_for_department": "Production",
+        "name": "Strathford Hamilton",
+        "original_name": "Strathford Hamilton",
+        "popularity": 0.4877,
+        "profile_path": null,
+        "credit_id": "61637c66fe5c91006251cda0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2099943,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Corinna Woodcock",
+        "original_name": "Corinna Woodcock",
+        "popularity": 0.4122,
+        "profile_path": null,
+        "credit_id": "61637cbcd18b24008eddee1e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1011452,
+        "known_for_department": "Production",
+        "name": "Marcy Levitas Hamilton",
+        "original_name": "Marcy Levitas Hamilton",
+        "popularity": 0.3587,
+        "profile_path": null,
+        "credit_id": "61637c5d8c40f70091e07998",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146026,
+        "known_for_department": "Camera",
+        "name": "D. Stevens",
+        "original_name": "D. Stevens",
+        "popularity": 0.4458,
+        "profile_path": null,
+        "credit_id": "567ebf689251417def00a699",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

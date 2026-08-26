@@ -1,0 +1,427 @@
+{
+  "adult": false,
+  "backdrop_path": "/pbeytXEqctq41UImo0u5Knik2wR.jpg",
+  "belongs_to_collection": {
+    "id": 47770,
+    "name": "Phantasm Collection",
+    "poster_path": "/4xsUaOAnOHvGfTUL4HHziRE7Aaq.jpg",
+    "backdrop_path": "/iYqhzS4ToJbcx3lbpy33MbDVsE9.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "http://www.phantasm.com",
+  "id": 262848,
+  "imdb_id": "tt3627704",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Phantasm: Ravager",
+  "overview": "Brothers Mike and Jody join family friend Reggie to battle the Tall Man and his evil minions from another dimension, for the final time.",
+  "popularity": 2.5252,
+  "poster_path": "/7Nhf5rCOEAudfRkCtWqSdP7GbWh.jpg",
+  "production_companies": [
+    {
+      "id": 59341,
+      "logo_path": null,
+      "name": "Silver Sphere Corporation",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2016-10-07",
+  "revenue": 0,
+  "runtime": 87,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The final game now begins.",
+  "title": "Phantasm: Ravager",
+  "video": false,
+  "vote_average": 4.821,
+  "vote_count": 193,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97939,
+        "known_for_department": "Acting",
+        "name": "Reggie Bannister",
+        "original_name": "Reggie Bannister",
+        "popularity": 0.9469,
+        "profile_path": "/gvhAdg4OdEFalVIcK553zNvwwaQ.jpg",
+        "cast_id": 3,
+        "character": "Reggie",
+        "credit_id": "533db173c3a36878ed00370e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58240,
+        "known_for_department": "Acting",
+        "name": "A. Michael Baldwin",
+        "original_name": "A. Michael Baldwin",
+        "popularity": 1.1151,
+        "profile_path": "/gGOWFGVokrYR6u36CKrb24OwdQT.jpg",
+        "cast_id": 4,
+        "character": "Mike",
+        "credit_id": "533db180c3a368790b00351e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79584,
+        "known_for_department": "Acting",
+        "name": "Angus Scrimm",
+        "original_name": "Angus Scrimm",
+        "popularity": 1.0718,
+        "profile_path": "/tBDDTCXXybeyzDmFwAuPCb6ePCT.jpg",
+        "cast_id": 5,
+        "character": "The Tall Man",
+        "credit_id": "533db193c3a3687912003616",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1229688,
+        "known_for_department": "Acting",
+        "name": "Dawn Cody",
+        "original_name": "Dawn Cody",
+        "popularity": 0.6586,
+        "profile_path": "/xqU8P1zjuEbHmM5Zbie4IDDDivQ.jpg",
+        "cast_id": 10,
+        "character": "Dawn",
+        "credit_id": "57f5b0229251413603001de1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58241,
+        "known_for_department": "Acting",
+        "name": "Bill Thornbury",
+        "original_name": "Bill Thornbury",
+        "popularity": 1.2567,
+        "profile_path": "/2NxCvwkJdpEuZ995uE3PPzoW93X.jpg",
+        "cast_id": 6,
+        "character": "Jody",
+        "credit_id": "533db1b1c3a36878f4003685",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 58243,
+        "known_for_department": "Acting",
+        "name": "Kathy Lester",
+        "original_name": "Kathy Lester",
+        "popularity": 0.926,
+        "profile_path": "/ySprO1AURFOEyVhPYc7zzeEvru.jpg",
+        "cast_id": 7,
+        "character": "Lady in Lavender",
+        "credit_id": "533db1bfc3a36878fb0036bf",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1097169,
+        "known_for_department": "Acting",
+        "name": "Daniel Schweiger",
+        "original_name": "Daniel Schweiger",
+        "popularity": 0.4035,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Thief",
+        "credit_id": "57f5b162c3a368161c001eca",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43774,
+        "known_for_department": "Acting",
+        "name": "Daniel Roebuck",
+        "original_name": "Daniel Roebuck",
+        "popularity": 2.083,
+        "profile_path": "/y40aX3SdvUZwE7feNq77UMg3zge.jpg",
+        "cast_id": 12,
+        "character": "Demeter",
+        "credit_id": "5821803ec3a3686500005730",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1097171,
+        "known_for_department": "Acting",
+        "name": "Cean Okada",
+        "original_name": "Cean Okada",
+        "popularity": 0.4243,
+        "profile_path": "/q3WTFrnpaTKvQtKFCIlMxIa9Xlr.jpg",
+        "cast_id": 13,
+        "character": "Nurse",
+        "credit_id": "58218054c3a368652b00497a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105643,
+        "known_for_department": "Directing",
+        "name": "Jay Oliva",
+        "original_name": "Jay Oliva",
+        "popularity": 1.3311,
+        "profile_path": "/y7EbnuoKFMvU7uZ4aD50jThyNoF.jpg",
+        "cast_id": 14,
+        "character": "Hooded Dwarf",
+        "credit_id": "58218076c3a36864b600520c",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 79581,
+        "known_for_department": "Acting",
+        "name": "Gloria Lynne Henry",
+        "original_name": "Gloria Lynne Henry",
+        "popularity": 0.4651,
+        "profile_path": "/oltO7ytuIwTKsoZfNq56I2p5Lyt.jpg",
+        "cast_id": 18,
+        "character": "Rocky",
+        "credit_id": "58f22f3ec3a3682eb600acef",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1819320,
+        "known_for_department": "Acting",
+        "name": "Stephen Jutras",
+        "original_name": "Stephen Jutras",
+        "popularity": 0.3078,
+        "profile_path": "/2Pvb5nNbbpsGavgXLwROFcPgseK.jpg",
+        "cast_id": 19,
+        "character": "Chunk",
+        "credit_id": "591e0c6b925141482f025863",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 213837,
+        "known_for_department": "Directing",
+        "name": "David Hartman",
+        "original_name": "David Hartman",
+        "popularity": 0.6975,
+        "profile_path": "/aKpsJTJjagclptUQNTPtKJny7Ai.jpg",
+        "credit_id": "5353eaaac3a3681d8d004242",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 213837,
+        "known_for_department": "Directing",
+        "name": "David Hartman",
+        "original_name": "David Hartman",
+        "popularity": 0.6975,
+        "profile_path": "/aKpsJTJjagclptUQNTPtKJny7Ai.jpg",
+        "credit_id": "5353eab3c3a3681d9300431c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58245,
+        "known_for_department": "Directing",
+        "name": "Don Coscarelli",
+        "original_name": "Don Coscarelli",
+        "popularity": 1.2091,
+        "profile_path": "/o7AzSUdMQ17auJnfb95QVeGEXHn.jpg",
+        "credit_id": "533db162c3a3687912003611",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 424552,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Shelley Kay",
+        "original_name": "Shelley Kay",
+        "popularity": 0.3053,
+        "profile_path": null,
+        "credit_id": "58218129c3a36864b6005292",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 213837,
+        "known_for_department": "Directing",
+        "name": "David Hartman",
+        "original_name": "David Hartman",
+        "popularity": 0.6975,
+        "profile_path": "/aKpsJTJjagclptUQNTPtKJny7Ai.jpg",
+        "credit_id": "582180e8c3a3686528004ac2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 213837,
+        "known_for_department": "Directing",
+        "name": "David Hartman",
+        "original_name": "David Hartman",
+        "popularity": 0.6975,
+        "profile_path": "/aKpsJTJjagclptUQNTPtKJny7Ai.jpg",
+        "credit_id": "662814a162f3350164d9f626",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1901601,
+        "known_for_department": "Acting",
+        "name": "Kathleen Hartman",
+        "original_name": "Kathleen Hartman",
+        "popularity": 0.3434,
+        "profile_path": null,
+        "credit_id": "59d88ebd9251412514023027",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58245,
+        "known_for_department": "Directing",
+        "name": "Don Coscarelli",
+        "original_name": "Don Coscarelli",
+        "popularity": 1.2091,
+        "profile_path": "/o7AzSUdMQ17auJnfb95QVeGEXHn.jpg",
+        "credit_id": "59d88e589251412514022fb3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2469335,
+        "known_for_department": "Art",
+        "name": "Bob Starr",
+        "original_name": "Bob Starr",
+        "popularity": 0.2361,
+        "profile_path": null,
+        "credit_id": "5ddf14a21c63290014009c22",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 576216,
+        "known_for_department": "Directing",
+        "name": "Brad Baruh",
+        "original_name": "Brad Baruh",
+        "popularity": 0.9363,
+        "profile_path": "/moIbcA8cduK7SxTpI2hqcA9WpRK.jpg",
+        "credit_id": "5ddf14804f58010016fbbf75",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2469336,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tokiko Inoue",
+        "original_name": "Tokiko Inoue",
+        "popularity": 0.258,
+        "profile_path": null,
+        "credit_id": "5ddf14ac4f58010016fbc076",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2469334,
+        "known_for_department": "Art",
+        "name": "Joel Saucedo",
+        "original_name": "Joel Saucedo",
+        "popularity": 0.2512,
+        "profile_path": null,
+        "credit_id": "5ddf14994f58010016fbbfe4",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28947,
+        "known_for_department": "Sound",
+        "name": "Christopher L. Stone",
+        "original_name": "Christopher L. Stone",
+        "popularity": 0.4586,
+        "profile_path": "/duWSUuGBXCkOn1aX8DViBpKXMf.jpg",
+        "credit_id": "6757188f431108aa23d137de",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58249,
+        "known_for_department": "Sound",
+        "name": "Fred Myrow",
+        "original_name": "Fred Myrow",
+        "popularity": 0.3679,
+        "profile_path": "/h7uedDUPbJzM6gkNUDGZxK8VRLf.jpg",
+        "credit_id": "686c71c0bb64f77f45703009",
+        "department": "Sound",
+        "job": "Main Title Theme Composer"
+      }
+    ]
+  }
+}

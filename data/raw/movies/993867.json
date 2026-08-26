@@ -1,0 +1,193 @@
+{
+  "adult": false,
+  "backdrop_path": "/ulaj7IhW72EK0cGSnMpP0UixTTC.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 993867,
+  "imdb_id": "tt20835552",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Eradication",
+  "overview": "When an unknown disease wipes out most of the world’s population, a man with unique blood is isolated for study. Fearing for his wife’s safety, he breaks his quarantine – into a world overrun by monstrous Infected and a shadowy agency hunting them down.",
+  "popularity": 2.9784,
+  "poster_path": "/6XZYA9VtCcidCU8Hus0J0V9wFhY.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-07-15",
+  "revenue": 0,
+  "runtime": 84,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Stay Isolated. Stay Alive.",
+  "title": "Eradication",
+  "video": false,
+  "vote_average": 6.049,
+  "vote_count": 193,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3626098,
+        "known_for_department": "Acting",
+        "name": "Awni Abdi-Bahri",
+        "original_name": "Awni Abdi-Bahri",
+        "popularity": 0.5038,
+        "profile_path": "/qlojEYSRGRw2zrL5UG8SqJ1Iptl.jpg",
+        "cast_id": 1,
+        "character": "Samantha Kamali",
+        "credit_id": "62d2a47653f83303ff2c0866",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1490131,
+        "known_for_department": "Acting",
+        "name": "Christian Masters",
+        "original_name": "Christian Masters",
+        "popularity": 0.5458,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Todd Plank",
+        "credit_id": "62d2a492158c85029e9ad4cb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1364292,
+        "known_for_department": "Acting",
+        "name": "Harry Aspinwall",
+        "original_name": "Harry Aspinwall",
+        "popularity": 0.7309,
+        "profile_path": "/iVMVXhSfTMW5HnsgOQCT3Hfoyys.jpg",
+        "cast_id": 3,
+        "character": "David Baldwin",
+        "credit_id": "62d2a4b253f8330401f4ca83",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3338866,
+        "known_for_department": "Production",
+        "name": "Ross Cowan",
+        "original_name": "Ross Cowan",
+        "popularity": 0.5464,
+        "profile_path": "/8ikx50LxaTNWhuphmSMPGCRHnIx.jpg",
+        "cast_id": 7,
+        "character": "Fleeing Man",
+        "credit_id": "64b7d567109cd000ae92d747",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4170187,
+        "known_for_department": "Acting",
+        "name": "Claudia Minor Troyer",
+        "original_name": "Claudia Minor Troyer",
+        "popularity": 0.4799,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Fleeing Woman",
+        "credit_id": "64b7d579eee18600e37275eb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4170188,
+        "known_for_department": "Acting",
+        "name": "Stefan Sirucek",
+        "original_name": "Stefan Sirucek",
+        "popularity": 0.3273,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Newscaster (voice)",
+        "credit_id": "64b7d58ad399e6014e5df1ca",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1982638,
+        "known_for_department": "Camera",
+        "name": "Daniel Byers",
+        "original_name": "Daniel Byers",
+        "popularity": 0.3865,
+        "profile_path": null,
+        "credit_id": "62d2a504c15b550055f17c89",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1982638,
+        "known_for_department": "Camera",
+        "name": "Daniel Byers",
+        "original_name": "Daniel Byers",
+        "popularity": 0.3865,
+        "profile_path": null,
+        "credit_id": "62d2a4f9eec5b5032ba8d91c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1364292,
+        "known_for_department": "Acting",
+        "name": "Harry Aspinwall",
+        "original_name": "Harry Aspinwall",
+        "popularity": 0.7309,
+        "profile_path": "/iVMVXhSfTMW5HnsgOQCT3Hfoyys.jpg",
+        "credit_id": "62d2a4c2158c85029e9ad4e6",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3033044,
+        "known_for_department": "Writing",
+        "name": "George Henry Horton",
+        "original_name": "George Henry Horton",
+        "popularity": 0.3472,
+        "profile_path": "/w0VV5M9zvZQhgp9q6ODcNPCstXv.jpg",
+        "credit_id": "662727aacb5c8e014a3f20d7",
+        "department": "Crew",
+        "job": "Thanks"
+      }
+    ]
+  }
+}

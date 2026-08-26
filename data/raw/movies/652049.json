@@ -1,0 +1,326 @@
+{
+  "adult": false,
+  "backdrop_path": "/5LQwdKMHmgmxvqFnCruIlBYtMXN.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 652049,
+  "imdb_id": "tt8472964",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Chintu Ka Birthday",
+  "overview": "During US invasion of Iraq some illegal migrants are waiting to get back home to India. As one such family prepares to celebrate the 6th birthday of their youngest member Chintu, their kind-hearted Iraqi landlord lends them a helping hand.",
+  "popularity": 0.837,
+  "poster_path": "/6Lb6Gy0clsxsfSKDZ0syKM3X7tx.jpg",
+  "production_companies": [
+    {
+      "id": 157792,
+      "logo_path": null,
+      "name": "First Draft Entertainment",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2019-09-14",
+  "revenue": 0,
+  "runtime": 83,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Chintu Ka Birthday",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 24,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43416,
+        "known_for_department": "Acting",
+        "name": "Vinay Pathak",
+        "original_name": "Vinay Pathak",
+        "popularity": 0.8531,
+        "profile_path": "/nt4MvHjHq5sF1aPrLyFO1YizD8y.jpg",
+        "cast_id": 1,
+        "character": "Madan Tiwary",
+        "credit_id": "5ed7ed9ae4b576002037a055",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6501,
+        "known_for_department": "Acting",
+        "name": "Tillotama Shome",
+        "original_name": "Tillotama Shome",
+        "popularity": 1.3164,
+        "profile_path": "/53kVIXddZaPy6mnKdZZFuOXLUII.jpg",
+        "cast_id": 2,
+        "character": "Sudha Tiwary",
+        "credit_id": "5ed7edc3e4b576001e348854",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2664745,
+        "known_for_department": "Acting",
+        "name": "Vedant Chibber",
+        "original_name": "Vedant Chibber",
+        "popularity": 0.3789,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Chintu",
+        "credit_id": "5ed7ee0cfea0d7001e8ec3dc",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133680,
+        "known_for_department": "Acting",
+        "name": "Nate Scholz",
+        "original_name": "Nate Scholz",
+        "popularity": 0.5902,
+        "profile_path": "/hYOSa8MC6oGSMrnXFqnuVsCdvOf.jpg",
+        "cast_id": 5,
+        "character": "Darren Reed",
+        "credit_id": "5ed7ee6ac4f552001fc2475c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1466172,
+        "known_for_department": "Acting",
+        "name": "Reginald L. Barnes",
+        "original_name": "Reginald L. Barnes",
+        "popularity": 0.7018,
+        "profile_path": "/rSP1ceuVk5g54jkOpxC9s1mX5PH.jpg",
+        "cast_id": 6,
+        "character": "Louis Jackson",
+        "credit_id": "5ed7ee8cc4f552001dbf3bf6",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2664746,
+        "known_for_department": "Acting",
+        "name": "Khaled Masso",
+        "original_name": "Khaled Masso",
+        "popularity": 0.395,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Hasan Mahdi",
+        "credit_id": "5ed7eeb0c4f552001dbf3c12",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2664747,
+        "known_for_department": "Acting",
+        "name": "Mehroos Mir",
+        "original_name": "Mehroos Mir",
+        "popularity": 0.2305,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Waheed",
+        "credit_id": "5ed7eebfe4b576001e348925",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2664749,
+        "known_for_department": "Acting",
+        "name": "Amina Afroz",
+        "original_name": "Amina Afroz",
+        "popularity": 0.1647,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Zainab",
+        "credit_id": "5ed7eed3e4b576002037a240",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1276863,
+        "known_for_department": "Acting",
+        "name": "Seema Pahwa",
+        "original_name": "Seema Pahwa",
+        "popularity": 0.7141,
+        "profile_path": "/jtm1q6oLBzd7C9KIrXlOOcUyzRf.jpg",
+        "cast_id": 20,
+        "character": "Seema Pahwa",
+        "credit_id": "61af6b07b5bc21004362cdb8",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2260302,
+        "known_for_department": "Crew",
+        "name": "Satyanshu Singh",
+        "original_name": "Satyanshu Singh",
+        "popularity": 0.5559,
+        "profile_path": "/ybD351UeWSBMRxJaNpL9ikRv6DB.jpg",
+        "credit_id": "5ed7ef1921c4ca001fe2747b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2384522,
+        "known_for_department": "Directing",
+        "name": "Devanshu Singh",
+        "original_name": "Devanshu Singh",
+        "popularity": 0.3806,
+        "profile_path": null,
+        "credit_id": "5ed7ef09e4b576001e348958",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1738900,
+        "known_for_department": "Acting",
+        "name": "Gursimran Khamba",
+        "original_name": "Gursimran Khamba",
+        "popularity": 0.7608,
+        "profile_path": null,
+        "credit_id": "5f83e60a55c1f40035f399ab",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1738899,
+        "known_for_department": "Acting",
+        "name": "Rohan Joshi",
+        "original_name": "Rohan Joshi",
+        "popularity": 0.5688,
+        "profile_path": "/2GVFLbPKKz86o3reZ7thC6xAcpK.jpg",
+        "credit_id": "5f83e5ee6082eb0038eb2026",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2384522,
+        "known_for_department": "Directing",
+        "name": "Devanshu Singh",
+        "original_name": "Devanshu Singh",
+        "popularity": 0.3806,
+        "profile_path": null,
+        "credit_id": "5f83e5ac175051003999522e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1489941,
+        "known_for_department": "Acting",
+        "name": "Tanmay Bhat",
+        "original_name": "Tanmay Bhat",
+        "popularity": 0.8253,
+        "profile_path": "/mheibIPjXDXYUjvReCnEeh8s674.jpg",
+        "credit_id": "5f83e5e0ab684900367c16e6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1738901,
+        "known_for_department": "Acting",
+        "name": "Ashish Shakya",
+        "original_name": "Ashish Shakya",
+        "popularity": 0.4794,
+        "profile_path": null,
+        "credit_id": "5f83e62669eb900039c3bc33",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2260302,
+        "known_for_department": "Crew",
+        "name": "Satyanshu Singh",
+        "original_name": "Satyanshu Singh",
+        "popularity": 0.5559,
+        "profile_path": "/ybD351UeWSBMRxJaNpL9ikRv6DB.jpg",
+        "credit_id": "5f83e5d217505100389c59d2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1790781,
+        "known_for_department": "Editing",
+        "name": "Charu Shree Roy",
+        "original_name": "Charu Shree Roy",
+        "popularity": 0.3639,
+        "profile_path": null,
+        "credit_id": "5fccbb230b731600400930fc",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1322646,
+        "known_for_department": "Camera",
+        "name": "Siddharth Diwan",
+        "original_name": "Siddharth Diwan",
+        "popularity": 0.3073,
+        "profile_path": null,
+        "credit_id": "5fccbb1243999b003d1929e3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

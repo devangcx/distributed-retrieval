@@ -1,0 +1,339 @@
+{
+  "adult": false,
+  "backdrop_path": "/pbUhiefOhOFaaK06UorRy2rvaGT.jpg",
+  "belongs_to_collection": {
+    "id": 386162,
+    "name": "LEGO DC Comics Super Heroes Collection",
+    "poster_path": "/noBsTnvxo1G4DVd36kaKSbTtM1M.jpg",
+    "backdrop_path": "/xMSbYXiCstnssIdxAajbGST8lpI.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.lego.com/en-us/dccomicssuperheroes",
+  "id": 322456,
+  "imdb_id": "tt4189260",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "LEGO DC Comics Super Heroes: Justice League vs. Bizarro League",
+  "overview": "Superman’s clone, Bizarro, has become an embarrassing problem. Chaos and destruction follow Bizarro everywhere as he always hears the opposite of what is said, says the opposite of what he means and does the opposite of what is right. And when the citizens of Metropolis keep confusing Bizarro with Superman, the Man of Steel decides it’s time to find a new home for him…on another planet! It’s up to the Justice League to come to terms with their backward counterparts and team up with them to stop Darkseid and save the galaxy!",
+  "popularity": 3.4923,
+  "poster_path": "/g3EP0qrVY9k08OABBsLQMHzA0nG.jpg",
+  "production_companies": [
+    {
+      "id": 2785,
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "name": "Warner Bros. Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 4081,
+      "logo_path": "/9Q0SyrhQD61wWbz5KJOkL6tu2mg.png",
+      "name": "The LEGO Group",
+      "origin_country": "DK"
+    },
+    {
+      "id": 9993,
+      "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+      "name": "DC Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2015-02-10",
+  "revenue": 0,
+  "runtime": 48,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There are two sides to every hero.",
+  "title": "LEGO DC Comics Super Heroes: Justice League vs. Bizarro League",
+  "video": false,
+  "vote_average": 6.275,
+  "vote_count": 167,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19508,
+        "known_for_department": "Acting",
+        "name": "Nolan North",
+        "original_name": "Nolan North",
+        "popularity": 2.4952,
+        "profile_path": "/gb499KZIoBTZnKCGKE4zwzlcfSe.jpg",
+        "cast_id": 0,
+        "character": "Superman and Bizarro (Voice)",
+        "credit_id": "54cb685bc3a368092400ff07",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 963818,
+        "known_for_department": "Acting",
+        "name": "Troy Baker",
+        "original_name": "Troy Baker",
+        "popularity": 2.1407,
+        "profile_path": "/mppX8pDkwNvx3dJzclwcGkngEb3.jpg",
+        "cast_id": 1,
+        "character": "Bruce Wayne/Batman and Batzarro (Voice)",
+        "credit_id": "54cb68a5c3a368092400ff32",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5727,
+        "known_for_department": "Acting",
+        "name": "Diedrich Bader",
+        "original_name": "Diedrich Bader",
+        "popularity": 2.9957,
+        "profile_path": "/z7CctykPTuXDfAs7pkAA7vW4b3T.jpg",
+        "cast_id": 3,
+        "character": "Guy Gardner / Greenzarro (voice)",
+        "credit_id": "54cb6910c3a368044800edea",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65640,
+        "known_for_department": "Acting",
+        "name": "Khary Payton",
+        "original_name": "Khary Payton",
+        "popularity": 2.0801,
+        "profile_path": "/4PgEGuAb2KkaRb7P9PdK40pPeVH.jpg",
+        "cast_id": 4,
+        "character": "Cyborg and Cyzarro (Voice)",
+        "credit_id": "54cb692cc3a368044800edf0",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19506,
+        "known_for_department": "Acting",
+        "name": "James Arnold Taylor",
+        "original_name": "James Arnold Taylor",
+        "popularity": 1.8992,
+        "profile_path": "/sSthBDGT8HBd2hXRNPymA6D0ov8.jpg",
+        "cast_id": 5,
+        "character": "The Flash (Voice)",
+        "credit_id": "54cb6956925141679401477e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31531,
+        "known_for_department": "Acting",
+        "name": "John DiMaggio",
+        "original_name": "John DiMaggio",
+        "popularity": 3.2614,
+        "profile_path": "/qcbQe71nSlULDsP1OxTqltEKFbl.jpg",
+        "cast_id": 19,
+        "character": "Lex Luthor / Deathstroke (voice)",
+        "credit_id": "567a8f1192514106eb002230",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 116315,
+        "known_for_department": "Acting",
+        "name": "Kari Wahlgren",
+        "original_name": "Kari Wahlgren",
+        "popularity": 2.3589,
+        "profile_path": "/kc0BOnSdzCfq8w9qoNVEm5K12x1.jpg",
+        "cast_id": 13,
+        "character": "Wonder Woman / Bizzara (voice)",
+        "credit_id": "5513a2d69251410445002d54",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19384,
+        "known_for_department": "Acting",
+        "name": "Tony Todd",
+        "original_name": "Tony Todd",
+        "popularity": 2.6608,
+        "profile_path": "/cNUIRoewwiLi8JxyA1J2zb1z5SN.jpg",
+        "cast_id": 14,
+        "character": "Darkseid (voice)",
+        "credit_id": "5513a35492514103e9002628",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78798,
+        "known_for_department": "Acting",
+        "name": "Tom Kenny",
+        "original_name": "Tom Kenny",
+        "popularity": 3.5943,
+        "profile_path": "/kftXtExrcoTTjyeYmSXJ0Ogr3R7.jpg",
+        "cast_id": 15,
+        "character": "Penguin / Plastic Man (voice)",
+        "credit_id": "5513a37ec3a3684239000adc",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56853,
+        "known_for_department": "Acting",
+        "name": "Phil Morris",
+        "original_name": "Phil Morris",
+        "popularity": 2.17,
+        "profile_path": "/iZADKc1QdCFpTvu0KnU3BZBwtrE.jpg",
+        "cast_id": 16,
+        "character": "Green Arrow / Hawkman (voice)",
+        "credit_id": "5513a3c29251410445002d73",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24362,
+        "known_for_department": "Acting",
+        "name": "Kevin Michael Richardson",
+        "original_name": "Kevin Michael Richardson",
+        "popularity": 3.2234,
+        "profile_path": "/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg",
+        "cast_id": 17,
+        "character": "Captain Cold / Gorilla Grodd (voice)",
+        "credit_id": "5513a3e5c3a36861950029c9",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 60741,
+        "known_for_department": "Acting",
+        "name": "April Winchell",
+        "original_name": "April Winchell",
+        "popularity": 1.4439,
+        "profile_path": "/twx3xkmvRAuHHJp3xUd1sbxTZRS.jpg",
+        "cast_id": 18,
+        "character": "Giganta (voice)",
+        "credit_id": "5513a40cc3a36840a3000a60",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124279,
+        "known_for_department": "Production",
+        "name": "Brandon Vietti",
+        "original_name": "Brandon Vietti",
+        "popularity": 0.8558,
+        "profile_path": "/3aQCKuGIGzs7yJiD3z12EatL7P8.jpg",
+        "credit_id": "54cb731c92514157cc010548",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141043,
+        "known_for_department": "Production",
+        "name": "Sam Register",
+        "original_name": "Sam Register",
+        "popularity": 1.1426,
+        "profile_path": "/rCJa4fFOi3CcOGjljzn06XliSsz.jpg",
+        "credit_id": "54cb73d5925141635e00ca12",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1420598,
+        "known_for_department": "Sound",
+        "name": "Tim Kelly",
+        "original_name": "Tim Kelly",
+        "popularity": 0.4627,
+        "profile_path": null,
+        "credit_id": "54cb7408c3a36874b7015e4f",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124279,
+        "known_for_department": "Production",
+        "name": "Brandon Vietti",
+        "original_name": "Brandon Vietti",
+        "popularity": 0.8558,
+        "profile_path": "/3aQCKuGIGzs7yJiD3z12EatL7P8.jpg",
+        "credit_id": "54cb733192514108c700feda",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113901,
+        "known_for_department": "Writing",
+        "name": "Michael Jelenic",
+        "original_name": "Michael Jelenic",
+        "popularity": 1.3927,
+        "profile_path": "/rzfpbDQ3S3lDqnyMfcGzDv0QCwZ.jpg",
+        "credit_id": "54cb73b4c3a36874b7015e44",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1297324,
+        "known_for_department": "Editing",
+        "name": "Craig Paulsen",
+        "original_name": "Craig Paulsen",
+        "popularity": 0.5113,
+        "profile_path": null,
+        "credit_id": "5891dac1c3a3686348001f7c",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

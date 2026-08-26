@@ -1,0 +1,384 @@
+{
+  "adult": false,
+  "backdrop_path": "/lYLDLB9iD8tStFjlPS9QS2uQWpe.jpg",
+  "belongs_to_collection": {
+    "id": 1288693,
+    "name": "Agent - Collection",
+    "poster_path": "/uAktLoepkheSuqGOAdVd439EOiM.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 1198899,
+  "imdb_id": "tt26743864",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Agent Recon",
+  "overview": "A covert military task force tracks a mysterious energy disturbance at a secret base in New Mexico that is suspected of experimenting on alien technology. Once there, the team encounters an unknown being of extraordinary strength and speed, and the ability to control an army of mindless warriors. The trio must fight through the unstoppable hordes to prevent humanity's demise.",
+  "popularity": 3.0738,
+  "poster_path": "/fxxPAowtYuGj4WHrNqbPTfLHRLF.jpg",
+  "production_companies": [
+    {
+      "id": 1020,
+      "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+      "name": "Millennium Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 121204,
+      "logo_path": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
+      "name": "BondIt Media Capital",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-06-21",
+  "revenue": 0,
+  "runtime": 85,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Agent Recon",
+  "video": false,
+  "vote_average": 3.932,
+  "vote_count": 22,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1070341,
+        "known_for_department": "Acting",
+        "name": "Derek Ting",
+        "original_name": "Derek Ting",
+        "popularity": 0.5734,
+        "profile_path": "/8432vvJne47UoLThh6FRRUfzImV.jpg",
+        "cast_id": 2,
+        "character": "Jim Yung",
+        "credit_id": "65411359eec5b5010144870e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35350,
+        "known_for_department": "Acting",
+        "name": "Marc Singer",
+        "original_name": "Marc Singer",
+        "popularity": 2.0181,
+        "profile_path": "/npgKM5FfPKnAukzV11pXOlLeBnZ.jpg",
+        "cast_id": 3,
+        "character": "Colonel Green",
+        "credit_id": "6541135eeec5b500c78f4ef3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51576,
+        "known_for_department": "Acting",
+        "name": "Chuck Norris",
+        "original_name": "Chuck Norris",
+        "popularity": 3.1665,
+        "profile_path": "/m3uLikdhi9qObRvGVHsKX5H93lR.jpg",
+        "cast_id": 1,
+        "character": "Alastair",
+        "credit_id": "654113514557a010a3dba7a2",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2706258,
+        "known_for_department": "Acting",
+        "name": "Sylvia Kwan",
+        "original_name": "Sylvia Kwan",
+        "popularity": 0.4466,
+        "profile_path": "/mhxlgWGY912BIMmXELmsJJedAF.jpg",
+        "cast_id": 6,
+        "character": "Tanya",
+        "credit_id": "663d774332f2206f780f033d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1669471,
+        "known_for_department": "Acting",
+        "name": "Jason Scott Jenkins",
+        "original_name": "Jason Scott Jenkins",
+        "popularity": 0.7794,
+        "profile_path": "/M6jBEYXCwsRtVcxyCPf9wy2HWX.jpg",
+        "cast_id": 7,
+        "character": "Miller",
+        "credit_id": "663d776c029372a7e450b4b7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4705050,
+        "known_for_department": "Acting",
+        "name": "Matthew Ryan Burnett",
+        "original_name": "Matthew Ryan Burnett",
+        "popularity": 0.3609,
+        "profile_path": "/EuodKHJo1HP5yqY6AIdWCjyVeZ.jpg",
+        "cast_id": 8,
+        "character": "Aaron Klak",
+        "credit_id": "663d77b6f56a7dbb62dc04a7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1341059,
+        "known_for_department": "Acting",
+        "name": "Nikki Leigh",
+        "original_name": "Nikki Leigh",
+        "popularity": 2.1098,
+        "profile_path": "/vvB63mBHilqolRlQmRyBdNhBp3g.jpg",
+        "cast_id": 9,
+        "character": "Captain Lila Rupert",
+        "credit_id": "663d77d9842f8676d2a4047f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1547148,
+        "known_for_department": "Acting",
+        "name": "Teo Briones",
+        "original_name": "Teo Briones",
+        "popularity": 1.8758,
+        "profile_path": "/cyykbm4Xht2Pi7brr88FcmS1LPb.jpg",
+        "cast_id": 10,
+        "character": "Larry Higgins",
+        "credit_id": "663d77f6f56a7dbb62dc0555",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94976,
+        "known_for_department": "Acting",
+        "name": "Christopher Showerman",
+        "original_name": "Christopher Showerman",
+        "popularity": 0.9971,
+        "profile_path": "/ueRwvNl43kmRmNB0XA3YAKQWTzs.jpg",
+        "cast_id": 11,
+        "character": "Dr. Penn / Alpha",
+        "credit_id": "663d782f842f8676d2a40533",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1862152,
+        "known_for_department": "Acting",
+        "name": "Yarett Harper",
+        "original_name": "Yarett Harper",
+        "popularity": 0.4981,
+        "profile_path": "/iJeKDwK2zXYWGDboWV08PizfcM9.jpg",
+        "cast_id": 12,
+        "character": "Harden",
+        "credit_id": "663d78435ad4ec9cf9305005",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1070341,
+        "known_for_department": "Acting",
+        "name": "Derek Ting",
+        "original_name": "Derek Ting",
+        "popularity": 0.5734,
+        "profile_path": "/8432vvJne47UoLThh6FRRUfzImV.jpg",
+        "credit_id": "654113a763e6fb00e424af21",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1070341,
+        "known_for_department": "Acting",
+        "name": "Derek Ting",
+        "original_name": "Derek Ting",
+        "popularity": 0.5734,
+        "profile_path": "/8432vvJne47UoLThh6FRRUfzImV.jpg",
+        "credit_id": "6541139f33a533010b2ee70b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585882,
+        "known_for_department": "Production",
+        "name": "Jeff Sackman",
+        "original_name": "Jeff Sackman",
+        "popularity": 0.5666,
+        "profile_path": null,
+        "credit_id": "6676589b660f9ea5b034d454",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4788151,
+        "known_for_department": "Production",
+        "name": "Joyce Yung",
+        "original_name": "Joyce Yung",
+        "popularity": 0.3737,
+        "profile_path": "/aN5xCm5gcXRo9iUDNgRbzPZRY28.jpg",
+        "credit_id": "6676596455a9823d7f232502",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3046415,
+        "known_for_department": "Production",
+        "name": "Grady Craig",
+        "original_name": "Grady Craig",
+        "popularity": 0.398,
+        "profile_path": null,
+        "credit_id": "6676551f028d945550f1fbd4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4788140,
+        "known_for_department": "Production",
+        "name": "Judah Klatzker",
+        "original_name": "Judah Klatzker",
+        "popularity": 0.1688,
+        "profile_path": null,
+        "credit_id": "66765788bfdae4e8c934d832",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3326465,
+        "known_for_department": "Production",
+        "name": "Lawrence 'Larry' Greenberg",
+        "original_name": "Lawrence 'Larry' Greenberg",
+        "popularity": 0.7929,
+        "profile_path": null,
+        "credit_id": "667655e43dcef0fb76c4c8fb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1766773,
+        "known_for_department": "Production",
+        "name": "Berry Meyerowitz",
+        "original_name": "Berry Meyerowitz",
+        "popularity": 0.5985,
+        "profile_path": null,
+        "credit_id": "6676584afae09751713afd5f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1070341,
+        "known_for_department": "Acting",
+        "name": "Derek Ting",
+        "original_name": "Derek Ting",
+        "popularity": 0.5734,
+        "profile_path": "/8432vvJne47UoLThh6FRRUfzImV.jpg",
+        "credit_id": "6676590284243df840eef0fc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1673707,
+        "known_for_department": "Production",
+        "name": "Luke Taylor",
+        "original_name": "Luke Taylor",
+        "popularity": 0.6818,
+        "profile_path": "/hMQuwCLvqQfd8XF0n3NwUub0AxR.jpg",
+        "credit_id": "667658dc30adafb4ea6ff63d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1489060,
+        "known_for_department": "Production",
+        "name": "Matthew Helderman",
+        "original_name": "Matthew Helderman",
+        "popularity": 0.6676,
+        "profile_path": "/tylGESPhyioiRd9etbk5kFCg14j.jpg",
+        "credit_id": "66765729f5e2e2e62f2b31be",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1959876,
+        "known_for_department": "Editing",
+        "name": "Chris Damadyan",
+        "original_name": "Chris Damadyan",
+        "popularity": 0.3542,
+        "profile_path": null,
+        "credit_id": "6a15ed0f108e8b934dfcdd90",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3530231,
+        "known_for_department": "Camera",
+        "name": "Zach Trout",
+        "original_name": "Zach Trout",
+        "popularity": 0.3785,
+        "profile_path": null,
+        "credit_id": "6a15ed1c289a9aa5a2b45eec",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

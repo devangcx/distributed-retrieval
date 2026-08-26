@@ -1,0 +1,196 @@
+{
+  "adult": false,
+  "backdrop_path": "/2O8GXFH31YkPvoyBa8riBBn47ho.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 381070,
+  "imdb_id": "tt5050788",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Loev",
+  "overview": "When hot shot, Wall Street dealmaker Jai thinks of putting some pleasure into his 48 hour business trip to Mumbai, Sahil, his young, music-producer friend, drops everything, including his reckless boyfriend Alex, to help him execute the perfect getaway. Hiking the hills and canyons of Maharashtra, amidst half-attempted conversations and sudden silences, business calls and old jokes, the friends discover there is more than just time-zones keeping them apart. Things take another turn when Alex shows up with a new male-companion at his side, throwing up old conflicts and bringing unanswered questions to the fore.",
+  "popularity": 2.129,
+  "poster_path": "/d8joulbNy1LlJpT9xrGvS8KgjAC.jpg",
+  "production_companies": [
+    {
+      "id": 91712,
+      "logo_path": null,
+      "name": "Productions Four Line Films",
+      "origin_country": ""
+    },
+    {
+      "id": 91713,
+      "logo_path": null,
+      "name": "Bombay Berlin Film",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2016-05-12",
+  "revenue": 0,
+  "runtime": 90,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A simple story about love no matter how you spell it",
+  "title": "Loev",
+  "video": false,
+  "vote_average": 5.29,
+  "vote_count": 105,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1125098,
+        "known_for_department": "Acting",
+        "name": "Shiv Panditt",
+        "original_name": "Shiv Panditt",
+        "popularity": 0.8574,
+        "profile_path": "/iLBrhlwv7MO1w8fDZoIald1LDHt.jpg",
+        "cast_id": 1,
+        "character": "Jai",
+        "credit_id": "56b282719251410338000e27",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1576534,
+        "known_for_department": "Acting",
+        "name": "Dhruv Ganesh",
+        "original_name": "Dhruv Ganesh",
+        "popularity": 0.7256,
+        "profile_path": "/z0CABeXOaI3SFtYTnHG3X1tnbFV.jpg",
+        "cast_id": 2,
+        "character": "Sahil",
+        "credit_id": "56be62fa92514140a6002c15",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1838528,
+        "known_for_department": "Acting",
+        "name": "Rishab Chadha",
+        "original_name": "Rishab Chadha",
+        "popularity": 1.0959,
+        "profile_path": "/3GqZWPoTqXghNarxcwL1L6AuD9E.jpg",
+        "cast_id": 4,
+        "character": "Junior",
+        "credit_id": "594ed331c3a368328b03805c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4215577,
+        "known_for_department": "Acting",
+        "name": "Siddharth Menon",
+        "original_name": "Siddharth Menon",
+        "popularity": 0.6434,
+        "profile_path": "/sD8iRVNRGzmY782X234aW8MDf1C.jpg",
+        "cast_id": 9,
+        "character": "Alex",
+        "credit_id": "696dcac2c3f802fb1c7fa59a",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1572166,
+        "known_for_department": "Directing",
+        "name": "Sudhanshu Saria",
+        "original_name": "Sudhanshu Saria",
+        "popularity": 0.4382,
+        "profile_path": null,
+        "credit_id": "56b2825dc3a36845ba000df4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1838532,
+        "known_for_department": "Sound",
+        "name": "Tony Kakkar",
+        "original_name": "Tony Kakkar",
+        "popularity": 0.4891,
+        "profile_path": "/jdgd1jJ7k6Jf5NaijyS5DBbK2Nl.jpg",
+        "credit_id": "594ed47fc3a368323203ae00",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1015835,
+        "known_for_department": "Camera",
+        "name": "Sherri Kauk",
+        "original_name": "Sherri Kauk",
+        "popularity": 0.5078,
+        "profile_path": null,
+        "credit_id": "594ed426c3a368328b038116",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1572166,
+        "known_for_department": "Directing",
+        "name": "Sudhanshu Saria",
+        "original_name": "Sudhanshu Saria",
+        "popularity": 0.4382,
+        "profile_path": null,
+        "credit_id": "594ed411c3a368329b043588",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1838531,
+        "known_for_department": "Editing",
+        "name": "Nitesh Bhatia",
+        "original_name": "Nitesh Bhatia",
+        "popularity": 0.3353,
+        "profile_path": null,
+        "credit_id": "594ed438c3a368329b0435aa",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

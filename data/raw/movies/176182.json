@@ -1,0 +1,150 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "http://thehumanscale.dk/",
+  "id": 176182,
+  "imdb_id": "tt2414454",
+  "origin_country": [
+    "BD",
+    "CN",
+    "DK",
+    "NZ",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Den mänskliga staden",
+  "overview": "50 % of the world’s population lives in urban areas. By 2050 this will increase to 80%. Life in a mega city is both enchanting and problematic. Today we face peak oil, climate change, loneliness and severe health issues due to our way of life. But why? The Danish architect and professor Jan Gehl has studied human behavior in cities through 40 years. He has documented how modern cities repel human interaction, and argues that we can build cities in a way, which takes human needs for inclusion and intimacy into account.",
+  "popularity": 2.9191,
+  "poster_path": "/aRcrMjCefLXjYidGyXnPWvZsRMy.jpg",
+  "production_companies": [
+    {
+      "id": 186899,
+      "logo_path": null,
+      "name": "Real Dania Fonden",
+      "origin_country": ""
+    },
+    {
+      "id": 29062,
+      "logo_path": "/hwlA6f2HhaOJP1ZcrYL8f8g8UbJ.png",
+      "name": "Final Cut for Real",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BD",
+      "name": "Bangladesh"
+    },
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "NZ",
+      "name": "New Zealand"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2012-02-20",
+  "revenue": 0,
+  "runtime": 83,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Bringing Cities To Life",
+  "title": "The Human Scale",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 22,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1972579,
+        "known_for_department": "Directing",
+        "name": "Simon Lereng Wilmont",
+        "original_name": "Simon Lereng Wilmont",
+        "popularity": 0.6227,
+        "profile_path": "/v0FV1o5pC5VVc9WeiAfCmKo8bHp.jpg",
+        "credit_id": "6077142418864b005ba71268",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 989456,
+        "known_for_department": "Directing",
+        "name": "Andreas Dalsgaard",
+        "original_name": "Andreas Dalsgaard",
+        "popularity": 0.6558,
+        "profile_path": null,
+        "credit_id": "52fe4d6dc3a36847f8260455",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 989456,
+        "known_for_department": "Directing",
+        "name": "Andreas Dalsgaard",
+        "original_name": "Andreas Dalsgaard",
+        "popularity": 0.6558,
+        "profile_path": null,
+        "credit_id": "52fe4d6dc3a36847f826045b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 989456,
+        "known_for_department": "Directing",
+        "name": "Andreas Dalsgaard",
+        "original_name": "Andreas Dalsgaard",
+        "popularity": 0.6558,
+        "profile_path": null,
+        "credit_id": "52fe4d6dc3a36847f8260461",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 989456,
+        "known_for_department": "Directing",
+        "name": "Andreas Dalsgaard",
+        "original_name": "Andreas Dalsgaard",
+        "popularity": 0.6558,
+        "profile_path": null,
+        "credit_id": "52fe4d6dc3a36847f8260467",
+        "department": "Crew",
+        "job": "Cinematography"
+      }
+    ]
+  }
+}

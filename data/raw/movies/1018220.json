@@ -1,0 +1,443 @@
+{
+  "adult": false,
+  "backdrop_path": "/3q7LHMFl4ZZOyLn70MVHCJ6rgxG.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81110816",
+  "id": 1018220,
+  "imdb_id": "tt15238986",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "प्लान ए प्लान बी",
+  "overview": "When an earnest matchmaker moves into an office next to a cynical divorce attorney, their bitter conflict is complicated by a growing attraction.",
+  "popularity": 1.2624,
+  "poster_path": "/qVZ7aCYKsoP3vca55znw37LQXUl.jpg",
+  "production_companies": [
+    {
+      "id": 125471,
+      "logo_path": null,
+      "name": "India Stories",
+      "origin_country": ""
+    },
+    {
+      "id": 181363,
+      "logo_path": null,
+      "name": "Funk Your Blues Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2022-09-30",
+  "revenue": 0,
+  "runtime": 106,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Plan A Plan B",
+  "video": false,
+  "vote_average": 5.75,
+  "vote_count": 28,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84957,
+        "known_for_department": "Acting",
+        "name": "Riteish Deshmukh",
+        "original_name": "रितेश देशमुख",
+        "popularity": 1.2629,
+        "profile_path": "/b4Mwk9dDgMS82269iBX7V1YsOpu.jpg",
+        "cast_id": 3,
+        "character": "Kaustubh Chougule",
+        "credit_id": "630c6fcd226c56007bace706",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85721,
+        "known_for_department": "Acting",
+        "name": "Tamannaah Bhatia",
+        "original_name": "తమన్నా భాటియా",
+        "popularity": 3.2479,
+        "profile_path": "/t4WYoKiFAyO1Rhjv7O03EKmJHp4.jpg",
+        "cast_id": 4,
+        "character": "Nirali Vora",
+        "credit_id": "630c6fd8bbcae0007e491b5a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85592,
+        "known_for_department": "Acting",
+        "name": "Poonam Dhillon",
+        "original_name": "Poonam Dhillon",
+        "popularity": 0.9587,
+        "profile_path": "/dDgjh51Q1Si6hWvmdMInBhj1hFK.jpg",
+        "cast_id": 5,
+        "character": "Kiran Vora",
+        "credit_id": "630c6fdfca7ec6007bcd86db",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2341074,
+        "known_for_department": "Acting",
+        "name": "Kusha Kapila",
+        "original_name": "Kusha Kapila",
+        "popularity": 0.6718,
+        "profile_path": "/7BpKYV3e0yWWGajQqw3KsCTzva.jpg",
+        "cast_id": 6,
+        "character": "Seema",
+        "credit_id": "630c6fe523bcf40080f5593c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2509543,
+        "known_for_department": "Acting",
+        "name": "Neetha Mohindra",
+        "original_name": "Neetha Mohindra",
+        "popularity": 0.5113,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Pussy Aunty",
+        "credit_id": "632037de392712007b2242ce",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3725011,
+        "known_for_department": "Acting",
+        "name": "Raghav Aggarwal",
+        "original_name": "Raghav Aggarwal",
+        "popularity": 0.3474,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Girish",
+        "credit_id": "633a77646728a800825d059b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 966629,
+        "known_for_department": "Acting",
+        "name": "Dilshad Patel",
+        "original_name": "Dilshad Patel",
+        "popularity": 0.3638,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Preeti",
+        "credit_id": "633a7789481382007a9ff16e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3725012,
+        "known_for_department": "Acting",
+        "name": "Prithviraj Uday Sarnaik",
+        "original_name": "Prithviraj Uday Sarnaik",
+        "popularity": 0.2684,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Kabeer",
+        "credit_id": "633a779338469a008240d80c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1376743,
+        "known_for_department": "Acting",
+        "name": "Bidita Bag",
+        "original_name": "Bidita Bag",
+        "popularity": 0.649,
+        "profile_path": "/2W8PJe4w3QRlgv6M4vZEMscFEyF.jpg",
+        "cast_id": 28,
+        "character": "Runjhun Chougule",
+        "credit_id": "633cf8004813820091895e3e",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3680935,
+        "known_for_department": "Production",
+        "name": "K.R. Harish",
+        "original_name": "K.R. Harish",
+        "popularity": 0.2386,
+        "profile_path": null,
+        "credit_id": "630c708bd051d90092276958",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85442,
+        "known_for_department": "Writing",
+        "name": "Rajat Arora",
+        "original_name": "Rajat Arora",
+        "popularity": 0.6876,
+        "profile_path": "/2aPhvpHdLFtEwK4WFzxuvwZwZUg.jpg",
+        "credit_id": "630c6f9823bcf40080f5591f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2354252,
+        "known_for_department": "Production",
+        "name": "Trilok Malhotra",
+        "original_name": "Trilok Malhotra",
+        "popularity": 0.2661,
+        "profile_path": null,
+        "credit_id": "630c707d0398ab0082a08f39",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1364929,
+        "known_for_department": "Directing",
+        "name": "Shashanka Ghosh",
+        "original_name": "Shashanka Ghosh",
+        "popularity": 0.5231,
+        "profile_path": null,
+        "credit_id": "630c6f8eb3e6270098114174",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85442,
+        "known_for_department": "Writing",
+        "name": "Rajat Arora",
+        "original_name": "Rajat Arora",
+        "popularity": 0.6876,
+        "profile_path": "/2aPhvpHdLFtEwK4WFzxuvwZwZUg.jpg",
+        "credit_id": "630c70650398ab007a2a30de",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2045855,
+        "known_for_department": "Art",
+        "name": "Akshi Kapoor",
+        "original_name": "Akshi Kapoor",
+        "popularity": 0.2814,
+        "profile_path": null,
+        "credit_id": "63203b69e72fe8007e1df510",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3699042,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nishka Lulla",
+        "original_name": "Nishka Lulla",
+        "popularity": 0.2526,
+        "profile_path": null,
+        "credit_id": "63203c30b87aec007f8a2ee0",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1668224,
+        "known_for_department": "Camera",
+        "name": "Jayakrishna Gummadi",
+        "original_name": "Jayakrishna Gummadi",
+        "popularity": 0.3189,
+        "profile_path": null,
+        "credit_id": "63203605ce9e91007cd001eb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1714250,
+        "known_for_department": "Art",
+        "name": "Tanya Kapoor",
+        "original_name": "Tanya Kapoor",
+        "popularity": 0.3058,
+        "profile_path": null,
+        "credit_id": "63203b5e0b7316007dc47ea7",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2051485,
+        "known_for_department": "Sound",
+        "name": "Bann Chakraborty",
+        "original_name": "Bann Chakraborty",
+        "popularity": 0.2529,
+        "profile_path": null,
+        "credit_id": "63203ba70bb0760080244caf",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2288374,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Puneet Jain",
+        "original_name": "Puneet Jain",
+        "popularity": 0.2189,
+        "profile_path": null,
+        "credit_id": "63203c0fe9da690081e04d09",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1785033,
+        "known_for_department": "Crew",
+        "name": "Sunil Rodrigues",
+        "original_name": "Sunil Rodrigues",
+        "popularity": 0.4896,
+        "profile_path": null,
+        "credit_id": "63203c3f7fcab3007af229fb",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1314294,
+        "known_for_department": "Editing",
+        "name": "Shweta Venkat Mathew",
+        "original_name": "Shweta Venkat Mathew",
+        "popularity": 0.389,
+        "profile_path": "/vffbzulSc9fTPOEo2WheibIE0OR.jpg",
+        "credit_id": "63203b343927120080662488",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2051485,
+        "known_for_department": "Sound",
+        "name": "Bann Chakraborty",
+        "original_name": "Bann Chakraborty",
+        "popularity": 0.2529,
+        "profile_path": null,
+        "credit_id": "63203b83435011007f987dd6",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 231583,
+        "known_for_department": "Sound",
+        "name": "Baylon Fonseca",
+        "original_name": "Baylon Fonseca",
+        "popularity": 0.4807,
+        "profile_path": null,
+        "credit_id": "63203b47ce9e91007cd00428",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3699040,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Prateek Pemgirikar",
+        "original_name": "Prateek Pemgirikar",
+        "popularity": 0.265,
+        "profile_path": null,
+        "credit_id": "63203bcce55937007ada529d",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1108802,
+        "known_for_department": "Production",
+        "name": "Mukesh Chhabra",
+        "original_name": "मुकेश छाबरा",
+        "popularity": 0.7494,
+        "profile_path": "/f5XI2wJs2JPcd5FSECsdcnkyOMW.jpg",
+        "credit_id": "63203c19e55937007ada52bd",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3314601,
+        "known_for_department": "Sound",
+        "name": "Yug Bhusal",
+        "original_name": "Yug Bhusal",
+        "popularity": 0.2963,
+        "profile_path": null,
+        "credit_id": "63203b8fce9e9100849183d2",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3699041,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Antara Bahuguna Ghosh",
+        "original_name": "Antara Bahuguna Ghosh",
+        "popularity": 0.2018,
+        "profile_path": null,
+        "credit_id": "63203be40bb0760092872df5",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      }
+    ]
+  }
+}

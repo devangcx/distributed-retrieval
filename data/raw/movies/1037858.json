@@ -1,0 +1,418 @@
+{
+  "adult": false,
+  "backdrop_path": "/4kAnLio28ma3wIEbyb5sZQ1vIL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/80228012",
+  "id": 1037858,
+  "imdb_id": "tt22774688",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Soccer Football Movie",
+  "overview": "When mysterious green slime monsters start popping out of soccer balls, all-star athletes Zlatan Ibrahimović and Megan Rapinoe must team up with their four biggest fans to stop evil scientist \"Weird Al\" Yankovic from stealing their talent.",
+  "popularity": 3.8357,
+  "poster_path": "/sWoYDNPNZs5MtzPbirXV73tIHrA.jpg",
+  "production_companies": [
+    {
+      "id": 76742,
+      "logo_path": "/7DPDeTgKBiuiRUtX4VLQJo2ojpr.png",
+      "name": "L'Atelier Animation",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-11-09",
+  "revenue": 0,
+  "runtime": 70,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Soccer Football Movie",
+  "video": false,
+  "vote_average": 5.647,
+  "vote_count": 126,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1066986,
+        "known_for_department": "Acting",
+        "name": "Zlatan Ibrahimović",
+        "original_name": "Zlatan Ibrahimović",
+        "popularity": 0.7741,
+        "profile_path": "/eMf30zie0PwlfRFjzObHTUHhcat.jpg",
+        "cast_id": 1,
+        "character": "Zlatan Ibrahimović (voice)",
+        "credit_id": "635201429590e3007afb1de1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2087866,
+        "known_for_department": "Acting",
+        "name": "Megan Rapinoe",
+        "original_name": "Megan Rapinoe",
+        "popularity": 0.6714,
+        "profile_path": "/nzGh8aH3jiaU9akABm93SBup2tY.jpg",
+        "cast_id": 2,
+        "character": "Megan Rapinoe (voice)",
+        "credit_id": "6352014bbe4b360084e56eac",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71041,
+        "known_for_department": "Acting",
+        "name": "'Weird Al' Yankovic",
+        "original_name": "'Weird Al' Yankovic",
+        "popularity": 1.7824,
+        "profile_path": "/ptaQLv6iMCCTTkNeqm5tpffJhjm.jpg",
+        "cast_id": 3,
+        "character": "'Weird Al' Yankovic (voice)",
+        "credit_id": "636156bc8289a00081bf13ca",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3792864,
+        "known_for_department": "Acting",
+        "name": "Rob Stone",
+        "original_name": "Rob Stone",
+        "popularity": 0.4167,
+        "profile_path": "/mEihko8LwfdFokoLH7uN9LRssa7.jpg",
+        "cast_id": 27,
+        "character": "Rob Stone (voice)",
+        "credit_id": "6378342702842000cc1d881e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2563800,
+        "known_for_department": "Acting",
+        "name": "Kieran Walton",
+        "original_name": "Kieran Walton",
+        "popularity": 0.4129,
+        "profile_path": "/4VL0E1T7xWZUUR8z0yzBL1R8Dyd.jpg",
+        "cast_id": 18,
+        "character": "O'Dang (voice)",
+        "credit_id": "636b60fed7fbda00905c28b7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 995484,
+        "known_for_department": "Acting",
+        "name": "Madison Zamor",
+        "original_name": "Madison Zamor",
+        "popularity": 0.4575,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Zana (voice)",
+        "credit_id": "636b611bf14dad00f2733954",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 139065,
+        "known_for_department": "Acting",
+        "name": "Tania Gunadi",
+        "original_name": "Tania Gunadi",
+        "popularity": 1.0664,
+        "profile_path": "/fEaHf8xUc9lzFuUuTWhCYzWBPoA.jpg",
+        "cast_id": 20,
+        "character": "Nautai / Soccer Player #1 (voice)",
+        "credit_id": "636b614f21621b009ba0ae39",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66540,
+        "known_for_department": "Acting",
+        "name": "Arnie Pantoja",
+        "original_name": "Arnie Pantoja",
+        "popularity": 0.8716,
+        "profile_path": "/iIbU4rdbcvLEt65bB5LUnKtwCQi.jpg",
+        "cast_id": 21,
+        "character": "Palio / Goalie (voice)",
+        "credit_id": "636b6172ffd44d00b4a49340",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45924,
+        "known_for_department": "Acting",
+        "name": "Ian James Corlett",
+        "original_name": "Ian James Corlett",
+        "popularity": 1.2097,
+        "profile_path": "/y0p99omSo8CgHWPjv7qXtAQVyzr.jpg",
+        "cast_id": 22,
+        "character": "Mutant Zlatan (voice)",
+        "credit_id": "636b6194813831008b7ab85b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78798,
+        "known_for_department": "Acting",
+        "name": "Tom Kenny",
+        "original_name": "Tom Kenny",
+        "popularity": 3.5943,
+        "profile_path": "/kftXtExrcoTTjyeYmSXJ0Ogr3R7.jpg",
+        "cast_id": 23,
+        "character": "Ponytail / Slugs (voice)",
+        "credit_id": "636b61baffd44d00dcbbf7e9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15761,
+        "known_for_department": "Acting",
+        "name": "Grey DeLisle",
+        "original_name": "Grey DeLisle",
+        "popularity": 3.1141,
+        "profile_path": "/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg",
+        "cast_id": 24,
+        "character": "Cranky Lady / Soccer Player #2 (voice)",
+        "credit_id": "636b61e7f14dad007b254be5",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3431826,
+        "known_for_department": "Writing",
+        "name": "Deeki Deke",
+        "original_name": "Deeki Deke",
+        "popularity": 0.3566,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Joke Shop Owner / Announcer (voice)",
+        "credit_id": "636b621121621b009110e225",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3115399,
+        "known_for_department": "Production",
+        "name": "Steven Rosen",
+        "original_name": "Steven Rosen",
+        "popularity": 0.3306,
+        "profile_path": null,
+        "credit_id": "650518d4394a8700ff6b3947",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1234311,
+        "known_for_department": "Production",
+        "name": "Mitch Schauer",
+        "original_name": "Mitch Schauer",
+        "popularity": 0.8524,
+        "profile_path": null,
+        "credit_id": "636156cfbe55b7009818c365",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3431826,
+        "known_for_department": "Writing",
+        "name": "Deeki Deke",
+        "original_name": "Deeki Deke",
+        "popularity": 0.3566,
+        "profile_path": null,
+        "credit_id": "636156e440d0fe007d44097a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3244138,
+        "known_for_department": "Production",
+        "name": "Liz Young",
+        "original_name": "Liz Young",
+        "popularity": 0.4096,
+        "profile_path": null,
+        "credit_id": "636b5ee8f14dad00c756d71a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1243745,
+        "known_for_department": "Production",
+        "name": "Mike Young",
+        "original_name": "Mike Young",
+        "popularity": 0.588,
+        "profile_path": null,
+        "credit_id": "636b5efb21621b009ba0ace2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1125530,
+        "known_for_department": "Production",
+        "name": "Cella Duffy Harris",
+        "original_name": "Cella Duffy Harris",
+        "popularity": 0.2108,
+        "profile_path": null,
+        "credit_id": "636b5f66f14dad008ddd3e3f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3431826,
+        "known_for_department": "Writing",
+        "name": "Deeki Deke",
+        "original_name": "Deeki Deke",
+        "popularity": 0.3566,
+        "profile_path": null,
+        "credit_id": "636b5facf14dad008398f780",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2205321,
+        "known_for_department": "Directing",
+        "name": "Richard Finn",
+        "original_name": "Richard Finn",
+        "popularity": 0.4166,
+        "profile_path": null,
+        "credit_id": "636b5fcf21621b00cd6114cc",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1597796,
+        "known_for_department": "Sound",
+        "name": "Gigi Meroni",
+        "original_name": "Gigi Meroni",
+        "popularity": 0.3729,
+        "profile_path": null,
+        "credit_id": "636b5fe90499f200cd3c0901",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3142391,
+        "known_for_department": "Sound",
+        "name": "Michael Whittaker",
+        "original_name": "Michael Whittaker",
+        "popularity": 0.3625,
+        "profile_path": null,
+        "credit_id": "636b5ffbd7fbda00ca8aaf22",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2205321,
+        "known_for_department": "Directing",
+        "name": "Richard Finn",
+        "original_name": "Richard Finn",
+        "popularity": 0.4166,
+        "profile_path": null,
+        "credit_id": "636b6018d7fbda007bedf381",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2206054,
+        "known_for_department": "Production",
+        "name": "Shiondre Austin",
+        "original_name": "Shiondre Austin",
+        "popularity": 0.3617,
+        "profile_path": null,
+        "credit_id": "636b6229813831008b7ab8ae",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1066986,
+        "known_for_department": "Acting",
+        "name": "Zlatan Ibrahimović",
+        "original_name": "Zlatan Ibrahimović",
+        "popularity": 0.7741,
+        "profile_path": "/eMf30zie0PwlfRFjzObHTUHhcat.jpg",
+        "credit_id": "642b9ca1ac8e6b0111c72632",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2087866,
+        "known_for_department": "Acting",
+        "name": "Megan Rapinoe",
+        "original_name": "Megan Rapinoe",
+        "popularity": 0.6714,
+        "profile_path": "/nzGh8aH3jiaU9akABm93SBup2tY.jpg",
+        "credit_id": "642b9caf01b1ca00b62b4ef9",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

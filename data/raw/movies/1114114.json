@@ -1,0 +1,284 @@
+{
+  "adult": false,
+  "backdrop_path": "/pwqsXsL1szSTDMAEYufnb77HWgc.jpg",
+  "belongs_to_collection": null,
+  "budget": 3000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 1114114,
+  "imdb_id": "tt15073166",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "IB 71",
+  "overview": "A two- front war between Indian intelligence agencies and the Pakistani establishment.",
+  "popularity": 0.9957,
+  "poster_path": "/n3tDKjw14Ig3suHOx8GSBtCxEX7.jpg",
+  "production_companies": [
+    {
+      "id": 7294,
+      "logo_path": "/kK4PRgceWp9KNrycD8xx8seWxYU.png",
+      "name": "Reliance Entertainment",
+      "origin_country": "IN"
+    },
+    {
+      "id": 3522,
+      "logo_path": "/d3u51JgEP5KwPfxS13ocqvtzZeX.png",
+      "name": "T-Series",
+      "origin_country": "IN"
+    },
+    {
+      "id": 197996,
+      "logo_path": null,
+      "name": "Action Hero Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2023-05-12",
+  "revenue": 32326,
+  "runtime": 117,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "Urdu",
+      "iso_639_1": "ur",
+      "name": "اردو"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A top secret mission that made us win the 1971 war.",
+  "title": "IB 71",
+  "video": false,
+  "vote_average": 6.839,
+  "vote_count": 28,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1118194,
+        "known_for_department": "Acting",
+        "name": "Vidyut Jammwal",
+        "original_name": "विद्युत जामवाल",
+        "popularity": 2.1284,
+        "profile_path": "/9iBEIKvn1GGzymF3kVPBHtaMkWy.jpg",
+        "cast_id": 1,
+        "character": "Dev",
+        "credit_id": "643c90ac25b95504f4f72ef4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2554387,
+        "known_for_department": "Acting",
+        "name": "Vishal Jethwa",
+        "original_name": "Vishal Jethwa",
+        "popularity": 1.0012,
+        "profile_path": "/w1Td5D7jF8i7A7DnfwRG1tf9oTn.jpg",
+        "cast_id": 6,
+        "character": "Qasim Qureshi",
+        "credit_id": "643c96e131d09b051c1cbfd6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6107654,
+        "known_for_department": "Acting",
+        "name": "Faizan Khan",
+        "original_name": "Faizan Khan",
+        "popularity": 0.6147,
+        "profile_path": "/cwr3Xvxczm2PrQCKiNXdTIo8wSS.jpg",
+        "cast_id": 14,
+        "character": "Ashfaq Qureshi",
+        "credit_id": "69cb781a6fd5459515ac4aac",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6217,
+        "known_for_department": "Acting",
+        "name": "Anupam Kher",
+        "original_name": "Anupam Kher",
+        "popularity": 1.9559,
+        "profile_path": "/kgU5Ap1Kf9RnicB5DMcXEZqed2f.jpg",
+        "cast_id": 4,
+        "character": "IB Chief N.S. Awasthi",
+        "credit_id": "643c9343a0f1a202ead641e4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11861,
+        "known_for_department": "Acting",
+        "name": "Dalip Tahil",
+        "original_name": "Dalip Tahil",
+        "popularity": 1.0672,
+        "profile_path": "/4kgTd5aKh3IRxrJ7uG5h9mojb57.jpg",
+        "cast_id": 2,
+        "character": "Zulfikar Ali Bhutto",
+        "credit_id": "643c90daa0f1a20467d63ccd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1562497,
+        "known_for_department": "Acting",
+        "name": "Danny Sura",
+        "original_name": "Danny Sura",
+        "popularity": 0.6123,
+        "profile_path": "/hWv8VGlBgThfDwFoMQwX5pg5Awz.jpg",
+        "cast_id": 13,
+        "character": "Sikander",
+        "credit_id": "64aec0593e2ec8014f4a9bfa",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1726391,
+        "known_for_department": "Acting",
+        "name": "Hobby Dhaliwal",
+        "original_name": "Hobby Dhaliwal",
+        "popularity": 0.7043,
+        "profile_path": "/4rbEhi5OHflNc8jtkTIhXgmbRfi.jpg",
+        "cast_id": 8,
+        "character": "Abdul Hamid Khan",
+        "credit_id": "64a9708ed1a89300ff806986",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1278968,
+        "known_for_department": "Acting",
+        "name": "Ashwath Bhatt",
+        "original_name": "Ashwath Bhatt",
+        "popularity": 0.6314,
+        "profile_path": "/hSJyFIy8Mvj59YQlcluhd9Xf97F.jpg",
+        "cast_id": 10,
+        "character": "Afsal Aga",
+        "credit_id": "64aec011cddbbc00c99d525f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1638525,
+        "known_for_department": "Acting",
+        "name": "Nissar Khan",
+        "original_name": "Nissar Khan",
+        "popularity": 0.2154,
+        "profile_path": "/zjO9FJ5WfPdUX78KFcv3V2ct6Ab.jpg",
+        "cast_id": 11,
+        "character": "Pakistani officer",
+        "credit_id": "64aec0223e2ec8014f4a9bd8",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3107455,
+        "known_for_department": "Acting",
+        "name": "Bijay Anand",
+        "original_name": "Bijay Anand",
+        "popularity": 0.5796,
+        "profile_path": "/2OMzxgekQLIRpRXaBS5kYLKNa8X.jpg",
+        "cast_id": 9,
+        "character": "Pilot of Hijacked Flight",
+        "credit_id": "64aebfc5cddbbc012270cb2d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1423932,
+        "known_for_department": "Acting",
+        "name": "Mir Sarwar",
+        "original_name": "Mir Sarwar",
+        "popularity": 0.8147,
+        "profile_path": "/vyyRELWNWFOWKq9ubWIqWpF6KCj.jpg",
+        "cast_id": 12,
+        "character": "SI JK Police",
+        "credit_id": "64aec042cddbbc012270cb59",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1918628,
+        "known_for_department": "Acting",
+        "name": "Niharica Raizada",
+        "original_name": "Niharica Raizada",
+        "popularity": 0.4515,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Agent / Air Hostess",
+        "credit_id": "643c972a8ec4ab04c4af29df",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1763607,
+        "known_for_department": "Writing",
+        "name": "Sankalp Reddy",
+        "original_name": "Sankalp Reddy",
+        "popularity": 0.4032,
+        "profile_path": null,
+        "credit_id": "643c932746aed4051c4fd57a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1763607,
+        "known_for_department": "Writing",
+        "name": "Sankalp Reddy",
+        "original_name": "Sankalp Reddy",
+        "popularity": 0.4032,
+        "profile_path": null,
+        "credit_id": "643c9666d7a70a04a516aa36",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

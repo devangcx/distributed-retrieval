@@ -1,0 +1,252 @@
+{
+  "adult": false,
+  "backdrop_path": "/dGnnnlUM1wjlDT5KGimglSpTc2n.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 646473,
+  "imdb_id": "tt1657865",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dear Zoe",
+  "overview": "Tess enlists her biological father – a lovable slacker from the wrong side of the tracks – and the charming juvenile delinquent next door to help her come to grips with the death of her little sister.",
+  "popularity": 2.571,
+  "poster_path": "/rqAhYRbOjgPSVzxKYXV9t6gm5fi.jpg",
+  "production_companies": [
+    {
+      "id": 125073,
+      "logo_path": null,
+      "name": "Zin Haze Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-11-04",
+  "revenue": 0,
+  "runtime": 94,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dear Zoe",
+  "video": false,
+  "vote_average": 6.388,
+  "vote_count": 76,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1590797,
+        "known_for_department": "Acting",
+        "name": "Sadie Sink",
+        "original_name": "Sadie Sink",
+        "popularity": 21.2705,
+        "profile_path": "/92FddzBfK50XOUbtwjqHPraoGHy.jpg",
+        "cast_id": 1,
+        "character": "Tess DeNunzio",
+        "credit_id": "5dc68bdf9c24fc0015c14ddf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51995,
+        "known_for_department": "Acting",
+        "name": "Theo Rossi",
+        "original_name": "Theo Rossi",
+        "popularity": 2.9007,
+        "profile_path": "/344QE41Jileu4OE41cmYgBxc5BF.jpg",
+        "cast_id": 2,
+        "character": "Nick DeNunzio",
+        "credit_id": "5dc68c1dab1bc7001801ed40",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3762707,
+        "known_for_department": "Acting",
+        "name": "Kweku Collins",
+        "original_name": "Kweku Collins",
+        "popularity": 0.441,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Jimmy Freeze",
+        "credit_id": "635cee23c9dbf900820ab688",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1813472,
+        "known_for_department": "Acting",
+        "name": "Vivien Lyra Blair",
+        "original_name": "Vivien Lyra Blair",
+        "popularity": 1.6561,
+        "profile_path": "/cTIzmWhrxDXsdaQpjSnSQQV8x8A.jpg",
+        "cast_id": 5,
+        "character": "Emily Gladstone",
+        "credit_id": "5dc68c68470ead0015931e6b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3762708,
+        "known_for_department": "Acting",
+        "name": "Mckenzie Noel Rusiewicz",
+        "original_name": "Mckenzie Noel Rusiewicz",
+        "popularity": 0.364,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Zoe Gladstone",
+        "credit_id": "635cee6863d937007f147823",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2322380,
+        "known_for_department": "Acting",
+        "name": "Tanyell Waivers",
+        "original_name": "Tanyell Waivers",
+        "popularity": 0.6,
+        "profile_path": "/wODjctZVH4jHA4MDnyPbaYqdfVQ.jpg",
+        "cast_id": 13,
+        "character": "Vicky",
+        "credit_id": "635cee7eb3316b0081fac854",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21180,
+        "known_for_department": "Acting",
+        "name": "Justin Bartha",
+        "original_name": "Justin Bartha",
+        "popularity": 2.3031,
+        "profile_path": "/AalKjN8nR8RZ8g6ZdWV2smnQq4d.jpg",
+        "cast_id": 4,
+        "character": "David Gladstone",
+        "credit_id": "5dc68c479c24fc0015c14e3f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2205,
+        "known_for_department": "Acting",
+        "name": "Jessica Capshaw",
+        "original_name": "Jessica Capshaw",
+        "popularity": 2.1359,
+        "profile_path": "/ePpM2GPe5OXjtyesq06J3S1WCB.jpg",
+        "cast_id": 3,
+        "character": "Elly Gladstone",
+        "credit_id": "5dc68c33470ead0013931f81",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1272961,
+        "known_for_department": "Acting",
+        "name": "Sophie Guest",
+        "original_name": "Sophie Guest",
+        "popularity": 0.8657,
+        "profile_path": "/kXFEeGrT85CDyu3K2gxUdvS9VdD.jpg",
+        "cast_id": 14,
+        "character": "Caitlin",
+        "credit_id": "635ceebc63d9370082537134",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3015395,
+        "known_for_department": "Acting",
+        "name": "Daniel Johnson",
+        "original_name": "Daniel Johnson",
+        "popularity": 0.5491,
+        "profile_path": "/hC0ERfANCiB4MjpS2LgCKHQUJCs.jpg",
+        "cast_id": 10,
+        "character": "Teacher (uncredited)",
+        "credit_id": "62b8a3c67ef38104370c1db5",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1825781,
+        "known_for_department": "Sound",
+        "name": "James Parnell",
+        "original_name": "James Parnell",
+        "popularity": 0.6692,
+        "profile_path": "/wYqLdjqIE0hrpLTRq6Ligar9fEu.jpg",
+        "credit_id": "61e334ef2588230067bbf6f4",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1825781,
+        "known_for_department": "Sound",
+        "name": "James Parnell",
+        "original_name": "James Parnell",
+        "popularity": 0.6692,
+        "profile_path": "/wYqLdjqIE0hrpLTRq6Ligar9fEu.jpg",
+        "credit_id": "61e334f4af6e94008d76f18a",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 518972,
+        "known_for_department": "Writing",
+        "name": "Gren Wells",
+        "original_name": "Gren Wells",
+        "popularity": 0.5928,
+        "profile_path": null,
+        "credit_id": "5dc68c80a14e1000105c4779",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 129758,
+        "known_for_department": "Production",
+        "name": "Melissa Martin",
+        "original_name": "Melissa Martin",
+        "popularity": 0.4096,
+        "profile_path": null,
+        "credit_id": "5dc68cdf99259c001880bd7c",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  }
+}

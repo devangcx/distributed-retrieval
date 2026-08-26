@@ -1,0 +1,496 @@
+{
+  "adult": false,
+  "backdrop_path": "/tLYc6glAh12z437Om7ZZxg6CcKA.jpg",
+  "belongs_to_collection": {
+    "id": 752937,
+    "name": "LEGO Marvel Super Heroes Collection",
+    "poster_path": "/fRIBCOHPhXraUOlv9wTjSaLSr8x.jpg",
+    "backdrop_path": "/FQETJbf4a1btUAW1qlYRvu8Tho.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 368304,
+  "imdb_id": "tt5371572",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "LEGO Marvel Super Heroes: Avengers Reassembled!",
+  "overview": "The Avengers are forced to “party” with Ultron when he seeks to disassemble the team by taking control of Iron Man’s armor and enact a nefarious scheme to take over the world.",
+  "popularity": 2.6907,
+  "poster_path": "/xUBZNoY7idPfqKZepnDEv7Qc8GC.jpg",
+  "production_companies": [
+    {
+      "id": 10280,
+      "logo_path": null,
+      "name": "Arc Productions",
+      "origin_country": "CA"
+    },
+    {
+      "id": 7505,
+      "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
+      "name": "Marvel Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 4081,
+      "logo_path": "/9Q0SyrhQD61wWbz5KJOkL6tu2mg.png",
+      "name": "The LEGO Group",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2015-11-16",
+  "revenue": 0,
+  "runtime": 22,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "LEGO Marvel Super Heroes: Avengers Reassembled!",
+  "video": false,
+  "vote_average": 6.605,
+  "vote_count": 162,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 75037,
+        "known_for_department": "Acting",
+        "name": "Laura Bailey",
+        "original_name": "Laura Bailey",
+        "popularity": 3.2532,
+        "profile_path": "/xrq33v9N78hhmApcfkoYx0TAw1A.jpg",
+        "cast_id": 13,
+        "character": "Black Widow (voice)",
+        "credit_id": "565706a6925141018c008b55",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 963818,
+        "known_for_department": "Acting",
+        "name": "Troy Baker",
+        "original_name": "Troy Baker",
+        "popularity": 2.1407,
+        "profile_path": "/mppX8pDkwNvx3dJzclwcGkngEb3.jpg",
+        "cast_id": 14,
+        "character": "Hawkeye (voice)",
+        "credit_id": "565706e1c3a36819960096ee",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89599,
+        "known_for_department": "Acting",
+        "name": "Eric Bauza",
+        "original_name": "Eric Bauza",
+        "popularity": 2.5243,
+        "profile_path": "/afOlsVPQxbtkom604MeCemjlwEV.jpg",
+        "cast_id": 15,
+        "character": "Iron Spider (voice)",
+        "credit_id": "565706ec925141018f008c75",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1178795,
+        "known_for_department": "Acting",
+        "name": "Ben Diskin",
+        "original_name": "Ben Diskin",
+        "popularity": 1.3755,
+        "profile_path": "/4RWjcrPgfTG1yp19kFKRZYimv2B.jpg",
+        "cast_id": 16,
+        "character": "Spider-Man (voice)",
+        "credit_id": "565706fbc3a36819840089a3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1248445,
+        "known_for_department": "Acting",
+        "name": "Grant George",
+        "original_name": "Grant George",
+        "popularity": 0.839,
+        "profile_path": "/julROMpew9wvfV1z6Lzik1qngsn.jpg",
+        "cast_id": 17,
+        "character": "Ant-Man (voice)",
+        "credit_id": "5657070bc3a36819960096fa",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1541380,
+        "known_for_department": "Acting",
+        "name": "JP Karliak",
+        "original_name": "JP Karliak",
+        "popularity": 1.3522,
+        "profile_path": "/7Rc3n8KmKUaztqfsIpddO1a2ggn.jpg",
+        "cast_id": 18,
+        "character": "Baron Strucker, Vision (voice)",
+        "credit_id": "56570753c3a3681982008ac9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30697,
+        "known_for_department": "Acting",
+        "name": "Jim Meskimen",
+        "original_name": "Jim Meskimen",
+        "popularity": 1.7017,
+        "profile_path": "/18eXUo8DfTwannhq8FOwgVdFs9Y.jpg",
+        "cast_id": 19,
+        "character": "Ultron (voice)",
+        "credit_id": "5657077cc3a368197000861c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35111,
+        "known_for_department": "Acting",
+        "name": "Bumper Robinson",
+        "original_name": "Bumper Robinson",
+        "popularity": 1.5361,
+        "profile_path": "/9KU72zZXIfsGAPgHmhlJmTYvor9.jpg",
+        "cast_id": 20,
+        "character": "Falcon (voice)",
+        "credit_id": "565707d99251410191008852",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 75038,
+        "known_for_department": "Acting",
+        "name": "Roger Craig Smith",
+        "original_name": "Roger Craig Smith",
+        "popularity": 3.1746,
+        "profile_path": "/6oE356GbRHAf91Llw7LDpvsAf5L.jpg",
+        "cast_id": 21,
+        "character": "Captain America (voice)",
+        "credit_id": "565707ebc3a368199200977b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60279,
+        "known_for_department": "Acting",
+        "name": "Fred Tatasciore",
+        "original_name": "Fred Tatasciore",
+        "popularity": 2.5726,
+        "profile_path": "/xodxYKRC9mdvgquTdqpmYldliJ3.jpg",
+        "cast_id": 22,
+        "character": "Hulk (voice)",
+        "credit_id": "56570819925141018800862d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1221888,
+        "known_for_department": "Acting",
+        "name": "Travis Willingham",
+        "original_name": "Travis Willingham",
+        "popularity": 1.9752,
+        "profile_path": "/clvP30k6cUMf4hukRQqZD3k9z4S.jpg",
+        "cast_id": 23,
+        "character": "Thor, Yellow Jacket (voice)",
+        "credit_id": "5657082dc3a36819840089e7",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 971877,
+        "known_for_department": "Acting",
+        "name": "Mick Wingert",
+        "original_name": "Mick Wingert",
+        "popularity": 2.7621,
+        "profile_path": "/2Apga68BihekhCSPHNk5pXqC5Gq.jpg",
+        "cast_id": 24,
+        "character": "Iron Man (voice)",
+        "credit_id": "5657083ac3a368196e009673",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 98391,
+        "known_for_department": "Acting",
+        "name": "Nickie Bryar",
+        "original_name": "Nickie Bryar",
+        "popularity": 0.5233,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "additional voices (voice)",
+        "credit_id": "56570856925141018f008cd2",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1149996,
+        "known_for_department": "Acting",
+        "name": "David Sheftell",
+        "original_name": "David Sheftell",
+        "popularity": 0.4014,
+        "profile_path": "/j7MCHi0BBVWRSqHdcpWI23gNFpo.jpg",
+        "cast_id": 27,
+        "character": "additional voices (voice)",
+        "credit_id": "5657087492514148640050d4",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1817724,
+        "known_for_department": "Acting",
+        "name": "J. Lee",
+        "original_name": "J. Lee",
+        "popularity": 0.765,
+        "profile_path": "/y7lED1RdCatEtPMu5cWlhLAjjmU.jpg",
+        "cast_id": 28,
+        "character": "NYC Citizens / HYDRA Troopers / S.H.I.E.L.D. Walla (voice)",
+        "credit_id": "6903f08f90f33837624c77f0",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4354816,
+        "known_for_department": "Acting",
+        "name": "Bobby Kesselman",
+        "original_name": "Bobby Kesselman",
+        "popularity": 0.5202,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "NYC Citizens / HYDRA Troopers / S.H.I.E.L.D. Walla (voice)",
+        "credit_id": "6903f0ae769fb3352ee11ed6",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1449120,
+        "known_for_department": "Acting",
+        "name": "Megan Grano",
+        "original_name": "Megan Grano",
+        "popularity": 0.4322,
+        "profile_path": "/vunOxTnCX1J5lkPZAyU1KfOaqRl.jpg",
+        "cast_id": 30,
+        "character": "NYC Citizens / HYDRA Troopers / S.H.I.E.L.D. Walla (voice)",
+        "credit_id": "6903f0d83a00833d624c77ee",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 179239,
+        "known_for_department": "Writing",
+        "name": "Mark Hoffmeier",
+        "original_name": "Mark Hoffmeier",
+        "popularity": 0.6181,
+        "profile_path": null,
+        "credit_id": "5645dbfac3a36870e3009945",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 110643,
+        "known_for_department": "Production",
+        "name": "Jill Wilfert",
+        "original_name": "Jill Wilfert",
+        "popularity": 0.4543,
+        "profile_path": null,
+        "credit_id": "5645dc14c3a36870d60092ec",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1283277,
+        "known_for_department": "Production",
+        "name": "Cort Lane",
+        "original_name": "Cort Lane",
+        "popularity": 0.4257,
+        "profile_path": null,
+        "credit_id": "5645dc59c3a36870db0094d8",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1535346,
+        "known_for_department": "Production",
+        "name": "Jason Cosler",
+        "original_name": "Jason Cosler",
+        "popularity": 0.4722,
+        "profile_path": null,
+        "credit_id": "5645dc249251410a41008f77",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1289422,
+        "known_for_department": "Production",
+        "name": "Mark L. Walker",
+        "original_name": "Mark L. Walker",
+        "popularity": 0.2808,
+        "profile_path": null,
+        "credit_id": "56570579c3a368198d0095da",
+        "department": "Production",
+        "job": "Executive In Charge Of Production"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7624,
+        "known_for_department": "Writing",
+        "name": "Stan Lee",
+        "original_name": "Stan Lee",
+        "popularity": 5.5316,
+        "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg",
+        "credit_id": "56570621c3a36819700085e4",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17310,
+        "known_for_department": "Production",
+        "name": "Jeph Loeb",
+        "original_name": "Jeph Loeb",
+        "popularity": 1.1843,
+        "profile_path": "/zbU9aOrxMtXVSUAHlY5d6cQW2EE.jpg",
+        "credit_id": "5657061092514101910087f1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1187909,
+        "known_for_department": "Production",
+        "name": "Joe Quesada",
+        "original_name": "Joe Quesada",
+        "popularity": 1.1424,
+        "profile_path": "/lXvr9yj4OpPDLojusbKYowp9zZX.jpg",
+        "credit_id": "5657060392514101880085d0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 150660,
+        "known_for_department": "Production",
+        "name": "Kallan Kagan",
+        "original_name": "Kallan Kagan",
+        "popularity": 0.402,
+        "profile_path": null,
+        "credit_id": "56570634c3a36819960096c3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113672,
+        "known_for_department": "Production",
+        "name": "Alan Fine",
+        "original_name": "Alan Fine",
+        "popularity": 0.6502,
+        "profile_path": null,
+        "credit_id": "5657058c9251410198008cb7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1011028,
+        "known_for_department": "Production",
+        "name": "Dan Buckley",
+        "original_name": "Dan Buckley",
+        "popularity": 0.5195,
+        "profile_path": "/gM2unQVw1jxWFmMd438rNoJHgr0.jpg",
+        "credit_id": "5657059ac3a3681982008a68",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 110567,
+        "known_for_department": "Production",
+        "name": "Marianne Culbert",
+        "original_name": "Marianne Culbert",
+        "popularity": 0.3748,
+        "profile_path": null,
+        "credit_id": "56570641925141018c008b42",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1193439,
+        "known_for_department": "Directing",
+        "name": "Rob Silvestri",
+        "original_name": "Rob Silvestri",
+        "popularity": 0.476,
+        "profile_path": null,
+        "credit_id": "56570666c3a3681992009716",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

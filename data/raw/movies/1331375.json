@@ -1,0 +1,404 @@
+{
+  "adult": false,
+  "backdrop_path": "/uGjvdT5CAPIlTBYAXnHPzoEIgkC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1331375,
+  "imdb_id": "tt14972766",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dominique",
+  "overview": "Dominique, a well-trained assassin, flees from her troubled past in an attempt to begin a new life in South America. However, she soon finds herself in a town plagued with violence and corruption. Facing brutal attacks from the police and mafia, Dominique must decide whether to protect herself or an innocent family that has taken her in.",
+  "popularity": 4.5027,
+  "poster_path": "/jvug7Esd89yNLJwGvUfeQ9j69cE.jpg",
+  "production_companies": [
+    {
+      "id": 25885,
+      "logo_path": "/956ADIDUaUfQ0jQ3LCOs7QzpYn1.png",
+      "name": "Green Dog Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 104677,
+      "logo_path": null,
+      "name": "Reigning Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 238784,
+      "logo_path": null,
+      "name": "Orlan Films",
+      "origin_country": ""
+    },
+    {
+      "id": 238785,
+      "logo_path": null,
+      "name": "Ágora Films",
+      "origin_country": "CO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-10-11",
+  "revenue": 0,
+  "runtime": 94,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dominique",
+  "video": false,
+  "vote_average": 6.68,
+  "vote_count": 186,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044666,
+        "known_for_department": "Acting",
+        "name": "Oksana Orlan",
+        "original_name": "Oksana Orlan",
+        "popularity": 1.694,
+        "profile_path": "/lofMKIpjHygZ2p6g27FQj8otsjH.jpg",
+        "cast_id": 4,
+        "character": "Dominique",
+        "credit_id": "66bf896d1ab0afa35e489b24",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2198257,
+        "known_for_department": "Acting",
+        "name": "Sebastián Carvajal",
+        "original_name": "Sebastián Carvajal",
+        "popularity": 1.4059,
+        "profile_path": "/cBaHCzpZe27KzWviS41heE01sSe.jpg",
+        "cast_id": 15,
+        "character": "Julio",
+        "credit_id": "671c93035be9e8759da7584c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3862081,
+        "known_for_department": "Acting",
+        "name": "María del Rosario",
+        "original_name": "María del Rosario",
+        "popularity": 0.918,
+        "profile_path": "/ln83cpcticvSWbEMVUD3NtmmLCA.jpg",
+        "cast_id": 9,
+        "character": "Paulina",
+        "credit_id": "66e1c9ac00000000007a07aa",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 48530,
+        "known_for_department": "Acting",
+        "name": "Maurice Compte",
+        "original_name": "Maurice Compte",
+        "popularity": 2.7052,
+        "profile_path": "/9PFInf2I0kqjAU0CmZhdDWmHfwT.jpg",
+        "cast_id": 5,
+        "character": "Chief Santiago",
+        "credit_id": "66bf899cb897ddc8f7ad718c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 208702,
+        "known_for_department": "Acting",
+        "name": "Chase Coleman",
+        "original_name": "Chase Coleman",
+        "popularity": 0.8058,
+        "profile_path": "/eXrwo2UOgDLbywSUxUBBQcGZbgf.jpg",
+        "cast_id": 6,
+        "character": "John",
+        "credit_id": "66bf8afa7f0feb8daf97beaa",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 169173,
+        "known_for_department": "Acting",
+        "name": "Ski Carr",
+        "original_name": "Ski Carr",
+        "popularity": 0.8133,
+        "profile_path": "/8D2Ufof8zJ38U3mbWsLZ2jWtaXd.jpg",
+        "cast_id": 7,
+        "character": "Gonzalo",
+        "credit_id": "66bf8b3d3cf70131659ae299",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3973145,
+        "known_for_department": "Acting",
+        "name": "Jose Conejo Martin",
+        "original_name": "Jose Conejo Martin",
+        "popularity": 0.4388,
+        "profile_path": "/uvzmbqkVs0FNMrGvCx2HM7Etxko.jpg",
+        "cast_id": 8,
+        "character": "Officer Chago",
+        "credit_id": "66bf8b648c3d8e993897c81e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2893049,
+        "known_for_department": "Acting",
+        "name": "Alanna de la Rossa",
+        "original_name": "Alanna De La Rossa",
+        "popularity": 0.7962,
+        "profile_path": "/sj3w0DoFQnY4iZi47dVcPA85wsP.jpg",
+        "cast_id": 17,
+        "character": "Abril",
+        "credit_id": "6930bb62c13c44042523e3ab",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1251529,
+        "known_for_department": "Acting",
+        "name": "Marcela Benjumea",
+        "original_name": "Marcela Benjumea",
+        "popularity": 0.6683,
+        "profile_path": "/bbOFOrea2VKNTFcaFS7xvviqNzt.jpg",
+        "cast_id": 18,
+        "character": "Gabriela de la Cruz",
+        "credit_id": "6930bb8c6e9f1774f2d08039",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5855347,
+        "known_for_department": "Acting",
+        "name": "Ian Payares",
+        "original_name": "Ian Payares",
+        "popularity": 0.1781,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Lucas",
+        "credit_id": "6930bbae3b5a21ef54573092",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5855350,
+        "known_for_department": "Acting",
+        "name": "Daniel Ortegon",
+        "original_name": "Daniel Ortegon",
+        "popularity": 0.2309,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Anso",
+        "credit_id": "6930bbd3738d9335ffc3dce5",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5453996,
+        "known_for_department": "Acting",
+        "name": "Hamilton Casas",
+        "original_name": "Hamilton Casas",
+        "popularity": 0.2134,
+        "profile_path": "/8aInnAz3C9ueu0iUkSlHuKYNtHa.jpg",
+        "cast_id": 21,
+        "character": "Agente Enrico",
+        "credit_id": "696b3ae45e27d9fe4d7f981c",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2090268,
+        "known_for_department": "Acting",
+        "name": "Juan Camilo Castillo",
+        "original_name": "Juan Camilo Castillo",
+        "popularity": 0.5447,
+        "profile_path": "/A09k9OnXnhiHkGpJqrEUABVl8fp.jpg",
+        "cast_id": 23,
+        "character": "Agente Sanchez",
+        "credit_id": "696b3b42e446c582d1689323",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4170744,
+        "known_for_department": "Acting",
+        "name": "Hedras Urrego",
+        "original_name": "Hedras Urrego",
+        "popularity": 0.414,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Mechanic",
+        "credit_id": "696b3af50e3b8c398cf940e4",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 372442,
+        "known_for_department": "Editing",
+        "name": "Michael S. Ojeda",
+        "original_name": "Michael S. Ojeda",
+        "popularity": 0.5841,
+        "profile_path": null,
+        "credit_id": "66bf87cad65ceb0593489c47",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 372442,
+        "known_for_department": "Editing",
+        "name": "Michael S. Ojeda",
+        "original_name": "Michael S. Ojeda",
+        "popularity": 0.5841,
+        "profile_path": null,
+        "credit_id": "66bf87fb9e47b5f38f97c5b6",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044666,
+        "known_for_department": "Acting",
+        "name": "Oksana Orlan",
+        "original_name": "Oksana Orlan",
+        "popularity": 1.694,
+        "profile_path": "/lofMKIpjHygZ2p6g27FQj8otsjH.jpg",
+        "credit_id": "66bf88454ec7747d1ac172ea",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 372442,
+        "known_for_department": "Editing",
+        "name": "Michael S. Ojeda",
+        "original_name": "Michael S. Ojeda",
+        "popularity": 0.5841,
+        "profile_path": null,
+        "credit_id": "66e1c9cc58084b3e13ecc8ef",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21852,
+        "known_for_department": "Camera",
+        "name": "Jim Orr",
+        "original_name": "Jim Orr",
+        "popularity": 0.552,
+        "profile_path": null,
+        "credit_id": "66e1c9d8caa9ac68a668e84d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1105832,
+        "known_for_department": "Acting",
+        "name": "Jason Gurvitz",
+        "original_name": "Jason Gurvitz",
+        "popularity": 0.9119,
+        "profile_path": "/vyOk8lGZTrSaOxU12QhfcpIG1HV.jpg",
+        "credit_id": "66e1c9e4a41ab13eea45620f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 372442,
+        "known_for_department": "Editing",
+        "name": "Michael S. Ojeda",
+        "original_name": "Michael S. Ojeda",
+        "popularity": 0.5841,
+        "profile_path": null,
+        "credit_id": "66e1c9eef414232d32c619a0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044666,
+        "known_for_department": "Acting",
+        "name": "Oksana Orlan",
+        "original_name": "Oksana Orlan",
+        "popularity": 1.694,
+        "profile_path": "/lofMKIpjHygZ2p6g27FQj8otsjH.jpg",
+        "credit_id": "66e1c9f9cffa6926ac68e852",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94089,
+        "known_for_department": "Acting",
+        "name": "James Lew",
+        "original_name": "James Lew",
+        "popularity": 0.9671,
+        "profile_path": "/wuC0B13IutImC1AJ7VUxBCuZJVg.jpg",
+        "credit_id": "6794f93d760f51e17d2adef7",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      }
+    ]
+  }
+}

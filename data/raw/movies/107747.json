@@ -1,0 +1,319 @@
+{
+  "adult": false,
+  "backdrop_path": "/dq10OfEaeTg2FXkClEV6SuerK5T.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 107747,
+  "imdb_id": "tt0101437",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Beta",
+  "overview": "Beta is the story of Raju, the only child of a widowed multi millionaire. Raju's father can provide him anything he wants but Raju's only desire is to get mother's love, in order to please Raju, his father gets married to Nagmani, thinking that she will take care of Raju more than his real mother would. Raju becomes completely devoted to his stepmother, doing whatever she wishes. Time passes by, Raju grows up and gets married to Saraswati. Saraswati discovers that Nagmani's motherly love for Raju is fake and all what Nagmani is interested in, is capturing Raju's wealth.",
+  "popularity": 0.9064,
+  "poster_path": "/1RUOf9MCf8PsKxrefcwFqb0JCKL.jpg",
+  "production_companies": [
+    {
+      "id": 3985,
+      "logo_path": null,
+      "name": "Maruti International",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "1992-04-03",
+  "revenue": 0,
+  "runtime": 155,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Beta",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 20,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72118,
+        "known_for_department": "Acting",
+        "name": "Anil Kapoor",
+        "original_name": "अनिल कपूर",
+        "popularity": 2.8719,
+        "profile_path": "/dwvnpiwg9m2zj0VHzlgzEotFl0G.jpg",
+        "cast_id": 5,
+        "character": "Raju",
+        "credit_id": "52fe4a86c3a36847f81d30b1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 76232,
+        "known_for_department": "Acting",
+        "name": "Madhuri Dixit",
+        "original_name": "Madhuri Dixit",
+        "popularity": 1.5932,
+        "profile_path": "/gxQjVzLxpxiu5gncrmtGiAaULUi.jpg",
+        "cast_id": 6,
+        "character": "Saraswati",
+        "credit_id": "52fe4a86c3a36847f81d30b5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 110724,
+        "known_for_department": "Acting",
+        "name": "Aruna Irani",
+        "original_name": "Aruna Irani",
+        "popularity": 1.0783,
+        "profile_path": "/opwljyDvJyxW6ZmC3Ao6lNCQi0r.jpg",
+        "cast_id": 7,
+        "character": "Laxmi",
+        "credit_id": "52fe4a86c3a36847f81d30b9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 222767,
+        "known_for_department": "Acting",
+        "name": "Laxmikant Berde",
+        "original_name": "Laxmikant Berde",
+        "popularity": 0.8804,
+        "profile_path": "/5o1AE5hg2sWvCA6AJ1xUuChEL8L.jpg",
+        "cast_id": 8,
+        "character": "Pandu",
+        "credit_id": "52fe4a86c3a36847f81d30bd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1042249,
+        "known_for_department": "Acting",
+        "name": "Priya Arun Berde",
+        "original_name": "Priya Arun Berde",
+        "popularity": 0.6081,
+        "profile_path": "/jccGx6uRHDxV39wrCPAyueChdFR.jpg",
+        "cast_id": 10,
+        "character": "Champa",
+        "credit_id": "52fe4a86c3a36847f81d30c5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1019967,
+        "known_for_department": "Acting",
+        "name": "Kunickaa Sadanand",
+        "original_name": "Kunickaa Sadanand",
+        "popularity": 0.7112,
+        "profile_path": "/61vFOSVyVzMnV2WzqIIoPcOrKEh.jpg",
+        "cast_id": 11,
+        "character": "Kunika",
+        "credit_id": "52fe4a86c3a36847f81d30c9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 284463,
+        "known_for_department": "Acting",
+        "name": "Akash Khurana",
+        "original_name": "आकाश खुराना",
+        "popularity": 0.9722,
+        "profile_path": "/8UMeDzFU4l207MXCCKnguyy30LU.jpg",
+        "cast_id": 18,
+        "character": "Prem",
+        "credit_id": "58d57ed6c3a368127c02ec09",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 562225,
+        "known_for_department": "Acting",
+        "name": "Rajeev Mehta",
+        "original_name": "Rajeev Mehta",
+        "popularity": 0.519,
+        "profile_path": "/4BukEb1hxN7jQzpKkj6k8Sj4jSa.jpg",
+        "cast_id": 23,
+        "character": "Groom in Marriage",
+        "credit_id": "6093a98254508d005919d494",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105446,
+        "known_for_department": "Directing",
+        "name": "Indra Kumar",
+        "original_name": "Indra Kumar",
+        "popularity": 0.8683,
+        "profile_path": "/zE7yyzOnyBkcvqKSTn9oHQ6DCSF.jpg",
+        "credit_id": "52fe4a86c3a36847f81d309b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 991636,
+        "known_for_department": "Sound",
+        "name": "Milind Chitragupth",
+        "original_name": "Milind Chitragupth",
+        "popularity": 0.4446,
+        "profile_path": null,
+        "credit_id": "610ed761ee43e80047a4520c",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 991646,
+        "known_for_department": "Sound",
+        "name": "Anand Chitragupth",
+        "original_name": "Anand Chitragupth",
+        "popularity": 0.4066,
+        "profile_path": null,
+        "credit_id": "610ed7593bd26e00471adb6c",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1334887,
+        "known_for_department": "Writing",
+        "name": "Naushir Khatau",
+        "original_name": "Naushir Khatau",
+        "popularity": 0.4757,
+        "profile_path": null,
+        "credit_id": "58d57e41c3a368127c02eb90",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1114230,
+        "known_for_department": "Writing",
+        "name": "Kamlesh Pandey",
+        "original_name": "Kamlesh Pandey",
+        "popularity": 0.4089,
+        "profile_path": null,
+        "credit_id": "58d57e579251411f81030cf4",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1032601,
+        "known_for_department": "Writing",
+        "name": "Praful Parekh",
+        "original_name": "Praful Parekh",
+        "popularity": 0.4964,
+        "profile_path": null,
+        "credit_id": "58d57e699251411fdc031d14",
+        "department": "Writing",
+        "job": "Scenario Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1136131,
+        "known_for_department": "Writing",
+        "name": "Gyandev Agnihotri",
+        "original_name": "Gyandev Agnihotri",
+        "popularity": 0.5476,
+        "profile_path": null,
+        "credit_id": "58d57e1cc3a368124f02f58c",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 105445,
+        "known_for_department": "Writing",
+        "name": "Rajeev Kaul",
+        "original_name": "Rajeev Kaul",
+        "popularity": 0.6085,
+        "profile_path": null,
+        "credit_id": "58d57dfe9251411fd503084c",
+        "department": "Writing",
+        "job": "Scenario Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1164990,
+        "known_for_department": "Editing",
+        "name": "Hussain A. Burmawala",
+        "original_name": "Hussain A. Burmawala",
+        "popularity": 0.3312,
+        "profile_path": null,
+        "credit_id": "5fef72d37e403d004174aea3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1661902,
+        "known_for_department": "Camera",
+        "name": "Baba Azmi",
+        "original_name": "Baba Azmi",
+        "popularity": 0.5109,
+        "profile_path": null,
+        "credit_id": "5fef72be4a4bf6003fd691ba",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237976,
+        "known_for_department": "Acting",
+        "name": "K. Bhagyaraj",
+        "original_name": "K. Bhagyaraj",
+        "popularity": 1.2098,
+        "profile_path": "/5tNpWtbDsuVG9jZOcP5rqoyR9hK.jpg",
+        "credit_id": "5fef72a3a885870041bdfe33",
+        "department": "Writing",
+        "job": "Original Story"
+      }
+    ]
+  }
+}

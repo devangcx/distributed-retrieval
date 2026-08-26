@@ -1,0 +1,170 @@
+{
+  "adult": false,
+  "backdrop_path": "/6ksevToxoYvXvi4Yn8qY03W9KOc.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 456558,
+  "imdb_id": "tt6033536",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Dear Maya",
+  "overview": "Anna and Ira prank a local woman by writing her letters from a secret admirer. The prank takes a more serious turn when the local women goes missing.",
+  "popularity": 0.7853,
+  "poster_path": "/4VIhPemMW8ZJOTOWpjGTQh8FXfI.jpg",
+  "production_companies": [
+    {
+      "id": 90046,
+      "logo_path": null,
+      "name": "Bake My Cake Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2017-06-02",
+  "revenue": 0,
+  "runtime": 130,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dear Maya",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 20,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86077,
+        "known_for_department": "Acting",
+        "name": "Manisha Koirala",
+        "original_name": "Manisha Koirala",
+        "popularity": 1.1569,
+        "profile_path": "/4rwOqhuFOXTPJUJsjutiJ0EjTqY.jpg",
+        "cast_id": 1,
+        "character": "Maya",
+        "credit_id": "590f8e2ac3a36864a70245bc",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1812514,
+        "known_for_department": "Acting",
+        "name": "Vikas Kumar",
+        "original_name": "Vikas Kumar",
+        "popularity": 0.6071,
+        "profile_path": "/qxLrmsNJXeuxuq96vFMXEXw3jbM.jpg",
+        "cast_id": 2,
+        "character": "Ved (voice)",
+        "credit_id": "590f8e3a9251414e89025f7a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1812515,
+        "known_for_department": "Acting",
+        "name": "Madiha Imam",
+        "original_name": "Madiha Imam",
+        "popularity": 0.8915,
+        "profile_path": "/sDXVlcTWfI5dAUKmvA8dEDI6vqR.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "590f8e689251414eca024367",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1812516,
+        "known_for_department": "Acting",
+        "name": "Shreya Chaudhary",
+        "original_name": "Shreya Chaudhary",
+        "popularity": 0.8436,
+        "profile_path": "/svQy36WHiptfGHdvjmHp1e4gKyq.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "590f8e739251414ead02405a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2473849,
+        "known_for_department": "Acting",
+        "name": "Sahiba Bali",
+        "original_name": "Sahiba Bali",
+        "popularity": 1.4774,
+        "profile_path": "/rE7UARkX1ZX3ak6WE2DIq2raXZh.jpg",
+        "cast_id": 6,
+        "character": "Radha",
+        "credit_id": "66061b73e1faed0164f994d4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2115435,
+        "known_for_department": "Acting",
+        "name": "Naila Grrewal",
+        "original_name": "Naila Grrewal",
+        "popularity": 1.0934,
+        "profile_path": "/orNgFyM3Ax01ddKRsrV6anMBh5k.jpg",
+        "cast_id": 7,
+        "character": "Hostel Roommate",
+        "credit_id": "662a48258fdda9011cdce64e",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1812513,
+        "known_for_department": "Directing",
+        "name": "Sunaina Bhatnagar",
+        "original_name": "Sunaina Bhatnagar",
+        "popularity": 0.2795,
+        "profile_path": null,
+        "credit_id": "590f8e0bc3a36864a70245aa",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1909092,
+        "known_for_department": "Sound",
+        "name": "Jonita Gandhi",
+        "original_name": "Jonita Gandhi",
+        "popularity": 0.5231,
+        "profile_path": "/6iJMJ3vteATOYkAE3dyVnoJHdUr.jpg",
+        "credit_id": "5b3dea23c3a3685066009174",
+        "department": "Sound",
+        "job": "Playback Singer"
+      }
+    ]
+  }
+}

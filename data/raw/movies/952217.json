@@ -1,0 +1,496 @@
+{
+  "adult": false,
+  "backdrop_path": "/9Jp4SHfB2aMFfzsXO8T4vlcpvoP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.warnerbros.com/movies/king-tweety",
+  "id": 952217,
+  "imdb_id": "tt18951472",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "King Tweety",
+  "overview": "Everyone's favorite yellow canary unexpectedly becomes next in line for the crown when the queen of an island paradise disappears. His Little Highness’ entourage includes motorbike daredevil Granny and sly Sylvester, whose allegiance is tested when he uncovers a sinister plot to eliminate Tweety for good.",
+  "popularity": 3.9848,
+  "poster_path": "/jJatuRAVIsxAIszL3QTxrbIzxzc.jpg",
+  "production_companies": [
+    {
+      "id": 2785,
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "name": "Warner Bros. Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-06-13",
+  "revenue": 0,
+  "runtime": 81,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "MEET THE NEW ROYAL FAMILY.",
+  "title": "King Tweety",
+  "video": false,
+  "vote_average": 6.716,
+  "vote_count": 95,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89599,
+        "known_for_department": "Acting",
+        "name": "Eric Bauza",
+        "original_name": "Eric Bauza",
+        "popularity": 2.5243,
+        "profile_path": "/afOlsVPQxbtkom604MeCemjlwEV.jpg",
+        "cast_id": 3,
+        "character": "Tweety / Sylvester / Larry Bird / Handsome Steward (voice)",
+        "credit_id": "62392d7e9ee0ef0077894442",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 95257,
+        "known_for_department": "Acting",
+        "name": "Candi Milo",
+        "original_name": "Candi Milo",
+        "popularity": 1.8006,
+        "profile_path": "/tUjXMG2118Oagj7IjWJDEdmtCRW.jpg",
+        "cast_id": 11,
+        "character": "Granny / Green Bean / Lady Bird Johnson (voice)",
+        "credit_id": "624c761c3c434400661b8ae6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1406450,
+        "known_for_department": "Acting",
+        "name": "Jon Daly",
+        "original_name": "Jon Daly",
+        "popularity": 0.9684,
+        "profile_path": "/v8lq3HUmdQk1t50DAP1vt3LcJJM.jpg",
+        "cast_id": 14,
+        "character": "Diego (voice)",
+        "credit_id": "624c76fb3c434400a561e16d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2077768,
+        "known_for_department": "Acting",
+        "name": "Niccole Thurman",
+        "original_name": "Niccole Thurman",
+        "popularity": 0.651,
+        "profile_path": "/lKXFwGWZIRKmQ9ClNyjpNuO1YNj.jpg",
+        "cast_id": 4,
+        "character": "Aoogah / Melaney Blank (voice)",
+        "credit_id": "62392da013a320001d79af4e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1471841,
+        "known_for_department": "Acting",
+        "name": "Flula Borg",
+        "original_name": "Flula Borg",
+        "popularity": 1.8326,
+        "profile_path": "/biegvuNWbzjXVZnp4rpKgbLlX6Q.jpg",
+        "cast_id": 6,
+        "character": "Harold / Thaddeus Fishley, Esq. / Enthusiastic Guy in the Crowd (voice)",
+        "credit_id": "62392ee6d6590b00460985dc",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 149486,
+        "known_for_department": "Acting",
+        "name": "Carlease Burke",
+        "original_name": "Carlease Burke",
+        "popularity": 1.0058,
+        "profile_path": "/watMlWszsYx1MBLdmAvahZ8KkgR.jpg",
+        "cast_id": 12,
+        "character": "Queen Honk / Candice the Crane (voice)",
+        "credit_id": "624c7696cc277c0068cd80db",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1053666,
+        "known_for_department": "Acting",
+        "name": "Dana DeLorenzo",
+        "original_name": "Dana DeLorenzo",
+        "popularity": 1.1377,
+        "profile_path": "/us4UbVhZ6ag3EUU95ubDWEMbeX0.jpg",
+        "cast_id": 8,
+        "character": "Izza (voice)",
+        "credit_id": "62392f75894ed600468258f5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 169615,
+        "known_for_department": "Acting",
+        "name": "Regi Davis",
+        "original_name": "Regi Davis",
+        "popularity": 0.9424,
+        "profile_path": "/yEUiqR2YbmmAPAEXH9l9NVhPaZw.jpg",
+        "cast_id": 13,
+        "character": "Rodrigo the Dog / Charlie Bird Parker / The Owl (voice)",
+        "credit_id": "624c76bf2716710067188f00",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 453,
+        "known_for_department": "Acting",
+        "name": "Riki Lindhome",
+        "original_name": "Riki Lindhome",
+        "popularity": 2.2834,
+        "profile_path": "/kJAGFp0ZW5sY0NoysFZcfSRykZa.jpg",
+        "cast_id": 17,
+        "character": "Beep Beep (voice)",
+        "credit_id": "62a91c39a8b2ca00a42eb03b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1755404,
+        "known_for_department": "Acting",
+        "name": "Maya Lynne Robinson",
+        "original_name": "Maya Lynne Robinson",
+        "popularity": 0.4723,
+        "profile_path": "/kEQTLnyIelK5zo1dT8AbRIIajC9.jpg",
+        "cast_id": 7,
+        "character": "Officer Gnutz / Inflatable Suit Dancer (voice)",
+        "credit_id": "62392f11d7059400783e5eb9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1657897,
+        "known_for_department": "Acting",
+        "name": "Mark Whitten",
+        "original_name": "Mark Whitten",
+        "popularity": 0.6443,
+        "profile_path": "/zcD76XCZ6zQ41C9j1lsttLbxbLE.jpg",
+        "cast_id": 15,
+        "character": "Officer Siedes / John Foray (voice)",
+        "credit_id": "624c77131d1bf400a17e58ad",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3179094,
+        "known_for_department": "Directing",
+        "name": "Careen Ingle",
+        "original_name": "Careen Ingle",
+        "popularity": 0.424,
+        "profile_path": null,
+        "credit_id": "62392d358ac3d0004431a390",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3179094,
+        "known_for_department": "Directing",
+        "name": "Careen Ingle",
+        "original_name": "Careen Ingle",
+        "popularity": 0.424,
+        "profile_path": null,
+        "credit_id": "62392d55d7059400783e574d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3179094,
+        "known_for_department": "Directing",
+        "name": "Careen Ingle",
+        "original_name": "Careen Ingle",
+        "popularity": 0.424,
+        "profile_path": null,
+        "credit_id": "623af20b5541fa005d331351",
+        "department": "Writing",
+        "job": "Teleplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3477008,
+        "known_for_department": "Writing",
+        "name": "Erik Adolphson",
+        "original_name": "Erik Adolphson",
+        "popularity": 0.4072,
+        "profile_path": null,
+        "credit_id": "623af1fda1c59d0049457317",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3477008,
+        "known_for_department": "Writing",
+        "name": "Erik Adolphson",
+        "original_name": "Erik Adolphson",
+        "popularity": 0.4072,
+        "profile_path": null,
+        "credit_id": "62a8f970eb14fa09ddbd3e9e",
+        "department": "Writing",
+        "job": "Teleplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1641642,
+        "known_for_department": "Production",
+        "name": "Wes Gleason",
+        "original_name": "Wes Gleason",
+        "popularity": 0.6393,
+        "profile_path": null,
+        "credit_id": "6a20703e1946051a3a0cf1d5",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1768132,
+        "known_for_department": "Editing",
+        "name": "Cris Mertens",
+        "original_name": "Cris Mertens",
+        "popularity": 0.4273,
+        "profile_path": null,
+        "credit_id": "6a2070df1946051a3a0cf1e2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2099807,
+        "known_for_department": "Editing",
+        "name": "Kyle Stafford",
+        "original_name": "Kyle Stafford",
+        "popularity": 0.4734,
+        "profile_path": null,
+        "credit_id": "6a2070ea6cfb6c64ddd68550",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2871784,
+        "known_for_department": "Sound",
+        "name": "Nick Keller",
+        "original_name": "Nick Keller",
+        "popularity": 0.2872,
+        "profile_path": null,
+        "credit_id": "6a2071253b25da8a71348e97",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3348240,
+        "known_for_department": "Visual Effects",
+        "name": "Austin Reinkens",
+        "original_name": "Austin Reinkens",
+        "popularity": 0.3576,
+        "profile_path": null,
+        "credit_id": "6a207143b1ec10a2ee0bf8c7",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3289484,
+        "known_for_department": "Production",
+        "name": "Kandace Reuter",
+        "original_name": "Kandace Reuter",
+        "popularity": 0.292,
+        "profile_path": null,
+        "credit_id": "6a2071579e3ec7d8790bf8d2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141043,
+        "known_for_department": "Production",
+        "name": "Sam Register",
+        "original_name": "Sam Register",
+        "popularity": 1.1426,
+        "profile_path": "/rCJa4fFOi3CcOGjljzn06XliSsz.jpg",
+        "credit_id": "6a20716d4352474da20cf390",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1585414,
+        "known_for_department": "Creator",
+        "name": "Andrew Dickman",
+        "original_name": "Andrew Dickman",
+        "popularity": 0.6529,
+        "profile_path": null,
+        "credit_id": "6a2072af17c87db4d0b024e8",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2866567,
+        "known_for_department": "Directing",
+        "name": "Adriel Garcia",
+        "original_name": "Adriel Garcia",
+        "popularity": 0.3315,
+        "profile_path": null,
+        "credit_id": "6a2072c489c7262279348e02",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3690157,
+        "known_for_department": "Writing",
+        "name": "Sean Glaze",
+        "original_name": "Sean Glaze",
+        "popularity": 0.3336,
+        "profile_path": null,
+        "credit_id": "6a2072cfa7df1a48081fa749",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2352122,
+        "known_for_department": "Writing",
+        "name": "Andy Gonsalves",
+        "original_name": "Andy Gonsalves",
+        "popularity": 0.5367,
+        "profile_path": null,
+        "credit_id": "6a2072f636856468870bf913",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2455817,
+        "known_for_department": "Art",
+        "name": "Nora Meek",
+        "original_name": "Nora Meek",
+        "popularity": 0.3212,
+        "profile_path": null,
+        "credit_id": "6a207300ffcfeaf201986ed8",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2918318,
+        "known_for_department": "Directing",
+        "name": "Keith Pakiz",
+        "original_name": "Keith Pakiz",
+        "popularity": 0.5073,
+        "profile_path": null,
+        "credit_id": "6a20730a06b35edcb0348e4c",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2999429,
+        "known_for_department": "Directing",
+        "name": "Matthew Yang",
+        "original_name": "Matthew Yang",
+        "popularity": 0.555,
+        "profile_path": null,
+        "credit_id": "6a2073149ad782f23b0bf95c",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      }
+    ]
+  }
+}

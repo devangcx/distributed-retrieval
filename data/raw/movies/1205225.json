@@ -1,0 +1,197 @@
+{
+  "adult": false,
+  "backdrop_path": "/5arE7ysejlE2byGyakuUrR5TmUt.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 1205225,
+  "imdb_id": "tt9387532",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Gates of Flesh",
+  "overview": "A group of friends attempt to escape the city after an outbreak of demon-possessions. The friends seek shelter in an abandoned church, but their plans for escape are ruined when one of them becomes possessed.",
+  "popularity": 3.0832,
+  "poster_path": "/cOiuCeECSRqzpwuY6wYKQzvPcXm.jpg",
+  "production_companies": [
+    {
+      "id": 118114,
+      "logo_path": null,
+      "name": "Uproar Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-04-08",
+  "revenue": 0,
+  "runtime": 91,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The undead will rise.",
+  "title": "Gates of Flesh",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 46,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1163298,
+        "known_for_department": "Acting",
+        "name": "Rae Olivier",
+        "original_name": "Rae Olivier",
+        "popularity": 0.5828,
+        "profile_path": "/tU3PsZNP8PJ2KcWsIb4dsOaTk7N.jpg",
+        "cast_id": 1,
+        "character": "Brina",
+        "credit_id": "655bdcc27f054018d790fc25",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2171642,
+        "known_for_department": "Acting",
+        "name": "Daniel Annone",
+        "original_name": "Daniel Annone",
+        "popularity": 0.7142,
+        "profile_path": "/uVhkUgOXzoywNSesvDAx8Yz4OO7.jpg",
+        "cast_id": 2,
+        "character": "Ethan",
+        "credit_id": "655bdcd1ea84c71095a06011",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2555035,
+        "known_for_department": "Acting",
+        "name": "Jarrod Beck",
+        "original_name": "Jarrod Beck",
+        "popularity": 0.5572,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Danny",
+        "credit_id": "655bdce710923000e1432b19",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2416452,
+        "known_for_department": "Acting",
+        "name": "Marquita Goings",
+        "original_name": "Marquita Goings",
+        "popularity": 0.8525,
+        "profile_path": "/yod8oFr6d6twwxowzCeAXdwCLWS.jpg",
+        "cast_id": 4,
+        "character": "Lin",
+        "credit_id": "655bdcf610923000ab4949dc",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4388470,
+        "known_for_department": "Acting",
+        "name": "Morgan Robertson",
+        "original_name": "Morgan Robertson",
+        "popularity": 0.3446,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Sarah",
+        "credit_id": "655bdd5d3d745400e392f680",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2300625,
+        "known_for_department": "Acting",
+        "name": "Percy Bell",
+        "original_name": "Percy Bell",
+        "popularity": 0.6291,
+        "profile_path": "/izt1F4xiZGQD49esXgJDGA1qJ2K.jpg",
+        "cast_id": 6,
+        "character": "Jeremy",
+        "credit_id": "655bdd6ef6787a00aecdb37a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4388475,
+        "known_for_department": "Acting",
+        "name": "Doug Steier",
+        "original_name": "Doug Steier",
+        "popularity": 0.3155,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Shop Owner",
+        "credit_id": "655bdd910b731600adabcd6e",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2307388,
+        "known_for_department": "Directing",
+        "name": "Bob Giordano",
+        "original_name": "Bob Giordano",
+        "popularity": 0.6567,
+        "profile_path": "/vnAojU00Jp4fhffkDdBvRh8ErUJ.jpg",
+        "credit_id": "655bddc5d4fe0400e1b5f897",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2307388,
+        "known_for_department": "Directing",
+        "name": "Bob Giordano",
+        "original_name": "Bob Giordano",
+        "popularity": 0.6567,
+        "profile_path": "/vnAojU00Jp4fhffkDdBvRh8ErUJ.jpg",
+        "credit_id": "655bddd60b73160101aba79b",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

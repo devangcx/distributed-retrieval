@@ -1,0 +1,430 @@
+{
+  "adult": false,
+  "backdrop_path": "/oVokrBcA5bL9hLYXD6zK9C1EpiN.jpg",
+  "belongs_to_collection": null,
+  "budget": 6800000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 102358,
+  "imdb_id": "tt0114726",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "त्रिमूर्ति",
+  "overview": "Entrapped by notorious gangster Khokha Singh, honest police inspector Satyadevi Singh gets a life sentence in jail. She hopes to get her three sons Shakti, Anand and Romi to avenge this carnage.",
+  "popularity": 1.2412,
+  "poster_path": "/o6Pmeu0tcw3YKNHLdYw7IrNNdNq.jpg",
+  "production_companies": [
+    {
+      "id": 3725,
+      "logo_path": null,
+      "name": "Mukta Arts Ltd",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "1995-12-22",
+  "revenue": 9600000,
+  "runtime": 187,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Trimurti",
+  "video": false,
+  "vote_average": 5.591,
+  "vote_count": 22,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35742,
+        "known_for_department": "Acting",
+        "name": "Shah Rukh Khan",
+        "original_name": "शाहरुख़ ख़ान",
+        "popularity": 3.6069,
+        "profile_path": "/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg",
+        "cast_id": 2,
+        "character": "Romi Singh",
+        "credit_id": "52fe4a07c3a36847f81b44e1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72118,
+        "known_for_department": "Acting",
+        "name": "Anil Kapoor",
+        "original_name": "अनिल कपूर",
+        "popularity": 2.8719,
+        "profile_path": "/dwvnpiwg9m2zj0VHzlgzEotFl0G.jpg",
+        "cast_id": 3,
+        "character": "Anand Singh / Sikander",
+        "credit_id": "52fe4a07c3a36847f81b44e5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86014,
+        "known_for_department": "Acting",
+        "name": "Jackie Shroff",
+        "original_name": "जय किशन श्राफ",
+        "popularity": 1.2969,
+        "profile_path": "/1UNJypgEyuihUW2avLLVYj76jie.jpg",
+        "cast_id": 4,
+        "character": "Shakti Singh",
+        "credit_id": "52fe4a07c3a36847f81b44e9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11852,
+        "known_for_department": "Acting",
+        "name": "Saeed Jaffrey",
+        "original_name": "Saeed Jaffrey",
+        "popularity": 1.0732,
+        "profile_path": "/vfESx8h4d8xfGfGasqreTdJgYQP.jpg",
+        "cast_id": 5,
+        "character": "Bhanu",
+        "credit_id": "52fe4a07c3a36847f81b44ed",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1041409,
+        "known_for_department": "Acting",
+        "name": "Priya Tendulkar",
+        "original_name": "Priya Tendulkar",
+        "popularity": 0.484,
+        "profile_path": "/6ABZuNfDV8y0WohuRwiGJcJkHpA.jpg",
+        "cast_id": 6,
+        "character": "Satyadevi Singh",
+        "credit_id": "5c933726c3a36861b6e36637",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150012,
+        "known_for_department": "Acting",
+        "name": "Mohan Agashe",
+        "original_name": "Mohan Agashe",
+        "popularity": 0.7779,
+        "profile_path": "/p3LfmPZ0cZD0eUVb4LvH0Sm3jOw.jpg",
+        "cast_id": 7,
+        "character": "Khoka Singh",
+        "credit_id": "5c9337330e0a261042e82275",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85733,
+        "known_for_department": "Acting",
+        "name": "Tinnu Anand",
+        "original_name": "Tinnu Anand",
+        "popularity": 1.3296,
+        "profile_path": "/6fkEiZKNp6jnOQmfQKEjVinhUeL.jpg",
+        "cast_id": 8,
+        "character": "Himmat Singh",
+        "credit_id": "5c9337409251412b6477e410",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 544979,
+        "known_for_department": "Acting",
+        "name": "Gautami Tadimalla",
+        "original_name": "Gautami Tadimalla",
+        "popularity": 1.0008,
+        "profile_path": "/jIl0nNou47v2KMejA7CMO6i0JFH.jpg",
+        "cast_id": 9,
+        "character": "Jyoti",
+        "credit_id": "5c9337519251412b5c77f877",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78248,
+        "known_for_department": "Acting",
+        "name": "Himani Shivpuri",
+        "original_name": "Himani Shivpuri",
+        "popularity": 0.8383,
+        "profile_path": "/iEgl4ME7OfMJ8CVKxpeMiC4Wv5w.jpg",
+        "cast_id": 10,
+        "character": "Janki Singh",
+        "credit_id": "5c93375a0e0a261048e8234d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110099,
+        "known_for_department": "Acting",
+        "name": "Satyendra Kapoor",
+        "original_name": "Satyendra Kapoor",
+        "popularity": 0.7092,
+        "profile_path": "/bUCaTNUuNkueIb1zAEiunqLfK5.jpg",
+        "cast_id": 11,
+        "character": "Sikander's Mentor",
+        "credit_id": "5c933764c3a36861b3e352c3",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 585261,
+        "known_for_department": "Directing",
+        "name": "Mukul Anand",
+        "original_name": "Mukul Anand",
+        "popularity": 0.5594,
+        "profile_path": "/y5uX0ud9LmbxAeqdkDj9VRtPZ83.jpg",
+        "credit_id": "52fe4a07c3a36847f81b44dd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 225162,
+        "known_for_department": "Acting",
+        "name": "Ila Arun",
+        "original_name": "Ila Arun",
+        "popularity": 0.7561,
+        "profile_path": "/sKPy1XhTe2uhAMvCJDhHdvVHQZV.jpg",
+        "credit_id": "6156834d8e2ba600618c9bad",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2246591,
+        "known_for_department": "Sound",
+        "name": "Vinod Rathod",
+        "original_name": "Vinod Rathod",
+        "popularity": 0.2552,
+        "profile_path": null,
+        "credit_id": "615683208741c400959c536a",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1580119,
+        "known_for_department": "Sound",
+        "name": "Kavita Krishnamurthy",
+        "original_name": "Kavita Krishnamurthy",
+        "popularity": 0.4633,
+        "profile_path": "/7eQg5ZjiAAcsNqcTJvNZigTUXpR.jpg",
+        "credit_id": "61568346b513a8002ae2128a",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2327916,
+        "known_for_department": "Acting",
+        "name": "Manhar Udhas",
+        "original_name": "Manhar Udhas",
+        "popularity": 0.3473,
+        "profile_path": null,
+        "credit_id": "61568336dd731b0062064e81",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1113618,
+        "known_for_department": "Sound",
+        "name": "Udit Narayan",
+        "original_name": "Udit Narayan",
+        "popularity": 0.6205,
+        "profile_path": "/2LYPkxyTqlIluiKzYnDMgM5o1Wq.jpg",
+        "credit_id": "6156832a07e281008dae4765",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1764312,
+        "known_for_department": "Sound",
+        "name": "Alka Yagnik",
+        "original_name": "Alka Yagnik",
+        "popularity": 0.5397,
+        "profile_path": "/xUtThoIvHjCDy3cnkkUSiFjZ0pL.jpg",
+        "credit_id": "6156833d8e2ba600433ebbaa",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53978,
+        "known_for_department": "Directing",
+        "name": "Subhash Ghai",
+        "original_name": "Subhash Ghai",
+        "popularity": 0.705,
+        "profile_path": "/qZ3DB1Lvh1WRbWPUO5qzNOHxgpn.jpg",
+        "credit_id": "5c9337c49251412b4b77f7ee",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 583524,
+        "known_for_department": "Camera",
+        "name": "Aseem Bajaj",
+        "original_name": "Aseem Bajaj",
+        "popularity": 0.4826,
+        "profile_path": null,
+        "credit_id": "5c93388bc3a36861b0e35853",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2270040,
+        "known_for_department": "Sound",
+        "name": "Akki Hemchandra",
+        "original_name": "Akki Hemchandra",
+        "popularity": 0.2043,
+        "profile_path": null,
+        "credit_id": "5c9338ae9251412b4b77f87c",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2270034,
+        "known_for_department": "Camera",
+        "name": "Arvind Soni",
+        "original_name": "Arvind Soni",
+        "popularity": 0.2361,
+        "profile_path": null,
+        "credit_id": "5c9337d7c3a36861bbe375a3",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 565164,
+        "known_for_department": "Sound",
+        "name": "Laxmikant Shantaram Kudalkar",
+        "original_name": "Laxmikant Shantaram Kudalkar",
+        "popularity": 0.4531,
+        "profile_path": "/waZEhvqxCJjKxyMNLO6vGJrWvbh.jpg",
+        "credit_id": "5c9338999251412b4e77f442",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35808,
+        "known_for_department": "Camera",
+        "name": "Ashok Mehta",
+        "original_name": "Ashok Mehta",
+        "popularity": 0.437,
+        "profile_path": "/7QmEian3ZJdfzo8xiyA75T9fA6v.jpg",
+        "credit_id": "5c9337cd0e0a261053e821fb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1148398,
+        "known_for_department": "Crew",
+        "name": "Saroj Khan",
+        "original_name": "Saroj Khan",
+        "popularity": 0.5923,
+        "profile_path": "/ibiPQiVvVeECRNv2jFKjey0FyuU.jpg",
+        "credit_id": "5c9338b50e0a26105ae828af",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1692328,
+        "known_for_department": "Camera",
+        "name": "Rajiv Jain",
+        "original_name": "Rajiv Jain",
+        "popularity": 0.3173,
+        "profile_path": null,
+        "credit_id": "5c9337df0e0a261053e8220e",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 565165,
+        "known_for_department": "Sound",
+        "name": "Pyarelal Ramprasad Sharma",
+        "original_name": "Pyarelal Ramprasad Sharma",
+        "popularity": 0.4306,
+        "profile_path": "/pahvINvaH0wAETXqAuVMAlqIQce.jpg",
+        "credit_id": "5c9338a4c3a36861a8e3535c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2050189,
+        "known_for_department": "Sound",
+        "name": "Sudesh Bhosle",
+        "original_name": "Sudesh Bhosle",
+        "popularity": 0.4632,
+        "profile_path": "/sGKoZuZUsnYY5gefmutOgF7hXn.jpg",
+        "credit_id": "5d5ff063ea37e0001275e0e0",
+        "department": "Sound",
+        "job": "Playback Singer"
+      }
+    ]
+  }
+}

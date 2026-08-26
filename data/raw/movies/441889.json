@@ -1,0 +1,368 @@
+{
+  "adult": false,
+  "backdrop_path": "/yrQTyiJpki9dCuIU0bGhGXBu7Zh.jpg",
+  "belongs_to_collection": null,
+  "budget": 286284,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 441889,
+  "imdb_id": "tt6108090",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "सीक्रेट सुपरस्टार",
+  "overview": "A talented teenage singer-songwriter living amid domestic abuse becomes a YouTube sensation after a video in which she hides her identity goes viral.",
+  "popularity": 1.5963,
+  "poster_path": "/fkTeziNtc0uwE899uI1hlMOEdZL.jpg",
+  "production_companies": [
+    {
+      "id": 86347,
+      "logo_path": "/ir79iQBhrXk9PJ5Pr9vlLjM4viO.png",
+      "name": "Zee Studios",
+      "origin_country": "IN"
+    },
+    {
+      "id": 2140,
+      "logo_path": "/yJIGEhIk3yAWAIiZ4p3xEV1dzwR.png",
+      "name": "Aamir Khan Productions",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2017-10-19",
+  "revenue": 137416709,
+  "runtime": 150,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Dream dekhna toh basic hota hai.",
+  "title": "Secret Superstar",
+  "video": false,
+  "vote_average": 7.266,
+  "vote_count": 203,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1756862,
+        "known_for_department": "Acting",
+        "name": "Zaira Wasim",
+        "original_name": "Zaira Wasim",
+        "popularity": 0.7289,
+        "profile_path": "/lt7S0HddIyHC6HiyuSD75dJppCX.jpg",
+        "cast_id": 0,
+        "character": "Insia\"Insu\"Malik",
+        "credit_id": "58a4bb87c3a3686cd4007f56",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52763,
+        "known_for_department": "Acting",
+        "name": "Aamir Khan",
+        "original_name": "आमिर ख़ान",
+        "popularity": 3.2484,
+        "profile_path": "/6uiZSwi2kvd1jZ7X7Xz9W9VGuV4.jpg",
+        "cast_id": 1,
+        "character": "Shakti Kumar",
+        "credit_id": "58a4bb94c3a3686cbf007d7f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1490392,
+        "known_for_department": "Acting",
+        "name": "Meher Vij",
+        "original_name": "Meher Vij",
+        "popularity": 1.1428,
+        "profile_path": "/5tTiy68VEjs4e0Qz4ANSy7LRGo0.jpg",
+        "cast_id": 2,
+        "character": "Najma Malik",
+        "credit_id": "58a4bb9ec3a3686ccc007fcc",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1758662,
+        "known_for_department": "Acting",
+        "name": "Raj Arjun",
+        "original_name": "Raj Arjun",
+        "popularity": 1.278,
+        "profile_path": "/3lW4MxXhkeBavAkvPLpYdExFIZ.jpg",
+        "cast_id": 3,
+        "character": "Farookh Malik",
+        "credit_id": "58a4bba892514165c5008122",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4505993,
+        "known_for_department": "Acting",
+        "name": "Kabir Sajid Shaikh",
+        "original_name": "Kabir Sajid Shaikh",
+        "popularity": 0.421,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Guddu Malik",
+        "credit_id": "694c8c64ea775d1468b1d8b3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1123899,
+        "known_for_department": "Acting",
+        "name": "Farrukh Jaffar",
+        "original_name": "Farrukh Jaffar",
+        "popularity": 0.582,
+        "profile_path": "/5k29GCI3qLC2n0YPsKVvv7Sn4b2.jpg",
+        "cast_id": 20,
+        "character": "Badi Appa Malik",
+        "credit_id": "694c8c283749b13f648cd7a3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2492299,
+        "known_for_department": "Acting",
+        "name": "Tirth Sharma",
+        "original_name": "Tirth Sharma",
+        "popularity": 0.6789,
+        "profile_path": "/1wNTPVsTi7LBQSW0f7EiXj61SNV.jpg",
+        "cast_id": 16,
+        "character": "Chintan Parekh",
+        "credit_id": "5e071b59d236e600129dad18",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1001205,
+        "known_for_department": "Acting",
+        "name": "Mona Ambegaonkar",
+        "original_name": "Mona Ambegaonkar",
+        "popularity": 0.6158,
+        "profile_path": "/9gF4oeRMgeECk1jAGim18PnCRrn.jpg",
+        "cast_id": 22,
+        "character": "Advocate Sheena Sabavala",
+        "credit_id": "694c8c7868435f9fa68eabbd",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2709481,
+        "known_for_department": "Acting",
+        "name": "Manuj Sharma",
+        "original_name": "Manuj Sharma",
+        "popularity": 0.6934,
+        "profile_path": "/nKu9KOh5zYf6yqwlomqxviCwHYK.jpg",
+        "cast_id": 17,
+        "character": "Ranjeet",
+        "credit_id": "6025f176af58cb003fa5fc4f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5897102,
+        "known_for_department": "Acting",
+        "name": "Nitika Anand Mukherjee",
+        "original_name": "Nitika Anand Mukherjee",
+        "popularity": 0.1872,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Ms. Sheetal",
+        "credit_id": "694c8cc1cc6f7781c1fb0566",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2156690,
+        "known_for_department": "Sound",
+        "name": "Shaan Mukherjee",
+        "original_name": "Shaan Mukherjee",
+        "popularity": 0.4119,
+        "profile_path": "/zgbw2jU9ji7UcgQo6jvqsWCbEw3.jpg",
+        "cast_id": 13,
+        "character": "Himself (Cameo)",
+        "credit_id": "5cf5088dc3a3685c082269a4",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1244568,
+        "known_for_department": "Sound",
+        "name": "Monali Thakur",
+        "original_name": "Monali Thakur",
+        "popularity": 0.6298,
+        "profile_path": "/ocvlCGDbSyiSk6ubjELe6IWF1y6.jpg",
+        "cast_id": 12,
+        "character": "Herself (Cameo)",
+        "credit_id": "5a120df7c3a3686280061cd4",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1758663,
+        "known_for_department": "Directing",
+        "name": "Advait Chandan",
+        "original_name": "Advait Chandan",
+        "popularity": 0.5849,
+        "profile_path": null,
+        "credit_id": "58a4bbd092514165b000820b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1758663,
+        "known_for_department": "Directing",
+        "name": "Advait Chandan",
+        "original_name": "Advait Chandan",
+        "popularity": 0.5849,
+        "profile_path": null,
+        "credit_id": "58a4bbdfc3a3686ca3008003",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52763,
+        "known_for_department": "Acting",
+        "name": "Aamir Khan",
+        "original_name": "आमिर ख़ान",
+        "popularity": 3.2484,
+        "profile_path": "/6uiZSwi2kvd1jZ7X7Xz9W9VGuV4.jpg",
+        "credit_id": "58a4bbf192514165b000822e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130959,
+        "known_for_department": "Production",
+        "name": "Kiran Rao",
+        "original_name": "किरण राव",
+        "popularity": 1.3943,
+        "profile_path": "/mZfEQ9OWLnRMZXdR2cutJf24UJb.jpg",
+        "credit_id": "58a4bc00c3a3686cc5007b4b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1118109,
+        "known_for_department": "Editing",
+        "name": "Hemanti Sarkar",
+        "original_name": "Hemanti Sarkar",
+        "popularity": 0.4696,
+        "profile_path": null,
+        "credit_id": "58a4bc3192514165b60084f3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1758663,
+        "known_for_department": "Directing",
+        "name": "Advait Chandan",
+        "original_name": "Advait Chandan",
+        "popularity": 0.5849,
+        "profile_path": null,
+        "credit_id": "5a12091ec3a368628c0528e5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35738,
+        "known_for_department": "Camera",
+        "name": "Anil Mehta",
+        "original_name": "Anil Mehta",
+        "popularity": 0.4206,
+        "profile_path": "/qzdQGvYWcGpj53Dwmvbc03mMd6E.jpg",
+        "credit_id": "665e47d3267bcb68d92f2923",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223854,
+        "known_for_department": "Sound",
+        "name": "Amit Trivedi",
+        "original_name": "Amit Trivedi",
+        "popularity": 0.6536,
+        "profile_path": "/lRewkQ2Smolc0TjNMSycYHnbFil.jpg",
+        "credit_id": "665e47e0ce50e870fc546958",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1756851,
+        "known_for_department": "Acting",
+        "name": "Sanya Malhotra",
+        "original_name": "Sanya Malhotra",
+        "popularity": 1.5471,
+        "profile_path": "/sQ0VIqGLecfpwYayO05Z7NC32yN.jpg",
+        "credit_id": "5d259e2c69d28024d0047be0",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2368882,
+        "known_for_department": "Sound",
+        "name": "Meghna Mishra",
+        "original_name": "Meghna Mishra",
+        "popularity": 0.38,
+        "profile_path": "/rtjh0du84VU7dqJZ5CBdmW4rnuq.jpg",
+        "credit_id": "5d36b10bab6849001084adee",
+        "department": "Sound",
+        "job": "Playback Singer"
+      }
+    ]
+  }
+}

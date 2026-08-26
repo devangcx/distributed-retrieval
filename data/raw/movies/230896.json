@@ -1,0 +1,369 @@
+{
+  "adult": false,
+  "backdrop_path": "/909eoRF1vXvoAzQLMSijjrf2ZJ.jpg",
+  "belongs_to_collection": {
+    "id": 747874,
+    "name": "Heroes United Collection",
+    "poster_path": "/7Kar0pcdgGAVkyMsV9QRel6WlE3.jpg",
+    "backdrop_path": "/909eoRF1vXvoAzQLMSijjrf2ZJ.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://marvel.com/movies/movie/184/marvels_iron_man_hulk_heroes_united",
+  "id": 230896,
+  "imdb_id": "tt3221698",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Iron Man & Hulk: Heroes United",
+  "overview": "The Invincible Iron Man and the Incredible Hulk must join forces to save the Earth from its greatest threat yet! When two Hydra scientists try to supercharge a Stark Arc Reactor with Hulk's Gamma Energy, they unleash a being of pure electricity called Zzzax - and he's hungry for destruction. Together, Iron Man and Hulk are the only force that stands in the way of the Zzzax's planetary blackout. But first, the super heroic duo will have to get through snarling Wendigos, deadly robots and the scaly powerhouse, Abomination.  Can two of Marvel's mightiest heroes find a way to work together without smashing each other before time runs out?",
+  "popularity": 3.7855,
+  "poster_path": "/xCBBQMPxXsqIlZUAbpeSo1SVj6R.jpg",
+  "production_companies": [
+    {
+      "id": 13252,
+      "logo_path": "/aGeUvfSNA8gRl6ZjvmLQOsb7PMw.png",
+      "name": "Marvel Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2013-12-03",
+  "revenue": 0,
+  "runtime": 71,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Iron Man and the Hulk team up in groundbreaking Marvel CG Animation.",
+  "title": "Iron Man & Hulk: Heroes United",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 220,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17304,
+        "known_for_department": "Acting",
+        "name": "Adrian Pasdar",
+        "original_name": "Adrian Pasdar",
+        "popularity": 3.3253,
+        "profile_path": "/4KdM69ljovbLumGoVe8ct9s6GJm.jpg",
+        "cast_id": 2,
+        "character": "Iron Man / Tony Stark (voice)",
+        "credit_id": "52fe4de2c3a36847f8272ce9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60279,
+        "known_for_department": "Acting",
+        "name": "Fred Tatasciore",
+        "original_name": "Fred Tatasciore",
+        "popularity": 2.5726,
+        "profile_path": "/xodxYKRC9mdvgquTdqpmYldliJ3.jpg",
+        "cast_id": 4,
+        "character": "The Hulk (voice)",
+        "credit_id": "52fe4de2c3a36847f8272cf1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23680,
+        "known_for_department": "Acting",
+        "name": "Dee Bradley Baker",
+        "original_name": "Dee Bradley Baker",
+        "popularity": 3.309,
+        "profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg",
+        "cast_id": 3,
+        "character": "Dr. Cruler / Zzzax (voice)",
+        "credit_id": "52fe4de2c3a36847f8272ced",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130081,
+        "known_for_department": "Acting",
+        "name": "Robin Atkin Downes",
+        "original_name": "Robin Atkin Downes",
+        "popularity": 1.5477,
+        "profile_path": "/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg",
+        "cast_id": 8,
+        "character": "Dr. Fump / Abomination (voice)",
+        "credit_id": "52fe4de2c3a36847f8272d07",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84490,
+        "known_for_department": "Acting",
+        "name": "David Kaye",
+        "original_name": "David Kaye",
+        "popularity": 1.7905,
+        "profile_path": "/izxtFSio5twcVA1oJWPvobxpcZj.jpg",
+        "cast_id": 9,
+        "character": "Jarvis (voice)",
+        "credit_id": "52fe4de2c3a36847f8272d0b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89966,
+        "known_for_department": "Acting",
+        "name": "Liam O'Brien",
+        "original_name": "Liam O'Brien",
+        "popularity": 1.2582,
+        "profile_path": "/ko7Bba6fQEaAbVFAp1kQHTzuYCp.jpg",
+        "cast_id": 22,
+        "character": "The Red Skull (voice)",
+        "credit_id": "55e0c0da9251416f9900084b",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 221162,
+        "known_for_department": "Writing",
+        "name": "Todd Casey",
+        "original_name": "Todd Casey",
+        "popularity": 0.6174,
+        "profile_path": null,
+        "credit_id": "52fe4de2c3a36847f8272ce5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35294,
+        "known_for_department": "Writing",
+        "name": "Henry Gilroy",
+        "original_name": "Henry Gilroy",
+        "popularity": 1.0139,
+        "profile_path": null,
+        "credit_id": "52fe4de2c3a36847f8272cf7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 108953,
+        "known_for_department": "Writing",
+        "name": "Brandon Auman",
+        "original_name": "Brandon Auman",
+        "popularity": 0.8377,
+        "profile_path": "/vLrQ1R2A0Kabgm4i4oA7ac9soaF.jpg",
+        "credit_id": "52fe4de2c3a36847f8272cfd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1266051,
+        "known_for_department": "Directing",
+        "name": "Leo Riley",
+        "original_name": "Leo Riley",
+        "popularity": 0.4184,
+        "profile_path": null,
+        "credit_id": "52fe4de2c3a36847f8272d03",
+        "department": "Crew",
+        "job": "Supervising Technical Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35270,
+        "known_for_department": "Directing",
+        "name": "Eric Radomski",
+        "original_name": "Eric Radomski",
+        "popularity": 0.7495,
+        "profile_path": "/z1vRonppwah0DVC4bvb711ukP4a.jpg",
+        "credit_id": "52fe4de2c3a36847f8272d11",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1266051,
+        "known_for_department": "Directing",
+        "name": "Leo Riley",
+        "original_name": "Leo Riley",
+        "popularity": 0.4184,
+        "profile_path": null,
+        "credit_id": "52fe4de2c3a36847f8272d17",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1310335,
+        "known_for_department": "Production",
+        "name": "Lori Gloede",
+        "original_name": "Lori Gloede",
+        "popularity": 0.3458,
+        "profile_path": null,
+        "credit_id": "534dab9ac3a36867a7000568",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1310336,
+        "known_for_department": "Production",
+        "name": "Tammy Holguin",
+        "original_name": "Tammy Holguin",
+        "popularity": 0.2059,
+        "profile_path": null,
+        "credit_id": "534daba7c3a36867a700056e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1011028,
+        "known_for_department": "Production",
+        "name": "Dan Buckley",
+        "original_name": "Dan Buckley",
+        "popularity": 0.5195,
+        "profile_path": "/gM2unQVw1jxWFmMd438rNoJHgr0.jpg",
+        "credit_id": "534dabb2c3a36867820005db",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113672,
+        "known_for_department": "Production",
+        "name": "Alan Fine",
+        "original_name": "Alan Fine",
+        "popularity": 0.6502,
+        "profile_path": null,
+        "credit_id": "534dabbfc3a36867820005dd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7624,
+        "known_for_department": "Writing",
+        "name": "Stan Lee",
+        "original_name": "Stan Lee",
+        "popularity": 5.5316,
+        "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg",
+        "credit_id": "534dabcec3a36867a10005d6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17310,
+        "known_for_department": "Production",
+        "name": "Jeph Loeb",
+        "original_name": "Jeph Loeb",
+        "popularity": 1.1843,
+        "profile_path": "/zbU9aOrxMtXVSUAHlY5d6cQW2EE.jpg",
+        "credit_id": "534dabd9c3a36867a10005d8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1187909,
+        "known_for_department": "Production",
+        "name": "Joe Quesada",
+        "original_name": "Joe Quesada",
+        "popularity": 1.1424,
+        "profile_path": "/lXvr9yj4OpPDLojusbKYowp9zZX.jpg",
+        "credit_id": "534dabeac3a368679500058e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 572365,
+        "known_for_department": "Editing",
+        "name": "Emily Chiu",
+        "original_name": "Emily Chiu",
+        "popularity": 0.3389,
+        "profile_path": null,
+        "credit_id": "534dabf8c3a36867820005e2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1183886,
+        "known_for_department": "Editing",
+        "name": "Jacob Kindberg",
+        "original_name": "Jacob Kindberg",
+        "popularity": 0.2654,
+        "profile_path": null,
+        "credit_id": "534dac01c3a36867a10005dc",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1310337,
+        "known_for_department": "Editing",
+        "name": "Adam Redding",
+        "original_name": "Adam Redding",
+        "popularity": 0.3123,
+        "profile_path": null,
+        "credit_id": "534dac0bc3a36867a10005df",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

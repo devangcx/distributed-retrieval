@@ -1,0 +1,261 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.dorthefilm.com/",
+  "id": 44827,
+  "imdb_id": "tt0824316",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Dor",
+  "overview": "Two woman, from different backgrounds and living miles apart, are linked by tragedy. Their new-found friendship is tested as one holds the fate of the other's husband in her hands.",
+  "popularity": 1.2369,
+  "poster_path": "/j29JyRQENX0JWYWBgeg7DlWsA7y.jpg",
+  "production_companies": [
+    {
+      "id": 1841,
+      "logo_path": null,
+      "name": "Percept Picture Company",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2006-09-22",
+  "revenue": 0,
+  "runtime": 124,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dor",
+  "video": false,
+  "vote_average": 7.431,
+  "vote_count": 29,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 83591,
+        "known_for_department": "Acting",
+        "name": "Ayesha Takia",
+        "original_name": "Ayesha Takia",
+        "popularity": 1.3762,
+        "profile_path": "/nMwZp4tfg6W4BkkWpaXesUMUAxR.jpg",
+        "cast_id": 1,
+        "character": "Meera",
+        "credit_id": "52fe469ec3a36847f8108be5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53974,
+        "known_for_department": "Acting",
+        "name": "Shreyas Talpade",
+        "original_name": "Shreyas Talpade",
+        "popularity": 0.9878,
+        "profile_path": "/rKORFoIrI4GlcIfzzyVwCQNL9no.jpg",
+        "cast_id": 2,
+        "character": "Behroopiya",
+        "credit_id": "52fe469ec3a36847f8108be9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86010,
+        "known_for_department": "Acting",
+        "name": "Gul Panag",
+        "original_name": "Gul Panag",
+        "popularity": 0.7182,
+        "profile_path": "/1gv67t45wR65ROaaH2ujz3vNjL9.jpg",
+        "cast_id": 3,
+        "character": "Zeenat Fatima",
+        "credit_id": "52fe469ec3a36847f8108bed",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83593,
+        "known_for_department": "Acting",
+        "name": "Girish Karnad",
+        "original_name": "Girish Karnad",
+        "popularity": 1.0132,
+        "profile_path": "/vxnh2pdWTdarTUfDoTbJwlUROYh.jpg",
+        "cast_id": 4,
+        "character": "Randhir Singh",
+        "credit_id": "52fe469ec3a36847f8108bf1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 101857,
+        "known_for_department": "Acting",
+        "name": "Prateeksha Lonkar",
+        "original_name": "Prateeksha Lonkar",
+        "popularity": 0.6834,
+        "profile_path": "/5x1bVCrEIjJoCuEVIwXuUFMLKgA.jpg",
+        "cast_id": 5,
+        "character": "Gowri Singh",
+        "credit_id": "52fe469ec3a36847f8108bf5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 125204,
+        "known_for_department": "Acting",
+        "name": "Uttara Baokar",
+        "original_name": "Uttara Baokar",
+        "popularity": 0.7073,
+        "profile_path": "/nLdSlyrA75mFyocBJwXlfqI4G9w.jpg",
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "62fd58841fb94f008392142f",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85708,
+        "known_for_department": "Sound",
+        "name": "Sulaiman Merchant",
+        "original_name": "Sulaiman Merchant",
+        "popularity": 0.4762,
+        "profile_path": "/aKaqHM9SqCDNhIck6RDsitQebfw.jpg",
+        "credit_id": "57a6601b9251417cb8000c21",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83594,
+        "known_for_department": "Directing",
+        "name": "Nagesh Kukunoor",
+        "original_name": "Nagesh Kukunoor",
+        "popularity": 0.7198,
+        "profile_path": "/km7h1Dp2TLL1TlXZIype9rN1fjX.jpg",
+        "credit_id": "57a65fbe9251417e82000a8c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83594,
+        "known_for_department": "Directing",
+        "name": "Nagesh Kukunoor",
+        "original_name": "Nagesh Kukunoor",
+        "popularity": 0.7198,
+        "profile_path": "/km7h1Dp2TLL1TlXZIype9rN1fjX.jpg",
+        "credit_id": "57a65fe69251417cb8000bf9",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83594,
+        "known_for_department": "Directing",
+        "name": "Nagesh Kukunoor",
+        "original_name": "Nagesh Kukunoor",
+        "popularity": 0.7198,
+        "profile_path": "/km7h1Dp2TLL1TlXZIype9rN1fjX.jpg",
+        "credit_id": "57a65fd1c3a3681156000b14",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35786,
+        "known_for_department": "Sound",
+        "name": "Salim Merchant",
+        "original_name": "Salim Merchant",
+        "popularity": 0.4451,
+        "profile_path": "/acKJeVt5BbyRBXuRiaV05PkLTRM.jpg",
+        "credit_id": "57a6600dc3a3681288000b36",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1662485,
+        "known_for_department": "Writing",
+        "name": "Mir Ali Husain",
+        "original_name": "Mir Ali Husain",
+        "popularity": 0.6241,
+        "profile_path": null,
+        "credit_id": "57a65ff69251417f2b000aff",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89151,
+        "known_for_department": "Camera",
+        "name": "Sudeep Chatterjee",
+        "original_name": "Sudeep Chatterjee",
+        "popularity": 0.4845,
+        "profile_path": "/15GgrkFoxuNBETljcK6Ety2KyPN.jpg",
+        "credit_id": "57a660279251417f2b000b11",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 101867,
+        "known_for_department": "Editing",
+        "name": "Sanjib Datta",
+        "original_name": "Sanjib Datta",
+        "popularity": 0.3401,
+        "profile_path": null,
+        "credit_id": "57a660399251417ca9000bdf",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1811052,
+        "known_for_department": "Sound",
+        "name": "Shafqat Amanat Ali",
+        "original_name": "Shafqat Amanat Ali",
+        "popularity": 0.3866,
+        "profile_path": "/kEgKGgcVw3Fe8KiQGwcmLYpOgT9.jpg",
+        "credit_id": "5d63f8577f6c8d1394ec5e82",
+        "department": "Sound",
+        "job": "Playback Singer"
+      }
+    ]
+  }
+}

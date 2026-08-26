@@ -1,0 +1,398 @@
+{
+  "adult": false,
+  "backdrop_path": "/qDm20Q4ifjK9BlBQshDtL5byAHZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://www.pixar.com/short_films/Home-Entertainment-Shorts/Dug's-Special-Mission",
+  "id": 24589,
+  "imdb_id": "tt1537759",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dug's Special Mission",
+  "overview": "Dug is sent on foolish missions by Alpha, Beta, and Gamma so they can hunt for the Bird of Paradise Falls by themselves. Dug may find that where he belongs is not where he's been looking.",
+  "popularity": 4.0549,
+  "poster_path": "/o0ydUDS80j9YTQ3JbUmD3CRPitd.jpg",
+  "production_companies": [
+    {
+      "id": 3,
+      "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+      "name": "Pixar",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2009-11-10",
+  "revenue": 0,
+  "runtime": 5,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dug's Special Mission",
+  "video": false,
+  "vote_average": 7.003,
+  "vote_count": 459,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10,
+        "known_for_department": "Acting",
+        "name": "Bob Peterson",
+        "original_name": "Bob Peterson",
+        "popularity": 2.0702,
+        "profile_path": "/dJe3nTCIToebjj1WHFHP7LmZKyk.jpg",
+        "cast_id": 1001,
+        "character": "Dug / Alpha (voice)",
+        "credit_id": "52fe449fc3a368484e02d57b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18792,
+        "known_for_department": "Acting",
+        "name": "Delroy Lindo",
+        "original_name": "Delroy Lindo",
+        "popularity": 2.4219,
+        "profile_path": "/kLwUBBmEIdchrLqwsYzgLB2B6q5.jpg",
+        "cast_id": 1002,
+        "character": "Beta (voice)",
+        "credit_id": "52fe449fc3a368484e02d57f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7960,
+        "known_for_department": "Art",
+        "name": "Jerome Ranft",
+        "original_name": "Jerome Ranft",
+        "popularity": 0.7331,
+        "profile_path": null,
+        "cast_id": 1003,
+        "character": "Gamma (voice)",
+        "credit_id": "52fe449fc3a368484e02d583",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68812,
+        "known_for_department": "Acting",
+        "name": "Ed Asner",
+        "original_name": "Ed Asner",
+        "popularity": 2.412,
+        "profile_path": "/AeVizz1AfAB2TbsfyzgBvqeSR3G.jpg",
+        "cast_id": 1004,
+        "character": "Carl Fredricksen (voice) (uncredited)",
+        "credit_id": "55e8582c9251413e380026a5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80676,
+        "known_for_department": "Acting",
+        "name": "Jordan Nagai",
+        "original_name": "Jordan Nagai",
+        "popularity": 1.3573,
+        "profile_path": "/j1kVS2sI3wWIHCCzzYD1buXAP9e.jpg",
+        "cast_id": 1005,
+        "character": "Russell (voice) (uncredited)",
+        "credit_id": "55e8582d9251413e41002653",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2018898,
+        "known_for_department": "Visual Effects",
+        "name": "Simon Allen",
+        "original_name": "Simon Allen",
+        "popularity": 0.3087,
+        "profile_path": "/AqXsU69Nwfig1yfIl1q0oEDoXmt.jpg",
+        "credit_id": "61e886a3394a8700f080045e",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1996855,
+        "known_for_department": "Visual Effects",
+        "name": "Dovi Anderson",
+        "original_name": "Dovi Anderson",
+        "popularity": 0.4909,
+        "profile_path": null,
+        "credit_id": "61e886aedf294500433d515f",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1993364,
+        "known_for_department": "Visual Effects",
+        "name": "Guillaume Chartier",
+        "original_name": "Guillaume Chartier",
+        "popularity": 0.4003,
+        "profile_path": null,
+        "credit_id": "61e886ba394a8700f080048c",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1777871,
+        "known_for_department": "Visual Effects",
+        "name": "Don Crum",
+        "original_name": "Don Crum",
+        "popularity": 0.4684,
+        "profile_path": null,
+        "credit_id": "61e886c8df294500b8058f42",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1694604,
+        "known_for_department": "Visual Effects",
+        "name": "Mark C. Harris",
+        "original_name": "Mark C. Harris",
+        "popularity": 0.36,
+        "profile_path": null,
+        "credit_id": "61e886d3394a87006b053624",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1624187,
+        "known_for_department": "Writing",
+        "name": "Vladimir Kooperman",
+        "original_name": "Vladimir Kooperman",
+        "popularity": 0.3302,
+        "profile_path": null,
+        "credit_id": "61e886e1394a8700c67bff38",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1993479,
+        "known_for_department": "Visual Effects",
+        "name": "Bruce Kuei",
+        "original_name": "Bruce Kuei",
+        "popularity": 0.3941,
+        "profile_path": null,
+        "credit_id": "61e886ee168935006bfccc29",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1993494,
+        "known_for_department": "Visual Effects",
+        "name": "Matt Majers",
+        "original_name": "Matt Majers",
+        "popularity": 0.464,
+        "profile_path": null,
+        "credit_id": "61e886fad75bd60045998ebe",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1609044,
+        "known_for_department": "Visual Effects",
+        "name": "Michal Makarewicz",
+        "original_name": "Michal Makarewicz",
+        "popularity": 0.3966,
+        "profile_path": null,
+        "credit_id": "61e88705d04d1a009c9a0935",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2002734,
+        "known_for_department": "Visual Effects",
+        "name": "Rich McKain",
+        "original_name": "Rich McKain",
+        "popularity": 0.3131,
+        "profile_path": null,
+        "credit_id": "61e8870fa1c59d001c7cbdf9",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3389898,
+        "known_for_department": "Visual Effects",
+        "name": "Richard McKain",
+        "original_name": "Richard McKain",
+        "popularity": 0.2413,
+        "profile_path": null,
+        "credit_id": "61e88726fdf8b7006823c851",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2000127,
+        "known_for_department": "Visual Effects",
+        "name": "Kevin O'Hara",
+        "original_name": "Kevin O'Hara",
+        "popularity": 0.3761,
+        "profile_path": null,
+        "credit_id": "61e887333ff2df001b456313",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1236458,
+        "known_for_department": "Art",
+        "name": "Ronnie del Carmen",
+        "original_name": "Ronnie del Carmen",
+        "popularity": 0.5757,
+        "profile_path": "/lPCmkQK76DOgkmcRjg9394QPyAu.jpg",
+        "credit_id": "5759793892514108f4002b1e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2002686,
+        "known_for_department": "Visual Effects",
+        "name": "Edwin Chang",
+        "original_name": "Edwin Chang",
+        "popularity": 0.343,
+        "profile_path": "/tWvFgdBcbF4Kyn8CxQ0jZuJciNP.jpg",
+        "credit_id": "6446f1d2c8f3c428124547ad",
+        "department": "Visual Effects",
+        "job": "Simulation & Effects Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1236458,
+        "known_for_department": "Art",
+        "name": "Ronnie del Carmen",
+        "original_name": "Ronnie del Carmen",
+        "popularity": 0.5757,
+        "profile_path": "/lPCmkQK76DOgkmcRjg9394QPyAu.jpg",
+        "credit_id": "5e1a8c891e922500137836b6",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12890,
+        "known_for_department": "Directing",
+        "name": "Pete Docter",
+        "original_name": "Pete Docter",
+        "popularity": 1.8927,
+        "profile_path": "/vITDphkNpSn1LP5gUEheAnlclnl.jpg",
+        "credit_id": "5e1a8c981e92250011783ba1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7879,
+        "known_for_department": "Production",
+        "name": "John Lasseter",
+        "original_name": "John Lasseter",
+        "popularity": 2.5321,
+        "profile_path": "/xlrE4VD2VbZCDpaNdWCpH1ZihPS.jpg",
+        "credit_id": "5e1a8ca11e92250015781c81",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7899,
+        "known_for_department": "Production",
+        "name": "Galyn Susman",
+        "original_name": "Galyn Susman",
+        "popularity": 0.9227,
+        "profile_path": "/x7eCfF09EXtGThrf5tnr83G7qm7.jpg",
+        "credit_id": "5e1a8cad459ad60016364998",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15347,
+        "known_for_department": "Sound",
+        "name": "Michael Giacchino",
+        "original_name": "Michael Giacchino",
+        "popularity": 1.2552,
+        "profile_path": "/xgurVFMLVgtgz9f5bgrrCppm4xq.jpg",
+        "credit_id": "5e1a8cb61d820f001326ba45",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 652557,
+        "known_for_department": "Editing",
+        "name": "Steve Bloom",
+        "original_name": "Steve Bloom",
+        "popularity": 0.6696,
+        "profile_path": null,
+        "credit_id": "5e1a8cbf1d820f0015269886",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

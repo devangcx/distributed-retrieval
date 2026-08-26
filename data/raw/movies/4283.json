@@ -1,0 +1,516 @@
+{
+  "adult": false,
+  "backdrop_path": "/9MsqUNYYSXSZeWyxzAlTwTbPavv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 4283,
+  "imdb_id": "tt0772193",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Primeval",
+  "overview": "A news team is sent to Burundi to capture and bring home a legendary 25-foot crocodile. Their difficult task turns potentially deadly when a warlord targets them for death.",
+  "popularity": 4.374,
+  "poster_path": "/5ou56J8FIxbIFusR9zIA9GW7zwt.jpg",
+  "production_companies": [
+    {
+      "id": 915,
+      "logo_path": "/4neXXpjSJDZPBGBnfWtqysB5htV.png",
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1611,
+      "logo_path": null,
+      "name": "Sarah James Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 97307,
+      "logo_path": null,
+      "name": "Film Africa Worldwide",
+      "origin_country": ""
+    },
+    {
+      "id": 275988,
+      "logo_path": "/y4GU9rJyElzf58iSPtwhUSVegHU.png",
+      "name": "Pariah",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2007-01-12",
+  "revenue": 15291277,
+  "runtime": 93,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swahili",
+      "iso_639_1": "sw",
+      "name": "Kiswahili"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Inspired by the true story of the most prolific serial killer in history.",
+  "title": "Primeval",
+  "video": false,
+  "vote_average": 6.089,
+  "vote_count": 470,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10862,
+        "known_for_department": "Acting",
+        "name": "Dominic Purcell",
+        "original_name": "Dominic Purcell",
+        "popularity": 2.4873,
+        "profile_path": "/5GtHSYdnH7o2x5UIm09XqqLoJKO.jpg",
+        "cast_id": 18,
+        "character": "Tim Manfrey",
+        "credit_id": "52fe43b8c3a36847f806a6c1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35980,
+        "known_for_department": "Acting",
+        "name": "Brooke Langton",
+        "original_name": "Brooke Langton",
+        "popularity": 1.8084,
+        "profile_path": "/7vNdKFRgedVWfRiZps26PlaVwtI.jpg",
+        "cast_id": 19,
+        "character": "Aviva Masters",
+        "credit_id": "52fe43b8c3a36847f806a6c5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18270,
+        "known_for_department": "Acting",
+        "name": "Orlando Jones",
+        "original_name": "Orlando Jones",
+        "popularity": 2.1397,
+        "profile_path": "/ypN7IS7lXOAij4rfMd4NlcF7f6R.jpg",
+        "cast_id": 20,
+        "character": "Steven Johnson",
+        "credit_id": "52fe43b8c3a36847f806a6c9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 920,
+        "known_for_department": "Acting",
+        "name": "Jürgen Prochnow",
+        "original_name": "Jürgen Prochnow",
+        "popularity": 2.5793,
+        "profile_path": "/45gcCuTcZdqpVISh5C8q1N9HyEz.jpg",
+        "cast_id": 21,
+        "character": "Jacob Krieg",
+        "credit_id": "52fe43b8c3a36847f806a6cd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35981,
+        "known_for_department": "Acting",
+        "name": "Gideon Emery",
+        "original_name": "Gideon Emery",
+        "popularity": 1.9326,
+        "profile_path": "/o7BHjTmmZ9D5tEK33JHKfB2FQqD.jpg",
+        "cast_id": 22,
+        "character": "Mathew Collins",
+        "credit_id": "52fe43b8c3a36847f806a6d1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35982,
+        "known_for_department": "Acting",
+        "name": "Gabriel Malema",
+        "original_name": "Gabriel Malema",
+        "popularity": 0.4161,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Jojo",
+        "credit_id": "52fe43b8c3a36847f806a6d5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35983,
+        "known_for_department": "Acting",
+        "name": "Linda Mpondo",
+        "original_name": "Linda Mpondo",
+        "popularity": 0.4103,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Gold Tooth",
+        "credit_id": "52fe43b8c3a36847f806a6d9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 35984,
+        "known_for_department": "Acting",
+        "name": "Lehlohonolo Makoko",
+        "original_name": "Lehlohonolo Makoko",
+        "popularity": 0.551,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Beanpole",
+        "credit_id": "52fe43b8c3a36847f806a6dd",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35985,
+        "known_for_department": "Acting",
+        "name": "Dumisani Mbebe",
+        "original_name": "Dumisani Mbebe",
+        "popularity": 0.7248,
+        "profile_path": "/vQv5NDoomAHOSCZaoySQsuVgkUZ.jpg",
+        "cast_id": 26,
+        "character": "Harry",
+        "credit_id": "52fe43b8c3a36847f806a6e1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 35986,
+        "known_for_department": "Acting",
+        "name": "Eddy 'Big Eddy' Bekombo",
+        "original_name": "Eddy 'Big Eddy' Bekombo",
+        "popularity": 0.2479,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Ato",
+        "credit_id": "52fe43b8c3a36847f806a6e5",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35987,
+        "known_for_department": "Acting",
+        "name": "Chris April",
+        "original_name": "Chris April",
+        "popularity": 0.5785,
+        "profile_path": "/pjzT4VyxzOcHsh9tLyZgJQMVLH8.jpg",
+        "cast_id": 28,
+        "character": "Captain",
+        "credit_id": "52fe43b8c3a36847f806a6e9",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 230805,
+        "known_for_department": "Acting",
+        "name": "Lika Berning",
+        "original_name": "Lika Berning",
+        "popularity": 0.5929,
+        "profile_path": "/xzLcfChTwbajyzLstd0VFMLdkpZ.jpg",
+        "cast_id": 30,
+        "character": "Rachel",
+        "credit_id": "52fe43b8c3a36847f806a6f3",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19697,
+        "known_for_department": "Production",
+        "name": "David Wicht",
+        "original_name": "David Wicht",
+        "popularity": 0.5244,
+        "profile_path": null,
+        "credit_id": "52fe43b8c3a36847f806a68d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2625,
+        "known_for_department": "Art",
+        "name": "Johnny Breedt",
+        "original_name": "Johnny Breedt",
+        "popularity": 0.3805,
+        "profile_path": null,
+        "credit_id": "52fe43b8c3a36847f806a6ab",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23849,
+        "known_for_department": "Art",
+        "name": "Fred Du Preez",
+        "original_name": "Fred Du Preez",
+        "popularity": 0.3988,
+        "profile_path": null,
+        "credit_id": "52fe43b8c3a36847f806a6b1",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7214,
+        "known_for_department": "Writing",
+        "name": "John Brancato",
+        "original_name": "John Brancato",
+        "popularity": 0.9435,
+        "profile_path": "/dQKxYVsBlIm5tE0rI98tvre1AGg.jpg",
+        "credit_id": "52fe43b8c3a36847f806a669",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15541,
+        "known_for_department": "Art",
+        "name": "Melinda Launspach",
+        "original_name": "Melinda Launspach",
+        "popularity": 0.5333,
+        "profile_path": null,
+        "credit_id": "52fe43b8c3a36847f806a6b7",
+        "department": "Art",
+        "job": "Set Decoration Buyer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35976,
+        "known_for_department": "Camera",
+        "name": "Edward J. Pei",
+        "original_name": "Edward J. Pei",
+        "popularity": 0.3948,
+        "profile_path": null,
+        "credit_id": "52fe43b8c3a36847f806a699",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35975,
+        "known_for_department": "Production",
+        "name": "Jamie Tarses",
+        "original_name": "Jamie Tarses",
+        "popularity": 0.5,
+        "profile_path": null,
+        "credit_id": "52fe43b8c3a36847f806a687",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 35979,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Juanette Visser",
+        "original_name": "Juanette Visser",
+        "popularity": 0.2605,
+        "profile_path": null,
+        "credit_id": "52fe43b8c3a36847f806a6bd",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35973,
+        "known_for_department": "Production",
+        "name": "Vlokkie Gordon",
+        "original_name": "Vlokkie Gordon",
+        "popularity": 0.4426,
+        "profile_path": null,
+        "credit_id": "52fe43b8c3a36847f806a67b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 561,
+        "known_for_department": "Production",
+        "name": "John Papsidera",
+        "original_name": "John Papsidera",
+        "popularity": 1.5397,
+        "profile_path": "/egwEVyrAmdWhtuLqE5fcThZf41E.jpg",
+        "credit_id": "52fe43b8c3a36847f806a6a5",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35971,
+        "known_for_department": "Directing",
+        "name": "Michael Katleman",
+        "original_name": "Michael Katleman",
+        "popularity": 0.7992,
+        "profile_path": "/p6AJsa5dT8GIGVu068yDvIiQD7T.jpg",
+        "credit_id": "52fe43b8c3a36847f806a663",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35972,
+        "known_for_department": "Production",
+        "name": "Mitch Engel",
+        "original_name": "Mitch Engel",
+        "popularity": 0.3914,
+        "profile_path": null,
+        "credit_id": "52fe43b8c3a36847f806a675",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7215,
+        "known_for_department": "Writing",
+        "name": "Michael Ferris",
+        "original_name": "Michael Ferris",
+        "popularity": 0.9044,
+        "profile_path": null,
+        "credit_id": "52fe43b8c3a36847f806a66f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19692,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Diana Cilliers",
+        "original_name": "Diana Cilliers",
+        "popularity": 0.5214,
+        "profile_path": null,
+        "credit_id": "52fe43b8c3a36847f806a6ef",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21962,
+        "known_for_department": "Sound",
+        "name": "John Frizzell",
+        "original_name": "John Frizzell",
+        "popularity": 0.5145,
+        "profile_path": "/8YqTqztc12pkckj0VF2BSUXUF6E.jpg",
+        "credit_id": "52fe43b8c3a36847f806a693",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 35977,
+        "known_for_department": "Editing",
+        "name": "Gabriel Wrye",
+        "original_name": "Gabriel Wrye",
+        "popularity": 0.4661,
+        "profile_path": null,
+        "credit_id": "52fe43b8c3a36847f806a69f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35974,
+        "known_for_department": "Production",
+        "name": "Gavin Polone",
+        "original_name": "Gavin Polone",
+        "popularity": 0.8837,
+        "profile_path": "/eNxVSUj9ZNCLjHpxb4GIPTFz1zk.jpg",
+        "credit_id": "52fe43b8c3a36847f806a681",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2570214,
+        "known_for_department": "Camera",
+        "name": "Keith Smith",
+        "original_name": "Keith Smith",
+        "popularity": 0.6121,
+        "profile_path": null,
+        "credit_id": "684eda08f33177836c5c7dc7",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1327027,
+        "known_for_department": "Visual Effects",
+        "name": "Vincent Cirelli",
+        "original_name": "Vincent Cirelli",
+        "popularity": 0.6118,
+        "profile_path": null,
+        "credit_id": "68c7f5e3c6e31f3282e30273",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      }
+    ]
+  }
+}

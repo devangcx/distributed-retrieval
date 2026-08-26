@@ -1,0 +1,186 @@
+{
+  "adult": false,
+  "backdrop_path": "/5ZfCyyxqkaoVYtnuNMtnNRWlPhP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 14214,
+  "imdb_id": "tt1191138",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Thoda Pyaar Thoda Magic",
+  "overview": "One day they pray to God for help and he does help them. He sends his most mischievous, childlike, lovable angel to the rescue, with a mission to bring Ranbeer and the kids together. Geeta (Rani Mukerji) comes bicycling down a rainbow… and bursts into Ranbeer's house as the selfproclaimed new nanny. And then starts the roller coaster ride of fun, emotions, magic and love.",
+  "popularity": 1.1735,
+  "poster_path": "/sILNLbwCDFHsQhCzLfxU89R1dni.jpg",
+  "production_companies": [
+    {
+      "id": 1569,
+      "logo_path": "/lvzN86o3jrP44DIvn4SMBLOl9PF.png",
+      "name": "Yash Raj Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2008-06-27",
+  "revenue": 0,
+  "runtime": 145,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Thoda Pyaar Thoda Magic",
+  "video": false,
+  "vote_average": 5.472,
+  "vote_count": 53,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35776,
+        "known_for_department": "Acting",
+        "name": "Rani Mukerji",
+        "original_name": "रानी मुखर्जी",
+        "popularity": 2.0168,
+        "profile_path": "/6bm1lhrEgGFpOLBjvcOi3aoQmtg.jpg",
+        "cast_id": 1,
+        "character": "Geeta",
+        "credit_id": "52fe45d99251416c750649d1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35747,
+        "known_for_department": "Acting",
+        "name": "Saif Ali Khan",
+        "original_name": "सैफ़ अली ख़ान",
+        "popularity": 2.0849,
+        "profile_path": "/85uKiFDEcIqzLh0GwqYvecXw4uA.jpg",
+        "cast_id": 2,
+        "character": "Ranbeer Talwar",
+        "credit_id": "52fe45d99251416c750649d5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 76450,
+        "known_for_department": "Acting",
+        "name": "Ameesha Patel",
+        "original_name": "Ameesha Patel",
+        "popularity": 1.1862,
+        "profile_path": "/d6FmmnSylIxvmJezAJLkPpJ9z1t.jpg",
+        "cast_id": 3,
+        "character": "Mallaika",
+        "credit_id": "52fe45d99251416c750649d9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35791,
+        "known_for_department": "Acting",
+        "name": "Rishi Kapoor",
+        "original_name": "Rishi Kapoor",
+        "popularity": 1.1195,
+        "profile_path": "/yQOKkmQaksa3hOi72MbPnrqz77k.jpg",
+        "cast_id": 7,
+        "character": "god",
+        "credit_id": "5338e9d3c3a3680e70004dc3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1343041,
+        "known_for_department": "Acting",
+        "name": "Shriya Sharma",
+        "original_name": "Shriya Sharma",
+        "popularity": 0.5643,
+        "profile_path": "/ltQgJjBI9eEMI90jLo7hsoJkDVw.jpg",
+        "cast_id": 9,
+        "character": "Aditi Walia",
+        "credit_id": "5b1bfdc3c3a368490e0230c6",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35784,
+        "known_for_department": "Directing",
+        "name": "Kunal Kohli",
+        "original_name": "Kunal Kohli",
+        "popularity": 0.654,
+        "profile_path": "/kFnrHabWyrESlZZMmBKEV57WX3h.jpg",
+        "credit_id": "52fe45d99251416c750649df",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35784,
+        "known_for_department": "Directing",
+        "name": "Kunal Kohli",
+        "original_name": "Kunal Kohli",
+        "popularity": 0.654,
+        "profile_path": "/kFnrHabWyrESlZZMmBKEV57WX3h.jpg",
+        "credit_id": "52fe45d99251416c750649e5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35771,
+        "known_for_department": "Production",
+        "name": "Aditya Chopra",
+        "original_name": "Aditya Chopra",
+        "popularity": 1.4109,
+        "profile_path": "/eXYKfA6bg12pn9LPrWeRfxYQwcb.jpg",
+        "credit_id": "52fe45da9251416c750649eb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1046688,
+        "known_for_department": "Writing",
+        "name": "Rohena Gera",
+        "original_name": "Rohena Gera",
+        "popularity": 0.5895,
+        "profile_path": "/l4exsat1gHql4Y4TApHJlUw4Wj7.jpg",
+        "credit_id": "5338e9f7c3a3680e96004d12",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  }
+}

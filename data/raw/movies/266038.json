@@ -1,0 +1,423 @@
+{
+  "adult": false,
+  "backdrop_path": "/d06KfI9oicBeL1fYK3hxrt6X9H7.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 266038,
+  "imdb_id": "tt3019620",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "तितली",
+  "overview": "A young man in Delhi tries to break free from his controlling, criminal brothers.",
+  "popularity": 0.8451,
+  "poster_path": "/mGknAQus2ayOXjVkVA6GJZCnPfH.jpg",
+  "production_companies": [
+    {
+      "id": 1569,
+      "logo_path": "/lvzN86o3jrP44DIvn4SMBLOl9PF.png",
+      "name": "Yash Raj Films",
+      "origin_country": "IN"
+    },
+    {
+      "id": 90793,
+      "logo_path": null,
+      "name": "Dibakar Banerjee Productions",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2015-05-06",
+  "revenue": 0,
+  "runtime": 112,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Not every family is a family.",
+  "title": "Titli",
+  "video": false,
+  "vote_average": 6.655,
+  "vote_count": 42,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1312081,
+        "known_for_department": "Acting",
+        "name": "Shashank Arora",
+        "original_name": "Shashank Arora",
+        "popularity": 0.8363,
+        "profile_path": "/q5S5TlJabJz13E8CK6nZzkv6kOu.jpg",
+        "cast_id": 2,
+        "character": "Titli",
+        "credit_id": "535642f80e0a26286f002ee5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1312082,
+        "known_for_department": "Acting",
+        "name": "Shivani Raghuvanshi",
+        "original_name": "Shivani Raghuvanshi",
+        "popularity": 0.5897,
+        "profile_path": "/6FPUkeFFJ9IlnKJXy0RTj3IOQ1P.jpg",
+        "cast_id": 3,
+        "character": "Neelu",
+        "credit_id": "535643030e0a262876002e78",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85451,
+        "known_for_department": "Acting",
+        "name": "Ranvir Shorey",
+        "original_name": "Ranvir Shorey",
+        "popularity": 1.0165,
+        "profile_path": "/bkJYFpPmBB77GwlbjCIgYE8qVrO.jpg",
+        "cast_id": 1,
+        "character": "Vikram",
+        "credit_id": "535642e00e0a262876002e6f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117729,
+        "known_for_department": "Acting",
+        "name": "Amit Sial",
+        "original_name": "Amit Sial",
+        "popularity": 1.0617,
+        "profile_path": "/mNdS2NKi1HS7wiGvjjoGSQY7dNU.jpg",
+        "cast_id": 7,
+        "character": "Pradeep",
+        "credit_id": "5356437b0e0a262861002df9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1312086,
+        "known_for_department": "Acting",
+        "name": "Lalit Behl",
+        "original_name": "Lalit Behl",
+        "popularity": 0.3616,
+        "profile_path": "/7UWt3yE2f4P1dtcVb0mj1XfzEy8.jpg",
+        "cast_id": 6,
+        "character": "Daddy",
+        "credit_id": "535643300e0a26286f002eeb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1312085,
+        "known_for_department": "Production",
+        "name": "Prashant Singh",
+        "original_name": "Prashant Singh",
+        "popularity": 0.5779,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Prince",
+        "credit_id": "535643250e0a262861002dee",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5143621,
+        "known_for_department": "Acting",
+        "name": "Sarita Sharma",
+        "original_name": "Sarita Sharma",
+        "popularity": 0.2253,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Sangeeta",
+        "credit_id": "676ebf222c9097b266616458",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1543145,
+        "known_for_department": "Acting",
+        "name": "Sumit Gulati",
+        "original_name": "Sumit Gulati",
+        "popularity": 0.8128,
+        "profile_path": "/ynR8l2MUHwVsrZ9IgVKKDJg5HWg.jpg",
+        "cast_id": 15,
+        "character": "Pintu",
+        "credit_id": "676ebf2d4ca2fbbfca616f59",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5143623,
+        "known_for_department": "Acting",
+        "name": "Eknoor Chawla",
+        "original_name": "Eknoor Chawla",
+        "popularity": 0.2227,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "676ebf421efc2434cf12b3c4",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4669494,
+        "known_for_department": "Acting",
+        "name": "Sajjad Hussain",
+        "original_name": "Sajjad Hussain",
+        "popularity": 0.2588,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "676ebf4f1efc2434cf12b3c7",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2799199,
+        "known_for_department": "Acting",
+        "name": "Devendra Chauhan",
+        "original_name": "Devendra Chauhan",
+        "popularity": 0.2751,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "676ebf5de2976ba75b92b986",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1312080,
+        "known_for_department": "Writing",
+        "name": "Kanu Behl",
+        "original_name": "Kanu Behl",
+        "popularity": 0.7335,
+        "profile_path": "/kVq3lpWbJzWp8EFT3Gi6Jfasbls.jpg",
+        "credit_id": "535643c60e0a262868002e4d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1312092,
+        "known_for_department": "Writing",
+        "name": "Sharat Katariya",
+        "original_name": "Sharat Katariya",
+        "popularity": 0.4893,
+        "profile_path": null,
+        "credit_id": "535643d70e0a26285e002e68",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1312080,
+        "known_for_department": "Writing",
+        "name": "Kanu Behl",
+        "original_name": "Kanu Behl",
+        "popularity": 0.7335,
+        "profile_path": "/kVq3lpWbJzWp8EFT3Gi6Jfasbls.jpg",
+        "credit_id": "535642b30e0a26286f002edf",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1026842,
+        "known_for_department": "Editing",
+        "name": "Namrata Rao",
+        "original_name": "Namrata Rao",
+        "popularity": 0.4298,
+        "profile_path": null,
+        "credit_id": "65cc288b1365450149a12e2f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1408647,
+        "known_for_department": "Sound",
+        "name": "Karan Gour",
+        "original_name": "Karan Gour",
+        "popularity": 0.3517,
+        "profile_path": null,
+        "credit_id": "65cc28a3e263bb018668719b",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1322646,
+        "known_for_department": "Camera",
+        "name": "Siddharth Diwan",
+        "original_name": "Siddharth Diwan",
+        "popularity": 0.3073,
+        "profile_path": null,
+        "credit_id": "65cc2894ae3843017dc22edc",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 116143,
+        "known_for_department": "Directing",
+        "name": "Dibakar Banerjee",
+        "original_name": "Dibakar Banerjee",
+        "popularity": 0.6356,
+        "profile_path": "/lCUlmcFb9ho5Ppb9OrLbbPj2IOL.jpg",
+        "credit_id": "676c0c91cbe78eb6f17eb8a7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2061195,
+        "known_for_department": "Crew",
+        "name": "Parvez Khan",
+        "original_name": "Parvez Khan",
+        "popularity": 0.3771,
+        "profile_path": null,
+        "credit_id": "676ebf7ee2976ba75b92b98e",
+        "department": "Directing",
+        "job": "Action Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1124934,
+        "known_for_department": "Production",
+        "name": "Guneet Monga",
+        "original_name": "Guneet Monga",
+        "popularity": 0.5005,
+        "profile_path": "/AkYxwPiaOOD6GvKTMEAyKfpjkUU.jpg",
+        "credit_id": "676ebf9c4ca2fbbfca616f8d",
+        "department": "Production",
+        "job": "Consulting Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2112824,
+        "known_for_department": "Editing",
+        "name": "Jayadev Tiruveaipati",
+        "original_name": "Jayadev Tiruveaipati",
+        "popularity": 0.4001,
+        "profile_path": null,
+        "credit_id": "676ebfbfe2976ba75b92b99f",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1381703,
+        "known_for_department": "Sound",
+        "name": "Ajay Kumar P. B.",
+        "original_name": "Ajay Kumar P. B.",
+        "popularity": 0.4153,
+        "profile_path": null,
+        "credit_id": "676ebfdce2976ba75b92b9a7",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1556252,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Serina Tixeira",
+        "original_name": "Serina Tixeira",
+        "popularity": 0.4272,
+        "profile_path": "/zybEUa7OBYFS1bTJJK4mKQ1taqM.jpg",
+        "credit_id": "676ec018f9454eeb1d92a41d",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1794706,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Fabeha Khan",
+        "original_name": "Fabeha Khan",
+        "popularity": 0.472,
+        "profile_path": null,
+        "credit_id": "676ec02e3dff0de99b6175a1",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1922464,
+        "known_for_department": "Sound",
+        "name": "Pritam Das",
+        "original_name": "Pritam Das",
+        "popularity": 0.3082,
+        "profile_path": null,
+        "credit_id": "676ec055aa8f3159d612b6e1",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2045869,
+        "known_for_department": "Production",
+        "name": "Smriti Jain",
+        "original_name": "Smriti Jain",
+        "popularity": 0.4847,
+        "profile_path": null,
+        "credit_id": "676ec0803dff0de99b617626",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

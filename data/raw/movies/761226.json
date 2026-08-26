@@ -1,0 +1,157 @@
+{
+  "adult": false,
+  "backdrop_path": "/u6IgBn8OWhVAhqsVMK1dMus25Nv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 761226,
+  "imdb_id": "tt13381376",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Welcome Home",
+  "overview": "Welcome Home is being touted as a psychological drama with lots of thrills. The movie follows a pregnant woman living in a house. She is visited by a few other ladies presumably some officials and ask her about her lifestyle.",
+  "popularity": 1.2228,
+  "poster_path": "/bwYxdxIc3jUbivBB425MfhkBzw7.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2020-11-06",
+  "revenue": 0,
+  "runtime": 125,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "But only if you're not faint-hearted",
+  "title": "Welcome Home",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 28,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2294402,
+        "known_for_department": "Acting",
+        "name": "Kashmira Irani",
+        "original_name": "Kashmira Irani",
+        "popularity": 0.6738,
+        "profile_path": "/oz6dC9WVK2fzvQFvxaekcSQnpCW.jpg",
+        "cast_id": 1,
+        "character": "Anuja Rao",
+        "credit_id": "5fa943856a300b003ef5cb64",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2849436,
+        "known_for_department": "Acting",
+        "name": "Swarda Thigle",
+        "original_name": "Swarda Thigle",
+        "popularity": 0.4633,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Neha Kewle",
+        "credit_id": "5fa94395ab6849004069ed7d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2138460,
+        "known_for_department": "Acting",
+        "name": "Boloram Das",
+        "original_name": "Boloram Das",
+        "popularity": 0.4215,
+        "profile_path": "/ax9VuLszxXYGGYU5yo9G3FyCc6u.jpg",
+        "cast_id": 4,
+        "character": "Bhola",
+        "credit_id": "5fa943d121621d003dfb067a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2849438,
+        "known_for_department": "Acting",
+        "name": "Tina Bhatia",
+        "original_name": "Tina Bhatia",
+        "popularity": 0.393,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Prerna",
+        "credit_id": "5fa943dd21621d0040fb33bc",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1724114,
+        "known_for_department": "Acting",
+        "name": "Shashi Bhushan",
+        "original_name": "Shashi Bhushan",
+        "popularity": 0.6795,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Ghanshyam",
+        "credit_id": "619a04f39603310062d474ee",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2849439,
+        "known_for_department": "Directing",
+        "name": "Pushkar Sunil Mahabal",
+        "original_name": "Pushkar Mahabal",
+        "popularity": 0.444,
+        "profile_path": null,
+        "credit_id": "5fa943f094d8a8003fe14a62",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2849440,
+        "known_for_department": "Writing",
+        "name": "Ankita Narang",
+        "original_name": "Ankita Narang",
+        "popularity": 0.4061,
+        "profile_path": null,
+        "credit_id": "5fa943fd5346610041eb0463",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

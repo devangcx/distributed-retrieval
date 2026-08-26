@@ -1,0 +1,401 @@
+{
+  "adult": false,
+  "backdrop_path": "/eSjyfYgT9GOoeTEj20ByCgj84Ms.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 30718,
+  "imdb_id": "tt0113617",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Last of the Dogmen",
+  "overview": "A Montana bounty hunter is sent into the wilderness to track three escaped prisoners. Instead he sees something that puzzles him. Later with a female Native Indian history professor, he returns to find some answers.",
+  "popularity": 2.6673,
+  "poster_path": "/7GkP9w87TAFSXLzJdqxTt0ymbJE.jpg",
+  "production_companies": [
+    {
+      "id": 275,
+      "logo_path": "/oLnOYtAjF0z9CrqJqWptFkhHOQG.png",
+      "name": "Carolco Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 256631,
+      "logo_path": null,
+      "name": "Joel B. Michaels Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1995-09-08",
+  "revenue": 0,
+  "runtime": 118,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A journey of the heart. The adventure of their lives.",
+  "title": "Last of the Dogmen",
+  "video": false,
+  "vote_average": 6.751,
+  "vote_count": 106,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13022,
+        "known_for_department": "Acting",
+        "name": "Tom Berenger",
+        "original_name": "Tom Berenger",
+        "popularity": 3.0968,
+        "profile_path": "/zLxzAdAfu7y02yEx29JSLDgXJZ4.jpg",
+        "cast_id": 1,
+        "character": "Lewis Gates",
+        "credit_id": "52fe44359251416c910089d7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10767,
+        "known_for_department": "Acting",
+        "name": "Barbara Hershey",
+        "original_name": "Barbara Hershey",
+        "popularity": 3.0892,
+        "profile_path": "/6swwfge3HlvyBVRSNwroFtMcgNB.jpg",
+        "cast_id": 2,
+        "character": "Prof. Lillian Diane Sloan",
+        "credit_id": "52fe44359251416c910089db",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2115,
+        "known_for_department": "Acting",
+        "name": "Kurtwood Smith",
+        "original_name": "Kurtwood Smith",
+        "popularity": 2.417,
+        "profile_path": "/7dqsk4NYbNZNnmppv2zPuf1hKBn.jpg",
+        "cast_id": 3,
+        "character": "Sheriff Deegan",
+        "credit_id": "52fe44359251416c910089df",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4024,
+        "known_for_department": "Acting",
+        "name": "Steve Reevis",
+        "original_name": "Steve Reevis",
+        "popularity": 1.2102,
+        "profile_path": "/3rwvjFw0NuyvkCeoXeDRH6cIWYH.jpg",
+        "cast_id": 6,
+        "character": "Yellow Wolf",
+        "credit_id": "546e33359251415fee000077",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5894,
+        "known_for_department": "Acting",
+        "name": "Andrew Miller",
+        "original_name": "Andrew Miller",
+        "popularity": 0.7867,
+        "profile_path": "/48Bb9l5CIP0ccQYFDm571ceS7Iq.jpg",
+        "cast_id": 7,
+        "character": "Briggs",
+        "credit_id": "546e33429251415ff600006b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44178,
+        "known_for_department": "Acting",
+        "name": "Gregory Scott Cummins",
+        "original_name": "Gregory Scott Cummins",
+        "popularity": 1.538,
+        "profile_path": "/jU0FkHNoGP92vEIJqYrH2beKUoo.jpg",
+        "cast_id": 8,
+        "character": "Sears",
+        "credit_id": "546e33509251416003000059",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36927,
+        "known_for_department": "Acting",
+        "name": "Graham Jarvis",
+        "original_name": "Graham Jarvis",
+        "popularity": 0.9952,
+        "profile_path": "/bVwjPeo7mAvzqCulFE4Yhx6NYsa.jpg",
+        "cast_id": 10,
+        "character": "Pharmacist",
+        "credit_id": "5aee2eb60e0a26103a0015b5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 534,
+        "known_for_department": "Acting",
+        "name": "Mark Boone Junior",
+        "original_name": "Mark Boone Junior",
+        "popularity": 2.0574,
+        "profile_path": "/zcYYnZNxOfMOLq7zL0hJheoVM2k.jpg",
+        "cast_id": 9,
+        "character": "Tattoo",
+        "credit_id": "546e335ec3a3684536000092",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11065,
+        "known_for_department": "Acting",
+        "name": "Wilford Brimley",
+        "original_name": "Wilford Brimley",
+        "popularity": 1.8779,
+        "profile_path": "/tB0DdWX6FeNB3tjffJIaC0EOLBB.jpg",
+        "cast_id": 21,
+        "character": "Narrator (uncredited)",
+        "credit_id": "5f26f9f47c6de300341d5fac",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 27125,
+        "known_for_department": "Acting",
+        "name": "Molly Parker",
+        "original_name": "Molly Parker",
+        "popularity": 3.8806,
+        "profile_path": "/yxDfAinBmVkx8HHzRlJz4KvSnf8.jpg",
+        "cast_id": 22,
+        "character": "Nurse",
+        "credit_id": "64e1bf2d2495ab013a08c1a7",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86369,
+        "known_for_department": "Acting",
+        "name": "Parley Baer",
+        "original_name": "Parley Baer",
+        "popularity": 1.4424,
+        "profile_path": "/a6b9pONRmi03ggBpHpevyGokxgJ.jpg",
+        "cast_id": 24,
+        "character": "Mr. Hollis",
+        "credit_id": "68b6406f0ae3bba9ce54ed82",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61950,
+        "known_for_department": "Writing",
+        "name": "Tab Murphy",
+        "original_name": "Tab Murphy",
+        "popularity": 0.7659,
+        "profile_path": "/ifwNspazW8Xq2wjkSnD2uhNrGXu.jpg",
+        "credit_id": "52fe44359251416c910089e5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61950,
+        "known_for_department": "Writing",
+        "name": "Tab Murphy",
+        "original_name": "Tab Murphy",
+        "popularity": 0.7659,
+        "profile_path": "/ifwNspazW8Xq2wjkSnD2uhNrGXu.jpg",
+        "credit_id": "52fe44359251416c910089eb",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 16576,
+        "known_for_department": "Crew",
+        "name": "Simone Boisseree",
+        "original_name": "Simone Boisseree",
+        "popularity": 0.6286,
+        "profile_path": null,
+        "credit_id": "652c84a01f3e6000ac4eea82",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2031,
+        "known_for_department": "Production",
+        "name": "Amanda Mackey",
+        "original_name": "Amanda Mackey",
+        "popularity": 0.5251,
+        "profile_path": null,
+        "credit_id": "5aee2fc7c3a368077d0021c5",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2532,
+        "known_for_department": "Production",
+        "name": "Cathy Sandrich Gelfond",
+        "original_name": "Cathy Sandrich Gelfond",
+        "popularity": 0.7018,
+        "profile_path": null,
+        "credit_id": "5aee2fdf925141199e0017c8",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 7850,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Elsa Zamparelli",
+        "original_name": "Elsa Zamparelli",
+        "popularity": 0.4286,
+        "profile_path": null,
+        "credit_id": "5aee2ff6c3a3680786001717",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6489,
+        "known_for_department": "Sound",
+        "name": "David Arnold",
+        "original_name": "David Arnold",
+        "popularity": 0.7729,
+        "profile_path": "/uMpcUexKclVxIex8aXXXOfmzVbO.jpg",
+        "credit_id": "5aee30170e0a2610320015b9",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1918,
+        "known_for_department": "Editing",
+        "name": "Richard Halsey",
+        "original_name": "Richard Halsey",
+        "popularity": 0.671,
+        "profile_path": null,
+        "credit_id": "5aee30300e0a261026001782",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29651,
+        "known_for_department": "Art",
+        "name": "Trevor Williams",
+        "original_name": "Trevor Williams",
+        "popularity": 0.483,
+        "profile_path": null,
+        "credit_id": "5aee3058925141195e001a4f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8677,
+        "known_for_department": "Camera",
+        "name": "Karl Walter Lindenlaub",
+        "original_name": "Karl Walter Lindenlaub",
+        "popularity": 0.5629,
+        "profile_path": "/6Gglg48c3INig0G15sRqmoGPRZ2.jpg",
+        "credit_id": "5aee3077925141195400130e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149353,
+        "known_for_department": "Production",
+        "name": "Thomas Hedman",
+        "original_name": "Thomas Hedman",
+        "popularity": 0.3101,
+        "profile_path": null,
+        "credit_id": "5aee309d9251411942001812",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3986,
+        "known_for_department": "Production",
+        "name": "Mario Kassar",
+        "original_name": "Mario Kassar",
+        "popularity": 0.9097,
+        "profile_path": "/39uC1Ou7mqOUSfrpfKV8rPJhRT8.jpg",
+        "credit_id": "5aee30cdc3a36807a400183f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7228,
+        "known_for_department": "Production",
+        "name": "Joel B. Michaels",
+        "original_name": "Joel B. Michaels",
+        "popularity": 0.5701,
+        "profile_path": "/iGfFZvfZvqAKex4GWAWYctUAd7I.jpg",
+        "credit_id": "5aee30efc3a3680780001be6",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

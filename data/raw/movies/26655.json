@@ -1,0 +1,454 @@
+{
+  "adult": false,
+  "backdrop_path": "/2Tppeo0byUyr24Mw8W0P9YY5mSj.jpg",
+  "belongs_to_collection": {
+    "id": 363014,
+    "name": "Like Mike Collection",
+    "poster_path": "/rPs2WqoqpIL0VRPcBGK4MGrrdKT.jpg",
+    "backdrop_path": "/t5izvGShK6rKH97LxIwfoYckdxH.jpg"
+  },
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 26655,
+  "imdb_id": "tt0469937",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Like Mike 2: Streetball",
+  "overview": "Another young boy with 'hoop dreams' finds an old pair of Michael Jordan's sneakers and can suddenly play ball like the greatest player in the world.",
+  "popularity": 2.968,
+  "poster_path": "/fLeu6AQJHzG8sen2pja4qqceoij.jpg",
+  "production_companies": [
+    {
+      "id": 3635,
+      "logo_path": "/vMaKfvdqwq7OlzMEVmTFIIcRFTt.png",
+      "name": "20th Century Fox Home Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 25,
+      "logo_path": "/nM2MfoMqzJQRiSynsDabOtFKetD.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2006-05-15",
+  "revenue": 0,
+  "runtime": 96,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Like Mike 2: Streetball",
+  "video": false,
+  "vote_average": 5.513,
+  "vote_count": 113,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58147,
+        "known_for_department": "Acting",
+        "name": "Jascha Washington",
+        "original_name": "Jascha Washington",
+        "popularity": 1.469,
+        "profile_path": "/mzU3uK5ga1t2YqBB9jzLTBmjuwd.jpg",
+        "cast_id": 1,
+        "character": "Jerome",
+        "credit_id": "52fe4511c3a368484e046a51",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59645,
+        "known_for_department": "Acting",
+        "name": "Kel Mitchell",
+        "original_name": "Kel Mitchell",
+        "popularity": 1.9093,
+        "profile_path": "/LKNYjjNtq5EbntZUKQWUHcTVji.jpg",
+        "cast_id": 2,
+        "character": "Ray",
+        "credit_id": "52fe4511c3a368484e046a55",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87118,
+        "known_for_department": "Acting",
+        "name": "Michael Beach",
+        "original_name": "Michael Beach",
+        "popularity": 3.1508,
+        "profile_path": "/7gCBCpK2OSzuUWk5iTZds9NjqkF.jpg",
+        "cast_id": 3,
+        "character": "Senior",
+        "credit_id": "52fe4511c3a368484e046a59",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63992,
+        "known_for_department": "Acting",
+        "name": "Brett Kelly",
+        "original_name": "Brett Kelly",
+        "popularity": 1.6034,
+        "profile_path": "/kHPBsKWF4Cap70LVy41vL5ADyLW.jpg",
+        "cast_id": 4,
+        "character": "Rodney",
+        "credit_id": "52fe4511c3a368484e046a5d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 156109,
+        "known_for_department": "Acting",
+        "name": "Micah Williams",
+        "original_name": "Micah Williams",
+        "popularity": 0.7906,
+        "profile_path": "/zuFOIqTyhcuMuAc3Q11jHH25HDy.jpg",
+        "cast_id": 5,
+        "character": "Nathan",
+        "credit_id": "52fe4511c3a368484e046a61",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2522831,
+        "known_for_department": "Acting",
+        "name": "Clyde Drexler",
+        "original_name": "Clyde Drexler",
+        "popularity": 0.5678,
+        "profile_path": "/qbucTQfKbFvZqB0KUrb4G4sErel.jpg",
+        "cast_id": 10,
+        "character": "KOTC Announcer",
+        "credit_id": "5e8e2d2301e4d1001c04254e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27138,
+        "known_for_department": "Acting",
+        "name": "Doug Abrahams",
+        "original_name": "Doug Abrahams",
+        "popularity": 0.9018,
+        "profile_path": "/u4M8YZGbZdJfqTttOGNDiVRa0MP.jpg",
+        "cast_id": 11,
+        "character": "Arena Ref",
+        "credit_id": "5ecc7a0f19690c001d6ff9ee",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31515,
+        "known_for_department": "Acting",
+        "name": "Mark Cuban",
+        "original_name": "Mark Cuban",
+        "popularity": 1.3393,
+        "profile_path": "/iK8LVp8R9Pf2MnYWBP6c0HKPf2D.jpg",
+        "cast_id": 25,
+        "character": "Drop Squad Coach",
+        "credit_id": "5fdefad7f706de003b802d05",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44150,
+        "known_for_department": "Acting",
+        "name": "Blu Mankuma",
+        "original_name": "Blu Mankuma",
+        "popularity": 1.8076,
+        "profile_path": "/qtTavjxroUffUwYAS7kItVmlepU.jpg",
+        "cast_id": 26,
+        "character": "Coach Archie",
+        "credit_id": "614402969a3c49008c6329bd",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 74609,
+        "known_for_department": "Acting",
+        "name": "Moneca Delain",
+        "original_name": "Moneca Delain",
+        "popularity": 0.7103,
+        "profile_path": "/tupQQF2Uw1BQDhZznyk1cHmX4Ut.jpg",
+        "cast_id": 27,
+        "character": "Lexi",
+        "credit_id": "65561f4067b61345dbc13fa1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4058391,
+        "known_for_department": "Acting",
+        "name": "Richard David Lecoin",
+        "original_name": "Richard David Lecoin",
+        "popularity": 0.6681,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Basketball Tournament Contestant (uncredited)",
+        "credit_id": "69a5a327432f642060e2be0d",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68040,
+        "known_for_department": "Writing",
+        "name": "Keith Mitchell",
+        "original_name": "Keith Mitchell",
+        "popularity": 0.7987,
+        "profile_path": null,
+        "credit_id": "52fe4511c3a368484e046a6d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 87146,
+        "known_for_department": "Writing",
+        "name": "Allie Dvorin",
+        "original_name": "Allie Dvorin",
+        "popularity": 0.4021,
+        "profile_path": null,
+        "credit_id": "52fe4511c3a368484e046a73",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88129,
+        "known_for_department": "Writing",
+        "name": "Michael Elliot",
+        "original_name": "Michael Elliot",
+        "popularity": 0.6144,
+        "profile_path": "/hEP61DCArlg0KneoD7NK7VaHgqO.jpg",
+        "credit_id": "52fe4511c3a368484e046a79",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 27157,
+        "known_for_department": "Art",
+        "name": "Eric Norlin",
+        "original_name": "Eric Norlin",
+        "popularity": 0.4549,
+        "profile_path": null,
+        "credit_id": "5f7697a81f748b003521ca2f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9769,
+        "known_for_department": "Sound",
+        "name": "Stanley Clarke",
+        "original_name": "Stanley Clarke",
+        "popularity": 0.4661,
+        "profile_path": "/91s3UtBkTwecJdueI7FliW368BO.jpg",
+        "credit_id": "5f769771f8e982003a6dac07",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60587,
+        "known_for_department": "Production",
+        "name": "David Bixler",
+        "original_name": "David Bixler",
+        "popularity": 0.4187,
+        "profile_path": null,
+        "credit_id": "5f769780f8e982003a6dac0d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60282,
+        "known_for_department": "Production",
+        "name": "Sean Cossey",
+        "original_name": "Sean Cossey",
+        "popularity": 0.6234,
+        "profile_path": null,
+        "credit_id": "5f7697cf7b7b4d00376873f1",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30606,
+        "known_for_department": "Editing",
+        "name": "Dennis M. Hill",
+        "original_name": "Dennis M. Hill",
+        "popularity": 0.414,
+        "profile_path": null,
+        "credit_id": "5f76979f21621b00343136f5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88129,
+        "known_for_department": "Writing",
+        "name": "Michael Elliot",
+        "original_name": "Michael Elliot",
+        "popularity": 0.6144,
+        "profile_path": "/hEP61DCArlg0KneoD7NK7VaHgqO.jpg",
+        "credit_id": "5f76979621621b00362ed39c",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34887,
+        "known_for_department": "Art",
+        "name": "Geoff Wallace",
+        "original_name": "Geoff Wallace",
+        "popularity": 0.4724,
+        "profile_path": null,
+        "credit_id": "5f7697b0156cc70036525726",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1318444,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Maria Livingstone",
+        "original_name": "Maria Livingstone",
+        "popularity": 0.3904,
+        "profile_path": null,
+        "credit_id": "5f7697bf532acb003874a20e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52081,
+        "known_for_department": "Camera",
+        "name": "Albert J. Dunk",
+        "original_name": "Albert J. Dunk",
+        "popularity": 0.5425,
+        "profile_path": null,
+        "credit_id": "5f769779d4d509003405c236",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1339977,
+        "known_for_department": "Art",
+        "name": "Kate Marshall",
+        "original_name": "Kate Marshall",
+        "popularity": 0.6043,
+        "profile_path": null,
+        "credit_id": "5f7697b7944a570034c5b6f4",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 66493,
+        "known_for_department": "Production",
+        "name": "Sunday Boling",
+        "original_name": "Sunday Boling",
+        "popularity": 0.5621,
+        "profile_path": "/zmrYUz5aauym1QQdnapHRITyoGh.jpg",
+        "credit_id": "5f7697c8532acb0039745d79",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 53899,
+        "known_for_department": "Production",
+        "name": "Meg Morman",
+        "original_name": "Meg Morman",
+        "popularity": 0.5943,
+        "profile_path": null,
+        "credit_id": "5f7697d67b7b4d003868d6b8",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 60588,
+        "known_for_department": "Production",
+        "name": "Vicki Sotheran",
+        "original_name": "Vicki Sotheran",
+        "popularity": 0.4991,
+        "profile_path": null,
+        "credit_id": "5f76978a7b7b4d003868d5f2",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2459844,
+        "known_for_department": "Directing",
+        "name": "David Nelson",
+        "original_name": "David Nelson",
+        "popularity": 0.4335,
+        "profile_path": null,
+        "credit_id": "685ee5852bcbb0006c3035da",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

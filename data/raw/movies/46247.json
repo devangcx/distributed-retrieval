@@ -1,0 +1,439 @@
+{
+  "adult": false,
+  "backdrop_path": "/1DEnEiUhpRDh5bB6e3PcL8ySDUg.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 46247,
+  "imdb_id": "tt0902999",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "No Time for Nuts",
+  "overview": "Scrat comes across a time machine and is transported to various times all in pursuit of his beloved acorn.",
+  "popularity": 2.5668,
+  "poster_path": "/kz9FehcBC89SDbg4XU2kWv6MZE.jpg",
+  "production_companies": [
+    {
+      "id": 9383,
+      "logo_path": "/ppeMh4iZJQUMm1nAjRALeNhWDfU.png",
+      "name": "Blue Sky Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 11749,
+      "logo_path": "/5AzTeZkSCFhiGZ86g2nz8SAHtgy.png",
+      "name": "20th Century Fox Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2006-10-23",
+  "revenue": 0,
+  "runtime": 7,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The acorn of fate.",
+  "title": "No Time for Nuts",
+  "video": false,
+  "vote_average": 7.4,
+  "vote_count": 217,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5713,
+        "known_for_department": "Acting",
+        "name": "Chris Wedge",
+        "original_name": "Chris Wedge",
+        "popularity": 1.5794,
+        "profile_path": "/jsROWtAPougLiYZeCelUpmSGFFX.jpg",
+        "cast_id": 1,
+        "character": "Scrat (voice)",
+        "credit_id": "52fe46ecc3a36847f8119f37",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2857705,
+        "known_for_department": "Acting",
+        "name": "David Crommett",
+        "original_name": "David Crommett",
+        "popularity": 0.4014,
+        "profile_path": "/yBSVAked7h3dfXhVwKLReexekZX.jpg",
+        "cast_id": 14,
+        "character": "Additional Voices (voice)",
+        "credit_id": "64406574180dea05862ac45b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1352628,
+        "known_for_department": "Acting",
+        "name": "Darin De Paul",
+        "original_name": "Darin De Paul",
+        "popularity": 0.9886,
+        "profile_path": "/vGzewVsLWtXyEU7X3iNdjWEd6y9.jpg",
+        "cast_id": 15,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6440658dc995ee05367c5d79",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1446462,
+        "known_for_department": "Production",
+        "name": "Dann Fink",
+        "original_name": "Dann Fink",
+        "popularity": 0.5653,
+        "profile_path": "/zxH0BcMfZDwdx9IgTYGqh3CigXs.jpg",
+        "cast_id": 16,
+        "character": "Additional Voices (voice)",
+        "credit_id": "64406597d7cd0604e6da8a63",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2015048,
+        "known_for_department": "Acting",
+        "name": "Vanessa Lemonides",
+        "original_name": "Vanessa Lemonides",
+        "popularity": 0.5502,
+        "profile_path": "/73Mg9aBlgzjTgAJFMvb23XAON8d.jpg",
+        "cast_id": 17,
+        "character": "Additional Voices (voice)",
+        "credit_id": "644065a15c32470524e85196",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2991869,
+        "known_for_department": "Directing",
+        "name": "Kristin Reeves",
+        "original_name": "Kristin Reeves",
+        "popularity": 0.3429,
+        "profile_path": "/u3MAoaB9elJnn9EJ7aFngkCDZh6.jpg",
+        "cast_id": 18,
+        "character": "Additional Voices (voice)",
+        "credit_id": "644065af180dea04d12ac46d",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5714,
+        "known_for_department": "Directing",
+        "name": "Carlos Saldanha",
+        "original_name": "Carlos Saldanha",
+        "popularity": 1.2358,
+        "profile_path": "/qNoCPGQkrNX7dvGzPlgONRuOBJY.jpg",
+        "credit_id": "52fe46ecc3a36847f8119f61",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5720,
+        "known_for_department": "Production",
+        "name": "Chris Meledandri",
+        "original_name": "Chris Meledandri",
+        "popularity": 1.1906,
+        "profile_path": "/iRcvLhuIzkUkjCR4C3NKbi2juuv.jpg",
+        "credit_id": "52fe46ecc3a36847f8119f5b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124748,
+        "known_for_department": "Directing",
+        "name": "Chris Renaud",
+        "original_name": "Chris Renaud",
+        "popularity": 1.5688,
+        "profile_path": "/sumBJgBqRkK4XEJ2JYXpad3MTJs.jpg",
+        "credit_id": "52fe46ecc3a36847f8119f3d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 229965,
+        "known_for_department": "Sound",
+        "name": "Christopher Ward",
+        "original_name": "Christopher Ward",
+        "popularity": 0.4747,
+        "profile_path": null,
+        "credit_id": "52fe46ecc3a36847f8119f6d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 229962,
+        "known_for_department": "Directing",
+        "name": "Michael Thurmeier",
+        "original_name": "Michael Thurmeier",
+        "popularity": 1.1465,
+        "profile_path": "/fXi2JKf428XSpJqMa57XoVVsU5F.jpg",
+        "credit_id": "52fe46ecc3a36847f8119f43",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5713,
+        "known_for_department": "Acting",
+        "name": "Chris Wedge",
+        "original_name": "Chris Wedge",
+        "popularity": 1.5794,
+        "profile_path": "/jsROWtAPougLiYZeCelUpmSGFFX.jpg",
+        "credit_id": "52fe46ecc3a36847f8119f67",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40138,
+        "known_for_department": "Editing",
+        "name": "James Palumbo",
+        "original_name": "James Palumbo",
+        "popularity": 0.4856,
+        "profile_path": null,
+        "credit_id": "52fe46ecc3a36847f8119f73",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5718,
+        "known_for_department": "Production",
+        "name": "John Donkin",
+        "original_name": "John Donkin",
+        "popularity": 1.2978,
+        "profile_path": "/rUPHZrY9M6CEf6yDbbR3gQNR8s2.jpg",
+        "credit_id": "52fe46ecc3a36847f8119f4f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5719,
+        "known_for_department": "Production",
+        "name": "Lori Forte",
+        "original_name": "Lori Forte",
+        "popularity": 0.6695,
+        "profile_path": "/3DrfZfrG4JhQOagYOvaNtG25D48.jpg",
+        "credit_id": "52fe46ecc3a36847f8119f55",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2004274,
+        "known_for_department": "Visual Effects",
+        "name": "Paul Downs",
+        "original_name": "Paul Downs",
+        "popularity": 0.3592,
+        "profile_path": "/qDOweExoYM9Y1De25oLz7Lc8AE4.jpg",
+        "credit_id": "60d01291c613ce0074fc7c45",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1208001,
+        "known_for_department": "Art",
+        "name": "Michael Knapp",
+        "original_name": "Michael Knapp",
+        "popularity": 0.4848,
+        "profile_path": "/jUt98Zs7JMLxUQ7URqIxiqJFazs.jpg",
+        "credit_id": "697d98e153bd2ac5ff719be0",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1449459,
+        "known_for_department": "Production",
+        "name": "Patrick Worlock",
+        "original_name": "Patrick Worlock",
+        "popularity": 0.636,
+        "profile_path": "/lDYbmyvTi27uKhSf2wxor9OWeA6.jpg",
+        "credit_id": "69a089b5b669e4ec0beff176",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2145438,
+        "known_for_department": "Visual Effects",
+        "name": "Wesley Mandell",
+        "original_name": "Wesley Mandell",
+        "popularity": 0.49,
+        "profile_path": null,
+        "credit_id": "69c8ac3209f9bda17a660cd5",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1389038,
+        "known_for_department": "Sound",
+        "name": "Michael A. Levine",
+        "original_name": "Michael A. Levine",
+        "popularity": 0.4937,
+        "profile_path": "/oIZtTSPW6lDtfOwaPfm4tK5vkRu.jpg",
+        "credit_id": "6a487df3639a5a2bd468aca7",
+        "department": "Sound",
+        "job": "Main Title Theme Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1390523,
+        "known_for_department": "Sound",
+        "name": "Sean Garnhart",
+        "original_name": "Sean Garnhart",
+        "popularity": 0.5465,
+        "profile_path": null,
+        "credit_id": "6a487e10eb802d1138eef860",
+        "department": "Sound",
+        "job": "Sound Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1390523,
+        "known_for_department": "Sound",
+        "name": "Sean Garnhart",
+        "original_name": "Sean Garnhart",
+        "popularity": 0.5465,
+        "profile_path": null,
+        "credit_id": "6a487e175021920c0d134250",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124748,
+        "known_for_department": "Directing",
+        "name": "Chris Renaud",
+        "original_name": "Chris Renaud",
+        "popularity": 1.5688,
+        "profile_path": "/sumBJgBqRkK4XEJ2JYXpad3MTJs.jpg",
+        "credit_id": "6a487e3549742fb4b8134269",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7967,
+        "known_for_department": "Visual Effects",
+        "name": "Peter de Sève",
+        "original_name": "Peter de Sève",
+        "popularity": 0.7114,
+        "profile_path": "/6ZfILIqmNKiI5hR2xUCULzjVOFK.jpg",
+        "credit_id": "6a487e4dcc9953c061280db1",
+        "department": "Visual Effects",
+        "job": "Creature Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1390523,
+        "known_for_department": "Sound",
+        "name": "Sean Garnhart",
+        "original_name": "Sean Garnhart",
+        "popularity": 0.5465,
+        "profile_path": null,
+        "credit_id": "6a487e6bc890abb9e3a62d4d",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92376,
+        "known_for_department": "Sound",
+        "name": "Marko Costanzo",
+        "original_name": "Marko Costanzo",
+        "popularity": 0.5969,
+        "profile_path": null,
+        "credit_id": "6a487e77cc9953c061280db6",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1039164,
+        "known_for_department": "Sound",
+        "name": "George A. Lara",
+        "original_name": "George A. Lara",
+        "popularity": 0.5004,
+        "profile_path": null,
+        "credit_id": "6a487e8a9df8e52c94a61ebb",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "adult": false,
+  "backdrop_path": "/qzY3ZTG6LpkBpeF3E8tLl7UMrKX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 212502,
+  "imdb_id": "tt0354538",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Ek Aur Ek Gyarah: By Hook or by Crook",
+  "overview": "Two petty thieves Tara and Sitara get on the bad side of two wanted criminals, namely Panther and Cobra.",
+  "popularity": 0.9843,
+  "poster_path": "/iVDIqVBiYcxfq81UvRjXS93RwZL.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2003-08-06",
+  "revenue": 0,
+  "runtime": 144,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Ek Aur Ek Gyarah: By Hook or by Crook",
+  "video": false,
+  "vote_average": 5.868,
+  "vote_count": 34,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85881,
+        "known_for_department": "Acting",
+        "name": "Sanjay Dutt",
+        "original_name": "संजय दत्त",
+        "popularity": 2.4825,
+        "profile_path": "/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg",
+        "cast_id": 2,
+        "character": "Sitara",
+        "credit_id": "5b316668c3a368532f007187",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97546,
+        "known_for_department": "Acting",
+        "name": "Govinda",
+        "original_name": "Govinda",
+        "popularity": 1.747,
+        "profile_path": "/jIY8akWgvhgbIgZDd20yIPFDSv8.jpg",
+        "cast_id": 3,
+        "character": "Tara",
+        "credit_id": "5b3166730e0a26400d006792",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 77236,
+        "known_for_department": "Acting",
+        "name": "Amrita Arora",
+        "original_name": "Amrita Arora",
+        "popularity": 0.9603,
+        "profile_path": "/3Fwd8IVlFLmnTUNelos8VG7ffCO.jpg",
+        "cast_id": 4,
+        "character": "Priti Singh",
+        "credit_id": "5b31667e0e0a263ff80066a9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2072364,
+        "known_for_department": "Acting",
+        "name": "Nandini Singh",
+        "original_name": "Nandini Singh",
+        "popularity": 0.4529,
+        "profile_path": "/lgaJQtDLN65SAuJc1WHAlNDLzh4.jpg",
+        "cast_id": 5,
+        "character": "Pinki Singh",
+        "credit_id": "5b3166890e0a264002006bea",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86014,
+        "known_for_department": "Acting",
+        "name": "Jackie Shroff",
+        "original_name": "जय किशन श्राफ",
+        "popularity": 1.2969,
+        "profile_path": "/1UNJypgEyuihUW2avLLVYj76jie.jpg",
+        "cast_id": 6,
+        "character": "Maj. Ram Singh",
+        "credit_id": "5b3166950e0a264014007328",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42208,
+        "known_for_department": "Acting",
+        "name": "Gulshan Grover",
+        "original_name": "Gulshan Grover",
+        "popularity": 1.1555,
+        "profile_path": "/hmGFOgCnYVUpeY1gTc0gx4QUCOF.jpg",
+        "cast_id": 7,
+        "character": "Panther",
+        "credit_id": "5b31669e9251413c820057cc",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85684,
+        "known_for_department": "Acting",
+        "name": "Ashish Vidhyarthi",
+        "original_name": "Ashish Vidhyarthi",
+        "popularity": 1.4173,
+        "profile_path": "/iBUUpfHZIfpC5afHrHwcyGTHKQF.jpg",
+        "cast_id": 8,
+        "character": "Cobra",
+        "credit_id": "5b3166a9c3a368531d006d0f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35756,
+        "known_for_department": "Acting",
+        "name": "Rajpal Yadav",
+        "original_name": "राजपाल यादव",
+        "popularity": 1.388,
+        "profile_path": "/aJJAU9EPiiXRsWDuy60mXE8U6lT.jpg",
+        "cast_id": 9,
+        "character": "Chhotu",
+        "credit_id": "5b3166b50e0a263ff80066ca",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1046486,
+        "known_for_department": "Acting",
+        "name": "Mahesh Anand",
+        "original_name": "Mahesh Anand",
+        "popularity": 0.6742,
+        "profile_path": "/gu7cZrkuglW5IY9pTcRaSCgaTbz.jpg",
+        "cast_id": 10,
+        "character": "Capt. Mahesh",
+        "credit_id": "5ec16d273d3557001ee61c0e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 129731,
+        "known_for_department": "Acting",
+        "name": "Javed Khan",
+        "original_name": "Javed Khan",
+        "popularity": 0.7438,
+        "profile_path": "/dYi2y5kxKRCRty0llXlt2sDO5xb.jpg",
+        "cast_id": 11,
+        "character": "Raju Nepali",
+        "credit_id": "5f055484a35c8e003823083b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150686,
+        "known_for_department": "Acting",
+        "name": "Shiva Rindani",
+        "original_name": "Shiva Rindani",
+        "popularity": 0.6495,
+        "profile_path": "/iDbWfoMxgBnF94gue1ZWdobOmCp.jpg",
+        "cast_id": 12,
+        "character": "(uncredited)",
+        "credit_id": "5f05bd35dbf144003609a06f",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86228,
+        "known_for_department": "Acting",
+        "name": "Tiku Talsania",
+        "original_name": "Tiku Talsania",
+        "popularity": 0.6838,
+        "profile_path": "/pcEzSYDTRrnvA5pcbxhrfGOVTuM.jpg",
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "60411875ac617c006fae6f22",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78248,
+        "known_for_department": "Acting",
+        "name": "Himani Shivpuri",
+        "original_name": "Himani Shivpuri",
+        "popularity": 0.8383,
+        "profile_path": "/iEgl4ME7OfMJ8CVKxpeMiC4Wv5w.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "690cfefbf2c976850b3a82b7",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86230,
+        "known_for_department": "Acting",
+        "name": "Supriya Karnik",
+        "original_name": "Supriya Karnik",
+        "popularity": 0.5878,
+        "profile_path": "/9R2eVBFbuDp0F4ciVlDbhwsC4sQ.jpg",
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "690cff1d3c6c3c652c4c6f77",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119270,
+        "known_for_department": "Acting",
+        "name": "Ajit Vachani",
+        "original_name": "Ajit Vachani",
+        "popularity": 0.6626,
+        "profile_path": "/dWQBPrSUPpn8JClyGBJ2g0V04P8.jpg",
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "690cff2813e44dda0cdd0ee6",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 934092,
+        "known_for_department": "Acting",
+        "name": "Viju Khote",
+        "original_name": "Viju Khote",
+        "popularity": 0.7091,
+        "profile_path": "/fjPPIsJpmdFssi0IcwHNRPmnL5m.jpg",
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "690cff3b965b35bb239aafb4",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86057,
+        "known_for_department": "Acting",
+        "name": "Dinesh Hingoo",
+        "original_name": "Dinesh Hingoo",
+        "popularity": 0.7263,
+        "profile_path": "/6kFqFn1k0Tg6GPKIeatZFA1Tdff.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "690cff4378a31ad1cbdd0e67",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90454,
+        "known_for_department": "Directing",
+        "name": "David Dhawan",
+        "original_name": "David Dhawan",
+        "popularity": 0.8794,
+        "profile_path": "/xLbcV54lqPF2w5NnjPgVjbmPvk5.jpg",
+        "credit_id": "52fe4dafc3a368484e1f6cb3",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

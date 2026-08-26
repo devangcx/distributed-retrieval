@@ -1,0 +1,392 @@
+{
+  "adult": false,
+  "backdrop_path": "/5Lb4r4TFyIm9YoJKKZoavssXqBh.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 468469,
+  "imdb_id": "tt6102396",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Kaalakaandi",
+  "overview": "Unfolding through a course of a night in Mumbai, Kaalakaandi showcases three parallel tracks — a man who discovers he has terminal illness decides to let go of his principles and live a little; a woman involved in a hit-and-run seeks redemption and two goons must decide if they can trust each other.",
+  "popularity": 1.1732,
+  "poster_path": "/osCsDcfTUVcecKwAoQWPYVLSLqv.jpg",
+  "production_companies": [
+    {
+      "id": 98390,
+      "logo_path": null,
+      "name": "Flying Unicorn Entertainment",
+      "origin_country": "IN"
+    },
+    {
+      "id": 78514,
+      "logo_path": null,
+      "name": "Cinestaan Film Company",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2018-01-12",
+  "revenue": 0,
+  "runtime": 112,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Every Action Has a Reaction.",
+  "title": "Kaalakaandi",
+  "video": false,
+  "vote_average": 6.197,
+  "vote_count": 33,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35747,
+        "known_for_department": "Acting",
+        "name": "Saif Ali Khan",
+        "original_name": "सैफ़ अली ख़ान",
+        "popularity": 2.0849,
+        "profile_path": "/85uKiFDEcIqzLh0GwqYvecXw4uA.jpg",
+        "cast_id": 0,
+        "character": "Rileen",
+        "credit_id": "597bce91925141071e0015d6",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1342538,
+        "known_for_department": "Acting",
+        "name": "Akshay Oberoi",
+        "original_name": "Akshay Oberoi",
+        "popularity": 0.6168,
+        "profile_path": "/dsFqDJzSzUiKZpicmj05Iv1YbOs.jpg",
+        "cast_id": 8,
+        "character": "Angad",
+        "credit_id": "5a59857ec3a36867e4003ee1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1071562,
+        "known_for_department": "Acting",
+        "name": "Isha Talwar",
+        "original_name": "Isha Talwar",
+        "popularity": 1.1527,
+        "profile_path": "/dVRrb9aLf6s1XmtIkpSbzuMl0Uv.jpg",
+        "cast_id": 9,
+        "character": "Rakhi",
+        "credit_id": "5a59858ac3a36867e4003ee7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1643582,
+        "known_for_department": "Acting",
+        "name": "Sobhita Dhulipala",
+        "original_name": "शोभिता धूलिपाला",
+        "popularity": 1.8863,
+        "profile_path": "/cV5JtQKtkOyv3SVMhsv0Db7zYGI.jpg",
+        "cast_id": 10,
+        "character": "Tara",
+        "credit_id": "5a598593c3a36867d3003e33",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113690,
+        "known_for_department": "Acting",
+        "name": "Kunaal Roy Kapur",
+        "original_name": "Kunaal Roy Kapur",
+        "popularity": 0.7232,
+        "profile_path": "/l8EbUNJUbfyKuHIQiXWK91FGyea.jpg",
+        "cast_id": 5,
+        "character": "Zubin",
+        "credit_id": "5a2ee971c3a3680b96167006",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85594,
+        "known_for_department": "Acting",
+        "name": "Deepak Dobriyal",
+        "original_name": "Deepak Dobriyal",
+        "popularity": 2.6561,
+        "profile_path": "/cImSPlrxucfiGS3ICvpFD5XSs64.jpg",
+        "cast_id": 11,
+        "character": "Mafia",
+        "credit_id": "5a5985b10e0a267fe0003e4d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6500,
+        "known_for_department": "Acting",
+        "name": "Vijay Raaz",
+        "original_name": "Vijay Raaz",
+        "popularity": 1.2885,
+        "profile_path": "/bLSjiy51UPjVnTYRDmgRUy1VOwD.jpg",
+        "cast_id": 12,
+        "character": "Rahmat",
+        "credit_id": "5a5985c4c3a368680200364d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1430629,
+        "known_for_department": "Acting",
+        "name": "Shivam Patil",
+        "original_name": "Shivam Patil",
+        "popularity": 0.5232,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Jehangir",
+        "credit_id": "5a5985ce9251413f68003cc6",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1671851,
+        "known_for_department": "Acting",
+        "name": "Amanda Rosario",
+        "original_name": "Amanda Rosario",
+        "popularity": 0.1528,
+        "profile_path": "/adrsGCeekpGNyoFAz14yG1aKRv3.jpg",
+        "cast_id": 14,
+        "character": "Selina",
+        "credit_id": "5a5985d8c3a36867e4003f20",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35794,
+        "known_for_department": "Acting",
+        "name": "Shenaz Treasury",
+        "original_name": "Shenaz Treasury",
+        "popularity": 0.5327,
+        "profile_path": "/2wibZIbG3h2ntZt8c59wn30CS0x.jpg",
+        "cast_id": 3,
+        "character": "Ayesha",
+        "credit_id": "5a2ee95b0e0a264cc81749a1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53107,
+        "known_for_department": "Acting",
+        "name": "Asif Basra",
+        "original_name": "Asif Basra",
+        "popularity": 0.8191,
+        "profile_path": "/dHxkTrfEnreC77vRS0SVtaebDQI.jpg",
+        "cast_id": 21,
+        "character": "Raza",
+        "credit_id": "5fad3402d14443003fd24563",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1274570,
+        "known_for_department": "Acting",
+        "name": "Amyra Dastur",
+        "original_name": "Amyra Dastur",
+        "popularity": 1.0068,
+        "profile_path": "/jUXu3sSVTDZYvWFCmICNfTtMvGZ.jpg",
+        "cast_id": 2,
+        "character": "Neha",
+        "credit_id": "5a2ee951c3a3680b8f16796d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 557212,
+        "known_for_department": "Acting",
+        "name": "Neil Bhoopalam",
+        "original_name": "Neil Bhoopalam",
+        "popularity": 0.9884,
+        "profile_path": "/zBSBeppHSFjuO5EmsUq5G2MdvMQ.jpg",
+        "cast_id": 16,
+        "character": "Ustad",
+        "credit_id": "5a5985fac3a36867e4003f39",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1787721,
+        "known_for_department": "Acting",
+        "name": "Angela Krislinzki",
+        "original_name": "Angela Krislinzki",
+        "popularity": 0.9769,
+        "profile_path": "/A6R09oD1rTnKnq0ICj4UZWfg9Wx.jpg",
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "5a5985f19251413f6b003adf",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1147472,
+        "known_for_department": "Writing",
+        "name": "Anvita Dutt",
+        "original_name": "Anvita Dutt",
+        "popularity": 0.5122,
+        "profile_path": "/ayAdNgOEDktAo0Sp8CVZYeUGSEC.jpg",
+        "credit_id": "638f1e25ba131b0085b45a51",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3865885,
+        "known_for_department": "Sound",
+        "name": "Shahbad Karan",
+        "original_name": "Shahbad Karan",
+        "popularity": 0.3527,
+        "profile_path": "/cBPJ5o4rTfe5IMuDbLty8BpXX1k.jpg",
+        "credit_id": "63f0ca00a6725400d7c807a4",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 550674,
+        "known_for_department": "Writing",
+        "name": "Akshat Verma",
+        "original_name": "Akshat Verma",
+        "popularity": 0.3925,
+        "profile_path": null,
+        "credit_id": "597bcec0c3a3681779001452",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1939347,
+        "known_for_department": "Writing",
+        "name": "karthik bera",
+        "original_name": "karthik bera",
+        "popularity": 0.3449,
+        "profile_path": null,
+        "credit_id": "5a2ee9b00e0a264ccd16c6d5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 550674,
+        "known_for_department": "Writing",
+        "name": "Akshat Verma",
+        "original_name": "Akshat Verma",
+        "popularity": 0.3925,
+        "profile_path": null,
+        "credit_id": "5a2ee98fc3a3680b9d157d8e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1010967,
+        "known_for_department": "Editing",
+        "name": "Shan Mohammed",
+        "original_name": "Shan Mohammed",
+        "popularity": 0.4138,
+        "profile_path": null,
+        "credit_id": "5a5986800e0a267fe6003e61",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1785025,
+        "known_for_department": "Sound",
+        "name": "Sameer Uddin",
+        "original_name": "Sameer Uddin",
+        "popularity": 0.386,
+        "profile_path": null,
+        "credit_id": "5a5986540e0a265767000df4",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1785024,
+        "known_for_department": "Sound",
+        "name": "Shashwat Sachdev",
+        "original_name": "Shashwat Sachdev",
+        "popularity": 0.4146,
+        "profile_path": "/otqlmbwKE7fuehNJDQkjjH94mus.jpg",
+        "credit_id": "5a5986669251413f650039a8",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 35840,
+        "known_for_department": "Camera",
+        "name": "Himman Dhamija",
+        "original_name": "Himman Dhamija",
+        "popularity": 0.4082,
+        "profile_path": null,
+        "credit_id": "5a5986759251413f74003bbc",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

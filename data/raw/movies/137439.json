@@ -1,0 +1,430 @@
+{
+  "adult": false,
+  "backdrop_path": "/587yOAuB2hz4sMC5QSlKoggTdxG.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 137439,
+  "imdb_id": "tt0101733",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "दिल है कि मानता नहीं",
+  "overview": "Runaway heiress in search of her beloved falls in love with another man on the way.",
+  "popularity": 1.2645,
+  "poster_path": "/8fFgE7DnHbQZ2t0W6doLxQxYiuH.jpg",
+  "production_companies": [
+    {
+      "id": 3522,
+      "logo_path": "/d3u51JgEP5KwPfxS13ocqvtzZeX.png",
+      "name": "T-Series",
+      "origin_country": "IN"
+    },
+    {
+      "id": 3749,
+      "logo_path": "/54N3BYPtuETnYumu6gjv97dg6H8.png",
+      "name": "Vishesh Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "1991-01-23",
+  "revenue": 0,
+  "runtime": 154,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dil Hai Ke Manta Nahin",
+  "video": false,
+  "vote_average": 6.893,
+  "vote_count": 28,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52763,
+        "known_for_department": "Acting",
+        "name": "Aamir Khan",
+        "original_name": "आमिर ख़ान",
+        "popularity": 3.2484,
+        "profile_path": "/6uiZSwi2kvd1jZ7X7Xz9W9VGuV4.jpg",
+        "cast_id": 1,
+        "character": "Raghu Jetley",
+        "credit_id": "52fe4c31c3a368484e1ac097",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 110146,
+        "known_for_department": "Acting",
+        "name": "Pooja Bhatt",
+        "original_name": "Pooja Bhatt",
+        "popularity": 0.8338,
+        "profile_path": "/y9Tv1hsfjJEFVnK7cauLFuA2pg7.jpg",
+        "cast_id": 2,
+        "character": "Pooja Dharamchand",
+        "credit_id": "52fe4c31c3a368484e1ac09b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6217,
+        "known_for_department": "Acting",
+        "name": "Anupam Kher",
+        "original_name": "Anupam Kher",
+        "popularity": 1.9559,
+        "profile_path": "/kgU5Ap1Kf9RnicB5DMcXEZqed2f.jpg",
+        "cast_id": 4,
+        "character": "Seth Dharamchand",
+        "credit_id": "52fe4c31c3a368484e1ac0a5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 131906,
+        "known_for_department": "Acting",
+        "name": "Sameer Chitre",
+        "original_name": "Sameer Chitre",
+        "popularity": 0.616,
+        "profile_path": "/8E8lv53qjzmLGXW8qG3jy96Hhur.jpg",
+        "cast_id": 5,
+        "character": "Deepak Kumar",
+        "credit_id": "52fe4c31c3a368484e1ac0a9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88437,
+        "known_for_department": "Acting",
+        "name": "Deepak Tijori",
+        "original_name": "Deepak Tijori",
+        "popularity": 1.0585,
+        "profile_path": "/3Vnt2RxkMYrPDuFMhdU2WWeVZqT.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "576fc033c3a36809d600561e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86228,
+        "known_for_department": "Acting",
+        "name": "Tiku Talsania",
+        "original_name": "Tiku Talsania",
+        "popularity": 0.6838,
+        "profile_path": "/pcEzSYDTRrnvA5pcbxhrfGOVTuM.jpg",
+        "cast_id": 25,
+        "character": "Sharmaji",
+        "credit_id": "61d2e01e1b722c5dbb37907d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110200,
+        "known_for_department": "Acting",
+        "name": "Rakesh Bedi",
+        "original_name": "राकेश बेदी",
+        "popularity": 1.4253,
+        "profile_path": "/dWLCiA3rqnaFPn9s0bk2MiSq5Mt.jpg",
+        "cast_id": 26,
+        "character": "Private Detective",
+        "credit_id": "61d2e033d19a3300679df974",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86024,
+        "known_for_department": "Acting",
+        "name": "Veerendra Saxena",
+        "original_name": "Veerendra Saxena",
+        "popularity": 0.7202,
+        "profile_path": "/jTZBvMmUiVpP1OsdRagmrEGnCDU.jpg",
+        "cast_id": 27,
+        "character": "Private Detective",
+        "credit_id": "61d2e04d22f5d7008f73a630",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140683,
+        "known_for_department": "Acting",
+        "name": "Avtar Gill",
+        "original_name": "Avtar Gill",
+        "popularity": 0.7222,
+        "profile_path": "/7KW5VrxETpM3FMMXOxBXu2ppflr.jpg",
+        "cast_id": 28,
+        "character": "Kidnapper",
+        "credit_id": "61d2e0600cd32a0068cafdbb",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86782,
+        "known_for_department": "Writing",
+        "name": "Robin Bhatt",
+        "original_name": "Robin Bhatt",
+        "popularity": 0.9267,
+        "profile_path": null,
+        "credit_id": "52fe4c31c3a368484e1ac0af",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85894,
+        "known_for_department": "Directing",
+        "name": "Mahesh Bhatt",
+        "original_name": "Mahesh Bhatt",
+        "popularity": 0.6913,
+        "profile_path": "/hEvDopJhOKbcEPdwcuz3e4b0w4m.jpg",
+        "credit_id": "53b4c0f5c3a3685eb400056a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1113619,
+        "known_for_department": "Sound",
+        "name": "Kumar Sanu",
+        "original_name": "Kumar Sanu",
+        "popularity": 0.6783,
+        "profile_path": "/sD1EDhA8vXiFPfvgY5JBo9Ym1ip.jpg",
+        "credit_id": "61d2ddca42f19f001d49fd1e",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2063732,
+        "known_for_department": "Sound",
+        "name": "Anuradha Paudwal",
+        "original_name": "Anuradha Paudwal",
+        "popularity": 0.5304,
+        "profile_path": "/p45pOdRfsjufTZN0HF5vv7WHMhY.jpg",
+        "credit_id": "61d2ddd67b7b4d001ce77bf5",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2229462,
+        "known_for_department": "Sound",
+        "name": "Abhijeet Bhattacharya",
+        "original_name": "Abhijeet Bhattacharya",
+        "popularity": 0.5855,
+        "profile_path": "/8sKwvkO1o1NHNO6JHh4SosTCoH8.jpg",
+        "credit_id": "61d2dde74284ea0041525417",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3368175,
+        "known_for_department": "Sound",
+        "name": "Debashish Dasgupta",
+        "original_name": "Debashish Dasgupta",
+        "popularity": 0.3086,
+        "profile_path": null,
+        "credit_id": "61d2de065541fa001aae8bfd",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1669621,
+        "known_for_department": "Production",
+        "name": "Gulshan Kumar",
+        "original_name": "Gulshan Kumar",
+        "popularity": 0.4808,
+        "profile_path": "/mVeAflCvh2duDd1KprjelOrSwiV.jpg",
+        "credit_id": "61d2de2a42f19f0064822fc9",
+        "department": "Sound",
+        "job": "Music Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2286953,
+        "known_for_department": "Writing",
+        "name": "Sameer Anjaan",
+        "original_name": "Sameer Anjaan",
+        "popularity": 0.5181,
+        "profile_path": "/3Q7qdPElOzTzC2Iysgax3E9drLg.jpg",
+        "credit_id": "61d2de5d5541fa004124e527",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2303369,
+        "known_for_department": "Writing",
+        "name": "Faaiz Anwar",
+        "original_name": "Faaiz Anwar",
+        "popularity": 0.3873,
+        "profile_path": null,
+        "credit_id": "61d2de670cd32a001cc9e1d1",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1042247,
+        "known_for_department": "Sound",
+        "name": "Nadeem Akhtar Saifi",
+        "original_name": "Nadeem Akhtar Saifi",
+        "popularity": 0.5356,
+        "profile_path": null,
+        "credit_id": "61d2de7e0cd32a0040cfe12a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 131900,
+        "known_for_department": "Sound",
+        "name": "Shravan Kumar Rathod",
+        "original_name": "Shravan Kumar Rathod",
+        "popularity": 0.3754,
+        "profile_path": null,
+        "credit_id": "61d2de90d19a33001cabf7a4",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86782,
+        "known_for_department": "Writing",
+        "name": "Robin Bhatt",
+        "original_name": "Robin Bhatt",
+        "popularity": 0.9267,
+        "profile_path": null,
+        "credit_id": "61d2df32d19a33008e795688",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86782,
+        "known_for_department": "Writing",
+        "name": "Robin Bhatt",
+        "original_name": "Robin Bhatt",
+        "popularity": 0.9267,
+        "profile_path": null,
+        "credit_id": "61d2df3c42f19f001d49fe7f",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1671765,
+        "known_for_department": "Writing",
+        "name": "Sharad Joshi",
+        "original_name": "Sharad Joshi",
+        "popularity": 0.332,
+        "profile_path": null,
+        "credit_id": "61d2df62d19a3300427304bd",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1669621,
+        "known_for_department": "Production",
+        "name": "Gulshan Kumar",
+        "original_name": "Gulshan Kumar",
+        "popularity": 0.4808,
+        "profile_path": "/mVeAflCvh2duDd1KprjelOrSwiV.jpg",
+        "credit_id": "61d2df7a0cd32a0040cfe2b3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88802,
+        "known_for_department": "Production",
+        "name": "Mukesh Bhatt",
+        "original_name": "Mukesh Bhatt",
+        "popularity": 0.739,
+        "profile_path": "/yHEtla0qYbPGXGXSaYGIlKWERLT.jpg",
+        "credit_id": "61d2df9be194b0006493266e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85397,
+        "known_for_department": "Camera",
+        "name": "Pravin Bhatt",
+        "original_name": "Pravin Bhatt",
+        "popularity": 0.5324,
+        "profile_path": null,
+        "credit_id": "61d2dfb00cd32a0068cafcf4",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 35739,
+        "known_for_department": "Editing",
+        "name": "Sanjay Sankla",
+        "original_name": "Sanjay Sankla",
+        "popularity": 0.5287,
+        "profile_path": null,
+        "credit_id": "61d2dfc01c09fb006e0202af",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "adult": false,
+  "backdrop_path": "/8YSsjDjxRMzpPkMKDpXg4y6AMhF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.playersgoforgold.in/",
+  "id": 83382,
+  "imdb_id": "tt1784589",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Players",
+  "overview": "Two professional robbers, an illusionist, an expert make-up artist, a gadget expert and a hacker come together to steal Romanian gold ingots while it is in transit.",
+  "popularity": 1.331,
+  "poster_path": "/v1EhvuG6PohOoW3qWbBD1rudYGN.jpg",
+  "production_companies": [
+    {
+      "id": 6808,
+      "logo_path": "/xa1Yz7B5eRC2F9oHA6mDn8NE6ci.png",
+      "name": "Viacom18 Studios",
+      "origin_country": "IN"
+    },
+    {
+      "id": 3943,
+      "logo_path": null,
+      "name": "Burmawala Partners",
+      "origin_country": "IN"
+    },
+    {
+      "id": 23319,
+      "logo_path": null,
+      "name": "Globus-film",
+      "origin_country": "RU"
+    },
+    {
+      "id": 15357,
+      "logo_path": "/uvaRT02pY9U8qLH8a9WwwAroDqr.png",
+      "name": "Prime Focus",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    },
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "release_date": "2012-01-06",
+  "revenue": 0,
+  "runtime": 163,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Players",
+  "video": false,
+  "vote_average": 5.015,
+  "vote_count": 67,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35793,
+        "known_for_department": "Acting",
+        "name": "Abhishek Bachchan",
+        "original_name": "अभिषेक बच्चन",
+        "popularity": 1.6264,
+        "profile_path": "/o2hWC004VnRyGLOgg8OjiP1Ch5A.jpg",
+        "cast_id": 1,
+        "character": "Charlie Masceranhas",
+        "credit_id": "52fe489b9251416c9109265b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85040,
+        "known_for_department": "Acting",
+        "name": "Sonam Kapoor Ahuja",
+        "original_name": "Sonam Kapoor Ahuja",
+        "popularity": 0.8969,
+        "profile_path": "/p5A2rzbCs9ZlgxVgJ6zGtHNUzaq.jpg",
+        "cast_id": 5,
+        "character": "Naina Braganza",
+        "credit_id": "52fe489b9251416c91092667",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77235,
+        "known_for_department": "Acting",
+        "name": "Bobby Deol",
+        "original_name": "बॉबी द्योल",
+        "popularity": 1.5865,
+        "profile_path": "/2npVa3PduichY8e7qBiE54m9VVP.jpg",
+        "cast_id": 4,
+        "character": "Ronnie Grewal",
+        "credit_id": "52fe489b9251416c91092663",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85045,
+        "known_for_department": "Acting",
+        "name": "Neil Nitin Mukesh",
+        "original_name": "Neil Nitin Mukesh",
+        "popularity": 0.8097,
+        "profile_path": "/7lfd8WfMc2hOXYpCRFwhjiVZ7fl.jpg",
+        "cast_id": 9,
+        "character": "Spider",
+        "credit_id": "52fe489c9251416c91092677",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85035,
+        "known_for_department": "Acting",
+        "name": "Bipasha Basu",
+        "original_name": "Bipasha Basu",
+        "popularity": 1.0489,
+        "profile_path": "/j4p0NOHUNvOCBcfaZiCoyxdJJou.jpg",
+        "cast_id": 2,
+        "character": "Riya Thapar",
+        "credit_id": "52fe489b9251416c9109265f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 169201,
+        "known_for_department": "Acting",
+        "name": "Omi Vaidya",
+        "original_name": "Omi Vaidya",
+        "popularity": 1.0021,
+        "profile_path": "/G37HGmfBM8b6pTczZrpJmTFIGl.jpg",
+        "cast_id": 16,
+        "character": "Sunny Mehra",
+        "credit_id": "5958f88992514121f0007985",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 229123,
+        "known_for_department": "Acting",
+        "name": "Sikandar Kher",
+        "original_name": "Sikandar Kher",
+        "popularity": 1.0544,
+        "profile_path": "/sULXachczStfQLegNVmxcvuUTWZ.jpg",
+        "cast_id": 7,
+        "character": "Bilal",
+        "credit_id": "52fe489c9251416c9109266f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85458,
+        "known_for_department": "Acting",
+        "name": "Vinod Khanna",
+        "original_name": "Vinod Khanna",
+        "popularity": 1.1701,
+        "profile_path": "/pwrChfSmvPX4HndI7j3fnAzPvaw.jpg",
+        "cast_id": 6,
+        "character": "Victor Braganza",
+        "credit_id": "52fe489b9251416c9109266b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35819,
+        "known_for_department": "Acting",
+        "name": "Johny Lever",
+        "original_name": "Johny Lever",
+        "popularity": 1.7738,
+        "profile_path": "/kohAOhKr4HBln8b9P4i1kmMONyi.jpg",
+        "cast_id": 8,
+        "character": "Mangal \"BC\" Chopra",
+        "credit_id": "52fe489c9251416c91092673",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 235424,
+        "known_for_department": "Acting",
+        "name": "Vyacheslav Razbegaev",
+        "original_name": "Вячеслав Разбегаев",
+        "popularity": 0.7755,
+        "profile_path": "/xyEE6IbpFEQnjAeg3V0YO6zpo1g.jpg",
+        "cast_id": 24,
+        "character": "General",
+        "credit_id": "64abfc8b3e2ec800af7e7081",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4155303,
+        "known_for_department": "Acting",
+        "name": "Sumit Sarkar",
+        "original_name": "Sumit Sarkar",
+        "popularity": 0.2854,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Comissioner of Police",
+        "credit_id": "64abfcb03e2ec800af7e709a",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2613497,
+        "known_for_department": "Acting",
+        "name": "Jo Holley",
+        "original_name": "Jo Holley",
+        "popularity": 0.4284,
+        "profile_path": "/rTP7XUAi3IoSQdg0NbVRKuysB5y.jpg",
+        "cast_id": 26,
+        "character": "Head Cop",
+        "credit_id": "64abfcdd66a0d300ade91482",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85027,
+        "known_for_department": "Acting",
+        "name": "Aftab Shivdasani",
+        "original_name": "Aftab Shivdasani",
+        "popularity": 1.0565,
+        "profile_path": "/471ABtsI9XBq8dGTgvMBcCkHVwX.jpg",
+        "cast_id": 14,
+        "character": "Raj",
+        "credit_id": "5958f854c3a368253c01ff6b",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 87353,
+        "known_for_department": "Acting",
+        "name": "Shweta Bhardwaj",
+        "original_name": "Shweta Bhardwaj",
+        "popularity": 0.5541,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Shalia",
+        "credit_id": "5958f86b92514121f000796d",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1785864,
+        "known_for_department": "Acting",
+        "name": "Mustafa Burmawala",
+        "original_name": "Mustafa Burmawala",
+        "popularity": 0.9001,
+        "profile_path": "/bO72iuStLE3EZ4PDbmICrg0jHoB.jpg",
+        "cast_id": 27,
+        "character": "Guest Appearance",
+        "credit_id": "6946dbd12cd08a2539072b43",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87355,
+        "known_for_department": "Directing",
+        "name": "Mustan Alibhai Burmawalla",
+        "original_name": "Mustan Alibhai Burmawalla",
+        "popularity": 0.5966,
+        "profile_path": "/364apN4vJqozvMFaRU1UHDfpiaB.jpg",
+        "credit_id": "52fe489c9251416c91092683",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87356,
+        "known_for_department": "Directing",
+        "name": "Abbas Alibhai Burmawalla",
+        "original_name": "Abbas Alibhai Burmawalla",
+        "popularity": 0.6858,
+        "profile_path": "/yeY7Lg7mTxjsI9uKiGic1PDZQlS.jpg",
+        "credit_id": "52fe489c9251416c9109267d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 233073,
+        "known_for_department": "Camera",
+        "name": "Ravi Yadav",
+        "original_name": "Ravi Yadav",
+        "popularity": 0.3508,
+        "profile_path": null,
+        "credit_id": "610985885541fa00289981b2",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1312905,
+        "known_for_department": "Directing",
+        "name": "Rohit Jugraj",
+        "original_name": "Rohit Jugraj",
+        "popularity": 0.4555,
+        "profile_path": "/ikNGFyFEtqEQdhSi6O1JSJbQkyR.jpg",
+        "credit_id": "610984f26331b2005d1a4c66",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1164990,
+        "known_for_department": "Editing",
+        "name": "Hussain A. Burmawala",
+        "original_name": "Hussain A. Burmawala",
+        "popularity": 0.3312,
+        "profile_path": null,
+        "credit_id": "610985b2255dba0073e20e58",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2137529,
+        "known_for_department": "Production",
+        "name": "Nirang Desai",
+        "original_name": "Nirang Desai",
+        "popularity": 0.2759,
+        "profile_path": null,
+        "credit_id": "6109855d6331b2005d1a4d67",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1785871,
+        "known_for_department": "Directing",
+        "name": "Mohammed S. Burmawala",
+        "original_name": "Mohammed S. Burmawala",
+        "popularity": 0.2983,
+        "profile_path": null,
+        "credit_id": "61098544e7868700465693fb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1439074,
+        "known_for_department": "Writing",
+        "name": "Sudip Sharma",
+        "original_name": "सुदीप शर्मा",
+        "popularity": 0.74,
+        "profile_path": null,
+        "credit_id": "6109850438469a002faf6723",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1550831,
+        "known_for_department": "Crew",
+        "name": "Lauren Shaw",
+        "original_name": "Lauren Shaw",
+        "popularity": 0.9175,
+        "profile_path": "/huomTbMfK2xrct5O1tUD7J3LuLo.jpg",
+        "credit_id": "64a617fe2b531d00c9a6cb99",
+        "department": "Crew",
+        "job": "Stunt Double"
+      }
+    ]
+  }
+}

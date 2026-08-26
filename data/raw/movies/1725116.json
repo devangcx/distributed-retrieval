@@ -1,0 +1,226 @@
+{
+  "adult": false,
+  "backdrop_path": "/2vl4nyxi1zVtiqYqJkbP8yTMOQV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.disneyplus.com/browse/entity-421f1721-e637-4ef4-90f7-2cb0ee6a6143",
+  "id": 1725116,
+  "imdb_id": "tt43140642",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Simpsley",
+  "overview": "When penniless con-artist Marge Bouvier is sent to Italy to convince wealthy sap Seymour Skinner to come home, she’s tempted by the trappings of his affluent lifestyle. But there’s a big fat fly in the ointment: Skinner’s clingy, dim-witted mooch of a houseguest, Homer Simpsley. Lies, lust and Italian lira are abound.",
+  "popularity": 5.1538,
+  "poster_path": "/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
+  "production_companies": [
+    {
+      "id": 154887,
+      "logo_path": "/wLFPu95hIMmyLR5hdtvYaMuK0tG.png",
+      "name": "20th Television Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 18,
+      "logo_path": "/uqhagSwM7NAkQWVCQhKTyoqF8XH.png",
+      "name": "Gracie Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-07-03",
+  "revenue": 0,
+  "runtime": 24,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A Simpsons noir? We're in.",
+  "title": "Simpsley",
+  "video": false,
+  "vote_average": 7.937,
+  "vote_count": 71,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 198,
+        "known_for_department": "Acting",
+        "name": "Dan Castellaneta",
+        "original_name": "Dan Castellaneta",
+        "popularity": 2.1446,
+        "profile_path": "/AmeqWhP4A46AWkM4kVphg6jOTQX.jpg",
+        "cast_id": 1,
+        "character": "Homer Simpsley (voice)",
+        "credit_id": "6a47ceb77ac0c84d4bdc70ea",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 199,
+        "known_for_department": "Acting",
+        "name": "Julie Kavner",
+        "original_name": "Julie Kavner",
+        "popularity": 2.3809,
+        "profile_path": "/87kSPYlWcHvqOVEkhdqxysiAf6w.jpg",
+        "cast_id": 2,
+        "character": "Marge Bouvier (voice)",
+        "credit_id": "6a47cec85096fd628ae29fb7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 200,
+        "known_for_department": "Acting",
+        "name": "Nancy Cartwright",
+        "original_name": "Nancy Cartwright",
+        "popularity": 2.1536,
+        "profile_path": "/kJQEz3NAwHGdb2sQzAnBf1RmMV4.jpg",
+        "cast_id": 5,
+        "character": "Bart (voice)",
+        "credit_id": "6a47face00785ffe5789f229",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5586,
+        "known_for_department": "Acting",
+        "name": "Yeardley Smith",
+        "original_name": "Yeardley Smith",
+        "popularity": 2.5231,
+        "profile_path": "/9AjPwbb3uz4GfgOPBYsy2ILvwkB.jpg",
+        "cast_id": 6,
+        "character": "Lisa (voice)",
+        "credit_id": "6a47fae3e0cc04a5a9ffee4c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5587,
+        "known_for_department": "Acting",
+        "name": "Hank Azaria",
+        "original_name": "Hank Azaria",
+        "popularity": 3.3664,
+        "profile_path": "/uON3TWSySIy8wbDhkSzmFTDM6XO.jpg",
+        "cast_id": 7,
+        "character": "Inspector Wiggum (voice)",
+        "credit_id": "6a47fafc0d33b51027eef38c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6008,
+        "known_for_department": "Acting",
+        "name": "Harry Shearer",
+        "original_name": "Harry Shearer",
+        "popularity": 1.7377,
+        "profile_path": "/wZpovXxQQqP7kxXPy2yj6QMbM55.jpg",
+        "cast_id": 8,
+        "character": "Seymour Skinner (voice)",
+        "credit_id": "6a47fb10082c389f192230e4",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 34983,
+        "known_for_department": "Acting",
+        "name": "Tress MacNeille",
+        "original_name": "Tress MacNeille",
+        "popularity": 2.6709,
+        "profile_path": "/gI2LsgByvSffQY34vabVnPmrHzw.jpg",
+        "cast_id": 9,
+        "character": "Agnes Skinner (voice)",
+        "credit_id": "6a47fb2613b15e95a58177a4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110141,
+        "known_for_department": "Acting",
+        "name": "Alex Désert",
+        "original_name": "Alex Désert",
+        "popularity": 1.1941,
+        "profile_path": "/iz5fLxrOTKYUkpUmGXgVfCfIZxn.jpg",
+        "cast_id": 10,
+        "character": "Lou (voice)",
+        "credit_id": "6a47fb3e26435ad9d4f9d523",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6007,
+        "known_for_department": "Acting",
+        "name": "Maggie Roswell",
+        "original_name": "Maggie Roswell",
+        "popularity": 0.799,
+        "profile_path": "/pLdSmH5HZYSwTd3aiPlZLbNzvPD.jpg",
+        "cast_id": 11,
+        "character": "Luann Van Houten (voice)",
+        "credit_id": "6a47fb5b4c9abb1021f4f125",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3301888,
+        "known_for_department": "Directing",
+        "name": "Debbie Bruce Mahan",
+        "original_name": "Debbie Bruce Mahan",
+        "popularity": 0.6264,
+        "profile_path": null,
+        "credit_id": "6a47dc3900785ffe5789f0f6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2006501,
+        "known_for_department": "Writing",
+        "name": "Cesar Mazariegos",
+        "original_name": "Cesar Mazariegos",
+        "popularity": 0.9321,
+        "profile_path": null,
+        "credit_id": "6a47fa1e3a171eab1378e9d7",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

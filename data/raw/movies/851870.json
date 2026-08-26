@@ -1,0 +1,224 @@
+{
+  "adult": false,
+  "backdrop_path": "/u72FEhMOaRHOJfraXj4oTYdPSAy.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 851870,
+  "imdb_id": "tt11737466",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "American Insurrection",
+  "overview": "Set in a dystopian America where all people who aren't straight, white, Christian and cis gender are kept track of by the government with bar codes.",
+  "popularity": 2.5072,
+  "poster_path": "/yPp2J0f4NrmeJkpDsgEl4MC5c3f.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2021-10-04",
+  "revenue": 0,
+  "runtime": 115,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Fear is their weapon",
+  "title": "American Insurrection",
+  "video": false,
+  "vote_average": 5.173,
+  "vote_count": 52,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1138706,
+        "known_for_department": "Acting",
+        "name": "Nadine Malouf",
+        "original_name": "Nadine Malouf",
+        "popularity": 0.3825,
+        "profile_path": "/5Yp0st69t187p33XJLqAzx4KdOA.jpg",
+        "cast_id": 2,
+        "character": "Zabi",
+        "credit_id": "61ae9fcc13af5f00437fef60",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1362221,
+        "known_for_department": "Acting",
+        "name": "Nick Westrate",
+        "original_name": "Nick Westrate",
+        "popularity": 0.532,
+        "profile_path": "/k8J9ENpGX5ameUU35tN3EFoIQTA.jpg",
+        "cast_id": 3,
+        "character": "David",
+        "credit_id": "61ae9fe735c30a008aac1bf0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1602972,
+        "known_for_department": "Acting",
+        "name": "Brandon Perea",
+        "original_name": "Brandon Perea",
+        "popularity": 1.9847,
+        "profile_path": "/hEzljVgsho0Uwd8tg7AGB5Uy3Lr.jpg",
+        "cast_id": 4,
+        "character": "Arjay",
+        "credit_id": "61ae9ffc387651008b6c0aab",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1541179,
+        "known_for_department": "Acting",
+        "name": "Sarah Wharton",
+        "original_name": "Sarah Wharton",
+        "popularity": 0.339,
+        "profile_path": "/jCZ3shTC0UaIzfaiOn8R1oUtEup.jpg",
+        "cast_id": 9,
+        "character": "Sarah",
+        "credit_id": "61cc8c31d96c3c001ad72fe5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1536960,
+        "known_for_department": "Writing",
+        "name": "Jarret Kerr",
+        "original_name": "Jarret Kerr",
+        "popularity": 0.3618,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Jarret",
+        "credit_id": "61cc8c3fc439c0001c199e01",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53259,
+        "known_for_department": "Acting",
+        "name": "Michael Raymond-James",
+        "original_name": "Michael Raymond-James",
+        "popularity": 1.637,
+        "profile_path": "/1rSn1xKAwkJ19uFLyLovW9sN7Jo.jpg",
+        "cast_id": 11,
+        "character": "Gabe",
+        "credit_id": "61cc8c4ddb72c00064454562",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 187857,
+        "known_for_department": "Acting",
+        "name": "Toby Leonard Moore",
+        "original_name": "Toby Leonard Moore",
+        "popularity": 1.8377,
+        "profile_path": "/7GiM5k3T7QfvOOuXvrjNqduhIK4.jpg",
+        "cast_id": 12,
+        "character": "The Founder",
+        "credit_id": "61cc8c5c524978008a169f20",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1475136,
+        "known_for_department": "Directing",
+        "name": "William Sullivan",
+        "original_name": "William Sullivan",
+        "popularity": 0.5884,
+        "profile_path": "/9jlm0FOo8sKkuPsNekJfwiOhZfw.jpg",
+        "credit_id": "60f482275545ca005c18ef69",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1536960,
+        "known_for_department": "Writing",
+        "name": "Jarret Kerr",
+        "original_name": "Jarret Kerr",
+        "popularity": 0.3618,
+        "profile_path": null,
+        "credit_id": "61cc8be2c439c00042b2cd93",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1475136,
+        "known_for_department": "Directing",
+        "name": "William Sullivan",
+        "original_name": "William Sullivan",
+        "popularity": 0.5884,
+        "profile_path": "/9jlm0FOo8sKkuPsNekJfwiOhZfw.jpg",
+        "credit_id": "61cc8bf38566d20098b25631",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1292035,
+        "known_for_department": "Camera",
+        "name": "Brandon Roots",
+        "original_name": "Brandon Roots",
+        "popularity": 0.254,
+        "profile_path": null,
+        "credit_id": "668352fc4b4e17da8f3aec67",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933102,
+        "known_for_department": "Sound",
+        "name": "Nathan Matthew David",
+        "original_name": "Nathan Matthew David",
+        "popularity": 0.6731,
+        "profile_path": "/3eGiCoh13TLzs6FHUQTe1rL1ajD.jpg",
+        "credit_id": "66835306ea11ee5d46468673",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

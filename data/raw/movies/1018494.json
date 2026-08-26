@@ -1,0 +1,368 @@
+{
+  "adult": false,
+  "backdrop_path": "/6fYTLy4QE55BgMiHF3Co7bErjry.jpg",
+  "belongs_to_collection": null,
+  "budget": 15000,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 1018494,
+  "imdb_id": "tt13429928",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Operation Seawolf",
+  "overview": "During the last days of World War II, Germany, desperate for any last grasp to defeat the allied powers, looked to their last remaining weapons and soldiers. The German Navy and the last remaining U-Boats were formed together for one desperate last mission – a mission to attack the United States Homeland, known as Operation Seawolf. Captain Hans Kessler, a grizzled submarine commander from both World Wars, is called into service to make one mission a success and help turn the tide of the war.",
+  "popularity": 2.9665,
+  "poster_path": "/eqm5EAyC9hJCN5qutuW4Ka1xYbU.jpg",
+  "production_companies": [
+    {
+      "id": 200650,
+      "logo_path": null,
+      "name": "Relis Pic",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-10-07",
+  "revenue": 23000,
+  "runtime": 86,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Last mission to win this war.",
+  "title": "Operation Seawolf",
+  "video": false,
+  "vote_average": 5.643,
+  "vote_count": 119,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16644,
+        "known_for_department": "Acting",
+        "name": "Dolph Lundgren",
+        "original_name": "Dolph Lundgren",
+        "popularity": 5.2411,
+        "profile_path": "/fB1tOws6Gav0xE8LYlELEb82hJt.jpg",
+        "cast_id": 4,
+        "character": "Hans Kessler",
+        "credit_id": "630d5008f5483600847d1def",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1527856,
+        "known_for_department": "Acting",
+        "name": "Aaron Courteau",
+        "original_name": "Aaron Courteau",
+        "popularity": 0.5841,
+        "profile_path": "/lIt2PG4rLb7hQNwk5inufIZ2EOX.jpg",
+        "cast_id": 20,
+        "character": "Valentine",
+        "credit_id": "630fa43e735205007a9b2e8a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81685,
+        "known_for_department": "Acting",
+        "name": "Frank Grillo",
+        "original_name": "Frank Grillo",
+        "popularity": 4.1378,
+        "profile_path": "/kuEco4vo1xrsM8DyrNSZUEi593P.jpg",
+        "cast_id": 3,
+        "character": "Commander Ingram",
+        "credit_id": "630d4fec2dda8900845c0b05",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1588914,
+        "known_for_department": "Acting",
+        "name": "Andrew Stecker",
+        "original_name": "Andrew Stecker",
+        "popularity": 0.7261,
+        "profile_path": "/uQgtZC6gKle5klnRp4hKbrzXvcq.jpg",
+        "cast_id": 7,
+        "character": "Lt. Erich Reinhart",
+        "credit_id": "630d5024f548360087a8d979",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1161712,
+        "known_for_department": "Acting",
+        "name": "Hiram A. Murray",
+        "original_name": "Hiram A. Murray",
+        "popularity": 0.6686,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Sam L. Gravely Jr.",
+        "credit_id": "630d4fe3f5483600847d1de7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1981721,
+        "known_for_department": "Acting",
+        "name": "Apostolos Gliarmis",
+        "original_name": "Apostolos Gliarmis",
+        "popularity": 0.3795,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Lt. Randolf Lutz",
+        "credit_id": "630d503d724de1007b734a44",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2822966,
+        "known_for_department": "Acting",
+        "name": "Luke Steinborn",
+        "original_name": "Luke Steinborn",
+        "popularity": 0.3608,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Lt. Handel Speer",
+        "credit_id": "630d501dcaa508007fddac9a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2454775,
+        "known_for_department": "Acting",
+        "name": "Edgar Damatian",
+        "original_name": "Edgar Damatian",
+        "popularity": 0.8976,
+        "profile_path": "/tncHhqf3fupYp5qNqg04S6xYh9j.jpg",
+        "cast_id": 21,
+        "character": "Haskell",
+        "credit_id": "64710fe69408ec00c28df144",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1981708,
+        "known_for_department": "Acting",
+        "name": "Cody Fleury",
+        "original_name": "Cody Fleury",
+        "popularity": 0.508,
+        "profile_path": "/8Yct89hfV0N9RhGQReuvSES6KOW.jpg",
+        "cast_id": 22,
+        "character": "Sgt. Rynhardt",
+        "credit_id": "64710ff5dd731b00a71ff743",
+        "order": 8
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 1426816,
+        "known_for_department": "Acting",
+        "name": "Kenna James",
+        "original_name": "Kenna James",
+        "popularity": 0.0,
+        "profile_path": "/qHAYPPiRdk1PHv8LD7pDkQ054HA.jpg",
+        "cast_id": 23,
+        "character": "Heidi",
+        "credit_id": "6529a5b30cb33516f8826cd7",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2995078,
+        "known_for_department": "Production",
+        "name": "Todd Lundbohm",
+        "original_name": "Todd Lundbohm",
+        "popularity": 0.4258,
+        "profile_path": null,
+        "credit_id": "630d50703d7454007a28b3e0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2258347,
+        "known_for_department": "Camera",
+        "name": "Joseph Loeffler",
+        "original_name": "Joseph Loeffler",
+        "popularity": 0.3583,
+        "profile_path": null,
+        "credit_id": "630d50850398ab007a2a65a5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1046436,
+        "known_for_department": "Acting",
+        "name": "Steven Luke",
+        "original_name": "Steven Luke",
+        "popularity": 0.7787,
+        "profile_path": "/3RAime8pOWMLRK15YOHKjxqsm1E.jpg",
+        "credit_id": "630d4f7af548360087a8d969",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1275657,
+        "known_for_department": "Production",
+        "name": "Andre Relis",
+        "original_name": "Andre Relis",
+        "popularity": 0.5467,
+        "profile_path": null,
+        "credit_id": "630d505aae38430079082748",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1046436,
+        "known_for_department": "Acting",
+        "name": "Steven Luke",
+        "original_name": "Steven Luke",
+        "popularity": 0.7787,
+        "profile_path": "/3RAime8pOWMLRK15YOHKjxqsm1E.jpg",
+        "credit_id": "630d504c5ab81a0082f60670",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1984366,
+        "known_for_department": "Art",
+        "name": "Chris Canfield",
+        "original_name": "Chris Canfield",
+        "popularity": 0.7244,
+        "profile_path": null,
+        "credit_id": "630d50c1caa508007fddacac",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1662088,
+        "known_for_department": "Production",
+        "name": "Jordan Fields",
+        "original_name": "Jordan Fields",
+        "popularity": 0.4623,
+        "profile_path": null,
+        "credit_id": "630d5066724de1007e673e6e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1510870,
+        "known_for_department": "Sound",
+        "name": "Alex Kharlamov",
+        "original_name": "Alex Kharlamov",
+        "popularity": 0.3352,
+        "profile_path": null,
+        "credit_id": "630d50e0b3e627007d45ddab",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3620469,
+        "known_for_department": "Production",
+        "name": "Jon Boorom",
+        "original_name": "Jon Boorom",
+        "popularity": 0.5631,
+        "profile_path": null,
+        "credit_id": "630d50985ab81a007f484d7e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1510871,
+        "known_for_department": "Editing",
+        "name": "Katerina Valenti",
+        "original_name": "Katerina Valenti",
+        "popularity": 0.3456,
+        "profile_path": null,
+        "credit_id": "630d50cadcb6a3007bb4ac92",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1046436,
+        "known_for_department": "Acting",
+        "name": "Steven Luke",
+        "original_name": "Steven Luke",
+        "popularity": 0.7787,
+        "profile_path": "/3RAime8pOWMLRK15YOHKjxqsm1E.jpg",
+        "credit_id": "630d505118864b008329e435",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4552967,
+        "known_for_department": "Production",
+        "name": "Jessica Russo",
+        "original_name": "Jessica Russo",
+        "popularity": 0.3487,
+        "profile_path": null,
+        "credit_id": "683921f5df89251dd6cd9f2a",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  }
+}

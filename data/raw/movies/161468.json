@@ -1,0 +1,165 @@
+{
+  "adult": false,
+  "backdrop_path": "/ckSF8dZb8WuGtQBfTJSCLeslC5t.jpg",
+  "belongs_to_collection": null,
+  "budget": 850000,
+  "genres": [],
+  "homepage": "",
+  "id": 161468,
+  "imdb_id": "tt2094854",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Inkaar",
+  "overview": "At a leading ad agency, the battle for the top job between Rahul Verma, the advertising CEO, and Maya Luthra, his ambitious protégée, takes an ugly turn when Maya files a sexual harassment complaint against Rahul.",
+  "popularity": 1.4166,
+  "poster_path": "/qjrTqFoVJAcG4426KCssLzkogs.jpg",
+  "production_companies": [
+    {
+      "id": 6808,
+      "logo_path": "/xa1Yz7B5eRC2F9oHA6mDn8NE6ci.png",
+      "name": "Viacom18 Studios",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2013-01-18",
+  "revenue": 1600000,
+  "runtime": 133,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Inkaar",
+  "video": false,
+  "vote_average": 5.42,
+  "vote_count": 25,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52263,
+        "known_for_department": "Acting",
+        "name": "Arjun Rampal",
+        "original_name": "अर्जुन रामपाल",
+        "popularity": 3.0905,
+        "profile_path": "/1F81WNcVV5cW9O4D5Otk1Y2WHV9.jpg",
+        "cast_id": 0,
+        "character": "Rahul Verma",
+        "credit_id": "537f16fbc3a3680598002eb4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 110850,
+        "known_for_department": "Acting",
+        "name": "Chitrangada Singh",
+        "original_name": "चित्रांगदा सिंह",
+        "popularity": 1.0585,
+        "profile_path": "/r9ekq6jFvY8MOpaRSORwNIYPr0P.jpg",
+        "cast_id": 1,
+        "character": "Maya Luthra",
+        "credit_id": "537f1713c3a36805a4002dd9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 150220,
+        "known_for_department": "Acting",
+        "name": "Deepti Naval",
+        "original_name": "Deepti Naval",
+        "popularity": 0.8725,
+        "profile_path": "/6G0miCgpQcXVJqsY7nt1wPn4evK.jpg",
+        "cast_id": 2,
+        "character": "Mrs. Kamdhar",
+        "credit_id": "537f1730c3a36805a1002e06",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52768,
+        "known_for_department": "Acting",
+        "name": "Vipin Sharma",
+        "original_name": "Vipin Sharma",
+        "popularity": 1.0007,
+        "profile_path": "/3TZHbQ1Zi3z1B721jwwTKxAMXqI.jpg",
+        "cast_id": 5,
+        "character": "Gupta",
+        "credit_id": "537f179ac3a368059e002fd3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77241,
+        "known_for_department": "Acting",
+        "name": "Kanwaljit Singh",
+        "original_name": "Kanwaljit Singh",
+        "popularity": 1.1778,
+        "profile_path": "/pitJUd0ySbOBrGOzLJBJ63fMLaK.jpg",
+        "cast_id": 3,
+        "character": "Rahul's father",
+        "credit_id": "537f1751c3a36805a8002d6e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1323115,
+        "known_for_department": "Acting",
+        "name": "Rehana Sultan",
+        "original_name": "Rehana Sultan",
+        "popularity": 0.5973,
+        "profile_path": "/h7DtkYiYMJJP03wajL3eFrbTVDb.jpg",
+        "cast_id": 4,
+        "character": "Maya's mother",
+        "credit_id": "537f176ec3a368059e002fcc",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123314,
+        "known_for_department": "Sound",
+        "name": "Shantanu Moitra",
+        "original_name": "Shantanu Moitra",
+        "popularity": 0.562,
+        "profile_path": "/14dsVnLYqFvf8DOEKZNAlKKjJV7.jpg",
+        "credit_id": "537f18bf0e0a2624b40046d5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225149,
+        "known_for_department": "Directing",
+        "name": "Sudhir Mishra",
+        "original_name": "Sudhir Mishra",
+        "popularity": 0.6634,
+        "profile_path": "/9em4XbSHvAsUGmBjDRhRzKohlcX.jpg",
+        "credit_id": "537f18920e0a2624c70045c3",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 1500000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 21555,
+  "imdb_id": "tt0451919",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "सोचा ना था",
+  "overview": "Viren and Aditi refuse an arranged marriage and that creates a rift between their families. But when their friendship turns into love, it leads to chaos!",
+  "popularity": 0.8613,
+  "poster_path": "/8HbdfX0FGnQUQ8WtGWY5zLZB4lH.jpg",
+  "production_companies": [
+    {
+      "id": 3726,
+      "logo_path": null,
+      "name": "Vijayta Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2005-03-04",
+  "revenue": 2400000,
+  "runtime": 145,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Socha Na Tha",
+  "video": false,
+  "vote_average": 5.885,
+  "vote_count": 39,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79003,
+        "known_for_department": "Acting",
+        "name": "Abhay Deol",
+        "original_name": "Abhay Deol",
+        "popularity": 1.1464,
+        "profile_path": "/h7eVy3QlTVwbWL10dpY5Y9mVlFB.jpg",
+        "cast_id": 1,
+        "character": "Viren Oberoi",
+        "credit_id": "52fe441fc3a368484e0109d1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 83591,
+        "known_for_department": "Acting",
+        "name": "Ayesha Takia",
+        "original_name": "Ayesha Takia",
+        "popularity": 1.3762,
+        "profile_path": "/nMwZp4tfg6W4BkkWpaXesUMUAxR.jpg",
+        "cast_id": 2,
+        "character": "Aditi Sahani",
+        "credit_id": "52fe441fc3a368484e0109d5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 109173,
+        "known_for_department": "Acting",
+        "name": "Suresh Oberoi",
+        "original_name": "Suresh Oberoi",
+        "popularity": 0.7476,
+        "profile_path": "/eU19xoD28bzCImBXNpOQCIbhUZG.jpg",
+        "cast_id": 3,
+        "character": "Nirmal Oberoi",
+        "credit_id": "52fe441fc3a368484e0109d9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 110290,
+        "known_for_department": "Acting",
+        "name": "Ayesha Jhulka",
+        "original_name": "Ayesha Jhulka",
+        "popularity": 1.0085,
+        "profile_path": "/6vgOf0tPGCpac84t7Xs4alAj5s0.jpg",
+        "cast_id": 4,
+        "character": "Namita",
+        "credit_id": "52fe441fc3a368484e0109dd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35790,
+        "known_for_department": "Acting",
+        "name": "Rati Agnihotri",
+        "original_name": "Rati Agnihotri",
+        "popularity": 1.0673,
+        "profile_path": "/mIdaxb1LEhEVBARDNFyQ64411FD.jpg",
+        "cast_id": 8,
+        "character": "Aditi's Aunt",
+        "credit_id": "5c5add31c3a3683cc4877cfc",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86420,
+        "known_for_department": "Acting",
+        "name": "Sandhya Mridul",
+        "original_name": "Sandhya Mridul",
+        "popularity": 0.599,
+        "profile_path": "/mFooMvVNXSSzuIprNuLGfn4n39k.jpg",
+        "cast_id": 9,
+        "character": "Sonal",
+        "credit_id": "5c5add3cc3a3683cd1877ed0",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76790,
+        "known_for_department": "Acting",
+        "name": "Raj Zutshi",
+        "original_name": "Raj Zutshi",
+        "popularity": 0.9253,
+        "profile_path": "/aJmWL08uj2oVGd2cJmBuzNSO2LY.jpg",
+        "cast_id": 10,
+        "character": "Gopal",
+        "credit_id": "5c5add46c3a3683cdb878b11",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2236119,
+        "known_for_department": "Acting",
+        "name": "Kamlesh Gill",
+        "original_name": "Kamlesh Gill",
+        "popularity": 0.4955,
+        "profile_path": "/zjLxcubw4HeIAcN8GGkRhhpf9MW.jpg",
+        "cast_id": 11,
+        "character": "Aditi's Grandmother",
+        "credit_id": "5c5add869251413389b80842",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2087377,
+        "known_for_department": "Acting",
+        "name": "Lushin Dubey",
+        "original_name": "Lushin Dubey",
+        "popularity": 0.5636,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Viren's Mother",
+        "credit_id": "5c5add9b0e0a26382362e572",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 591067,
+        "known_for_department": "Acting",
+        "name": "Manish Choudhary",
+        "original_name": "Manish Choudhary",
+        "popularity": 0.627,
+        "profile_path": "/d2RzFIO1UIsfWJDFh2sj2Mi7As0.jpg",
+        "cast_id": 13,
+        "character": "Naren",
+        "credit_id": "5c5adda59251413374b818c1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 993640,
+        "known_for_department": "Acting",
+        "name": "Vijay Maurya",
+        "original_name": "Vijay Maurya",
+        "popularity": 1.0947,
+        "profile_path": "/bv5PBdLWy6MZxpDukrkHbaiLcsL.jpg",
+        "cast_id": 14,
+        "character": "Shiva",
+        "credit_id": "5c5addb6c3a3683ccf879579",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71276,
+        "known_for_department": "Directing",
+        "name": "Imtiaz Ali",
+        "original_name": "Imtiaz Ali",
+        "popularity": 1.1365,
+        "profile_path": "/FLcxKO8DEjtzXvAz8xLN2gMeO9.jpg",
+        "credit_id": "52fe441fc3a368484e0109e3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85655,
+        "known_for_department": "Acting",
+        "name": "Dharmendra",
+        "original_name": "Dharmendra",
+        "popularity": 0.8456,
+        "profile_path": "/aagrv7LIDWq0GxZelUPqubCg7sH.jpg",
+        "credit_id": "52fe441fc3a368484e0109e9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86302,
+        "known_for_department": "Acting",
+        "name": "Sunny Deol",
+        "original_name": "सनी द्योल",
+        "popularity": 2.4148,
+        "profile_path": "/w9RenJriQVys2k5fa9ojkXpYMwO.jpg",
+        "credit_id": "5c5addc7925141338cb818e7",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2236120,
+        "known_for_department": "Production",
+        "name": "Deepak Raai Sharma",
+        "original_name": "Deepak Raai Sharma",
+        "popularity": 0.1539,
+        "profile_path": null,
+        "credit_id": "5c5addd10e0a264d6f62db50",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2029227,
+        "known_for_department": "Production",
+        "name": "Shahnaab Alam",
+        "original_name": "Shahnaab Alam",
+        "popularity": 0.2554,
+        "profile_path": null,
+        "credit_id": "5c5addde0e0a261de163b10f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71276,
+        "known_for_department": "Directing",
+        "name": "Imtiaz Ali",
+        "original_name": "Imtiaz Ali",
+        "popularity": 1.1365,
+        "profile_path": "/FLcxKO8DEjtzXvAz8xLN2gMeO9.jpg",
+        "credit_id": "5c5adde7925141338cb81904",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 233073,
+        "known_for_department": "Camera",
+        "name": "Ravi Yadav",
+        "original_name": "Ravi Yadav",
+        "popularity": 0.3508,
+        "profile_path": null,
+        "credit_id": "5c5addf00e0a261deb63ab34",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 66949,
+        "known_for_department": "Sound",
+        "name": "Sandesh Shandilya",
+        "original_name": "Sandesh Shandilya",
+        "popularity": 0.3579,
+        "profile_path": null,
+        "credit_id": "5c5addfd0e0a264d6f62db6c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2236122,
+        "known_for_department": "Production",
+        "name": "Sameer Khan",
+        "original_name": "Sameer Khan",
+        "popularity": 0.3625,
+        "profile_path": null,
+        "credit_id": "5c5ade10c3a3683ccf879617",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1676033,
+        "known_for_department": "Crew",
+        "name": "Ashley Lobo",
+        "original_name": "Ashley Lobo",
+        "popularity": 0.3929,
+        "profile_path": null,
+        "credit_id": "5c5ade19c3a3683cc6878945",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1041404,
+        "known_for_department": "Acting",
+        "name": "Simple Kapadia",
+        "original_name": "Simple Kapadia",
+        "popularity": 0.4982,
+        "profile_path": "/zeQoJ5dd70gwWbYhw2bWVFrLmze.jpg",
+        "credit_id": "5c5ade23c3a3683cd5879e63",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71276,
+        "known_for_department": "Directing",
+        "name": "Imtiaz Ali",
+        "original_name": "Imtiaz Ali",
+        "popularity": 1.1365,
+        "profile_path": "/FLcxKO8DEjtzXvAz8xLN2gMeO9.jpg",
+        "credit_id": "5c5ade35c3a3683ccf879635",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 9897,
+        "known_for_department": "Editing",
+        "name": "Shirish Kunder",
+        "original_name": "Shirish Kunder",
+        "popularity": 0.6403,
+        "profile_path": null,
+        "credit_id": "5c5ade3c0e0a261de163b146",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

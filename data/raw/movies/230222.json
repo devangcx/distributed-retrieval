@@ -1,0 +1,512 @@
+{
+  "adult": false,
+  "backdrop_path": "/7KiBr9MNqcNNJKj6FkEGfNHSAsH.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 230222,
+  "imdb_id": "tt1705952",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Tarzan",
+  "overview": "One of the most classic and revered stories of all time, Edgar Rice Burroughs' Tarzan returns to the big screen for a new generation. Tarzan and Jane face a mercenary army dispatched by the evil CEO of Greystoke Energies, a man who took over the company from Tarzan's parents, after they died in a plane crash in the African jungle.",
+  "popularity": 4.5071,
+  "poster_path": "/wIg7TclH6PUcvTWFh0QdtU5Wcvt.jpg",
+  "production_companies": [
+    {
+      "id": 8104,
+      "logo_path": null,
+      "name": "Ambient Entertainment",
+      "origin_country": "DE"
+    },
+    {
+      "id": 47,
+      "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+      "name": "Constantin Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 491,
+      "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+      "name": "Summit Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2013-10-17",
+  "revenue": 44095996,
+  "runtime": 94,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The legend starts here",
+  "title": "Tarzan",
+  "video": false,
+  "vote_average": 5.676,
+  "vote_count": 629,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34502,
+        "known_for_department": "Acting",
+        "name": "Kellan Lutz",
+        "original_name": "Kellan Lutz",
+        "popularity": 2.913,
+        "profile_path": "/pLzdFABlU6oS2BvlHlAN990woY1.jpg",
+        "cast_id": 1,
+        "character": "Tarzan (voice)",
+        "credit_id": "52fe4dd2c3a36847f826f957",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 57192,
+        "known_for_department": "Acting",
+        "name": "Spencer Locke",
+        "original_name": "Spencer Locke",
+        "popularity": 2.361,
+        "profile_path": "/2mHfjqDY8e3ZISkFmi1qjrMs7uN.jpg",
+        "cast_id": 4,
+        "character": "Jane (voice)",
+        "credit_id": "52fe4dd2c3a36847f826f963",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1698979,
+        "known_for_department": "Acting",
+        "name": "Les Bubb",
+        "original_name": "Les Bubb",
+        "popularity": 0.6798,
+        "profile_path": "/xaHrRmK42sLyc8bf1hpVnAglJCs.jpg",
+        "cast_id": 19,
+        "character": "Porter (voice)",
+        "credit_id": "580e4219c3a36859930014ed",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 198845,
+        "known_for_department": "Production",
+        "name": "Joe Cappelletti",
+        "original_name": "Joe Cappelletti",
+        "popularity": 0.7364,
+        "profile_path": "/wRCVC9vmeJpmzwMce0HF65nazVQ.jpg",
+        "cast_id": 20,
+        "character": "Clayton (voice)",
+        "credit_id": "580e43109251416e180017b3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54728,
+        "known_for_department": "Acting",
+        "name": "Brian Huskey",
+        "original_name": "Brian Huskey",
+        "popularity": 1.586,
+        "profile_path": "/te38JswcD9frbyLuxQPIsBB24yz.jpg",
+        "cast_id": 12,
+        "character": "Smith (voice)",
+        "credit_id": "52fe4dd2c3a36847f826f98d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 120894,
+        "known_for_department": "Acting",
+        "name": "Mark Deklin",
+        "original_name": "Mark Deklin",
+        "popularity": 1.0244,
+        "profile_path": "/n1jfzdyF7BNrfF5JuWzf7d2LX09.jpg",
+        "cast_id": 6,
+        "character": "Greystoke (voice)",
+        "credit_id": "52fe4dd2c3a36847f826f96b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 109151,
+        "known_for_department": "Acting",
+        "name": "Jaime Ray Newman",
+        "original_name": "Jaime Ray Newman",
+        "popularity": 3.1432,
+        "profile_path": "/2NZqIILL9BW8fSveWDGBDLoMYN8.jpg",
+        "cast_id": 3,
+        "character": "Alice (voice)",
+        "credit_id": "52fe4dd2c3a36847f826f95f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111922,
+        "known_for_department": "Acting",
+        "name": "Robert Capron",
+        "original_name": "Robert Capron",
+        "popularity": 1.2615,
+        "profile_path": "/aLXrKBU3pqHCg42G5DkHx2uk0SO.jpg",
+        "cast_id": 2,
+        "character": "Derek (voice)",
+        "credit_id": "52fe4dd2c3a36847f826f95b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 576511,
+        "known_for_department": "Acting",
+        "name": "Jonathan Morgan Heit",
+        "original_name": "Jonathan Morgan Heit",
+        "popularity": 0.7973,
+        "profile_path": "/6YDXZwgpAPjffUtBjVUFz37C7LM.jpg",
+        "cast_id": 21,
+        "character": "Tarzan Kid (voice)",
+        "credit_id": "580e43e09251416e18001865",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1698984,
+        "known_for_department": "Acting",
+        "name": "Anton Zetterholm",
+        "original_name": "Anton Zetterholm",
+        "popularity": 0.3511,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Tarzan Teen (voice)",
+        "credit_id": "580e4421c3a36859b10017a1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12803,
+        "known_for_department": "Acting",
+        "name": "Jason Hildebrandt",
+        "original_name": "Jason Hildebrandt",
+        "popularity": 0.6253,
+        "profile_path": "/xbGmWz053bVmpE02vsNhHIOzWoZ.jpg",
+        "cast_id": 23,
+        "character": "Narrator (voice)",
+        "credit_id": "580e44a99251416e180018fc",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1797831,
+        "known_for_department": "Acting",
+        "name": "Jonathan Tweedie",
+        "original_name": "Jonathan Tweedie",
+        "popularity": 0.2361,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Tarzan",
+        "credit_id": "58f4bf239251413d6e024e8b",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1278781,
+        "known_for_department": "Acting",
+        "name": "Rebecca Reaney",
+        "original_name": "Rebecca Reaney",
+        "popularity": 0.506,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Jane",
+        "credit_id": "52fe4dd2c3a36847f826f995",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 199298,
+        "known_for_department": "Acting",
+        "name": "Trevor St. John",
+        "original_name": "Trevor St. John",
+        "popularity": 1.1009,
+        "profile_path": "/hrBoF5u263objhRDuV7YCCLl7eH.jpg",
+        "cast_id": 30,
+        "character": "Clayton",
+        "credit_id": "58f4b7f3c3a368084502332d",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4753,
+        "known_for_department": "Acting",
+        "name": "Brian Bloom",
+        "original_name": "Brian Bloom",
+        "popularity": 1.7993,
+        "profile_path": "/9mZKhI3aVbzZ5Xq43n7fGzWAqi0.jpg",
+        "cast_id": 5,
+        "character": "Miller",
+        "credit_id": "52fe4dd2c3a36847f826f967",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1525368,
+        "known_for_department": "Acting",
+        "name": "Maximilian Allgeier",
+        "original_name": "Maximilian Allgeier",
+        "popularity": 0.5569,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Pilot 1",
+        "credit_id": "580e44f49251416e0d001911",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1504918,
+        "known_for_department": "Acting",
+        "name": "Lynn Robertson Bruce",
+        "original_name": "Lynn Robertson Bruce",
+        "popularity": 0.4805,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Tarzan's 'mother' Karta",
+        "credit_id": "580e457e9251416e10001913",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 536274,
+        "known_for_department": "Acting",
+        "name": "Peter Elliott",
+        "original_name": "Peter Elliott",
+        "popularity": 0.501,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Leader of gorilla family / Tarzan's ape friends",
+        "credit_id": "580e481c9251416e0a001b1d",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 66164,
+        "known_for_department": "Acting",
+        "name": "Cecily Fay",
+        "original_name": "Cecily Fay",
+        "popularity": 0.9082,
+        "profile_path": "/7o0LjsXXi01Zsyb8fvAouM9xESu.jpg",
+        "cast_id": 27,
+        "character": "Tarzan's ape friends",
+        "credit_id": "580e492a9251416e0a001bd9",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1336036,
+        "known_for_department": "Acting",
+        "name": "Lilly Forgách",
+        "original_name": "Lilly Forgách",
+        "popularity": 0.5813,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Mother of Derek",
+        "credit_id": "580e4998c3a368598c001a12",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1502472,
+        "known_for_department": "Acting",
+        "name": "Craig Garner",
+        "original_name": "Craig Garner",
+        "popularity": 0.47,
+        "profile_path": "/feCc4hA6jnumtlevnHZSGAKZpr3.jpg",
+        "cast_id": 29,
+        "character": "Tarzan Kid",
+        "credit_id": "580e4a2ac3a36859b1001c1b",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57035,
+        "known_for_department": "Writing",
+        "name": "Reinhard Klooss",
+        "original_name": "Reinhard Klooss",
+        "popularity": 0.4513,
+        "profile_path": "/9ymwHfcv1EYMN1fisz6uc01eVd3.jpg",
+        "credit_id": "52fe4dd2c3a36847f826f971",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57035,
+        "known_for_department": "Writing",
+        "name": "Reinhard Klooss",
+        "original_name": "Reinhard Klooss",
+        "popularity": 0.4513,
+        "profile_path": "/9ymwHfcv1EYMN1fisz6uc01eVd3.jpg",
+        "credit_id": "52fe4dd2c3a36847f826f97d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57035,
+        "known_for_department": "Writing",
+        "name": "Reinhard Klooss",
+        "original_name": "Reinhard Klooss",
+        "popularity": 0.4513,
+        "profile_path": "/9ymwHfcv1EYMN1fisz6uc01eVd3.jpg",
+        "credit_id": "53752fe7c3a3681ef4000279",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4017,
+        "known_for_department": "Production",
+        "name": "Robert Kulzer",
+        "original_name": "Robert Kulzer",
+        "popularity": 0.7143,
+        "profile_path": "/tzQeiYsq9CJIzGSN2nsmez68TM6.jpg",
+        "credit_id": "53752ffac3a3681ed4000271",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17080,
+        "known_for_department": "Production",
+        "name": "Martin Moszkowicz",
+        "original_name": "Martin Moszkowicz",
+        "popularity": 0.7528,
+        "profile_path": "/hRpeYFukt2UUwBYG050AE9JRhDU.jpg",
+        "credit_id": "5375301dc3a3681efb000242",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 36332,
+        "known_for_department": "Production",
+        "name": "Bernhard Thür",
+        "original_name": "Bernhard Thür",
+        "popularity": 0.4225,
+        "profile_path": null,
+        "credit_id": "5375303fc3a3681ee100027e",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15776,
+        "known_for_department": "Writing",
+        "name": "Edgar Rice Burroughs",
+        "original_name": "Edgar Rice Burroughs",
+        "popularity": 1.2511,
+        "profile_path": "/bUDtw9ZMeeTIKGrtZeYFeFfugo4.jpg",
+        "credit_id": "65194a95c50ad200c91b79de",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3393,
+        "known_for_department": "Sound",
+        "name": "David Newman",
+        "original_name": "David Newman",
+        "popularity": 0.7141,
+        "profile_path": "/gK3u0Xi2OCCF6ZImm0vciW82Sj9.jpg",
+        "credit_id": "5fd0dda9f90b19003d8c940d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 967321,
+        "known_for_department": "Writing",
+        "name": "Yoni Brenner",
+        "original_name": "Yoni Brenner",
+        "popularity": 0.9889,
+        "profile_path": "/EcgQHubcjCsWIm41rL0Hlg78OD.jpg",
+        "credit_id": "6a2225583bbc031f7139312e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1119149,
+        "known_for_department": "Writing",
+        "name": "Jessica Postigo",
+        "original_name": "Jessica Postigo",
+        "popularity": 0.4306,
+        "profile_path": null,
+        "credit_id": "6a222609176267a32498f032",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

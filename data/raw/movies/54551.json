@@ -1,0 +1,132 @@
+{
+  "adult": false,
+  "backdrop_path": "/fDjknkPghKnkFqqG268QEaW79X1.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 54551,
+  "imdb_id": "tt1814643",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Banana",
+  "overview": "The Minions fight over a delicious banana... but is that all they want?!",
+  "popularity": 2.8431,
+  "poster_path": "/AnmIMKAQjXLjD2DI0ba4D9DpkHv.jpg",
+  "production_companies": [
+    {
+      "id": 6704,
+      "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+      "name": "Illumination",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2010-12-13",
+  "revenue": 0,
+  "runtime": 4,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Banana",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 305,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124747,
+        "known_for_department": "Directing",
+        "name": "Pierre Coffin",
+        "original_name": "Pierre Coffin",
+        "popularity": 2.995,
+        "profile_path": "/eAA9uWRqHlm1LT3nZfXb7UuPfVb.jpg",
+        "cast_id": 1,
+        "character": "Minions (Various) (voice)",
+        "credit_id": "52fe48a2c3a36847f8171b0b",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 220833,
+        "known_for_department": "Directing",
+        "name": "Samuel Tourneux",
+        "original_name": "Samuel Tourneux",
+        "popularity": 0.5171,
+        "profile_path": "/9emrMVOSdOuXgXFRRA8wQmtb2xL.jpg",
+        "credit_id": "52fe48a2c3a36847f8171b17",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124747,
+        "known_for_department": "Directing",
+        "name": "Pierre Coffin",
+        "original_name": "Pierre Coffin",
+        "popularity": 2.995,
+        "profile_path": "/eAA9uWRqHlm1LT3nZfXb7UuPfVb.jpg",
+        "credit_id": "52fe48a2c3a36847f8171b1d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8023,
+        "known_for_department": "Directing",
+        "name": "Kyle Balda",
+        "original_name": "Kyle Balda",
+        "popularity": 1.7163,
+        "profile_path": "/kjf5Thaf8s5vImSN7JUJkW6jKG8.jpg",
+        "credit_id": "52fe48a2c3a36847f8171b11",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

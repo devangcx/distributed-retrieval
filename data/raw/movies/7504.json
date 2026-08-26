@@ -1,0 +1,443 @@
+{
+  "adult": false,
+  "backdrop_path": "/ygTBp6GDxpXNtur57iOmTFQXMe8.jpg",
+  "belongs_to_collection": {
+    "id": 1727256,
+    "name": "Elements Trilogy",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 7504,
+  "imdb_id": "tt0150433",
+  "origin_country": [
+    "CA",
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "1947: Earth",
+  "overview": "In 1947, the borderlines between India and Pakistan are being drawn. A young girl bears witnesses to tragedy as her ayah is caught between the love of two men and the rising tide of political and religious violence.",
+  "popularity": 1.1376,
+  "poster_path": "/hQtvQYlxfEHl45TR41lNSywrq4K.jpg",
+  "production_companies": [
+    {
+      "id": 2257,
+      "logo_path": null,
+      "name": "Cracking the Earth Films",
+      "origin_country": ""
+    },
+    {
+      "id": 720,
+      "logo_path": null,
+      "name": "Goldwyn Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "1998-09-16",
+  "revenue": 528972,
+  "runtime": 101,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Earth",
+  "video": false,
+  "vote_average": 6.558,
+  "vote_count": 43,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52763,
+        "known_for_department": "Acting",
+        "name": "Aamir Khan",
+        "original_name": "आमिर ख़ान",
+        "popularity": 3.2484,
+        "profile_path": "/6uiZSwi2kvd1jZ7X7Xz9W9VGuV4.jpg",
+        "cast_id": 2,
+        "character": "Dil Navaz",
+        "credit_id": "52fe4480c3a36847f8099e39",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 53372,
+        "known_for_department": "Acting",
+        "name": "Nandita Das",
+        "original_name": "Nandita Das",
+        "popularity": 1.0166,
+        "profile_path": "/8MiMH0am4MwJS0OZNXcGNB6sMRt.jpg",
+        "cast_id": 4,
+        "character": "Shanta",
+        "credit_id": "52fe4480c3a36847f8099e43",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86213,
+        "known_for_department": "Acting",
+        "name": "Rahul Khanna",
+        "original_name": "Rahul Khanna",
+        "popularity": 0.6424,
+        "profile_path": "/eXRnf2aCfpb7gItoWtuIHz4lOEo.jpg",
+        "cast_id": 21,
+        "character": "Hassan",
+        "credit_id": "5f2f9ce9559d220036735e19",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 53373,
+        "known_for_department": "Acting",
+        "name": "Maia Sethna",
+        "original_name": "Maia Sethna",
+        "popularity": 0.43,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Lenny Sethna",
+        "credit_id": "52fe4480c3a36847f8099e47",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 53374,
+        "known_for_department": "Acting",
+        "name": "Kitu Gidwani",
+        "original_name": "Kitu Gidwani",
+        "popularity": 0.689,
+        "profile_path": "/2A7DVWnC1AVu09K9YXMsSPZnTVV.jpg",
+        "cast_id": 6,
+        "character": "Bunty Sethna",
+        "credit_id": "52fe4480c3a36847f8099e4b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53375,
+        "known_for_department": "Acting",
+        "name": "Arif Zakaria",
+        "original_name": "Arif Zakaria",
+        "popularity": 0.9177,
+        "profile_path": "/fQx14DwQV2Z2p25t4bogVn9A2c.jpg",
+        "cast_id": 7,
+        "character": "Rustom Sethna",
+        "credit_id": "52fe4480c3a36847f8099e4f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53376,
+        "known_for_department": "Acting",
+        "name": "Eric Peterson",
+        "original_name": "Eric Peterson",
+        "popularity": 0.8021,
+        "profile_path": "/yDSXor1RJzjkfJ6sd7z3bqXMyZP.jpg",
+        "cast_id": 8,
+        "character": "Mr. Rogers",
+        "credit_id": "52fe4480c3a36847f8099e53",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53377,
+        "known_for_department": "Acting",
+        "name": "Kulbhushan Kharbanda",
+        "original_name": "Kulbhushan Kharbanda",
+        "popularity": 1.2578,
+        "profile_path": "/iboGvJPKZ98kU8YKgomn9Jpk0XN.jpg",
+        "cast_id": 9,
+        "character": "Imam Din",
+        "credit_id": "52fe4480c3a36847f8099e57",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53379,
+        "known_for_department": "Acting",
+        "name": "Pavan Malhotra",
+        "original_name": "Pavan Malhotra",
+        "popularity": 1.0877,
+        "profile_path": "/aqTzRvGsujDgxoLbVEvVEZVTyNr.jpg",
+        "cast_id": 10,
+        "character": "Butcher",
+        "credit_id": "52fe4480c3a36847f8099e5b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 53380,
+        "known_for_department": "Acting",
+        "name": "Sunil Mehra",
+        "original_name": "Sunil Mehra",
+        "popularity": 0.3046,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Toto Ramji",
+        "credit_id": "52fe4480c3a36847f8099e5f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 53381,
+        "known_for_department": "Acting",
+        "name": "Navtej Singh Johar",
+        "original_name": "Navtej Singh Johar",
+        "popularity": 0.2634,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Sher Singh",
+        "credit_id": "52fe4480c3a36847f8099e63",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52974,
+        "known_for_department": "Acting",
+        "name": "Raghubir Yadav",
+        "original_name": "Raghubir Yadav",
+        "popularity": 0.7314,
+        "profile_path": "/khyp4vnuGKVxrtszyB7kSf3vuzw.jpg",
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "5f2f9d2a3c3ab00034494bdd",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2317809,
+        "known_for_department": "Acting",
+        "name": "Kabir Chowdhury",
+        "original_name": "Kabir Chowdhury",
+        "popularity": 0.1977,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "5f2f9d3d417aaf0036f9eba1",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42208,
+        "known_for_department": "Acting",
+        "name": "Gulshan Grover",
+        "original_name": "Gulshan Grover",
+        "popularity": 1.1555,
+        "profile_path": "/hmGFOgCnYVUpeY1gTc0gx4QUCOF.jpg",
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "5f2f9d5ecdf2e600391fe2da",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2356248,
+        "known_for_department": "Acting",
+        "name": "Cinia Jain",
+        "original_name": "Cinia Jain",
+        "popularity": 0.3005,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "",
+        "credit_id": "5f2f9d88f1b5710036e8e6b2",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3197795,
+        "known_for_department": "Acting",
+        "name": "Lauren Walker",
+        "original_name": "Lauren Walker",
+        "popularity": 0.3312,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Mrs. Rogers",
+        "credit_id": "61184d31151c5c004611bb59",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4760,
+        "known_for_department": "Directing",
+        "name": "Deepa Mehta",
+        "original_name": "Deepa Mehta",
+        "popularity": 0.8755,
+        "profile_path": "/d4EDC75axLzRLvwlSz7xMIrqQbv.jpg",
+        "credit_id": "52fe4480c3a36847f8099e6f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5288,
+        "known_for_department": "Sound",
+        "name": "A.R. Rahman",
+        "original_name": "A.R. Rahman",
+        "popularity": 1.192,
+        "profile_path": "/3po8IwdtONY72BuXr7ZhZZ0ugxQ.jpg",
+        "credit_id": "52fe4480c3a36847f8099e7b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 53383,
+        "known_for_department": "Production",
+        "name": "Anne Masson",
+        "original_name": "Anne Masson",
+        "popularity": 0.2361,
+        "profile_path": null,
+        "credit_id": "52fe4480c3a36847f8099e75",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4760,
+        "known_for_department": "Directing",
+        "name": "Deepa Mehta",
+        "original_name": "Deepa Mehta",
+        "popularity": 0.8755,
+        "profile_path": "/d4EDC75axLzRLvwlSz7xMIrqQbv.jpg",
+        "credit_id": "52fe4480c3a36847f8099e3f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 53382,
+        "known_for_department": "Writing",
+        "name": "Bapsi Sidhwa",
+        "original_name": "Bapsi Sidhwa",
+        "popularity": 0.2914,
+        "profile_path": null,
+        "credit_id": "52fe4480c3a36847f8099e69",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4760,
+        "known_for_department": "Directing",
+        "name": "Deepa Mehta",
+        "original_name": "Deepa Mehta",
+        "popularity": 0.8755,
+        "profile_path": "/d4EDC75axLzRLvwlSz7xMIrqQbv.jpg",
+        "credit_id": "52fe4480c3a36847f8099e35",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3079,
+        "known_for_department": "Camera",
+        "name": "Giles Nuttgens",
+        "original_name": "Giles Nuttgens",
+        "popularity": 0.6428,
+        "profile_path": "/jz40SpwgZtAshuVWq2ThsGpxObs.jpg",
+        "credit_id": "52fe4480c3a36847f8099e81",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 988711,
+        "known_for_department": "Production",
+        "name": "Jhamu Sughand",
+        "original_name": "Jhamu Sughand",
+        "popularity": 0.3371,
+        "profile_path": null,
+        "credit_id": "5f2f9cc6f1b5710033e936d1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1640603,
+        "known_for_department": "Production",
+        "name": "David Hamilton",
+        "original_name": "David Hamilton",
+        "popularity": 0.36,
+        "profile_path": null,
+        "credit_id": "5f2f9c98559d220037742e39",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1761474,
+        "known_for_department": "Editing",
+        "name": "Barry Farrell",
+        "original_name": "Barry Farrell",
+        "popularity": 0.2854,
+        "profile_path": null,
+        "credit_id": "5f2f9c641fa1c800365fd5d7",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

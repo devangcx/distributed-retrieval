@@ -1,0 +1,410 @@
+{
+  "adult": false,
+  "backdrop_path": "/9A0wQG38VdEu3DYh8HzXKXKhA6g.jpg",
+  "belongs_to_collection": {
+    "id": 1625547,
+    "name": "Dora's Adventures Collection",
+    "poster_path": "/t5vmcugG6kEAhXisnyyzFkyVKOK.jpg",
+    "backdrop_path": "/jbvhmSUQPs8oIWG90Ltm02CFFa.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://www.paramountplus.com/movies/video/0rGhxcREd3RTSw_bnVFG5S8JRwQ57JEV/",
+  "id": 1287536,
+  "imdb_id": "tt32621553",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dora and the Search for Sol Dorado",
+  "overview": "Dora, Diego, and their new friends trek through the perilous dangers of the Amazonian jungle in search of the ancient and powerful treasure of Sol Dorado to keep it out of enemy hands.",
+  "popularity": 7.6886,
+  "poster_path": "/r3d6u2n7iPoWNsSWwlJJWrDblOH.jpg",
+  "production_companies": [
+    {
+      "id": 2348,
+      "logo_path": "/m31fQvZJuUvAgxoqTiCGYFBfZYe.png",
+      "name": "Nickelodeon Movies",
+      "origin_country": "US"
+    },
+    {
+      "id": 5371,
+      "logo_path": "/7EFsFPaWY5DFn8s9rz2ORHxAw0y.png",
+      "name": "Nickelodeon Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-07-02",
+  "revenue": 0,
+  "runtime": 96,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "C'mon, Vámonos!",
+  "title": "Dora and the Search for Sol Dorado",
+  "video": false,
+  "vote_average": 6.515,
+  "vote_count": 130,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2803791,
+        "known_for_department": "Acting",
+        "name": "Samantha Lorraine",
+        "original_name": "Samantha Lorraine",
+        "popularity": 1.2249,
+        "profile_path": "/kdWYPNAUxcmAnxcCLBvRqfyDCKg.jpg",
+        "cast_id": 1,
+        "character": "Dora",
+        "credit_id": "663c7f52974aacc8799e4c3c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3767332,
+        "known_for_department": "Acting",
+        "name": "Jacob Rodriguez",
+        "original_name": "Jacob Rodriguez",
+        "popularity": 1.0425,
+        "profile_path": "/xgHl6eOfpX5X9BfDUfndPBqz8ux.jpg",
+        "cast_id": 3,
+        "character": "Diego",
+        "credit_id": "666c7ddb784cd405b7188605",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5272401,
+        "known_for_department": "Acting",
+        "name": "Mariana Garzón Toro",
+        "original_name": "Mariana Garzón Toro",
+        "popularity": 0.4965,
+        "profile_path": "/ry2YGsBljhdSZhoM3tioM8CJyW.jpg",
+        "cast_id": 12,
+        "character": "Naiya",
+        "credit_id": "682b49a31245855917db2e35",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5374936,
+        "known_for_department": "Acting",
+        "name": "Acston Luca Porto",
+        "original_name": "Acston Luca Porto",
+        "popularity": 0.5215,
+        "profile_path": "/ipskTQQ9QQ6fYExuKlVgoAYWpAJ.jpg",
+        "cast_id": 8,
+        "character": "Sonny",
+        "credit_id": "67feb7233110bd82dfad887f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2596174,
+        "known_for_department": "Acting",
+        "name": "Christian Gnecco Quintero",
+        "original_name": "Christian Gnecco Quintero",
+        "popularity": 0.8509,
+        "profile_path": "/hFyAYVSo4imO5a5ZyCGfHzHgvm8.jpg",
+        "cast_id": 6,
+        "character": "Beetle",
+        "credit_id": "67feb4e1aacf7cfb2699c932",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86498,
+        "known_for_department": "Acting",
+        "name": "Gabriel Iglesias",
+        "original_name": "Gabriel Iglesias",
+        "popularity": 1.9284,
+        "profile_path": "/8Bjy3RZ5TfNs3oUOUpxTv84G01f.jpg",
+        "cast_id": 14,
+        "character": "Boots (voice)",
+        "credit_id": "682b49e7ccb6519a1fe24e5f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1257819,
+        "known_for_department": "Acting",
+        "name": "Daniella Pineda",
+        "original_name": "Daniella Pineda",
+        "popularity": 2.0645,
+        "profile_path": "/o8h5qbyy8A0zKTRN57YOlQOafyQ.jpg",
+        "cast_id": 13,
+        "character": "Camila",
+        "credit_id": "682b49bc1245855917db2e3a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 49818,
+        "known_for_department": "Acting",
+        "name": "Jacqueline Obradors",
+        "original_name": "Jacqueline Obradors",
+        "popularity": 3.0518,
+        "profile_path": "/ehB4tbbnfOcWGtvz4aNdYUzUZhZ.jpg",
+        "cast_id": 20,
+        "character": "Mango (voice)",
+        "credit_id": "6832feb874bf8ae53f2b6e2c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2521631,
+        "known_for_department": "Acting",
+        "name": "María Cecilia Botero",
+        "original_name": "María Cecilia Botero",
+        "popularity": 1.4385,
+        "profile_path": "/nH6eBBgv1PI9J6Ftkn01ny1TMt1.jpg",
+        "cast_id": 17,
+        "character": "Abuela",
+        "credit_id": "6832fe5ef14f7406a5837ab2",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2224756,
+        "known_for_department": "Acting",
+        "name": "Valentina Latyna Plascencia",
+        "original_name": "Valentina Latyna Plascencia",
+        "popularity": 0.4408,
+        "profile_path": "/g5mJtzz72A75XTQ3KmuRSX6tNKG.jpg",
+        "cast_id": 11,
+        "character": "Sabrina",
+        "credit_id": "67feb78ad645e41e099933b7",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5374940,
+        "known_for_department": "Acting",
+        "name": "Scarlett Spears",
+        "original_name": "Scarlett Spears",
+        "popularity": 1.8048,
+        "profile_path": "/h0loJ4v3wbUfUA6dxUYv7B6fET1.jpg",
+        "cast_id": 9,
+        "character": "Young Dora",
+        "credit_id": "67feb737ef5ae687cbd97f7b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3516191,
+        "known_for_department": "Acting",
+        "name": "Tiago Martinez",
+        "original_name": "Tiago Martinez",
+        "popularity": 0.5647,
+        "profile_path": "/hqbi17NIqvNmBhI2KiazHtdpS8j.jpg",
+        "cast_id": 7,
+        "character": "Young Diego",
+        "credit_id": "67feb61a7c29ae5bc3d9b658",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1512489,
+        "known_for_department": "Acting",
+        "name": "Valentina Acosta",
+        "original_name": "Valentina Acosta",
+        "popularity": 1.074,
+        "profile_path": "/20Lo37lVnFhPm4cxzjdebpXyVJP.jpg",
+        "cast_id": 19,
+        "character": "Elena Márquez",
+        "credit_id": "6832fe9ef14f7406a5837ab9",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1530440,
+        "known_for_department": "Acting",
+        "name": "Jay Santiago",
+        "original_name": "Jay Santiago",
+        "popularity": 0.4942,
+        "profile_path": "/vwxsBfdE7J7GLvkC0z5mljSGsVC.jpg",
+        "cast_id": 10,
+        "character": "Abuelo",
+        "credit_id": "67feb757437f0b80eead4a04",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544795,
+        "known_for_department": "Directing",
+        "name": "Alberto Belli",
+        "original_name": "Alberto Belli",
+        "popularity": 0.6353,
+        "profile_path": null,
+        "credit_id": "666c7e0daa3d6929622d077c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2111575,
+        "known_for_department": "Editing",
+        "name": "Evan Ahlgren",
+        "original_name": "Evan Ahlgren",
+        "popularity": 0.6294,
+        "profile_path": null,
+        "credit_id": "6846082917f22872843016da",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3628471,
+        "known_for_department": "Sound",
+        "name": "Kenny Wood",
+        "original_name": "Kenny Wood",
+        "popularity": 0.3571,
+        "profile_path": null,
+        "credit_id": "6865aae53dd44d3c537bf606",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2075125,
+        "known_for_department": "Camera",
+        "name": "Federico Cantini",
+        "original_name": "Federico Cantini",
+        "popularity": 0.3809,
+        "profile_path": null,
+        "credit_id": "6865ab00055d0a0cc0705477",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2177444,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Catalina Giangrandi",
+        "original_name": "Catalina Giangrandi",
+        "popularity": 0.3766,
+        "profile_path": null,
+        "credit_id": "686b7fbb82737718d851dfb4",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1726031,
+        "known_for_department": "Writing",
+        "name": "JT Billings",
+        "original_name": "JT Billings",
+        "popularity": 0.5867,
+        "profile_path": "/iBbvDAh96ZgyFu5iShgySiayuw9.jpg",
+        "credit_id": "68895d9fe8ba67b916a1a2fb",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1212785,
+        "known_for_department": "Writing",
+        "name": "Eric Weiner",
+        "original_name": "Eric Weiner",
+        "popularity": 0.5664,
+        "profile_path": null,
+        "credit_id": "68895db8ef2f814966e1377f",
+        "department": "Writing",
+        "job": "Original Series Creator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 92517,
+        "known_for_department": "Writing",
+        "name": "Valerie Walsh",
+        "original_name": "Valerie Walsh",
+        "popularity": 0.6929,
+        "profile_path": null,
+        "credit_id": "68895dc0efa49eead4e13733",
+        "department": "Writing",
+        "job": "Original Series Creator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1212792,
+        "known_for_department": "Writing",
+        "name": "Chris Gifford",
+        "original_name": "Chris Gifford",
+        "popularity": 1.0006,
+        "profile_path": null,
+        "credit_id": "68895dccf3aad789056943d5",
+        "department": "Writing",
+        "job": "Original Series Creator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2823972,
+        "known_for_department": "Crew",
+        "name": "Joel Timothy Bible",
+        "original_name": "Joel Timothy Bible",
+        "popularity": 0.2704,
+        "profile_path": null,
+        "credit_id": "6a1cb3a003ebba22a7811c6a",
+        "department": "Crew",
+        "job": "Studio Teacher"
+      }
+    ]
+  }
+}

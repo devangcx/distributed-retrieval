@@ -1,0 +1,306 @@
+{
+  "adult": false,
+  "backdrop_path": "/u0AAEDWsHwogilTHOXFuHRL9MYe.jpg",
+  "belongs_to_collection": null,
+  "budget": 840000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 277223,
+  "imdb_id": "tt3709344",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "City Lights",
+  "overview": "Deepak Singh was an ex army person and owned a small garment shop in a Rajasthani village. When his life struck by a tragedy, he migrates to Mumbai, with his wife and young child, hoping for a better life. However, upon arriving, he soon discovers the challenges of life in a big city.",
+  "popularity": 0.9955,
+  "poster_path": "/rrzypABFDyTpwbTLbmsXU9A8qEM.jpg",
+  "production_companies": [
+    {
+      "id": 3749,
+      "logo_path": "/54N3BYPtuETnYumu6gjv97dg6H8.png",
+      "name": "Vishesh Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2014-05-30",
+  "revenue": 0,
+  "runtime": 126,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "How far will you go for the love of your family?",
+  "title": "City Lights",
+  "video": false,
+  "vote_average": 7.029,
+  "vote_count": 35,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117727,
+        "known_for_department": "Acting",
+        "name": "Rajkummar Rao",
+        "original_name": "Rajkummar Rao",
+        "popularity": 1.3543,
+        "profile_path": "/ttBY7Y8x4NCpXfGS9Tc1NN8ISos.jpg",
+        "cast_id": 0,
+        "character": "Deepak Singh",
+        "credit_id": "54421ba80e0a2663330017ee",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1179627,
+        "known_for_department": "Acting",
+        "name": "Manav Kaul",
+        "original_name": "Manav Kaul",
+        "popularity": 1.1212,
+        "profile_path": "/xzb8QK85p7jqJaTqaTJORW6QLXj.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "592964bb9251413b5b04c62f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1489833,
+        "known_for_department": "Acting",
+        "name": "Pramod Pathak",
+        "original_name": "Pramod Pathak",
+        "popularity": 0.9079,
+        "profile_path": "/1bGesMEYH2LylER18k6kbSltAmu.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "592965c09251413b4104a9b4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1085431,
+        "known_for_department": "Acting",
+        "name": "Sadiya Siddiqui",
+        "original_name": "Sadiya Siddiqui",
+        "popularity": 0.9402,
+        "profile_path": "/m057YR5pZ4zI8XWAlQZ8RoBXZKQ.jpg",
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "59296772c3a368782d046dd5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1602232,
+        "known_for_department": "Acting",
+        "name": "Patralekhaa",
+        "original_name": "Patralekhaa",
+        "popularity": 0.7698,
+        "profile_path": "/guQD3gK8pHlv0WQA9GI25YB2siP.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "592964f8c3a36877df04dc9c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1471177,
+        "known_for_department": "Acting",
+        "name": "Vinod Rawat",
+        "original_name": "Vinod Rawat",
+        "popularity": 0.3888,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "592965af9251413b54048560",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1824459,
+        "known_for_department": "Acting",
+        "name": "Amarjeet Singh",
+        "original_name": "Amarjeet Singh",
+        "popularity": 0.4726,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "59296682c3a36877bc05093d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1780105,
+        "known_for_department": "Acting",
+        "name": "Khushboo Upadhyay",
+        "original_name": "Khushboo Upadhyay",
+        "popularity": 0.6129,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "5929670e9251413b4a04abf6",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3333840,
+        "known_for_department": "Sound",
+        "name": "Mohammed Irfan",
+        "original_name": "Mohammed Irfan",
+        "popularity": 0.3214,
+        "profile_path": "/4ElVOHuw9lLaaxMcNYM25sIios9.jpg",
+        "credit_id": "61af8c38a6c104006233c606",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1244561,
+        "known_for_department": "Sound",
+        "name": "Usha Uthup",
+        "original_name": "Usha Uthup",
+        "popularity": 0.632,
+        "profile_path": "/my2bXpLiJl3a3nmygIhnDulqqRf.jpg",
+        "credit_id": "61af8c7fda9ef20062a8fd63",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1796865,
+        "known_for_department": "Sound",
+        "name": "Arijit Singh",
+        "original_name": "Arijit Singh",
+        "popularity": 0.6757,
+        "profile_path": "/2PebQIwbUQDOctnwQ0jSqTLQ5l9.jpg",
+        "credit_id": "61af8c575bce9e0091d1379f",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2306121,
+        "known_for_department": "Sound",
+        "name": "Neeti Mohan",
+        "original_name": "Neeti Mohan",
+        "popularity": 0.4931,
+        "profile_path": "/mfrrDiy6lRoNGBz6i8bdJ6l6VXu.jpg",
+        "credit_id": "61af8c68da9ef2008daaa92d",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1280415,
+        "known_for_department": "Sound",
+        "name": "Jeet Gannguli",
+        "original_name": "Jeet Gannguli",
+        "popularity": 0.5205,
+        "profile_path": "/r2WUHuWUmBGbSZmWFJUfu5yB0Jk.jpg",
+        "credit_id": "61af8c491108a8001cb3aeac",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1805689,
+        "known_for_department": "Crew",
+        "name": "Dev Agarwal",
+        "original_name": "Dev Agarwal",
+        "popularity": 0.2848,
+        "profile_path": null,
+        "credit_id": "59031445c3a3682866007c8e",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88802,
+        "known_for_department": "Production",
+        "name": "Mukesh Bhatt",
+        "original_name": "Mukesh Bhatt",
+        "popularity": 0.739,
+        "profile_path": "/yHEtla0qYbPGXGXSaYGIlKWERLT.jpg",
+        "credit_id": "5929680c9251413b4104ab8d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 990865,
+        "known_for_department": "Directing",
+        "name": "Hansal Mehta",
+        "original_name": "Hansal Mehta",
+        "popularity": 0.6859,
+        "profile_path": "/nOol2pFJsjQBKz1WUpc0bEMcNqb.jpg",
+        "credit_id": "592967d99251413ba004628a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2530700,
+        "known_for_department": "Writing",
+        "name": "Rashmi Singh",
+        "original_name": "Rashmi Singh",
+        "popularity": 0.2693,
+        "profile_path": null,
+        "credit_id": "5e3bce0798f1f1000f0b37b8",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2348935,
+        "known_for_department": "Sound",
+        "name": "Rashid Khan",
+        "original_name": "Rashid Khan",
+        "popularity": 0.3886,
+        "profile_path": "/2YaXhEhRIba3kRk6pSrN1r6gPIb.jpg",
+        "credit_id": "694c279fea775d1468b1d7a8",
+        "department": "Sound",
+        "job": "Playback Singer"
+      }
+    ]
+  }
+}

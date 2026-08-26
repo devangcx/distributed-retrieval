@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/aGEIxY2U6VSZ6omD1NFysVRempH.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "http://www.orientedfilm.com",
+  "id": 344900,
+  "imdb_id": "tt4982250",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Oriented",
+  "overview": "Documentary of three gay men living in the Palestine-Israel region trade reflections on their situation and that of the region they live.",
+  "popularity": 2.9663,
+  "poster_path": "/6IFaAZFCR3i918fbvXdnCSprKK3.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IL",
+      "name": "Israel"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2015-06-06",
+  "revenue": 0,
+  "runtime": 85,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    },
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "עִבְרִית"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Oriented",
+  "video": false,
+  "vote_average": 4.68,
+  "vote_count": 25,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1478011,
+        "known_for_department": "Directing",
+        "name": "Jake Witzenfeld",
+        "original_name": "Jake Witzenfeld",
+        "popularity": 0.7589,
+        "profile_path": null,
+        "credit_id": "55810ee7c3a3681660001441",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "adult": false,
+  "backdrop_path": "/hrchlLkjT0ejyp7tWIprCZxRHm.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.ifcfilms.com/films/king-cobra",
+  "id": 390584,
+  "imdb_id": "tt5129682",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "King Cobra",
+  "overview": "It’s 2006, YouTube is in its infancy, and internet porn is still behind a paywall. Taking the stage name Brent Corrigan, a fresh-faced, wannabe adult video performer is molded into a star by Stephen, a closeted gay porn mogul who runs the skin flick empire Cobra Video from his seemingly ordinary suburban home.",
+  "popularity": 3.5274,
+  "poster_path": "/sEun5y2q3aIrmpIAAhtS9G2JwH0.jpg",
+  "production_companies": [
+    {
+      "id": 76629,
+      "logo_path": null,
+      "name": "Digital Ignition Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 75355,
+      "logo_path": "/avj80RsunqwDbOS6oLp4plRE5UQ.png",
+      "name": "Yale Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 65649,
+      "logo_path": "/tXTuZTEcYYB1hIyAAwDyhZE0f7c.png",
+      "name": "SSS Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 75357,
+      "logo_path": "/zXT1JFP82YL245wlLpauAJDZA25.png",
+      "name": "BondIt",
+      "origin_country": "US"
+    },
+    {
+      "id": 8924,
+      "logo_path": "/5NTQun1m6FVJVOVHOubJ5SqyMvi.png",
+      "name": "Rabbit Bandini Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2016-10-21",
+  "revenue": 81757,
+  "runtime": 93,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sex is not a game, it's business.",
+  "title": "King Cobra",
+  "video": false,
+  "vote_average": 5.851,
+  "vote_count": 491,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1031685,
+        "known_for_department": "Acting",
+        "name": "Garrett Clayton",
+        "original_name": "Garrett Clayton",
+        "popularity": 1.0233,
+        "profile_path": "/wFXxqzPGdoSceK6YlgyBdWeNgfT.jpg",
+        "cast_id": 20,
+        "character": "Sean Paul Lockhart / Brent Corrigan",
+        "credit_id": "57228450c3a3682d3f0006a0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2224,
+        "known_for_department": "Acting",
+        "name": "Christian Slater",
+        "original_name": "Christian Slater",
+        "popularity": 5.1979,
+        "profile_path": "/6ww3uweEEXMlvtNjTlgBHxLErPF.jpg",
+        "cast_id": 19,
+        "character": "Stephen (Bryan Kocis)",
+        "credit_id": "5722842cc3a3682d200006d2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1193605,
+        "known_for_department": "Acting",
+        "name": "Keegan Allen",
+        "original_name": "Keegan Allen",
+        "popularity": 1.0351,
+        "profile_path": "/jgfovzyywuJ5Y3o5A1HrYHTvN0.jpg",
+        "cast_id": 21,
+        "character": "Harlow Cuadra",
+        "credit_id": "5722845e9251413ea3000690",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17051,
+        "known_for_department": "Acting",
+        "name": "James Franco",
+        "original_name": "James Franco",
+        "popularity": 5.8351,
+        "profile_path": "/bjmAntHGiibLZixH8nTNVBzaFQn.jpg",
+        "cast_id": 18,
+        "character": "Joe Kerekes",
+        "credit_id": "5722841e9251417688000180",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5588,
+        "known_for_department": "Acting",
+        "name": "Alicia Silverstone",
+        "original_name": "Alicia Silverstone",
+        "popularity": 3.335,
+        "profile_path": "/pyxqkP4i0ubVdoRe5hoiiiwkHkb.jpg",
+        "cast_id": 23,
+        "character": "Janette",
+        "credit_id": "57228480c3a3682d240006e2",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 21625,
+        "known_for_department": "Acting",
+        "name": "Molly Ringwald",
+        "original_name": "Molly Ringwald",
+        "popularity": 2.7676,
+        "profile_path": "/eXRphPiX18t8C3nCoOuxQFNegqP.jpg",
+        "cast_id": 22,
+        "character": "Amy",
+        "credit_id": "5722846ec3a368759c0001b6",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1174927,
+        "known_for_department": "Acting",
+        "name": "Spencer Rocco Lofranco",
+        "original_name": "Spencer Rocco Lofranco",
+        "popularity": 1.0552,
+        "profile_path": "/fmvnLOARUpDmMZMviU2F4mH9Fmb.jpg",
+        "cast_id": 24,
+        "character": "Mikey",
+        "credit_id": "5722848cc3a3682d1e00065d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1594982,
+        "known_for_department": "Acting",
+        "name": "Sean Grandillo",
+        "original_name": "Sean Grandillo",
+        "popularity": 0.6974,
+        "profile_path": "/zSqRbsrtiLOZH2vRdiPYkWxcfHA.jpg",
+        "cast_id": 25,
+        "character": "Caleb",
+        "credit_id": "572284969251413eac00063f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130843,
+        "known_for_department": "Acting",
+        "name": "Rosemary Howard",
+        "original_name": "Rosemary Howard",
+        "popularity": 0.5907,
+        "profile_path": "/DJj5tzb25LanRIeHoNtDccNm7b.jpg",
+        "cast_id": 26,
+        "character": "La voisine bruyante",
+        "credit_id": "572284b992514176470001ab",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141367,
+        "known_for_department": "Acting",
+        "name": "Edward Crawford",
+        "original_name": "Edward Crawford",
+        "popularity": 0.6065,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Tyson",
+        "credit_id": "572284c69251413eaf0006e1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 180495,
+        "known_for_department": "Acting",
+        "name": "Ron Simons",
+        "original_name": "Ron Simons",
+        "popularity": 0.6535,
+        "profile_path": "/hfECgLrIgd7JwUBy1KgLdFZep1e.jpg",
+        "cast_id": 28,
+        "character": "Hardy",
+        "credit_id": "572284d4c3a368759c0001c8",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 214712,
+        "known_for_department": "Acting",
+        "name": "Joe James",
+        "original_name": "Joe James",
+        "popularity": 0.4789,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Tow Truck Driver",
+        "credit_id": "685852783e8088a976036bf2",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4231275,
+        "known_for_department": "Acting",
+        "name": "Miles Hardy",
+        "original_name": "Miles Hardy",
+        "popularity": 0.2737,
+        "profile_path": null,
+        "credit_id": "64e6f543e894a600c727c3e5",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1362819,
+        "known_for_department": "Directing",
+        "name": "Justin Kelly",
+        "original_name": "Justin Kelly",
+        "popularity": 0.5858,
+        "profile_path": "/em8IcoR4dhnIkIL2eWpuzk6MmyD.jpg",
+        "credit_id": "56fc3c9c92514160e9000932",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1362819,
+        "known_for_department": "Directing",
+        "name": "Justin Kelly",
+        "original_name": "Justin Kelly",
+        "popularity": 0.5858,
+        "profile_path": "/em8IcoR4dhnIkIL2eWpuzk6MmyD.jpg",
+        "credit_id": "570f92059251416a56000d18",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1575523,
+        "known_for_department": "Camera",
+        "name": "Benjamin Loeb",
+        "original_name": "Benjamin Loeb",
+        "popularity": 0.7908,
+        "profile_path": "/hXBo8hFUwvYicyHpzXpe5YH4PLw.jpg",
+        "credit_id": "570f9248c3a3685378002d9f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1578907,
+        "known_for_department": "Editing",
+        "name": "Joshua Raymond Lee",
+        "original_name": "Joshua Raymond Lee",
+        "popularity": 0.5429,
+        "profile_path": "/i7CC6LxCuBtltFaKpDHLXUZf14B.jpg",
+        "credit_id": "570f9290925141016f001e4f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1605717,
+        "known_for_department": "Sound",
+        "name": "Tim Kvasnosky",
+        "original_name": "Tim Kvasnosky",
+        "popularity": 0.4245,
+        "profile_path": null,
+        "credit_id": "570f92a7c3a3685370002fa2",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17051,
+        "known_for_department": "Acting",
+        "name": "James Franco",
+        "original_name": "James Franco",
+        "popularity": 5.8351,
+        "profile_path": "/bjmAntHGiibLZixH8nTNVBzaFQn.jpg",
+        "credit_id": "570f92b6c3a3685370002fa9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 622844,
+        "known_for_department": "Production",
+        "name": "Vince Jolivette",
+        "original_name": "Vince Jolivette",
+        "popularity": 0.7404,
+        "profile_path": null,
+        "credit_id": "570f92c9c3a368538500301e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1023306,
+        "known_for_department": "Production",
+        "name": "Jordan Yale Levine",
+        "original_name": "Jordan Yale Levine",
+        "popularity": 0.5065,
+        "profile_path": "/4HWd65IXQeYChp9SflB0l41Y7TA.jpg",
+        "credit_id": "570f92d7c3a368538b002fd7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1605719,
+        "known_for_department": "Production",
+        "name": "Scott Levenson",
+        "original_name": "Scott Levenson",
+        "popularity": 0.454,
+        "profile_path": null,
+        "credit_id": "570f92e39251413a920004b5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1384817,
+        "known_for_department": "Production",
+        "name": "Shaun S. Sanghani",
+        "original_name": "Shaun S. Sanghani",
+        "popularity": 0.5375,
+        "profile_path": "/pTDTZAn87r1qT2K8yh4mQn95mrZ.jpg",
+        "credit_id": "570f92f492514102b9002d9a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1544259,
+        "known_for_department": "Art",
+        "name": "Anastasia White",
+        "original_name": "Anastasia White",
+        "popularity": 0.3973,
+        "profile_path": "/5l3t0vHoBzq8QK6Hz6smDkOv6YJ.jpg",
+        "credit_id": "570f930c9251416a56000d4c",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1526871,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Matthew Simonelli",
+        "original_name": "Matthew Simonelli",
+        "popularity": 0.4256,
+        "profile_path": null,
+        "credit_id": "570f933392514102b9002da1",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 228870,
+        "known_for_department": "Writing",
+        "name": "Derek Zemrak",
+        "original_name": "Derek Zemrak",
+        "popularity": 0.4491,
+        "profile_path": null,
+        "credit_id": "5f57d368fd4a9600372c879b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3978877,
+        "known_for_department": "Production",
+        "name": "Pamela Jones",
+        "original_name": "Pamela Jones",
+        "popularity": 0.3335,
+        "profile_path": null,
+        "credit_id": "66dced77be21f92cda9dc37b",
+        "department": "Production",
+        "job": "Post Production Accountant"
+      }
+    ]
+  }
+}

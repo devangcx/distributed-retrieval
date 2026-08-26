@@ -1,0 +1,410 @@
+{
+  "adult": false,
+  "backdrop_path": "/fMvkHAtp90Loap2YTE7HXtGZ1nk.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.kungfupanda.com",
+  "id": 381693,
+  "imdb_id": "tt5513770",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Kung Fu Panda: Secrets of the Scroll",
+  "overview": "As Po looks for his lost action figures, the story of how the panda inadvertently helped create the Furious Five is told.",
+  "popularity": 4.1426,
+  "poster_path": "/t5a7bKi9rJkLIPzA7XlrxdCrchQ.jpg",
+  "production_companies": [
+    {
+      "id": 521,
+      "logo_path": "/3BPX5VGBov8SDqTV7wC1L1xShAS.png",
+      "name": "DreamWorks Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2016-01-05",
+  "revenue": 0,
+  "runtime": 23,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kung Fu Panda: Secrets of the Scroll",
+  "video": false,
+  "vote_average": 6.89,
+  "vote_count": 245,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70851,
+        "known_for_department": "Acting",
+        "name": "Jack Black",
+        "original_name": "Jack Black",
+        "popularity": 8.2721,
+        "profile_path": "/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg",
+        "cast_id": 2,
+        "character": "Po (voice)",
+        "credit_id": "56ed8acec3a3682253007a1b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20904,
+        "known_for_department": "Acting",
+        "name": "James Hong",
+        "original_name": "James Hong",
+        "popularity": 2.8969,
+        "profile_path": "/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg",
+        "cast_id": 3,
+        "character": "Mr. Ping (voice)",
+        "credit_id": "56ed8b1c9251415e620072c7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4483,
+        "known_for_department": "Acting",
+        "name": "Dustin Hoffman",
+        "original_name": "Dustin Hoffman",
+        "popularity": 4.2813,
+        "profile_path": "/yFjTzJHE6AFbwQifOlnNDzmiwlq.jpg",
+        "cast_id": 4,
+        "character": "Shifu / Warrior (voice)",
+        "credit_id": "56ed8b33c3a368226000775c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19274,
+        "known_for_department": "Acting",
+        "name": "Seth Rogen",
+        "original_name": "Seth Rogen",
+        "popularity": 6.5646,
+        "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+        "cast_id": 5,
+        "character": "Mantis (voice)",
+        "credit_id": "56ed8b66c3a36822590069af",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 140,
+        "known_for_department": "Acting",
+        "name": "Lucy Liu",
+        "original_name": "Lucy Liu",
+        "popularity": 4.8749,
+        "profile_path": "/9nbtjqsx3De7hO2XDtrBQ7M9VCH.jpg",
+        "cast_id": 6,
+        "character": "Viper (voice)",
+        "credit_id": "56ed8ba4c3a36822590069c0",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 116315,
+        "known_for_department": "Acting",
+        "name": "Kari Wahlgren",
+        "original_name": "Kari Wahlgren",
+        "popularity": 2.3589,
+        "profile_path": "/kc0BOnSdzCfq8w9qoNVEm5K12x1.jpg",
+        "cast_id": 7,
+        "character": "Adult Tigress (voice)",
+        "credit_id": "56ed8be7c3a36822590069ca",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1593099,
+        "known_for_department": "Acting",
+        "name": "Tara Macri",
+        "original_name": "Tara Macri",
+        "popularity": 0.3234,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Young Tigress (voice)",
+        "credit_id": "56ed8c3e92514171a0000ae9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9462,
+        "known_for_department": "Acting",
+        "name": "Randall Duk Kim",
+        "original_name": "Randall Duk Kim",
+        "popularity": 1.2894,
+        "profile_path": "/31T1gSUP67F2qPI3x6uLJn3Sat7.jpg",
+        "cast_id": 9,
+        "character": "Oogway (voice)",
+        "credit_id": "56ed8c62c3a3682253007a5c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 212,
+        "known_for_department": "Acting",
+        "name": "David Cross",
+        "original_name": "David Cross",
+        "popularity": 3.2875,
+        "profile_path": "/aYsbAtUu5oWk1p8RY31k3w5Emul.jpg",
+        "cast_id": 10,
+        "character": "Crane (voice)",
+        "credit_id": "56ed8ca49251414dba0059b5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 154932,
+        "known_for_department": "Acting",
+        "name": "Jayden Lund",
+        "original_name": "Jayden Lund",
+        "popularity": 0.708,
+        "profile_path": "/soWrb6CAHEMB2kws2LVeYQ5bIu.jpg",
+        "cast_id": 13,
+        "character": "Boar (voice)",
+        "credit_id": "56ee5478c3a368224e009f6e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 154657,
+        "known_for_department": "Acting",
+        "name": "James Sie",
+        "original_name": "James Sie",
+        "popularity": 1.6044,
+        "profile_path": "/yZ8SFsJJNmhgtNizwcWfknyBoBt.jpg",
+        "cast_id": 14,
+        "character": "Monkey / Viper's Dad (voice)",
+        "credit_id": "56ee5491c3a368225300a36a",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1679908,
+        "known_for_department": "Acting",
+        "name": "Eliott Guenoden",
+        "original_name": "Eliott Guenoden",
+        "popularity": 0.2529,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Young Bunny / Young Pig (voice)",
+        "credit_id": "57db9c76c3a3681a0c0048f4",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1448984,
+        "known_for_department": "Acting",
+        "name": "Stephen Kearin",
+        "original_name": "Stephen Kearin",
+        "popularity": 1.0278,
+        "profile_path": "/o5AaZCyHXr50P7LE4wR8uuocuAZ.jpg",
+        "cast_id": 19,
+        "character": "Master Mongrel (voice)",
+        "credit_id": "57db9c77c3a368079600490f",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1453790,
+        "known_for_department": "Acting",
+        "name": "Joseph Izzo",
+        "original_name": "Joseph Izzo",
+        "popularity": 0.5792,
+        "profile_path": "/lz9jjo1U0FpqafA7nUIH0kzJ6io.jpg",
+        "cast_id": 20,
+        "character": "Palace Goose / Sheep (voice)",
+        "credit_id": "57db9c77c3a3680796004911",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 994295,
+        "known_for_department": "Acting",
+        "name": "Jerry Clarke",
+        "original_name": "Jerry Clarke",
+        "popularity": 0.5084,
+        "profile_path": "/326yUs8R8cfehu4M2z6MCzZKRUI.jpg",
+        "cast_id": 21,
+        "character": "Gorilla (voice)",
+        "credit_id": "57db9c77c3a3680796004913",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 984377,
+        "known_for_department": "Acting",
+        "name": "Peter Cilella",
+        "original_name": "Peter Cilella",
+        "popularity": 0.6085,
+        "profile_path": "/ltIdtNgn3XXxNJ2whQUQUT3y2UL.jpg",
+        "cast_id": 22,
+        "character": "Goat (voice)",
+        "credit_id": "57db9c77c3a36807830049dd",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 107791,
+        "known_for_department": "Acting",
+        "name": "Kelly Stables",
+        "original_name": "Kelly Stables",
+        "popularity": 1.9087,
+        "profile_path": "/6ysySZJHJxWYk3KRs6GNG21BoOc.jpg",
+        "cast_id": 23,
+        "character": "Mother Bunny (voice)",
+        "credit_id": "57db9c78c3a368078b0050f1",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1593086,
+        "known_for_department": "Directing",
+        "name": "Rodolphe Guenoden",
+        "original_name": "Rodolphe Guenoden",
+        "popularity": 0.4023,
+        "profile_path": null,
+        "credit_id": "56ed8a809251412f2600040a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 590928,
+        "known_for_department": "Writing",
+        "name": "Paul McEvoy",
+        "original_name": "Paul McEvoy",
+        "popularity": 0.6795,
+        "profile_path": null,
+        "credit_id": "56ed8aa8c3a3682259006987",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1593108,
+        "known_for_department": "Production",
+        "name": "Karen Foster",
+        "original_name": "Karen Foster",
+        "popularity": 0.4199,
+        "profile_path": null,
+        "credit_id": "56ed8ed29251412f260004b0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 946051,
+        "known_for_department": "Production",
+        "name": "Melissa Cobb",
+        "original_name": "Melissa Cobb",
+        "popularity": 0.4847,
+        "profile_path": "/4o7pL5v5KQUx64R2rSNJIMRnMhT.jpg",
+        "credit_id": "56ed8f1e9251415e62007389",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 929145,
+        "known_for_department": "Sound",
+        "name": "Lorne Balfe",
+        "original_name": "Lorne Balfe",
+        "popularity": 0.8033,
+        "profile_path": "/ryV3HjdAiFH2VQGQY6yXy4z9Xbk.jpg",
+        "credit_id": "63971cd9d05a0300ae508b19",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 947,
+        "known_for_department": "Sound",
+        "name": "Hans Zimmer",
+        "original_name": "Hans Zimmer",
+        "popularity": 3.5936,
+        "profile_path": "/tpQnDeHY15szIXvpnhlprufz4d.jpg",
+        "credit_id": "63971ce7d05a0300ae508b22",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2001833,
+        "known_for_department": "Visual Effects",
+        "name": "Tony Siruno",
+        "original_name": "Tony Siruno",
+        "popularity": 0.6618,
+        "profile_path": null,
+        "credit_id": "697e8d6de4a96311bf70e6a4",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2002369,
+        "known_for_department": "Editing",
+        "name": "Michelle Cabalu",
+        "original_name": "Michelle Cabalu",
+        "popularity": 0.447,
+        "profile_path": null,
+        "credit_id": "697fb38cd9992998221ebc3e",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      }
+    ]
+  }
+}

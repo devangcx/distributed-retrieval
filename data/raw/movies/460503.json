@@ -1,0 +1,100 @@
+{
+  "adult": false,
+  "backdrop_path": "/9qYM5yV6zAblWZV9SmMoxZICEUP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 460503,
+  "imdb_id": "tt6789140",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "बिस्वा कल्याण रथ: बिस्वा मस्त आदमी",
+  "overview": "Biswa Mast Aadmi is a stand-up comedy show by Biswa Kalyan Rath, where he cracks jokes on topics. It's funny to the audience and they laugh, thus creating sound. This, in turn, encourages Biswa to crack more jokes, so he cracks more jokes on more topics.",
+  "popularity": 0.8281,
+  "poster_path": "/bTJAbHCIMgUxqp70850TXNPYneV.jpg",
+  "production_companies": [
+    {
+      "id": 90529,
+      "logo_path": null,
+      "name": "OML Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2017-05-19",
+  "revenue": 0,
+  "runtime": 60,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Biswa Kalyan Rath: Biswa Mast Aadmi",
+  "video": false,
+  "vote_average": 7.381,
+  "vote_count": 21,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1831415,
+        "known_for_department": "Writing",
+        "name": "Biswa Kalyan Rath",
+        "original_name": "Biswa Kalyan Rath",
+        "popularity": 0.6089,
+        "profile_path": "/rNkuQAPpY2NkdsCaTeB6OkSLIK0.jpg",
+        "cast_id": 0,
+        "character": "Himself",
+        "credit_id": "593bd417c3a3680f4200c3f4",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1831593,
+        "known_for_department": "Camera",
+        "name": "Siddharth Vasani",
+        "original_name": "Siddharth Vasani",
+        "popularity": 0.7814,
+        "profile_path": "/6oDsoNGOpiDrk8SFi5Qr5PmWAi6.jpg",
+        "credit_id": "593c3bccc3a3680f420113c2",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1831415,
+        "known_for_department": "Writing",
+        "name": "Biswa Kalyan Rath",
+        "original_name": "Biswa Kalyan Rath",
+        "popularity": 0.6089,
+        "profile_path": "/rNkuQAPpY2NkdsCaTeB6OkSLIK0.jpg",
+        "credit_id": "593c3be5c3a3680f420113d7",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

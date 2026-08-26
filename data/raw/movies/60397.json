@@ -1,0 +1,236 @@
+{
+  "adult": false,
+  "backdrop_path": "/qztRGrjIfJhaOS7rleVv5uFarIi.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 60397,
+  "imdb_id": "tt0173081",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "प्यार तो होना ही था",
+  "overview": "Sanjana is desperate to revive her hopeless relationship with Rahul. However, when the brooding and mysterious Shekhar comes along, her heart starts gravitating towards a new possibility.",
+  "popularity": 1.2833,
+  "poster_path": "/7AxLqNWoZIzvqdNAyb62JwDHr4W.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "1998-07-15",
+  "revenue": 0,
+  "runtime": 156,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Pyaar To Hona Hi Tha",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 25,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42803,
+        "known_for_department": "Acting",
+        "name": "Ajay Devgn",
+        "original_name": "Ajay Devgan",
+        "popularity": 2.3821,
+        "profile_path": "/vnHQQFzTjJ0sv14DGMIoKa3qTxN.jpg",
+        "cast_id": 2,
+        "character": "Shekhar",
+        "credit_id": "52fe4622c3a368484e0809ef",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55061,
+        "known_for_department": "Acting",
+        "name": "Kajol",
+        "original_name": "काजोल",
+        "popularity": 3.1277,
+        "profile_path": "/h4m0TkDuEMCUNaPrQxMRyFb2AQ7.jpg",
+        "cast_id": 3,
+        "character": "Sanjana",
+        "credit_id": "52fe4622c3a368484e0809f3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86283,
+        "known_for_department": "Acting",
+        "name": "Kashmera Shah",
+        "original_name": "Kashmera Shah",
+        "popularity": 0.8295,
+        "profile_path": "/ITOuD1fj5FKo2p98wjfVdDtEpv.jpg",
+        "cast_id": 4,
+        "character": "Nisha",
+        "credit_id": "52fe4622c3a368484e0809f7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11851,
+        "known_for_department": "Acting",
+        "name": "Om Puri",
+        "original_name": "Om Puri",
+        "popularity": 1.1886,
+        "profile_path": "/3xENmjr7CA8ACRViHnjOI5jPQUt.jpg",
+        "cast_id": 5,
+        "character": "Inspector Khan",
+        "credit_id": "52fe4622c3a368484e0809fb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86228,
+        "known_for_department": "Acting",
+        "name": "Tiku Talsania",
+        "original_name": "Tiku Talsania",
+        "popularity": 0.6838,
+        "profile_path": "/pcEzSYDTRrnvA5pcbxhrfGOVTuM.jpg",
+        "cast_id": 7,
+        "character": "Kumar Mangat",
+        "credit_id": "5f53a7a6ec18790036fc34b9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35750,
+        "known_for_department": "Acting",
+        "name": "Reema Lagoo",
+        "original_name": "Reema Lagoo",
+        "popularity": 0.8198,
+        "profile_path": "/hQ5r2pPD8T94Dli5oNP6IlwEf1c.jpg",
+        "cast_id": 8,
+        "character": "Babhi",
+        "credit_id": "5f53a7aeec18790037fd70dd",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53362,
+        "known_for_department": "Acting",
+        "name": "Harish Patel",
+        "original_name": "Harish Patel",
+        "popularity": 0.8038,
+        "profile_path": "/g2aHA5J5ODMcBgIwCa72ykcmN85.jpg",
+        "cast_id": 9,
+        "character": "Rahul & Sanjana's Boss",
+        "credit_id": "5f53a7b7848eb900345f1c44",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32335,
+        "known_for_department": "Acting",
+        "name": "Mushtaq Khan",
+        "original_name": "Mushtaq Khan",
+        "popularity": 0.8584,
+        "profile_path": "/xj2fPOfGRiQCFp7V9MUAlshNGZH.jpg",
+        "cast_id": 10,
+        "character": "John",
+        "credit_id": "5f53a7d6a0b6900034d0ee52",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1017460,
+        "known_for_department": "Acting",
+        "name": "Adi Irani",
+        "original_name": "Adi Irani",
+        "popularity": 1.1448,
+        "profile_path": "/eE0MF0bAWUh3aFhlGqsJGCIAja8.jpg",
+        "cast_id": 11,
+        "character": "Receptionist",
+        "credit_id": "5f53a7edec18790036fc34eb",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3107455,
+        "known_for_department": "Acting",
+        "name": "Bijay Anand",
+        "original_name": "Bijay Anand",
+        "popularity": 0.5796,
+        "profile_path": "/2OMzxgekQLIRpRXaBS5kYLKNa8X.jpg",
+        "cast_id": 12,
+        "character": "Rahul Bajaj",
+        "credit_id": "65354a4ac14fee011de81345",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85801,
+        "known_for_department": "Writing",
+        "name": "Anees Bazmee",
+        "original_name": "Anees Bazmee",
+        "popularity": 0.6504,
+        "profile_path": "/5ZapTXeavaYyMhhurei7qzHgd7D.jpg",
+        "credit_id": "52fe4622c3a368484e0809eb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1083220,
+        "known_for_department": "Art",
+        "name": "Nitin Chandrakant Desai",
+        "original_name": "Nitin Chandrakant Desai",
+        "popularity": 0.5178,
+        "profile_path": "/iYTGkDlGGBoOj9rAqTm23xhmaM7.jpg",
+        "credit_id": "65ca3d52ce6c4c017cbc1305",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2050189,
+        "known_for_department": "Sound",
+        "name": "Sudesh Bhosle",
+        "original_name": "Sudesh Bhosle",
+        "popularity": 0.4632,
+        "profile_path": "/sGKoZuZUsnYY5gefmutOgF7hXn.jpg",
+        "credit_id": "5d5ffa3c924ce523051474d3",
+        "department": "Sound",
+        "job": "Playback Singer"
+      }
+    ]
+  }
+}

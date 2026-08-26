@@ -1,0 +1,543 @@
+{
+  "adult": false,
+  "backdrop_path": "/5AB4EfS39K7aQYtUim0CFfKBU6r.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1127110,
+  "imdb_id": "tt27757546",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Diablo",
+  "overview": "Ex-con Kris Chaney seizes the daughter of a Colombian gangster to fulfill a noble promise to the young girl's mother. When her father enlists both the criminal underworld and a psychotic killer to exact his revenge, Kris relies on everything he's ever learned to stay alive and keep his word.",
+  "popularity": 6.3249,
+  "poster_path": "/uFQduVyYIinJy3eLjozgfl6Xtcn.jpg",
+  "production_companies": [
+    {
+      "id": 25885,
+      "logo_path": "/956ADIDUaUfQ0jQ3LCOs7QzpYn1.png",
+      "name": "Green Dog Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 114814,
+      "logo_path": "/rVSzG6voK307QMz4rZY3PISx7tn.png",
+      "name": "Film Mode Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 125231,
+      "logo_path": "/snGfhwT46aqKWhP8izedkL48aZY.png",
+      "name": "Wonder Street",
+      "origin_country": "US"
+    },
+    {
+      "id": 263045,
+      "logo_path": "/qXtQq2h6DuLVy3wMszKIF37PSKr.png",
+      "name": "Vault Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 263046,
+      "logo_path": null,
+      "name": "Daro Films",
+      "origin_country": ""
+    },
+    {
+      "id": 5469,
+      "logo_path": null,
+      "name": "Agora Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    }
+  ],
+  "release_date": "2025-06-13",
+  "revenue": 85000000,
+  "runtime": 91,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There'll be hell to pay.",
+  "title": "Diablo",
+  "video": false,
+  "vote_average": 7.3,
+  "vote_count": 255,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78110,
+        "known_for_department": "Acting",
+        "name": "Scott Adkins",
+        "original_name": "Scott Adkins",
+        "popularity": 5.463,
+        "profile_path": "/9NRr2a1riIn5CWn5McZLJlk4vxR.jpg",
+        "cast_id": 1,
+        "character": "Kris Chaney",
+        "credit_id": "6461e9dfdbbb420119f56ffe",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118370,
+        "known_for_department": "Acting",
+        "name": "Marko Zaror",
+        "original_name": "Marko Zaror",
+        "popularity": 1.5891,
+        "profile_path": "/rQ8XFdLmnfXs5x8FsttdOUrFLWa.jpg",
+        "cast_id": 2,
+        "character": "El Corvo",
+        "credit_id": "6461e9ec8c44b90153dbefe6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2893049,
+        "known_for_department": "Acting",
+        "name": "Alanna de la Rossa",
+        "original_name": "Alanna De La Rossa",
+        "popularity": 0.7962,
+        "profile_path": "/sj3w0DoFQnY4iZi47dVcPA85wsP.jpg",
+        "cast_id": 6,
+        "character": "Elisa",
+        "credit_id": "681e4b9f9a688cb7ee8c70ba",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1905760,
+        "known_for_department": "Acting",
+        "name": "Lucho Velasco",
+        "original_name": "Lucho Velasco",
+        "popularity": 0.7338,
+        "profile_path": "/spQR7Ru9lMheoQn4wNyAEWN30SD.jpg",
+        "cast_id": 5,
+        "character": "Vicente",
+        "credit_id": "681e4b8bf21cf57720df3052",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2851847,
+        "known_for_department": "Acting",
+        "name": "Diana Hoyos",
+        "original_name": "Diana Hoyos",
+        "popularity": 0.8551,
+        "profile_path": "/fjyHzQHJb9O43vXagG4WVzzPtK7.jpg",
+        "cast_id": 26,
+        "character": "Alex",
+        "credit_id": "682e7e36967ef4267c1c1cf3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3862081,
+        "known_for_department": "Acting",
+        "name": "María del Rosario",
+        "original_name": "María del Rosario",
+        "popularity": 0.918,
+        "profile_path": "/ln83cpcticvSWbEMVUD3NtmmLCA.jpg",
+        "cast_id": 4,
+        "character": "Policewoman",
+        "credit_id": "681e4b8275b734e627df3078",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1105832,
+        "known_for_department": "Acting",
+        "name": "Jason Gurvitz",
+        "original_name": "Jason Gurvitz",
+        "popularity": 0.9119,
+        "profile_path": "/vyOk8lGZTrSaOxU12QhfcpIG1HV.jpg",
+        "cast_id": 28,
+        "character": "Nick",
+        "credit_id": "682e7e4cfd6cbd38446cd54d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3021879,
+        "known_for_department": "Acting",
+        "name": "Jaime Correa",
+        "original_name": "Jaime Correa",
+        "popularity": 0.589,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "The Bookkeeper",
+        "credit_id": "682e7e531b03ca4b1c63f341",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4170744,
+        "known_for_department": "Acting",
+        "name": "Hedras Urrego",
+        "original_name": "Hedras Urrego",
+        "popularity": 0.414,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Slick",
+        "credit_id": "682e7e5a0a5633dea91c1d0f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5453996,
+        "known_for_department": "Acting",
+        "name": "Hamilton Casas",
+        "original_name": "Hamilton Casas",
+        "popularity": 0.2134,
+        "profile_path": "/8aInnAz3C9ueu0iUkSlHuKYNtHa.jpg",
+        "cast_id": 31,
+        "character": "Truck Driver",
+        "credit_id": "682e7e61ff3574056568456a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2090268,
+        "known_for_department": "Acting",
+        "name": "Juan Camilo Castillo",
+        "original_name": "Juan Camilo Castillo",
+        "popularity": 0.5447,
+        "profile_path": "/A09k9OnXnhiHkGpJqrEUABVl8fp.jpg",
+        "cast_id": 27,
+        "character": "Large",
+        "credit_id": "682e7e44dca27e47ee6cd6f6",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118369,
+        "known_for_department": "Directing",
+        "name": "Ernesto Díaz Espinoza",
+        "original_name": "Ernesto Díaz Espinoza",
+        "popularity": 0.5112,
+        "profile_path": "/pISpWvgMI8eiICEH0l7EOPptmvD.jpg",
+        "credit_id": "6461ea00a6725401010a1ebc",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14695,
+        "known_for_department": "Production",
+        "name": "Craig Baumgarten",
+        "original_name": "Craig Baumgarten",
+        "popularity": 0.677,
+        "profile_path": null,
+        "credit_id": "681e4bbc6f496125f08c70c2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1015898,
+        "known_for_department": "Production",
+        "name": "Clay Epstein",
+        "original_name": "Clay Epstein",
+        "popularity": 0.7224,
+        "profile_path": null,
+        "credit_id": "681e4bc5b39bcf401692e796",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78110,
+        "known_for_department": "Acting",
+        "name": "Scott Adkins",
+        "original_name": "Scott Adkins",
+        "popularity": 5.463,
+        "profile_path": "/9NRr2a1riIn5CWn5McZLJlk4vxR.jpg",
+        "credit_id": "681e4bce2437e53f358c7093",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118370,
+        "known_for_department": "Acting",
+        "name": "Marko Zaror",
+        "original_name": "Marko Zaror",
+        "popularity": 1.5891,
+        "profile_path": "/rQ8XFdLmnfXs5x8FsttdOUrFLWa.jpg",
+        "credit_id": "681e4bd94678fe532492e7d0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3046415,
+        "known_for_department": "Production",
+        "name": "Grady Craig",
+        "original_name": "Grady Craig",
+        "popularity": 0.398,
+        "profile_path": null,
+        "credit_id": "681e4c1d58daae0fd2df3064",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1489060,
+        "known_for_department": "Production",
+        "name": "Matthew Helderman",
+        "original_name": "Matthew Helderman",
+        "popularity": 0.6676,
+        "profile_path": "/tylGESPhyioiRd9etbk5kFCg14j.jpg",
+        "credit_id": "681e4c28a40ebecf8a9c2bce",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1105832,
+        "known_for_department": "Acting",
+        "name": "Jason Gurvitz",
+        "original_name": "Jason Gurvitz",
+        "popularity": 0.9119,
+        "profile_path": "/vyOk8lGZTrSaOxU12QhfcpIG1HV.jpg",
+        "credit_id": "682e7d237a3437650763f36c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5453986,
+        "known_for_department": "Production",
+        "name": "Alvaro Gutierrez",
+        "original_name": "Alvaro Gutierrez",
+        "popularity": 0.2298,
+        "profile_path": null,
+        "credit_id": "682e7d55c496d9e2583af5c3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65814,
+        "known_for_department": "Production",
+        "name": "Barry Brooker",
+        "original_name": "Barry Brooker",
+        "popularity": 0.8737,
+        "profile_path": null,
+        "credit_id": "682e7d61089060d8d26cd575",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94047,
+        "known_for_department": "Production",
+        "name": "Stan Wertlieb",
+        "original_name": "Stan Wertlieb",
+        "popularity": 0.6697,
+        "profile_path": null,
+        "credit_id": "682e7d6ebbc9d86a655ed248",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1572339,
+        "known_for_department": "Production",
+        "name": "Pierre-Andre Rochat",
+        "original_name": "Pierre-Andre Rochat",
+        "popularity": 0.384,
+        "profile_path": null,
+        "credit_id": "682e7d79918d28af6163f3d7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4410450,
+        "known_for_department": "Acting",
+        "name": "Bill Shadorf",
+        "original_name": "Bill Shadorf",
+        "popularity": 0.2889,
+        "profile_path": null,
+        "credit_id": "682e7d86918d28af6163f3da",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2380942,
+        "known_for_department": "Acting",
+        "name": "Francisco Carrillo",
+        "original_name": "Francisco Carrillo",
+        "popularity": 0.373,
+        "profile_path": null,
+        "credit_id": "682e7dc5665204a7bd1c1d06",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5453990,
+        "known_for_department": "Writing",
+        "name": "Mat Sansom",
+        "original_name": "Mat Sansom",
+        "popularity": 0.5298,
+        "profile_path": null,
+        "credit_id": "682e7df71200103fb76cd53c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5453990,
+        "known_for_department": "Writing",
+        "name": "Mat Sansom",
+        "original_name": "Mat Sansom",
+        "popularity": 0.5298,
+        "profile_path": null,
+        "credit_id": "682e7dff06a21e4d59d5be59",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78110,
+        "known_for_department": "Acting",
+        "name": "Scott Adkins",
+        "original_name": "Scott Adkins",
+        "popularity": 5.463,
+        "profile_path": "/9NRr2a1riIn5CWn5McZLJlk4vxR.jpg",
+        "credit_id": "682e7e0788a23d6fd53af573",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118370,
+        "known_for_department": "Acting",
+        "name": "Marko Zaror",
+        "original_name": "Marko Zaror",
+        "popularity": 1.5891,
+        "profile_path": "/rQ8XFdLmnfXs5x8FsttdOUrFLWa.jpg",
+        "credit_id": "682e7e0f967ef4267c1c1cf0",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118369,
+        "known_for_department": "Directing",
+        "name": "Ernesto Díaz Espinoza",
+        "original_name": "Ernesto Díaz Espinoza",
+        "popularity": 0.5112,
+        "profile_path": "/pISpWvgMI8eiICEH0l7EOPptmvD.jpg",
+        "credit_id": "682e7e19e82d64c7556cd51d",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3643022,
+        "known_for_department": "Camera",
+        "name": "Niccolo De La Fere",
+        "original_name": "Niccolo De La Fere",
+        "popularity": 0.4673,
+        "profile_path": "/2ePjVnpucxxd2fBOKkF7fh8fkUc.jpg",
+        "credit_id": "686ab8a748bea9d2d053fef9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1776149,
+        "known_for_department": "Sound",
+        "name": "Rocco",
+        "original_name": "Rocco",
+        "popularity": 0.3086,
+        "profile_path": null,
+        "credit_id": "696b0a0301b4f9009c689350",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

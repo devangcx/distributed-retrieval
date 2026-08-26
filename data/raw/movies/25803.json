@@ -1,0 +1,284 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 25803,
+  "imdb_id": "tt0907674",
+  "origin_country": [
+    "CA",
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "अमल",
+  "overview": "Autorickshaw driver Amal is content with the small, but vital, role he serves - driving customers around New Delhi as quickly and safely as possible. But his sense of duty is tested by an eccentric, aging billionaire, who, moved by Amal's humility, bequeaths him his entire estate before passing away. With only one month to discover and claim the inheritance, Amal's struggles with duty and wealth are threatened by all those around him - from a young injured beggar girl and a lovely store merchant, to the danger of the old man's upper-caste friends and siblings, all seeking to claim their share of the riches.",
+  "popularity": 1.0215,
+  "poster_path": "/9VlgLuSE7QRote3WnAtCF4Sb7vQ.jpg",
+  "production_companies": [
+    {
+      "id": 13138,
+      "logo_path": null,
+      "name": "Poor Man's Productions",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2007-09-13",
+  "revenue": 0,
+  "runtime": 101,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Amal",
+  "video": false,
+  "vote_average": 7.692,
+  "vote_count": 26,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111822,
+        "known_for_department": "Acting",
+        "name": "Rupinder Nagra",
+        "original_name": "Rupinder Nagra",
+        "popularity": 0.606,
+        "profile_path": "/haU3jWiOY1cn2lm3naxjn0lrdAD.jpg",
+        "cast_id": 1004,
+        "character": "Amal Kumar",
+        "credit_id": "52fe44dec3a368484e03b991",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 230632,
+        "known_for_department": "Acting",
+        "name": "Seema Biswas",
+        "original_name": "Seema Biswas",
+        "popularity": 0.846,
+        "profile_path": "/nRd9anbVgvsRrWbH3G09nWTThHp.jpg",
+        "cast_id": 1010,
+        "character": "Advocate Sapna Agarwal",
+        "credit_id": "53bff721c3a3684cec004fae",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6497,
+        "known_for_department": "Acting",
+        "name": "Naseeruddin Shah",
+        "original_name": "Naseeruddin Shah",
+        "popularity": 1.4021,
+        "profile_path": "/lFvGfKypi5NNyUjrsT8Y7ebWc7G.jpg",
+        "cast_id": 1005,
+        "character": "G.K. Jayaram",
+        "credit_id": "52fe44dec3a368484e03b995",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85578,
+        "known_for_department": "Acting",
+        "name": "Koel Purie",
+        "original_name": "Koel Purie",
+        "popularity": 0.6048,
+        "profile_path": "/uxuhLSBYkd97EwSLAK4WLelnBvM.jpg",
+        "cast_id": 1007,
+        "character": "Pooja Seth",
+        "credit_id": "52fe44dec3a368484e03b99d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6623,
+        "known_for_department": "Acting",
+        "name": "Vik Sahay",
+        "original_name": "Vik Sahay",
+        "popularity": 1.1817,
+        "profile_path": "/690bPfmzaXsrZ1eDcUOCDT5TPpq.jpg",
+        "cast_id": 1008,
+        "character": "Vivek Jayaram",
+        "credit_id": "52fe44dec3a368484e03b9a1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 693,
+        "known_for_department": "Acting",
+        "name": "Roshan Seth",
+        "original_name": "Roshan Seth",
+        "popularity": 1.4009,
+        "profile_path": "/4TbHkaZxPegaTns250cVXr8F91F.jpg",
+        "cast_id": 1009,
+        "character": "Suresh Gupta",
+        "credit_id": "52fe44dec3a368484e03b9a5",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 562206,
+        "known_for_department": "Directing",
+        "name": "Richie Mehta",
+        "original_name": "Richie Mehta",
+        "popularity": 0.5475,
+        "profile_path": null,
+        "credit_id": "52fe44dec3a368484e03b97b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 562208,
+        "known_for_department": "Writing",
+        "name": "Shaun Mehta",
+        "original_name": "Shaun Mehta",
+        "popularity": 0.3264,
+        "profile_path": null,
+        "credit_id": "52fe44dec3a368484e03b987",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 562206,
+        "known_for_department": "Directing",
+        "name": "Richie Mehta",
+        "original_name": "Richie Mehta",
+        "popularity": 0.5475,
+        "profile_path": null,
+        "credit_id": "5511f112c3a3680296002485",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1445360,
+        "known_for_department": "Editing",
+        "name": "Stuart A. McIntyre",
+        "original_name": "Stuart A. McIntyre",
+        "popularity": 0.307,
+        "profile_path": "/iLvuoFD5fWe7ix2Zfim10QXiKip.jpg",
+        "credit_id": "5ccf8f05925141065024508f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1659284,
+        "known_for_department": "Production",
+        "name": "David Miller",
+        "original_name": "David Miller",
+        "popularity": 0.2882,
+        "profile_path": null,
+        "credit_id": "6761e2fb7cb01f573d254df4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5137805,
+        "known_for_department": "Sound",
+        "name": "Dr. Shiva",
+        "original_name": "Dr. Shiva",
+        "popularity": 0.2129,
+        "profile_path": null,
+        "credit_id": "6769c283ec271832605cf462",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2472852,
+        "known_for_department": "Sound",
+        "name": "Sanjay Mehta",
+        "original_name": "Sanjay Mehta",
+        "popularity": 0.3558,
+        "profile_path": null,
+        "credit_id": "684c7dc170e868b880b0db50",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 562208,
+        "known_for_department": "Writing",
+        "name": "Shaun Mehta",
+        "original_name": "Shaun Mehta",
+        "popularity": 0.3264,
+        "profile_path": null,
+        "credit_id": "684edcce631b06539a1ecb6c",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1381927,
+        "known_for_department": "Sound",
+        "name": "Steph Carrier",
+        "original_name": "Steph Carrier",
+        "popularity": 0.4315,
+        "profile_path": null,
+        "credit_id": "684ee5d2f9743db94b3fe802",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1662615,
+        "known_for_department": "Production",
+        "name": "Steven N. Bray",
+        "original_name": "Steven N. Bray",
+        "popularity": 0.2957,
+        "profile_path": null,
+        "credit_id": "6853137490a619edc85b78ae",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

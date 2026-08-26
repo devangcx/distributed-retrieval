@@ -1,0 +1,294 @@
+{
+  "adult": false,
+  "backdrop_path": "/6rqIDd7JCqT75tHAH8nAc1Y6lmL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.disneyplus.com/movies/twenty-something/pJHrtbXeWNEQ",
+  "id": 852719,
+  "imdb_id": "tt14023676",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Twenty Something",
+  "overview": "Follows Gia, who has to deal with the challenges and insecurities of \"adulting\" during her 21st birthday.",
+  "popularity": 3.1487,
+  "poster_path": "/zLaGPqNxhkxkzEqPd6hb58FB8t4.jpg",
+  "production_companies": [
+    {
+      "id": 3,
+      "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+      "name": "Pixar",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-08-27",
+  "revenue": 0,
+  "runtime": 7,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Twenty Something",
+  "video": false,
+  "vote_average": 7.193,
+  "vote_count": 96,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3229178,
+        "known_for_department": "Acting",
+        "name": "Kaylin Price",
+        "original_name": "Kaylin Price",
+        "popularity": 0.4009,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "10 Year Old Gia (voice)",
+        "credit_id": "613b3416a6ddcb002c61dcc9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3229179,
+        "known_for_department": "Acting",
+        "name": "Ariana Brown",
+        "original_name": "Ariana Brown",
+        "popularity": 0.3516,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "16 Year Old Gia (voice)",
+        "credit_id": "613b342bc68b69008d4ef70b",
+        "order": 1
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 3229181,
+        "known_for_department": "Acting",
+        "name": "Aliyah Taylor",
+        "original_name": "Aliyah Taylor",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "21 Year Old Gia (voice)",
+        "credit_id": "613b345007faa20062d406ea",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3229182,
+        "known_for_department": "Acting",
+        "name": "Janelle Lasalle",
+        "original_name": "Janelle Lasalle",
+        "popularity": 0.4791,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Nicole (voice)",
+        "credit_id": "613b3475322b2b0029633472",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3229185,
+        "known_for_department": "Acting",
+        "name": "Napoleon Highbrou",
+        "original_name": "Napoleon Highbrou",
+        "popularity": 0.6415,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Cute Dude (voice)",
+        "credit_id": "613b34956af9dd0091757748",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1982410,
+        "known_for_department": "Crew",
+        "name": "Jeremy Slome",
+        "original_name": "Jeremy Slome",
+        "popularity": 0.5626,
+        "profile_path": null,
+        "credit_id": "625101f1c9982600a02599d3",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2236920,
+        "known_for_department": "Directing",
+        "name": "Aphton Corbin",
+        "original_name": "Aphton Corbin",
+        "popularity": 0.4768,
+        "profile_path": null,
+        "credit_id": "60f84cc7960331002ea84611",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1443472,
+        "known_for_department": "Art",
+        "name": "Erik Langley",
+        "original_name": "Erik Langley",
+        "popularity": 0.5763,
+        "profile_path": null,
+        "credit_id": "60f89180df857c005eabb50e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2236920,
+        "known_for_department": "Directing",
+        "name": "Aphton Corbin",
+        "original_name": "Aphton Corbin",
+        "popularity": 0.4768,
+        "profile_path": null,
+        "credit_id": "61272fe6e54d5d0065496321",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1742714,
+        "known_for_department": "Editing",
+        "name": "Amera Rizk",
+        "original_name": "Amera Rizk",
+        "popularity": 0.2939,
+        "profile_path": null,
+        "credit_id": "613b32c8aaf897002af6c481",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1999000,
+        "known_for_department": "Visual Effects",
+        "name": "Michael O'Brien",
+        "original_name": "Michael O'Brien",
+        "popularity": 0.4286,
+        "profile_path": null,
+        "credit_id": "613b32ab07faa2002a5ea71a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 59362,
+        "known_for_department": "Visual Effects",
+        "name": "Andrew Jimenez",
+        "original_name": "Andrew Jimenez",
+        "popularity": 0.6919,
+        "profile_path": null,
+        "credit_id": "613b32ee6af9dd006682fd51",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1470862,
+        "known_for_department": "Sound",
+        "name": "Justin Pearson",
+        "original_name": "Justin Pearson",
+        "popularity": 1.031,
+        "profile_path": null,
+        "credit_id": "613b33725258ae002bfca384",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2929746,
+        "known_for_department": "Art",
+        "name": "Kyle Macnaughton",
+        "original_name": "Kyle Macnaughton",
+        "popularity": 0.3259,
+        "profile_path": null,
+        "credit_id": "613b3325d7107e0062ad7efa",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1485788,
+        "known_for_department": "Production",
+        "name": "Nicole Paradis Grindle",
+        "original_name": "Nicole Paradis Grindle",
+        "popularity": 0.7601,
+        "profile_path": null,
+        "credit_id": "613b329bc68b69008d4ef57a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1470862,
+        "known_for_department": "Sound",
+        "name": "Justin Pearson",
+        "original_name": "Justin Pearson",
+        "popularity": 1.031,
+        "profile_path": null,
+        "credit_id": "613b336907faa20044a43d13",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1049324,
+        "known_for_department": "Sound",
+        "name": "Samuel Lehmer",
+        "original_name": "Samuel Lehmer",
+        "popularity": 0.4388,
+        "profile_path": null,
+        "credit_id": "613b33816af9dd0091757628",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      }
+    ]
+  }
+}

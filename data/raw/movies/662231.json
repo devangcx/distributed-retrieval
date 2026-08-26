@@ -1,0 +1,117 @@
+{
+  "adult": false,
+  "backdrop_path": "/yD3HhLdVN4beSTdZOWzjLu3mjGd.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 662231,
+  "imdb_id": "tt11027850",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Hacked",
+  "overview": "A young woman finds her life turned upside down when she rejects the advances of a teenage hacker.",
+  "popularity": 2.5011,
+  "poster_path": "/7DJdpaqWMznsZbh6jaKxDTGoSjw.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2020-02-07",
+  "revenue": 0,
+  "runtime": 118,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Shaitaan Ki Koi Umar Nai Hoti Hai",
+  "title": "Hacked",
+  "video": false,
+  "vote_average": 5.354,
+  "vote_count": 24,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1898855,
+        "known_for_department": "Acting",
+        "name": "Hina Khan",
+        "original_name": "Hina Khan",
+        "popularity": 0.592,
+        "profile_path": "/gxhkMMFNieDYTubzD3NLMLi293l.jpg",
+        "cast_id": 1,
+        "character": "Sameera Khanna",
+        "credit_id": "5e16c83f1d01910013f13ca8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2336738,
+        "known_for_department": "Acting",
+        "name": "Rohan Shah",
+        "original_name": "Rohan Shah",
+        "popularity": 0.6265,
+        "profile_path": "/f4v1u6AV8UCzWZDkWUKOOiS7ZFi.jpg",
+        "cast_id": 5,
+        "character": "Vivek",
+        "credit_id": "5e6367893e01ea0015e93d1d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1254597,
+        "known_for_department": "Acting",
+        "name": "Mohit Malhotra",
+        "original_name": "Mohit Malhotra",
+        "popularity": 0.3952,
+        "profile_path": "/gtVDZniZsZ9ZwqNblVx7myVSuhQ.jpg",
+        "cast_id": 3,
+        "character": "Rohan Mehra",
+        "credit_id": "5e16c89011386c0011c91c20",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2504720,
+        "known_for_department": "Acting",
+        "name": "Sid Makkar",
+        "original_name": "Sid Makkar",
+        "popularity": 0.7127,
+        "profile_path": "/b9E8NeQ2CgDEAMTnHuutLlpmfBY.jpg",
+        "cast_id": 6,
+        "character": "Om Kapoor",
+        "credit_id": "5e636a2d55c92600175cc16e",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85387,
+        "known_for_department": "Directing",
+        "name": "Vikram Bhatt",
+        "original_name": "Vikram Bhatt",
+        "popularity": 0.9876,
+        "profile_path": "/xK23RuAHLaXx8lU6h9VMRYjVWho.jpg",
+        "credit_id": "5e16c92e0cb33500130499ba",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

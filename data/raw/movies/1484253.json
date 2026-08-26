@@ -1,0 +1,291 @@
+{
+  "adult": false,
+  "backdrop_path": "/nt0EuLVoWIUzpKoxThAqWHSuJbJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81763679",
+  "id": 1484253,
+  "imdb_id": "tt36856455",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Trainwreck: Poop Cruise",
+  "overview": "An engine fire leaves 4,000 passengers stranded at sea without power and plumbing in this wild documentary about the infamous \"poop cruise\" of 2013.",
+  "popularity": 4.3689,
+  "poster_path": "/nJZlsBpDxx3LrGwXvwXkQyVnp9A.jpg",
+  "production_companies": [
+    {
+      "id": 23949,
+      "logo_path": "/3QFwomSxcZZgMQGBkdUPuJEnSFB.png",
+      "name": "RAW",
+      "origin_country": "GB"
+    },
+    {
+      "id": 143113,
+      "logo_path": "/GuxdgS4Hdu90LhxttMCA8OOCvu.png",
+      "name": "BBH Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-06-23",
+  "revenue": 0,
+  "runtime": 55,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Trainwreck: Poop Cruise",
+  "video": false,
+  "vote_average": 5.854,
+  "vote_count": 134,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5570671,
+        "known_for_department": "Acting",
+        "name": "Frank Spagnoletti",
+        "original_name": "Frank Spagnoletti",
+        "popularity": 0.2749,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Self",
+        "credit_id": "687935b2a42ac9ba085fae51",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1745838,
+        "known_for_department": "Acting",
+        "name": "Devin Marble",
+        "original_name": "Devin Marble",
+        "popularity": 0.3202,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Self",
+        "credit_id": "6879361bdd80e519583db7d5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5570673,
+        "known_for_department": "Acting",
+        "name": "Kalin Lamm",
+        "original_name": "Kalin Lamm",
+        "popularity": 0.2671,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Self",
+        "credit_id": "6879363376e0b28d88af0f05",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5570674,
+        "known_for_department": "Acting",
+        "name": "Ashley Lamm",
+        "original_name": "Ashley Lamm",
+        "popularity": 0.235,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Self",
+        "credit_id": "68793643673eefc708ba86b2",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5570675,
+        "known_for_department": "Acting",
+        "name": "Jayme Lamm",
+        "original_name": "Jayme Lamm",
+        "popularity": 0.2619,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Self",
+        "credit_id": "687936527cf5ad51c404ec02",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1696037,
+        "known_for_department": "Acting",
+        "name": "Brooke Baldwin",
+        "original_name": "Brooke Baldwin",
+        "popularity": 0.6867,
+        "profile_path": "/2WXurASF2rRVndR7FufevpFtea1.jpg",
+        "cast_id": 15,
+        "character": "Self",
+        "credit_id": "68793c2f3cbfbe4a1eba876b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5570724,
+        "known_for_department": "Acting",
+        "name": "Mary Poret",
+        "original_name": "Mary Poret",
+        "popularity": 0.2639,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Self",
+        "credit_id": "68793c824d073c6d4e04ecb1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5570730,
+        "known_for_department": "Acting",
+        "name": "Rebekha Poret",
+        "original_name": "Rebekha Poret",
+        "popularity": 0.2195,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Self",
+        "credit_id": "68793cceaa4ab5dc3f0626a5",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2172536,
+        "known_for_department": "Production",
+        "name": "Alexander Marengo",
+        "original_name": "Alexander Marengo",
+        "popularity": 0.3191,
+        "profile_path": "/krR8HL03Ngj6P4OmAKsymEIHJL5.jpg",
+        "credit_id": "682c0d60d695b950850bdb99",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1928227,
+        "known_for_department": "Production",
+        "name": "Casey Feldman",
+        "original_name": "Casey Feldman",
+        "popularity": 0.2114,
+        "profile_path": null,
+        "credit_id": "682c0d6775e0e7e9338c0a2b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5424268,
+        "known_for_department": "Production",
+        "name": "Sheun Adelasoye De Nicola",
+        "original_name": "Sheun Adelasoye De Nicola",
+        "popularity": 0.2291,
+        "profile_path": null,
+        "credit_id": "682c0d729d0789dfb08c0ada",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1252910,
+        "known_for_department": "Directing",
+        "name": "Tim Wardle",
+        "original_name": "Tim Wardle",
+        "popularity": 0.6564,
+        "profile_path": "/uOyvCAyGfPpO6QDTTpdNotx9e2f.jpg",
+        "credit_id": "682c0d79e25746e865f5603d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3089162,
+        "known_for_department": "Production",
+        "name": "William Swann",
+        "original_name": "William Swann",
+        "popularity": 0.3016,
+        "profile_path": null,
+        "credit_id": "682c0d825613abdd990bdd36",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1252908,
+        "known_for_department": "Production",
+        "name": "Ben Rumney",
+        "original_name": "Ben Rumney",
+        "popularity": 0.3237,
+        "profile_path": null,
+        "credit_id": "682c0d89d063ed37a42f0e9c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2876600,
+        "known_for_department": "Directing",
+        "name": "James Ross",
+        "original_name": "James Ross",
+        "popularity": 0.4465,
+        "profile_path": null,
+        "credit_id": "682c0e3b5211a914f28c0b43",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3732447,
+        "known_for_department": "Production",
+        "name": "Matthew Rangecroft",
+        "original_name": "Matthew Rangecroft",
+        "popularity": 0.5267,
+        "profile_path": null,
+        "credit_id": "6879374f7a4f4c115f203fe8",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

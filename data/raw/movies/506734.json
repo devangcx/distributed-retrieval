@@ -1,0 +1,470 @@
+{
+  "adult": false,
+  "backdrop_path": "/y8WCbi6eLbrqNa5zWD5sOzmdXnv.jpg",
+  "belongs_to_collection": {
+    "id": 557495,
+    "name": "LEGO DC Super Hero Girls Collection",
+    "poster_path": "/ktVgpvwbhZbrLgp2SNNvTTgIxQl.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 506734,
+  "imdb_id": "tt8050266",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "LEGO DC Super Hero Girls: Super-Villain High",
+  "overview": "After a mysterious school opens across the street, the students of Super Hero High find themselves up against a new threat. Now, Wonder Woman, Supergirl, Batgirl and the rest of the DC Super Hero Girls not only have to worry about the well-being of their grades, but the safety and security of friends, family and the rest of civilization. The girls must figure out how to put a stop to this evil, new cross-town rival and save the world once again",
+  "popularity": 2.8297,
+  "poster_path": "/d0F6ntggeAwbZBzXXamOEUUapa4.jpg",
+  "production_companies": [
+    {
+      "id": 2785,
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "name": "Warner Bros. Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 9993,
+      "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+      "name": "DC Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 4081,
+      "logo_path": "/9Q0SyrhQD61wWbz5KJOkL6tu2mg.png",
+      "name": "The LEGO Group",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-05-01",
+  "revenue": 0,
+  "runtime": 78,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "LEGO DC Super Hero Girls: Super-Villain High",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 27,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 111513,
+        "known_for_department": "Acting",
+        "name": "Yvette Nicole Brown",
+        "original_name": "Yvette Nicole Brown",
+        "popularity": 2.5378,
+        "profile_path": "/7cJowCcDPnyXqHJ46GgSNHomUGo.jpg",
+        "cast_id": 7,
+        "character": "Amanda Waller",
+        "credit_id": "61a35d26c5c1ef0094a4073d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60227,
+        "known_for_department": "Acting",
+        "name": "Greg Cipes",
+        "original_name": "Greg Cipes",
+        "popularity": 1.9534,
+        "profile_path": "/x6kE9Ox4sR3HnrF6qtnjGNgujzV.jpg",
+        "cast_id": 8,
+        "character": "Beast Boy",
+        "credit_id": "61a35d30c5c1ef0094a40749",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1249820,
+        "known_for_department": "Acting",
+        "name": "Romi Dames",
+        "original_name": "Romi Dames",
+        "popularity": 0.8413,
+        "profile_path": "/lksMAPU7jTJQDc8Jvk5gOeWzU88.jpg",
+        "cast_id": 9,
+        "character": "Lena Luthor / Divide",
+        "credit_id": "61a35d690cb33500440f9f02",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31531,
+        "known_for_department": "Acting",
+        "name": "John DiMaggio",
+        "original_name": "John DiMaggio",
+        "popularity": 3.2614,
+        "profile_path": "/qcbQe71nSlULDsP1OxTqltEKFbl.jpg",
+        "cast_id": 10,
+        "character": "Gorilla Grodd / Wildcat",
+        "credit_id": "61a35d7a0231f20061518fd2",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 42915,
+        "known_for_department": "Acting",
+        "name": "Teala Dunn",
+        "original_name": "Teala Dunn",
+        "popularity": 1.0414,
+        "profile_path": "/orSA2183RSooWcBDy4erq6H9GX6.jpg",
+        "cast_id": 11,
+        "character": "Bumblebee",
+        "credit_id": "61a35d89a3d02700629c3157",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 41345,
+        "known_for_department": "Acting",
+        "name": "Ashley Eckstein",
+        "original_name": "Ashley Eckstein",
+        "popularity": 0.9717,
+        "profile_path": "/fIjLS6RAafEUOeReG5W51cA7dWY.jpg",
+        "cast_id": 12,
+        "character": "Cheetah",
+        "credit_id": "61a35d94d37197009333a566",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1644095,
+        "known_for_department": "Acting",
+        "name": "Anais Fairweather",
+        "original_name": "Anais Fairweather",
+        "popularity": 0.5767,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Supergirl",
+        "credit_id": "61a35da66332f7006894030f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 52698,
+        "known_for_department": "Acting",
+        "name": "Nika Futterman",
+        "original_name": "Nika Futterman",
+        "popularity": 1.3911,
+        "profile_path": "/6zfuSfLGtLXtFxXBUftMQbgfH6q.jpg",
+        "cast_id": 14,
+        "character": "Hawkgirl",
+        "credit_id": "61a35dba869e750068cdc1e6",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15761,
+        "known_for_department": "Acting",
+        "name": "Grey DeLisle",
+        "original_name": "Grey DeLisle",
+        "popularity": 3.1141,
+        "profile_path": "/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg",
+        "cast_id": 15,
+        "character": "Wonder Woman / Lois Lane",
+        "credit_id": "61a35dd46332f700963676b9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20903,
+        "known_for_department": "Acting",
+        "name": "Josh Keaton",
+        "original_name": "Josh Keaton",
+        "popularity": 1.6051,
+        "profile_path": "/9ss2EXbN0VarF1tM2Qotwxy6fJs.jpg",
+        "cast_id": 16,
+        "character": "Flash",
+        "credit_id": "61a35de585c0a20044e6b197",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34521,
+        "known_for_department": "Acting",
+        "name": "Maurice LaMarche",
+        "original_name": "Maurice LaMarche",
+        "popularity": 1.9489,
+        "profile_path": "/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg",
+        "cast_id": 17,
+        "character": "Oberon / Red Tornado",
+        "credit_id": "61a35e066332f700963676c4",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 65220,
+        "known_for_department": "Acting",
+        "name": "Danica McKellar",
+        "original_name": "Danica McKellar",
+        "popularity": 2.3761,
+        "profile_path": "/qVasJ8uKtvrntIXaPylneLW3ykf.jpg",
+        "cast_id": 18,
+        "character": "Frost",
+        "credit_id": "61a35e16a3d027002b8555bb",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1681143,
+        "known_for_department": "Acting",
+        "name": "Cristina Milizia",
+        "original_name": "Cristina Milizia",
+        "popularity": 0.8257,
+        "profile_path": "/hyoNXHS3W4bvzq6wziy7q3JSklN.jpg",
+        "cast_id": 19,
+        "character": "Jessica Cruz",
+        "credit_id": "61a35e5bed28b90024d44487",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65640,
+        "known_for_department": "Acting",
+        "name": "Khary Payton",
+        "original_name": "Khary Payton",
+        "popularity": 2.0801,
+        "profile_path": "/4PgEGuAb2KkaRb7P9PdK40pPeVH.jpg",
+        "cast_id": 20,
+        "character": "Cyborg / Wizard Shazam",
+        "credit_id": "61a35e7e3d4d96002e62ebb0",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1401389,
+        "known_for_department": "Acting",
+        "name": "Cristina Pucelli",
+        "original_name": "Cristina Pucelli",
+        "popularity": 0.7351,
+        "profile_path": "/zLBjAlqB5jAtqLv668jrBYIrUtN.jpg",
+        "cast_id": 21,
+        "character": "Catwoman",
+        "credit_id": "61a35e8e869e75002f085c99",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24362,
+        "known_for_department": "Acting",
+        "name": "Kevin Michael Richardson",
+        "original_name": "Kevin Michael Richardson",
+        "popularity": 3.2234,
+        "profile_path": "/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg",
+        "cast_id": 22,
+        "character": "Doctor Fate / Delivery Man",
+        "credit_id": "61a35ea2134d58006255402b",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18706,
+        "known_for_department": "Acting",
+        "name": "Meredith Salenger",
+        "original_name": "Meredith Salenger",
+        "popularity": 1.9787,
+        "profile_path": "/8lOt7vQQkrZWmjg0STb4D7umIta.jpg",
+        "cast_id": 23,
+        "character": "Backlash / Lashina",
+        "credit_id": "61a35eb1de11e5002d0822fb",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1382995,
+        "known_for_department": "Acting",
+        "name": "Ashlyn Madden",
+        "original_name": "Ashlyn Madden",
+        "popularity": 0.6683,
+        "profile_path": "/fy7vn8Rz67soldAJhS1Gelyg32N.jpg",
+        "cast_id": 24,
+        "character": "Batgirl",
+        "credit_id": "61a35ebe3dc31300917fe412",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1219437,
+        "known_for_department": "Acting",
+        "name": "Stephanie Sheh",
+        "original_name": "Stephanie Sheh",
+        "popularity": 1.0417,
+        "profile_path": "/id00Jc4uwGnffNT1bp2SQWEoSH3.jpg",
+        "cast_id": 25,
+        "character": "Katana",
+        "credit_id": "61a35ec83d4d9600459a5891",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15762,
+        "known_for_department": "Acting",
+        "name": "Tara Strong",
+        "original_name": "Tara Strong",
+        "popularity": 3.8197,
+        "profile_path": "/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg",
+        "cast_id": 26,
+        "character": "Harley Quinn / Poison Ivy / Principal Taller",
+        "credit_id": "61a35ee40231f2002dc4bdcc",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60279,
+        "known_for_department": "Acting",
+        "name": "Fred Tatasciore",
+        "original_name": "Fred Tatasciore",
+        "popularity": 2.5726,
+        "profile_path": "/xodxYKRC9mdvgquTdqpmYldliJ3.jpg",
+        "cast_id": 27,
+        "character": "Seven Sins",
+        "credit_id": "61a35ef33d4d960091995f11",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105642,
+        "known_for_department": "Directing",
+        "name": "Rick Morales",
+        "original_name": "Rick Morales",
+        "popularity": 0.9367,
+        "profile_path": "/qmzubkG4gb89WeFelMpa1VKvjfs.jpg",
+        "credit_id": "61a35cfa134d58008ebe6d29",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1674791,
+        "known_for_department": "Writing",
+        "name": "Jeremy Adams",
+        "original_name": "Jeremy Adams",
+        "popularity": 0.8213,
+        "profile_path": null,
+        "credit_id": "61a35cbebe4b360098719434",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2235513,
+        "known_for_department": "Editing",
+        "name": "Robert Ehrenreich",
+        "original_name": "Robert Ehrenreich",
+        "popularity": 0.3653,
+        "profile_path": null,
+        "credit_id": "61a35d0b0231f2008d736b90",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141043,
+        "known_for_department": "Production",
+        "name": "Sam Register",
+        "original_name": "Sam Register",
+        "popularity": 1.1426,
+        "profile_path": "/rCJa4fFOi3CcOGjljzn06XliSsz.jpg",
+        "credit_id": "61a35cce3dc31300917fe300",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1720983,
+        "known_for_department": "Production",
+        "name": "Robert Fewkes",
+        "original_name": "Robert Fewkes",
+        "popularity": 0.3747,
+        "profile_path": null,
+        "credit_id": "61a35ced869e750045fc4380",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 110643,
+        "known_for_department": "Production",
+        "name": "Jill Wilfert",
+        "original_name": "Jill Wilfert",
+        "popularity": 0.4543,
+        "profile_path": null,
+        "credit_id": "61a35ce13dc3130062767a1d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2037834,
+        "known_for_department": "Directing",
+        "name": "Elsa Garagarza",
+        "original_name": "Elsa Garagarza",
+        "popularity": 0.4117,
+        "profile_path": null,
+        "credit_id": "5aefe1e4925141768f00bd37",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

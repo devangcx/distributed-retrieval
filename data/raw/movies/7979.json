@@ -1,0 +1,647 @@
+{
+  "adult": false,
+  "backdrop_path": "/CAC2F6C6R8hZ3AoByDX6Jj2VOw.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.kiterunnermovie.com/",
+  "id": 7979,
+  "imdb_id": "tt0419887",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Kite Runner",
+  "overview": "After spending years in California, Amir returns to his homeland in Afghanistan to help his old friend Hassan, whose son is in trouble.",
+  "popularity": 4.9805,
+  "poster_path": "/dom2esWWW8C9jS2v7dOhW48LwHh.jpg",
+  "production_companies": [
+    {
+      "id": 2299,
+      "logo_path": null,
+      "name": "Wonderland Films",
+      "origin_country": ""
+    },
+    {
+      "id": 737,
+      "logo_path": "/dK1GZ1u4our8sJW0Sts1JHeNSLn.png",
+      "name": "Sidney Kimmel Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 6735,
+      "logo_path": "/pAQW38WU8ychBvYU2aGPTEbynEN.png",
+      "name": "Participant",
+      "origin_country": "US"
+    },
+    {
+      "id": 384,
+      "logo_path": "/bDMfnqaEqGY9KlV4RMm2QHJCm2v.png",
+      "name": "Parkes+MacDonald Production",
+      "origin_country": "US"
+    },
+    {
+      "id": 2269,
+      "logo_path": null,
+      "name": "China Film Co-Production",
+      "origin_country": "CN"
+    },
+    {
+      "id": 11553,
+      "logo_path": null,
+      "name": "Beijing Happy Pictures Cultural Communications Co.",
+      "origin_country": "CN"
+    },
+    {
+      "id": 29031,
+      "logo_path": null,
+      "name": "Kite Runner Holdings",
+      "origin_country": ""
+    },
+    {
+      "id": 11392,
+      "logo_path": null,
+      "name": "Ebeling Group",
+      "origin_country": ""
+    },
+    {
+      "id": 1522,
+      "logo_path": "/8uaoEVgNxFH0R94O53gUiByahVr.png",
+      "name": "Neal Street Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 7,
+      "logo_path": "/zcKhWbxFJ4CohZ9dLBMxmOArTVn.png",
+      "name": "DreamWorks Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 181992,
+      "logo_path": null,
+      "name": "Mandate International",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2007-12-14",
+  "revenue": 73276047,
+  "runtime": 128,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    },
+    {
+      "english_name": "Pushto",
+      "iso_639_1": "ps",
+      "name": "پښتو"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "Urdu",
+      "iso_639_1": "ur",
+      "name": "اردو"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There is a way to be good again.",
+  "title": "The Kite Runner",
+  "video": false,
+  "vote_average": 7.333,
+  "vote_count": 1275,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53480,
+        "known_for_department": "Acting",
+        "name": "Khalid Abdalla",
+        "original_name": "Khalid Abdalla",
+        "popularity": 1.1947,
+        "profile_path": "/iYRhheaol1T19Qy8a8pTIPk9COK.jpg",
+        "cast_id": 5,
+        "character": "Amir",
+        "credit_id": "52fe448bc3a36847f809bde5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117528,
+        "known_for_department": "Acting",
+        "name": "Homayoun Ershadi",
+        "original_name": "همایون ارشادی",
+        "popularity": 1.24,
+        "profile_path": "/gBoWtYN8Z8UunnCKVQmebWA0Qv4.jpg",
+        "cast_id": 14,
+        "character": "Baba",
+        "credit_id": "53de6ea9c3a3686c51001534",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17857,
+        "known_for_department": "Acting",
+        "name": "Shaun Toub",
+        "original_name": "Shaun Toub",
+        "popularity": 1.8324,
+        "profile_path": "/6fuJ9D50bYuMAhrlEgVqzgqF0LU.jpg",
+        "cast_id": 7,
+        "character": "Rahim Kahn",
+        "credit_id": "52fe448bc3a36847f809bded",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 53481,
+        "known_for_department": "Acting",
+        "name": "Atossa Leoni",
+        "original_name": "Atossa Leoni",
+        "popularity": 0.5425,
+        "profile_path": "/jM6zviUAKx1Bk2Y88l6NFZ4C6B7.jpg",
+        "cast_id": 6,
+        "character": "Soraya",
+        "credit_id": "52fe448bc3a36847f809bde9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5419,
+        "known_for_department": "Acting",
+        "name": "Saïd Taghmaoui",
+        "original_name": "Saïd Taghmaoui",
+        "popularity": 1.7562,
+        "profile_path": "/kuxI08YpwQFGweIXK7TELknwexr.jpg",
+        "cast_id": 34,
+        "character": "Farid",
+        "credit_id": "593b817e925141058f007f04",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53483,
+        "known_for_department": "Acting",
+        "name": "Ahmad Khan Mahmoodzada",
+        "original_name": "Ahmad Khan Mahmoodzada",
+        "popularity": 0.4701,
+        "profile_path": "/86famKyP0NkhxpkCtgEGcxiZmwT.jpg",
+        "cast_id": 9,
+        "character": "Young Hassan",
+        "credit_id": "52fe448bc3a36847f809bdf5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1010819,
+        "known_for_department": "Acting",
+        "name": "Elham Ehsas",
+        "original_name": "Elham Ehsas",
+        "popularity": 1.364,
+        "profile_path": "/mlOS34qKEVApg5VVLTBUzY8cftN.jpg",
+        "cast_id": 12,
+        "character": "Young Assef",
+        "credit_id": "52fe448bc3a36847f809be01",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1349338,
+        "known_for_department": "Acting",
+        "name": "Mustafa Haidari",
+        "original_name": "Mustafa Haidari",
+        "popularity": 0.7311,
+        "profile_path": "/ya9C139lPT5rOBLWSi1PVa9Ian3.jpg",
+        "cast_id": 20,
+        "character": "Party Worker",
+        "credit_id": "53de6f21c3a3686c6000147c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53482,
+        "known_for_department": "Acting",
+        "name": "Zekeria Ebrahimi",
+        "original_name": "Zekeria Ebrahimi",
+        "popularity": 0.4704,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Young Amir",
+        "credit_id": "52fe448bc3a36847f809bdf1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1121950,
+        "known_for_department": "Acting",
+        "name": "Ali Danish Bakhty Ari",
+        "original_name": "Ali Danish Bakhty Ari",
+        "popularity": 0.2932,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Sohrab",
+        "credit_id": "52fe448bc3a36847f809bdfd",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1349329,
+        "known_for_department": "Acting",
+        "name": "Nabi Tanha",
+        "original_name": "Nabi Tanha",
+        "popularity": 0.3644,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Ali",
+        "credit_id": "53de6ebdc3a3686c6000146f",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1349331,
+        "known_for_department": "Acting",
+        "name": "Bahram Ehsas",
+        "original_name": "Bahram Ehsas",
+        "popularity": 0.5139,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Wali",
+        "credit_id": "53de6ed5c3a3686c4d001629",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1349333,
+        "known_for_department": "Acting",
+        "name": "Tamim Nawabi",
+        "original_name": "Tamim Nawabi",
+        "popularity": 0.2657,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Kamal",
+        "credit_id": "53de6ee6c3a3686c60001477",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1349335,
+        "known_for_department": "Acting",
+        "name": "Mohamad Nabi Attai",
+        "original_name": "Mohamad Nabi Attai",
+        "popularity": 0.8833,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Uncle Saifo the Kite Seller",
+        "credit_id": "53de6effc3a3686c4500154d",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1349327,
+        "known_for_department": "Acting",
+        "name": "Mir Mahmood Shah Hashimi",
+        "original_name": "Mir Mahmood Shah Hashimi",
+        "popularity": 0.2972,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Business Man in Baba's Study",
+        "credit_id": "53de6e96c3a3686c560014a1",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1349337,
+        "known_for_department": "Acting",
+        "name": "Mohamad Nadir Sarwari",
+        "original_name": "Mohamad Nadir Sarwari",
+        "popularity": 0.3172,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Spice Merchant",
+        "credit_id": "53de6f11c3a3686c4d001631",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1465480,
+        "known_for_department": "Acting",
+        "name": "Kenny Santiago Marrero",
+        "original_name": "Kenny Santiago Marrero",
+        "popularity": 0.4356,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Russian Solider (uncredited)",
+        "credit_id": "619b547851e6ab008c37e721",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3491716,
+        "known_for_department": "Directing",
+        "name": "Abe Nevin",
+        "original_name": "Abe Nevin",
+        "popularity": 0.565,
+        "profile_path": "/atfPvRmLHWhZBjrxlKWHEioddJr.jpg",
+        "cast_id": 38,
+        "character": "Kid in Park (Uncredited)",
+        "credit_id": "66076c3aa6ddcb017c466076",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12995,
+        "known_for_department": "Directing",
+        "name": "Marc Forster",
+        "original_name": "Marc Forster",
+        "popularity": 1.3193,
+        "profile_path": "/zNg3chtZxhqnx3N5cKn0bRQ0mkr.jpg",
+        "credit_id": "52fe448ac3a36847f809bdcf",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53479,
+        "known_for_department": "Writing",
+        "name": "Khaled Hosseini",
+        "original_name": "Khaled Hosseini",
+        "popularity": 0.3758,
+        "profile_path": "/5xLRmJ1HkbdQJWUPeo0cMT3cGM0.jpg",
+        "credit_id": "52fe448ac3a36847f809bde1",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13000,
+        "known_for_department": "Camera",
+        "name": "Roberto Schaefer",
+        "original_name": "Roberto Schaefer",
+        "popularity": 0.5158,
+        "profile_path": "/4fFzjl8rx77ztZhTjUBeotb21xJ.jpg",
+        "credit_id": "52fe448ac3a36847f809bdd5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9813,
+        "known_for_department": "Writing",
+        "name": "David Benioff",
+        "original_name": "David Benioff",
+        "popularity": 1.9866,
+        "profile_path": "/xvNN5huL0X8yJ7h3IZfGG4O2zBD.jpg",
+        "credit_id": "52fe448ac3a36847f809bddb",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39,
+        "known_for_department": "Directing",
+        "name": "Sam Mendes",
+        "original_name": "Sam Mendes",
+        "popularity": 2.3776,
+        "profile_path": "/5z89X9rB76JDblqMQ52fviwXxAN.jpg",
+        "credit_id": "55183918c3a3686302004356",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15906,
+        "known_for_department": "Production",
+        "name": "William Horberg",
+        "original_name": "William Horberg",
+        "popularity": 0.622,
+        "profile_path": "/jG8rBdoOSO6HyEjMmJb1prmpgBF.jpg",
+        "credit_id": "55a39377c3a3681cf50052e0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1460672,
+        "known_for_department": "Crew",
+        "name": "Jake Rice",
+        "original_name": "Jake Rice",
+        "popularity": 0.4699,
+        "profile_path": null,
+        "credit_id": "55a3943c9251412974005345",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54252,
+        "known_for_department": "Production",
+        "name": "E. Bennett Walsh",
+        "original_name": "E. Bennett Walsh",
+        "popularity": 0.7116,
+        "profile_path": "/83MqqALAIph3p2S7QQiknGucAM2.jpg",
+        "credit_id": "55a393939251412979004c56",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13005,
+        "known_for_department": "Editing",
+        "name": "Matt Chessé",
+        "original_name": "Matt Chessé",
+        "popularity": 0.5686,
+        "profile_path": null,
+        "credit_id": "55a393cfc3a368181100035c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1486848,
+        "known_for_department": "Editing",
+        "name": "Mike Brosius",
+        "original_name": "Mike Brosius",
+        "popularity": 0.366,
+        "profile_path": null,
+        "credit_id": "55a39487c3a3681cfa004b28",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1404750,
+        "known_for_department": "Editing",
+        "name": "Linda Williams",
+        "original_name": "Linda Williams",
+        "popularity": 0.3514,
+        "profile_path": null,
+        "credit_id": "55a394a9925141297d00544a",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1445974,
+        "known_for_department": "Production",
+        "name": "Eriko Miyagawa",
+        "original_name": "Eriko Miyagawa",
+        "popularity": 0.5215,
+        "profile_path": null,
+        "credit_id": "55a39412925141296e0053d5",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1434549,
+        "known_for_department": "Production",
+        "name": "Rebecca Yeldham",
+        "original_name": "Rebecca Yeldham",
+        "popularity": 0.4383,
+        "profile_path": "/bsKI8WtilDEviYo4TMcPFAaQg6n.jpg",
+        "credit_id": "55a393ae9251412974005335",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1486851,
+        "known_for_department": "Editing",
+        "name": "Alex Olivares",
+        "original_name": "Alex Olivares",
+        "popularity": 0.3998,
+        "profile_path": null,
+        "credit_id": "55a394c492514129770050d9",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1486847,
+        "known_for_department": "Editing",
+        "name": "Nancy Fuller",
+        "original_name": "Nancy Fuller",
+        "popularity": 0.4467,
+        "profile_path": null,
+        "credit_id": "55a3946ec3a3681cde004ec6",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 53346,
+        "known_for_department": "Production",
+        "name": "Kate Dowd",
+        "original_name": "Kate Dowd",
+        "popularity": 0.5518,
+        "profile_path": null,
+        "credit_id": "55a393e7c3a3681ce3005570",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1828173,
+        "known_for_department": "Production",
+        "name": "Chantal Nong Vo",
+        "original_name": "Chantal Nong Vo",
+        "popularity": 0.6077,
+        "profile_path": "/zscpdONQxMypmH4tly56PUXj2Jy.jpg",
+        "credit_id": "65944551028f1476eac6d893",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 405,
+        "known_for_department": "Sound",
+        "name": "Alberto Iglesias",
+        "original_name": "Alberto Iglesias",
+        "popularity": 0.6758,
+        "profile_path": "/rCmxMuBdpvQttspXRlSHZbDNDn0.jpg",
+        "credit_id": "6659190cc3e776fa532d391a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1327030,
+        "known_for_department": "Sound",
+        "name": "Lora Hirschberg",
+        "original_name": "Lora Hirschberg",
+        "popularity": 0.7808,
+        "profile_path": "/8IJl1itNV99LhKg24yeIGHjYaQd.jpg",
+        "credit_id": "66d8f2f07946a2f50fbd8656",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      }
+    ]
+  }
+}

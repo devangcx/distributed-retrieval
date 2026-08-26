@@ -1,0 +1,251 @@
+{
+  "adult": false,
+  "backdrop_path": "/dROuk7qUwck6ziUHRTWTNTc4y5o.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "http://www.yashrajfilms.com/microsites/kabulexpress/microflash.htm",
+  "id": 30244,
+  "imdb_id": "tt0770214",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Kabul Express",
+  "overview": "Five people - two Indian journalists, an American photojournalist, an Afghan guide and a Taliban soldier who takes them all hostage - are taken on a 48-hour journey into Afghanistan in a jeep called the Kabul Express, a special and unlikely bond developing between them along the way.",
+  "popularity": 1.0688,
+  "poster_path": "/55JOXvEqxQtB1QQPAEmzCwpXXwY.jpg",
+  "production_companies": [
+    {
+      "id": 1569,
+      "logo_path": "/lvzN86o3jrP44DIvn4SMBLOl9PF.png",
+      "name": "Yash Raj Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2006-12-15",
+  "revenue": 0,
+  "runtime": 104,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kabul Express",
+  "video": false,
+  "vote_average": 5.978,
+  "vote_count": 23,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52971,
+        "known_for_department": "Acting",
+        "name": "John Abraham",
+        "original_name": "John Abraham",
+        "popularity": 2.1315,
+        "profile_path": "/2ITVYVFou0dh3QVcJlhNJVzrA2p.jpg",
+        "cast_id": 1,
+        "character": "Suhel Khan",
+        "credit_id": "52fe44079251416c91002843",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85889,
+        "known_for_department": "Acting",
+        "name": "Arshad Warsi",
+        "original_name": "Arshad Warsi",
+        "popularity": 1.2883,
+        "profile_path": "/iXSA1C7B5mtoUrfDZ2sULE28bww.jpg",
+        "cast_id": 2,
+        "character": "Jai Kapoor",
+        "credit_id": "52fe44079251416c91002847",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105872,
+        "known_for_department": "Acting",
+        "name": "Salman Shahid",
+        "original_name": "Salman Shahid",
+        "popularity": 0.85,
+        "profile_path": "/gPGbPxfz9lmK4tbBpksTRMGcIO9.jpg",
+        "cast_id": 3,
+        "character": "Imran 'Talib' Khan Afridi",
+        "credit_id": "52fe44079251416c9100284b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85873,
+        "known_for_department": "Acting",
+        "name": "Linda Arsenio",
+        "original_name": "Linda Arsenio",
+        "popularity": 0.5201,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Jessica Beckham",
+        "credit_id": "52fe44079251416c91002853",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 105873,
+        "known_for_department": "Acting",
+        "name": "Hanif Hum Ghum",
+        "original_name": "Hanif Hum Ghum",
+        "popularity": 0.3573,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Khyber",
+        "credit_id": "52fe44079251416c9100284f",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85048,
+        "known_for_department": "Directing",
+        "name": "Kabir Khan",
+        "original_name": "Kabir Khan",
+        "popularity": 0.7124,
+        "profile_path": "/hxiBucUGDTsBS4BP9Z1nGGmGWI7.jpg",
+        "credit_id": "52fe44079251416c91002859",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35771,
+        "known_for_department": "Production",
+        "name": "Aditya Chopra",
+        "original_name": "Aditya Chopra",
+        "popularity": 1.4109,
+        "profile_path": "/eXYKfA6bg12pn9LPrWeRfxYQwcb.jpg",
+        "credit_id": "52fe44079251416c9100285f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933376,
+        "known_for_department": "Camera",
+        "name": "Anshuman Mahaley",
+        "original_name": "Anshuman Mahaley",
+        "popularity": 0.3363,
+        "profile_path": null,
+        "credit_id": "695ef5a6dbaa290abba576a1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 35807,
+        "known_for_department": "Editing",
+        "name": "Amitabh Shukla",
+        "original_name": "Amitabh Shukla",
+        "popularity": 0.353,
+        "profile_path": null,
+        "credit_id": "695ef5b7825d613a0c3903b8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1323052,
+        "known_for_department": "Sound",
+        "name": "Raghav Sachar",
+        "original_name": "Raghav Sachar",
+        "popularity": 0.4292,
+        "profile_path": null,
+        "credit_id": "695ef5cb047b9f0e58383ae7",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2152816,
+        "known_for_department": "Directing",
+        "name": "Aditya Dhar",
+        "original_name": "Aditya Dhar",
+        "popularity": 1.6359,
+        "profile_path": "/dIZs80xvNgA7VZClECVXIHdaATb.jpg",
+        "credit_id": "695ef5d8c554137781b04eee",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85053,
+        "known_for_department": "Sound",
+        "name": "Julius Packiam",
+        "original_name": "Julius Packiam",
+        "popularity": 0.491,
+        "profile_path": null,
+        "credit_id": "695ef5f5bc79fda77a86383d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85048,
+        "known_for_department": "Directing",
+        "name": "Kabir Khan",
+        "original_name": "Kabir Khan",
+        "popularity": 0.7124,
+        "profile_path": "/hxiBucUGDTsBS4BP9Z1nGGmGWI7.jpg",
+        "credit_id": "695ef60ea8d1fda3d2f9e251",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

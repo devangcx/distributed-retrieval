@@ -1,0 +1,378 @@
+{
+  "adult": false,
+  "backdrop_path": "/kmzppWh7ljL6K9fXW72bPN3gKwu.jpg",
+  "belongs_to_collection": {
+    "id": 1041695,
+    "name": "R.I.P.D. Collection",
+    "poster_path": "/3T5sF3dyECdfXNSXcq3RsDhk6yu.jpg",
+    "backdrop_path": "/qeEJNtRhT1YqLZtMSEOEtJkKvyd.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1013860,
+  "imdb_id": "tt21094994",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "R.I.P.D. 2: Rise of the Damned",
+  "overview": "When Sheriff Roy Pulsipher finds himself in the afterlife, he joins a special police force and returns to Earth to save humanity from the undead.",
+  "popularity": 3.9607,
+  "poster_path": "/g4yJTzMtOBUTAR2Qnmj8TYIcFVq.jpg",
+  "production_companies": [
+    {
+      "id": 17009,
+      "logo_path": "/ssowAxOrrqsSR2CKeiytOXwLoCW.png",
+      "name": "Universal 1440 Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 552,
+      "logo_path": "/9dGdLfm3GteWeUDtD9c9tvlidUG.png",
+      "name": "Dark Horse Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-11-15",
+  "revenue": 0,
+  "runtime": 102,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Meet the new law of the Afterlife.",
+  "title": "R.I.P.D. 2: Rise of the Damned",
+  "video": false,
+  "vote_average": 6.255,
+  "vote_count": 677,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52886,
+        "known_for_department": "Acting",
+        "name": "Jeffrey Donovan",
+        "original_name": "Jeffrey Donovan",
+        "popularity": 3.3944,
+        "profile_path": "/wlDXfXpu6Uz32LUmbFzU8QPDoQH.jpg",
+        "cast_id": 1,
+        "character": "Sheriff Roy Pulsipher",
+        "credit_id": "634f0776d363e500824cef0e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1146114,
+        "known_for_department": "Acting",
+        "name": "Penelope Mitchell",
+        "original_name": "Penelope Mitchell",
+        "popularity": 1.6991,
+        "profile_path": "/2CYFr9Lv7cKkQ0475PCgkXsiHnK.jpg",
+        "cast_id": 12,
+        "character": "Jeanne",
+        "credit_id": "634f09174ca676007fe220e9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3901,
+        "known_for_department": "Acting",
+        "name": "Richard Brake",
+        "original_name": "Richard Brake",
+        "popularity": 2.937,
+        "profile_path": "/JwsiErANShzPSdYsNoiNYdrSg1.jpg",
+        "cast_id": 11,
+        "character": "Otis",
+        "credit_id": "634f0910a0f1a20090af8667",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1180941,
+        "known_for_department": "Acting",
+        "name": "Kerry Knuppe",
+        "original_name": "Kerry Knuppe",
+        "popularity": 0.9892,
+        "profile_path": "/fJGFRIcMiVyyxoSXs3zfBDjcjht.jpg",
+        "cast_id": 4,
+        "character": "Hano",
+        "credit_id": "634f078b56b9f7007b118901",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1474019,
+        "known_for_department": "Acting",
+        "name": "Jake Choi",
+        "original_name": "Jake Choi",
+        "popularity": 0.8473,
+        "profile_path": "/ftutoBlPWjWVjdT86wBZxLB13kU.jpg",
+        "cast_id": 3,
+        "character": "Slim",
+        "credit_id": "634f07854ca676007fe22053",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215228,
+        "known_for_department": "Acting",
+        "name": "Richard Fleeshman",
+        "original_name": "Richard Fleeshman",
+        "popularity": 1.0274,
+        "profile_path": "/4g0jDx6OYk1lEuCFbETat3vfJOU.jpg",
+        "cast_id": 2,
+        "character": "Angus",
+        "credit_id": "634f077e84448e009153226a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1776636,
+        "known_for_department": "Acting",
+        "name": "Craige Els",
+        "original_name": "Craige Els",
+        "popularity": 0.7766,
+        "profile_path": "/8zvmwwRRTLn7lsZpRlJBAeK8l9a.jpg",
+        "cast_id": 10,
+        "character": "Julius Butterfield",
+        "credit_id": "634f0906a0f1a2007cdc087f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1816499,
+        "known_for_department": "Acting",
+        "name": "Tilly Keeper",
+        "original_name": "Tilly Keeper",
+        "popularity": 0.7536,
+        "profile_path": "/r0NcqL6Vgp6ZQJSQ6fl8kL8Db46.jpg",
+        "cast_id": 5,
+        "character": "Charlotte Pulsipher",
+        "credit_id": "634f07914ca676007fe2205a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1439024,
+        "known_for_department": "Acting",
+        "name": "Nóra Trokán",
+        "original_name": "Trokán Nóra",
+        "popularity": 1.348,
+        "profile_path": "/7PcFzlPQZVXRRz40slgpMtV4uPm.jpg",
+        "cast_id": 18,
+        "character": "Nell",
+        "credit_id": "63685b9e4ca676007ea08235",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2280650,
+        "known_for_department": "Acting",
+        "name": "Stephanie Levi-John",
+        "original_name": "Stephanie Levi-John",
+        "popularity": 0.747,
+        "profile_path": "/a662H8C5sSK8iZQeICpgxt69Fz4.jpg",
+        "cast_id": 9,
+        "character": "Beverley",
+        "credit_id": "634f08fe880c920090096600",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1700678,
+        "known_for_department": "Acting",
+        "name": "Nicholas Wittman",
+        "original_name": "Nicholas Wittman",
+        "popularity": 0.8036,
+        "profile_path": "/vx5qk9u45rsJdwqeuLvavfq2cat.jpg",
+        "cast_id": 19,
+        "character": "Zeke Samuels",
+        "credit_id": "63685bb2d207f3007f993910",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2892343,
+        "known_for_department": "Acting",
+        "name": "Robert Jackson",
+        "original_name": "Robert Jackson",
+        "popularity": 0.4141,
+        "profile_path": "/jGAL898QmnnXXkjeYhSE0WIFW4T.jpg",
+        "cast_id": 20,
+        "character": "Federal Marshall 1",
+        "credit_id": "67a62a96492b379287859b6d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6031182,
+        "known_for_department": "Acting",
+        "name": "Zoltán Benkovics",
+        "original_name": "Zoltán Benkovics",
+        "popularity": 0.2885,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Dickie Samuels (uncredited)",
+        "credit_id": "699eff2e4afb6ad888e93959",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1181315,
+        "known_for_department": "Writing",
+        "name": "Paul Leyden",
+        "original_name": "Paul Leyden",
+        "popularity": 1.043,
+        "profile_path": "/e3tTOMbqCNtY9k7QFPQLDi5iARj.jpg",
+        "credit_id": "634f08d64ca67600825acb69",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1181315,
+        "known_for_department": "Writing",
+        "name": "Paul Leyden",
+        "original_name": "Paul Leyden",
+        "popularity": 1.043,
+        "profile_path": "/e3tTOMbqCNtY9k7QFPQLDi5iARj.jpg",
+        "credit_id": "634f08df5f4b7300835ac223",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2096786,
+        "known_for_department": "Writing",
+        "name": "Andrew Klein",
+        "original_name": "Andrew Klein",
+        "popularity": 0.4879,
+        "profile_path": null,
+        "credit_id": "634f08f14ca676007fe220d8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22141,
+        "known_for_department": "Production",
+        "name": "Ogden Gavanski",
+        "original_name": "Ogden Gavanski",
+        "popularity": 0.5501,
+        "profile_path": "/jNkzJ3fHpnfI7cTR3iQs41ZGYDb.jpg",
+        "credit_id": "63503ca9544c41007ff46dd5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1918323,
+        "known_for_department": "Camera",
+        "name": "Bruno Degrave",
+        "original_name": "Bruno Degrave",
+        "popularity": 0.3021,
+        "profile_path": null,
+        "credit_id": "63503ea4076ce8007f0002c2",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2902412,
+        "known_for_department": "Editing",
+        "name": "Kevin Armstrong",
+        "original_name": "Kevin Armstrong",
+        "popularity": 0.3248,
+        "profile_path": null,
+        "credit_id": "63503f7584448e009153d77c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3748070,
+        "known_for_department": "Crew",
+        "name": "Károly Mátsik",
+        "original_name": "Károly Mátsik",
+        "popularity": 0.2795,
+        "profile_path": null,
+        "credit_id": "63503fae35818f00799235d2",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1571109,
+        "known_for_department": "Art",
+        "name": "Zsuzsanna Borvendég",
+        "original_name": "Zsuzsanna Borvendég",
+        "popularity": 0.341,
+        "profile_path": null,
+        "credit_id": "6350400bf3b49a008623c87b",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1334126,
+        "known_for_department": "Acting",
+        "name": "Jeffrey Christopher Todd",
+        "original_name": "Jeffrey Christopher Todd",
+        "popularity": 0.6007,
+        "profile_path": "/maPPnpgZp9U20O5UtHwAzvO869w.jpg",
+        "credit_id": "67e536185f3e0ac1880025b9",
+        "department": "Production",
+        "job": "Casting Associate"
+      }
+    ]
+  }
+}

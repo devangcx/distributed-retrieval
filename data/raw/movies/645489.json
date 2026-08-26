@@ -1,0 +1,460 @@
+{
+  "adult": false,
+  "backdrop_path": "/ezaMkH1y6fFvJydpsc3Hf3oXcIu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81292944",
+  "id": 645489,
+  "imdb_id": "tt10350626",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "गुंजन सक्सेना: द कारगिल गर्ल",
+  "overview": "Inspired by the life of a fearless young officer who made history by becoming the first Indian female Air Force officer to fly in a combat zone during the 1999 Kargil War",
+  "popularity": 1.8013,
+  "poster_path": "/llWz6LbVpGPChnNnhAiGJyPMDwP.jpg",
+  "production_companies": [
+    {
+      "id": 19146,
+      "logo_path": "/5Ff25ornzVNhm5skuAvMAR556NB.png",
+      "name": "Dharma Productions",
+      "origin_country": "IN"
+    },
+    {
+      "id": 86347,
+      "logo_path": "/ir79iQBhrXk9PJ5Pr9vlLjM4viO.png",
+      "name": "Zee Studios",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2020-07-23",
+  "revenue": 0,
+  "runtime": 112,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Gunjan Saxena: The Kargil Girl",
+  "video": false,
+  "vote_average": 7.283,
+  "vote_count": 90,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1179460,
+        "known_for_department": "Acting",
+        "name": "Pankaj Tripathi",
+        "original_name": "Pankaj Tripathi",
+        "popularity": 0.9961,
+        "profile_path": "/f3Vxz0QB7PHeyPcXrfJX14Xkxnu.jpg",
+        "cast_id": 2,
+        "character": "Anup Saxena",
+        "credit_id": "5dc1982d470ead00158a8dcc",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1974970,
+        "known_for_department": "Acting",
+        "name": "Janhvi Kapoor",
+        "original_name": "Janhvi Kapoor",
+        "popularity": 1.9463,
+        "profile_path": "/2VqBDc19br9CIitXUFkZ52q7V2o.jpg",
+        "cast_id": 5,
+        "character": "IAF Pilot Gunjan Saxena",
+        "credit_id": "5dc19a259d89390013327107",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 232535,
+        "known_for_department": "Acting",
+        "name": "Angad Bedi",
+        "original_name": "Angad Bedi",
+        "popularity": 0.6236,
+        "profile_path": "/ejv7eALY9SMa39aKuQdG7frlKtm.jpg",
+        "cast_id": 3,
+        "character": "Anshuman Saxena",
+        "credit_id": "5dc198559d89390015324b88",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140763,
+        "known_for_department": "Acting",
+        "name": "Manav Vij",
+        "original_name": "Manav Vij",
+        "popularity": 1.0989,
+        "profile_path": "/qBGYyDNhHB8Gt2gKQUs0VdsWutJ.jpg",
+        "cast_id": 16,
+        "character": "Comm. Off. Gautam Sinha",
+        "credit_id": "5f2162fddf857c0036d48bf0",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1873664,
+        "known_for_department": "Acting",
+        "name": "Ayesha Raza Mishra",
+        "original_name": "Ayesha Raza Mishra",
+        "popularity": 0.925,
+        "profile_path": "/cKC6Gj5AbeoLpH0bxnSj8SEzewi.jpg",
+        "cast_id": 17,
+        "character": "Kirti Saxena",
+        "credit_id": "5f2163135b2f4700384d5d4e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1427894,
+        "known_for_department": "Acting",
+        "name": "Vineet Kumar Singh",
+        "original_name": "Vineet Kumar Singh",
+        "popularity": 1.0824,
+        "profile_path": "/8mDoHcQQ82f7FYK8B22VK9DLkLA.jpg",
+        "cast_id": 4,
+        "character": "IAF Off. Dileep Singh",
+        "credit_id": "5dc1986f95c0af00127046eb",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1671081,
+        "known_for_department": "Acting",
+        "name": "Chandan Anand",
+        "original_name": "Chandan Anand",
+        "popularity": 0.543,
+        "profile_path": "/fyPk0OQAxPbqid2MZEOCtaFoa9Z.jpg",
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "5f34f9bcc4f552003407407e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2785475,
+        "known_for_department": "Acting",
+        "name": "Riva Arora",
+        "original_name": "Riva Arora",
+        "popularity": 0.8266,
+        "profile_path": "/1dPTZNZYwxuDlLmlcZ78tyGoNzk.jpg",
+        "cast_id": 23,
+        "character": "Young Gunjan",
+        "credit_id": "5f7acb517b7b4d003a7571c3",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2041616,
+        "known_for_department": "Production",
+        "name": "Jogi Malang",
+        "original_name": "Jogi Malang",
+        "popularity": 0.6935,
+        "profile_path": "/aZg3rVH9hj4w00tRr2YUGEevQLd.jpg",
+        "credit_id": "616aac1a6728a80043cdfe2d",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1796865,
+        "known_for_department": "Sound",
+        "name": "Arijit Singh",
+        "original_name": "Arijit Singh",
+        "popularity": 0.6757,
+        "profile_path": "/2PebQIwbUQDOctnwQ0jSqTLQ5l9.jpg",
+        "credit_id": "61f918bdb7abb500e88b281d",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2306254,
+        "known_for_department": "Sound",
+        "name": "Jyoti Nooran",
+        "original_name": "Jyoti Nooran",
+        "popularity": 0.4193,
+        "profile_path": null,
+        "credit_id": "61f918ca07216600e011c0f1",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1169588,
+        "known_for_department": "Production",
+        "name": "Rekha Bhardwaj",
+        "original_name": "Rekha Bhardwaj",
+        "popularity": 0.4267,
+        "profile_path": "/dF9qX0na8zGSDwdlqCdK9xvTPG0.jpg",
+        "credit_id": "61f918d8dfaae9001db91d3e",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 545520,
+        "known_for_department": "Sound",
+        "name": "Sukhwinder Singh",
+        "original_name": "Sukhwinder Singh",
+        "popularity": 0.7807,
+        "profile_path": "/tGBoyl8l39l8j1NqGvnWpmS41lT.jpg",
+        "credit_id": "61f918e668929c00a4818ef8",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2291864,
+        "known_for_department": "Sound",
+        "name": "Nakash Aziz",
+        "original_name": "Nakash Aziz",
+        "popularity": 0.4271,
+        "profile_path": "/yEHN0m9EWVCw2UOITS8AAMPngo1.jpg",
+        "credit_id": "61f918f3dfaae9006aad87d8",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1460771,
+        "known_for_department": "Sound",
+        "name": "Armaan Malik",
+        "original_name": "Armaan Malik",
+        "popularity": 0.5768,
+        "profile_path": "/6dJUvnyBJw0YkAFfoD0zssif2yA.jpg",
+        "credit_id": "61f9190159e8a900c3a86179",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2111481,
+        "known_for_department": "Sound",
+        "name": "Palak Muchhal",
+        "original_name": "Palak Muchhal",
+        "popularity": 0.5772,
+        "profile_path": "/o2ASDLbx8OYcQwMpXPj5zjNBfzh.jpg",
+        "credit_id": "61f91912eee186490a174027",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1337149,
+        "known_for_department": "Camera",
+        "name": "Manush Nandan",
+        "original_name": "Manush Nandan",
+        "popularity": 0.448,
+        "profile_path": null,
+        "credit_id": "61f42d515f2db100dc4e2ca5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1775463,
+        "known_for_department": "Sound",
+        "name": "John Stewart Eduri",
+        "original_name": "John Stewart Eduri",
+        "popularity": 0.342,
+        "profile_path": null,
+        "credit_id": "61f42d86dfaae900c6b0c5b0",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223854,
+        "known_for_department": "Sound",
+        "name": "Amit Trivedi",
+        "original_name": "Amit Trivedi",
+        "popularity": 0.6536,
+        "profile_path": "/lRewkQ2Smolc0TjNMSycYHnbFil.jpg",
+        "credit_id": "61f42d96ac8e6b001c93172e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3450541,
+        "known_for_department": "Acting",
+        "name": "Shanaya Kapoor",
+        "original_name": "Shanaya Kapoor",
+        "popularity": 0.6035,
+        "profile_path": "/xmjhU64kkNY8snbaad7L3Wx6OT1.jpg",
+        "credit_id": "64959fb7a284eb0139ec84d6",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2074637,
+        "known_for_department": "Directing",
+        "name": "Sharan Sharma",
+        "original_name": "Sharan Sharma",
+        "popularity": 0.4145,
+        "profile_path": null,
+        "credit_id": "5e9826e8b33903001aa21375",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35736,
+        "known_for_department": "Production",
+        "name": "Karan Johar",
+        "original_name": "Karan Johar",
+        "popularity": 1.4295,
+        "profile_path": "/zip1x7OXOBxXxcdYvKOgw6MnAWm.jpg",
+        "credit_id": "5e98270ffdf8b70013a2b051",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85699,
+        "known_for_department": "Production",
+        "name": "Hiroo Johar",
+        "original_name": "Hiroo Johar",
+        "popularity": 0.5738,
+        "profile_path": "/sUiSreZyXRj9raYlISB1eGVQ5LR.jpg",
+        "credit_id": "5e982738f6787a0019f05d39",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131836,
+        "known_for_department": "Production",
+        "name": "Apoorva Mehta",
+        "original_name": "Apoorva Mehta",
+        "popularity": 0.5487,
+        "profile_path": "/1AJ9HUiwkA7zuIX57YNZ0yvw9sj.jpg",
+        "credit_id": "5e982757b33903001aa21474",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2672340,
+        "known_for_department": "Writing",
+        "name": "Nikhil Mehrotra",
+        "original_name": "Nikhil Mehrotra",
+        "popularity": 0.2345,
+        "profile_path": null,
+        "credit_id": "5edfaab4f36a32001e8b32a8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2074637,
+        "known_for_department": "Directing",
+        "name": "Sharan Sharma",
+        "original_name": "Sharan Sharma",
+        "popularity": 0.4145,
+        "profile_path": null,
+        "credit_id": "5edfaac7b42242002096e23d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1673370,
+        "known_for_department": "Writing",
+        "name": "Hussain Dalal",
+        "original_name": "Hussain Dalal",
+        "popularity": 0.6493,
+        "profile_path": "/6V4sNgeLJQ1u8k9MPjVqytKBQWo.jpg",
+        "credit_id": "5f27e01e869e7500355e7739",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1473713,
+        "known_for_department": "Editing",
+        "name": "Nitin Baid",
+        "original_name": "Nitin Baid",
+        "popularity": 0.4538,
+        "profile_path": "/8KrbfRxot42zQBWASBOsPJ7cKGi.jpg",
+        "credit_id": "5f27e046d9403500375fb5f3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1495603,
+        "known_for_department": "Writing",
+        "name": "Kausar Munir",
+        "original_name": "Kausar Munir",
+        "popularity": 0.581,
+        "profile_path": "/7opGgmpEUXFmXJ5JiXnSfqvUNB4.jpg",
+        "credit_id": "5f27e0569f37b0003526e88e",
+        "department": "Writing",
+        "job": "Lyricist"
+      }
+    ]
+  }
+}

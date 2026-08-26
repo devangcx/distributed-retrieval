@@ -1,0 +1,481 @@
+{
+  "adult": false,
+  "backdrop_path": "/cmZVWuXM1hpP2GKFABCUkoscKu4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81136524",
+  "id": 738215,
+  "imdb_id": "tt12767498",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Barbie: Princess Adventure",
+  "overview": "With new friends in a new kingdom, Barbie learns what it means to be herself when she trades places with a royal lookalike in this musical adventure.",
+  "popularity": 2.7976,
+  "poster_path": "/c4hSVM1eQEs6OXCcxV1CcsphaOi.jpg",
+  "production_companies": [
+    {
+      "id": 137586,
+      "logo_path": "/yRstxvfbutR1yJcCDb8EXyn8jTX.png",
+      "name": "Mattel Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 6220,
+      "logo_path": "/cAj69EL1zSXmZH6STbMGZrunyMD.png",
+      "name": "Mattel",
+      "origin_country": "US"
+    },
+    {
+      "id": 151541,
+      "logo_path": "/sOz3vRS5B2KuysBcxTv7R1eelHX.png",
+      "name": "Mainframe Studios",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2020-09-01",
+  "revenue": 0,
+  "runtime": 72,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You Can Be Anything!",
+  "title": "Barbie: Princess Adventure",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 247,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 63333,
+        "known_for_department": "Acting",
+        "name": "America Young",
+        "original_name": "America Young",
+        "popularity": 1.4897,
+        "profile_path": "/xxAr9L5Cto6q4H0nnxvhnnre1Qe.jpg",
+        "cast_id": 24,
+        "character": "Barbie (voice)",
+        "credit_id": "5f9039b7383df20034aeae73",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1599422,
+        "known_for_department": "Acting",
+        "name": "Erica Lindbeck",
+        "original_name": "Erica Lindbeck",
+        "popularity": 1.4757,
+        "profile_path": "/l5ISBt8S8Upct0fDgaEPuELp4zE.jpg",
+        "cast_id": 2,
+        "character": "Amelia (voice)",
+        "credit_id": "5f4f2149bb260200350849a0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1219437,
+        "known_for_department": "Acting",
+        "name": "Stephanie Sheh",
+        "original_name": "Stephanie Sheh",
+        "popularity": 1.0417,
+        "profile_path": "/id00Jc4uwGnffNT1bp2SQWEoSH3.jpg",
+        "cast_id": 8,
+        "character": "Renee (voice)",
+        "credit_id": "5f4f237b09191b00360e0fec",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1184555,
+        "known_for_department": "Acting",
+        "name": "Emma Adele Galvin",
+        "original_name": "Emma Adele Galvin",
+        "popularity": 0.5687,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Daisy (voice)",
+        "credit_id": "5f4f23a3da10f00038dfd879",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1440178,
+        "known_for_department": "Acting",
+        "name": "Ritesh Rajan",
+        "original_name": "Ritesh Rajan",
+        "popularity": 0.9534,
+        "profile_path": "/jGvKcMTjaATcKdfyehK4AacDSvG.jpg",
+        "cast_id": 6,
+        "character": "Ken (voice)",
+        "credit_id": "5f4f22a1f96a39003597e0bb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2784676,
+        "known_for_department": "Acting",
+        "name": "Desirae Whitfield",
+        "original_name": "Desirae Whitfield",
+        "popularity": 0.4587,
+        "profile_path": "/uXkhuqdR6qvfIq5UQxm8RwPWm9E.jpg",
+        "cast_id": 27,
+        "character": "Nikki (voice)",
+        "credit_id": "62b6f734229ae2006705e8f0",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1681143,
+        "known_for_department": "Acting",
+        "name": "Cristina Milizia",
+        "original_name": "Cristina Milizia",
+        "popularity": 0.8257,
+        "profile_path": "/hyoNXHS3W4bvzq6wziy7q3JSklN.jpg",
+        "cast_id": 10,
+        "character": "Teresa (voice)",
+        "credit_id": "5f4f24137d41aa00324d5693",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 170317,
+        "known_for_department": "Acting",
+        "name": "Dave Fennoy",
+        "original_name": "Dave Fennoy",
+        "popularity": 0.8982,
+        "profile_path": "/1azEou77GcmST8hYJmV30PhAyO6.jpg",
+        "cast_id": 13,
+        "character": "Alfonso (voice)",
+        "credit_id": "5f4f24edf96a39003397aea9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1945568,
+        "known_for_department": "Acting",
+        "name": "Angelo Salvatore Restaino",
+        "original_name": "Angelo Salvatore Restaino",
+        "popularity": 0.3714,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Prince Johan (voice)",
+        "credit_id": "5f4f2351c8a2d40035adc674",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2776753,
+        "known_for_department": "Acting",
+        "name": "Eamon Brennan",
+        "original_name": "Eamon Brennan",
+        "popularity": 0.2905,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Trey (voice)",
+        "credit_id": "5f5eb65eaf432400396ffe10",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 174466,
+        "known_for_department": "Acting",
+        "name": "Ogie Banks",
+        "original_name": "Ogie Banks",
+        "popularity": 0.8414,
+        "profile_path": "/upoI7qDPU4j7Q2WaddinquaTzrM.jpg",
+        "cast_id": 11,
+        "character": "Ned / Ted (voice)",
+        "credit_id": "5f4f2458c8a2d40034ad66b3",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1494097,
+        "known_for_department": "Acting",
+        "name": "Cassidy Naber",
+        "original_name": "Cassidy Naber",
+        "popularity": 0.5842,
+        "profile_path": "/cBEu44VFG0VUpwBtvGOBYubJugK.jpg",
+        "cast_id": 4,
+        "character": "Chelsea (voice)",
+        "credit_id": "5f4f21ebda10f00035df93a0",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 571336,
+        "known_for_department": "Acting",
+        "name": "Cassandra Lee Morris",
+        "original_name": "Cassandra Lee Morris",
+        "popularity": 0.8739,
+        "profile_path": "/iXUQ4SGQhVAAsyJjNO35IeMPGZH.jpg",
+        "cast_id": 3,
+        "character": "Stacie (voice)",
+        "credit_id": "5f4f219dfdc4fa00356e7709",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2112099,
+        "known_for_department": "Acting",
+        "name": "Kirsten Day",
+        "original_name": "Kirsten Day",
+        "popularity": 0.9781,
+        "profile_path": "/jNAZCkTK5mK3JOIdlxFrAw307KX.jpg",
+        "cast_id": 5,
+        "character": "Skipper / Tammy (Voice)",
+        "credit_id": "5f4f2267f96a39003397a8ba",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2467979,
+        "known_for_department": "Acting",
+        "name": "Greg Chun",
+        "original_name": "Greg Chun",
+        "popularity": 0.7696,
+        "profile_path": "/zVvT0ypeW6QRaBthYWDzlWLPXRO.jpg",
+        "cast_id": 12,
+        "character": "Dad (voice)",
+        "credit_id": "5f4f24d8c8a2d40032ad9f57",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1427388,
+        "known_for_department": "Acting",
+        "name": "Lisa Fuson",
+        "original_name": "Lisa Fuson",
+        "popularity": 0.7035,
+        "profile_path": "/z43ePo47FXkJycbPH4vlstdnUZs.jpg",
+        "cast_id": 22,
+        "character": "Mom (voice)",
+        "credit_id": "5f5eb6d0688cd00038fa6fe5",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 50097,
+        "known_for_department": "Acting",
+        "name": "Nakia Burrise",
+        "original_name": "Nakia Burrise",
+        "popularity": 0.936,
+        "profile_path": "/4bZyZcppMNjkG8JBhh36DIk0ePv.jpg",
+        "cast_id": 20,
+        "character": "Principal Miller (voice)",
+        "credit_id": "5f5eb6a593388b00375969b1",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2776754,
+        "known_for_department": "Acting",
+        "name": "Amelia Diecker",
+        "original_name": "Amelia Diecker",
+        "popularity": 0.2386,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Emma (voice)",
+        "credit_id": "5f5eb6bd7d41aa0035ec06c3",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1243782,
+        "known_for_department": "Acting",
+        "name": "Ben Pronsky",
+        "original_name": "Ben Pronsky",
+        "popularity": 0.7122,
+        "profile_path": "/d4I1Y8LiELi6mY8A9RLX0ZHfdlL.jpg",
+        "cast_id": 23,
+        "character": "Reggie (voice)",
+        "credit_id": "5f5eb6f593388b003959b2ba",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 111529,
+        "known_for_department": "Acting",
+        "name": "Tara Sands",
+        "original_name": "Tara Sands",
+        "popularity": 0.7869,
+        "profile_path": "/skzAKKthsraauiacZtR2sb7HzS4.jpg",
+        "cast_id": 14,
+        "character": "Rose Ross (voice) (uncredited)",
+        "credit_id": "5f4f2509c8a2d40033ad6ee1",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4287425,
+        "known_for_department": "Acting",
+        "name": "Elli Moore",
+        "original_name": "Elli Moore",
+        "popularity": 0.282,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Barbie (singing voice)",
+        "credit_id": "650f46cc6f53e10aac2a6d24",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1498028,
+        "known_for_department": "Acting",
+        "name": "Jordyn Kane",
+        "original_name": "Jordyn Kane",
+        "popularity": 0.3047,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Amelia (singing voice)",
+        "credit_id": "650f46f626dac100eb19ab47",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1569154,
+        "known_for_department": "Art",
+        "name": "Maisha Moore",
+        "original_name": "Maisha Moore",
+        "popularity": 0.3484,
+        "profile_path": null,
+        "credit_id": "62a29cfb35d1bc37302d72ec",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1882882,
+        "known_for_department": "Writing",
+        "name": "Ruth Handler",
+        "original_name": "Ruth Handler",
+        "popularity": 1.2616,
+        "profile_path": "/dpjzMMrUxiLFWRgDQ9GedhQ9hmA.jpg",
+        "credit_id": "62a29c96b87aec00517ae0dd",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1959892,
+        "known_for_department": "Production",
+        "name": "Christopher Keenan",
+        "original_name": "Christopher Keenan",
+        "popularity": 0.5675,
+        "profile_path": null,
+        "credit_id": "5f4f2603f96a39003397b0cb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2487025,
+        "known_for_department": "Production",
+        "name": "Adam Bonnett",
+        "original_name": "Adam Bonnett",
+        "popularity": 0.3426,
+        "profile_path": null,
+        "credit_id": "5f4f25c009191b00380df3d1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92125,
+        "known_for_department": "Directing",
+        "name": "Conrad Helten",
+        "original_name": "Conrad Helten",
+        "popularity": 0.6406,
+        "profile_path": null,
+        "credit_id": "5f4f280c955c650034e1b7dc",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 238852,
+        "known_for_department": "Writing",
+        "name": "Ann Austen",
+        "original_name": "Ann Austen",
+        "popularity": 0.7013,
+        "profile_path": null,
+        "credit_id": "5f4f282e09191b00370def5c",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  }
+}

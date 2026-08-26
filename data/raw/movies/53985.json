@@ -1,0 +1,404 @@
+{
+  "adult": false,
+  "backdrop_path": "/sGRYgQkVfUvJiCzz8RZ0Zb1wyHq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 53985,
+  "imdb_id": "tt1482967",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mutant Pumpkins from Outer Space",
+  "overview": "Susan Murphy (a.k.a. Ginormica) and the Monsters are now working with the US government as special ops. So when an alien presence is detected in Susan's hometown of Modesto, California -- right before Halloween -- the team is dispatched to investigate. Everything appears normal, right down to the jack-o-lanterns peering out from every doorstep and windowsill. But when Halloween arrives, those innocent-looking carved pumpkins reveal themselves for what they really are mutant aliens. The altered pumpkins then start to implement their fiendish plan to take over Earth. The Monsters are there to combat the mutant gourds and try to smash their wicked scheme!",
+  "popularity": 2.7803,
+  "poster_path": "/w3R9G8rqrrbMSOufl0QBaNAZPDC.jpg",
+  "production_companies": [
+    {
+      "id": 521,
+      "logo_path": "/3BPX5VGBov8SDqTV7wC1L1xShAS.png",
+      "name": "DreamWorks Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2009-04-01",
+  "revenue": 0,
+  "runtime": 27,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Mutant Pumpkins from Outer Space",
+  "video": false,
+  "vote_average": 6.062,
+  "vote_count": 300,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19274,
+        "known_for_department": "Acting",
+        "name": "Seth Rogen",
+        "original_name": "Seth Rogen",
+        "popularity": 6.5646,
+        "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+        "cast_id": 2,
+        "character": "B.O.B. (voice)",
+        "credit_id": "52fe4886c3a36847f816be03",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 368,
+        "known_for_department": "Acting",
+        "name": "Reese Witherspoon",
+        "original_name": "Reese Witherspoon",
+        "popularity": 5.3787,
+        "profile_path": "/mfjunuTHrd0wnh8UG1ImMN9FSws.jpg",
+        "cast_id": 3,
+        "character": "Susan Murphy / Ginormica (voice)",
+        "credit_id": "52fe4886c3a36847f816be07",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41419,
+        "known_for_department": "Acting",
+        "name": "Hugh Laurie",
+        "original_name": "Hugh Laurie",
+        "popularity": 4.0105,
+        "profile_path": "/akArncggHnusP5jxzMBKmJDRrMo.jpg",
+        "cast_id": 4,
+        "character": "Dr. Cockroach Ph.D. (voice)",
+        "credit_id": "52fe4886c3a36847f816be0b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21200,
+        "known_for_department": "Acting",
+        "name": "Will Arnett",
+        "original_name": "Will Arnett",
+        "popularity": 3.3783,
+        "profile_path": "/cXupYqk2ERP13XBkw816skYdVDO.jpg",
+        "cast_id": 5,
+        "character": "The Missing Link (voice)",
+        "credit_id": "52fe4886c3a36847f816be0f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2628,
+        "known_for_department": "Acting",
+        "name": "Kiefer Sutherland",
+        "original_name": "Kiefer Sutherland",
+        "popularity": 4.2157,
+        "profile_path": "/tK5zjdvao2NELns3bqT7PPqPeJI.jpg",
+        "cast_id": 23,
+        "character": "General W.R. Monger (voice)",
+        "credit_id": "660d64f06dc507017e568b9e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11678,
+        "known_for_department": "Acting",
+        "name": "Rainn Wilson",
+        "original_name": "Rainn Wilson",
+        "popularity": 2.9309,
+        "profile_path": "/yRTElSeC3q9nBqBuleI6OODlDMS.jpg",
+        "cast_id": 7,
+        "character": "Wicked Jack (voice)",
+        "credit_id": "52fe4886c3a36847f816be17",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4175,
+        "known_for_department": "Acting",
+        "name": "Jeffrey Tambor",
+        "original_name": "Jeffrey Tambor",
+        "popularity": 2.5018,
+        "profile_path": "/e4IkxsEo5O4oUWrIpXlEhWa6lqB.jpg",
+        "cast_id": 8,
+        "character": "Carl Murphy (voice)",
+        "credit_id": "52fe4886c3a36847f816be1b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24305,
+        "known_for_department": "Acting",
+        "name": "Julie White",
+        "original_name": "Julie White",
+        "popularity": 2.2891,
+        "profile_path": "/siiNmtZZldFSc2DwnfUJf0Teouh.jpg",
+        "cast_id": 9,
+        "character": "Wendy Murphy (voice)",
+        "credit_id": "52fe4886c3a36847f816be1f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 936666,
+        "known_for_department": "Editing",
+        "name": "Rich Dietl",
+        "original_name": "Rich Dietl",
+        "popularity": 0.6292,
+        "profile_path": "/qHGYPYTCCXpkLLElc0Z92Wlj4et.jpg",
+        "cast_id": 22,
+        "character": "B.O.B. Kid / Husband / Pumpkins (voice)",
+        "credit_id": "65a773a48cfcc7012616b247",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118489,
+        "known_for_department": "Acting",
+        "name": "Walt Dohrn",
+        "original_name": "Walt Dohrn",
+        "popularity": 2.0295,
+        "profile_path": "/tGWQRNz8T5VNPZgNU2LafpNt2Jn.jpg",
+        "cast_id": 15,
+        "character": "Link Kid (voice)",
+        "credit_id": "623b7f606bdec3005b465a39",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 76741,
+        "known_for_department": "Acting",
+        "name": "Susan Fitzer",
+        "original_name": "Susan Fitzer",
+        "popularity": 0.6536,
+        "profile_path": "/h9aJCVfCjrIGA0JcwbTOBQWeeZJ.jpg",
+        "cast_id": 16,
+        "character": "Little Girl (voice)",
+        "credit_id": "623b7f87b42242005c86d986",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3477590,
+        "known_for_department": "Acting",
+        "name": "Ava Kelly",
+        "original_name": "Ava Kelly",
+        "popularity": 0.2361,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Cat Girl (voice)",
+        "credit_id": "623b7f9235c30a008e86270a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1803662,
+        "known_for_department": "Acting",
+        "name": "Andrea Montana Knoll",
+        "original_name": "Andrea Montana Knoll",
+        "popularity": 0.358,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Mom (voice)",
+        "credit_id": "623b7f9fa7e363004855d939",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 936669,
+        "known_for_department": "Acting",
+        "name": "Latifa Ouaou",
+        "original_name": "Latifa Ouaou",
+        "popularity": 0.6274,
+        "profile_path": "/tqH1mKrJoVGcMmlCQpw4vnjyLjE.jpg",
+        "cast_id": 19,
+        "character": "Boy / Old Lady (voice)",
+        "credit_id": "623b7fac6bdec30092e7536e",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 151007,
+        "known_for_department": "Art",
+        "name": "Peter Ramsey",
+        "original_name": "Peter Ramsey",
+        "popularity": 0.9695,
+        "profile_path": "/eAL9QdCEYyxiMP9cl9lQddg8zEa.jpg",
+        "cast_id": 20,
+        "character": "Dad / Farmer Jeb (voice)",
+        "credit_id": "623b7fbca349110048e4538c",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12080,
+        "known_for_department": "Directing",
+        "name": "Conrad Vernon",
+        "original_name": "Conrad Vernon",
+        "popularity": 1.9109,
+        "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg",
+        "cast_id": 21,
+        "character": "Man on Cell / Woman (voice)",
+        "credit_id": "623b7fc89affc0005b0f67e9",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 151007,
+        "known_for_department": "Art",
+        "name": "Peter Ramsey",
+        "original_name": "Peter Ramsey",
+        "popularity": 0.9695,
+        "profile_path": "/eAL9QdCEYyxiMP9cl9lQddg8zEa.jpg",
+        "credit_id": "52fe4886c3a36847f816be25",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12080,
+        "known_for_department": "Directing",
+        "name": "Conrad Vernon",
+        "original_name": "Conrad Vernon",
+        "popularity": 1.9109,
+        "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg",
+        "credit_id": "52fe4886c3a36847f816be2b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66515,
+        "known_for_department": "Writing",
+        "name": "Adam F. Goldberg",
+        "original_name": "Adam F. Goldberg",
+        "popularity": 1.0593,
+        "profile_path": "/bWyDz4cUe7IJGplo2aloOSvqPqt.jpg",
+        "credit_id": "52fe4886c3a36847f816be31",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1205985,
+        "known_for_department": "Writing",
+        "name": "Stephan Franck",
+        "original_name": "Stephan Franck",
+        "popularity": 0.5187,
+        "profile_path": null,
+        "credit_id": "552b775cc3a368565f00553e",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2008059,
+        "known_for_department": "Production",
+        "name": "Ben Roy",
+        "original_name": "Ben Roy",
+        "popularity": 0.4389,
+        "profile_path": null,
+        "credit_id": "6a8364ae5f095af5b3a97535",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12090,
+        "known_for_department": "Production",
+        "name": "Leslee Feldman",
+        "original_name": "Leslee Feldman",
+        "popularity": 0.6088,
+        "profile_path": null,
+        "credit_id": "6a8364b7e242f8bb6b4b612d",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2008058,
+        "known_for_department": "Production",
+        "name": "Adrienne Belai",
+        "original_name": "Adrienne Belai",
+        "popularity": 0.3355,
+        "profile_path": null,
+        "credit_id": "6a8364c612ed6fdce5bf2a5c",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1377373,
+        "known_for_department": "Production",
+        "name": "Christi Soper Hilt",
+        "original_name": "Christi Soper Hilt",
+        "popularity": 0.6628,
+        "profile_path": null,
+        "credit_id": "6a8364c9ff5a32aeaca97510",
+        "department": "Production",
+        "job": "Casting Associate"
+      }
+    ]
+  }
+}

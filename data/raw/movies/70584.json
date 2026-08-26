@@ -1,0 +1,444 @@
+{
+  "adult": false,
+  "backdrop_path": "/qv5zpQSx8naAm8C59DGVLMdZxbp.jpg",
+  "belongs_to_collection": {
+    "id": 8917,
+    "name": "Hellraiser Collection",
+    "poster_path": "/lIK0UgJsA18Z5I1PwpucXzgyF3A.jpg",
+    "backdrop_path": "/g0XtsgbwFcFHNZGarpk6qAOPX7T.jpg"
+  },
+  "budget": 350000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 70584,
+  "imdb_id": "tt1716747",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hellraiser: Revelations",
+  "overview": "Two friends in Mexico discover the Lament Configuration and unleash Pinhead, but one decides to try to survive by swapping himself with someone else. Once they go missing, family members go in search of them, but find Pinhead instead.",
+  "popularity": 3.5014,
+  "poster_path": "/lnCmYyYqpwXQAll5AUfNxlnvQk0.jpg",
+  "production_companies": [
+    {
+      "id": 2811,
+      "logo_path": null,
+      "name": "Neo Art & Logic",
+      "origin_country": ""
+    },
+    {
+      "id": 15345,
+      "logo_path": null,
+      "name": "Puzzlebox Films",
+      "origin_country": ""
+    },
+    {
+      "id": 7619,
+      "logo_path": null,
+      "name": "Dimension Extreme",
+      "origin_country": ""
+    },
+    {
+      "id": 7405,
+      "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+      "name": "Dimension Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2011-10-18",
+  "revenue": 0,
+  "runtime": 75,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The return of Pinhead.",
+  "title": "Hellraiser: Revelations",
+  "video": false,
+  "vote_average": 3.5,
+  "vote_count": 374,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57340,
+        "known_for_department": "Acting",
+        "name": "Steven Brand",
+        "original_name": "Steven Brand",
+        "popularity": 1.1692,
+        "profile_path": "/oWkitw5jzILwb775CVGjsqMSrqz.jpg",
+        "cast_id": 3,
+        "character": "Dr. Ross Craven",
+        "credit_id": "52fe4801c3a368484e0e4f15",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 212768,
+        "known_for_department": "Acting",
+        "name": "Nick Eversman",
+        "original_name": "Nick Eversman",
+        "popularity": 1.0058,
+        "profile_path": "/mDNoLNT1rw5DxYGHIlLfUzzfSqO.jpg",
+        "cast_id": 5,
+        "character": "Steven Craven",
+        "credit_id": "52fe4801c3a368484e0e4f1d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 558917,
+        "known_for_department": "Acting",
+        "name": "Tracey Fairaway",
+        "original_name": "Tracey Fairaway",
+        "popularity": 0.8385,
+        "profile_path": "/snGeI6QhtftBRQQjT04T0Qd59wn.jpg",
+        "cast_id": 10,
+        "character": "Emma Craven",
+        "credit_id": "52fe4801c3a368484e0e4f31",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 203281,
+        "known_for_department": "Acting",
+        "name": "Devon Sorvari",
+        "original_name": "Devon Sorvari",
+        "popularity": 0.7481,
+        "profile_path": "/qTHT1w084UNRID3BpXuUb85ohfH.jpg",
+        "cast_id": 13,
+        "character": "Sarah Craven",
+        "credit_id": "52fe4801c3a368484e0e4f3d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 558916,
+        "known_for_department": "Acting",
+        "name": "Stephan Smith Collins",
+        "original_name": "Stephan Smith Collins",
+        "popularity": 0.6583,
+        "profile_path": "/j2Be1pRBmYa1POjQ4NpOV5ZkBgi.jpg",
+        "cast_id": 7,
+        "character": "Pinhead",
+        "credit_id": "52fe4801c3a368484e0e4f25",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60279,
+        "known_for_department": "Acting",
+        "name": "Fred Tatasciore",
+        "original_name": "Fred Tatasciore",
+        "popularity": 2.5726,
+        "profile_path": "/xodxYKRC9mdvgquTdqpmYldliJ3.jpg",
+        "cast_id": 16,
+        "character": "Pinhead (voice)",
+        "credit_id": "52fe4801c3a368484e0e4f49",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67154,
+        "known_for_department": "Acting",
+        "name": "Jay Gillespie",
+        "original_name": "Jay Gillespie",
+        "popularity": 0.7309,
+        "profile_path": "/sA35kkNnGvQbb3vkMo2I1HD61TO.jpg",
+        "cast_id": 6,
+        "character": "Nico Bradley / Pseudo Pinhead",
+        "credit_id": "52fe4801c3a368484e0e4f21",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52395,
+        "known_for_department": "Acting",
+        "name": "Sebastien Roberts",
+        "original_name": "Sebastien Roberts",
+        "popularity": 0.9854,
+        "profile_path": "/pZamp1WASGbZFFPMTQf9X54U60E.jpg",
+        "cast_id": 9,
+        "character": "Peter Bradley",
+        "credit_id": "52fe4801c3a368484e0e4f2d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 115177,
+        "known_for_department": "Acting",
+        "name": "Sanny van Heteren",
+        "original_name": "Sanny van Heteren",
+        "popularity": 0.788,
+        "profile_path": "/1tf5L6W4g3SDIBdzqG06fQmUV9r.jpg",
+        "cast_id": 8,
+        "character": "Kate Bradley",
+        "credit_id": "52fe4801c3a368484e0e4f29",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 558918,
+        "known_for_department": "Acting",
+        "name": "Daniel Buran",
+        "original_name": "Daniel Buran",
+        "popularity": 0.8263,
+        "profile_path": "/lcjwXzxYU0XhulW54g59J5evES7.jpg",
+        "cast_id": 11,
+        "character": "Vagrant",
+        "credit_id": "52fe4801c3a368484e0e4f35",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 558915,
+        "known_for_department": "Acting",
+        "name": "Jolene Andersen",
+        "original_name": "Jolene Andersen",
+        "popularity": 0.9929,
+        "profile_path": "/jeWRoKlw3UYWShVIdzVoJHSGrkf.jpg",
+        "cast_id": 4,
+        "character": "Female Chatterer",
+        "credit_id": "52fe4801c3a368484e0e4f19",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 558919,
+        "known_for_department": "Acting",
+        "name": "Adel Marie Ruiz",
+        "original_name": "Adel Marie Ruiz",
+        "popularity": 0.4459,
+        "profile_path": "/iDFjDrQSuq75EW4DgDopvPYfLGX.jpg",
+        "cast_id": 12,
+        "character": "Mexican Girl",
+        "credit_id": "52fe4801c3a368484e0e4f39",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 558921,
+        "known_for_department": "Acting",
+        "name": "Sue Ann Pien",
+        "original_name": "Sue Ann Pien",
+        "popularity": 0.5476,
+        "profile_path": "/nJxqRqpoAK9CJ6aOFKQ6pnCrcFe.jpg",
+        "cast_id": 15,
+        "character": "Hooker / Skinned Face Girl #1",
+        "credit_id": "52fe4801c3a368484e0e4f45",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 558920,
+        "known_for_department": "Acting",
+        "name": "Camelia Dee",
+        "original_name": "Camelia Dee",
+        "popularity": 0.4729,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Street Walker",
+        "credit_id": "52fe4801c3a368484e0e4f41",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544355,
+        "known_for_department": "Sound",
+        "name": "Frederik Wiedmann",
+        "original_name": "Frederik Wiedmann",
+        "popularity": 0.5271,
+        "profile_path": "/CNkfFuNkHia02qUikqnDi4IBCM.jpg",
+        "credit_id": "52fe4801c3a368484e0e4f5b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18384,
+        "known_for_department": "Writing",
+        "name": "Joel Soisson",
+        "original_name": "Joel Soisson",
+        "popularity": 0.7175,
+        "profile_path": "/y1HqGomLhADs3PqD0midmoY0RL9.jpg",
+        "credit_id": "52fe4801c3a368484e0e4f55",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2149,
+        "known_for_department": "Camera",
+        "name": "David A. Armstrong",
+        "original_name": "David A. Armstrong",
+        "popularity": 0.6143,
+        "profile_path": "/jNDreJaoxh6kNW6NUSPsjHu7BUY.jpg",
+        "credit_id": "52fe4801c3a368484e0e4f61",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 64232,
+        "known_for_department": "Art",
+        "name": "Ermanno Di Febo-Orsini",
+        "original_name": "Ermanno Di Febo-Orsini",
+        "popularity": 0.3072,
+        "profile_path": null,
+        "credit_id": "52fe4801c3a368484e0e4f6d",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1188590,
+        "known_for_department": "Editing",
+        "name": "Matthew Rundell",
+        "original_name": "Matthew Rundell",
+        "popularity": 0.5637,
+        "profile_path": null,
+        "credit_id": "52fe4801c3a368484e0e4f67",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62824,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gary J. Tunnicliffe",
+        "original_name": "Gary J. Tunnicliffe",
+        "popularity": 0.9113,
+        "profile_path": null,
+        "credit_id": "52fe4801c3a368484e0e4f11",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1188589,
+        "known_for_department": "Production",
+        "name": "Aaron Ockman",
+        "original_name": "Aaron Ockman",
+        "popularity": 0.3624,
+        "profile_path": null,
+        "credit_id": "52fe4801c3a368484e0e4f4f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 64229,
+        "known_for_department": "Art",
+        "name": "Marina Starec",
+        "original_name": "Marina Starec",
+        "popularity": 0.3894,
+        "profile_path": null,
+        "credit_id": "52fe4801c3a368484e0e4f73",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74661,
+        "known_for_department": "Directing",
+        "name": "Víctor García",
+        "original_name": "Víctor García",
+        "popularity": 1.042,
+        "profile_path": "/nqBO7AHn6QS8ixc0PQlae4ySyi5.jpg",
+        "credit_id": "53d69b95c3a3686b850061ed",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1424499,
+        "known_for_department": "Production",
+        "name": "Kimberly Ogletree",
+        "original_name": "Kimberly Ogletree",
+        "popularity": 0.3621,
+        "profile_path": null,
+        "credit_id": "61ad43da15dea0008ed31524",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1424499,
+        "known_for_department": "Production",
+        "name": "Kimberly Ogletree",
+        "original_name": "Kimberly Ogletree",
+        "popularity": 0.3621,
+        "profile_path": null,
+        "credit_id": "61ad43e82bcf67004128e360",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31211,
+        "known_for_department": "Writing",
+        "name": "Clive Barker",
+        "original_name": "Clive Barker",
+        "popularity": 1.2419,
+        "profile_path": "/h6JebwvNTpOquhJGrmDh8zCYjQZ.jpg",
+        "credit_id": "5c6c22d3c3a36843c6e7d9ce",
+        "department": "Writing",
+        "job": "Characters"
+      }
+    ]
+  }
+}

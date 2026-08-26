@@ -1,0 +1,325 @@
+{
+  "adult": false,
+  "backdrop_path": "/n9E7hN33zcvIPwEjNdlthM52veW.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 46385,
+  "imdb_id": "tt0244528",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Hadh कर दी आपने",
+  "overview": "Raj, a detective, goes on a Europe trip to investigate his friend's case. There, he falls in love with Anjali, who is impersonating her best friend.",
+  "popularity": 0.9278,
+  "poster_path": "/vf3YOjnTTBrAp7mKqbzkX8nC0bK.jpg",
+  "production_companies": [
+    {
+      "id": 37173,
+      "logo_path": null,
+      "name": "R.R. Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2000-04-14",
+  "revenue": 0,
+  "runtime": 134,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A fun film.",
+  "title": "Hadh Kar Di Aapne",
+  "video": false,
+  "vote_average": 5.067,
+  "vote_count": 30,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97546,
+        "known_for_department": "Acting",
+        "name": "Govinda",
+        "original_name": "Govinda",
+        "popularity": 1.747,
+        "profile_path": "/jIY8akWgvhgbIgZDd20yIPFDSv8.jpg",
+        "cast_id": 0,
+        "character": "Raj Malhotra",
+        "credit_id": "545679a8c3a3681473007508",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35776,
+        "known_for_department": "Acting",
+        "name": "Rani Mukerji",
+        "original_name": "रानी मुखर्जी",
+        "popularity": 2.0168,
+        "profile_path": "/6bm1lhrEgGFpOLBjvcOi3aoQmtg.jpg",
+        "cast_id": 1,
+        "character": "Anjali Khanna",
+        "credit_id": "545679b3c3a368642e0003fa",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35819,
+        "known_for_department": "Acting",
+        "name": "Johny Lever",
+        "original_name": "Johny Lever",
+        "popularity": 1.7738,
+        "profile_path": "/kohAOhKr4HBln8b9P4i1kmMONyi.jpg",
+        "cast_id": 2,
+        "character": "Lawyer",
+        "credit_id": "545679c30e0a2648cb007940",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85033,
+        "known_for_department": "Acting",
+        "name": "Paresh Rawal",
+        "original_name": "Paresh Rawal",
+        "popularity": 1.1939,
+        "profile_path": "/xFVHMvDC8s4Ab2sLXrdVxMxZ33b.jpg",
+        "cast_id": 3,
+        "character": "Bhaidas Bhai",
+        "credit_id": "545679da0e0a2648cf007a97",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 93290,
+        "known_for_department": "Acting",
+        "name": "Satish Kaushik",
+        "original_name": "Satish Kaushik",
+        "popularity": 1.1025,
+        "profile_path": "/lnqVTsUKVxJYPWN3KRBhRlGP1Z0.jpg",
+        "cast_id": 4,
+        "character": "Prakash Kaushik",
+        "credit_id": "545679e9c3a368147300750b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1389008,
+        "known_for_department": "Acting",
+        "name": "Helen Brodie",
+        "original_name": "Helen Brodie",
+        "popularity": 0.7514,
+        "profile_path": "/yGQdicLhjK1J5xWleodMkXFdJuI.jpg",
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "5d9d6197f96a39001bf70de8",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1511727,
+        "known_for_department": "Acting",
+        "name": "Gavin Packard",
+        "original_name": "Gavin Packard",
+        "popularity": 0.5218,
+        "profile_path": "/r4KKyIJcv8jzZwTQbBcblX9trDh.jpg",
+        "cast_id": 11,
+        "character": "Guide",
+        "credit_id": "5eb56865cc277c00216993d9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78248,
+        "known_for_department": "Acting",
+        "name": "Himani Shivpuri",
+        "original_name": "Himani Shivpuri",
+        "popularity": 0.8383,
+        "profile_path": "/iEgl4ME7OfMJ8CVKxpeMiC4Wv5w.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "690cfbadd3f869f103d247e3",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85733,
+        "known_for_department": "Acting",
+        "name": "Tinnu Anand",
+        "original_name": "Tinnu Anand",
+        "popularity": 1.3296,
+        "profile_path": "/6fkEiZKNp6jnOQmfQKEjVinhUeL.jpg",
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "690cfbc3104a5c0a2ddd0e73",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 934092,
+        "known_for_department": "Acting",
+        "name": "Viju Khote",
+        "original_name": "Viju Khote",
+        "popularity": 0.7091,
+        "profile_path": "/fjPPIsJpmdFssi0IcwHNRPmnL5m.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "690cfbc93c6c3c652c4c6f2b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 995721,
+        "known_for_department": "Acting",
+        "name": "Nirmal Pandey",
+        "original_name": "Nirmal Pandey",
+        "popularity": 0.9879,
+        "profile_path": "/o17S0roL4VvmxOZVdPHpvutih63.jpg",
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "690cfbf6b000cf13ef3853da",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1028483,
+        "known_for_department": "Acting",
+        "name": "Bharat Kapoor",
+        "original_name": "Bharat Kapoor",
+        "popularity": 0.627,
+        "profile_path": "/5XjpenTOJhqwNymIRmwJbosq0WL.jpg",
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "690cfc2b8ee8d331b8d2480a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 140674,
+        "known_for_department": "Acting",
+        "name": "Navneet Nishan",
+        "original_name": "Navneet Nishan",
+        "popularity": 1.0094,
+        "profile_path": "/dm1ICqCOeJC88ye81ITQrhBw6U3.jpg",
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "690cfc47f38cbda45dc04cf2",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 43414,
+        "known_for_department": "Acting",
+        "name": "Smita Jaykar",
+        "original_name": "Smita Jaykar",
+        "popularity": 0.7341,
+        "profile_path": "/5YpJqn2u69d9MaEkn0ucD2tbz4x.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "690cfc4eadb39689253853a8",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1381087,
+        "known_for_department": "Production",
+        "name": "Rakesh Malhotra",
+        "original_name": "Rakesh Malhotra",
+        "popularity": 0.258,
+        "profile_path": null,
+        "credit_id": "54567a610e0a265278001011",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1197637,
+        "known_for_department": "Acting",
+        "name": "Rajeev Anand",
+        "original_name": "Rajeev Anand",
+        "popularity": 0.4519,
+        "profile_path": null,
+        "credit_id": "54567a4dc3a3683ea00023aa",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 105445,
+        "known_for_department": "Writing",
+        "name": "Rajeev Kaul",
+        "original_name": "Rajeev Kaul",
+        "popularity": 0.6085,
+        "profile_path": null,
+        "credit_id": "54567a290e0a2648cf007a9f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1381085,
+        "known_for_department": "Directing",
+        "name": "Manoj Agrawal",
+        "original_name": "Manoj Agrawal",
+        "popularity": 0.5011,
+        "profile_path": null,
+        "credit_id": "54567a100e0a2648d2007cf1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2050189,
+        "known_for_department": "Sound",
+        "name": "Sudesh Bhosle",
+        "original_name": "Sudesh Bhosle",
+        "popularity": 0.4632,
+        "profile_path": "/sGKoZuZUsnYY5gefmutOgF7hXn.jpg",
+        "credit_id": "5d5ff75ea894d667939abb8e",
+        "department": "Sound",
+        "job": "Playback Singer"
+      }
+    ]
+  }
+}

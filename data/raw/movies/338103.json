@@ -1,0 +1,421 @@
+{
+  "adult": false,
+  "backdrop_path": "/rZl2Gkwsu64tt2Zyyx3Kpbnbdy4.jpg",
+  "belongs_to_collection": {
+    "id": 55428,
+    "name": "Curious George Collection",
+    "poster_path": "/8nOAUE2VgdnzxYurRjd1KjE98Sm.jpg",
+    "backdrop_path": "/pmDjDXSkdluzUbKOMqmngUsE9Ri.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://www.universalpicturesathome.com/movies/curious-george-3-back-to-the-jungle",
+  "id": 338103,
+  "imdb_id": "tt4622340",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Curious George 3: Back to the Jungle",
+  "overview": "When Curious George is offered a special space mission, Ted (The Man in the Yellow Hat) can't deny his little friend this exciting journey, especially after Curious George completes the training. But when he crash-lands in Africa, a worried Ted goes searching, expecting the worst, only to have it turn out to be the best.",
+  "popularity": 3.1548,
+  "poster_path": "/2mTL6xmlBvPSA5IvTzy5B3WCvOb.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 17009,
+      "logo_path": "/ssowAxOrrqsSR2CKeiytOXwLoCW.png",
+      "name": "Universal 1440 Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 23,
+      "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+      "name": "Imagine Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2015-01-26",
+  "revenue": 0,
+  "runtime": 81,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Curious George 3: Back to the Jungle",
+  "video": false,
+  "vote_average": 6.744,
+  "vote_count": 45,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9780,
+        "known_for_department": "Acting",
+        "name": "Angela Bassett",
+        "original_name": "Angela Bassett",
+        "popularity": 4.9182,
+        "profile_path": "/tKnuviliyeKNGlo26IU5gIrJAtd.jpg",
+        "cast_id": 0,
+        "character": "Dr. Kulinda (voice)",
+        "credit_id": "5581f092c3a3686faa0000bb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1230,
+        "known_for_department": "Acting",
+        "name": "John Goodman",
+        "original_name": "John Goodman",
+        "popularity": 4.2861,
+        "profile_path": "/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg",
+        "cast_id": 1,
+        "character": "Hal Houston (voice)",
+        "credit_id": "5581f0999251410b500000f9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15831,
+        "known_for_department": "Acting",
+        "name": "Frank Welker",
+        "original_name": "Frank Welker",
+        "popularity": 3.2633,
+        "profile_path": "/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg",
+        "cast_id": 2,
+        "character": "Curious George (voice)",
+        "credit_id": "55c4dfbc925141428a000215",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34982,
+        "known_for_department": "Acting",
+        "name": "Jeff Bennett",
+        "original_name": "Jeff Bennett",
+        "popularity": 2.8161,
+        "profile_path": "/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg",
+        "cast_id": 3,
+        "character": "Ted (voice)",
+        "credit_id": "55c4dff9925141429f000210",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63493,
+        "known_for_department": "Acting",
+        "name": "Alexander Polinsky",
+        "original_name": "Alexander Polinsky",
+        "popularity": 1.1403,
+        "profile_path": "/lNm5DDCXaP0cOkRYRjfvRI4p6N2.jpg",
+        "cast_id": 4,
+        "character": "Tech Andrew (voice)",
+        "credit_id": "55c4e00bc3a36856b7000202",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 46774,
+        "known_for_department": "Acting",
+        "name": "Gwendoline Yeo",
+        "original_name": "Gwendoline Yeo",
+        "popularity": 1.4285,
+        "profile_path": "/qcT51wtWxdS51q9FQcDC455HrqY.jpg",
+        "cast_id": 20,
+        "character": "Popcorn Vendor / Automated Voice (voice)",
+        "credit_id": "686ddb7ad0628c2c89104608",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31549,
+        "known_for_department": "Acting",
+        "name": "Phil LaMarr",
+        "original_name": "Phil LaMarr",
+        "popularity": 2.1106,
+        "profile_path": "/xP2kNlsmXtzXq0geutflO4K9mSE.jpg",
+        "cast_id": 21,
+        "character": "Plane Mechanic / Dam Operator (voice)",
+        "credit_id": "686ddb869dbe918916104059",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23680,
+        "known_for_department": "Acting",
+        "name": "Dee Bradley Baker",
+        "original_name": "Dee Bradley Baker",
+        "popularity": 3.309,
+        "profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg",
+        "cast_id": 22,
+        "character": "Additional Voices (voice)",
+        "credit_id": "686ddb8b851c557619540c34",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3506879,
+        "known_for_department": "Acting",
+        "name": "Steve Josefson",
+        "original_name": "Steve Josefson",
+        "popularity": 0.4456,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Additional Voices (voice)",
+        "credit_id": "686ddb97fa5d5ae83fa963f1",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3505465,
+        "known_for_department": "Production",
+        "name": "Andoni Achaval",
+        "original_name": "Andoni Achaval",
+        "popularity": 0.2142,
+        "profile_path": null,
+        "credit_id": "62573d6a97a4e60051491ef0",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3505471,
+        "known_for_department": "Production",
+        "name": "John Dale Cunanan",
+        "original_name": "John Dale Cunanan",
+        "popularity": 0.2043,
+        "profile_path": null,
+        "credit_id": "62573df3a3361200672e127e",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3505480,
+        "known_for_department": "Production",
+        "name": "Doris Quemado",
+        "original_name": "Doris Quemado",
+        "popularity": 0.2386,
+        "profile_path": null,
+        "credit_id": "62573e8c9a9e2000519b052f",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 90637,
+        "known_for_department": "Writing",
+        "name": "Chuck Tately",
+        "original_name": "Chuck Tately",
+        "popularity": 0.5843,
+        "profile_path": null,
+        "credit_id": "5665aa4692514179e9000028",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6159,
+        "known_for_department": "Directing",
+        "name": "Ron Howard",
+        "original_name": "Ron Howard",
+        "popularity": 3.7483,
+        "profile_path": "/tDKn6gAgvARdQRfuem2JwyNcP3B.jpg",
+        "credit_id": "5665aa6ec3a36806ae000023",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 61294,
+        "known_for_department": "Production",
+        "name": "Jon Shapiro",
+        "original_name": "Jon Shapiro",
+        "popularity": 0.3098,
+        "profile_path": null,
+        "credit_id": "5665aa83c3a36806a200002a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 22967,
+        "known_for_department": "Production",
+        "name": "Share Stallings",
+        "original_name": "Share Stallings",
+        "popularity": 0.4204,
+        "profile_path": "/zlz7XMryKm5dHuO7xCUxP7Cb5vM.jpg",
+        "credit_id": "5665aa8f92514179df00002d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90638,
+        "known_for_department": "Directing",
+        "name": "Phil Weinstein",
+        "original_name": "Phil Weinstein",
+        "popularity": 0.8873,
+        "profile_path": null,
+        "credit_id": "5665aa3992514179e500001d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 339,
+        "known_for_department": "Production",
+        "name": "Brian Grazer",
+        "original_name": "Brian Grazer",
+        "popularity": 1.6312,
+        "profile_path": "/rNFUflKlpTEbnWDHd2Of293E4lx.jpg",
+        "credit_id": "5665aa6392514179da00002e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13596,
+        "known_for_department": "Production",
+        "name": "David Kirschner",
+        "original_name": "David Kirschner",
+        "popularity": 1.1586,
+        "profile_path": "/fFrozlPmX6rsBaTes0n3eTHQEbM.jpg",
+        "credit_id": "5665aa7892514179d4000021",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 180394,
+        "known_for_department": "Visual Effects",
+        "name": "José Zelaya",
+        "original_name": "José Zelaya",
+        "popularity": 0.6311,
+        "profile_path": null,
+        "credit_id": "5ea77111fdc146001ba31214",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 180394,
+        "known_for_department": "Visual Effects",
+        "name": "José Zelaya",
+        "original_name": "José Zelaya",
+        "popularity": 0.6311,
+        "profile_path": null,
+        "credit_id": "5ea7711abe55b7001de41de8",
+        "department": "Art",
+        "job": "Prop Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 61291,
+        "known_for_department": "Writing",
+        "name": "Margret Rey",
+        "original_name": "Margret Rey",
+        "popularity": 0.4372,
+        "profile_path": "/mK9dnd6MQSqZ7YKonptb3TVyadU.jpg",
+        "credit_id": "686dd946bf9a5294a851ea18",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1287844,
+        "known_for_department": "Writing",
+        "name": "H.A. Rey",
+        "original_name": "H.A. Rey",
+        "popularity": 0.5844,
+        "profile_path": "/ztBtNSn4JmqtZM1oNMoVrY3r6Rc.jpg",
+        "credit_id": "686dd94eaf6b528508ed6265",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59706,
+        "known_for_department": "Sound",
+        "name": "Heitor Pereira",
+        "original_name": "Heitor Pereira",
+        "popularity": 0.6614,
+        "profile_path": "/6ar1oObMu4Ge1aTXybzPLTBTEZ8.jpg",
+        "credit_id": "686ddab462e78c9e6c9a4d9b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

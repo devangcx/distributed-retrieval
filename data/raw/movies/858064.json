@@ -1,0 +1,442 @@
+{
+  "adult": false,
+  "backdrop_path": "/aJBpwcfIdurKgiCTYYiqtXkRwUR.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 858064,
+  "imdb_id": "tt14961110",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Night of the Animated Dead",
+  "overview": "An animated retelling of ‘Night of the Living Dead’, in which a group of people in a rural farmhouse struggle to survive the threat of bloodthirsty zombies.",
+  "popularity": 2.9072,
+  "poster_path": "/mluarGbxZjgvhe5bteR7P24HHAw.jpg",
+  "production_companies": [
+    {
+      "id": 163344,
+      "logo_path": null,
+      "name": "The Long Game",
+      "origin_country": "US"
+    },
+    {
+      "id": 17075,
+      "logo_path": null,
+      "name": "Hemisphere Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 218003,
+      "logo_path": null,
+      "name": "NOTLDA Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-09-21",
+  "revenue": 0,
+  "runtime": 71,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The fear, the terror, the panic will eat you alive.",
+  "title": "Night of the Animated Dead",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 122,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19536,
+        "known_for_department": "Acting",
+        "name": "Josh Duhamel",
+        "original_name": "Josh Duhamel",
+        "popularity": 4.7353,
+        "profile_path": "/5Rp9aeWdN2S623KCjwfii9MhDK1.jpg",
+        "cast_id": 1,
+        "character": "Harry Cooper (voice)",
+        "credit_id": "610af3ad323eba005dd55494",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 122756,
+        "known_for_department": "Acting",
+        "name": "Dulé Hill",
+        "original_name": "Dulé Hill",
+        "popularity": 2.4193,
+        "profile_path": "/fPJ8lIx6WwBgO2AhnHQSeiZiAUy.jpg",
+        "cast_id": 2,
+        "character": "Ben (voice)",
+        "credit_id": "610af3bc2ea6b9002d080097",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 27136,
+        "known_for_department": "Acting",
+        "name": "Katharine Isabelle",
+        "original_name": "Katharine Isabelle",
+        "popularity": 2.8585,
+        "profile_path": "/c9db3Cq3BQhWXCmVthyGQBN1W95.jpg",
+        "cast_id": 3,
+        "character": "Barbara (voice)",
+        "credit_id": "610af76fb234b90046254bc1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80219,
+        "known_for_department": "Acting",
+        "name": "James Roday Rodriguez",
+        "original_name": "James Roday Rodriguez",
+        "popularity": 1.6838,
+        "profile_path": "/1iRFSkNsB45BHUMyWww2h6K9B8Z.jpg",
+        "cast_id": 4,
+        "character": "Tom (voice)",
+        "credit_id": "610af7837719d7004574d698",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 51798,
+        "known_for_department": "Acting",
+        "name": "Katee Sackhoff",
+        "original_name": "Katee Sackhoff",
+        "popularity": 4.1881,
+        "profile_path": "/kzcwfDDrgXnVgyTfcpG0obOn7Qk.jpg",
+        "cast_id": 5,
+        "character": "Judy (voice)",
+        "credit_id": "610af795eea34d00463d6e8c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39125,
+        "known_for_department": "Acting",
+        "name": "Will Sasso",
+        "original_name": "Will Sasso",
+        "popularity": 2.3831,
+        "profile_path": "/4F8p9Dg32WJl12ras7CzQzLFy2i.jpg",
+        "cast_id": 6,
+        "character": "Sheriff McClelland (voice)",
+        "credit_id": "610af7a9dcf87500606eaa18",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22125,
+        "known_for_department": "Acting",
+        "name": "Jimmi Simpson",
+        "original_name": "Jimmi Simpson",
+        "popularity": 3.4269,
+        "profile_path": "/gerE8VqXfFyAs3QhbUlwEuZllKq.jpg",
+        "cast_id": 7,
+        "character": "Johnny (voice)",
+        "credit_id": "610af7c2b234b9005ecd1446",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18331,
+        "known_for_department": "Acting",
+        "name": "Nancy Travis",
+        "original_name": "Nancy Travis",
+        "popularity": 2.738,
+        "profile_path": "/8NVTIgCYB6H0GrAwNPLwdU92pdt.jpg",
+        "cast_id": 8,
+        "character": "Helen Cooper (voice)",
+        "credit_id": "610af7cfe61e6d005f1a7b46",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1372008,
+        "known_for_department": "Acting",
+        "name": "Stefan Marks",
+        "original_name": "Stefan Marks",
+        "popularity": 0.6399,
+        "profile_path": "/yntVSSR48y5hGQkV4o2o3ydY8Gn.jpg",
+        "cast_id": 18,
+        "character": "Vince (voice)",
+        "credit_id": "614a3d7eb04228008bff1ff6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1216346,
+        "known_for_department": "Acting",
+        "name": "Chris Edgerly",
+        "original_name": "Chris Edgerly",
+        "popularity": 1.1945,
+        "profile_path": "/bjkN9Ugv6Kd3Z3y9p9DgWAc10Q7.jpg",
+        "cast_id": 19,
+        "character": "TV Commentator / Reporter #2 (voice)",
+        "credit_id": "614a3db9cf1afd0090deec99",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111451,
+        "known_for_department": "Acting",
+        "name": "Matt Corboy",
+        "original_name": "Matt Corboy",
+        "popularity": 0.9586,
+        "profile_path": "/hkyyIuwqN6AqLZj6YHUPfYa2EKF.jpg",
+        "cast_id": 20,
+        "character": "Posse Member (voice)",
+        "credit_id": "614a3e122b531d0029407f2d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1561797,
+        "known_for_department": "Production",
+        "name": "Ashley Lambert",
+        "original_name": "Ashley Lambert",
+        "popularity": 0.5931,
+        "profile_path": "/ucsdNz1pdVWwRFwf4dtjfaXE8nR.jpg",
+        "cast_id": 21,
+        "character": "Karen (voice)",
+        "credit_id": "614a3e2b609750002a48971f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1209731,
+        "known_for_department": "Acting",
+        "name": "David Zyler",
+        "original_name": "David Zyler",
+        "popularity": 0.6246,
+        "profile_path": "/jRqfBl0Pwa9pF1beTzkVwqLozif.jpg",
+        "cast_id": 22,
+        "character": "Scientist #1 (voice)",
+        "credit_id": "614a3e490f2ae10044461362",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2068548,
+        "known_for_department": "Acting",
+        "name": "Warren Sroka",
+        "original_name": "Warren Sroka",
+        "popularity": 0.4541,
+        "profile_path": "/gC6YSW8SLmqMU7rZ5W1xpZ9c0w6.jpg",
+        "cast_id": 23,
+        "character": "Reporter #1 (voice)",
+        "credit_id": "614a3e659f0e19002b16653d",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1444033,
+        "known_for_department": "Production",
+        "name": "Ranjani Brow",
+        "original_name": "Ranjani Brow",
+        "popularity": 0.7006,
+        "profile_path": "/zvhcwnrvDpa4iZGgdKgQ8GWdYJI.jpg",
+        "cast_id": 24,
+        "character": "Additional Voices (voice)",
+        "credit_id": "614a3e7bcf1afd0090deee40",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1900024,
+        "known_for_department": "Directing",
+        "name": "Jason Axinn",
+        "original_name": "Jason Axinn",
+        "popularity": 0.4074,
+        "profile_path": "/aVTSMfUKW0YpUgnbBDHsiFb1WlN.jpg",
+        "credit_id": "610bc88de61e6d00471a22e7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2241048,
+        "known_for_department": "Production",
+        "name": "Richard Potter",
+        "original_name": "Richard Potter",
+        "popularity": 0.3652,
+        "profile_path": null,
+        "credit_id": "614a3c6fcf1afd002684faaa",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3242682,
+        "known_for_department": "Production",
+        "name": "Thomas Defeo",
+        "original_name": "Thomas Defeo",
+        "popularity": 0.2361,
+        "profile_path": null,
+        "credit_id": "614a3c881689350029ffe03b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1377410,
+        "known_for_department": "Production",
+        "name": "Michael J. Luisi",
+        "original_name": "Michael J. Luisi",
+        "popularity": 0.3273,
+        "profile_path": null,
+        "credit_id": "614a3bff2dffd800668712a5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223762,
+        "known_for_department": "Directing",
+        "name": "Ralph E. Portillo",
+        "original_name": "Ralph E. Portillo",
+        "popularity": 0.6285,
+        "profile_path": null,
+        "credit_id": "614a3c12168935008f109ea6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 564964,
+        "known_for_department": "Production",
+        "name": "Jamie Elliott",
+        "original_name": "Jamie Elliott",
+        "popularity": 0.5224,
+        "profile_path": null,
+        "credit_id": "614a3c952b531d00431a0644",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1192854,
+        "known_for_department": "Sound",
+        "name": "Nima Fakhrara",
+        "original_name": "Nima Fakhrara",
+        "popularity": 0.3021,
+        "profile_path": "/kj9ENuRKS8bKxdXHqFWlre5IB5b.jpg",
+        "credit_id": "614a3cf40f2ae100906ea793",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1037909,
+        "known_for_department": "Production",
+        "name": "Kevin Kasha",
+        "original_name": "Kevin Kasha",
+        "popularity": 0.3974,
+        "profile_path": null,
+        "credit_id": "614a3c25daf57c006107137b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3242681,
+        "known_for_department": "Production",
+        "name": "Robert Feldman",
+        "original_name": "Robert Feldman",
+        "popularity": 0.5948,
+        "profile_path": null,
+        "credit_id": "614a3c4e9a9e20008dc8316a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64831,
+        "known_for_department": "Writing",
+        "name": "John A. Russo",
+        "original_name": "John A. Russo",
+        "popularity": 0.6482,
+        "profile_path": null,
+        "credit_id": "614a3edd9a9f9a006027b673",
+        "department": "Writing",
+        "job": "Original Film Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1900024,
+        "known_for_department": "Directing",
+        "name": "Jason Axinn",
+        "original_name": "Jason Axinn",
+        "popularity": 0.4074,
+        "profile_path": "/aVTSMfUKW0YpUgnbBDHsiFb1WlN.jpg",
+        "credit_id": "6682ef4ac46c0dfdd221f83f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14999,
+        "known_for_department": "Directing",
+        "name": "George A. Romero",
+        "original_name": "George A. Romero",
+        "popularity": 1.792,
+        "profile_path": "/w2zVF92x149qK79ZxwUowcSp2c6.jpg",
+        "credit_id": "67a7e07531001bec13c8cc39",
+        "department": "Writing",
+        "job": "Original Film Writer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "adult": false,
+  "backdrop_path": "/8SEs6yUgrE5shU8tqXuR2MQIdlc.jpg",
+  "belongs_to_collection": {
+    "id": 1745820,
+    "name": "Untold Collection",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81582391",
+  "id": 1641962,
+  "imdb_id": "tt40224399",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Untold: Chess Mates",
+  "overview": "Magnus Carlsen, widely regarded as the greatest chess player of all time, is challenged by Hans Niemann, a rising star who capitalizes on the meteoric growth of online chess. Niemann’s ascension culminated in an epic, controversy-shrouded victory over Carlsen at the 2022 Sinquefield Cup, which eventually led to allegations and revelations of cheating. Determined to clear his name, Niemann fights his way back to the top of the chess world, setting the stage for a high-stakes rematch with Carlsen in 2024.",
+  "popularity": 4.0615,
+  "poster_path": "/oC68KgbyFiraKJRdUedQI9aXBF.jpg",
+  "production_companies": [
+    {
+      "id": 87045,
+      "logo_path": "/6WLvW3VlxfXOPukpeEPYnjdFtwH.png",
+      "name": "Propagate Content",
+      "origin_country": "US"
+    },
+    {
+      "id": 159529,
+      "logo_path": null,
+      "name": "Stardust Frames",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-04-07",
+  "revenue": 0,
+  "runtime": 75,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Untold: Chess Mates",
+  "video": false,
+  "vote_average": 6.875,
+  "vote_count": 32,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1512824,
+        "known_for_department": "Acting",
+        "name": "Magnus Carlsen",
+        "original_name": "Magnus Carlsen",
+        "popularity": 0.7822,
+        "profile_path": "/u8fVdzlIgMBk2hJzqdGMi98Y5P4.jpg",
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "699e1726b7fe2e2504d74ade",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6029797,
+        "known_for_department": "Acting",
+        "name": "Hans Niemann",
+        "original_name": "Hans Niemann",
+        "popularity": 0.3482,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Self",
+        "credit_id": "699e173ae39e9b59292b03aa",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6126577,
+        "known_for_department": "Acting",
+        "name": "Danny Rensch",
+        "original_name": "Danny Rensch",
+        "popularity": 0.5675,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Self",
+        "credit_id": "69d6090ef5977e8edccc06cb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6126579,
+        "known_for_department": "Acting",
+        "name": "Erik Allebest",
+        "original_name": "Erik Allebest",
+        "popularity": 0.4768,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Self",
+        "credit_id": "69d6092cbf28b538c53142da",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6126580,
+        "known_for_department": "Acting",
+        "name": "Hikaru Nakamura",
+        "original_name": "Hikaru Nakamura",
+        "popularity": 0.3509,
+        "profile_path": "/nAof4CSv0ZOE71kL7BK6H3WSUqn.jpg",
+        "cast_id": 9,
+        "character": "Self",
+        "credit_id": "69d609422716d56b67314261",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2931696,
+        "known_for_department": "Acting",
+        "name": "Bruce Pandolfini",
+        "original_name": "Bruce Pandolfini",
+        "popularity": 0.5824,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Self",
+        "credit_id": "69d6096804b3885cf86ae743",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2166141,
+        "known_for_department": "Acting",
+        "name": "Henrik Carlsen",
+        "original_name": "Henrik Carlsen",
+        "popularity": 0.4431,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Self",
+        "credit_id": "69d6097604b3885cf86ae747",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6126582,
+        "known_for_department": "Acting",
+        "name": "Levy Rozman",
+        "original_name": "Levy Rozman",
+        "popularity": 0.359,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Self",
+        "credit_id": "69d6097d7b8a5eba5bf8acd4",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1220147,
+        "known_for_department": "Acting",
+        "name": "Piers Morgan",
+        "original_name": "Piers Morgan",
+        "popularity": 1.2614,
+        "profile_path": "/gQ5I0N8rrvxIqnKdh7eBcbTphB8.jpg",
+        "cast_id": 13,
+        "character": "Self (archive footage)",
+        "credit_id": "69d6098d70ec4c82b66aea3f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33663,
+        "known_for_department": "Acting",
+        "name": "Donald Trump",
+        "original_name": "Donald Trump",
+        "popularity": 2.6981,
+        "profile_path": "/oDmVFoqIzxOyZejGjy3J5QrUmjM.jpg",
+        "cast_id": 14,
+        "character": "Self (archive footage)",
+        "credit_id": "69d6099783893de6bdcc0766",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4799516,
+        "known_for_department": "Acting",
+        "name": "Fabiano Caruana",
+        "original_name": "Fabiano Caruana",
+        "popularity": 0.3403,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Self (archive footage)",
+        "credit_id": "69d609a5dd9f62d0993e4646",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91609,
+        "known_for_department": "Acting",
+        "name": "Joe Rogan",
+        "original_name": "Joe Rogan",
+        "popularity": 1.0634,
+        "profile_path": "/mWb6QIsGGHMdhN9yVGZXCHQIRzS.jpg",
+        "cast_id": 16,
+        "character": "Self (archive footage)",
+        "credit_id": "69d609ae57330b903d6ae9d2",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131133,
+        "known_for_department": "Acting",
+        "name": "Trevor Noah",
+        "original_name": "Trevor Noah",
+        "popularity": 1.4404,
+        "profile_path": "/aieKi9QnuEjBV2j46UR4NIIqa0K.jpg",
+        "cast_id": 17,
+        "character": "Self (archive footage)",
+        "credit_id": "69d609b8cde0b76836f8ac27",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1285876,
+        "known_for_department": "Directing",
+        "name": "Chapman Way",
+        "original_name": "Chapman Way",
+        "popularity": 0.744,
+        "profile_path": "/q5R9yh00hkuOylRnd8bdYXCpYeO.jpg",
+        "credit_id": "699e17562401dbcb58d74c0b",
+        "department": "Production",
+        "job": "Development Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1285877,
+        "known_for_department": "Directing",
+        "name": "Maclain Way",
+        "original_name": "Maclain Way",
+        "popularity": 0.7876,
+        "profile_path": "/yhB5cUGOzpHiYN4rsnRZ2v28YRV.jpg",
+        "credit_id": "699e1763f71bac4fc8c0efca",
+        "department": "Production",
+        "job": "Development Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2217600,
+        "known_for_department": "Production",
+        "name": "Ryan Duffy",
+        "original_name": "Ryan Duffy",
+        "popularity": 0.4278,
+        "profile_path": null,
+        "credit_id": "699e177c27ec40b9bad749dc",
+        "department": "Production",
+        "job": "Production Runner"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3869417,
+        "known_for_department": "Directing",
+        "name": "Thomas Tancred",
+        "original_name": "Thomas Tancred",
+        "popularity": 0.398,
+        "profile_path": null,
+        "credit_id": "699e1b58cbc17cfa5d6d040a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1800420,
+        "known_for_department": "Production",
+        "name": "Jake Graham-Felsen",
+        "original_name": "Jake Graham-Felsen",
+        "popularity": 0.4857,
+        "profile_path": null,
+        "credit_id": "69d6305f04b3885cf86ae7ad",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2195933,
+        "known_for_department": "Production",
+        "name": "Carolyn Craddock",
+        "original_name": "Carolyn Craddock",
+        "popularity": 0.4069,
+        "profile_path": null,
+        "credit_id": "69d63076398daf6449edffe8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 800252,
+        "known_for_department": "Editing",
+        "name": "Jay Deuby",
+        "original_name": "Jay Deuby",
+        "popularity": 0.516,
+        "profile_path": null,
+        "credit_id": "69d6309503b3603515071aa3",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

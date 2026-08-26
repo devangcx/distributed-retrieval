@@ -1,0 +1,461 @@
+{
+  "adult": false,
+  "backdrop_path": "/qaMQOtAZ6K4RneNDa1yDlJv1V6J.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1430698,
+  "imdb_id": "tt30217600",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Bay",
+  "overview": "Best friends Emma and Lani, attending a destination wedding in Thailand, find themselves trapped on a sinking tour boat in the heart of a tiger shark sanctuary.",
+  "popularity": 33.3223,
+  "poster_path": "/8QQUI4J2zLv6f96TOjbz9dcg8bc.jpg",
+  "production_companies": [
+    {
+      "id": 205365,
+      "logo_path": "/9kOY6nol0rS6c9qqnRZAWDwGOer.png",
+      "name": "Roundtable Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 232155,
+      "logo_path": "/q0yHpDzRXM4cigSlh390uTbX9AJ.png",
+      "name": "Laguna Six",
+      "origin_country": "US"
+    },
+    {
+      "id": 89989,
+      "logo_path": null,
+      "name": "Del Rey Films",
+      "origin_country": ""
+    },
+    {
+      "id": 101293,
+      "logo_path": null,
+      "name": "Peak Distribution Partners",
+      "origin_country": ""
+    },
+    {
+      "id": 86250,
+      "logo_path": "/sLcBDJaYGZdra3Fy4tXDhKCWrNR.png",
+      "name": "WeBros Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 302754,
+      "logo_path": null,
+      "name": "Cosmic Distribution",
+      "origin_country": "US"
+    },
+    {
+      "id": 200154,
+      "logo_path": "/Aa2JyFIiaLLbhliCpZtZ323aevH.png",
+      "name": "Architect",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2026-07-02",
+  "revenue": 0,
+  "runtime": 87,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Welcome to paradise.",
+  "title": "The Bay",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 25,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1274513,
+        "known_for_department": "Acting",
+        "name": "Francesca Eastwood",
+        "original_name": "Francesca Eastwood",
+        "popularity": 2.073,
+        "profile_path": "/stVF1cGuXJliykckGShBCscgaFq.jpg",
+        "cast_id": 1,
+        "character": "Emma",
+        "credit_id": "67a6313c77b8ced4566714c4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2924721,
+        "known_for_department": "Acting",
+        "name": "Dani Oliveros",
+        "original_name": "Dani Oliveros",
+        "popularity": 0.8193,
+        "profile_path": "/7wsCSTDrfSoQiRjkHsjC3nWq7KA.jpg",
+        "cast_id": 2,
+        "character": "Lani",
+        "credit_id": "67a631504dc052ba5585f598",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118753,
+        "known_for_department": "Acting",
+        "name": "Alexander Wraith",
+        "original_name": "Alexander Wraith",
+        "popularity": 1.2933,
+        "profile_path": "/yZ4j5eEebjJkrowhUvAK7UEtsFq.jpg",
+        "cast_id": 3,
+        "character": "Mandal",
+        "credit_id": "67a6315d5088b94597300459",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3233784,
+        "known_for_department": "Acting",
+        "name": "Ta'imua",
+        "original_name": "Ta'imua",
+        "popularity": 0.6408,
+        "profile_path": "/dfgPorHiCISPFxIF2JUNsrV4Xp7.jpg",
+        "cast_id": 4,
+        "character": "Ruhan",
+        "credit_id": "67a6316fdf336f38ab85f3b2",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4853260,
+        "known_for_department": "Production",
+        "name": "Calan Scherer",
+        "original_name": "Calan Scherer",
+        "popularity": 0.2692,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Kai",
+        "credit_id": "6a3cb8f84add0ef63abe8ada",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6307420,
+        "known_for_department": "Acting",
+        "name": "Destiny Benner",
+        "original_name": "Destiny Benner",
+        "popularity": 0.4427,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Christy",
+        "credit_id": "6a3cb900ff71499df10cd9be",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1115305,
+        "known_for_department": "Directing",
+        "name": "Phil Volken",
+        "original_name": "Phil Volken",
+        "popularity": 0.5432,
+        "profile_path": null,
+        "credit_id": "67a6317d5088b94597300460",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1115305,
+        "known_for_department": "Directing",
+        "name": "Phil Volken",
+        "original_name": "Phil Volken",
+        "popularity": 0.5432,
+        "profile_path": null,
+        "credit_id": "67a631865088b94597300463",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1787787,
+        "known_for_department": "Production",
+        "name": "Dominic Vicari",
+        "original_name": "Dominic Vicari",
+        "popularity": 0.4092,
+        "profile_path": null,
+        "credit_id": "67a631a15088b94597300473",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1661026,
+        "known_for_department": "Production",
+        "name": "Alina Shraybman",
+        "original_name": "Alina Shraybman",
+        "popularity": 0.4497,
+        "profile_path": null,
+        "credit_id": "67a631b0df336f38ab85f3e0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1777110,
+        "known_for_department": "Production",
+        "name": "Michael Weiss",
+        "original_name": "Michael Weiss",
+        "popularity": 0.6876,
+        "profile_path": "/sldWZZMkKRKXlVYx9SGy8JXDKJV.jpg",
+        "credit_id": "67a631bfdf336f38ab85f3e7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 215661,
+        "known_for_department": "Acting",
+        "name": "Max Pirkis",
+        "original_name": "Max Pirkis",
+        "popularity": 1.4033,
+        "profile_path": "/eZn9hZvzzQOyrDT6oOq7bK4VLiZ.jpg",
+        "credit_id": "67a631cd1f6b3834ff2fdb91",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4853262,
+        "known_for_department": "Production",
+        "name": "David Scherer",
+        "original_name": "David Scherer",
+        "popularity": 0.3192,
+        "profile_path": null,
+        "credit_id": "67a631de43781b4bfa3004be",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1863260,
+        "known_for_department": "Production",
+        "name": "Dan Reardon",
+        "original_name": "Dan Reardon",
+        "popularity": 0.4444,
+        "profile_path": null,
+        "credit_id": "67a631ed4dc052ba5585f5f0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5231744,
+        "known_for_department": "Production",
+        "name": "Austin Mansur",
+        "original_name": "Austin Mansur",
+        "popularity": 0.2313,
+        "profile_path": null,
+        "credit_id": "67a631fd77b8ced45667153d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2574130,
+        "known_for_department": "Crew",
+        "name": "Derek Korogodsky",
+        "original_name": "Derek Korogodsky",
+        "popularity": 0.2779,
+        "profile_path": null,
+        "credit_id": "67a63213df336f38ab85f3ee",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 964875,
+        "known_for_department": "Production",
+        "name": "Simon Fawcett",
+        "original_name": "Simon Fawcett",
+        "popularity": 0.5298,
+        "profile_path": null,
+        "credit_id": "67a632204dc052ba5585f610",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5141934,
+        "known_for_department": "Production",
+        "name": "Calum Gray",
+        "original_name": "Calum Gray",
+        "popularity": 0.2158,
+        "profile_path": null,
+        "credit_id": "67a632304dc052ba5585f619",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 966617,
+        "known_for_department": "Production",
+        "name": "Dominic Ianno",
+        "original_name": "Dominic Ianno",
+        "popularity": 0.3864,
+        "profile_path": null,
+        "credit_id": "67a63252470bb75ff26711ca",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2216365,
+        "known_for_department": "Writing",
+        "name": "Greg Ansin",
+        "original_name": "Greg Ansin",
+        "popularity": 0.5198,
+        "profile_path": null,
+        "credit_id": "67a6326043781b4bfa3004d4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49826,
+        "known_for_department": "Production",
+        "name": "John Baldecchi",
+        "original_name": "John Baldecchi",
+        "popularity": 0.4989,
+        "profile_path": "/AkK2rxeuw8W30938hHMUxPfUEE0.jpg",
+        "credit_id": "67a632704dc052ba5585f61e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3797858,
+        "known_for_department": "Production",
+        "name": "Sarah Donnelly",
+        "original_name": "Sarah Donnelly",
+        "popularity": 0.3271,
+        "profile_path": null,
+        "credit_id": "67a6327f4dc052ba5585f62a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2234753,
+        "known_for_department": "Camera",
+        "name": "Helge Gerull",
+        "original_name": "Helge Gerull",
+        "popularity": 0.3795,
+        "profile_path": null,
+        "credit_id": "67a632a54dc052ba5585f63b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1922708,
+        "known_for_department": "Sound",
+        "name": "Gad Emile Zeitune",
+        "original_name": "Gad Emile Zeitune",
+        "popularity": 0.3522,
+        "profile_path": null,
+        "credit_id": "6a6ae4eaa59233b9e34af757",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 95640,
+        "known_for_department": "Camera",
+        "name": "Nicholas Davidoff",
+        "original_name": "Nicholas Davidoff",
+        "popularity": 0.6083,
+        "profile_path": null,
+        "credit_id": "6a6e5197640159206966b8f3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3679834,
+        "known_for_department": "Visual Effects",
+        "name": "Mahesh Ganguly S",
+        "original_name": "Mahesh Ganguly S",
+        "popularity": 0.3742,
+        "profile_path": null,
+        "credit_id": "6a6e527480325a5a9422122f",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6384134,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Akbota Jumagulova Aisaju",
+        "original_name": "Akbota Jumagulova Aisaju",
+        "popularity": 0.3248,
+        "profile_path": null,
+        "credit_id": "6a6e532a8d496537c154416b",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      }
+    ]
+  }
+}

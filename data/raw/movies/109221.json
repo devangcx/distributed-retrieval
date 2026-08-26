@@ -1,0 +1,454 @@
+{
+  "adult": false,
+  "backdrop_path": "/hzm5ryfoBEvh7pNCWOvijDoUZA2.jpg",
+  "belongs_to_collection": null,
+  "budget": 690000,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 109221,
+  "imdb_id": "tt1785333",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "चिट्टागोंग",
+  "overview": "Jhunku, a 14-year-old youth in 1930s British Bangladesh, embarks on a journey to determine where he belongs.",
+  "popularity": 1.0563,
+  "poster_path": "/2YUIg8P4rJnoXoZMF30mmteoIdf.jpg",
+  "production_companies": [
+    {
+      "id": 26647,
+      "logo_path": null,
+      "name": "Jonai Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2012-10-12",
+  "revenue": 0,
+  "runtime": 105,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "বাংলা"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Ordinary Boys, Extraordinary Triumph",
+  "title": "Chittagong",
+  "video": false,
+  "vote_average": 6.825,
+  "vote_count": 20,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35782,
+        "known_for_department": "Acting",
+        "name": "Manoj Bajpayee",
+        "original_name": "मनोज बाजपेयी",
+        "popularity": 1.3033,
+        "profile_path": "/hBiAldG2BGMVoZUPbvK3FNDSw22.jpg",
+        "cast_id": 1,
+        "character": "Surya Sen \"Master Da\"",
+        "credit_id": "52fe4aaec3a36847f81dbec1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85047,
+        "known_for_department": "Acting",
+        "name": "Nawazuddin Siddiqui",
+        "original_name": "Nawazuddin Siddiqui",
+        "popularity": 1.1972,
+        "profile_path": "/w1eXF7T60QlEC2gNfr99J3n8CgX.jpg",
+        "cast_id": 3,
+        "character": "Nirmal Sen",
+        "credit_id": "52fe4aaec3a36847f81dbec9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117727,
+        "known_for_department": "Acting",
+        "name": "Rajkummar Rao",
+        "original_name": "Rajkummar Rao",
+        "popularity": 1.3543,
+        "profile_path": "/ttBY7Y8x4NCpXfGS9Tc1NN8ISos.jpg",
+        "cast_id": 10,
+        "character": "Lokenath Bal",
+        "credit_id": "54421c050e0a26633a0016a5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1374145,
+        "known_for_department": "Acting",
+        "name": "Delzad Hiwale",
+        "original_name": "Delzad Hiwale",
+        "popularity": 0.6127,
+        "profile_path": "/uvwGfmXxNT2fLbhDgsg1ddtuSZQ.jpg",
+        "cast_id": 8,
+        "character": "Younger Jhunku Roy",
+        "credit_id": "543e01bd0e0a266f8b0014d0",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 150688,
+        "known_for_department": "Acting",
+        "name": "Vega Tamotia",
+        "original_name": "Vega Tamotia",
+        "popularity": 0.632,
+        "profile_path": "/ybGPR23RbHE0PFlstlhLdz6Xnl5.jpg",
+        "cast_id": 9,
+        "character": "Pritilata Waddedar",
+        "credit_id": "543e01cd0e0a266f8e001520",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 973402,
+        "known_for_department": "Acting",
+        "name": "Jaideep Ahlawat",
+        "original_name": "Jaideep Ahlawat",
+        "popularity": 1.4599,
+        "profile_path": "/uILn4y8EWbMdeu71laMsh8zHY0M.jpg",
+        "cast_id": 11,
+        "character": "Anant Singh",
+        "credit_id": "59607c5fc3a36828a10c76f1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1551045,
+        "known_for_department": "Acting",
+        "name": "Vijay Varma",
+        "original_name": "विजय वर्मा",
+        "popularity": 1.4151,
+        "profile_path": "/A46ekiPFC3vA1442FJmiIudpxX1.jpg",
+        "cast_id": 14,
+        "character": "Older Jhunku Roy",
+        "credit_id": "596085909251410a590b3d53",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87300,
+        "known_for_department": "Acting",
+        "name": "Barry John",
+        "original_name": "Barry John",
+        "popularity": 0.4846,
+        "profile_path": "/7eHSfubsgI3qfSFLoe3WUH4Djva.jpg",
+        "cast_id": 2,
+        "character": "Wilkinson",
+        "credit_id": "52fe4aaec3a36847f81dbec5",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1084892,
+        "known_for_department": "Acting",
+        "name": "Ashraf Ul Haq",
+        "original_name": "Ashraf Ul Haq",
+        "popularity": 0.3764,
+        "profile_path": "/yi4lOCJf6SIzhzh1RlhzI1670sQ.jpg",
+        "cast_id": 12,
+        "character": "Rahim",
+        "credit_id": "59607c889251410bfa0b8acc",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101823,
+        "known_for_department": "Acting",
+        "name": "Dibyendu Bhattacharya",
+        "original_name": "Dibyendu Bhattacharya",
+        "popularity": 1.0815,
+        "profile_path": "/uLlGKCL9y5CFBwcAafTDQhupz5h.jpg",
+        "cast_id": 13,
+        "character": "Ambika Chakrobarty",
+        "credit_id": "59607d32c3a36828fc0a3d53",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1964626,
+        "known_for_department": "Acting",
+        "name": "Sauraseni Maitra",
+        "original_name": "Sauraseni Maitra",
+        "popularity": 0.8159,
+        "profile_path": "/gJlQHzgIgpfRcRZTYvULORZe0zZ.jpg",
+        "cast_id": 30,
+        "character": "Aparna",
+        "credit_id": "5ef112576c84d60035abfccb",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1186375,
+        "known_for_department": "Acting",
+        "name": "Anubrata Basu",
+        "original_name": "Anubrata Basu",
+        "popularity": 0.659,
+        "profile_path": "/Abgp2tzTuXh53cze8ighj5ldzCt.jpg",
+        "cast_id": 31,
+        "character": "",
+        "credit_id": "6061fa504a52f8003f8e7a1d",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1154213,
+        "known_for_department": "Writing",
+        "name": "Bedabrata Pain",
+        "original_name": "Bedabrata Pain",
+        "popularity": 0.3012,
+        "profile_path": null,
+        "credit_id": "52fe4aaec3a36847f81dbed5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85670,
+        "known_for_department": "Directing",
+        "name": "Anurag Kashyap",
+        "original_name": "Anurag Kashyap",
+        "popularity": 1.5049,
+        "profile_path": "/wS1aF7dFDnKC44ZbFkbDcIpmFq5.jpg",
+        "credit_id": "5af05c96925141764a011d97",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1640345,
+        "known_for_department": "Camera",
+        "name": "Amit Roy",
+        "original_name": "Amit Roy",
+        "popularity": 0.5967,
+        "profile_path": null,
+        "credit_id": "5af05ceb925141768f00fc01",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1154213,
+        "known_for_department": "Writing",
+        "name": "Bedabrata Pain",
+        "original_name": "Bedabrata Pain",
+        "popularity": 0.3012,
+        "profile_path": null,
+        "credit_id": "5af05caac3a368140f01741d",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85583,
+        "known_for_department": "Sound",
+        "name": "Loy Mendonsa",
+        "original_name": "Loy Mendonsa",
+        "popularity": 0.5549,
+        "profile_path": "/fQEfwBOVl4HfgByAKeJOAtdpqlT.jpg",
+        "credit_id": "5af05cdf0e0a261d89011d7e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 53681,
+        "known_for_department": "Art",
+        "name": "Samir Chanda",
+        "original_name": "Samir Chanda",
+        "popularity": 0.5039,
+        "profile_path": "/fhd7vT3WwHE8jU7rCSQJYCQh2ce.jpg",
+        "credit_id": "5af05cfa0e0a261d9d0123d5",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85383,
+        "known_for_department": "Art",
+        "name": "Pradip Jha",
+        "original_name": "Pradip Jha",
+        "popularity": 0.2726,
+        "profile_path": null,
+        "credit_id": "5af05cf2c3a368140f017458",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2038031,
+        "known_for_department": "Editing",
+        "name": "Aldo Velasco",
+        "original_name": "Aldo Velasco",
+        "popularity": 0.3724,
+        "profile_path": null,
+        "credit_id": "5af05d12925141765e0130fe",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85582,
+        "known_for_department": "Sound",
+        "name": "Ehsaan Noorani",
+        "original_name": "Ehsaan Noorani",
+        "popularity": 0.5525,
+        "profile_path": "/eA0FcyxLwXww30zuzHHU4gOAyNL.jpg",
+        "credit_id": "5af05cce0e0a26640c00641b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1536244,
+        "known_for_department": "Production",
+        "name": "Honey Trehan",
+        "original_name": "Honey Trehan",
+        "popularity": 0.5484,
+        "profile_path": "/lrTBtyU2r9S9spIukWSfOJ2oV1y.jpg",
+        "credit_id": "5af05d02c3a36813fd019707",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1337286,
+        "known_for_department": "Directing",
+        "name": "Shonali Bose",
+        "original_name": "Shonali Bose",
+        "popularity": 0.5651,
+        "profile_path": "/2M2zWu2MxOeuagCuF3bzC4I5XxQ.jpg",
+        "credit_id": "5af05ca10e0a261d8c012180",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85581,
+        "known_for_department": "Sound",
+        "name": "Shankar Mahadevan",
+        "original_name": "Shankar Mahadevan",
+        "popularity": 0.6013,
+        "profile_path": "/dUzAQPFi8t1EOA3XVM5d0ftJCjN.jpg",
+        "credit_id": "5af05cd7925141767b0134ea",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1154213,
+        "known_for_department": "Writing",
+        "name": "Bedabrata Pain",
+        "original_name": "Bedabrata Pain",
+        "popularity": 0.3012,
+        "profile_path": null,
+        "credit_id": "5af05c840e0a26640c0063e5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1337286,
+        "known_for_department": "Directing",
+        "name": "Shonali Bose",
+        "original_name": "Shonali Bose",
+        "popularity": 0.5651,
+        "profile_path": "/2M2zWu2MxOeuagCuF3bzC4I5XxQ.jpg",
+        "credit_id": "5af05cb10e0a261d8f011c83",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2038030,
+        "known_for_department": "Production",
+        "name": "Padam Mishra",
+        "original_name": "Padam Mishra",
+        "popularity": 0.3121,
+        "profile_path": null,
+        "credit_id": "5af05d0a0e0a261d83010ee5",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2349124,
+        "known_for_department": "Camera",
+        "name": "Eric Zimmerman",
+        "original_name": "Eric Zimmerman",
+        "popularity": 0.6921,
+        "profile_path": null,
+        "credit_id": "64cd406cd64ac200c52df01e",
+        "department": "Crew",
+        "job": "Cinematography"
+      }
+    ]
+  }
+}

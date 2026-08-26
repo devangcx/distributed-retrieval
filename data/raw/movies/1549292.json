@@ -1,0 +1,212 @@
+{
+  "adult": false,
+  "backdrop_path": "/gbAcTyVtPfzCBs58xs6NYKHiPCp.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "https://www.disneyplus.com/browse/entity-bd54d1d3-5c5a-4c7d-a755-5b530e460285",
+  "id": 1549292,
+  "imdb_id": "tt38607240",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "LEGO Frozen: Operation Puffins",
+  "overview": "After the events of Frozen, Anna and Elsa want to start fresh in Arendelle, and make the castle feel a bit more comfortable. While they struggle to break free of the bounds of tradition, the Duke of Weselton has other plans for their beloved home alongside a flock of menacing puffins.",
+  "popularity": 3.2707,
+  "poster_path": "/4gcpeI5drcUI81KbZjRLm4EAJII.jpg",
+  "production_companies": [
+    {
+      "id": 4081,
+      "logo_path": "/9Q0SyrhQD61wWbz5KJOkL6tu2mg.png",
+      "name": "The LEGO Group",
+      "origin_country": "DK"
+    },
+    {
+      "id": 71739,
+      "logo_path": "/9VhJRP6kUOJWH5QvSTeqMQFWuql.png",
+      "name": "Atomic Cartoons",
+      "origin_country": "CA"
+    },
+    {
+      "id": 3475,
+      "logo_path": "/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png",
+      "name": "Disney Television Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-10-23",
+  "revenue": 0,
+  "runtime": 18,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "LEGO Frozen: Operation Puffins",
+  "video": false,
+  "vote_average": 6.42,
+  "vote_count": 25,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1676171,
+        "known_for_department": "Acting",
+        "name": "Abby Trott",
+        "original_name": "Abby Trott",
+        "popularity": 0.7983,
+        "profile_path": "/ot5RwJzqN0U7oC5zoMIj7uNLdwB.jpg",
+        "cast_id": 11,
+        "character": "Anna (voice)",
+        "credit_id": "68fb807bc7693d34de01895d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 154839,
+        "known_for_department": "Acting",
+        "name": "Danielle Bisutti",
+        "original_name": "Danielle Bisutti",
+        "popularity": 1.316,
+        "profile_path": "/3LoExh69atk7LoAC5TmxfRJGMLm.jpg",
+        "cast_id": 7,
+        "character": "Elsa (voice)",
+        "credit_id": "68fb803c7c5bbf3f4097c871",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21088,
+        "known_for_department": "Acting",
+        "name": "Alan Tudyk",
+        "original_name": "Alan Tudyk",
+        "popularity": 3.7552,
+        "profile_path": "/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg",
+        "cast_id": 12,
+        "character": "Duke of Weselton (voice)",
+        "credit_id": "68fb808d4a1cd0dfae09479e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16842,
+        "known_for_department": "Directing",
+        "name": "Stephen J. Anderson",
+        "original_name": "Stephen J. Anderson",
+        "popularity": 1.3252,
+        "profile_path": "/csdeskOXUe9iHQBe7OqZwpQ2lRk.jpg",
+        "cast_id": 6,
+        "character": "Kai (voice)",
+        "credit_id": "68fb802c241712b24904f88e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2016862,
+        "known_for_department": "Acting",
+        "name": "Jake Green",
+        "original_name": "Jake Green",
+        "popularity": 1.0585,
+        "profile_path": "/3bfUpMgBCJw1Serr18Qm8tDJQvE.jpg",
+        "cast_id": 9,
+        "character": "Olaf (voice)",
+        "credit_id": "68fb805c131a57fc4c5a3652",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1477958,
+        "known_for_department": "Acting",
+        "name": "Matt Lowe",
+        "original_name": "Matt Lowe",
+        "popularity": 1.0652,
+        "profile_path": "/u137BVOu2worxWBIWNkwW35b60X.jpg",
+        "cast_id": 10,
+        "character": "Kristoff (voice)",
+        "credit_id": "68fb806eb5c8ceaddc3b10cb",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1340669,
+        "known_for_department": "Acting",
+        "name": "Paul Briggs",
+        "original_name": "Paul Briggs",
+        "popularity": 0.7841,
+        "profile_path": "/zikrXrtToA7BEe0Gb1EQKVkfcvx.jpg",
+        "cast_id": 8,
+        "character": "Marshmallow (voice)",
+        "credit_id": "68fb804fe06c3ec9e75ddd45",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2568130,
+        "known_for_department": "Art",
+        "name": "Kailene Murray",
+        "original_name": "Kailene Murray",
+        "popularity": 0.263,
+        "profile_path": null,
+        "credit_id": "68f82803fe5ee2b6549d2258",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2565327,
+        "known_for_department": "Visual Effects",
+        "name": "Alexandru Nagy",
+        "original_name": "Alexandru Nagy",
+        "popularity": 0.3491,
+        "profile_path": null,
+        "credit_id": "68fb7fc41e1c67573697c7bc",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  }
+}

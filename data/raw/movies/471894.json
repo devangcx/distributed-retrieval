@@ -1,0 +1,260 @@
+{
+  "adult": false,
+  "backdrop_path": "/6XNEdztZZ4Lk0oSpuPbXBDPKXAs.jpg",
+  "belongs_to_collection": null,
+  "budget": 2360586,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 471894,
+  "imdb_id": "tt6352548",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "पोस्टरब्वॉयज",
+  "overview": "Life of three men comes in trouble when their photos appear on advertisement for sterilization.",
+  "popularity": 0.7809,
+  "poster_path": "/9W6b9i49sww8RSR7DlJpaiqSEV9.jpg",
+  "production_companies": [
+    {
+      "id": 157559,
+      "logo_path": "/4HnowBSEEkhf5DVYg24I2IvfFNs.png",
+      "name": "Sony Pictures Films India",
+      "origin_country": "IN"
+    },
+    {
+      "id": 63520,
+      "logo_path": "/ytQNtv7i4wtkuLyguqRLC0FX8GL.png",
+      "name": "Sony Pictures International Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 15357,
+      "logo_path": "/uvaRT02pY9U8qLH8a9WwwAroDqr.png",
+      "name": "Prime Focus",
+      "origin_country": "IN"
+    },
+    {
+      "id": 108682,
+      "logo_path": null,
+      "name": "Sunny Sounds",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2017-09-08",
+  "revenue": 3540879,
+  "runtime": 128,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Poster Boys",
+  "video": false,
+  "vote_average": 5.045,
+  "vote_count": 22,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86302,
+        "known_for_department": "Acting",
+        "name": "Sunny Deol",
+        "original_name": "सनी द्योल",
+        "popularity": 2.4148,
+        "profile_path": "/w9RenJriQVys2k5fa9ojkXpYMwO.jpg",
+        "cast_id": 0,
+        "character": "Jagaavar Chaudhry",
+        "credit_id": "599b12ca9251412793000e79",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77235,
+        "known_for_department": "Acting",
+        "name": "Bobby Deol",
+        "original_name": "बॉबी द्योल",
+        "popularity": 1.5865,
+        "profile_path": "/2npVa3PduichY8e7qBiE54m9VVP.jpg",
+        "cast_id": 1,
+        "character": "Vinay Sharma",
+        "credit_id": "599b12dcc3a3681dce000db0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53974,
+        "known_for_department": "Acting",
+        "name": "Shreyas Talpade",
+        "original_name": "Shreyas Talpade",
+        "popularity": 0.9878,
+        "profile_path": "/rKORFoIrI4GlcIfzzyVwCQNL9no.jpg",
+        "cast_id": 2,
+        "character": "Arjun Singh",
+        "credit_id": "599b12e5c3a3681dce000dc3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1885150,
+        "known_for_department": "Acting",
+        "name": "Randheer Rai",
+        "original_name": "Randheer Rai",
+        "popularity": 0.4448,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Anuj Chaudhry",
+        "credit_id": "59b4c208c3a3683a16001367",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78920,
+        "known_for_department": "Acting",
+        "name": "Sonali Kulkarni",
+        "original_name": "Sonali Kulkarni",
+        "popularity": 1.0881,
+        "profile_path": "/aQeM6N2JgGFbI5VoltWhkxw6OQC.jpg",
+        "cast_id": 4,
+        "character": "Sunita",
+        "credit_id": "59b4c219925141088e000cfa",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1885152,
+        "known_for_department": "Acting",
+        "name": "Somesh Agarwal",
+        "original_name": "Somesh Agarwal",
+        "popularity": 0.396,
+        "profile_path": "/owXuTDXvcaJYyzVAtzHNnQ75mgH.jpg",
+        "cast_id": 5,
+        "character": "Arjun's Boss",
+        "credit_id": "59b4c2249251410b57000a4e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1885153,
+        "known_for_department": "Acting",
+        "name": "Tasha Bhambra",
+        "original_name": "Tasha Bhambra",
+        "popularity": 0.5995,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Kishan",
+        "credit_id": "59b4c230c3a3683a160013a2",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1885154,
+        "known_for_department": "Acting",
+        "name": "Samrat Raichand",
+        "original_name": "Samrat Raichand",
+        "popularity": 0.3571,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Anuj Chaudhary",
+        "credit_id": "59b4c23ec3a3683b45001006",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2100209,
+        "known_for_department": "Acting",
+        "name": "Triptii Dimri",
+        "original_name": "तृप्ति डीमरी",
+        "popularity": 1.5237,
+        "profile_path": "/5NBOKv8f9O0b41NPebgdB0eQ20y.jpg",
+        "cast_id": 10,
+        "character": "Riya",
+        "credit_id": "5eed9781b84cdd00362faf16",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2041616,
+        "known_for_department": "Production",
+        "name": "Jogi Malang",
+        "original_name": "Jogi Malang",
+        "popularity": 0.6935,
+        "profile_path": "/aZg3rVH9hj4w00tRr2YUGEevQLd.jpg",
+        "credit_id": "616aaa13037264004ae09af2",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2412244,
+        "known_for_department": "Production",
+        "name": "Sneha Rajani",
+        "original_name": "Sneha Rajani",
+        "popularity": 0.2361,
+        "profile_path": null,
+        "credit_id": "616aaa1f6f53e10043431d65",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53974,
+        "known_for_department": "Acting",
+        "name": "Shreyas Talpade",
+        "original_name": "Shreyas Talpade",
+        "popularity": 0.9878,
+        "profile_path": "/rKORFoIrI4GlcIfzzyVwCQNL9no.jpg",
+        "credit_id": "5b2fdd160e0a2655be00796c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1775462,
+        "known_for_department": "Sound",
+        "name": "Tanishk Bagchi",
+        "original_name": "Tanishk Bagchi",
+        "popularity": 0.6457,
+        "profile_path": "/lTNruwralNeUIDHBx3SC22yQOqv.jpg",
+        "credit_id": "5e3958260c27100018747843",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  }
+}

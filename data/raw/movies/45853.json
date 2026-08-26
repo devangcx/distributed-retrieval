@@ -1,0 +1,340 @@
+{
+  "adult": false,
+  "backdrop_path": "/mn99fyrWtfgQbRVHzzHrblnpGLL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 45853,
+  "imdb_id": "tt0814343",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Séance",
+  "overview": "Over Thanksgiving weekend, all but five students in an old Manhattan building that's now a college dormitory leave for home: staying on one floor are roommates Lauren, Melina, and Alison, plus her boyfriend Diego and Grant, a loner in a room down the hall. Lauren's been seeing things in her bathroom: a silent child of about six. Diego has written a paper on parapsychology, so he holds a séance with the disbelieving co-eds. Something goes awry, because bad things start to happen and the students' only defender is an aging campus cop named Syd. What's the silent ghostly girl's secret, and can Alison discover what's going on before it's too late?",
+  "popularity": 2.5269,
+  "poster_path": "/u5BB5KRV10Lio9TmLCIB1aZHDBe.jpg",
+  "production_companies": [
+    {
+      "id": 46198,
+      "logo_path": null,
+      "name": "Wind Chill Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2006-04-22",
+  "revenue": 0,
+  "runtime": 88,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "5 college kids, one ghostly killer... you do the math.",
+  "title": "Séance",
+  "video": false,
+  "vote_average": 4.911,
+  "vote_count": 28,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71900,
+        "known_for_department": "Acting",
+        "name": "Adrian Paul",
+        "original_name": "Adrian Paul",
+        "popularity": 2.0599,
+        "profile_path": "/eWvjUly7IO420nJLYY1sumXswGo.jpg",
+        "cast_id": 8,
+        "character": "Spence",
+        "credit_id": "56290811c3a36848890021c8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 134036,
+        "known_for_department": "Acting",
+        "name": "Kandis Fay",
+        "original_name": "Kandis Fay",
+        "popularity": 0.9181,
+        "profile_path": "/bDGrV0HIQrzQcb5zXukldAivRIH.jpg",
+        "cast_id": 1,
+        "character": "Lauren",
+        "credit_id": "52fe46d6c3a36847f81150f1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 134039,
+        "known_for_department": "Acting",
+        "name": "Bridget Shergalis",
+        "original_name": "Bridget Shergalis",
+        "popularity": 0.7322,
+        "profile_path": "/9uzygiR02ZpT16Rah4EyJnx2N5Z.jpg",
+        "cast_id": 2,
+        "character": "Cara Furia",
+        "credit_id": "52fe46d6c3a36847f81150f5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 134045,
+        "known_for_department": "Acting",
+        "name": "Tori White",
+        "original_name": "Tori White",
+        "popularity": 0.6005,
+        "profile_path": "/2TX7nAt8FRNuY8HkmyJStCsMaVY.jpg",
+        "cast_id": 3,
+        "character": "Melina",
+        "credit_id": "52fe46d6c3a36847f81150f9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 134056,
+        "known_for_department": "Acting",
+        "name": "Chauntal Lewis",
+        "original_name": "Chauntal Lewis",
+        "popularity": 0.463,
+        "profile_path": "/4r6d7ZGK8NYrqTREnvanQ3uOuk5.jpg",
+        "cast_id": 4,
+        "character": "Alison",
+        "credit_id": "52fe46d6c3a36847f81150fd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134064,
+        "known_for_department": "Acting",
+        "name": "Jack Hunter",
+        "original_name": "Jack Hunter",
+        "popularity": 0.3786,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Syd",
+        "credit_id": "52fe46d6c3a36847f8115105",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1231541,
+        "known_for_department": "Acting",
+        "name": "Joel Geist",
+        "original_name": "Joel Geist",
+        "popularity": 0.57,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Grant",
+        "credit_id": "56290beac3a368488c0024cf",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1248721,
+        "known_for_department": "Acting",
+        "name": "A.J. Lamas",
+        "original_name": "A.J. Lamas",
+        "popularity": 0.4084,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Diego",
+        "credit_id": "56290cafc3a368487a00213b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 427978,
+        "known_for_department": "Acting",
+        "name": "Brandon Mychal Smith",
+        "original_name": "Brandon Mychal Smith",
+        "popularity": 1.5185,
+        "profile_path": "/5nKqpvHatEEjyQWXWIH3fABDDSe.jpg",
+        "cast_id": 11,
+        "character": "Student",
+        "credit_id": "586f12109251412af1001a3c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1480477,
+        "known_for_department": "Acting",
+        "name": "Emily O'Brien",
+        "original_name": "Emily O'Brien",
+        "popularity": 1.093,
+        "profile_path": "/oL1EY7DgK7Si3Db7mvQiNN2r2Zy.jpg",
+        "cast_id": 13,
+        "character": "Girl",
+        "credit_id": "6393ad44cee2f600e27c45ca",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3823734,
+        "known_for_department": "Acting",
+        "name": "Ruby Garson",
+        "original_name": "Ruby Garson",
+        "popularity": 0.2043,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Young Rosa",
+        "credit_id": "6393ad717352050089cf96f5",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1218865,
+        "known_for_department": "Acting",
+        "name": "Kate Robbins",
+        "original_name": "Kate Robbins",
+        "popularity": 0.9248,
+        "profile_path": "/oWjMskbSE5Fn6H2blq5ghTePxpZ.jpg",
+        "cast_id": 15,
+        "character": "Rosa Furia",
+        "credit_id": "6393adbae19de9177edaec71",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3823735,
+        "known_for_department": "Acting",
+        "name": "Martin Szumanski",
+        "original_name": "Martin Szumanski",
+        "popularity": 0.1688,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Security Guard",
+        "credit_id": "6393add0ba480200956c3635",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149576,
+        "known_for_department": "Acting",
+        "name": "Mike Kimmel",
+        "original_name": "Mike Kimmel",
+        "popularity": 0.6361,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Paramedic",
+        "credit_id": "6393adedba480200956c363f",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2060352,
+        "known_for_department": "Acting",
+        "name": "Andrew Welsh",
+        "original_name": "Andrew Welsh",
+        "popularity": 0.5336,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Cop",
+        "credit_id": "6393ae04283ed9007fcc2531",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223291,
+        "known_for_department": "Acting",
+        "name": "Alex Revan",
+        "original_name": "Alex Revan",
+        "popularity": 0.451,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Drake",
+        "credit_id": "6393ae26283ed900a26e0413",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64785,
+        "known_for_department": "Writing",
+        "name": "Mark L. Smith",
+        "original_name": "Mark L. Smith",
+        "popularity": 1.4052,
+        "profile_path": "/d3OP4zzXT2PFk8egnlEkta1gzRR.jpg",
+        "credit_id": "52fe46d7c3a36847f811510b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64785,
+        "known_for_department": "Writing",
+        "name": "Mark L. Smith",
+        "original_name": "Mark L. Smith",
+        "popularity": 1.4052,
+        "profile_path": "/d3OP4zzXT2PFk8egnlEkta1gzRR.jpg",
+        "credit_id": "5b3a85d6c3a36845fb016906",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 92482,
+        "known_for_department": "Crew",
+        "name": "Lynn Salvatori",
+        "original_name": "Lynn Salvatori",
+        "popularity": 0.6362,
+        "profile_path": null,
+        "credit_id": "673fe250cce66cf899e9250c",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2328194,
+        "known_for_department": "Production",
+        "name": "Eric Clarke",
+        "original_name": "Eric Clarke",
+        "popularity": 0.4111,
+        "profile_path": null,
+        "credit_id": "6828b2909d0789dfb08bfe50",
+        "department": "Directing",
+        "job": "Stage Director"
+      }
+    ]
+  }
+}

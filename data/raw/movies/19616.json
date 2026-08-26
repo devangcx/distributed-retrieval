@@ -1,0 +1,455 @@
+{
+  "adult": false,
+  "backdrop_path": "/66AfZA6GaRrGjgjL9lmZN2aqgxl.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "http://www.yashrajfilms.com/microsites/new_york/nywebsite.html",
+  "id": 19616,
+  "imdb_id": "tt1328634",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "New York",
+  "overview": "The plot follows three friends in New York City whose lives are upended by the 9/11 attacks leading to suspicion, FBI involvement, and a story about friendship, identity, and the aftermath of terrorism.",
+  "popularity": 1.4215,
+  "poster_path": "/rjG0zZN6cRq4SJZRonI3HhvZtrg.jpg",
+  "production_companies": [
+    {
+      "id": 1569,
+      "logo_path": "/lvzN86o3jrP44DIvn4SMBLOl9PF.png",
+      "name": "Yash Raj Films",
+      "origin_country": "IN"
+    },
+    {
+      "id": 3648,
+      "logo_path": null,
+      "name": "Sri & Company",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2009-06-26",
+  "revenue": 0,
+  "runtime": 153,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Three friends ready to face the world... and then the world changed.",
+  "title": "New York",
+  "video": false,
+  "vote_average": 6.27,
+  "vote_count": 87,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52971,
+        "known_for_department": "Acting",
+        "name": "John Abraham",
+        "original_name": "John Abraham",
+        "popularity": 2.1315,
+        "profile_path": "/2ITVYVFou0dh3QVcJlhNJVzrA2p.jpg",
+        "cast_id": 1,
+        "character": "Sameer",
+        "credit_id": "52fe47e59251416c750a90e5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85045,
+        "known_for_department": "Acting",
+        "name": "Neil Nitin Mukesh",
+        "original_name": "Neil Nitin Mukesh",
+        "popularity": 0.8097,
+        "profile_path": "/7lfd8WfMc2hOXYpCRFwhjiVZ7fl.jpg",
+        "cast_id": 3,
+        "character": "Omar",
+        "credit_id": "52fe47e59251416c750a90ed",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 81869,
+        "known_for_department": "Acting",
+        "name": "Katrina Kaif",
+        "original_name": "Katrina Kaif",
+        "popularity": 1.8163,
+        "profile_path": "/gSNaBg8Q7Nh0u4HhW6pR5B0ujlL.jpg",
+        "cast_id": 2,
+        "character": "Maya",
+        "credit_id": "52fe47e59251416c750a90e9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76793,
+        "known_for_department": "Acting",
+        "name": "Irrfan Khan",
+        "original_name": "Irrfan Khan",
+        "popularity": 3.0512,
+        "profile_path": "/qkA9PpWJRw3rNjVkWfNZdwLvRZx.jpg",
+        "cast_id": 4,
+        "character": "Roshan",
+        "credit_id": "52fe47e59251416c750a90f1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85046,
+        "known_for_department": "Acting",
+        "name": "Aidan Wagner",
+        "original_name": "Aidan Wagner",
+        "popularity": 0.3478,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Danyal",
+        "credit_id": "52fe47e59251416c750a90f5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85047,
+        "known_for_department": "Acting",
+        "name": "Nawazuddin Siddiqui",
+        "original_name": "Nawazuddin Siddiqui",
+        "popularity": 1.1972,
+        "profile_path": "/w1eXF7T60QlEC2gNfr99J3n8CgX.jpg",
+        "cast_id": 6,
+        "character": "Zilgai",
+        "credit_id": "52fe47e59251416c750a90f9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113693,
+        "known_for_department": "Acting",
+        "name": "Samrat Chakrabarti",
+        "original_name": "Samrat Chakrabarti",
+        "popularity": 0.7643,
+        "profile_path": "/yBbJLufuA5Rxy7jhqWHxgMBT2hm.jpg",
+        "cast_id": 28,
+        "character": "Yakub",
+        "credit_id": "65bd899843999b0184c41e49",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1640839,
+        "known_for_department": "Acting",
+        "name": "Ali Quli Mirza",
+        "original_name": "Ali Quli Mirza",
+        "popularity": 0.745,
+        "profile_path": "/jAr5Xfcqjb3qd4VrP1JAyXhnz60.jpg",
+        "cast_id": 29,
+        "character": "Zaheer",
+        "credit_id": "65bd89aa12c6040162fef0a8",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85048,
+        "known_for_department": "Directing",
+        "name": "Kabir Khan",
+        "original_name": "Kabir Khan",
+        "popularity": 0.7124,
+        "profile_path": "/hxiBucUGDTsBS4BP9Z1nGGmGWI7.jpg",
+        "credit_id": "52fe47e59251416c750a90ff",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35771,
+        "known_for_department": "Production",
+        "name": "Aditya Chopra",
+        "original_name": "Aditya Chopra",
+        "popularity": 1.4109,
+        "profile_path": "/eXYKfA6bg12pn9LPrWeRfxYQwcb.jpg",
+        "credit_id": "52fe47e59251416c750a9105",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85049,
+        "known_for_department": "Camera",
+        "name": "Aseem Mishra",
+        "original_name": "Aseem Mishra",
+        "popularity": 0.424,
+        "profile_path": null,
+        "credit_id": "52fe47e59251416c750a910b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85051,
+        "known_for_department": "Writing",
+        "name": "Sandeep Srivastava",
+        "original_name": "Sandeep Srivastava",
+        "popularity": 0.737,
+        "profile_path": null,
+        "credit_id": "52fe47e59251416c750a9117",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71273,
+        "known_for_department": "Sound",
+        "name": "Pritam Chakraborty",
+        "original_name": "Pritam Chakraborty",
+        "popularity": 0.7956,
+        "profile_path": "/zS8kE2DWQBTQ7ArSSZiWg0OTXvo.jpg",
+        "credit_id": "52fe47e59251416c750a9123",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85053,
+        "known_for_department": "Sound",
+        "name": "Julius Packiam",
+        "original_name": "Julius Packiam",
+        "popularity": 0.491,
+        "profile_path": null,
+        "credit_id": "52fe47e59251416c750a9129",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85054,
+        "known_for_department": "Art",
+        "name": "Norman Dodge",
+        "original_name": "Norman Dodge",
+        "popularity": 0.3277,
+        "profile_path": null,
+        "credit_id": "52fe47e59251416c750a912f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85055,
+        "known_for_department": "Production",
+        "name": "Aashish Singh",
+        "original_name": "Aashish Singh",
+        "popularity": 0.4753,
+        "profile_path": null,
+        "credit_id": "52fe47e59251416c750a9135",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85056,
+        "known_for_department": "Editing",
+        "name": "Rameshwar S. Bhagat",
+        "original_name": "Rameshwar S. Bhagat",
+        "popularity": 0.4117,
+        "profile_path": null,
+        "credit_id": "52fe47e59251416c750a913b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85057,
+        "known_for_department": "Sound",
+        "name": "Debasish Mishra",
+        "original_name": "Debasish Mishra",
+        "popularity": 0.3936,
+        "profile_path": null,
+        "credit_id": "52fe47e59251416c750a9141",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85058,
+        "known_for_department": "Sound",
+        "name": "Ali Merchant",
+        "original_name": "Ali Merchant",
+        "popularity": 0.4453,
+        "profile_path": null,
+        "credit_id": "52fe47e59251416c750a9147",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85059,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rocky S",
+        "original_name": "Rocky S",
+        "popularity": 0.3046,
+        "profile_path": null,
+        "credit_id": "52fe47e59251416c750a914d",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85060,
+        "known_for_department": "Production",
+        "name": "Yogendra Mogre",
+        "original_name": "Yogendra Mogre",
+        "popularity": 0.4237,
+        "profile_path": null,
+        "credit_id": "52fe47e59251416c750a9153",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85062,
+        "known_for_department": "Production",
+        "name": "Fayyaz Badruddin",
+        "original_name": "Fayyaz Badruddin",
+        "popularity": 0.3251,
+        "profile_path": null,
+        "credit_id": "52fe47e59251416c750a915f",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85051,
+        "known_for_department": "Writing",
+        "name": "Sandeep Srivastava",
+        "original_name": "Sandeep Srivastava",
+        "popularity": 0.737,
+        "profile_path": null,
+        "credit_id": "56602d06c3a36875e2002dbb",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85052,
+        "known_for_department": "Crew",
+        "name": "Sham Kaushal",
+        "original_name": "Sham Kaushal",
+        "popularity": 0.7224,
+        "profile_path": null,
+        "credit_id": "61fd221bdfaae900c6bc2f0f",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1430631,
+        "known_for_department": "Sound",
+        "name": "Mohit Chauhan",
+        "original_name": "Mohit Chauhan",
+        "popularity": 0.6734,
+        "profile_path": "/olwXSLxlsEyyA1rEoGxEcfWQf6e.jpg",
+        "credit_id": "65bd8a0b031deb0183edafe4",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1244564,
+        "known_for_department": "Sound",
+        "name": "Sunidhi Chauhan",
+        "original_name": "Sunidhi Chauhan",
+        "popularity": 0.9595,
+        "profile_path": "/fFo6dqP4gIEXqJbkBdwIr3uGiOY.jpg",
+        "credit_id": "65bd8a1789b56101846d42a5",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2081003,
+        "known_for_department": "Sound",
+        "name": "KK",
+        "original_name": "KK",
+        "popularity": 0.5916,
+        "profile_path": "/6z8DvUO334G9d25Fv7pZkmx6B75.jpg",
+        "credit_id": "65bd8a30ba4802018268afdc",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1561054,
+        "known_for_department": "Directing",
+        "name": "Ali Abbas Zafar",
+        "original_name": "Ali Abbas Zafar",
+        "popularity": 0.8911,
+        "profile_path": "/o7ZZtjh7MBt0zQXWJtGoRN5tE7G.jpg",
+        "credit_id": "5c1f3e47c3a368700bea0c68",
+        "department": "Directing",
+        "job": "Assistant Director"
+      }
+    ]
+  }
+}

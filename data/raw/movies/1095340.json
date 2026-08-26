@@ -1,0 +1,459 @@
+{
+  "adult": false,
+  "backdrop_path": "/sRB7EpSfQthmAnc9N5GQxviLB2I.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1095340,
+  "imdb_id": "tt12313942",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Malicious",
+  "overview": "The McCabe family's weekend getaway is turned upside down when a mysterious stranger knocks on their door.",
+  "popularity": 4.2973,
+  "poster_path": "/gIQqqSiQj9BFvD0OtaeammxpJhH.jpg",
+  "production_companies": [
+    {
+      "id": 194981,
+      "logo_path": null,
+      "name": "Take No Prisoners Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 194982,
+      "logo_path": "/yXH7W8S6VgL99mLHs8q6mhfTSZQ.png",
+      "name": "Bruise Productions",
+      "origin_country": "CA"
+    },
+    {
+      "id": 196255,
+      "logo_path": null,
+      "name": "Pivot Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-03-05",
+  "revenue": 0,
+  "runtime": 91,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The truth might set you free.",
+  "title": "Malicious",
+  "video": false,
+  "vote_average": 7.191,
+  "vote_count": 55,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112532,
+        "known_for_department": "Acting",
+        "name": "Kevin Interdonato",
+        "original_name": "Kevin Interdonato",
+        "popularity": 0.8517,
+        "profile_path": "/jEvyE761oqGuARH9oLyjVyoIJbI.jpg",
+        "cast_id": 2,
+        "character": "Jesse",
+        "credit_id": "64043685136545008ce974c0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1357659,
+        "known_for_department": "Acting",
+        "name": "Nick Baillie",
+        "original_name": "Nick Baillie",
+        "popularity": 1.2077,
+        "profile_path": "/3Sssaq0sXcxX3ZPO4JcAr0TEPdH.jpg",
+        "cast_id": 5,
+        "character": "William McCabe",
+        "credit_id": "6404371d021cee0079d1ddfb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1728467,
+        "known_for_department": "Acting",
+        "name": "Melissa Anschutz",
+        "original_name": "Melissa Anschutz",
+        "popularity": 0.6134,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Lauren McCabe",
+        "credit_id": "64043676136545008ce974b8",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2427780,
+        "known_for_department": "Acting",
+        "name": "Alix Schwartz",
+        "original_name": "Alix Schwartz",
+        "popularity": 0.6561,
+        "profile_path": "/3BoJFPM5xYOIcu9H7rJZ4fLWtmB.jpg",
+        "cast_id": 3,
+        "character": "Erin McCabe",
+        "credit_id": "640436f0136545009e7b97f8",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98723,
+        "known_for_department": "Acting",
+        "name": "John Fallon",
+        "original_name": "John Fallon",
+        "popularity": 0.6426,
+        "profile_path": "/9XQx1GfKv6QBaMH6IWr3bBtNj9B.jpg",
+        "cast_id": 4,
+        "character": "Michael",
+        "credit_id": "6404370d136545009e7b9802",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3949479,
+        "known_for_department": "Acting",
+        "name": "Danilo Rocha",
+        "original_name": "Danilo Rocha",
+        "popularity": 0.4276,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Gary",
+        "credit_id": "6404373e021cee00810e5001",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3949482,
+        "known_for_department": "Crew",
+        "name": "Samuel Pineault",
+        "original_name": "Samuel Pineault",
+        "popularity": 0.2609,
+        "profile_path": null,
+        "credit_id": "640438a467dcc900abdf7a00",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3949486,
+        "known_for_department": "Directing",
+        "name": "Dan Robertson",
+        "original_name": "Dan Robertson",
+        "popularity": 0.47,
+        "profile_path": "/wa9mG6Si8tD8r2mToGvibewGutm.jpg",
+        "credit_id": "6404392de61e6d007ce24f0a",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3949479,
+        "known_for_department": "Acting",
+        "name": "Danilo Rocha",
+        "original_name": "Danilo Rocha",
+        "popularity": 0.4276,
+        "profile_path": null,
+        "credit_id": "640439cbe61e6d00d53331be",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3949480,
+        "known_for_department": "Production",
+        "name": "Terrie Marroquin",
+        "original_name": "Terrie Marroquin",
+        "popularity": 0.2554,
+        "profile_path": null,
+        "credit_id": "64043816136545008ce97564",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98723,
+        "known_for_department": "Acting",
+        "name": "John Fallon",
+        "original_name": "John Fallon",
+        "popularity": 0.6426,
+        "profile_path": "/9XQx1GfKv6QBaMH6IWr3bBtNj9B.jpg",
+        "credit_id": "640439f4021cee00810e5124",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3949482,
+        "known_for_department": "Crew",
+        "name": "Samuel Pineault",
+        "original_name": "Samuel Pineault",
+        "popularity": 0.2609,
+        "profile_path": null,
+        "credit_id": "64043d26021cee0079d1e045",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98723,
+        "known_for_department": "Acting",
+        "name": "John Fallon",
+        "original_name": "John Fallon",
+        "popularity": 0.6426,
+        "profile_path": "/9XQx1GfKv6QBaMH6IWr3bBtNj9B.jpg",
+        "credit_id": "6404378c021cee00810e502e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3949481,
+        "known_for_department": "Production",
+        "name": "Terrie Marroquin",
+        "original_name": "Terrie Marroquin",
+        "popularity": 0.2668,
+        "profile_path": null,
+        "credit_id": "6404383d021cee0084710a8f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3949500,
+        "known_for_department": "Crew",
+        "name": "Rurik Sallé",
+        "original_name": "Rurik Sallé",
+        "popularity": 0.2361,
+        "profile_path": null,
+        "credit_id": "64043d0667dcc900826e61b5",
+        "department": "Crew",
+        "job": "Score Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1753392,
+        "known_for_department": "Acting",
+        "name": "Ryan Leibowitz",
+        "original_name": "Ryan Leibowitz",
+        "popularity": 0.2879,
+        "profile_path": null,
+        "credit_id": "640437f067dcc900881a15b3",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2341756,
+        "known_for_department": "Acting",
+        "name": "Danilo Rocha",
+        "original_name": "Danilo Rocha",
+        "popularity": 0.3594,
+        "profile_path": null,
+        "credit_id": "6404386d136545009e7b98a3",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112532,
+        "known_for_department": "Acting",
+        "name": "Kevin Interdonato",
+        "original_name": "Kevin Interdonato",
+        "popularity": 0.8517,
+        "profile_path": "/jEvyE761oqGuARH9oLyjVyoIJbI.jpg",
+        "credit_id": "640437b167dcc90085f631dd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3949485,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rey Llewellyn",
+        "original_name": "Rey Llewellyn",
+        "popularity": 0.3989,
+        "profile_path": null,
+        "credit_id": "64043905e61e6d00c6583223",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1357659,
+        "known_for_department": "Acting",
+        "name": "Nick Baillie",
+        "original_name": "Nick Baillie",
+        "popularity": 1.2077,
+        "profile_path": "/3Sssaq0sXcxX3ZPO4JcAr0TEPdH.jpg",
+        "credit_id": "6404377f021cee0079d1de2b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98723,
+        "known_for_department": "Acting",
+        "name": "John Fallon",
+        "original_name": "John Fallon",
+        "popularity": 0.6426,
+        "profile_path": "/9XQx1GfKv6QBaMH6IWr3bBtNj9B.jpg",
+        "credit_id": "640439e967dcc900abdf7a8b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3949485,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rey Llewellyn",
+        "original_name": "Rey Llewellyn",
+        "popularity": 0.3989,
+        "profile_path": null,
+        "credit_id": "64043987383df20086944c11",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3949488,
+        "known_for_department": "Sound",
+        "name": "Michael Competielle",
+        "original_name": "Michael Competielle",
+        "popularity": 0.3663,
+        "profile_path": null,
+        "credit_id": "6404395ae61e6d008e3ff97e",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3252513,
+        "known_for_department": "Sound",
+        "name": "Michael Competielle",
+        "original_name": "Michael Competielle",
+        "popularity": 0.336,
+        "profile_path": null,
+        "credit_id": "6404396739271200a9f37a00",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3949489,
+        "known_for_department": "Camera",
+        "name": "Josh Hoover",
+        "original_name": "Josh Hoover",
+        "popularity": 0.2207,
+        "profile_path": null,
+        "credit_id": "640439a8e61e6d0086e00907",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112532,
+        "known_for_department": "Acting",
+        "name": "Kevin Interdonato",
+        "original_name": "Kevin Interdonato",
+        "popularity": 0.8517,
+        "profile_path": "/jEvyE761oqGuARH9oLyjVyoIJbI.jpg",
+        "credit_id": "64043a0139271200d03534a2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1203712,
+        "known_for_department": "Editing",
+        "name": "Michael Nouryeh",
+        "original_name": "Michael Nouryeh",
+        "popularity": 0.4168,
+        "profile_path": null,
+        "credit_id": "640438d9021cee0084710ab4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3949491,
+        "known_for_department": "Lighting",
+        "name": "Lucas Ruderman",
+        "original_name": "Lucas Ruderman",
+        "popularity": 0.3805,
+        "profile_path": null,
+        "credit_id": "640439b5136545008ce97609",
+        "department": "Lighting",
+        "job": "Gaffer"
+      }
+    ]
+  }
+}

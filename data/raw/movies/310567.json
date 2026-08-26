@@ -1,0 +1,256 @@
+{
+  "adult": false,
+  "backdrop_path": "/rgAiSdsNCKhpdVUIi3xJIOmfG3Q.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 310567,
+  "imdb_id": "tt2614722",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Umrika",
+  "overview": "When a young village boy discovers that his brother, long believed to be in America, has actually gone missing, he begins to invent letters on his behalf to save their mother from heartbreak, all the while searching for him.",
+  "popularity": 1.0527,
+  "poster_path": "/zdn8Ya8XtmTMSQUUVwEqkGoi7Td.jpg",
+  "production_companies": [
+    {
+      "id": 59033,
+      "logo_path": null,
+      "name": "Samosa Stories",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2015-07-29",
+  "revenue": 0,
+  "runtime": 98,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Umrika",
+  "video": false,
+  "vote_average": 6.039,
+  "vote_count": 38,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933160,
+        "known_for_department": "Acting",
+        "name": "Suraj Sharma",
+        "original_name": "Suraj Sharma",
+        "popularity": 1.9243,
+        "profile_path": "/zM1GN7rnzdhoIK3FBXaBCOx7igy.jpg",
+        "cast_id": 2,
+        "character": "Ramakant",
+        "credit_id": "55b13ffdc3a368300200e878",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1291350,
+        "known_for_department": "Acting",
+        "name": "Tony Revolori",
+        "original_name": "Tony Revolori",
+        "popularity": 2.0121,
+        "profile_path": "/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg",
+        "cast_id": 3,
+        "character": "Lalu",
+        "credit_id": "55b1400b9251411e1800e81c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 126500,
+        "known_for_department": "Acting",
+        "name": "Prateik Smita Patil",
+        "original_name": "प्रतीक स्मिता पाटिल",
+        "popularity": 0.814,
+        "profile_path": "/uq71pp9TfXR9W6tDz6xIYf4H9TP.jpg",
+        "cast_id": 4,
+        "character": "Udai",
+        "credit_id": "55b14018c3a368246c008ce8",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1304413,
+        "known_for_department": "Acting",
+        "name": "Smita Tambe",
+        "original_name": "Smita Tambe",
+        "popularity": 0.5944,
+        "profile_path": "/o4lW8v4lOyAb4FWHQqaJvfT2QxL.jpg",
+        "cast_id": 5,
+        "character": "Mère de Ramakant",
+        "credit_id": "55b140309251411e0600ea6e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1489833,
+        "known_for_department": "Acting",
+        "name": "Pramod Pathak",
+        "original_name": "Pramod Pathak",
+        "popularity": 0.9079,
+        "profile_path": "/1bGesMEYH2LylER18k6kbSltAmu.jpg",
+        "cast_id": 6,
+        "character": "Père de Ramakant",
+        "credit_id": "55b14044c3a3682190000a81",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227849,
+        "known_for_department": "Acting",
+        "name": "Adil Hussain",
+        "original_name": "Adil Hussain",
+        "popularity": 1.6316,
+        "profile_path": "/eCWVa1pH7mmz0i9Q0l4VEKs7g6m.jpg",
+        "cast_id": 7,
+        "character": "Agent de l’Immigration",
+        "credit_id": "55b140579251411e0b00e8f5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1197124,
+        "known_for_department": "Acting",
+        "name": "Rajesh Tailang",
+        "original_name": "Rajesh Tailang",
+        "popularity": 0.7155,
+        "profile_path": "/ou1zcrNfhXBKcpnPgtKs64SRGXm.jpg",
+        "cast_id": 8,
+        "character": "Facteur",
+        "credit_id": "55b140669251411e0f00eb32",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117729,
+        "known_for_department": "Acting",
+        "name": "Amit Sial",
+        "original_name": "Amit Sial",
+        "popularity": 1.0617,
+        "profile_path": "/mNdS2NKi1HS7wiGvjjoGSQY7dNU.jpg",
+        "cast_id": 9,
+        "character": "Rajan",
+        "credit_id": "55b140749251417364000a73",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1846604,
+        "known_for_department": "Acting",
+        "name": "Mayur More",
+        "original_name": "Mayur More",
+        "popularity": 0.8875,
+        "profile_path": "/rJDNKSQZ8dlp26D8QW3ExKc8abw.jpg",
+        "cast_id": 10,
+        "character": "Delivery Boy",
+        "credit_id": "5d22ebd094d8a87c123c6ada",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1964626,
+        "known_for_department": "Acting",
+        "name": "Sauraseni Maitra",
+        "original_name": "Sauraseni Maitra",
+        "popularity": 0.8159,
+        "profile_path": "/gJlQHzgIgpfRcRZTYvULORZe0zZ.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "5ef1120c5684630035030ae5",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1398226,
+        "known_for_department": "Directing",
+        "name": "Prashant Nair",
+        "original_name": "Prashant Nair",
+        "popularity": 0.4445,
+        "profile_path": "/yesccpny0KRXjXCrMqeeJmZAAog.jpg",
+        "credit_id": "548aed0bc3a36837bb00141d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1398226,
+        "known_for_department": "Directing",
+        "name": "Prashant Nair",
+        "original_name": "Prashant Nair",
+        "popularity": 0.4445,
+        "profile_path": "/yesccpny0KRXjXCrMqeeJmZAAog.jpg",
+        "credit_id": "548aed22c3a3686dc5001344",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1312510,
+        "known_for_department": "Camera",
+        "name": "Petra Korner",
+        "original_name": "Petra Korner",
+        "popularity": 0.3697,
+        "profile_path": null,
+        "credit_id": "5ff0390b839d93003fe41764",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 233130,
+        "known_for_department": "Sound",
+        "name": "Dustin O'Halloran",
+        "original_name": "Dustin O'Halloran",
+        "popularity": 0.5162,
+        "profile_path": "/jUoREoQoh69lfHJ2zSGteV1JobP.jpg",
+        "credit_id": "5ff03962140bad003ea5971f",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  }
+}

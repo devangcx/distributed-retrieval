@@ -1,0 +1,194 @@
+{
+  "adult": false,
+  "backdrop_path": "/vY5rcfEqV5kpMuw2pdY7BTbkGTQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "http://www.haunted3dfilm.com/",
+  "id": 68758,
+  "imdb_id": "tt1887763",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "हॉन्टेड",
+  "overview": "A real estate agent traveling to a haunted mansion in Himachal Pradesh time-travels to 1936 to save a young woman from a rapist spirit who has kept her soul trapped in the house for decades.",
+  "popularity": 1.1927,
+  "poster_path": "/enab9pHxda3bcaRpPDAnIJv1voa.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2011-05-05",
+  "revenue": 0,
+  "runtime": 143,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "India's first Stereoscopic 3D film",
+  "title": "Haunted",
+  "video": false,
+  "vote_average": 5.794,
+  "vote_count": 51,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 553632,
+        "known_for_department": "Acting",
+        "name": "Mimoh Chakraborty",
+        "original_name": "Mimoh Chakraborty",
+        "popularity": 0.7485,
+        "profile_path": "/5lF07FSxwCn4D4sGv83KXK4edSa.jpg",
+        "cast_id": 1003,
+        "character": "Rehan (as Mahaakshay)",
+        "credit_id": "56149093c3a3686817019d4e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1239657,
+        "known_for_department": "Acting",
+        "name": "Tia Bajpai",
+        "original_name": "Tia Bajpai",
+        "popularity": 1.1072,
+        "profile_path": "/kZhf33wwamWoy7Rvl8CWVKNuxvv.jpg",
+        "cast_id": 1004,
+        "character": "Meera Sabharwal",
+        "credit_id": "56149149925141705100424d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 229265,
+        "known_for_department": "Acting",
+        "name": "Achint Kaur",
+        "original_name": "Achint Kaur",
+        "popularity": 0.7905,
+        "profile_path": "/8PUzky4QtI31LnrC6PJqfBWpzH1.jpg",
+        "cast_id": 1013,
+        "character": "Margaret",
+        "credit_id": "5fad30362d3721003eb74633",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1014905,
+        "known_for_department": "Acting",
+        "name": "Mohan Kapur",
+        "original_name": "Mohan Kapur",
+        "popularity": 0.9219,
+        "profile_path": "/lL0J5DBOwN1pwLCvuo7uQ0ApjF.jpg",
+        "cast_id": 1006,
+        "character": "Priest (as Mohan Kapur)",
+        "credit_id": "56149295c3a368681f018165",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1239665,
+        "known_for_department": "Acting",
+        "name": "Prachee Shah",
+        "original_name": "Prachee Shah",
+        "popularity": 0.6821,
+        "profile_path": "/nCiNfb8VCtQ0PcYzIzzdVI5GlRl.jpg",
+        "cast_id": 1008,
+        "character": "Mrs. Stevens",
+        "credit_id": "56149384c3a368680b019e21",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53375,
+        "known_for_department": "Acting",
+        "name": "Arif Zakaria",
+        "original_name": "Arif Zakaria",
+        "popularity": 0.9177,
+        "profile_path": "/fQx14DwQV2Z2p25t4bogVn9A2c.jpg",
+        "cast_id": 1009,
+        "character": "Professor Iyer",
+        "credit_id": "561493c0c3a36818a1002b99",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1418576,
+        "known_for_department": "Acting",
+        "name": "Sanjay Sharma",
+        "original_name": "Sanjay Sharma",
+        "popularity": 0.4965,
+        "profile_path": "/cHsFVbVXimtSMoZeSOZYLZQVxJL.jpg",
+        "cast_id": 1011,
+        "character": "Baba",
+        "credit_id": "5b53a31e9251411f7e01887e",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85387,
+        "known_for_department": "Directing",
+        "name": "Vikram Bhatt",
+        "original_name": "Vikram Bhatt",
+        "popularity": 0.9876,
+        "profile_path": "/xK23RuAHLaXx8lU6h9VMRYjVWho.jpg",
+        "credit_id": "52fe47a3c3a368484e0d20c5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1551659,
+        "known_for_department": "Crew",
+        "name": "Jeffrey Cassidy",
+        "original_name": "Jeffrey Cassidy",
+        "popularity": 0.2694,
+        "profile_path": null,
+        "credit_id": "58147c74c3a3687a8d02e163",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1407759,
+        "known_for_department": "Directing",
+        "name": "Om Raut",
+        "original_name": "Om Raut",
+        "popularity": 0.5964,
+        "profile_path": null,
+        "credit_id": "5c752b000e0a260b5219cab0",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

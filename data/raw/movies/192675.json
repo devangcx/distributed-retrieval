@@ -1,0 +1,286 @@
+{
+  "adult": false,
+  "backdrop_path": "/dRJitTV5evVM90WiSPByrjdnMav.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "http://www.eklavyatheroyalguard.com/",
+  "id": 192675,
+  "imdb_id": "tt0459605",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "एकलव्य",
+  "overview": "As the kingdom of Devigarh comes apart at the seams, an aging bodyguard attempts to protect the Royal Family, as well as keep its darkest secrets from ever coming to light.",
+  "popularity": 1.2353,
+  "poster_path": "/8IdT65RInyPf5Bo5wkqxKMituwJ.jpg",
+  "production_companies": [
+    {
+      "id": 3781,
+      "logo_path": "/yzvunYIcSuClORJR9VWzpUvlbIW.png",
+      "name": "Vidhu Vinod Chopra Productions",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2007-02-16",
+  "revenue": 0,
+  "runtime": 105,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Eklavya: The Royal Guard",
+  "video": false,
+  "vote_average": 6.037,
+  "vote_count": 27,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35780,
+        "known_for_department": "Acting",
+        "name": "Amitabh Bachchan",
+        "original_name": "Amitabh Bachchan",
+        "popularity": 1.4751,
+        "profile_path": "/u69PvpWqGkywSm0YjFiw77j9eqS.jpg",
+        "cast_id": 1,
+        "character": "Eklavya",
+        "credit_id": "52fe4caf9251416c910fcddd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35747,
+        "known_for_department": "Acting",
+        "name": "Saif Ali Khan",
+        "original_name": "सैफ़ अली ख़ान",
+        "popularity": 2.0849,
+        "profile_path": "/85uKiFDEcIqzLh0GwqYvecXw4uA.jpg",
+        "cast_id": 2,
+        "character": "Prince Harshwardhan",
+        "credit_id": "52fe4caf9251416c910fcde1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35068,
+        "known_for_department": "Acting",
+        "name": "Vidya Balan",
+        "original_name": "Vidya Balan",
+        "popularity": 1.1208,
+        "profile_path": "/m4bnX5VQs2DfvQsLmfbKbBxUkC9.jpg",
+        "cast_id": 4,
+        "character": "Rajeshwari / 'Rajjo'",
+        "credit_id": "52fe4caf9251416c910fcde9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85881,
+        "known_for_department": "Acting",
+        "name": "Sanjay Dutt",
+        "original_name": "संजय दत्त",
+        "popularity": 2.4825,
+        "profile_path": "/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg",
+        "cast_id": 3,
+        "character": "DSP Pannalal Chohaar",
+        "credit_id": "52fe4caf9251416c910fcde5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35779,
+        "known_for_department": "Acting",
+        "name": "Boman Irani",
+        "original_name": "Boman Irani",
+        "popularity": 1.3847,
+        "profile_path": "/5J7GiiNar9bg9rGYeA2L30JXE2W.jpg",
+        "cast_id": 7,
+        "character": "King Jaywardhan",
+        "credit_id": "52fe4cb09251416c910fcdf7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86014,
+        "known_for_department": "Acting",
+        "name": "Jackie Shroff",
+        "original_name": "जय किशन श्राफ",
+        "popularity": 1.2969,
+        "profile_path": "/1UNJypgEyuihUW2avLLVYj76jie.jpg",
+        "cast_id": 5,
+        "character": "Jyotiwardhan",
+        "credit_id": "52fe4caf9251416c910fcded",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35792,
+        "known_for_department": "Acting",
+        "name": "Jimmy Shergill",
+        "original_name": "Jimmy Shergill",
+        "popularity": 1.3602,
+        "profile_path": "/A3fJrhIgM7Q5TGwbQYxYBjNsV37.jpg",
+        "cast_id": 8,
+        "character": "Udaywardhan",
+        "credit_id": "52fe4cb09251416c910fcdfb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85892,
+        "known_for_department": "Acting",
+        "name": "Raima Sen",
+        "original_name": "Raima Sen",
+        "popularity": 1.095,
+        "profile_path": "/d4aDUJ5YBIjLbDvkzKaalGT8McQ.jpg",
+        "cast_id": 9,
+        "character": "Princess Nandini",
+        "credit_id": "52fe4cb09251416c910fcdff",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13753,
+        "known_for_department": "Acting",
+        "name": "Sharmila Tagore",
+        "original_name": "Sharmila Tagore",
+        "popularity": 0.89,
+        "profile_path": "/m2MFSVdx4aKVoLRFPJoO5u0FMon.jpg",
+        "cast_id": 10,
+        "character": "Queen Suhasinidevi",
+        "credit_id": "52fe4cb09251416c910fce03",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123317,
+        "known_for_department": "Acting",
+        "name": "Parikshat Sahni",
+        "original_name": "Parikshat Sahni",
+        "popularity": 0.697,
+        "profile_path": "/wQs7zYQNahLrntjqd7aIrajnbpM.jpg",
+        "cast_id": 11,
+        "character": "Omkar Singh",
+        "credit_id": "52fe4cb09251416c910fce07",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99710,
+        "known_for_department": "Writing",
+        "name": "Vidhu Vinod Chopra",
+        "original_name": "Vidhu Vinod Chopra",
+        "popularity": 0.8949,
+        "profile_path": "/qIkXVHUETdK5pVplHMgmgrGAa0M.jpg",
+        "credit_id": "52fe4caf9251416c910fcdf3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123314,
+        "known_for_department": "Sound",
+        "name": "Shantanu Moitra",
+        "original_name": "Shantanu Moitra",
+        "popularity": 0.562,
+        "profile_path": "/14dsVnLYqFvf8DOEKZNAlKKjJV7.jpg",
+        "credit_id": "566d847d9251415001005f08",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99710,
+        "known_for_department": "Writing",
+        "name": "Vidhu Vinod Chopra",
+        "original_name": "Vidhu Vinod Chopra",
+        "popularity": 0.8949,
+        "profile_path": "/qIkXVHUETdK5pVplHMgmgrGAa0M.jpg",
+        "credit_id": "566d846e9251412dbc006799",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1280715,
+        "known_for_department": "Editing",
+        "name": "Rabi Ranjan Moitra",
+        "original_name": "Rabi Ranjan Moitra",
+        "popularity": 0.5336,
+        "profile_path": null,
+        "credit_id": "566d84abc3a368264700b4cd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123313,
+        "known_for_department": "Writing",
+        "name": "Abhijat Joshi",
+        "original_name": "Abhijat Joshi",
+        "popularity": 0.8632,
+        "profile_path": "/4uAnYkKyM8zPphXRvsllXWOwohg.jpg",
+        "credit_id": "5f5adcadda10f000379030f9",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223148,
+        "known_for_department": "Camera",
+        "name": "Natarajan Subramaniam",
+        "original_name": "Natarajan Subramaniam",
+        "popularity": 1.317,
+        "profile_path": "/1sKmgVKSw8qJUzBTJGvL45wlDss.jpg",
+        "credit_id": "602e65f055c1f4003f05d6ff",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

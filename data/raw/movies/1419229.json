@@ -1,0 +1,385 @@
+{
+  "adult": false,
+  "backdrop_path": "/rH60D4bS64CYGBIXps9OgSDl3RT.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1419229,
+  "imdb_id": "tt9023964",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Silent Zone",
+  "overview": "In a zombie-ravaged world, a resourceful teen and her protector fight for survival, facing relentless dangers and testing the limits of hope and loyalty.",
+  "popularity": 3.8109,
+  "poster_path": "/7YZ0JRRD7mt8Ov9eIEGWMbDybx2.jpg",
+  "production_companies": [
+    {
+      "id": 99143,
+      "logo_path": null,
+      "name": "Filmfinity Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 250531,
+      "logo_path": null,
+      "name": "Sysplex Media",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "release_date": "2025-03-07",
+  "revenue": 0,
+  "runtime": 118,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The dead are listening.",
+  "title": "Silent Zone",
+  "video": false,
+  "vote_average": 6.006,
+  "vote_count": 77,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25445,
+        "known_for_department": "Acting",
+        "name": "Matt Devere",
+        "original_name": "Matt Devere",
+        "popularity": 1.6207,
+        "profile_path": "/5rgHPFJ028clroKVryimQWfQxUY.jpg",
+        "cast_id": 7,
+        "character": "Cassius",
+        "credit_id": "678abfbadd17b4974986469a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5136860,
+        "known_for_department": "Acting",
+        "name": "Luca Papp",
+        "original_name": "Luca Papp",
+        "popularity": 0.5745,
+        "profile_path": "/9Cm3JPASz8MbjvGZCxA8EJXsnqt.jpg",
+        "cast_id": 3,
+        "character": "Abigail",
+        "credit_id": "678abf75dd17b49749864666",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1509613,
+        "known_for_department": "Acting",
+        "name": "Nikolett Barabas",
+        "original_name": "Nikolett Barabas",
+        "popularity": 0.7308,
+        "profile_path": "/1L0EgLHqqfa7sanZ8JA3Hi2fi30.jpg",
+        "cast_id": 1,
+        "character": "Megan",
+        "credit_id": "678abf48421f3840b7e14e12",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1508585,
+        "known_for_department": "Acting",
+        "name": "Declan Hannigan",
+        "original_name": "Declan Hannigan",
+        "popularity": 0.7535,
+        "profile_path": "/aPT5SwDjnbU1RJSHu5KbNKeTxVh.jpg",
+        "cast_id": 4,
+        "character": "David",
+        "credit_id": "678abf88421f3840b7e14e52",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1342746,
+        "known_for_department": "Acting",
+        "name": "Alexis Latham",
+        "original_name": "Alexis Latham",
+        "popularity": 0.4204,
+        "profile_path": "/ArGfQQAg3TVVu8kJbN0wy8pjnHw.jpg",
+        "cast_id": 10,
+        "character": "Norton",
+        "credit_id": "678abfef704299ac12864708",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4617051,
+        "known_for_department": "Acting",
+        "name": "Julian Krenn",
+        "original_name": "Julian Krenn",
+        "popularity": 0.9891,
+        "profile_path": "/zLARA7blzks4bo43Pkla3rCOFkO.jpg",
+        "cast_id": 2,
+        "character": "Roderick",
+        "credit_id": "678abf63dd17b49749864659",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2503031,
+        "known_for_department": "Acting",
+        "name": "Roderick Hill",
+        "original_name": "Roderick Hill",
+        "popularity": 0.7232,
+        "profile_path": "/eYvRKXAZEIjkSyHTVG4WBXfbw1V.jpg",
+        "cast_id": 5,
+        "character": "George",
+        "credit_id": "678abf99cc77bd6767e14e2b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3804308,
+        "known_for_department": "Acting",
+        "name": "Anders Grundberg",
+        "original_name": "Anders Grundberg",
+        "popularity": 0.8572,
+        "profile_path": "/uhBbtl1qLbMNtzzz5dQGntqYAOY.jpg",
+        "cast_id": 6,
+        "character": "Luke",
+        "credit_id": "678abfaa737782ab5e712ff7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2410153,
+        "known_for_department": "Acting",
+        "name": "Ágota Dunai",
+        "original_name": "Ágota Dunai",
+        "popularity": 0.6653,
+        "profile_path": "/cFrwyGUS5OhVuNotTmdgEqGuFVT.jpg",
+        "cast_id": 8,
+        "character": "Roderick's Girlfriend",
+        "credit_id": "678abfce421f3840b7e14e6b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1635844,
+        "known_for_department": "Acting",
+        "name": "Katia Bokor",
+        "original_name": "Katia Bokor",
+        "popularity": 0.7304,
+        "profile_path": "/rYSr2waTA0uf8BE1nGflR5K8nVt.jpg",
+        "cast_id": 9,
+        "character": "Midwife Josie",
+        "credit_id": "678abfe0737782ab5e713008",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2758719,
+        "known_for_department": "Art",
+        "name": "Harry Szovik",
+        "original_name": "Harry Szovik",
+        "popularity": 0.6178,
+        "profile_path": "/zCj7D7T8mL2eXwozKerAvSDiG99.jpg",
+        "cast_id": 11,
+        "character": "John",
+        "credit_id": "678abffd704299ac12864712",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2892343,
+        "known_for_department": "Acting",
+        "name": "Robert Jackson",
+        "original_name": "Robert Jackson",
+        "popularity": 0.4141,
+        "profile_path": "/jGAL898QmnnXXkjeYhSE0WIFW4T.jpg",
+        "cast_id": 12,
+        "character": "Traveler #1",
+        "credit_id": "678ac011ccfbfb1e0e864631",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5629578,
+        "known_for_department": "Acting",
+        "name": "Kati Krenn",
+        "original_name": "Kati Krenn",
+        "popularity": 0.1931,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "young Abigail",
+        "credit_id": "68a06f88187b6b992718c541",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5629585,
+        "known_for_department": "Acting",
+        "name": "Aniek Jacobs",
+        "original_name": "Aniek Jacobs",
+        "popularity": 0.223,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Emma",
+        "credit_id": "68a06ffbfe75ce68810bf921",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5629587,
+        "known_for_department": "Acting",
+        "name": "Márk Palla",
+        "original_name": "Márk Palla",
+        "popularity": 0.1739,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Alpha",
+        "credit_id": "68a070512126cdb6b0744994",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1358318,
+        "known_for_department": "Acting",
+        "name": "Caroline Boulton",
+        "original_name": "Caroline Boulton",
+        "popularity": 0.9335,
+        "profile_path": "/uhHGWMZOxgBLx2nUWQODBKUvas6.jpg",
+        "cast_id": 23,
+        "character": "Abigail's mother",
+        "credit_id": "68a0709aa462c38e1f74494f",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1713344,
+        "known_for_department": "Acting",
+        "name": "Peter Deak",
+        "original_name": "Peter Deak",
+        "popularity": 0.4494,
+        "profile_path": null,
+        "credit_id": "678ac03c37dc1878b171306e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5186266,
+        "known_for_department": "Writing",
+        "name": "Viktor Csák",
+        "original_name": "Viktor Csák",
+        "popularity": 0.2797,
+        "profile_path": null,
+        "credit_id": "678ac052ccfbfb1e0e86464d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5186267,
+        "known_for_department": "Writing",
+        "name": "Krisztián Illés",
+        "original_name": "Krisztián Illés",
+        "popularity": 0.2709,
+        "profile_path": null,
+        "credit_id": "678ac06c421f3840b7e14e94",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1713344,
+        "known_for_department": "Acting",
+        "name": "Peter Deak",
+        "original_name": "Peter Deak",
+        "popularity": 0.4494,
+        "profile_path": null,
+        "credit_id": "678ac07d832f356f0be14c4c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1307634,
+        "known_for_department": "Sound",
+        "name": "Arthur Valentin Grósz",
+        "original_name": "Arthur Valentin Grósz",
+        "popularity": 0.2059,
+        "profile_path": "/qQgV0268yvAWO7QLmGdgKUZGpOd.jpg",
+        "credit_id": "678ac091704299ac1286475b",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1307635,
+        "known_for_department": "Camera",
+        "name": "Balázs Dobóczi",
+        "original_name": "Balázs Dobóczi",
+        "popularity": 0.3895,
+        "profile_path": null,
+        "credit_id": "678ac0a335c4872a757130c7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1778804,
+        "known_for_department": "Editing",
+        "name": "Attila Lecza",
+        "original_name": "Attila Lecza",
+        "popularity": 0.2946,
+        "profile_path": null,
+        "credit_id": "678ac0b435c4872a757130ca",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  }
+}

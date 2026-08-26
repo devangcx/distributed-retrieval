@@ -1,0 +1,334 @@
+{
+  "adult": false,
+  "backdrop_path": "/pgVvGaqM77sQR90OeMMVNvQAxbg.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1146344,
+  "imdb_id": "tt6374142",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Misdirection",
+  "overview": "A desperate couple have pulled off a string of high-end break-ins to pay off a mob debt. When they attempt to rob their latest victim, they find themselves caught in a deadly game of cat and mouse. The tables are turned and the hunters become the hunted.",
+  "popularity": 4.4016,
+  "poster_path": "/z7padnoIDHbmxPdqEHryhqlaVqc.jpg",
+  "production_companies": [
+    {
+      "id": 110831,
+      "logo_path": null,
+      "name": "Storyoscopic Films",
+      "origin_country": ""
+    },
+    {
+      "id": 2373,
+      "logo_path": "/wcQ30Rj2FP8d8VkAcOYqXCHCmsq.png",
+      "name": "Patriot Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 203245,
+      "logo_path": null,
+      "name": "Abbott Street Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-02-10",
+  "revenue": 0,
+  "runtime": 88,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Vengeance runs deep.",
+  "title": "Misdirection",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 87,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18182,
+        "known_for_department": "Acting",
+        "name": "Olga Kurylenko",
+        "original_name": "Ольга Куриленко",
+        "popularity": 4.6887,
+        "profile_path": "/ei6eYUhQFw2AaV6U5fyPptBaPF0.jpg",
+        "cast_id": 1,
+        "character": "Sara Black",
+        "credit_id": "649ef3adc9dbf900c9ecc852",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81685,
+        "known_for_department": "Acting",
+        "name": "Frank Grillo",
+        "original_name": "Frank Grillo",
+        "popularity": 4.1378,
+        "profile_path": "/kuEco4vo1xrsM8DyrNSZUEi593P.jpg",
+        "cast_id": 11,
+        "character": "David Blume",
+        "credit_id": "657d49f4fd140b074c8211c3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1395206,
+        "known_for_department": "Acting",
+        "name": "Oliver Trevena",
+        "original_name": "Oliver Trevena",
+        "popularity": 0.8067,
+        "profile_path": "/j0ejU7vdE7lRxYKKrhA5aWw1zCT.jpg",
+        "cast_id": 3,
+        "character": "Jason Wright",
+        "credit_id": "649ef3c2091e6200cae0d9aa",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3838545,
+        "known_for_department": "Acting",
+        "name": "Landa Morland",
+        "original_name": "Landa Morland",
+        "popularity": 0.4657,
+        "profile_path": "/fSCK0ryflAQxe3HaRCoyAF9l21.jpg",
+        "cast_id": 12,
+        "character": "Julie Smalles",
+        "credit_id": "66c744bc01610ce92bf29ce6",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4899212,
+        "known_for_department": "Acting",
+        "name": "Vladislav Lapidus",
+        "original_name": "Vladislav Lapidus",
+        "popularity": 0.4187,
+        "profile_path": "/sgmqdUX7qYiY9IGtDkthl7gkClK.jpg",
+        "cast_id": 13,
+        "character": "Jack",
+        "credit_id": "66c744d931ea1508c4d7efeb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3252016,
+        "known_for_department": "Acting",
+        "name": "Lacy McClory",
+        "original_name": "Lacy McClory",
+        "popularity": 0.4607,
+        "profile_path": "/bzmtmpnZBQEidOEZo1KtuycUbpf.jpg",
+        "cast_id": 17,
+        "character": "Female Security Officer",
+        "credit_id": "696688fb4d2ab7265844a03b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5342543,
+        "known_for_department": "Acting",
+        "name": "Emilija Matić",
+        "original_name": "Emilija Matić",
+        "popularity": 0.4795,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Sara's sister",
+        "credit_id": "696689084f0811fcc9449ffa",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2816479,
+        "known_for_department": "Production",
+        "name": "Marcus Englefield",
+        "original_name": "Marcus Englefield",
+        "popularity": 0.3507,
+        "profile_path": null,
+        "credit_id": "649ef3f0c072a2012e246e62",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4138774,
+        "known_for_department": "Production",
+        "name": "George Lee",
+        "original_name": "George Lee",
+        "popularity": 0.2898,
+        "profile_path": null,
+        "credit_id": "649ef4153e6f2b011cf5a22b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1395206,
+        "known_for_department": "Acting",
+        "name": "Oliver Trevena",
+        "original_name": "Oliver Trevena",
+        "popularity": 0.8067,
+        "profile_path": "/j0ejU7vdE7lRxYKKrhA5aWw1zCT.jpg",
+        "credit_id": "649ef438c9dbf90148cf5cb3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86967,
+        "known_for_department": "Directing",
+        "name": "Kevin Lewis",
+        "original_name": "Kevin Lewis",
+        "popularity": 0.5967,
+        "profile_path": "/maWVHh0CaZEqDNNRjMdwJfy7maL.jpg",
+        "credit_id": "649ef45f8289a000ff15955f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1275701,
+        "known_for_department": "Production",
+        "name": "Matt Drake",
+        "original_name": "Matt Drake",
+        "popularity": 0.5063,
+        "profile_path": "/hJJpkTPYiYWQSvpiopIqGmfn55I.jpg",
+        "credit_id": "649ef4723e6f2b01392e1260",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 582827,
+        "known_for_department": "Production",
+        "name": "Raja Collins",
+        "original_name": "Raja Collins",
+        "popularity": 1.396,
+        "profile_path": "/52Lc94DFvRq7w6y2mVVijpZylMG.jpg",
+        "credit_id": "66c744f2985b2154aeb2e46b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2816479,
+        "known_for_department": "Production",
+        "name": "Marcus Englefield",
+        "original_name": "Marcus Englefield",
+        "popularity": 0.3507,
+        "profile_path": null,
+        "credit_id": "66c7451fd34dcbb9b91d2343",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4899212,
+        "known_for_department": "Acting",
+        "name": "Vladislav Lapidus",
+        "original_name": "Vladislav Lapidus",
+        "popularity": 0.4187,
+        "profile_path": "/sgmqdUX7qYiY9IGtDkthl7gkClK.jpg",
+        "credit_id": "69668a973c3cb13c37bb9a1e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1523796,
+        "known_for_department": "Camera",
+        "name": "Matti Eerikäinen",
+        "original_name": "Matti Eerikäinen",
+        "popularity": 0.4143,
+        "profile_path": null,
+        "credit_id": "698e93048b8f5c3a253059e2",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6004243,
+        "known_for_department": "Sound",
+        "name": "Moxy Brothers",
+        "original_name": "Moxy Brothers",
+        "popularity": 0.2608,
+        "profile_path": null,
+        "credit_id": "698e931ef5cfcf1419b68959",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3252016,
+        "known_for_department": "Acting",
+        "name": "Lacy McClory",
+        "original_name": "Lacy McClory",
+        "popularity": 0.4607,
+        "profile_path": "/bzmtmpnZBQEidOEZo1KtuycUbpf.jpg",
+        "credit_id": "698e936524a3a58fa4591314",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3440871,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ivana Vlajković",
+        "original_name": "Ivana Vlajković",
+        "popularity": 0.3262,
+        "profile_path": null,
+        "credit_id": "698e93aee1c9fd8e6d591324",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      }
+    ]
+  }
+}

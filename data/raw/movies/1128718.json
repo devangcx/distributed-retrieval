@@ -1,0 +1,176 @@
+{
+  "adult": false,
+  "backdrop_path": "/iyu3Irpvtm9w7lDiIFa8zgah7P6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81473681",
+  "id": 1128718,
+  "imdb_id": "tt27837442",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Unknown: Killer Robots",
+  "overview": "What happens when a machine makes life-or-death decisions? This documentary explores the dangers of artificial intelligence in military application.",
+  "popularity": 2.9962,
+  "poster_path": "/lZ61VGpdRiMUlptBucnjBc64Wrj.jpg",
+  "production_companies": [
+    {
+      "id": 136480,
+      "logo_path": "/5fLrloYGsWbdxS0HMmetiyZJ0Tw.png",
+      "name": "Story Syndicate",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-07-09",
+  "revenue": 0,
+  "runtime": 68,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Unknown: Killer Robots",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 62,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1591513,
+        "known_for_department": "Production",
+        "name": "Jesse Sweet",
+        "original_name": "Jesse Sweet",
+        "popularity": 0.5238,
+        "profile_path": null,
+        "credit_id": "6466aa28c3514c01745acd59",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1001668,
+        "known_for_department": "Production",
+        "name": "Dan Cogan",
+        "original_name": "Dan Cogan",
+        "popularity": 0.6969,
+        "profile_path": "/bmeQ9JniM3nYWUaa7GVqs6cfZBh.jpg",
+        "credit_id": "6466ab72006b010126f4e0c6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 96199,
+        "known_for_department": "Directing",
+        "name": "Liz Garbus",
+        "original_name": "Liz Garbus",
+        "popularity": 0.7135,
+        "profile_path": "/8iMNA3Wqx3wbDwojoYJknXAwLk8.jpg",
+        "credit_id": "6466ab7833a37600e67974c2",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2427303,
+        "known_for_department": "Production",
+        "name": "Jon Bardin",
+        "original_name": "Jon Bardin",
+        "popularity": 0.5712,
+        "profile_path": "/e4Rc1sH7k3I2QzghXGWv2nCosj1.jpg",
+        "credit_id": "6466ab83d1857200e5a304a7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1248974,
+        "known_for_department": "Production",
+        "name": "Mala Chapple",
+        "original_name": "Mala Chapple",
+        "popularity": 0.3813,
+        "profile_path": "/fQpXEQd4fS3Dz78c3uvuRczavI1.jpg",
+        "credit_id": "6466ab8f33a376011ec2ca02",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4068988,
+        "known_for_department": "Production",
+        "name": "Malvina Martin",
+        "original_name": "Malvina Martin",
+        "popularity": 0.2852,
+        "profile_path": null,
+        "credit_id": "6466ab9633a37600e67974ca",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76357,
+        "known_for_department": "Production",
+        "name": "Jonathan Halperin",
+        "original_name": "Jonathan Halperin",
+        "popularity": 0.5024,
+        "profile_path": null,
+        "credit_id": "6466ab9bd1857200e5a304af",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2723886,
+        "known_for_department": "Editing",
+        "name": "Brian Chamberlain",
+        "original_name": "Brian Chamberlain",
+        "popularity": 0.3822,
+        "profile_path": null,
+        "credit_id": "64b71932a5743d00c5ca4d85",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 232385,
+        "known_for_department": "Camera",
+        "name": "Nelson Hume",
+        "original_name": "Nelson Hume",
+        "popularity": 0.4392,
+        "profile_path": null,
+        "credit_id": "64b7193d028f1400c5663e75",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "adult": false,
+  "backdrop_path": "/9gWrxuOJeArUbvnqrZALSjhPv9Y.jpg",
+  "belongs_to_collection": null,
+  "budget": 30000000,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "https://wellgousa.com/films/rise-conqueror",
+  "id": 1207162,
+  "imdb_id": "tt25868520",
+  "origin_country": [
+    "KZ",
+    "US",
+    "UZ"
+  ],
+  "original_language": "en",
+  "original_title": "Rise of the Conqueror",
+  "overview": "In the 14th-century, as the Silk Road crumbles and rival factions tear the land apart, fearless warrior Timur emerges from exile. Stripped of everything, he fights to unite the fractured kingdoms, using strategy and sheer will to carve an empire from chaos. Undefeated in battle and widely regarded as one of history’s greatest military leaders and tacticians, not to mention one of its most brutal, Timur would found the Timurid Empire, which ruled over modern-day Afghanistan, Iran and Central Asia.",
+  "popularity": 11.3587,
+  "poster_path": "/9cRE0DsM6CNIiY9Ah3cd8oc3n1Y.jpg",
+  "production_companies": [
+    {
+      "id": 213859,
+      "logo_path": "/lc3sHLuxiCZ377N904A1KwcrZGv.png",
+      "name": "Mystery Box",
+      "origin_country": "US"
+    },
+    {
+      "id": 20555,
+      "logo_path": "/hD8yEGUBlHOcfHYbujp71vD8gZp.png",
+      "name": "Taurus Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 206783,
+      "logo_path": "/mVo5Ir4gatRa1U94v4p9Mr15OPJ.png",
+      "name": "Signature Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 122034,
+      "logo_path": "/kmZNR0LSuhSkEAje0v20Tn6WOt9.png",
+      "name": "Signature Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 114874,
+      "logo_path": "/lfk5FKLlTBaWqYHLeJs7J9atmNr.png",
+      "name": "Signature Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 74435,
+      "logo_path": "/jZYDf9z2fjjXlZkwfwR4QPwMNtm.png",
+      "name": "Capture",
+      "origin_country": "GB"
+    },
+    {
+      "id": 92394,
+      "logo_path": "/xnsTWHinFaR4oQuHFdxe6JNhfrI.png",
+      "name": "Well Go USA Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "UZ",
+      "name": "Uzbekistan"
+    },
+    {
+      "iso_3166_1": "KZ",
+      "name": "Kazakhstan"
+    }
+  ],
+  "release_date": "2026-04-09",
+  "revenue": 0,
+  "runtime": 119,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "His legacy will be written in fire and blood.",
+  "title": "Rise of the Conqueror",
+  "video": false,
+  "vote_average": 6.175,
+  "vote_count": 20,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1442711,
+        "known_for_department": "Acting",
+        "name": "Christian Mortensen",
+        "original_name": "Christian Mortensen",
+        "popularity": 1.194,
+        "profile_path": "/pnfuWeC87kitRnrfL8dtRmumWLM.jpg",
+        "cast_id": 6,
+        "character": "Timur",
+        "credit_id": "6559cb89ea84c710940255a4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1386458,
+        "known_for_department": "Acting",
+        "name": "Mahesh Jadu",
+        "original_name": "Mahesh Jadu",
+        "popularity": 1.4152,
+        "profile_path": "/pugsskE62XbyYRruJk8KGk3JVdC.jpg",
+        "cast_id": 7,
+        "character": "Hussayn",
+        "credit_id": "6559cb95d4fe0400ac384c0d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3555968,
+        "known_for_department": "Acting",
+        "name": "Joshua Jo",
+        "original_name": "Joshua Jo",
+        "popularity": 0.6557,
+        "profile_path": "/6bl1Enijour22IzSCCmrK4Un7k1.jpg",
+        "cast_id": 8,
+        "character": "Ilias",
+        "credit_id": "6559cb9eea84c710959f8209",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 173810,
+        "known_for_department": "Acting",
+        "name": "Sayed Badreya",
+        "original_name": "Sayed Badreya",
+        "popularity": 1.2903,
+        "profile_path": "/sVvwmMsjXd5YqyZEfWcWQEkBScu.jpg",
+        "cast_id": 22,
+        "character": "Kay Khusrau",
+        "credit_id": "69f0b35429ce10c6150fd2db",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2858892,
+        "known_for_department": "Acting",
+        "name": "Yulduz Rajabova",
+        "original_name": "Yulduz Rajabova",
+        "popularity": 1.5253,
+        "profile_path": "/buxpR0bMxIQvtpSEbly13P6Skc4.jpg",
+        "cast_id": 12,
+        "character": "Aljai",
+        "credit_id": "6559cbcb0816c70137eadfd0",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2808019,
+        "known_for_department": "Acting",
+        "name": "Arazou Baker",
+        "original_name": "Arazou Baker",
+        "popularity": 0.6841,
+        "profile_path": "/wlgCmym7D4h5aycggcTD2nTOZRT.jpg",
+        "cast_id": 10,
+        "character": "Banu",
+        "credit_id": "6559cbb3d4fe0400fe07fd49",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1271507,
+        "known_for_department": "Acting",
+        "name": "Paul Marlon",
+        "original_name": "Paul Marlon",
+        "popularity": 0.7614,
+        "profile_path": "/wWrQkI2e4WF67KntlIaUjmMZCoB.jpg",
+        "cast_id": 11,
+        "character": "James",
+        "credit_id": "6559cbbd22931a011c973a83",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3457146,
+        "known_for_department": "Acting",
+        "name": "Dulguun Odkhuu",
+        "original_name": "Dulguun Odkhuu",
+        "popularity": 0.8626,
+        "profile_path": "/2NkLDqZw1IoxJhS568gHQgnPe3P.jpg",
+        "cast_id": 13,
+        "character": "Sarai",
+        "credit_id": "6559cbd80816c700fd32503c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1602696,
+        "known_for_department": "Acting",
+        "name": "Sanzhar Madi",
+        "original_name": "Sanjar Madi",
+        "popularity": 0.5342,
+        "profile_path": "/61OUZ2sTtoO2s6Jc4LF7A39o0GE.jpg",
+        "cast_id": 9,
+        "character": "Jasur",
+        "credit_id": "6559cba9b5400214d07028b5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1372694,
+        "known_for_department": "Acting",
+        "name": "Umit Ulgen",
+        "original_name": "Umit Ulgen",
+        "popularity": 0.5772,
+        "profile_path": "/lXREVtAsMSTFlVzf7KyE1HjGKnz.jpg",
+        "cast_id": 23,
+        "character": "Baraka",
+        "credit_id": "69f0b3b5d9bd9aa26d131618",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84733,
+        "known_for_department": "Acting",
+        "name": "Aziz Beyshenaliev",
+        "original_name": "Азиз Бейшеналиев",
+        "popularity": 0.6959,
+        "profile_path": "/7NooA27pTkJwkUdN8fLFrP2Vy7Z.jpg",
+        "cast_id": 15,
+        "character": "Abu Shihab",
+        "credit_id": "6559cbee53866e00c5b3e102",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1734486,
+        "known_for_department": "Acting",
+        "name": "Yerkebulan Daiyrov",
+        "original_name": "Еркебұлан Дайыров",
+        "popularity": 1.5085,
+        "profile_path": "/zIfCXPkmEzQEMn3omNABRMxUnzV.jpg",
+        "cast_id": 18,
+        "character": "Bikijuk",
+        "credit_id": "67dbeb8e5ef4639ebae7a207",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1804086,
+        "known_for_department": "Acting",
+        "name": "Zhandos Aibassov",
+        "original_name": "Жандос Айбасов",
+        "popularity": 0.6572,
+        "profile_path": "/8x0G8iWUZip9sVmE3Fi1GSUwwqr.jpg",
+        "cast_id": 17,
+        "character": "Iskander",
+        "credit_id": "6559cc03b5400214cf3a5821",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6174206,
+        "known_for_department": "Acting",
+        "name": "Maksat Kairatuly",
+        "original_name": "Maksat Kairatuly",
+        "popularity": 0.1739,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Elchi",
+        "credit_id": "69f0b412fc3e6f15e4d78116",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2894074,
+        "known_for_department": "Acting",
+        "name": "Maruf Otajonov",
+        "original_name": "Maruf Otajonov",
+        "popularity": 0.7481,
+        "profile_path": "/t4pZPPO0OZptm5CvKhAXjR4Rmtr.jpg",
+        "cast_id": 14,
+        "character": "Tugluk Khan",
+        "credit_id": "6559cbe522931a01398eb622",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6174208,
+        "known_for_department": "Acting",
+        "name": "Majit Assan",
+        "original_name": "Majit Assan",
+        "popularity": 0.2491,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Hadji",
+        "credit_id": "69f0b446f9af054043143448",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1372427,
+        "known_for_department": "Camera",
+        "name": "Jacob Schwarz",
+        "original_name": "Jacob Schwarz",
+        "popularity": 0.779,
+        "profile_path": null,
+        "credit_id": "6559cb07ea84c71096df3e56",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2115850,
+        "known_for_department": "Directing",
+        "name": "Matthew Siemers",
+        "original_name": "Matthew Siemers",
+        "popularity": 0.2454,
+        "profile_path": null,
+        "credit_id": "6559cb3d53866e00ff0930a0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4385376,
+        "known_for_department": "Writing",
+        "name": "Matthew Greene",
+        "original_name": "Matthew Greene",
+        "popularity": 0.4733,
+        "profile_path": null,
+        "credit_id": "6559cb2553866e00abad5c51",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4385372,
+        "known_for_department": "Production",
+        "name": "Kathryn Crapo Schwarz",
+        "original_name": "Kathryn Crapo Schwarz",
+        "popularity": 0.2792,
+        "profile_path": null,
+        "credit_id": "6559cb4853866e00abad5c61",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4385371,
+        "known_for_department": "Editing",
+        "name": "Evan Michael Carpenter",
+        "original_name": "Evan Michael Carpenter",
+        "popularity": 0.3548,
+        "profile_path": null,
+        "credit_id": "699a6bd03b8b453a64b28961",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2898091,
+        "known_for_department": "Sound",
+        "name": "Jonathan Keith",
+        "original_name": "Jonathan Keith",
+        "popularity": 0.343,
+        "profile_path": "/px8Bh68iwIym0JHHOHBR7PFfyor.jpg",
+        "credit_id": "699a6bd75c4eda54cf590921",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1903152,
+        "known_for_department": "Sound",
+        "name": "T.J. Jacques",
+        "original_name": "T.J. Jacques",
+        "popularity": 0.3761,
+        "profile_path": null,
+        "credit_id": "699a6bde7bfe84d275fc2251",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6178467,
+        "known_for_department": "Production",
+        "name": "Yvonne Lawlor",
+        "original_name": "Yvonne Lawlor",
+        "popularity": 0.2329,
+        "profile_path": null,
+        "credit_id": "69f2e2cdfcfffe8b04766337",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6178469,
+        "known_for_department": "Art",
+        "name": "Jamoliddin Ravshanov",
+        "original_name": "Jamoliddin Ravshanov",
+        "popularity": 0.2383,
+        "profile_path": null,
+        "credit_id": "69f2e32aa1ad9a5368999447",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1442711,
+        "known_for_department": "Acting",
+        "name": "Christian Mortensen",
+        "original_name": "Christian Mortensen",
+        "popularity": 1.194,
+        "profile_path": "/pnfuWeC87kitRnrfL8dtRmumWLM.jpg",
+        "credit_id": "69f2e3a5c291caf1e6999467",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6178471,
+        "known_for_department": "Writing",
+        "name": "Jacob Schwarz",
+        "original_name": "Jacob Schwarz",
+        "popularity": 0.62,
+        "profile_path": null,
+        "credit_id": "69f2e3dfabc3af7fa30e5cf6",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1442711,
+        "known_for_department": "Acting",
+        "name": "Christian Mortensen",
+        "original_name": "Christian Mortensen",
+        "popularity": 1.194,
+        "profile_path": "/pnfuWeC87kitRnrfL8dtRmumWLM.jpg",
+        "credit_id": "69f2e43efcfffe8b04766350",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2295564,
+        "known_for_department": "Directing",
+        "name": "Willem Kampenhout",
+        "original_name": "Willem Kampenhout",
+        "popularity": 0.3246,
+        "profile_path": null,
+        "credit_id": "69f2e469bcfc30fc7a76633c",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2295564,
+        "known_for_department": "Directing",
+        "name": "Willem Kampenhout",
+        "original_name": "Willem Kampenhout",
+        "popularity": 0.3246,
+        "profile_path": null,
+        "credit_id": "69f2e473ba725391d2999466",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6178472,
+        "known_for_department": "Production",
+        "name": "Bekruz Hamzaev",
+        "original_name": "Bekruz Hamzaev",
+        "popularity": 0.2047,
+        "profile_path": null,
+        "credit_id": "69f2e48cabc3af7fa30e5d09",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6178473,
+        "known_for_department": "Production",
+        "name": "Azam Abdullaev",
+        "original_name": "Azam Abdullaev",
+        "popularity": 0.3117,
+        "profile_path": null,
+        "credit_id": "69f2e49dba725391d2999474",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1818132,
+        "known_for_department": "Acting",
+        "name": "Zhaidarbek Kunguzhinov",
+        "original_name": "Zhaidarbek Kunguzhinov",
+        "popularity": 0.4185,
+        "profile_path": "/8vLm6SU9tV7RA20gG7412oiksA2.jpg",
+        "credit_id": "69f2e4d946e2eea9d1b82963",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6178475,
+        "known_for_department": "Crew",
+        "name": "Rick McGuire",
+        "original_name": "Rick McGuire",
+        "popularity": 0.188,
+        "profile_path": null,
+        "credit_id": "69f2e537ff9044df0987af8b",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5357062,
+        "known_for_department": "Sound",
+        "name": "Emir Merzeci",
+        "original_name": "Emir Merzeci",
+        "popularity": 0.2416,
+        "profile_path": null,
+        "credit_id": "69f2e5532c2f7e38de87af28",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1521484,
+        "known_for_department": "Camera",
+        "name": "Peter Mosiman",
+        "original_name": "Peter Mosiman",
+        "popularity": 0.2831,
+        "profile_path": null,
+        "credit_id": "6a0c6928f54e325500cd1613",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

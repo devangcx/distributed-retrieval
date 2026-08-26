@@ -1,0 +1,386 @@
+{
+  "adult": false,
+  "backdrop_path": "/71Pw2W2IfBOT5wOBRACfCJtm9XS.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 4253,
+  "imdb_id": "tt0378072",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "हम तुम",
+  "overview": "The encounters of two people who run into each other on several occasions under circumstances ranging from friendly to hostile to loving. Along many years and countless run-ins, the two despise each other, befriend each other, and fall in love with each other—in no particular order.",
+  "popularity": 1.5694,
+  "poster_path": "/u4ctCNPq6qfwnUyZzAfxEzdJ0Lq.jpg",
+  "production_companies": [
+    {
+      "id": 1569,
+      "logo_path": "/lvzN86o3jrP44DIvn4SMBLOl9PF.png",
+      "name": "Yash Raj Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2004-05-28",
+  "revenue": 1878702,
+  "runtime": 142,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Hum Tum",
+  "video": false,
+  "vote_average": 6.454,
+  "vote_count": 131,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35776,
+        "known_for_department": "Acting",
+        "name": "Rani Mukerji",
+        "original_name": "रानी मुखर्जी",
+        "popularity": 2.0168,
+        "profile_path": "/6bm1lhrEgGFpOLBjvcOi3aoQmtg.jpg",
+        "cast_id": 13,
+        "character": "Rhea Prakash",
+        "credit_id": "52fe43b6c3a36847f8069bdf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35747,
+        "known_for_department": "Acting",
+        "name": "Saif Ali Khan",
+        "original_name": "सैफ़ अली ख़ान",
+        "popularity": 2.0849,
+        "profile_path": "/85uKiFDEcIqzLh0GwqYvecXw4uA.jpg",
+        "cast_id": 14,
+        "character": "Karan Kapoor",
+        "credit_id": "52fe43b6c3a36847f8069be3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35777,
+        "known_for_department": "Acting",
+        "name": "Kirron Kher",
+        "original_name": "Kirron Kher",
+        "popularity": 0.8436,
+        "profile_path": "/uCaiWNukV9a2vPVRw44MZMNINPa.jpg",
+        "cast_id": 15,
+        "character": "Parminder Prakash",
+        "credit_id": "52fe43b6c3a36847f8069be7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35790,
+        "known_for_department": "Acting",
+        "name": "Rati Agnihotri",
+        "original_name": "Rati Agnihotri",
+        "popularity": 1.0673,
+        "profile_path": "/mIdaxb1LEhEVBARDNFyQ64411FD.jpg",
+        "cast_id": 16,
+        "character": "Anju Kapoor",
+        "credit_id": "52fe43b6c3a36847f8069beb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35791,
+        "known_for_department": "Acting",
+        "name": "Rishi Kapoor",
+        "original_name": "Rishi Kapoor",
+        "popularity": 1.1195,
+        "profile_path": "/yQOKkmQaksa3hOi72MbPnrqz77k.jpg",
+        "cast_id": 17,
+        "character": "Arjun Kapoor",
+        "credit_id": "52fe43b6c3a36847f8069bef",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35792,
+        "known_for_department": "Acting",
+        "name": "Jimmy Shergill",
+        "original_name": "Jimmy Shergill",
+        "popularity": 1.3602,
+        "profile_path": "/A3fJrhIgM7Q5TGwbQYxYBjNsV37.jpg",
+        "cast_id": 18,
+        "character": "Mihir Vora",
+        "credit_id": "52fe43b6c3a36847f8069bf3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35793,
+        "known_for_department": "Acting",
+        "name": "Abhishek Bachchan",
+        "original_name": "अभिषेक बच्चन",
+        "popularity": 1.6264,
+        "profile_path": "/o2hWC004VnRyGLOgg8OjiP1Ch5A.jpg",
+        "cast_id": 19,
+        "character": "Sameer",
+        "credit_id": "52fe43b6c3a36847f8069bf7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35794,
+        "known_for_department": "Acting",
+        "name": "Shenaz Treasury",
+        "original_name": "Shenaz Treasury",
+        "popularity": 0.5327,
+        "profile_path": "/2wibZIbG3h2ntZt8c59wn30CS0x.jpg",
+        "cast_id": 20,
+        "character": "Shalini",
+        "credit_id": "52fe43b6c3a36847f8069bfb",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35795,
+        "known_for_department": "Acting",
+        "name": "Isha Koppikar",
+        "original_name": "Isha Koppikar",
+        "popularity": 1.1018,
+        "profile_path": "/yKxTrxQLc3acJdNG02YfFWXo36w.jpg",
+        "cast_id": 21,
+        "character": "Diana Fernandez",
+        "credit_id": "52fe43b6c3a36847f8069bff",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1281345,
+        "known_for_department": "Acting",
+        "name": "Parinita Seth",
+        "original_name": "Parinita Seth",
+        "popularity": 0.4632,
+        "profile_path": "/hQpgiF5TZa6W3Uv2DTMWDHZIwP6.jpg",
+        "cast_id": 22,
+        "character": "Friend",
+        "credit_id": "52fe43b6c3a36847f8069c03",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35784,
+        "known_for_department": "Directing",
+        "name": "Kunal Kohli",
+        "original_name": "Kunal Kohli",
+        "popularity": 0.654,
+        "profile_path": "/kFnrHabWyrESlZZMmBKEV57WX3h.jpg",
+        "credit_id": "52fe43b6c3a36847f8069b99",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35785,
+        "known_for_department": "Directing",
+        "name": "Siddharth Anand",
+        "original_name": "Siddharth Anand",
+        "popularity": 1.1443,
+        "profile_path": "/9hQ4sX2XgOWvfJFv39z4uYrisqs.jpg",
+        "credit_id": "52fe43b6c3a36847f8069b9f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35770,
+        "known_for_department": "Directing",
+        "name": "Yash Chopra",
+        "original_name": "Yash Chopra",
+        "popularity": 1.0245,
+        "profile_path": "/ku55DB8xWKCCf5dflMf03I3Ltto.jpg",
+        "credit_id": "52fe43b6c3a36847f8069ba5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35786,
+        "known_for_department": "Sound",
+        "name": "Salim Merchant",
+        "original_name": "Salim Merchant",
+        "popularity": 0.4451,
+        "profile_path": "/acKJeVt5BbyRBXuRiaV05PkLTRM.jpg",
+        "credit_id": "52fe43b6c3a36847f8069bab",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35787,
+        "known_for_department": "Camera",
+        "name": "Sunil Patel",
+        "original_name": "Sunil Patel",
+        "popularity": 0.3251,
+        "profile_path": "/pBg8zFllhbyXmnaSyho8Zs38CUu.jpg",
+        "credit_id": "52fe43b6c3a36847f8069bb1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 35773,
+        "known_for_department": "Editing",
+        "name": "Ritesh Soni",
+        "original_name": "Ritesh Soni",
+        "popularity": 0.5226,
+        "profile_path": null,
+        "credit_id": "52fe43b6c3a36847f8069bb7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 35788,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Reza Shariffi",
+        "original_name": "Reza Shariffi",
+        "popularity": 0.2595,
+        "profile_path": null,
+        "credit_id": "52fe43b6c3a36847f8069bbd",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35740,
+        "known_for_department": "Art",
+        "name": "Sharmishta Roy",
+        "original_name": "Sharmishta Roy",
+        "popularity": 0.5821,
+        "profile_path": "/qCCd7KVlZzV1xxFoq9s6amiqSPF.jpg",
+        "credit_id": "52fe43b6c3a36847f8069bc3",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35785,
+        "known_for_department": "Directing",
+        "name": "Siddharth Anand",
+        "original_name": "Siddharth Anand",
+        "popularity": 1.1443,
+        "profile_path": "/9hQ4sX2XgOWvfJFv39z4uYrisqs.jpg",
+        "credit_id": "52fe43b6c3a36847f8069bc9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35771,
+        "known_for_department": "Production",
+        "name": "Aditya Chopra",
+        "original_name": "Aditya Chopra",
+        "popularity": 1.4109,
+        "profile_path": "/eXYKfA6bg12pn9LPrWeRfxYQwcb.jpg",
+        "credit_id": "52fe43b6c3a36847f8069bcf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 35789,
+        "known_for_department": "Production",
+        "name": "Sanjay Shivalkar",
+        "original_name": "Sanjay Shivalkar",
+        "popularity": 0.5246,
+        "profile_path": null,
+        "credit_id": "52fe43b6c3a36847f8069bd5",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35784,
+        "known_for_department": "Directing",
+        "name": "Kunal Kohli",
+        "original_name": "Kunal Kohli",
+        "popularity": 0.654,
+        "profile_path": "/kFnrHabWyrESlZZMmBKEV57WX3h.jpg",
+        "credit_id": "52fe43b6c3a36847f8069bdb",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2517702,
+        "known_for_department": "Sound",
+        "name": "Juggy D",
+        "original_name": "Juggy D",
+        "popularity": 0.2609,
+        "profile_path": null,
+        "credit_id": "5e28335e4ca676001440e113",
+        "department": "Sound",
+        "job": "Playback Singer"
+      }
+    ]
+  }
+}

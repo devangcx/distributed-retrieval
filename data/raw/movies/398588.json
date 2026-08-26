@@ -1,0 +1,413 @@
+{
+  "adult": false,
+  "backdrop_path": "/zUkGDvIdCwpJhHpWqQibQbMpeNX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 398588,
+  "imdb_id": "tt5039994",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dismissed",
+  "overview": "A straight-edged teacher finds trouble when an honors student is willing to do anything to get an A.",
+  "popularity": 2.4643,
+  "poster_path": "/rMVslLnNSDkIPDnOmPr2CTaqd3J.jpg",
+  "production_companies": [
+    {
+      "id": 27857,
+      "logo_path": null,
+      "name": "Making Film",
+      "origin_country": "HK"
+    },
+    {
+      "id": 18609,
+      "logo_path": "/pxtYCfl1DWzvizqZcYwE4NefOOF.png",
+      "name": "BoulderLight Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2017-10-08",
+  "revenue": 0,
+  "runtime": 87,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He would kill for a good grade.",
+  "title": "Dismissed",
+  "video": false,
+  "vote_average": 6.482,
+  "vote_count": 277,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 95686,
+        "known_for_department": "Acting",
+        "name": "Dylan Sprouse",
+        "original_name": "Dylan Sprouse",
+        "popularity": 2.7046,
+        "profile_path": "/zy7ueLZtJwiRFdYkDlzjQhbA6SW.jpg",
+        "cast_id": 0,
+        "character": "Lucas Ward",
+        "credit_id": "59fb571392514113a6013374",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45416,
+        "known_for_department": "Writing",
+        "name": "Kent Osborne",
+        "original_name": "Kent Osborne",
+        "popularity": 1.1921,
+        "profile_path": "/sQIzBX7tXvIW2EQAe15vccU2YUn.jpg",
+        "cast_id": 8,
+        "character": "Mr. Butler",
+        "credit_id": "5a95887d0e0a26086600b0d0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1684414,
+        "known_for_department": "Acting",
+        "name": "Rae Gray",
+        "original_name": "Rae Gray",
+        "popularity": 0.7804,
+        "profile_path": "/zy2544iMWXm3oeRos9QBz3NxrAD.jpg",
+        "cast_id": 5,
+        "character": "Becca Vaughn",
+        "credit_id": "59fb577fc3a3681a1b014c55",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79082,
+        "known_for_department": "Acting",
+        "name": "Randall Park",
+        "original_name": "Randall Park",
+        "popularity": 2.3537,
+        "profile_path": "/u1QpbjVIKegk79DJG9HFmg9Ljv4.jpg",
+        "cast_id": 3,
+        "character": "Mr. Sheldon",
+        "credit_id": "59fb576492514113bf013842",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54718,
+        "known_for_department": "Acting",
+        "name": "Brooke Dillman",
+        "original_name": "Brooke Dillman",
+        "popularity": 1.3788,
+        "profile_path": "/tmZM7jwbz8xMVGvp89T0TAhH1lL.jpg",
+        "cast_id": 4,
+        "character": "Valerie Lohman",
+        "credit_id": "59fb5773c3a3681a1b014c42",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 207006,
+        "known_for_department": "Acting",
+        "name": "Matthew J. Evans",
+        "original_name": "Matthew J. Evans",
+        "popularity": 0.6172,
+        "profile_path": "/iTrid3l8y9xXR5aqRmyLhck362a.jpg",
+        "cast_id": 6,
+        "character": "Alex",
+        "credit_id": "59fb578c92514113a6013410",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84897,
+        "known_for_department": "Acting",
+        "name": "Mark Kelly",
+        "original_name": "Mark Kelly",
+        "popularity": 0.8006,
+        "profile_path": "/mnXgwTVNPGqJyNmLP1neATTsvy2.jpg",
+        "cast_id": 7,
+        "character": "Detective Speck",
+        "credit_id": "59fb57a992514113bb013995",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1709469,
+        "known_for_department": "Acting",
+        "name": "Mitchell Edwards",
+        "original_name": "Mitchell Edwards",
+        "popularity": 0.6665,
+        "profile_path": "/87UbAJUPNIEuRMntC29JdjB1kRU.jpg",
+        "cast_id": 12,
+        "character": "Chris",
+        "credit_id": "60c235e15ab81a0056674a0d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2025633,
+        "known_for_department": "Acting",
+        "name": "Victoria Zeutzius",
+        "original_name": "Victoria Zeutzius",
+        "popularity": 0.5778,
+        "profile_path": "/yjELlzjvO9H3o30q1XhGhHxLihd.jpg",
+        "cast_id": 9,
+        "character": "Paige",
+        "credit_id": "5c2e22a09251415a986c4f19",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79416,
+        "known_for_department": "Acting",
+        "name": "Robert Longstreet",
+        "original_name": "Robert Longstreet",
+        "popularity": 1.1348,
+        "profile_path": "/j9e2HBqicMM59lErK8pL94Jh59v.jpg",
+        "cast_id": 11,
+        "character": "Paul Garrett",
+        "credit_id": "5e4aecf59a3c490016317e73",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1702823,
+        "known_for_department": "Acting",
+        "name": "Rowan Smyth",
+        "original_name": "Rowan Smyth",
+        "popularity": 0.9633,
+        "profile_path": "/mwIqNgSU5vtpcv7ZEPCdfYrBcBS.jpg",
+        "cast_id": 10,
+        "character": "Young Lucas",
+        "credit_id": "5c3e838f9251415318ae5c59",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1547826,
+        "known_for_department": "Acting",
+        "name": "Jeanette Maus",
+        "original_name": "Jeanette Maus",
+        "popularity": 0.5036,
+        "profile_path": "/rbB2zdHZ1rZpRS7oCHpJH9xCYdN.jpg",
+        "cast_id": 13,
+        "character": "Nancy",
+        "credit_id": "60c23682c51acd0079c4107e",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 90494,
+        "known_for_department": "Acting",
+        "name": "Alycia Delmore",
+        "original_name": "Alycia Delmore",
+        "popularity": 0.5934,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Rachel Butler",
+        "credit_id": "60c236b3f18ce7005737526a",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4445,
+        "known_for_department": "Acting",
+        "name": "Chris Bauer",
+        "original_name": "Chris Bauer",
+        "popularity": 2.6724,
+        "profile_path": "/1AjdNxbVmy6azlOxIfnCX5OruEA.jpg",
+        "cast_id": 20,
+        "character": "Mr. Ward",
+        "credit_id": "6956d06f92e133af1674f925",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1465243,
+        "known_for_department": "Acting",
+        "name": "Leslie Thurston",
+        "original_name": "Leslie Thurston",
+        "popularity": 0.6567,
+        "profile_path": "/pYj2x9sJVm5P3kHZqAgFLTHfLNs.jpg",
+        "cast_id": 21,
+        "character": "Principal Fermont",
+        "credit_id": "6956d07c69f1e6880c74f771",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1105459,
+        "known_for_department": "Acting",
+        "name": "Helen Soraya",
+        "original_name": "Helen Soraya",
+        "popularity": 0.5377,
+        "profile_path": "/sy0lcjFM50lBX95xP85iFvWJEHm.jpg",
+        "cast_id": 22,
+        "character": "Mrs. Dubois",
+        "credit_id": "6956d09329360dcc034ae7b9",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5911075,
+        "known_for_department": "Acting",
+        "name": "Owen Dagget",
+        "original_name": "Owen Dagget",
+        "popularity": 0.343,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Joey Butler",
+        "credit_id": "6956d0cee232373c0dc38ed5",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2705138,
+        "known_for_department": "Acting",
+        "name": "Domaine Javier",
+        "original_name": "Domaine Javier",
+        "popularity": 0.3838,
+        "profile_path": "/3REsGo74sIajP6fozslDx9b04UI.jpg",
+        "cast_id": 24,
+        "character": "High School Teacher",
+        "credit_id": "6956d121c01f88cf5774f311",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1276440,
+        "known_for_department": "Production",
+        "name": "Raphael Margules",
+        "original_name": "Raphael Margules",
+        "popularity": 0.6757,
+        "profile_path": "/3Dqpx0s7zOZ086aTzlLMmb1AdJT.jpg",
+        "credit_id": "65db014b00fb6b01634c3028",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1276439,
+        "known_for_department": "Production",
+        "name": "J.D. Lifshitz",
+        "original_name": "J.D. Lifshitz",
+        "popularity": 0.874,
+        "profile_path": "/wsKG7zRaVG17DT22QQag0Fzz4HN.jpg",
+        "credit_id": "65db0141a24c500186103ba0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1435571,
+        "known_for_department": "Writing",
+        "name": "Brian McAuley",
+        "original_name": "Brian McAuley",
+        "popularity": 0.6595,
+        "profile_path": null,
+        "credit_id": "59fb5744925141138b014814",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1317540,
+        "known_for_department": "Directing",
+        "name": "Benjamin Arfmann",
+        "original_name": "Benjamin Arfmann",
+        "popularity": 0.4873,
+        "profile_path": null,
+        "credit_id": "59fb572dc3a3681a64013060",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58053,
+        "known_for_department": "Directing",
+        "name": "Edmond Pang Ho-Cheung",
+        "original_name": "彭浩翔",
+        "popularity": 0.9066,
+        "profile_path": "/bDnzR3ayIstd13h1TBFU9ARePg3.jpg",
+        "credit_id": "67ba3395741152b0420a8ca5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933102,
+        "known_for_department": "Sound",
+        "name": "Nathan Matthew David",
+        "original_name": "Nathan Matthew David",
+        "popularity": 0.6731,
+        "profile_path": "/3eGiCoh13TLzs6FHUQTe1rL1ajD.jpg",
+        "credit_id": "6956d00369f1e6880c74f76a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1276441,
+        "known_for_department": "Camera",
+        "name": "Mike Testin",
+        "original_name": "Mike Testin",
+        "popularity": 0.4668,
+        "profile_path": null,
+        "credit_id": "6956d00ce09c4abf8dcc883d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  }
+}

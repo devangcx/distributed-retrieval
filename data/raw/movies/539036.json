@@ -1,0 +1,378 @@
+{
+  "adult": false,
+  "backdrop_path": "/kxm79ZnWt44LTJrD5IxGqkzR2QN.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 539036,
+  "imdb_id": "tt6078866",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Soni",
+  "overview": "Soni, a young policewoman in Delhi, and her superintendent, Kalpana, have collectively taken on a growing crisis of violent crimes against women. However, their alliance suffers a major setback when Soni is transferred out for alleged misconduct on duty.",
+  "popularity": 1.0769,
+  "poster_path": "/gUczyiHIfi9kxme98T7yyIdyHFT.jpg",
+  "production_companies": [
+    {
+      "id": 120760,
+      "logo_path": null,
+      "name": "Jabberwockee Talkies",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2019-01-18",
+  "revenue": 0,
+  "runtime": 97,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Soni",
+  "video": false,
+  "vote_average": 6.811,
+  "vote_count": 45,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2120753,
+        "known_for_department": "Acting",
+        "name": "Geetika Vidya",
+        "original_name": "Geetika Vidya",
+        "popularity": 0.7997,
+        "profile_path": "/8vGi0UERPBA5fzkjbIOqLOQfzso.jpg",
+        "cast_id": 7,
+        "character": "Soni",
+        "credit_id": "5b8cff69c3a368520f046c5e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2120754,
+        "known_for_department": "Acting",
+        "name": "Saloni Batra",
+        "original_name": "Saloni Batra",
+        "popularity": 0.814,
+        "profile_path": "/vjh34DW0JY7KuyZFgsCNzxRKDL2.jpg",
+        "cast_id": 8,
+        "character": "Kalpana Ummat",
+        "credit_id": "5b8cff7492514151830400d5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2120755,
+        "known_for_department": "Acting",
+        "name": "Vikas Shukla",
+        "original_name": "Vikas Shukla",
+        "popularity": 0.403,
+        "profile_path": "/lMgWpj3BwrSgeP4IUNdj5Z99Y2O.jpg",
+        "cast_id": 9,
+        "character": "Naveen",
+        "credit_id": "5b8cff7d0e0a261d6e04982a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4248619,
+        "known_for_department": "Acting",
+        "name": "Mohit Chauhan",
+        "original_name": "Mohit Chauhan",
+        "popularity": 0.444,
+        "profile_path": "/1053ufkV4YzzeDsMT0eEKNvInfZ.jpg",
+        "cast_id": 24,
+        "character": "Sandeep",
+        "credit_id": "68a7e99c5621057e988eda1d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1551243,
+        "known_for_department": "Acting",
+        "name": "Himanshu Kohli",
+        "original_name": "Himanshu Kohli",
+        "popularity": 0.4884,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Navy Officer",
+        "credit_id": "5ba2cf220e0a265e46001901",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3951327,
+        "known_for_department": "Acting",
+        "name": "Gauri Chakraborty",
+        "original_name": "Gauri Chakraborty",
+        "popularity": 0.3419,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Huma",
+        "credit_id": "68a4019c723fba3bf5567dea",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3082245,
+        "known_for_department": "Acting",
+        "name": "Mohinder Gujral",
+        "original_name": "Mohinder Gujral",
+        "popularity": 0.395,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Sandeep's Mother",
+        "credit_id": "66ec443be6bd955e8149129e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5635003,
+        "known_for_department": "Acting",
+        "name": "Upasya Goswami",
+        "original_name": "Upasya Goswami",
+        "popularity": 0.2549,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "J.B",
+        "credit_id": "68a40175637ebd57a39f6037",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2108661,
+        "known_for_department": "Acting",
+        "name": "Simrat Kaur",
+        "original_name": "Simrat Kaur",
+        "popularity": 0.8166,
+        "profile_path": "/vNhKeIw9ykidSOH9Ks4gBjHqqwh.jpg",
+        "cast_id": 13,
+        "character": "Nishu",
+        "credit_id": "66ec44226bfddb995e281e04",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2081612,
+        "known_for_department": "Acting",
+        "name": "Dimple Kaur",
+        "original_name": "Dimple Kaur",
+        "popularity": 0.2355,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Daisy",
+        "credit_id": "68a401eccc11dd66a358d83e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2281457,
+        "known_for_department": "Acting",
+        "name": "Prateek Pachori",
+        "original_name": "Prateek Pachori",
+        "popularity": 0.4968,
+        "profile_path": "/xGcckOmsmQ3zplHWEgp1l4gIVdT.jpg",
+        "cast_id": 19,
+        "character": "Govind",
+        "credit_id": "68a402069a81d58f3c6decd8",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4523207,
+        "known_for_department": "Acting",
+        "name": "Kalpana Jha",
+        "original_name": "Kalpana Jha",
+        "popularity": 0.1982,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Landlord's wife",
+        "credit_id": "68a40231637ebd57a39f6042",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5635005,
+        "known_for_department": "Acting",
+        "name": "Samar",
+        "original_name": "Samar",
+        "popularity": 0.1688,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "ASI Chauhan",
+        "credit_id": "68a40247c330639b2e17d2a0",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4561067,
+        "known_for_department": "Acting",
+        "name": "Ishu Kumar",
+        "original_name": "Ishu Kumar",
+        "popularity": 0.1304,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Stalker",
+        "credit_id": "68a40266edf75a271317d36a",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2944926,
+        "known_for_department": "Acting",
+        "name": "Punit Tiwari",
+        "original_name": "Punit Tiwari",
+        "popularity": 0.3562,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Second Navy Officer",
+        "credit_id": "68a4028188c3b3afa2ca7750",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2095430,
+        "known_for_department": "Directing",
+        "name": "Ivan Ayr",
+        "original_name": "Ivan Ayr",
+        "popularity": 0.3904,
+        "profile_path": null,
+        "credit_id": "5b5e6b8f0e0a262e9503b073",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2095430,
+        "known_for_department": "Directing",
+        "name": "Ivan Ayr",
+        "original_name": "Ivan Ayr",
+        "popularity": 0.3904,
+        "profile_path": null,
+        "credit_id": "5b8cfebf0e0a261d6e049758",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2120747,
+        "known_for_department": "Writing",
+        "name": "Kislay Kislay",
+        "original_name": "Kislay Kislay",
+        "popularity": 0.3788,
+        "profile_path": null,
+        "credit_id": "5b8cfec99251415197043530",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1426834,
+        "known_for_department": "Camera",
+        "name": "David Bolen",
+        "original_name": "David Bolen",
+        "popularity": 0.5071,
+        "profile_path": null,
+        "credit_id": "5b8cfed69251415197043545",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1085930,
+        "known_for_department": "Directing",
+        "name": "Gurvinder Singh",
+        "original_name": "Gurvinder Singh",
+        "popularity": 0.5096,
+        "profile_path": "/oY23TyFdZpQf2g3r1WJ5qHGLj3J.jpg",
+        "credit_id": "5b8cfeeec3a368520604ab9b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2095430,
+        "known_for_department": "Directing",
+        "name": "Ivan Ayr",
+        "original_name": "Ivan Ayr",
+        "popularity": 0.3904,
+        "profile_path": null,
+        "credit_id": "5b8cfef9c3a368520604af3f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1294674,
+        "known_for_department": "Sound",
+        "name": "Sylvain Bellemare",
+        "original_name": "Sylvain Bellemare",
+        "popularity": 0.628,
+        "profile_path": "/kGsqhWsy3TP92U5widUlBgUkLV4.jpg",
+        "credit_id": "5b8cff36c3a36851fa040fa5",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2766277,
+        "known_for_department": "Production",
+        "name": "Kimsi Singh",
+        "original_name": "Kimsi Singh",
+        "popularity": 0.2661,
+        "profile_path": null,
+        "credit_id": "5f52ad3e17c4430034e60b0e",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  }
+}

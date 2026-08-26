@@ -48,22 +48,40 @@ require API credentials or make network requests.
 
 ## Fetching Data
 
-Fetching movies data from TMDB requires the `TMDB_API_READ_ACCESS_TOKEN` environment variable. Run the following command to fetch and cache the data. This will create
-two folders `data/raw/movies` and `data/processed/movies.json`.
+To collect the larger corpus through TMDB, cache raw discovery pages and movie
+details, and write the canonical dataset to `data/processed/movies.json`, run:
 
 ```bash
 python scripts/fetch_data.py
 ```
 
-To rebuild the processed dataset using only the existing
-files in `data/raw/movies`, run:
+The default target is 20,000 usable movies, subject to the candidates TMDB
+returns for the configured US-English and India-Hindi discovery groups. Each
+group is capped at TMDB's 500-page discovery limit. A smaller incremental run
+can set both safety limits explicitly:
 
 ```bash
-python scripts/fetch_data.py --from-cache
+python scripts/fetch_data.py --target-size 1000 --max-pages-per-group 50
+```
+
+Network mode can make many TMDB requests and requires
+`TMDB_API_READ_ACCESS_TOKEN`. Interrupted runs are resumable: query-specific
+raw discovery pages are stored beneath `data/raw/discovery`, and detailed movie
+responses remain stored by stable TMDB movie ID beneath `data/raw/movies`.
+Changing a named discovery filter produces a different cache directory, so
+pages collected under different release boundaries cannot be mixed silently.
+
+To rebuild the processed dataset using only the existing detail files, run:
+
+```bash
+python scripts/fetch_data.py --from-cache --target-size 20000
 ```
 
 The cache-only mode makes no TMDB requests and does not require credentials.
-
+Both modes normalize records in ascending TMDB movie-ID order, making repeated
+runs against the same raw cache deterministic. Movies with blank titles or
+overviews are excluded, and the output can therefore contain fewer records than
+the requested target.
 Run `python scripts/fetch_data.py --help` for the complete command help.
 
 ## Generating Partition Manifests

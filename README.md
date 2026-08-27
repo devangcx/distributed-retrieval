@@ -9,6 +9,8 @@ Have the following environment variables.
 ```
 TMDB_API_READ_ACCESS_TOKEN
 TMDB_API_KEY
+POSTGRES_SHARD_A_URL
+POSTGRES_SHARD_B_URL
 ```
 
 ## Python Environment
@@ -22,7 +24,27 @@ pip install -r scripts/requirements.txt
 pip install -r scripts/dev-requirements.txt
 ```
 
-## Testing
+## Docker
+
+Start all containers and network using Docker Compose:
+
+```bash
+docker-compose up -d
+```
+
+Inspect status of all container and the network
+
+```bash
+docker-compose ps -a
+```
+
+Stop all containers while retaining data volumes
+
+```bash
+docker-compose down --remove-orphans
+```
+
+# Testing
 
 Run the complete Python test suite from the repository root:
 
@@ -124,7 +146,7 @@ help.
 - Diesel is the Rust persistence layer. SQL migrations define the database, and
   Diesel generates `src/schema.rs` from the applied schema.
 
-## PostgreSQL schema
+### PostgreSQL schema
 
 ```sql
 CREATE TYPE industry_type AS ENUM (
@@ -243,7 +265,7 @@ reproducible experiments across both shards.
 the hash or industry layout, while `shard_id` identifies shard A or B without
 assuming that the strategy uses a numeric remainder.
 
-### Relational indexes
+#### Relational indexes
 
 ```sql
 CREATE INDEX movies_release_date_idx ON movies (release_date);
@@ -260,7 +282,7 @@ CREATE INDEX movie_countries_country_code_idx
 
 Primary keys and unique constraints already supply their own indexes.
 
-## Some data decisions
+### Some data decisions
 
 - `release_date` is authoritative; release year and month are derived.
 - `vote_average` uses `NUMERIC(3,1)` and permits values from `0.0` to `10.0`.
@@ -273,7 +295,7 @@ Primary keys and unique constraints already supply their own indexes.
 - Production companies and TMDB popularity are omitted.
 - Only actor and director credits are modeled.
 
-## Qdrant retrieval model
+### Qdrant retrieval model
 
 Each point uses `movie_id` as its point ID and contains three named representations:
 
@@ -294,7 +316,7 @@ full_document_dense
 - Dense vectors use cosine distance.
 - Reciprocal Rank Fusion is the candidate for fusion between dense and sparse results.
 
-### Qdrant payload
+#### Qdrant payload
 
 ```text
 movie_id       integer

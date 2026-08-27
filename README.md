@@ -378,9 +378,11 @@ Industry layout
   shard B: Bollywood and other_or_ambiguous
 ```
 
-- The layouts are not mixed.
-- They are loaded and benchmarked sequentially using
-  the same two PostgreSQL and two Qdrant services so that both strategies receive
-  the same resources.
+- The layouts are not mixed within a schema or Qdrant collection.
+- Both layouts remain available simultaneously on the same four containers.
+  Each PostgreSQL shard contains separate `hash_layout` and `industry_layout`
+  schemas. Each Qdrant shard will use separate collections for the two layouts.
+  This keeps the datasets persistent while giving both strategies the same
+  container resources.
 - A movie's PostgreSQL rows and Qdrant point always use the
   same shard assignment.

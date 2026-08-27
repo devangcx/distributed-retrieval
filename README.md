@@ -1,5 +1,7 @@
 # Local Setup
 
+Get a TMDB API key and read access token. from https://developer.themoviedb.org/docs/getting-started
+
 ## Environment Variables
 
 Have the following environment variables.
@@ -28,8 +30,7 @@ Run the complete Python test suite from the repository root:
 python -m pytest
 ```
 
-To run one test module or one specific test, pass its path and optional test
-name:
+To run one test module or one specific test, pass its path.
 
 ```bash
 python -m pytest tests/python/scripts/test_fetch_data.py
@@ -48,28 +49,31 @@ require API credentials or make network requests.
 
 ## Fetching Data
 
-To collect the larger corpus through TMDB, cache raw discovery pages and movie
-details, and write the canonical dataset to `data/processed/movies.json`, run:
+Use `data/processed/movies.json` to fetch the movie corpus.
 
 ```bash
 python scripts/fetch_data.py
 ```
 
-The default target is 20,000 usable movies, subject to the candidates TMDB
-returns for the configured US-English and India-Hindi discovery groups. Each
-group is capped at TMDB's 500-page discovery limit. A smaller incremental run
-can set both safety limits explicitly:
+- The target is 20,000 usable movies.
+- However, usage of the following filters determine the actual number of
+  movies we are able to fetch.
 
-```bash
-python scripts/fetch_data.py --target-size 1000 --max-pages-per-group 50
-```
+Filters
 
-Network mode can make many TMDB requests and requires
-`TMDB_API_READ_ACCESS_TOKEN`. Interrupted runs are resumable: query-specific
-raw discovery pages are stored beneath `data/raw/discovery`, and detailed movie
-responses remain stored by stable TMDB movie ID beneath `data/raw/movies`.
-Changing a named discovery filter produces a different cache directory, so
-pages collected under different release boundaries cannot be mixed silently.
+- Countries:
+  - US
+  - IN
+- Languages:
+  - English
+  - Hindi
+- Release Dates:
+  - 2020-01-01 to 2023-12-31
+- Minimum Vote Count:
+  - 20
+- No adult and video content
+
+## Building from local cache
 
 To rebuild the processed dataset using only the existing detail files, run:
 
@@ -77,11 +81,13 @@ To rebuild the processed dataset using only the existing detail files, run:
 python scripts/fetch_data.py --from-cache --target-size 20000
 ```
 
-The cache-only mode makes no TMDB requests and does not require credentials.
-Both modes normalize records in ascending TMDB movie-ID order, making repeated
-runs against the same raw cache deterministic. Movies with blank titles or
-overviews are excluded, and the output can therefore contain fewer records than
-the requested target.
+- The cache-only mode makes no TMDB requests and does not require credentials.
+- Both modes normalize records in ascending TMDB movie-ID order, making repeated
+  runs against the same raw cache deterministic.
+- Movies with blank titles or
+  overviews are excluded, and the output can therefore contain fewer records than
+  the requested target.
+
 Run `python scripts/fetch_data.py --help` for the complete command help.
 
 ## Generating Partition Manifests
@@ -113,7 +119,7 @@ help.
 ## Data Model
 
 - PostgreSQL is the authoritative store for movie metadata and relationships.
-- Qdrant is a derived, rebuildable retrieval index.
+- Qdrant is a derived, rebuildable vector store.
 - TMDB `movie_id` identifies the same movie in both stores.
 - Diesel is the Rust persistence layer. SQL migrations define the database, and
   Diesel generates `src/schema.rs` from the applied schema.
@@ -329,12 +335,3 @@ Industry layout
   the same resources.
 - A movie's PostgreSQL rows and Qdrant point always use the
   same shard assignment.
-
-## Strategy
-
-- Before benchmarking, validation must establish that shard ID sets are disjoint,
-  their union equals the complete corpus, PostgreSQL IDs match Qdrant point IDs,
-  and relational associations are not orphaned.
-- Hash partitioning is the balanced,
-  domain-agnostic baseline. Industry partitioning tests selective domain-aware
-  routing.

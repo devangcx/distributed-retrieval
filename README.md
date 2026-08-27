@@ -135,6 +135,35 @@ Custom paths are also supported:
 python scripts/generate_partitions.py --input path/to/movies.json --output-dir path/to/partitions
 ```
 
+### Manifest checksums
+
+Every manifest contains an `input_checksum` identifying the exact
+`movies.json` file from which its movie IDs were generated. This prevents a
+manifest created for one corpus version from being used accidentally with a
+different version. Without this check, added, removed, or reordered movies
+could make the manifest and canonical records disagree while still producing
+apparently valid shard IDs.
+
+`generate_partitions.py` reads `movies.json` as raw bytes and calculates a
+SHA-256 digest:
+
+```python
+source_bytes = input_path.read_bytes()
+input_checksum = hashlib.sha256(source_bytes).hexdigest()
+```
+
+The same checksum is stored in all four manifests produced from that input. The
+PostgreSQL loader recalculates SHA-256 from the supplied canonical file and
+refuses to continue if it differs from the manifest value. The checksum is
+also recorded in `ingestion_runs`, linking a database load to its exact source
+artifact.
+
+The checksum covers the file bytes rather than only the set of movie IDs. A
+change to metadata or JSON formatting therefore creates a new checksum and
+requires regenerating the manifests. This is intentional: the checksum is a
+reproducibility and consistency guard, not merely a shard-membership check or a
+security signature.
+
 Run `python scripts/generate_partitions.py --help` for the complete command
 help.
 
@@ -152,7 +181,7 @@ help.
 CREATE TYPE industry_type AS ENUM (
     'hollywood',
     'bollywood',
-    'other_or_ambiguous'
+    'other'
 );
 
 CREATE TYPE credit_type AS ENUM ('actor', 'director');
@@ -363,6 +392,84 @@ Use `down.sql` to revert migrations if needed.
 ```bash
 diesel migration revert --database-url $DATABASEURL
 ```
+
+### Preparing persistent PostgreSQL layouts
+
+Both partition strategies use the same two PostgreSQL containers but remain
+available at the same time in separate schemas:
+
+```text
+postgres-shard-a: hash_layout and industry_layout
+postgres-shard-b: hash_layout and industry_layout
+```
+
+### Why we don't have separate containers/shards for each layout
+
+Separate containers could be given the same CPU, memory, and PostgreSQL
+settings. However, we keep both strategies in the same containers because:
+
+- Using the exact same PostgreSQL instances reduces the chance of configuration
+  differences between the strategies.
+- Separate containers and volumes can have different cache and disk states.
+- Running eight containers together would create more competition for the
+  host's CPU, memory, and disk.
+- The dataset is small enough for both layouts to share the existing
+  containers.
+- Separate schemas keep the layouts isolated while allowing both to remain
+  available.
+- The Rust orchestrator can switch schemas instead of rebuilding the database.
+- Four containers are simpler to run and monitor than eight.
+
+Both layouts are stored at the same time, but they will be benchmarked one at a
+time so they do not compete for the same resources during measurements.
+
+### Setting up PostgreSQL schemas for both layouts
+
+After both PostgreSQL containers are running, create both schemas on each shard
+and run the existing Diesel migration once per schema:
+
+```bash
+python scripts/setup_postgres_layouts.py
+```
+
+This is a later database operation and is deliberately separate from offline
+loader validation. The wrapper uses Diesel for migration history and applies
+the same finalized migration independently within each schema.
+
+### Validating and loading PostgreSQL shards
+
+Validate a corpus/manifest pair without connecting to PostgreSQL:
+
+```bash
+python scripts/load_postgres.py \
+  --manifest data/processed/partitions/hash/shard_a.json \
+  --dry-run
+```
+
+Omit `--dry-run` and name the destination URL environment variable only when a
+database load is intended:
+
+```bash
+python scripts/load_postgres.py \
+  --manifest data/processed/partitions/hash/shard_a.json \
+  --database-url-env POSTGRES_SHARD_A_URL
+```
+
+Run the loader once for each of the four manifests. The manifest strategy
+selects `hash_layout` or `industry_layout`, while the URL selects physical
+shard A or B. The loader verifies the source checksum and counts before it
+connects, then clears and rebuilds that one schema inside a transaction. A
+failure rolls back the transaction, and loading one schema does not change the
+other layout.
+
+This project uses a fixed experimental corpus and plans one final ingestion,
+so the loader deliberately performs full replacement instead of maintaining
+incremental reconciliation logic. This keeps the ingestion path smaller and
+easier to reproduce before development moves to the Rust orchestrator.
+
+The canonical industry label `other_or_ambiguous` is explicitly mapped to the
+finalized PostgreSQL enum label `other` at the loader boundary. The source JSON
+is not rewritten.
 
 # Sharding
 

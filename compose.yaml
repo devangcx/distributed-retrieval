@@ -5,14 +5,14 @@ services:
     image: postgres:16-alpine
     environment:
       POSTGRES_DB: retrieval
-      POSTGRES_USER: retrieval
-      POSTGRES_PASSWORD: retrieval_dev_password
+      POSTGRES_USER: retrieval_user
+      POSTGRES_PASSWORD: retrieval_password
     ports:
       - "5433:5432"
     volumes:
       - postgres-shard-a-data:/var/lib/postgresql/data
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U retrieval -d retrieval"]
+      test: ["CMD-SHELL", "pg_isready -U retrieval_user -d retrieval"]
       interval: 5s
       timeout: 3s
       retries: 20
@@ -21,14 +21,14 @@ services:
     image: postgres:16-alpine
     environment:
       POSTGRES_DB: retrieval
-      POSTGRES_USER: retrieval
-      POSTGRES_PASSWORD: retrieval_dev_password
+      POSTGRES_USER: retrieval_user
+      POSTGRES_PASSWORD: retrieval_password
     ports:
       - "5434:5432"
     volumes:
       - postgres-shard-b-data:/var/lib/postgresql/data
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U retrieval -d retrieval"]
+      test: ["CMD-SHELL", "pg_isready -U retrieval_user -d retrieval"]
       interval: 5s
       timeout: 3s
       retries: 20

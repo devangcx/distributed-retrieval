@@ -7,10 +7,10 @@ Get a TMDB API key and read access token. from https://developer.themoviedb.org/
 Have the following environment variables.
 
 ```
-TMDB_API_READ_ACCESS_TOKEN
-TMDB_API_KEY
-POSTGRES_SHARD_A_URL
-POSTGRES_SHARD_B_URL
+TMDB_API_READ_ACCESS_TOKEN="your_read_access_token"
+TMDB_API_KEY="your_api_key"
+POSTGRES_SHARD_A_URL="postgres://retrieval_user:retrieval_password@localhost:5433/retrieval"
+POSTGRES_SHARD_B_URL="postgres://retrieval_user:retrieval_password@localhost:5434/retrieval"
 ```
 
 ## Python Environment
@@ -336,6 +336,33 @@ Changing an embedding model, sparse model, source fields, text template,
 preprocessing rule, or cast limit creates a new embedding version. Different
 versions use separate Qdrant collections while preserving `movie_id` as the
 point ID.
+
+## Migration
+
+To run Diesel migration to a specific shard, use the following command:
+
+```bash
+diesel migration run --database-url $DATABASEURL
+```
+
+Confirm Diesel run status on a specific shard
+
+```bash
+diesel migration list --database-url $URL
+```
+
+Inspect actual tables
+
+```bash
+docker compose exec postgres-shard-a psql -U retrieval_user -d retrieval -c "\dt"
+docker compose exec postgres-shard-b psql -U retrieval_user -d retrieval -c "\dt"
+```
+
+Use `down.sql` to revert migrations if needed.
+
+```bash
+diesel migration revert --database-url $DATABASEURL
+```
 
 # Sharding
 

@@ -1,6 +1,6 @@
 {
   "schema_version": "1",
-  "partition_strategy": "industry",
+  "layout_strategy": "industry",
   "shard_id": "a",
   "input_checksum": "d6e947b67e2d1979cc7ff0ea3914168b62ae73f5b7f94159baa07af79794842d",
   "source_record_count": 11093,

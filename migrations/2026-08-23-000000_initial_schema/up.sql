@@ -85,7 +85,7 @@ CREATE TABLE ingestion_runs (
     input_checksum TEXT NOT NULL,
     source_record_count INTEGER NOT NULL,
     shard_record_count INTEGER NOT NULL,
-    partition_strategy TEXT NOT NULL,
+    layout_strategy TEXT NOT NULL,
     shard_id TEXT NOT NULL,
     status ingestion_status NOT NULL,
     started_at TIMESTAMPTZ NOT NULL,
@@ -93,7 +93,7 @@ CREATE TABLE ingestion_runs (
     details JSONB NOT NULL DEFAULT '{}',
     CHECK (source_record_count >= 0),
     CHECK (shard_record_count >= 0),
-    CHECK (partition_strategy IN ('hash', 'industry')),
+    CHECK (layout_strategy IN ('hash', 'industry')),
     CHECK (shard_id IN ('a', 'b')),
     CHECK (completed_at IS NULL OR completed_at >= started_at)
 );

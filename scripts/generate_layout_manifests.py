@@ -1,18 +1,18 @@
-"""Generate and validate reproducible two-shard partition manifests.
+"""Generate and validate reproducible two-shard layout manifests.
 
 Usage:
-    python scripts/generate_partitions.py
+    python scripts/generate_layout_manifests.py
         Generate both hash and industry manifests from the canonical dataset.
 
-    python scripts/generate_partitions.py --strategy hash
+    python scripts/generate_layout_manifests.py --strategy hash
         Generate only the hash manifests. Use "industry" for only the
         industry manifests.
 
-    python scripts/generate_partitions.py --input PATH --output-dir PATH
+    python scripts/generate_layout_manifests.py --input PATH --output-dir PATH
         Override the canonical dataset and manifest output locations.
 
 Default output:
-    data/processed/partitions/{strategy}/shard_{a,b}.json
+    data/processed/layouts/{strategy}/shard_{a,b}.json
 """
 
 import argparse
@@ -22,7 +22,7 @@ from pathlib import Path
 from typing import Any, Callable
 
 DEFAULT_INPUT_PATH = Path("data/processed/movies.json")
-DEFAULT_OUTPUT_DIR = Path("data/processed/partitions")
+DEFAULT_OUTPUT_DIR = Path("data/processed/layouts")
 SCHEMA_VERSION = "1"
 SHARD_IDS = ("a", "b")
 INDUSTRIES = {"hollywood", "bollywood", "other_or_ambiguous"}
@@ -32,7 +32,7 @@ ShardSelector = Callable[[JsonObject], str]
 
 
 def parse_args() -> argparse.Namespace:
-    """Parse paths and the partition strategy from the command line."""
+    """Parse paths and the layout strategy from the command line."""
     parser = argparse.ArgumentParser(
         description=__doc__,
         formatter_class=argparse.RawDescriptionHelpFormatter,
@@ -53,7 +53,7 @@ def parse_args() -> argparse.Namespace:
         "--strategy",
         choices=("all", "hash", "industry"),
         default="all",
-        help="partition strategy to generate (default: all)",
+        help="layout strategy to generate (default: all)",
     )
     return parser.parse_args()
 
@@ -71,7 +71,7 @@ def load_movies(input_path: Path) -> tuple[list[JsonObject], str]:
 
 
 def ensure_valid_source_movies(movies: list[JsonObject]) -> None:
-    """Reject records that cannot be partitioned reproducibly."""
+    """Reject records that cannot be assigned reproducibly."""
     movie_ids = []
 
     for index, movie in enumerate(movies):
@@ -100,45 +100,45 @@ def select_industry_shard(movie: JsonObject) -> str:
     return "a" if movie["industry"] == "hollywood" else "b"
 
 
-def partition_movies(
+def assign_movies_to_shards(
     movies: list[JsonObject],
     shard_selector: ShardSelector,
 ) -> dict[str, list[int]]:
-    """Partition movie IDs and verify complete, disjoint shard membership."""
-    partitions = {shard_id: [] for shard_id in SHARD_IDS}
+    """Assign movie IDs and verify complete, disjoint shard membership."""
+    shard_assignments = {shard_id: [] for shard_id in SHARD_IDS}
 
     for movie in movies:
         shard_id = shard_selector(movie)
-        if shard_id not in partitions:
-            raise ValueError(f"Partition selector returned invalid shard {shard_id!r}")
-        partitions[shard_id].append(movie["movie_id"])
+        if shard_id not in shard_assignments:
+            raise ValueError(f"Layout selector returned invalid shard {shard_id!r}")
+        shard_assignments[shard_id].append(movie["movie_id"])
 
-    for movie_ids in partitions.values():
+    for movie_ids in shard_assignments.values():
         movie_ids.sort()
 
-    ensure_complete_partition(movies, partitions)
-    return partitions
+    ensure_complete_layout(movies, shard_assignments)
+    return shard_assignments
 
 
-def ensure_complete_partition(
+def ensure_complete_layout(
     movies: list[JsonObject],
-    partitions: dict[str, list[int]],
+    shard_assignments: dict[str, list[int]],
 ) -> None:
     """Ensure shard ID sets are disjoint and cover the complete corpus."""
     source_ids = {movie["movie_id"] for movie in movies}
-    shard_a_ids = set(partitions["a"])
-    shard_b_ids = set(partitions["b"])
+    shard_a_ids = set(shard_assignments["a"])
+    shard_b_ids = set(shard_assignments["b"])
 
     overlap = shard_a_ids & shard_b_ids
     if overlap:
         raise ValueError(f"Shard manifests overlap on movie IDs: {sorted(overlap)}")
 
-    partitioned_ids = shard_a_ids | shard_b_ids
-    if partitioned_ids != source_ids:
-        missing = sorted(source_ids - partitioned_ids)
-        unexpected = sorted(partitioned_ids - source_ids)
+    assigned_ids = shard_a_ids | shard_b_ids
+    if assigned_ids != source_ids:
+        missing = sorted(source_ids - assigned_ids)
+        unexpected = sorted(assigned_ids - source_ids)
         raise ValueError(
-            f"Shard manifests do not cover the corpus; "
+            f"Layout manifests do not cover the corpus; "
             f"missing={missing}, unexpected={unexpected}"
         )
 
@@ -153,7 +153,7 @@ def build_manifest(
     """Build the stable manifest format consumed by database loaders."""
     return {
         "schema_version": SCHEMA_VERSION,
-        "partition_strategy": strategy,
+        "layout_strategy": strategy,
         "shard_id": shard_id,
         "input_checksum": source_checksum,
         "source_record_count": source_record_count,
@@ -164,7 +164,7 @@ def build_manifest(
 
 def write_strategy_manifests(
     strategy: str,
-    partitions: dict[str, list[int]],
+    shard_assignments: dict[str, list[int]],
     source_checksum: str,
     source_record_count: int,
     output_dir: Path,
@@ -177,7 +177,7 @@ def write_strategy_manifests(
         manifest = build_manifest(
             strategy,
             shard_id,
-            partitions[shard_id],
+            shard_assignments[shard_id],
             source_checksum,
             source_record_count,
         )
@@ -203,10 +203,10 @@ def main() -> None:
         requested_strategies = (args.strategy,)
 
     for strategy in requested_strategies:
-        partitions = partition_movies(movies, selectors[strategy])
+        shard_assignments = assign_movies_to_shards(movies, selectors[strategy])
         write_strategy_manifests(
             strategy,
-            partitions,
+            shard_assignments,
             source_checksum,
             len(movies),
             args.output_dir,

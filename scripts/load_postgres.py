@@ -3,13 +3,13 @@
 Dry-run usage does not import a PostgreSQL driver or connect to a database:
 
     python scripts/load_postgres.py \
-        --manifest data/processed/partitions/hash/shard_a.json \
+        --manifest data/processed/layouts/hash/shard_a.json \
         --dry-run
 
 Database usage requires ``psycopg`` and an explicit URL environment variable:
 
     python scripts/load_postgres.py \
-        --manifest data/processed/partitions/hash/shard_a.json \
+        --manifest data/processed/layouts/hash/shard_a.json \
         --database-url-env POSTGRES_SHARD_A_URL
 """
 
@@ -82,7 +82,7 @@ def prepare_shard_load(input_path: Path, manifest_path: Path) -> ShardLoad:
     if not isinstance(movies, list):
         raise ValueError("canonical corpus must be a JSON array")
     if not isinstance(manifest, dict):
-        raise ValueError("partition manifest must be a JSON object")
+        raise ValueError("layout manifest must be a JSON object")
 
     validate_movies(movies)
     validate_manifest(manifest, movies, input_bytes)
@@ -101,8 +101,8 @@ def validate_manifest(
     """Reject a manifest that does not exactly describe the canonical corpus."""
     if manifest.get("schema_version") != "1":
         raise ValueError("unsupported manifest schema version")
-    if manifest.get("partition_strategy") not in LAYOUT_SCHEMAS:
-        raise ValueError("manifest has an invalid partition strategy")
+    if manifest.get("layout_strategy") not in LAYOUT_SCHEMAS:
+        raise ValueError("manifest has an invalid layout strategy")
     if manifest.get("shard_id") not in SHARD_DATABASE_URL_ENV:
         raise ValueError("manifest has an invalid shard ID")
 
@@ -193,7 +193,7 @@ def load_postgres_shard(database_url: str, shard_load: ShardLoad) -> None:
             "psycopg is required for database loading; install scripts/requirements.txt"
         ) from error
 
-    schema = LAYOUT_SCHEMAS[shard_load.manifest["partition_strategy"]]
+    schema = LAYOUT_SCHEMAS[shard_load.manifest["layout_strategy"]]
     run_id = uuid.uuid4()
 
     with psycopg.connect(database_url) as connection:
@@ -226,7 +226,7 @@ def insert_ingestion_run(cursor: Any, run_id: uuid.UUID, manifest: JsonObject) -
         """
         INSERT INTO ingestion_runs (
             run_id, source_name, schema_version, input_checksum,
-            source_record_count, shard_record_count, partition_strategy,
+            source_record_count, shard_record_count, layout_strategy,
             shard_id, status, started_at
         ) VALUES (%s, 'movies.json', %s, %s, %s, %s, %s, %s,
                   'running', CURRENT_TIMESTAMP)
@@ -237,7 +237,7 @@ def insert_ingestion_run(cursor: Any, run_id: uuid.UUID, manifest: JsonObject) -
             manifest["input_checksum"],
             manifest["source_record_count"],
             manifest["shard_record_count"],
-            manifest["partition_strategy"],
+            manifest["layout_strategy"],
             manifest["shard_id"],
         ),
     )
@@ -414,7 +414,7 @@ def main() -> None:
     manifest = shard_load.manifest
     print(
         f"Validated {len(shard_load.movies)} movies for "
-        f"{manifest['partition_strategy']} shard {manifest['shard_id']} "
+        f"{manifest['layout_strategy']} shard {manifest['shard_id']} "
         f"(source: {manifest['input_checksum']})"
     )
 

@@ -1,10 +1,24 @@
 # Local Setup
 
-Get a TMDB API key and read access token. from https://developer.themoviedb.org/docs/getting-started
+Run the following steps from the repository root in the order shown.
+Install Docker Desktop, Python 3, and the Rust toolchain before starting. This
+sequence builds the canonical corpus, layout manifests, and PostgreSQL stores.
+Qdrant ingestion will be added in its own milestone.
 
-## Environment Variables
+## 1. Remove Existing Containers and Volumes
 
-Have the following environment variables.
+For a clean rebuild, remove the existing containers and their PostgreSQL and
+Qdrant data volumes. This permanently deletes the locally stored databases:
+
+```bash
+docker compose down --volumes --remove-orphans
+```
+
+## 2. Configure Environment Variables
+
+Get a TMDB API key and read access token from
+https://developer.themoviedb.org/docs/getting-started. Add these values and the
+local PostgreSQL connection URLs to `.env`:
 
 ```
 TMDB_API_READ_ACCESS_TOKEN="your_read_access_token"
@@ -13,9 +27,9 @@ POSTGRES_SHARD_A_URL="postgres://retrieval_user:retrieval_password@localhost:543
 POSTGRES_SHARD_B_URL="postgres://retrieval_user:retrieval_password@localhost:5434/retrieval"
 ```
 
-## Python Environment
+## 3. Create the Development Environment
 
-Create a local Python environment and install the dependencies.
+Create a local Python environment and install the Python dependencies:
 
 ```bash
 python -m venv venv
@@ -24,61 +38,143 @@ pip install -r scripts/requirements.txt
 pip install -r scripts/dev-requirements.txt
 ```
 
-## Docker
-
-Start all containers and network using Docker Compose:
+Install the Diesel CLI used by the relational-store build script:
 
 ```bash
-docker-compose up -d
+cargo install diesel_cli --version 2.3.12 --no-default-features --features postgres
+diesel --version
 ```
 
-Inspect status of all container and the network
+## 4. Build the Canonical Movie Corpus
 
-```bash
-docker-compose ps -a
-```
+> [!WARNING]
+> This step will fetch data from the TMDB API and overwrite any existing
+> canonical corpus. You only need to do this if you want fresh data. Use the
+> cached data at `data/raw` instead if you do not need fresh data.
 
-Stop all containers while retaining data volumes
-
-```bash
-docker-compose down --remove-orphans
-```
-
-# Testing
-
-Run the complete Python test suite from the repository root:
-
-```bash
-python -m pytest
-```
-
-To run one test module or one specific test, pass its path.
-
-```bash
-python -m pytest tests/python/scripts/test_fetch_data.py
-```
-
-Run the Rust tests and compile the Rust test targets with:
-
-```bash
-cargo test
-```
-
-The Python tests use temporary data and mocked TMDB responses, so they do not
-require API credentials or make network requests.
-
-# Data
-
-## Fetching Data
-
-Use `data/processed/movies.json` to fetch the movie corpus.
+Fetch and normalize the TMDB records into the canonical
+`data/processed/movies.json` file:
 
 ```bash
 python scripts/fetch_data.py
 ```
 
+If the raw TMDB detail cache is already present, the following command can be
+used instead to rebuild the same canonical artifact without network requests:
+
+```bash
+python scripts/fetch_data.py --from-cache
+```
+
+## 5. Generate the Layout Manifests
+
+Generate both hash and industry manifests from the canonical corpus.
+
+> [!NOTE]
+> Read more about the hash and industry layout in the
+> data model below.
+
+```bash
+python scripts/generate_layout_manifests.py
+```
+
+This writes the four manifests beneath `data/processed/layouts`. Each
+manifest records its source checksum, strategy, shard, and assigned movie IDs.
+
+## 6. Start the Database Containers
+
+> [!NOTE]
+> Make sure the Docker daemon is installed (using Docker Desktop) and running.
+
+Start all containers and network using Docker Compose:
+
+```bash
+docker compose up -d
+```
+
+Inspect status of all container and the network
+
+```bash
+docker compose ps -a
+```
+
+## 7. Build the PostgreSQL Relational Stores
+
+After Docker reports both PostgreSQL containers as healthy, create and migrate
+the `hash_layout` and `industry_layout` schemas on both shards:
+
+```bash
+python scripts/build_relational_store.py
+```
+
+This command creates both schemas on both PostgreSQL shards and runs
+`diesel migration run` once against each schema. No separate migration command
+is required.
+
+Load each manifest into its matching physical shard:
+
+```bash
+python scripts/load_postgres.py --manifest data/processed/layouts/hash/shard_a.json --database-url-env POSTGRES_SHARD_A_URL
+python scripts/load_postgres.py --manifest data/processed/layouts/hash/shard_b.json --database-url-env POSTGRES_SHARD_B_URL
+python scripts/load_postgres.py --manifest data/processed/layouts/industry/shard_a.json --database-url-env POSTGRES_SHARD_A_URL
+python scripts/load_postgres.py --manifest data/processed/layouts/industry/shard_b.json --database-url-env POSTGRES_SHARD_B_URL
+```
+
+Each load validates its manifest and corpus checksum before connecting, then
+transactionally replaces the selected layout schema. The expected movie counts
+are:
+
+> [!NOTE]
+> Read more about checksum below in layout manifests.
+
+| PostgreSQL shard | Layout            | Movies |
+| ---------------- | ----------------- | -----: |
+| A                | `hash_layout`     |  5,485 |
+| B                | `hash_layout`     |  5,608 |
+| A                | `industry_layout` |  9,559 |
+| B                | `industry_layout` |  1,534 |
+
+## 8. Verify the Build
+
+Run the Python tests:
+
+```bash
+python -m pytest
+```
+
+Compile the Rust application and run its tests:
+
+```bash
+cargo test
+```
+
+Confirm the loaded movie counts on PostgreSQL shard A:
+
+```bash
+docker compose exec -T postgres-shard-a psql -U retrieval_user -d retrieval -c "SELECT 'hash_layout' AS layout, (SELECT count(*) FROM hash_layout.movies) AS movies, (SELECT count(*) FROM hash_layout.ingestion_runs WHERE status = 'completed') AS completed_runs UNION ALL SELECT 'industry_layout', (SELECT count(*) FROM industry_layout.movies), (SELECT count(*) FROM industry_layout.ingestion_runs WHERE status = 'completed');"
+```
+
+Confirm the loaded movie counts on PostgreSQL shard B:
+
+```bash
+docker compose exec -T postgres-shard-b psql -U retrieval_user -d retrieval -c "SELECT 'hash_layout' AS layout, (SELECT count(*) FROM hash_layout.movies) AS movies, (SELECT count(*) FROM hash_layout.ingestion_runs WHERE status = 'completed') AS completed_runs UNION ALL SELECT 'industry_layout', (SELECT count(*) FROM industry_layout.movies), (SELECT count(*) FROM industry_layout.ingestion_runs WHERE status = 'completed');"
+```
+
+The expected counts are listed in step 7. The Python tests use temporary data
+and mocked TMDB responses, so they do not make network requests.
+
+To stop the system later while retaining its data volumes, run:
+
+```bash
+docker compose down --remove-orphans
+```
+
+# Data
+
+## Canonical Corpus
+
 - The target is 20,000 usable movies.
-- However, usage of the following filters determine the actual number of
+- However, the following filters determine the actual number of
   movies we are able to fetch.
 
 Filters
@@ -90,18 +186,10 @@ Filters
   - English
   - Hindi
 - Release Dates:
-  - 2020-01-01 to 2023-12-31
+  - 1990-01-01 to 2026-08-01
 - Minimum Vote Count:
   - 20
 - No adult and video content
-
-## Building from local cache
-
-To rebuild the processed dataset using only the existing detail files, run:
-
-```bash
-python scripts/fetch_data.py --from-cache --target-size 20000
-```
 
 - The cache-only mode makes no TMDB requests and does not require credentials.
 - Both modes normalize records in ascending TMDB movie-ID order, making repeated
@@ -110,30 +198,11 @@ python scripts/fetch_data.py --from-cache --target-size 20000
   overviews are excluded, and the output can therefore contain fewer records than
   the requested target.
 
-Run `python scripts/fetch_data.py --help` for the complete command help.
+## Layout Manifests
 
-## Generating Partition Manifests
-
-After producing `movies.json`, generate the hash and industry shard manifests:
-
-```bash
-python scripts/generate_partitions.py
-```
-
-The manifests are written beneath `data/processed/partitions`. They contain
-movie IDs and audit metadata; running this command does not load PostgreSQL or
-Qdrant. Generate only one strategy when needed:
-
-```bash
-python scripts/generate_partitions.py --strategy hash
-python scripts/generate_partitions.py --strategy industry
-```
-
-Custom paths are also supported:
-
-```bash
-python scripts/generate_partitions.py --input path/to/movies.json --output-dir path/to/partitions
-```
+The manifests are written beneath `data/processed/layouts`. They contain
+movie IDs and audit metadata; generating them does not load PostgreSQL or
+Qdrant.
 
 ### Manifest checksums
 
@@ -144,7 +213,7 @@ different version. Without this check, added, removed, or reordered movies
 could make the manifest and canonical records disagree while still producing
 apparently valid shard IDs.
 
-`generate_partitions.py` reads `movies.json` as raw bytes and calculates a
+`generate_layout_manifests.py` reads `movies.json` as raw bytes and calculates a
 SHA-256 digest:
 
 ```python
@@ -163,9 +232,6 @@ change to metadata or JSON formatting therefore creates a new checksum and
 requires regenerating the manifests. This is intentional: the checksum is a
 reproducibility and consistency guard, not merely a shard-membership check or a
 security signature.
-
-Run `python scripts/generate_partitions.py --help` for the complete command
-help.
 
 ## Data Model
 
@@ -265,7 +331,7 @@ CREATE TABLE ingestion_runs (
     input_checksum TEXT NOT NULL,
     source_record_count INTEGER NOT NULL,
     shard_record_count INTEGER NOT NULL,
-    partition_strategy TEXT NOT NULL,
+    layout_strategy TEXT NOT NULL,
     shard_id TEXT NOT NULL,
     status ingestion_status NOT NULL,
     started_at TIMESTAMPTZ NOT NULL,
@@ -273,7 +339,7 @@ CREATE TABLE ingestion_runs (
     details JSONB NOT NULL DEFAULT '{}',
     CHECK (source_record_count >= 0),
     CHECK (shard_record_count >= 0),
-    CHECK (partition_strategy IN ('hash', 'industry')),
+    CHECK (layout_strategy IN ('hash', 'industry')),
     CHECK (shard_id IN ('a', 'b')),
     CHECK (completed_at IS NULL OR completed_at >= started_at)
 );
@@ -290,7 +356,7 @@ CREATE TABLE ingestion_runs (
 input version and checksum, records shard counts and status, and supports
 reproducible experiments across both shards.
 
-`partition_strategy` identifies
+`layout_strategy` identifies
 the hash or industry layout, while `shard_id` identifies shard A or B without
 assuming that the strategy uses a numeric remainder.
 
@@ -366,44 +432,15 @@ preprocessing rule, or cast limit creates a new embedding version. Different
 versions use separate Qdrant collections while preserving `movie_id` as the
 point ID.
 
-## Migration
+## Persistent PostgreSQL Layouts
 
-To run Diesel migration to a specific shard, use the following command:
-
-```bash
-diesel migration run --database-url $DATABASEURL
-```
-
-Confirm Diesel run status on a specific shard
-
-```bash
-diesel migration list --database-url $URL
-```
-
-Inspect actual tables
-
-```bash
-docker compose exec postgres-shard-a psql -U retrieval_user -d retrieval -c "\dt"
-docker compose exec postgres-shard-b psql -U retrieval_user -d retrieval -c "\dt"
-```
-
-Use `down.sql` to revert migrations if needed.
-
-```bash
-diesel migration revert --database-url $DATABASEURL
-```
-
-### Preparing persistent PostgreSQL layouts
-
-Both partition strategies use the same two PostgreSQL containers but remain
+Both layout strategies use the same two PostgreSQL containers but remain
 available at the same time in separate schemas:
 
 ```text
 postgres-shard-a: hash_layout and industry_layout
 postgres-shard-b: hash_layout and industry_layout
 ```
-
-### Why we don't have separate containers/shards for each layout
 
 Separate containers could be given the same CPU, memory, and PostgreSQL
 settings. However, we keep both strategies in the same containers because:
@@ -423,39 +460,13 @@ settings. However, we keep both strategies in the same containers because:
 Both layouts are stored at the same time, but they will be benchmarked one at a
 time so they do not compete for the same resources during measurements.
 
-### Setting up PostgreSQL schemas for both layouts
+The relational-store build script uses Diesel for migration history and applies
+the same finalized migration independently within each schema, as shown in the
+Local Setup sequence.
 
-After both PostgreSQL containers are running, create both schemas on each shard
-and run the existing Diesel migration once per schema:
+### Loader behavior
 
-```bash
-python scripts/setup_postgres_layouts.py
-```
-
-This is a later database operation and is deliberately separate from offline
-loader validation. The wrapper uses Diesel for migration history and applies
-the same finalized migration independently within each schema.
-
-### Validating and loading PostgreSQL shards
-
-Validate a corpus/manifest pair without connecting to PostgreSQL:
-
-```bash
-python scripts/load_postgres.py \
-  --manifest data/processed/partitions/hash/shard_a.json \
-  --dry-run
-```
-
-Omit `--dry-run` and name the destination URL environment variable only when a
-database load is intended:
-
-```bash
-python scripts/load_postgres.py \
-  --manifest data/processed/partitions/hash/shard_a.json \
-  --database-url-env POSTGRES_SHARD_A_URL
-```
-
-Run the loader once for each of the four manifests. The manifest strategy
+The loader runs once for each of the four manifests. The manifest strategy
 selects `hash_layout` or `industry_layout`, while the URL selects physical
 shard A or B. The loader verifies the source checksum and counts before it
 connects, then clears and rebuilds that one schema inside a transaction. A

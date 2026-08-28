@@ -157,8 +157,7 @@ def discovery_cache_dir(raw_dir: Path, country: str, language: str) -> Path:
         sort_keys=True,
         separators=(",", ":"),
     )
-    query_hash = hashlib.sha256(
-        serialized_query.encode("utf-8")).hexdigest()[:12]
+    query_hash = hashlib.sha256(serialized_query.encode("utf-8")).hexdigest()[:12]
     return raw_dir / f"{country}-{language}" / query_hash
 
 
@@ -314,8 +313,7 @@ def discover_candidates(
 ) -> dict[int, JsonObject]:
     """Discover configured groups and deduplicate candidates by stable ID."""
     discovery_groups = (
-        discover_movies(client, country, language,
-                        max_pages_per_group, raw_dir)
+        discover_movies(client, country, language, max_pages_per_group, raw_dir)
         for country, language in DISCOVERY_GROUPS
     )
     return {

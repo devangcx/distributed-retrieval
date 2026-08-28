@@ -7,7 +7,7 @@ from pathlib import Path
 import pytest
 
 from scripts.load_postgres import database_industry, prepare_shard_load, replace_shard
-from scripts.setup_postgres_layouts import run_diesel_migrations
+from scripts.build_relational_store import run_diesel_migrations
 
 
 def movie(movie_id: int = 10) -> dict[str, object]:
@@ -44,7 +44,7 @@ def write_artifacts(
         json.dumps(
             {
                 "schema_version": "1",
-                "partition_strategy": "hash",
+                "layout_strategy": "hash",
                 "shard_id": "a",
                 "input_checksum": hashlib.sha256(input_bytes).hexdigest(),
                 "source_record_count": len(movies),
@@ -111,7 +111,7 @@ def test_run_diesel_migrations_targets_schema_through_environment(
         captured["command"] = command
         captured["options"] = options
 
-    monkeypatch.setattr("scripts.setup_postgres_layouts.subprocess.run", fake_run)
+    monkeypatch.setattr("scripts.build_relational_store.subprocess.run", fake_run)
 
     # Act
     run_diesel_migrations("postgresql://secret", "hash_layout")

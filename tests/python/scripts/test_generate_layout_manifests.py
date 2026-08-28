@@ -1,4 +1,4 @@
-"""Unit tests for deterministic shard partitioning."""
+"""Unit tests for deterministic layout-manifest generation."""
 
 import hashlib
 import json
@@ -6,11 +6,11 @@ from pathlib import Path
 
 import pytest
 
-from scripts.generate_partitions import (
+from scripts.generate_layout_manifests import (
+    assign_movies_to_shards,
     build_manifest,
     ensure_valid_source_movies,
     load_movies,
-    partition_movies,
     select_hash_shard,
     select_industry_shard,
     write_strategy_manifests,
@@ -18,7 +18,7 @@ from scripts.generate_partitions import (
 
 
 def build_movies() -> list[dict[str, object]]:
-    """Return a small corpus spanning both partition strategies."""
+    """Return a small corpus spanning both layout strategies."""
     return [
         {"movie_id": 2, "industry": "hollywood"},
         {"movie_id": 3, "industry": "bollywood"},
@@ -26,28 +26,28 @@ def build_movies() -> list[dict[str, object]]:
     ]
 
 
-def test_hash_partition_uses_movie_id_parity() -> None:
-    """Hash partitioning assigns even IDs to A and odd IDs to B."""
+def test_hash_layout_uses_movie_id_parity() -> None:
+    """The hash layout assigns even IDs to A and odd IDs to B."""
     # Arrange
     movies = build_movies()
 
     # Act
-    partitions = partition_movies(movies, select_hash_shard)
+    shard_assignments = assign_movies_to_shards(movies, select_hash_shard)
 
     # Assert
-    assert partitions == {"a": [2, 4], "b": [3]}
+    assert shard_assignments == {"a": [2, 4], "b": [3]}
 
 
-def test_industry_partition_routes_only_hollywood_to_a() -> None:
-    """Industry partitioning assigns only Hollywood movies to A."""
+def test_industry_layout_routes_only_hollywood_to_a() -> None:
+    """The industry layout assigns only Hollywood movies to A."""
     # Arrange
     movies = build_movies()
 
     # Act
-    partitions = partition_movies(movies, select_industry_shard)
+    shard_assignments = assign_movies_to_shards(movies, select_industry_shard)
 
     # Assert
-    assert partitions == {"a": [2], "b": [3, 4]}
+    assert shard_assignments == {"a": [2], "b": [3, 4]}
 
 
 def test_duplicate_movie_ids_are_rejected() -> None:
@@ -65,7 +65,7 @@ def test_duplicate_movie_ids_are_rejected() -> None:
 
 
 def test_invalid_industry_is_rejected() -> None:
-    """Unsupported industry values fail before partitioning."""
+    """Unsupported industry values fail before shard assignment."""
     # Arrange
     movies = [{"movie_id": 1, "industry": "unknown"}]
 
@@ -103,7 +103,7 @@ def test_build_manifest_records_counts_and_assignment_metadata() -> None:
     # Assert
     assert manifest == {
         "schema_version": "1",
-        "partition_strategy": "hash",
+        "layout_strategy": "hash",
         "shard_id": "a",
         "input_checksum": "checksum",
         "source_record_count": 3,
@@ -115,10 +115,12 @@ def test_build_manifest_records_counts_and_assignment_metadata() -> None:
 def test_write_strategy_manifests_writes_both_shards(tmp_path: Path) -> None:
     """Writing a strategy produces one readable manifest per shard."""
     # Arrange
-    partitions = {"a": [2, 4], "b": [3]}
+    shard_assignments = {"a": [2, 4], "b": [3]}
 
     # Act
-    write_strategy_manifests("hash", partitions, "checksum", 3, tmp_path)
+    write_strategy_manifests(
+        "hash", shard_assignments, "checksum", 3, tmp_path
+    )
     shard_a = json.loads((tmp_path / "hash" / "shard_a.json").read_text())
     shard_b = json.loads((tmp_path / "hash" / "shard_b.json").read_text())
 

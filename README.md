@@ -5,20 +5,14 @@ After cloning, run the remaining steps from the repository root in the order
 shown. This sequence builds the canonical corpus, layout manifests, and
 PostgreSQL stores. Qdrant ingestion will be added in its own milestone.
 
+If you already have cached data, directly start at `Remove Existing Containers and Volumes`
+step.
+
 ## Clone the Repository
 
 ```bash
 git clone https://github.com/devangcx/distributed-retrieval.git
 cd distributed-retrieval
-```
-
-## Remove Existing Containers and Volumes
-
-For a clean rebuild, remove the existing containers and their PostgreSQL and
-Qdrant data volumes. This permanently deletes the locally stored databases:
-
-```bash
-docker compose down --volumes --remove-orphans
 ```
 
 ## Configure Environment Variables
@@ -99,6 +93,15 @@ python scripts/generate_layout_manifests.py
 This writes the four manifests beneath `data/processed/layouts`. Each
 manifest records its source checksum, strategy, shard, and assigned movie IDs.
 
+## Remove Existing Containers and Volumes
+
+For a clean rebuild, remove the existing containers and their PostgreSQL and
+Qdrant data volumes. This permanently deletes the locally stored databases:
+
+```bash
+docker compose down --volumes --remove-orphans
+```
+
 ## Start the Database Containers
 
 > [!NOTE]
@@ -139,24 +142,19 @@ Load each manifest into its matching physical shard:
 
 ```bash
 python scripts/load_postgres.py --manifest data/processed/layouts/hash/shard_a.json --database-url-env POSTGRES_SHARD_A_URL
-python scripts/load_postgres.py --manifest data/processed/layouts/hash/shard_b.json --database-url-env POSTGRES_SHARD_B_URL
-python scripts/load_postgres.py --manifest data/processed/layouts/industry/shard_a.json --database-url-env POSTGRES_SHARD_A_URL
-python scripts/load_postgres.py --manifest data/processed/layouts/industry/shard_b.json --database-url-env POSTGRES_SHARD_B_URL
 ```
 
-Each load validates its manifest and corpus checksum before connecting, then
-transactionally replaces the selected layout schema. The expected movie counts
-are:
+```bash
+python scripts/load_postgres.py --manifest data/processed/layouts/hash/shard_b.json --database-url-env POSTGRES_SHARD_B_URL
+```
 
-> [!NOTE]
-> Read more about checksum below in layout manifests.
+```bash
+python scripts/load_postgres.py --manifest data/processed/layouts/industry/shard_a.json --database-url-env POSTGRES_SHARD_A_URL
+```
 
-| PostgreSQL shard | Layout            | Movies |
-| ---------------- | ----------------- | -----: |
-| A                | `hash_layout`     |  5,485 |
-| B                | `hash_layout`     |  5,608 |
-| A                | `industry_layout` |  9,559 |
-| B                | `industry_layout` |  1,534 |
+```bash
+python scripts/load_postgres.py --manifest data/processed/layouts/industry/shard_b.json --database-url-env POSTGRES_SHARD_B_URL
+```
 
 ## Verify the Build
 
@@ -208,9 +206,19 @@ SELECT
 "
 ```
 
-The expected counts are listed under "Build the PostgreSQL Relational Stores."
-The Python tests use temporary data and mocked TMDB responses, so they do not
-make network requests.
+Each load validates its manifest and corpus checksum before connecting, then
+transactionally replaces the selected layout schema. The expected movie counts
+are:
+
+> [!NOTE]
+> Read more about checksum below in layout manifests.
+
+| PostgreSQL shard | Layout            | Movies |
+| ---------------- | ----------------- | -----: |
+| A                | `hash_layout`     |  5,485 |
+| A                | `industry_layout` |  9,559 |
+| B                | `hash_layout`     |  5,608 |
+| B                | `industry_layout` |  1,534 |
 
 To stop the system later while retaining its data volumes, run:
 
@@ -222,9 +230,8 @@ docker compose down --remove-orphans
 
 ## Canonical Corpus
 
-- The target is 20,000 usable movies.
-- However, the following filters determine the actual number of
-  movies we are able to fetch.
+The target is 20,000 usable movies. However, the following filters determine
+the actual number of movies we are able to fetch.
 
 Filters
 
@@ -239,8 +246,6 @@ Filters
 - Minimum Vote Count:
   - 20
 - No adult and video content
-
-- The cache-only mode makes no TMDB requests and does not require credentials.
 - Both modes normalize records in ascending TMDB movie-ID order, making repeated
   runs against the same raw cache deterministic.
 - Movies with blank titles or

@@ -7,7 +7,7 @@ from pathlib import Path
 import pytest
 
 from scripts.load_postgres import database_industry, prepare_shard_load, replace_shard
-from scripts.build_relational_store import run_diesel_migrations
+from scripts.initiate_relational_schema import run_diesel_migrations
 
 
 def movie(movie_id: int = 10) -> dict[str, object]:
@@ -111,7 +111,9 @@ def test_run_diesel_migrations_targets_schema_through_environment(
         captured["command"] = command
         captured["options"] = options
 
-    monkeypatch.setattr("scripts.build_relational_store.subprocess.run", fake_run)
+    monkeypatch.setattr(
+        "scripts.initiate_relational_schema.subprocess.run", fake_run
+    )
 
     # Act
     run_diesel_migrations("postgresql://secret", "hash_layout")

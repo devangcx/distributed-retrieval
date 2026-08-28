@@ -45,7 +45,7 @@ pip install -r scripts/requirements.txt
 pip install -r scripts/dev-requirements.txt
 ```
 
-Install the Diesel CLI used by the relational-store build script:
+Install the Diesel CLI used by the relational-schema initialization script:
 
 ```bash
 cargo install diesel_cli --version 2.3.12 --no-default-features --features postgres
@@ -122,7 +122,7 @@ After Docker reports both PostgreSQL containers as healthy, create and migrate
 the `hash_layout` and `industry_layout` schemas on both shards:
 
 ```bash
-python scripts/build_relational_store.py
+python scripts/initiate_relational_schema.py
 ```
 
 This command creates both schemas on both PostgreSQL shards and runs

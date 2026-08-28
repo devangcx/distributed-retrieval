@@ -52,6 +52,12 @@ diesel --version
 > canonical corpus. You only need to do this if you want fresh data. Use the
 > cached data at `data/raw` instead if you do not need fresh data.
 
+View the available corpus options:
+
+```bash
+python scripts/fetch_data.py --help
+```
+
 Fetch and normalize the TMDB records into the canonical
 `data/processed/movies.json` file:
 
@@ -73,6 +79,12 @@ Generate both hash and industry manifests from the canonical corpus.
 > [!NOTE]
 > Read more about the hash and industry layout in the
 > data model below.
+
+View the available manifest-generation options:
+
+```bash
+python scripts/generate_layout_manifests.py --help
+```
 
 ```bash
 python scripts/generate_layout_manifests.py
@@ -110,6 +122,12 @@ python scripts/build_relational_store.py
 This command creates both schemas on both PostgreSQL shards and runs
 `diesel migration run` once against each schema. No separate migration command
 is required.
+
+View the available loader options:
+
+```bash
+python scripts/load_postgres.py --help
+```
 
 Load each manifest into its matching physical shard:
 
@@ -151,13 +169,37 @@ cargo test
 Confirm the loaded movie counts on PostgreSQL shard A:
 
 ```bash
-docker compose exec -T postgres-shard-a psql -U retrieval_user -d retrieval -c "SELECT 'hash_layout' AS layout, (SELECT count(*) FROM hash_layout.movies) AS movies, (SELECT count(*) FROM hash_layout.ingestion_runs WHERE status = 'completed') AS completed_runs UNION ALL SELECT 'industry_layout', (SELECT count(*) FROM industry_layout.movies), (SELECT count(*) FROM industry_layout.ingestion_runs WHERE status = 'completed');"
+docker compose exec -T postgres-shard-a psql -U retrieval_user -d retrieval -c "
+SELECT
+    'hash_layout' AS layout,
+    (SELECT count(*) FROM hash_layout.movies) AS movies,
+    (SELECT count(*) FROM hash_layout.ingestion_runs
+        WHERE status = 'completed') AS completed_runs
+UNION ALL
+SELECT
+    'industry_layout',
+    (SELECT count(*) FROM industry_layout.movies),
+    (SELECT count(*) FROM industry_layout.ingestion_runs
+        WHERE status = 'completed');
+"
 ```
 
 Confirm the loaded movie counts on PostgreSQL shard B:
 
 ```bash
-docker compose exec -T postgres-shard-b psql -U retrieval_user -d retrieval -c "SELECT 'hash_layout' AS layout, (SELECT count(*) FROM hash_layout.movies) AS movies, (SELECT count(*) FROM hash_layout.ingestion_runs WHERE status = 'completed') AS completed_runs UNION ALL SELECT 'industry_layout', (SELECT count(*) FROM industry_layout.movies), (SELECT count(*) FROM industry_layout.ingestion_runs WHERE status = 'completed');"
+docker compose exec -T postgres-shard-b psql -U retrieval_user -d retrieval -c "
+SELECT
+    'hash_layout' AS layout,
+    (SELECT count(*) FROM hash_layout.movies) AS movies,
+    (SELECT count(*) FROM hash_layout.ingestion_runs
+        WHERE status = 'completed') AS completed_runs
+UNION ALL
+SELECT
+    'industry_layout',
+    (SELECT count(*) FROM industry_layout.movies),
+    (SELECT count(*) FROM industry_layout.ingestion_runs
+        WHERE status = 'completed');
+"
 ```
 
 The expected counts are listed in step 7. The Python tests use temporary data
@@ -204,6 +246,46 @@ The manifests are written beneath `data/processed/layouts`. They contain
 movie IDs and audit metadata; generating them does not load PostgreSQL or
 Qdrant.
 
+### Layout strategies
+
+The experiments compare two ways of assigning the same 11,093 movies across
+two shards:
+
+```text
+Hash layout
+  shard A: even movie IDs
+  shard B: odd movie IDs
+
+Industry layout
+  shard A: Hollywood
+  shard B: Bollywood and other_or_ambiguous
+```
+
+The hash layout produces similarly sized shards. The industry layout groups movies
+by domain metadata and deliberately produces an imbalanced distribution. Each
+strategy generates one manifest for shard A and one for shard B.
+Within a strategy, the two manifests are disjoint and together cover the
+complete canonical corpus.
+
+A movie's PostgreSQL rows and future Qdrant point always use the same manifest
+assignment. The two layouts are never mixed within a PostgreSQL schema or
+Qdrant collection.
+
+### Persistent storage
+
+Both layouts remain available at the same time in separate schemas on the same
+two PostgreSQL containers:
+
+```text
+postgres-shard-a: hash_layout and industry_layout
+postgres-shard-b: hash_layout and industry_layout
+```
+
+Using the same containers holds PostgreSQL configuration and host resource
+conditions constant between strategies. Separate schemas isolate the layouts
+without doubling the container count. Both layouts remain stored, but they are
+benchmarked one at a time so they do not compete during measurements.
+
 ### Manifest checksums
 
 Every manifest contains an `input_checksum` identifying the exact
@@ -232,6 +314,19 @@ change to metadata or JSON formatting therefore creates a new checksum and
 requires regenerating the manifests. This is intentional: the checksum is a
 reproducibility and consistency guard, not merely a shard-membership check or a
 security signature.
+
+### Loader behavior
+
+The loader runs once for each layout manifest. The manifest's strategy selects
+`hash_layout` or `industry_layout`, while its shard ID determines whether the
+destination is physical shard A or B. Before connecting, the loader verifies
+the source checksum, corpus count, manifest count, and movie IDs.
+
+Each load transactionally clears and rebuilds only its selected layout schema.
+A failure rolls back the replacement without changing the other layout.
+
+At the loader boundary, canonical `other_or_ambiguous` industry values map to
+the PostgreSQL enum value `other`; the source JSON is not rewritten.
 
 ## Data Model
 
@@ -431,76 +526,3 @@ Changing an embedding model, sparse model, source fields, text template,
 preprocessing rule, or cast limit creates a new embedding version. Different
 versions use separate Qdrant collections while preserving `movie_id` as the
 point ID.
-
-## Persistent PostgreSQL Layouts
-
-Both layout strategies use the same two PostgreSQL containers but remain
-available at the same time in separate schemas:
-
-```text
-postgres-shard-a: hash_layout and industry_layout
-postgres-shard-b: hash_layout and industry_layout
-```
-
-Separate containers could be given the same CPU, memory, and PostgreSQL
-settings. However, we keep both strategies in the same containers because:
-
-- Using the exact same PostgreSQL instances reduces the chance of configuration
-  differences between the strategies.
-- Separate containers and volumes can have different cache and disk states.
-- Running eight containers together would create more competition for the
-  host's CPU, memory, and disk.
-- The dataset is small enough for both layouts to share the existing
-  containers.
-- Separate schemas keep the layouts isolated while allowing both to remain
-  available.
-- The Rust orchestrator can switch schemas instead of rebuilding the database.
-- Four containers are simpler to run and monitor than eight.
-
-Both layouts are stored at the same time, but they will be benchmarked one at a
-time so they do not compete for the same resources during measurements.
-
-The relational-store build script uses Diesel for migration history and applies
-the same finalized migration independently within each schema, as shown in the
-Local Setup sequence.
-
-### Loader behavior
-
-The loader runs once for each of the four manifests. The manifest strategy
-selects `hash_layout` or `industry_layout`, while the URL selects physical
-shard A or B. The loader verifies the source checksum and counts before it
-connects, then clears and rebuilds that one schema inside a transaction. A
-failure rolls back the transaction, and loading one schema does not change the
-other layout.
-
-This project uses a fixed experimental corpus and plans one final ingestion,
-so the loader deliberately performs full replacement instead of maintaining
-incremental reconciliation logic. This keeps the ingestion path smaller and
-easier to reproduce before development moves to the Rust orchestrator.
-
-The canonical industry label `other_or_ambiguous` is explicitly mapped to the
-finalized PostgreSQL enum label `other` at the loader boundary. The source JSON
-is not rewritten.
-
-# Sharding
-
-Two strategies will be evaluated while holding the shard count at two:
-
-```text
-Hash layout
-  shard A: even movie IDs
-  shard B: odd movie IDs
-
-Industry layout
-  shard A: Hollywood
-  shard B: Bollywood and other_or_ambiguous
-```
-
-- The layouts are not mixed within a schema or Qdrant collection.
-- Both layouts remain available simultaneously on the same four containers.
-  Each PostgreSQL shard contains separate `hash_layout` and `industry_layout`
-  schemas. Each Qdrant shard will use separate collections for the two layouts.
-  This keeps the datasets persistent while giving both strategies the same
-  container resources.
-- A movie's PostgreSQL rows and Qdrant point always use the
-  same shard assignment.

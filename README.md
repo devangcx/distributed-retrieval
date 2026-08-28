@@ -1,11 +1,18 @@
 # Local Setup
 
-Run the following steps from the repository root in the order shown.
-Install Docker Desktop, Python 3, and the Rust toolchain before starting. This
-sequence builds the canonical corpus, layout manifests, and PostgreSQL stores.
-Qdrant ingestion will be added in its own milestone.
+Install Git, Docker Desktop, Python 3, and the Rust toolchain before starting.
+After cloning, run the remaining steps from the repository root in the order
+shown. This sequence builds the canonical corpus, layout manifests, and
+PostgreSQL stores. Qdrant ingestion will be added in its own milestone.
 
-## 1. Remove Existing Containers and Volumes
+## Clone the Repository
+
+```bash
+git clone https://github.com/devangcx/distributed-retrieval.git
+cd distributed-retrieval
+```
+
+## Remove Existing Containers and Volumes
 
 For a clean rebuild, remove the existing containers and their PostgreSQL and
 Qdrant data volumes. This permanently deletes the locally stored databases:
@@ -14,7 +21,7 @@ Qdrant data volumes. This permanently deletes the locally stored databases:
 docker compose down --volumes --remove-orphans
 ```
 
-## 2. Configure Environment Variables
+## Configure Environment Variables
 
 Get a TMDB API key and read access token from
 https://developer.themoviedb.org/docs/getting-started. Add these values and the
@@ -27,7 +34,7 @@ POSTGRES_SHARD_A_URL="postgres://retrieval_user:retrieval_password@localhost:543
 POSTGRES_SHARD_B_URL="postgres://retrieval_user:retrieval_password@localhost:5434/retrieval"
 ```
 
-## 3. Create the Development Environment
+## Create the Development Environment
 
 Create a local Python environment and install the Python dependencies:
 
@@ -45,7 +52,7 @@ cargo install diesel_cli --version 2.3.12 --no-default-features --features postg
 diesel --version
 ```
 
-## 4. Build the Canonical Movie Corpus
+## Build the Canonical Movie Corpus
 
 > [!WARNING]
 > This step will fetch data from the TMDB API and overwrite any existing
@@ -72,13 +79,12 @@ used instead to rebuild the same canonical artifact without network requests:
 python scripts/fetch_data.py --from-cache
 ```
 
-## 5. Generate the Layout Manifests
+## Generate the Layout Manifests
 
 Generate both hash and industry manifests from the canonical corpus.
 
 > [!NOTE]
-> Read more about the hash and industry layout in the
-> data model below.
+> Read more about the hash and industry layout in the layout manifests section.
 
 View the available manifest-generation options:
 
@@ -93,7 +99,7 @@ python scripts/generate_layout_manifests.py
 This writes the four manifests beneath `data/processed/layouts`. Each
 manifest records its source checksum, strategy, shard, and assigned movie IDs.
 
-## 6. Start the Database Containers
+## Start the Database Containers
 
 > [!NOTE]
 > Make sure the Docker daemon is installed (using Docker Desktop) and running.
@@ -110,7 +116,7 @@ Inspect status of all container and the network
 docker compose ps -a
 ```
 
-## 7. Build the PostgreSQL Relational Stores
+## Build the PostgreSQL Relational Stores
 
 After Docker reports both PostgreSQL containers as healthy, create and migrate
 the `hash_layout` and `industry_layout` schemas on both shards:
@@ -152,7 +158,7 @@ are:
 | A                | `industry_layout` |  9,559 |
 | B                | `industry_layout` |  1,534 |
 
-## 8. Verify the Build
+## Verify the Build
 
 Run the Python tests:
 
@@ -202,8 +208,9 @@ SELECT
 "
 ```
 
-The expected counts are listed in step 7. The Python tests use temporary data
-and mocked TMDB responses, so they do not make network requests.
+The expected counts are listed under "Build the PostgreSQL Relational Stores."
+The Python tests use temporary data and mocked TMDB responses, so they do not
+make network requests.
 
 To stop the system later while retaining its data volumes, run:
 

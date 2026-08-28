@@ -10,7 +10,10 @@ import subprocess
 from dotenv import load_dotenv
 
 LAYOUT_SCHEMAS = ("hash_layout", "industry_layout")
-SHARD_DATABASE_URL_ENV = ("POSTGRES_SHARD_A_URL", "POSTGRES_SHARD_B_URL")
+DATABASE_URL_ENVIRONMENTS = (
+    "POSTGRES_SHARD_A_URL",
+    "POSTGRES_SHARD_B_URL",
+)
 
 
 def create_schema(database_url: str, schema: str) -> None:
@@ -44,19 +47,32 @@ def run_diesel_migrations(database_url: str, schema: str) -> None:
     )
 
 
-def main() -> None:
-    """Prepare both layout schemas on both physical PostgreSQL shards."""
-    load_dotenv()
-    for db_url in SHARD_DATABASE_URL_ENV:
-        database_url = os.getenv(db_url)
+def read_database_urls() -> dict[str, str]:
+    """Read both required shard URLs without exposing their values."""
+    database_urls = {}
+    for environment_name in DATABASE_URL_ENVIRONMENTS:
+        database_url = os.getenv(environment_name)
         if not database_url:
             raise RuntimeError(
-                f"environment variable {db_url} is missing"
+                f"environment variable {environment_name} is missing"
             )
+        database_urls[environment_name] = database_url
+    return database_urls
+
+
+def initiate_relational_schemas(database_urls: dict[str, str]) -> None:
+    """Create and migrate both layouts on both physical shards."""
+    for environment_name, database_url in database_urls.items():
         for schema in LAYOUT_SCHEMAS:
             create_schema(database_url, schema)
             run_diesel_migrations(database_url, schema)
-            print(f"Prepared {schema} using {db_url}")
+            print(f"Prepared {schema} using {environment_name}")
+
+
+def main() -> None:
+    """Prepare both layout schemas on both physical PostgreSQL shards."""
+    load_dotenv()
+    initiate_relational_schemas(read_database_urls())
 
 
 if __name__ == "__main__":

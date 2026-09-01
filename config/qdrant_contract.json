@@ -1,0 +1,18 @@
+{
+  "contract_version": "movie-retrieval-v1",
+  "dense_model": "text-embedding-3-large",
+  "dense_dimensions": 1024,
+  "dense_distance": "cosine",
+  "sparse_model": "Qdrant/bm25",
+  "sparse_modifier": "idf",
+  "cast_limit": 10,
+  "collections": {
+    "hash": "movies_hash_v1",
+    "industry": "movies_industry_v1"
+  },
+  "vectors": {
+    "overview_dense": "canonical overview",
+    "full_document_dense": "full movie document",
+    "metadata_sparse": "movie metadata without overview"
+  }
+}

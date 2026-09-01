@@ -1,9 +1,9 @@
 # Local Setup
 
-Install Git, Docker Desktop, Python 3, and the Rust toolchain before starting.
+Install Git, Docker Desktop, Python 3.12, and the Rust toolchain before starting.
 After cloning, run the remaining steps from the repository root in the order
-shown. This sequence builds the canonical corpus, layout manifests, and
-PostgreSQL stores. Qdrant ingestion will be added in its own milestone.
+shown. This sequence builds the canonical corpus, layout manifests,
+PostgreSQL stores, and Qdrant stores.
 
 If you already have cached data, directly start at `Remove Existing Containers and Volumes`
 step.
@@ -18,14 +18,18 @@ cd distributed-retrieval
 ## Configure Environment Variables
 
 Get a TMDB API key and read access token from
-https://developer.themoviedb.org/docs/getting-started. Add these values and the
-local PostgreSQL connection URLs to `.env`:
+https://developer.themoviedb.org/docs/getting-started, and add an OpenAI API
+key before Qdrant ingestion. Keep the local database URLs unchanged unless
+their Compose ports have been changed.
 
 ```
 TMDB_API_READ_ACCESS_TOKEN="your_read_access_token"
 TMDB_API_KEY="your_api_key"
 POSTGRES_SHARD_A_URL="postgres://retrieval_user:retrieval_password@localhost:5433/retrieval"
 POSTGRES_SHARD_B_URL="postgres://retrieval_user:retrieval_password@localhost:5434/retrieval"
+QDRANT_SHARD_A_URL="http://localhost:6333"
+QDRANT_SHARD_B_URL="http://localhost:6335"
+OPENAI_API_KEY="your_openai_api_key"
 ```
 
 ## Create the Development Environment
@@ -219,6 +223,51 @@ are:
 | A                | `industry_layout` |  9,559 |
 | B                | `hash_layout`     |  5,608 |
 | B                | `industry_layout` |  1,534 |
+
+## Build the Qdrant Vector Stores
+
+The versioned vector settings are recorded in
+`config/qdrant_contract.json`. Validate the contract, canonical corpus, and all
+four layout manifests without contacting OpenAI or Qdrant:
+
+```bash
+python -m scripts.load_qdrant
+```
+
+The validation reports 11,093 unique movies and 22,186 dense input texts: one
+overview and one full document per movie.
+
+After both Qdrant containers are running and the API key has been configured,
+create and populate all four collections:
+
+```bash
+python -m scripts.load_qdrant --execute
+```
+
+The loader embeds each canonical movie once and routes the resulting point to
+both layouts using only the validated manifest assignments:
+
+| Qdrant shard | Collection           | Expected points |
+| ------------ | -------------------- | --------------: |
+| A            | `movies_hash_v1`     |           5,485 |
+| B            | `movies_hash_v1`     |           5,608 |
+| A            | `movies_industry_v1` |           9,559 |
+| B            | `movies_industry_v1` |           1,534 |
+
+The loader refuses to replace an existing collection. It count-verifies every
+collection after ingestion and reports the paid OpenAI token total returned by
+the embeddings API.
+
+Paid dense embeddings are preserved beneath
+`data/processed/embeddings/movie-retrieval-v1/` as two little-endian float32
+files plus checksummed metadata. These artifacts are committed so a clone can
+rebuild Qdrant without another OpenAI request.
+
+The two binary files remain
+separate so each stays below GitHub's individual-file size limit.
+
+BM25 vectors
+are regenerated locally because they do not incur an API charge.
 
 To stop the system later while retaining its data volumes, run:
 
@@ -518,6 +567,31 @@ full_document_dense
 - Dense vectors use cosine distance.
 - Reciprocal Rank Fusion is the candidate for fusion between dense and sparse results.
 
+Dense vectors use OpenAI `text-embedding-3-large` shortened through the API to
+1,024 dimensions.
+
+Sparse vectors use FastEmbed `Qdrant/bm25`, with Qdrant's IDF
+modifier enabled at collection creation.
+
+The deterministic template normalizes surrounding and repeated whitespace but
+preserves case and punctuation. Missing scalar values use `[unknown]`; empty
+lists use `[none]`. Canonical list order is preserved.
+
+```text
+Title: {title}
+Original title: {original_title}
+Release year: {release_year}
+Genres: {genre names}
+Industry: {industry}
+Countries: {country names}
+Directors: {director names}
+Cast: {actor name as character}
+Overview: {overview}
+```
+
+`full_document_dense` uses the complete template. `metadata_sparse` omits the
+overview line, while `overview_dense` contains only the normalized overview.
+
 #### Qdrant payload
 
 ```text
@@ -526,10 +600,15 @@ release_year   integer
 genre_ids      integer array
 industry       keyword
 country_codes  keyword array
+layout_strategy keyword
+shard_id        keyword
+embedding_version keyword
+source_checksum keyword
 ```
 
-- These fields receive payload indexes and provide hard filters during vector
-  search.
+- `release_year`, `genre_ids`, `industry`, and `country_codes` receive payload
+  indexes and provide hard filters during vector search. `movie_id` is already
+  the Qdrant point ID; the remaining fields record provenance.
 - Payload is duplicated search metadata, not the source of truth.
 - Director data remains PostgreSQL-only initially and will be duplicated into
   payload only if benchmarks justify it.

@@ -6,8 +6,9 @@ from pathlib import Path
 
 import pytest
 
-from scripts.load_postgres import database_industry, prepare_shard_load, replace_shard
+from scripts.ingestion_validation import prepare_shard_load
 from scripts.initiate_relational_schema import run_diesel_migrations
+from scripts.load_postgres import database_industry, replace_shard
 
 
 def movie(movie_id: int = 10) -> dict[str, object]:

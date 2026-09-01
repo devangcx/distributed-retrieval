@@ -1,0 +1,11 @@
+{
+  "contract_version": "movie-retrieval-v1",
+  "requested_model": "text-embedding-3-large",
+  "returned_model": "text-embedding-3-large",
+  "dimensions": 1024,
+  "source_checksum": "d6e947b67e2d1979cc7ff0ea3914168b62ae73f5b7f94159baa07af79794842d",
+  "record_count": 11093,
+  "movie_ids_checksum": "14bcc08478cbb49dd457f8289499be3c7411d5e9122dcd750ee2da4cb8bdbf63",
+  "total_tokens": 2728810,
+  "format": "little-endian float32 in ascending movie_id order"
+}

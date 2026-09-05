@@ -1,13 +1,13 @@
-pub struct Env {
-    pub postgres_shard_a_url: String,
-    pub postgres_shard_b_url: String,
-    pub qdrant_shard_a_url: String,
-    pub qdrant_shard_b_url: String,
+pub (crate) struct Env {
+    pub (crate) postgres_shard_a_url: String,
+    pub (crate) postgres_shard_b_url: String,
+    pub (crate) qdrant_shard_a_url: String,
+    pub (crate) qdrant_shard_b_url: String,
     pub orchestrator_bind: String,
 }
 
 impl Env {
-    pub fn load() -> Result<Self, &'static str> {
+    pub (crate) fn load() -> Result<Self, &'static str> {
         dotenvy::dotenv().ok();
 
         let postgres_shard_a_url = std::env::var("POSTGRES_SHARD_A_URL")

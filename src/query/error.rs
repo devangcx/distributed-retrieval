@@ -3,6 +3,9 @@ use super::Shard;
 #[derive(Debug)]
 pub enum QueryError {
     Invalid(&'static str),
-    Unavailable(Shard),
+    InvalidSql(Shard, String),
+    InvalidResult(Shard, String),
+    PoolUnavailable(Shard),
+    DatabaseUnavailable(Shard),
     Timeout(Shard),
 }

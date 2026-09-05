@@ -23,10 +23,12 @@ impl QueryRequest {
             return Err("sql must not be empty");
         }
 
-        match (self.routing, self.shard) {
-            (Routing::Broadcast, Some(_)) => Err("broadcast routing must not specify a shard"),
-            (Routing::Selective, None) => Err("selective routing requires a shard"),
-            _ => Ok(()),
+        match self.routing {
+            Routing::Broadcast if self.shard.is_some() => {
+                Err("broadcast routing must not specify a shard")
+            }
+            Routing::Selective if self.shard.is_none() => Err("selective routing requires a shard"),
+            Routing::Broadcast | Routing::Selective => Ok(()),
         }
     }
 

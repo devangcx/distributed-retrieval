@@ -1,8 +1,10 @@
-mod filters;
-mod query_request;
+mod error;
+mod request;
+mod response;
 mod types;
 
 // Make these available under the `query` module
-pub use filters::Filters;
-pub use query_request::QueryRequest;
-pub use types::{Industry, Layout, Routing, Shard};
+pub use error::QueryError;
+pub use request::QueryRequest;
+pub use response::QueryResponse;
+pub use types::{Layout, Routing, Shard};

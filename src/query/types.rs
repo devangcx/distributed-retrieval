@@ -23,25 +23,7 @@ pub enum Routing {
     Selective,
 }
 
-#[derive(Debug, Clone, Copy, Deserialize, Serialize)]
-#[serde(rename_all = "snake_case")]
-pub enum Industry {
-    Hollywood,
-    Bollywood,
-    OtherOrAmbiguous,
-}
-
-impl Industry {
-    pub(crate) fn postgres_label(self) -> &'static str {
-        match self {
-            Self::Hollywood => "hollywood",
-            Self::Bollywood => "bollywood",
-            Self::OtherOrAmbiguous => "other",
-        }
-    }
-}
-
-#[derive(Debug, Clone, Copy, Serialize, PartialEq)]
+#[derive(Debug, Clone, Copy, Deserialize, Serialize, PartialEq)]
 #[serde(rename_all = "snake_case")]
 pub enum Shard {
     A,

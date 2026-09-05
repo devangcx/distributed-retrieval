@@ -228,6 +228,7 @@ dependencies = [
  "diesel_derives",
  "downcast-rs",
  "itoa",
+ "serde_json",
 ]
 
 [[package]]

@@ -1,3 +1,3 @@
 pub mod query;
 
-mod orchestrator;
+pub use query::{QueryError, QueryResponse};

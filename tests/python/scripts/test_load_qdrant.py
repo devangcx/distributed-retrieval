@@ -53,11 +53,14 @@ def movie(movie_id: int, industry: str = "hollywood") -> dict[str, object]:
 
 def test_text_templates_are_explicit_and_deterministic() -> None:
     """Dense and sparse documents differ only by the overview line."""
+    # Arrange
     record = movie(2)
 
+    # Act
     metadata = metadata_sparse_text(record)
     full_document = full_document_text(record)
 
+    # Assert
     assert overview_text(record) == "An overview. With whitespace."
     assert metadata == "\n".join([
         "Title: A Movie",
@@ -74,21 +77,32 @@ def test_text_templates_are_explicit_and_deterministic() -> None:
 
 def test_normalize_text_uses_visible_missing_marker() -> None:
     """Missing fields cannot become ambiguous empty template values."""
-    assert normalize_text(None) == "[unknown]"
-    assert normalize_text(" \n ") == "[unknown]"
+    # Arrange
+    missing_values = [None, " \n "]
+
+    # Act
+    normalized_values = [normalize_text(value) for value in missing_values]
+
+    # Assert
+    assert normalized_values == ["[unknown]", "[unknown]"]
 
 
 def test_contract_rejects_a_model_change(tmp_path: Path) -> None:
     """A model change requires an explicit new supported contract."""
+    # Arrange
     contract_path = tmp_path / "contract.json"
     contract_path.write_text(json.dumps({"dense_model": "different"}))
 
+    # Act
     with pytest.raises(ValueError, match="contract_version"):
         load_contract(contract_path)
+
+    # Assert is performed by the exception match.
 
 
 def test_contract_vector_names_are_not_hardcoded(tmp_path: Path) -> None:
     """Renaming contract keys changes the Qdrant vector names."""
+    # Arrange
     contract = json.loads(Path("config/qdrant_contract.json").read_text())
     contract["vectors"] = {
         "plot_semantics": "canonical overview",
@@ -98,8 +112,10 @@ def test_contract_vector_names_are_not_hardcoded(tmp_path: Path) -> None:
     contract_path = tmp_path / "contract.json"
     contract_path.write_text(json.dumps(contract), encoding="utf-8")
 
+    # Act
     loaded_contract = load_contract(contract_path)
 
+    # Assert
     assert loaded_contract.overview_vector_name == "plot_semantics"
     assert loaded_contract.full_document_vector_name == "movie_semantics"
     assert loaded_contract.metadata_sparse_vector_name == "metadata_terms"
@@ -107,23 +123,26 @@ def test_contract_vector_names_are_not_hardcoded(tmp_path: Path) -> None:
 
 def test_float32_embedding_artifact_round_trip(tmp_path: Path) -> None:
     """Committed dense artifacts preserve fixed dimensions and movie order."""
+    # Arrange
     vector_path = tmp_path / "vectors.f32"
     with vector_path.open("wb") as stream:
         write_float_vector(stream, [1.0, 2.0, 3.0])
         write_float_vector(stream, [4.0, 5.0, 6.0])
 
+    # Act
     vectors = read_float_vectors(vector_path, start=0, count=2, dimensions=3)
 
+    # Assert
     assert vectors == [[1.0, 2.0, 3.0], [4.0, 5.0, 6.0]]
 
 
 def test_complete_dense_cache_prevents_another_api_request(tmp_path: Path) -> None:
     """A committed compatible cache is reused before importing OpenAI."""
+    # Arrange
     contract = load_contract(Path("config/qdrant_contract.json"))
     movies = [movie(2)]
     source_checksum = "source-checksum"
-    metadata_path, overview_path, full_document_path = cache_file_paths(
-        tmp_path)
+    metadata_path, overview_path, full_document_path = cache_file_paths(tmp_path)
     for vector_path in (overview_path, full_document_path):
         with vector_path.open("wb") as stream:
             write_float_vector(stream, [0.0] * contract.dense_dimensions)
@@ -139,10 +158,12 @@ def test_complete_dense_cache_prevents_another_api_request(tmp_path: Path) -> No
         "format": "little-endian float32 in ascending movie_id order",
     }))
 
+    # Act
     cache = generate_dense_cache(
         tmp_path, movies, contract, source_checksum
     )
 
+    # Assert
     assert cache.metadata["total_tokens"] == 100
 
 
@@ -169,6 +190,7 @@ def write_manifest(
 
 def test_prepare_layouts_requires_matching_complete_assignments(tmp_path: Path) -> None:
     """Both layouts must cover identical canonical movie IDs exactly once."""
+    # Arrange
     movies = [movie(2), movie(3, "bollywood")]
     source_bytes = json.dumps(movies).encode("utf-8")
     input_path = tmp_path / "movies.json"
@@ -184,8 +206,10 @@ def test_prepare_layouts_requires_matching_complete_assignments(tmp_path: Path) 
         write_manifest(path, source_bytes, layout, shard, ids, len(movies))
         manifest_paths.append(path)
 
+    # Act
     layouts = prepare_layouts(input_path, manifest_paths)
 
+    # Assert
     assert set(layouts) == {
         ("hash", "a"), ("hash", "b"),
         ("industry", "a"), ("industry", "b"),

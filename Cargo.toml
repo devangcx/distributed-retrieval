@@ -8,9 +8,26 @@ axum = "0.8.9"
 diesel = { version = "2.3.12", features = ["postgres_backend", "serde_json"] }
 diesel-async = { version = "0.9.2", features = ["postgres", "deadpool"] }
 dotenvy = "0.15.7"
+reqwest = { version = "0.12", default-features = false, features = ["json"] }
 serde = { version = "1", features = ["derive"] }
 serde_json = "1"
 tokio = { version = "1.52.3", features = ["full"] }
 
 [dev-dependencies]
 tower = { version = "0.5", features = ["util"] }
+
+[[test]]
+name = "api"
+path = "tests/rust/api.rs"
+
+[[test]]
+name = "postgres_queries"
+path = "tests/rust/postgres_queries.rs"
+
+[[test]]
+name = "qdrant_executor"
+path = "tests/rust/qdrant_executor.rs"
+
+[[test]]
+name = "query"
+path = "tests/rust/query.rs"

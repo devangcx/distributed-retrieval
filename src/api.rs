@@ -1,4 +1,4 @@
-use crate::{Orchestrator, QueryError, QueryResponse, error_body::ErrorBody, query::QueryRequest};
+use crate::{Orchestrator, QueryError, QueryRequest, QueryResponse, error_body::ErrorBody};
 use axum::{
     Json, Router,
     extract::{State, rejection::JsonRejection},
@@ -18,7 +18,6 @@ async fn query(
     State(orchestrator): State<Orchestrator>,
     body: Result<Json<QueryRequest>, JsonRejection>,
 ) -> Result<Json<QueryResponse>, Response> {
-    
     let request = match body {
         Ok(Json(request)) => request,
         Err(error) => return Err(error_response(error.status(), error.body_text())),

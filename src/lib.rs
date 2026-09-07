@@ -1,11 +1,13 @@
 pub mod api;
-pub mod query;
+pub mod qdrant;
 
 mod error_body;
 mod orchestrator;
 mod postgres;
+mod routing;
 mod shard_stats;
 
 pub use orchestrator::Orchestrator;
-pub use query::{QueryError, QueryResponse};
+pub use postgres::{QueryError, QueryRequest, QueryResponse};
+pub use routing::{Layout, Routing, Shard};
 pub use shard_stats::ShardStats;

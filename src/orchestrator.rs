@@ -1,7 +1,6 @@
 use crate::{
-    QueryError, QueryResponse, ShardStats,
+    QueryError, QueryRequest, QueryResponse, Shard, ShardStats,
     postgres::{self, ExecuteError, PgPool},
-    query::{QueryRequest, Shard},
 };
 use serde_json::Value;
 use std::time::{Duration, Instant};

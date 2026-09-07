@@ -1,6 +1,6 @@
 use serde::Serialize;
 
-use crate::query::Shard;
+use crate::Shard;
 
 /// Per-shard execution statistics included for observability.
 ///

@@ -29,5 +29,5 @@ name = "qdrant_executor"
 path = "tests/rust/qdrant_executor.rs"
 
 [[test]]
-name = "query"
-path = "tests/rust/query.rs"
+name = "postgres_query_request"
+path = "tests/rust/postgres_query_request.rs"

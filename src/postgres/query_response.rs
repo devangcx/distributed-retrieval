@@ -1,8 +1,7 @@
 use serde::Serialize;
 use serde_json::Value;
 
-use super::{Layout, Routing};
-use crate::ShardStats;
+use crate::{Layout, Routing, ShardStats};
 
 #[derive(Serialize)]
 pub struct QueryResponse {

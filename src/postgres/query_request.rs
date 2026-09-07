@@ -1,6 +1,6 @@
 use serde::Deserialize;
 
-use super::{Layout, Routing, Shard};
+use crate::{Layout, Routing, Shard};
 
 #[derive(Deserialize)]
 #[serde(deny_unknown_fields)]

@@ -1,8 +1,5 @@
 //! Read-only checks against the loaded canonical corpus; no database writes.
-use distributed_retrieval::{
-    Orchestrator,
-    query::{Layout, QueryRequest, Routing, Shard},
-};
+use distributed_retrieval::{Layout, Orchestrator, QueryError, QueryRequest, Routing, Shard};
 use std::time::Duration;
 
 fn orchestrator() -> Orchestrator {
@@ -82,8 +79,5 @@ async fn transaction_rejects_mutating_sql() {
         .await;
 
     // Assert
-    assert!(matches!(
-        result,
-        Err(distributed_retrieval::query::QueryError::InvalidSql(_, _))
-    ));
+    assert!(matches!(result, Err(QueryError::InvalidSql(_, _))));
 }

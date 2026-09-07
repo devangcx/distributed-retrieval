@@ -1,4 +1,4 @@
-use distributed_retrieval::query::{Layout, QueryRequest, Routing, Shard};
+use distributed_retrieval::{Layout, QueryRequest, Routing, Shard};
 
 #[test]
 fn broadcast_queries_both_shards() {

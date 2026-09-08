@@ -31,3 +31,7 @@ path = "tests/rust/qdrant_executor.rs"
 [[test]]
 name = "postgres_query_request"
 path = "tests/rust/postgres_query_request.rs"
+
+[[test]]
+name = "api_query_request"
+path = "tests/rust/api_query_request.rs"

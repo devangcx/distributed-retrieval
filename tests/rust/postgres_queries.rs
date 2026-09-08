@@ -7,6 +7,8 @@ fn orchestrator() -> Orchestrator {
     Orchestrator::new(
         std::env::var("POSTGRES_SHARD_A_URL").unwrap(),
         std::env::var("POSTGRES_SHARD_B_URL").unwrap(),
+        String::from("http://127.0.0.1:6333"),
+        String::from("http://127.0.0.1:6335"),
         Duration::from_secs(5),
     )
     .unwrap()

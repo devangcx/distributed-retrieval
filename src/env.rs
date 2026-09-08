@@ -1,6 +1,8 @@
 pub(crate) struct Env {
     pub(crate) postgres_shard_a_url: String,
     pub(crate) postgres_shard_b_url: String,
+    pub(crate) qdrant_shard_a_url: String,
+    pub(crate) qdrant_shard_b_url: String,
     pub(crate) orchestrator_bind: String,
 }
 
@@ -12,6 +14,10 @@ impl Env {
             required_variable("POSTGRES_SHARD_A_URL", "POSTGRES_SHARD_A_URL is required")?;
         let postgres_shard_b_url =
             required_variable("POSTGRES_SHARD_B_URL", "POSTGRES_SHARD_B_URL is required")?;
+        let qdrant_shard_a_url =
+            required_variable("QDRANT_SHARD_A_URL", "QDRANT_SHARD_A_URL is required")?;
+        let qdrant_shard_b_url =
+            required_variable("QDRANT_SHARD_B_URL", "QDRANT_SHARD_B_URL is required")?;
         let orchestrator_bind = match std::env::var("ORCHESTRATOR_BIND") {
             Ok(value) => value,
             Err(..) => "localhost:3000".to_owned(),
@@ -20,6 +26,8 @@ impl Env {
         Ok(Self {
             postgres_shard_a_url,
             postgres_shard_b_url,
+            qdrant_shard_a_url,
+            qdrant_shard_b_url,
             orchestrator_bind,
         })
     }

@@ -16,6 +16,8 @@ async fn main() {
     let orchestrator = Orchestrator::new(
         env.postgres_shard_a_url,
         env.postgres_shard_b_url,
+        env.qdrant_shard_a_url,
+        env.qdrant_shard_b_url,
         Duration::from_secs(5),
     )
     .expect("Invalid orchestrator configuration");

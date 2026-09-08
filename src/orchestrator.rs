@@ -1,6 +1,7 @@
 use crate::{
     QueryError, QueryRequest, QueryResponse, Shard, ShardStats,
     postgres::{self, ExecuteError, PgPool},
+    qdrant::{QdrantError, QdrantExecutor, VectorQueryResponse, VectorSearchRequest},
 };
 use serde_json::Value;
 use std::time::{Duration, Instant};
@@ -10,14 +11,18 @@ pub struct Orchestrator {
     shard_a: PgPool,
     shard_b: PgPool,
     shard_timeout: Duration,
+    qdrant: QdrantExecutor,
 }
 
 impl Orchestrator {
     pub fn new(
         shard_a_url: String,
         shard_b_url: String,
+        qdrant_shard_a_url: String,
+        qdrant_shard_b_url: String,
         shard_timeout: Duration,
     ) -> Result<Self, String> {
+
         let shard_a = match postgres::pool(shard_a_url) {
             Ok(pool) => pool,
             Err(message) => return Err(message),
@@ -28,10 +33,39 @@ impl Orchestrator {
             Err(message) => return Err(message),
         };
 
+        let qdrant =
+            match QdrantExecutor::new(qdrant_shard_a_url, qdrant_shard_b_url, shard_timeout) {
+                Ok(executor) => executor,
+                Err(message) => return Err(message),
+            };
+
         Ok(Self {
             shard_a,
             shard_b,
             shard_timeout,
+            qdrant,
+        })
+    }
+
+    pub async fn vector_query(
+        &self,
+        request: VectorSearchRequest,
+    ) -> Result<VectorQueryResponse, QdrantError> {
+        
+        let started = Instant::now();
+        let layout = request.layout;
+        let routing = request.routing;
+
+        let results = match self.qdrant.search(request).await {
+            Ok(results) => results,
+            Err(error) => return Err(error),
+        };
+
+        Ok(VectorQueryResponse {
+            layout,
+            routing,
+            results,
+            total_ms: started.elapsed().as_secs_f64() * 1000.0,
         })
     }
 

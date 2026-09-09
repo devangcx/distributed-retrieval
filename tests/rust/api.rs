@@ -2,7 +2,7 @@ use axum::{
     body::{Body, to_bytes},
     http::{Request, StatusCode},
 };
-use distributed_retrieval::{Orchestrator, api};
+use distributed_retrieval::{Layout, Orchestrator, QueryRequest, Routing, Shard, api};
 use serde_json::{Value, json};
 use std::time::Duration;
 use tokio::io::{AsyncReadExt, AsyncWriteExt};
@@ -178,6 +178,7 @@ async fn maps_unavailable_qdrant_to_service_unavailable() {
     );
     let request_body = json!({
         "query_type": "vector_dense",
+        "execution_order": "filter_then_search",
         "layout": "hash",
         "routing": "broadcast",
         "vector_name": "overview_dense",
@@ -194,7 +195,7 @@ async fn maps_unavailable_qdrant_to_service_unavailable() {
 }
 
 #[tokio::test]
-async fn returns_ranked_dense_results_with_timing() {
+async fn maps_postgres_enrichment_failure_after_vector_search() {
     // Arrange
     let listener = tokio::net::TcpListener::bind("127.0.0.1:0").await.unwrap();
     let qdrant_url = format!("http://{}", listener.local_addr().unwrap());
@@ -222,6 +223,7 @@ async fn returns_ranked_dense_results_with_timing() {
     );
     let request_body = json!({
         "query_type": "vector_dense",
+        "execution_order": "filter_then_search",
         "layout": "hash",
         "routing": "selective",
         "shard": "a",
@@ -234,12 +236,13 @@ async fn returns_ranked_dense_results_with_timing() {
     let (status, body) = post_to(app, request_body).await;
 
     // Assert
-    assert_eq!(status, StatusCode::OK);
-    assert_eq!(body["layout"], "hash");
-    assert_eq!(body["routing"], "selective");
-    assert_eq!(body["results"][0]["movie_id"], 42);
-    assert_eq!(body["results"][0]["shard"], "a");
-    assert!(body["total_ms"].as_f64().unwrap() >= 0.0);
+    assert_eq!(status, StatusCode::SERVICE_UNAVAILABLE);
+    assert!(
+        body["error"]
+            .as_str()
+            .unwrap()
+            .contains("PostgreSQL shard A")
+    );
 }
 
 #[tokio::test]
@@ -247,6 +250,7 @@ async fn validates_sparse_contract_before_qdrant_access() {
     // Arrange
     let request_body = json!({
         "query_type": "vector_sparse",
+        "execution_order": "filter_then_search",
         "layout": "hash",
         "routing": "broadcast",
         "indices": [12, 87],
@@ -260,4 +264,85 @@ async fn validates_sparse_contract_before_qdrant_access() {
     // Assert
     assert_eq!(status, StatusCode::BAD_REQUEST);
     assert!(body["error"].as_str().unwrap().contains("equal lengths"));
+}
+
+#[tokio::test]
+#[ignore = "requires a populated PostgreSQL shard and local .env"]
+async fn enriches_vector_results_and_preserves_rank() {
+    // Arrange
+    dotenvy::dotenv().ok();
+    let postgres_shard_a_url = std::env::var("POSTGRES_SHARD_A_URL").unwrap();
+    let postgres_shard_b_url = std::env::var("POSTGRES_SHARD_B_URL").unwrap();
+    let preliminary_orchestrator = Orchestrator::new(
+        postgres_shard_a_url.clone(),
+        postgres_shard_b_url.clone(),
+        String::from("http://127.0.0.1:1"),
+        String::from("http://127.0.0.1:1"),
+        Duration::from_secs(5),
+    )
+    .unwrap();
+    let relational_response = preliminary_orchestrator
+        .query(QueryRequest {
+            layout: Layout::Hash,
+            routing: Routing::Selective,
+            shard: Some(Shard::A),
+            sql: String::from("SELECT movie_id FROM movies ORDER BY movie_id LIMIT 2"),
+            limit: 2,
+        })
+        .await
+        .unwrap();
+    let first_movie_id = relational_response.results[0]["movie_id"].as_u64().unwrap();
+    let second_movie_id = relational_response.results[1]["movie_id"].as_u64().unwrap();
+
+    let listener = tokio::net::TcpListener::bind("127.0.0.1:0").await.unwrap();
+    let qdrant_url = format!("http://{}", listener.local_addr().unwrap());
+    tokio::spawn(async move {
+        let (mut stream, _) = listener.accept().await.unwrap();
+        let mut request = vec![0; 32_768];
+        let _bytes_read = stream.read(&mut request).await.unwrap();
+        let body = format!(
+            r#"{{"result":{{"points":[{{"id":{second_movie_id},"score":0.95}},{{"id":{first_movie_id},"score":0.80}}]}}}}"#
+        );
+        let response = format!(
+            "HTTP/1.1 200 OK\r\ncontent-type: application/json\r\ncontent-length: {}\r\nconnection: close\r\n\r\n{}",
+            body.len(),
+            body
+        );
+        stream.write_all(response.as_bytes()).await.unwrap();
+    });
+    let app = api::router(
+        Orchestrator::new(
+            postgres_shard_a_url,
+            postgres_shard_b_url,
+            qdrant_url,
+            String::from("http://127.0.0.1:1"),
+            Duration::from_secs(5),
+        )
+        .unwrap(),
+    );
+    let request_body = json!({
+        "query_type": "vector_dense",
+        "execution_order": "filter_then_search",
+        "layout": "hash",
+        "routing": "selective",
+        "shard": "a",
+        "vector_name": "overview_dense",
+        "vector": vec![0.1; 1024],
+        "limit": 2
+    });
+
+    // Act
+    let (status, body) = post_to(app, request_body).await;
+
+    // Assert
+    assert_eq!(status, StatusCode::OK, "{body}");
+    assert_eq!(body["results"][0]["movie_id"], second_movie_id);
+    assert_eq!(body["results"][1]["movie_id"], first_movie_id);
+    assert_eq!(body["results"][0]["score"], 0.95);
+    assert!(body["results"][0]["details"]["title"].is_string());
+    assert!(body["results"][0]["details"]["genres"].is_array());
+    assert!(body["results"][0]["details"]["directors"].is_array());
+    assert!(body["vector_ms"].as_f64().unwrap() >= 0.0);
+    assert!(body["enrichment_ms"].as_f64().unwrap() >= 0.0);
+    assert!(body["total_ms"].as_f64().unwrap() >= 0.0);
 }

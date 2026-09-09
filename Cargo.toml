@@ -35,3 +35,7 @@ path = "tests/rust/postgres_query_request.rs"
 [[test]]
 name = "api_query_request"
 path = "tests/rust/api_query_request.rs"
+
+[[test]]
+name = "api_end_to_end"
+path = "tests/rust/api_end_to_end.rs"

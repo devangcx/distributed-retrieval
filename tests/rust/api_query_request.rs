@@ -34,6 +34,7 @@ fn deserializes_and_validates_dense_query() {
     // Arrange
     let json = json!({
         "query_type": "vector_dense",
+        "execution_order": "filter_then_search",
         "layout": "hash",
         "routing": "broadcast",
         "vector_name": "overview_dense",
@@ -64,6 +65,7 @@ fn deserializes_and_validates_sparse_query() {
     // Arrange
     let json = json!({
         "query_type": "vector_sparse",
+        "execution_order": "filter_then_search",
         "layout": "hash",
         "routing": "selective",
         "shard": "b",
@@ -90,11 +92,51 @@ fn rejects_fields_from_a_different_query_type() {
     // Arrange
     let json = json!({
         "query_type": "vector_sparse",
+        "execution_order": "filter_then_search",
         "layout": "hash",
         "routing": "broadcast",
         "indices": [12],
         "values": [1.7],
         "sql": "SELECT movie_id FROM movies",
+        "limit": 10
+    });
+
+    // Act
+    let result = serde_json::from_value::<ApiQueryRequest>(json);
+
+    // Assert
+    assert!(result.is_err());
+}
+
+#[test]
+fn accepts_search_then_filter_execution_order() {
+    // Arrange
+    let json = json!({
+        "query_type": "vector_sparse",
+        "execution_order": "search_then_filter",
+        "layout": "hash",
+        "routing": "broadcast",
+        "indices": [12],
+        "values": [1.7],
+        "limit": 10
+    });
+
+    // Act
+    let result = serde_json::from_value::<ApiQueryRequest>(json);
+
+    // Assert
+    assert!(result.is_ok());
+}
+
+#[test]
+fn rejects_vector_query_without_execution_order() {
+    // Arrange
+    let json = json!({
+        "query_type": "vector_dense",
+        "layout": "hash",
+        "routing": "broadcast",
+        "vector_name": "overview_dense",
+        "vector": vec![0.1; 1024],
         "limit": 10
     });
 

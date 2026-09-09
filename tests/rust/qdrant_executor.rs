@@ -1,5 +1,5 @@
 use distributed_retrieval::{
-    Layout, Routing, Shard,
+    ExecutionOrder, Layout, Routing, Shard,
     qdrant::{
         QdrantError, QdrantExecutor, QueryVector, SparseVector, VectorFilter, VectorSearchRequest,
     },
@@ -42,6 +42,7 @@ fn request(routing: Routing, shard: Option<Shard>) -> VectorSearchRequest {
         layout: Layout::Hash,
         routing,
         shard,
+        execution_order: ExecutionOrder::FilterThenSearch,
         vector_name: "overview_dense".to_owned(),
         vector: QueryVector::Dense(vec![0.1; 1024]),
         filter: None,

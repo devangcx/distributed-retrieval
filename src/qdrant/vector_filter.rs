@@ -25,7 +25,6 @@ impl Default for VectorFilter {
 
 impl VectorFilter {
     pub(crate) fn matches(&self, details: &Value) -> bool {
-
         // Get release year as four-digit integer from the release date string
         let release_year = details
             .get("release_date")

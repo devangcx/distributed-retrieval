@@ -267,6 +267,49 @@ async fn validates_sparse_contract_before_qdrant_access() {
 }
 
 #[tokio::test]
+async fn search_then_filter_validates_original_limit_before_qdrant_access() {
+    // Arrange
+    let request_body = json!({
+        "query_type": "vector_dense",
+        "execution_order": "search_then_filter",
+        "layout": "hash",
+        "routing": "broadcast",
+        "vector_name": "overview_dense",
+        "vector": vec![0.1; 1024],
+        "limit": 0
+    });
+
+    // Act
+    let (status, body) = post(request_body).await;
+
+    // Assert
+    assert_eq!(status, StatusCode::BAD_REQUEST);
+    assert!(body["error"].as_str().unwrap().contains("limit"));
+}
+
+#[tokio::test]
+async fn search_then_filter_validates_original_filter_before_qdrant_access() {
+    // Arrange
+    let request_body = json!({
+        "query_type": "vector_dense",
+        "execution_order": "search_then_filter",
+        "layout": "hash",
+        "routing": "broadcast",
+        "vector_name": "overview_dense",
+        "vector": vec![0.1; 1024],
+        "filter": {},
+        "limit": 10
+    });
+
+    // Act
+    let (status, body) = post(request_body).await;
+
+    // Assert
+    assert_eq!(status, StatusCode::BAD_REQUEST);
+    assert!(body["error"].as_str().unwrap().contains("condition"));
+}
+
+#[tokio::test]
 #[ignore = "requires a populated PostgreSQL shard and local .env"]
 async fn enriches_vector_results_and_preserves_rank() {
     // Arrange

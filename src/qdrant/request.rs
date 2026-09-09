@@ -1,6 +1,6 @@
 use crate::{Layout, Routing, Shard};
 
-use super::{QueryVector, VectorFilter};
+use super::{ExecutionOrder, QueryVector, VectorFilter};
 
 pub const DENSE_VECTOR_DIMENSIONS: usize = 1024;
 
@@ -8,6 +8,7 @@ pub struct VectorSearchRequest {
     pub layout: Layout,
     pub routing: Routing,
     pub shard: Option<Shard>,
+    pub execution_order: ExecutionOrder,
     pub vector_name: String,
     pub vector: QueryVector,
     pub filter: Option<VectorFilter>,

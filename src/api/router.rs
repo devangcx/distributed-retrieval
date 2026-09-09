@@ -1,5 +1,7 @@
 use crate::{
-    ApiQueryRequest, Orchestrator, QueryError, error_body::ErrorBody, qdrant::QdrantError,
+    ApiQueryRequest, Orchestrator, QueryError,
+    error_body::ErrorBody,
+    qdrant::{QdrantError, VectorQueryError},
 };
 use axum::{
     Json, Router,
@@ -38,14 +40,14 @@ async fn query(
             let search_request = request.into_search_request();
             match orchestrator.vector_query(search_request).await {
                 Ok(response) => Json(response).into_response(),
-                Err(error) => qdrant_error_response(error),
+                Err(error) => vector_error_response(error),
             }
         }
         ApiQueryRequest::VectorSparse(request) => {
             let search_request = request.into_search_request();
             match orchestrator.vector_query(search_request).await {
                 Ok(response) => Json(response).into_response(),
-                Err(error) => qdrant_error_response(error),
+                Err(error) => vector_error_response(error),
             }
         }
     }
@@ -96,6 +98,13 @@ fn qdrant_error_response(error: QdrantError) -> Response {
             StatusCode::GATEWAY_TIMEOUT,
             format!("Qdrant shard {shard:?} timed out"),
         ),
+    }
+}
+
+fn vector_error_response(error: VectorQueryError) -> Response {
+    match error {
+        VectorQueryError::Qdrant(error) => qdrant_error_response(error),
+        VectorQueryError::Postgres(error) => relational_error_response(error),
     }
 }
 

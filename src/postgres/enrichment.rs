@@ -55,7 +55,10 @@ pub(crate) async fn fetch_movie_details(
                     'title', movies.title,
                     'release_date', movies.release_date,
                     'overview', movies.overview,
-                    'industry', movies.industry,
+                    'industry', CASE movies.industry::text
+                        WHEN 'other' THEN 'other_or_ambiguous'
+                        ELSE movies.industry::text
+                    END,
                     'genres', COALESCE((
                         SELECT json_agg(genres.name ORDER BY genres.name)
                         FROM movie_genres

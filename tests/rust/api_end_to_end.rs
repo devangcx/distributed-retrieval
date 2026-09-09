@@ -58,6 +58,31 @@ fn first_overview_vector() -> Vec<f32> {
     vector
 }
 
+fn overview_vector_for_movie(movie_id: u64) -> Vec<f32> {
+    let corpus_path = PathBuf::from(env!("CARGO_MANIFEST_DIR")).join("data/processed/movies.json");
+    let corpus_bytes = fs::read(corpus_path).unwrap();
+    let movies: Value = serde_json::from_slice(&corpus_bytes).unwrap();
+    let movie_index = movies
+        .as_array()
+        .unwrap()
+        .iter()
+        .position(|movie| movie["movie_id"] == movie_id)
+        .unwrap();
+
+    let vector_path = PathBuf::from(env!("CARGO_MANIFEST_DIR"))
+        .join("data/processed/embeddings/movie-retrieval-v1/overview.f32");
+    let vector_bytes = fs::read(vector_path).unwrap();
+    let start = movie_index * 1024 * 4;
+    let end = start + 1024 * 4;
+    let mut vector = Vec::with_capacity(1024);
+
+    for chunk in vector_bytes[start..end].chunks_exact(4) {
+        vector.push(f32::from_le_bytes([chunk[0], chunk[1], chunk[2], chunk[3]]));
+    }
+
+    vector
+}
+
 #[tokio::test]
 #[ignore = "requires populated PostgreSQL and Qdrant shards and local .env"]
 async fn relational_query_runs_through_http_api() {
@@ -178,5 +203,48 @@ async fn filter_then_search_applies_filter_during_retrieval() {
     assert_eq!(body["results"].as_array().unwrap().len(), 2);
     for result in body["results"].as_array().unwrap() {
         assert_eq!(result["details"]["industry"], "hollywood");
+    }
+}
+
+#[tokio::test]
+#[ignore = "requires populated PostgreSQL and Qdrant shards and local .env"]
+async fn both_orders_use_canonical_other_industry_label() {
+    // Arrange
+    let resident_evil_id = 1576;
+    let vector = overview_vector_for_movie(resident_evil_id);
+    let filter_then_search_request = json!({
+        "query_type": "vector_dense",
+        "execution_order": "filter_then_search",
+        "layout": "hash",
+        "routing": "broadcast",
+        "vector_name": "overview_dense",
+        "vector": vector,
+        "filter": { "industry": "other_or_ambiguous" },
+        "limit": 1
+    });
+    let search_then_filter_request = json!({
+        "query_type": "vector_dense",
+        "execution_order": "search_then_filter",
+        "layout": "hash",
+        "routing": "broadcast",
+        "vector_name": "overview_dense",
+        "vector": overview_vector_for_movie(resident_evil_id),
+        "filter": { "industry": "other_or_ambiguous" },
+        "limit": 1
+    });
+
+    // Act
+    let (filter_first_status, filter_first_body) = post(app(), filter_then_search_request).await;
+    let (search_first_status, search_first_body) = post(app(), search_then_filter_request).await;
+
+    // Assert
+    assert_eq!(filter_first_status, StatusCode::OK, "{filter_first_body}");
+    assert_eq!(search_first_status, StatusCode::OK, "{search_first_body}");
+    for body in [filter_first_body, search_first_body] {
+        assert_eq!(body["results"][0]["movie_id"], resident_evil_id);
+        assert_eq!(
+            body["results"][0]["details"]["industry"],
+            "other_or_ambiguous"
+        );
     }
 }

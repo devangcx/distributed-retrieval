@@ -54,6 +54,13 @@ impl Orchestrator {
         mut request: VectorSearchRequest,
     ) -> Result<VectorQueryResponse, VectorQueryError> {
         let started = Instant::now();
+
+        if let Err(message) = request.validate() {
+            return Err(VectorQueryError::Qdrant(
+                crate::qdrant::QdrantError::Invalid(message),
+            ));
+        }
+
         let layout = request.layout;
         let routing = request.routing;
         let execution_order = request.execution_order;
@@ -81,7 +88,7 @@ impl Orchestrator {
                 Ok(results) => results,
                 Err(error) => return Err(VectorQueryError::Postgres(error)),
             };
-        
+
         // Apply the filter to the results if we are in SearchThenFilter mode
         if let Some(filter) = search_then_filter {
             let mut filtered_results: Vec<EnrichedVectorResult> = Vec::new();

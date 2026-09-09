@@ -2,7 +2,7 @@ use serde::Deserialize;
 
 use crate::{
     Layout, Routing, Shard,
-    qdrant::{QueryVector, VectorFilter, VectorSearchRequest},
+    qdrant::{ExecutionOrder, QueryVector, VectorFilter, VectorSearchRequest},
 };
 
 #[derive(Deserialize)]
@@ -11,6 +11,7 @@ pub struct DenseQueryRequest {
     pub layout: Layout,
     pub routing: Routing,
     pub shard: Option<Shard>,
+    pub execution_order: ExecutionOrder,
     pub vector_name: String,
     pub vector: Vec<f32>,
     pub filter: Option<VectorFilter>,
@@ -23,6 +24,7 @@ impl DenseQueryRequest {
             layout: self.layout,
             routing: self.routing,
             shard: self.shard,
+            execution_order: self.execution_order,
             vector_name: self.vector_name,
             vector: QueryVector::Dense(self.vector),
             filter: self.filter,

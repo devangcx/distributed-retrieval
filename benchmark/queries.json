@@ -1,0 +1,1049 @@
+{
+  "schema_version": "benchmark-v1",
+  "vector_contract_version": "movie-retrieval-v1",
+  "default_limit": 10,
+  "queries": {
+    "relational": [
+      {
+        "id": "rel_01_corpus_count",
+        "description": "Count all movies.",
+        "sql": "SELECT COUNT(*)::bigint AS movie_count FROM movies",
+        "limit": 2,
+        "correctness": {
+          "type": "sum_field",
+          "field": "movie_count",
+          "expected": 11093
+        },
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast"
+          }
+        ]
+      },
+      {
+        "id": "rel_02_hollywood_count",
+        "description": "Count Hollywood movies.",
+        "sql": "SELECT COUNT(*)::bigint AS movie_count FROM movies WHERE industry = 'hollywood'",
+        "limit": 2,
+        "correctness": {
+          "type": "sum_field",
+          "field": "movie_count",
+          "expected": 9559
+        },
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "shard": "a"
+          }
+        ]
+      },
+      {
+        "id": "rel_03_bollywood_count",
+        "description": "Count Bollywood movies.",
+        "sql": "SELECT COUNT(*)::bigint AS movie_count FROM movies WHERE industry = 'bollywood'",
+        "limit": 2,
+        "correctness": {
+          "type": "sum_field",
+          "field": "movie_count",
+          "expected": 1083
+        },
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "shard": "b"
+          }
+        ]
+      },
+      {
+        "id": "rel_04_other_industry_count",
+        "description": "Count movies in the database other-industry category.",
+        "sql": "SELECT COUNT(*)::bigint AS movie_count FROM movies WHERE industry = 'other'",
+        "limit": 2,
+        "correctness": {
+          "type": "sum_field",
+          "field": "movie_count",
+          "expected": 451
+        },
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "shard": "b"
+          }
+        ]
+      },
+      {
+        "id": "rel_05_2010s_count",
+        "description": "Count movies released from 2010 through 2019.",
+        "sql": "SELECT COUNT(*)::bigint AS movie_count FROM movies WHERE release_date >= DATE '2010-01-01' AND release_date < DATE '2020-01-01'",
+        "limit": 2,
+        "correctness": {
+          "type": "sum_field",
+          "field": "movie_count",
+          "expected": 3866
+        },
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast"
+          }
+        ]
+      },
+      {
+        "id": "rel_06_action_count",
+        "description": "Count movies with the Action genre.",
+        "sql": "SELECT COUNT(*)::bigint AS movie_count FROM movies WHERE EXISTS (SELECT 1 FROM movie_genres WHERE movie_genres.movie_id = movies.movie_id AND movie_genres.genre_id = 28)",
+        "limit": 2,
+        "correctness": {
+          "type": "sum_field",
+          "field": "movie_count",
+          "expected": 2716
+        },
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast"
+          }
+        ]
+      },
+      {
+        "id": "rel_07_india_count",
+        "description": "Count movies with India as a production country.",
+        "sql": "SELECT COUNT(*)::bigint AS movie_count FROM movies WHERE EXISTS (SELECT 1 FROM movie_countries WHERE movie_countries.movie_id = movies.movie_id AND movie_countries.country_code = 'IN')",
+        "limit": 2,
+        "correctness": {
+          "type": "sum_field",
+          "field": "movie_count",
+          "expected": 1150
+        },
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "shard": "b"
+          }
+        ]
+      },
+      {
+        "id": "rel_08_nolan_count",
+        "description": "Count movies directed by Christopher Nolan.",
+        "sql": "SELECT COUNT(DISTINCT movies.movie_id)::bigint AS movie_count FROM movies JOIN movie_credits ON movie_credits.movie_id = movies.movie_id JOIN people ON people.person_id = movie_credits.person_id WHERE movie_credits.credit_type = 'director' AND people.name = 'Christopher Nolan'",
+        "limit": 2,
+        "correctness": {
+          "type": "sum_field",
+          "field": "movie_count",
+          "expected": 12
+        },
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "shard": "a"
+          }
+        ]
+      },
+      {
+        "id": "rel_09_hollywood_science_fiction_count",
+        "description": "Count Hollywood science-fiction movies.",
+        "sql": "SELECT COUNT(*)::bigint AS movie_count FROM movies WHERE industry = 'hollywood' AND EXISTS (SELECT 1 FROM movie_genres WHERE movie_genres.movie_id = movies.movie_id AND movie_genres.genre_id = 878)",
+        "limit": 2,
+        "correctness": {
+          "type": "sum_field",
+          "field": "movie_count",
+          "expected": 1140
+        },
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "shard": "a"
+          }
+        ]
+      },
+      {
+        "id": "rel_10_recent_bollywood_count",
+        "description": "Count Bollywood movies released from 2016 onward.",
+        "sql": "SELECT COUNT(*)::bigint AS movie_count FROM movies WHERE industry = 'bollywood' AND release_date >= DATE '2016-01-01'",
+        "limit": 2,
+        "correctness": {
+          "type": "sum_field",
+          "field": "movie_count",
+          "expected": 457
+        },
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "shard": "b"
+          }
+        ]
+      },
+      {
+        "id": "rel_11_comedy_or_drama_count",
+        "description": "Count movies having Comedy or Drama without double-counting both.",
+        "sql": "SELECT COUNT(*)::bigint AS movie_count FROM movies WHERE EXISTS (SELECT 1 FROM movie_genres WHERE movie_genres.movie_id = movies.movie_id AND movie_genres.genre_id IN (35, 18))",
+        "limit": 2,
+        "correctness": {
+          "type": "sum_field",
+          "field": "movie_count",
+          "expected": 7476
+        },
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast"
+          }
+        ]
+      },
+      {
+        "id": "rel_12_known_movies",
+        "description": "Find Veer-Zaara and Batman Begins by exact movie title.",
+        "sql": "SELECT movie_id, title FROM movies WHERE title IN ('Veer-Zaara', 'Batman Begins') ORDER BY title",
+        "limit": 2,
+        "correctness": {
+          "type": "movie_ids",
+          "expected": [
+            272,
+            4251
+          ]
+        },
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast"
+          }
+        ]
+      }
+    ],
+    "vector_dense": [
+      {
+        "id": "dense_01_matrix",
+        "query_text": "computer hacker discovers that machines control the world",
+        "vector_name": "overview_dense",
+        "relevant_movie_ids": [
+          603
+        ],
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          }
+        ]
+      },
+      {
+        "id": "dense_02_interstellar",
+        "query_text": "explorers travel through a wormhole to find a future for humanity",
+        "vector_name": "overview_dense",
+        "relevant_movie_ids": [
+          157336
+        ],
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          }
+        ]
+      },
+      {
+        "id": "dense_03_titanic",
+        "query_text": "young lovers from different social classes meet aboard a doomed ocean liner",
+        "vector_name": "overview_dense",
+        "relevant_movie_ids": [
+          597
+        ],
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          }
+        ]
+      },
+      {
+        "id": "dense_04_forrest_gump",
+        "query_text": "a kind man with a low IQ witnesses decades of American history",
+        "vector_name": "overview_dense",
+        "relevant_movie_ids": [
+          13
+        ],
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          }
+        ]
+      },
+      {
+        "id": "dense_05_ddlj",
+        "query_text": "two young Indians living abroad fall in love before an arranged marriage",
+        "vector_name": "overview_dense",
+        "relevant_movie_ids": [
+          19404
+        ],
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          }
+        ]
+      },
+      {
+        "id": "dense_06_three_idiots",
+        "query_text": "engineering students challenge an oppressive university system and search for their friend",
+        "vector_name": "overview_dense",
+        "relevant_movie_ids": [
+          20453
+        ],
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          }
+        ]
+      },
+      {
+        "id": "dense_07_inception_filtered",
+        "query_text": "thief enters dreams to plant an idea",
+        "vector_name": "overview_dense",
+        "filter": {
+          "release_year_from": 2005,
+          "release_year_to": 2015,
+          "genre_ids": [
+            28,
+            878
+          ]
+        },
+        "relevant_movie_ids": [
+          27205
+        ],
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "search_then_filter"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast",
+            "execution_order": "search_then_filter"
+          }
+        ]
+      },
+      {
+        "id": "dense_08_toy_story_filtered",
+        "query_text": "toys separated from their owner overcome jealousy and become friends",
+        "vector_name": "overview_dense",
+        "filter": {
+          "industry": "hollywood",
+          "country_codes": [
+            "US"
+          ]
+        },
+        "relevant_movie_ids": [
+          862
+        ],
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "search_then_filter"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "execution_order": "filter_then_search",
+            "shard": "a"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "execution_order": "search_then_filter",
+            "shard": "a"
+          }
+        ]
+      },
+      {
+        "id": "dense_09_gladiator_filtered",
+        "query_text": "betrayed Roman general becomes an arena fighter seeking revenge",
+        "vector_name": "overview_dense",
+        "filter": {
+          "release_year_from": 1998,
+          "release_year_to": 2002,
+          "genre_ids": [
+            28
+          ]
+        },
+        "relevant_movie_ids": [
+          98
+        ],
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "search_then_filter"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast",
+            "execution_order": "search_then_filter"
+          }
+        ]
+      },
+      {
+        "id": "dense_10_dangal_filtered",
+        "query_text": "former wrestler trains his daughters to become wrestling champions",
+        "vector_name": "overview_dense",
+        "filter": {
+          "release_year_from": 2015,
+          "release_year_to": 2020,
+          "industry": "bollywood",
+          "country_codes": [
+            "IN"
+          ]
+        },
+        "relevant_movie_ids": [
+          360814
+        ],
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "search_then_filter"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "execution_order": "filter_then_search",
+            "shard": "b"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "execution_order": "search_then_filter",
+            "shard": "b"
+          }
+        ]
+      },
+      {
+        "id": "dense_11_resident_evil_filtered",
+        "query_text": "a leaked laboratory virus creates zombies and mutated creatures",
+        "vector_name": "overview_dense",
+        "filter": {
+          "industry": "other_or_ambiguous",
+          "genre_ids": [
+            27,
+            878
+          ]
+        },
+        "relevant_movie_ids": [
+          1576
+        ],
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "search_then_filter"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "execution_order": "filter_then_search",
+            "shard": "b"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "execution_order": "search_then_filter",
+            "shard": "b"
+          }
+        ]
+      },
+      {
+        "id": "dense_12_gully_boy_filtered",
+        "query_text": "young man from a poor neighbourhood pursues a career as a rapper",
+        "vector_name": "overview_dense",
+        "filter": {
+          "release_year_from": 2015,
+          "industry": "bollywood",
+          "genre_ids": [
+            10402
+          ],
+          "country_codes": [
+            "IN"
+          ]
+        },
+        "relevant_movie_ids": [
+          491625
+        ],
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "search_then_filter"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "execution_order": "filter_then_search",
+            "shard": "b"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "execution_order": "search_then_filter",
+            "shard": "b"
+          }
+        ]
+      }
+    ],
+    "vector_sparse": [
+      {
+        "id": "sparse_01_dark_knight",
+        "query_text": "The Dark Knight Christopher Nolan Batman Joker",
+        "target_movie_id": 155,
+        "target_shards": {
+          "hash": "b",
+          "industry": "a"
+        },
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "hash",
+            "routing": "selective",
+            "shard": "b",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "shard": "a",
+            "execution_order": "filter_then_search"
+          }
+        ]
+      },
+      {
+        "id": "sparse_02_shawshank",
+        "query_text": "The Shawshank Redemption Frank Darabont Andy Dufresne",
+        "target_movie_id": 278,
+        "target_shards": {
+          "hash": "a",
+          "industry": "a"
+        },
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "hash",
+            "routing": "selective",
+            "shard": "a",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "shard": "a",
+            "execution_order": "filter_then_search"
+          }
+        ]
+      },
+      {
+        "id": "sparse_03_pulp_fiction",
+        "query_text": "Pulp Fiction Quentin Tarantino Vincent Vega Jules Winnfield",
+        "target_movie_id": 680,
+        "target_shards": {
+          "hash": "a",
+          "industry": "a"
+        },
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "hash",
+            "routing": "selective",
+            "shard": "a",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "shard": "a",
+            "execution_order": "filter_then_search"
+          }
+        ]
+      },
+      {
+        "id": "sparse_04_avatar",
+        "query_text": "Avatar James Cameron Jake Sully Neytiri",
+        "target_movie_id": 19995,
+        "target_shards": {
+          "hash": "b",
+          "industry": "a"
+        },
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "hash",
+            "routing": "selective",
+            "shard": "b",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "shard": "a",
+            "execution_order": "filter_then_search"
+          }
+        ]
+      },
+      {
+        "id": "sparse_05_ddlj",
+        "query_text": "Dilwale Dulhania Le Jayenge Aditya Chopra Raj Simran",
+        "target_movie_id": 19404,
+        "target_shards": {
+          "hash": "a",
+          "industry": "b"
+        },
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "hash",
+            "routing": "selective",
+            "shard": "a",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "shard": "b",
+            "execution_order": "filter_then_search"
+          }
+        ]
+      },
+      {
+        "id": "sparse_06_three_idiots",
+        "query_text": "3 Idiots Rajkumar Hirani Rancho Virus",
+        "target_movie_id": 20453,
+        "target_shards": {
+          "hash": "b",
+          "industry": "b"
+        },
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "hash",
+            "routing": "selective",
+            "shard": "b",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "shard": "b",
+            "execution_order": "filter_then_search"
+          }
+        ]
+      },
+      {
+        "id": "sparse_07_interstellar_filtered",
+        "query_text": "Interstellar Christopher Nolan Cooper Murph",
+        "filter": {
+          "release_year_from": 2010,
+          "release_year_to": 2018,
+          "genre_ids": [
+            878
+          ]
+        },
+        "target_movie_id": 157336,
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "search_then_filter"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast",
+            "execution_order": "search_then_filter"
+          }
+        ]
+      },
+      {
+        "id": "sparse_08_fight_club_filtered",
+        "query_text": "Fight Club David Fincher Tyler Durden",
+        "filter": {
+          "release_year_from": 1995,
+          "release_year_to": 2002,
+          "country_codes": [
+            "US",
+            "DE"
+          ]
+        },
+        "target_movie_id": 550,
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "search_then_filter"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "industry",
+            "routing": "broadcast",
+            "execution_order": "search_then_filter"
+          }
+        ]
+      },
+      {
+        "id": "sparse_09_lagaan_filtered",
+        "query_text": "Lagaan Once Upon a Time in India Ashutosh Gowariker Bhuvan",
+        "filter": {
+          "industry": "bollywood",
+          "country_codes": [
+            "IN"
+          ]
+        },
+        "target_movie_id": 19666,
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "search_then_filter"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "execution_order": "filter_then_search",
+            "shard": "b"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "execution_order": "search_then_filter",
+            "shard": "b"
+          }
+        ]
+      },
+      {
+        "id": "sparse_10_andhadhun_filtered",
+        "query_text": "Andhadhun Sriram Raghavan Akash",
+        "filter": {
+          "industry": "bollywood",
+          "genre_ids": [
+            9648,
+            53
+          ]
+        },
+        "target_movie_id": 534780,
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "search_then_filter"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "execution_order": "filter_then_search",
+            "shard": "b"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "execution_order": "search_then_filter",
+            "shard": "b"
+          }
+        ]
+      },
+      {
+        "id": "sparse_11_zindagi_filtered",
+        "query_text": "Zindagi Na Milegi Dobara Zoya Akhtar Arjun Kabir Imran",
+        "filter": {
+          "industry": "bollywood",
+          "genre_ids": [
+            10749
+          ],
+          "country_codes": [
+            "IN"
+          ]
+        },
+        "target_movie_id": 61202,
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "search_then_filter"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "execution_order": "filter_then_search",
+            "shard": "b"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "execution_order": "search_then_filter",
+            "shard": "b"
+          }
+        ]
+      },
+      {
+        "id": "sparse_12_resident_evil_filtered",
+        "query_text": "Resident Evil Paul W. S. Anderson Alice Umbrella Corporation",
+        "filter": {
+          "industry": "other_or_ambiguous",
+          "genre_ids": [
+            27,
+            28,
+            878
+          ]
+        },
+        "target_movie_id": 1576,
+        "configurations": [
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "filter_then_search"
+          },
+          {
+            "layout": "hash",
+            "routing": "broadcast",
+            "execution_order": "search_then_filter"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "execution_order": "filter_then_search",
+            "shard": "b"
+          },
+          {
+            "layout": "industry",
+            "routing": "selective",
+            "execution_order": "search_then_filter",
+            "shard": "b"
+          }
+        ]
+      }
+    ]
+  }
+}

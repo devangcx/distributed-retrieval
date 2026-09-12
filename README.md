@@ -573,6 +573,22 @@ Dense vectors use OpenAI `text-embedding-3-large` shortened through the API to
 Sparse vectors use FastEmbed `Qdrant/bm25`, with Qdrant's IDF
 modifier enabled at collection creation.
 
+#### Vector indexes
+
+- `overview_dense` and `full_document_dense` use Qdrant's dense HNSW
+  (Hierarchical Navigable Small World) index for approximate nearest-neighbor
+  search with cosine distance. The loader does not set `hnsw_config`, so these
+  indexes use the defaults supplied by the deployed Qdrant version.
+- `metadata_sparse` uses Qdrant's sparse inverted index rather than HNSW. Its
+  `Qdrant/bm25` representation maps lexical terms to sparse weights, and the
+  collection's `IDF` modifier incorporates collection-wide term frequency at
+  query time. Common terms are therefore less influential than rarer, more
+  discriminating terms.
+
+The HNSW and sparse-index settings are independent: HNSW serves semantic dense
+retrieval, while the inverted index serves lexical sparse retrieval. Their
+ranked results can be fused by the retrieval layer.
+
 The deterministic template normalizes surrounding and repeated whitespace but
 preserves case and punctuation. Missing scalar values use `[unknown]`; empty
 lists use `[none]`. Canonical list order is preserved.

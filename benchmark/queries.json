@@ -151,11 +151,6 @@
           {
             "layout": "industry",
             "routing": "broadcast"
-          },
-          {
-            "layout": "industry",
-            "routing": "selective",
-            "shard": "b"
           }
         ]
       },

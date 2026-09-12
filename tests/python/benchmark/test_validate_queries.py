@@ -105,7 +105,7 @@ def test_query_configurations_cover_the_required_experiments() -> None:
     ]
 
     # Assert
-    assert sum(len(query["configurations"]) for _, query in configured_queries) == 110
+    assert sum(len(query["configurations"]) for _, query in configured_queries) == 109
     for kind, query in configured_queries:
         configurations = query["configurations"]
         serialized = [json.dumps(item, sort_keys=True) for item in configurations]
@@ -214,3 +214,23 @@ def test_relevance_judgments_match_the_corpus_filters_and_shards() -> None:
                 layout: assignments[layout][target_movie_id]
                 for layout in ("hash", "industry")
             }
+
+
+def test_india_count_does_not_use_unsafe_selective_routing() -> None:
+    # Arrange
+    relational_queries = load_json(QUERY_PATH)["queries"]["relational"]
+    india_query = next(
+        query for query in relational_queries if query["id"] == "rel_07_india_count"
+    )
+
+    # Act
+    industry_configurations = [
+        configuration
+        for configuration in india_query["configurations"]
+        if configuration["layout"] == "industry"
+    ]
+
+    # Assert
+    assert industry_configurations == [
+        {"layout": "industry", "routing": "broadcast"}
+    ]

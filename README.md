@@ -106,21 +106,34 @@ Qdrant data volumes. This permanently deletes the locally stored databases:
 docker compose down --volumes --remove-orphans
 ```
 
-## Start the Database Containers
+## Start the Containers
 
 > [!NOTE]
 > Make sure the Docker daemon is installed (using Docker Desktop) and running.
 
-Start all containers and network using Docker Compose:
+Build the Rust orchestrator image and start it with the PostgreSQL and Qdrant
+containers:
 
 ```bash
-docker compose up -d
+docker compose up -d --build
 ```
 
 Inspect status of all container and the network
 
 ```bash
 docker compose ps -a
+```
+
+The orchestrator is available from the host at `http://localhost:3000`. Inside
+the Compose network it connects to the stores using their service names and
+internal ports. The `.env` database and Qdrant URLs continue to use `localhost`
+and the published ports because the Python ingestion and benchmark commands run
+directly on the host, not in containers.
+
+Check that the orchestrator process is running:
+
+```bash
+curl http://localhost:3000/health
 ```
 
 ## Build the PostgreSQL Relational Stores

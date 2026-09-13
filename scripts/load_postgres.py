@@ -53,7 +53,7 @@ def load_postgres_shard(database_url: str, shard_load: ShardLoad) -> None:
         from psycopg.types.json import Jsonb
     except ImportError as error:
         raise RuntimeError(
-            "psycopg is required for database loading; install scripts/requirements.txt"
+            "psycopg is required for database loading; install requirements.txt"
         ) from error
 
     schema = LAYOUT_SCHEMAS[shard_load.manifest["layout_strategy"]]

@@ -23,7 +23,7 @@ def create_schema(database_url: str, schema: str) -> None:
         from psycopg import sql
     except ImportError as error:
         raise RuntimeError(
-            "psycopg is required; install scripts/requirements.txt"
+            "psycopg is required; install requirements.txt"
         ) from error
 
     with psycopg.connect(database_url, autocommit=True) as connection:

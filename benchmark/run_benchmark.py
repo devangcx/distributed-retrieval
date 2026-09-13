@@ -8,6 +8,13 @@ import urllib.request
 from pathlib import Path
 from typing import Any, Callable, TextIO
 
+if __package__:
+    from benchmark.benchmark_metrics import BenchmarkMetrics
+else:
+    # Direct script execution places the benchmark folder, not the repository
+    # root, on Python's import path.
+    from benchmark_metrics import BenchmarkMetrics
+
 BENCHMARK_DIRECTORY = Path(__file__).resolve().parent
 DEFAULT_QUERY_PATH = BENCHMARK_DIRECTORY / "queries.json"
 DEFAULT_REPRESENTATION_PATH = BENCHMARK_DIRECTORY / "representations.json"
@@ -23,7 +30,15 @@ def parse_arguments() -> argparse.Namespace:
         default=DEFAULT_REPRESENTATION_PATH,
     )
     parser.add_argument("--output-directory", type=Path, required=True)
-    parser.add_argument("--warmups", type=int, default=1)
+    parser.add_argument(
+        "--warmups",
+        type=int,
+        default=1,
+        help=(
+            "unmeasured requests sent before each configuration so connection "
+            "pools, database pages, and indexes are ready before timing begins"
+        ),
+    )
     parser.add_argument("--repetitions", type=int, default=30)
     parser.add_argument("--timeout-seconds", type=float, default=15.0)
     return parser.parse_args()
@@ -35,18 +50,28 @@ def load_json(path: Path) -> dict[str, Any]:
 
 def configured_queries(
     query_document: dict[str, Any],
-) -> list[tuple[str, dict[str, Any], int, dict[str, Any]]]:
-    configured: list[tuple[str, dict[str, Any], int, dict[str, Any]]] = []
+) -> list[tuple[str, dict[str, Any], dict[str, Any]]]:
+    """Create one item for every request the runner needs to send.
+
+    For example, a query with two configurations becomes two items. The first
+    item contains the query and its first configuration. The second item
+    contains the same query and its second configuration. The runner later
+    sends one request for each item.
+
+    Each item also includes the query type. If a query has no limit, its copy
+    receives the default limit from the top of ``queries.json``. The original
+    query is not changed.
+    """
+    configured: list[tuple[str, dict[str, Any], dict[str, Any]]] = []
     default_limit = query_document["default_limit"]
     for query_kind, queries in query_document["queries"].items():
         for query in queries:
             query_with_defaults = dict(query)
             if "limit" not in query_with_defaults:
                 query_with_defaults["limit"] = default_limit
-            for index, configuration in enumerate(query["configurations"], start=1):
+            for configuration in query["configurations"]:
                 configured.append(
-                    (query_kind, query_with_defaults, index, configuration)
-                )
+                    (query_kind, query_with_defaults, configuration))
     return configured
 
 
@@ -86,13 +111,16 @@ def build_request(
 def request_once(
     url: str, request_body: dict[str, Any], timeout_seconds: float
 ) -> dict[str, Any]:
-    encoded_body = json.dumps(request_body, separators=(",", ":")).encode("utf-8")
+    # Compact JSON reduces the request size, especially for 1,024-value vectors.
+    encoded_body = json.dumps(
+        request_body, separators=(",", ":")).encode("utf-8")
     request = urllib.request.Request(
         url,
         data=encoded_body,
         headers={"Content-Type": "application/json"},
         method="POST",
     )
+    # The client timer covers the complete HTTP round trip and response decoding.
     started = time.perf_counter()
     try:
         with urllib.request.urlopen(request, timeout=timeout_seconds) as response:
@@ -100,10 +128,12 @@ def request_once(
             status = response.status
             failure = None
     except urllib.error.HTTPError as error:
+        # HTTP failures retain the status and server message for later analysis.
         status = error.code
         failure = error.read().decode("utf-8")
         response_body = None
     except (urllib.error.URLError, TimeoutError) as error:
+        # Connection and timeout failures have no HTTP response status or body.
         status = None
         failure = str(error)
         response_body = None
@@ -122,30 +152,9 @@ def contacted_shards(configuration: dict[str, Any]) -> list[str]:
     return [configuration["shard"]]
 
 
-def relational_correctness(
-    correctness: dict[str, Any], results: list[dict[str, Any]]
-) -> bool:
-    if correctness["type"] == "sum_field":
-        actual = sum(int(result[correctness["field"]]) for result in results)
-        return actual == correctness["expected"]
-    if correctness["type"] == "movie_ids":
-        actual = sorted(int(result["movie_id"]) for result in results)
-        expected = sorted(int(movie_id) for movie_id in correctness["expected"])
-        return actual == expected
-    raise ValueError(f"unknown relational correctness type {correctness['type']}")
-
-
-def target_rank(results: list[dict[str, Any]], target_movie_id: int) -> int | None:
-    for index, result in enumerate(results, start=1):
-        if int(result["movie_id"]) == target_movie_id:
-            return index
-    return None
-
-
 def build_record(
     query_kind: str,
     query: dict[str, Any],
-    configuration_index: int,
     configuration: dict[str, Any],
     repetition: int,
     outcome: dict[str, Any],
@@ -158,7 +167,7 @@ def build_record(
     record: dict[str, Any] = {
         "query_id": query["id"],
         "query_kind": query_kind,
-        "configuration_index": configuration_index,
+        "limit": query["limit"],
         "repetition": repetition,
         "layout": configuration["layout"],
         "routing": configuration["routing"],
@@ -184,82 +193,15 @@ def build_record(
         "failure": outcome["failure"],
     }
 
-    successful = outcome["http_status"] == 200
     if query_kind == "relational":
         record["relational_results"] = results
-        record["correct"] = None
-        if successful:
-            record["correct"] = relational_correctness(
-                query["correctness"], results
-            )
+        record["correctness"] = query["correctness"]
     if query_kind == "vector_dense":
-        relevant_movie_ids = query["relevant_movie_ids"]
-        record["relevant_movie_ids"] = relevant_movie_ids
-        record["hit_at_k"] = None
-        if successful:
-            returned_ids = {int(result["movie_id"]) for result in results}
-            record["hit_at_k"] = any(
-                movie_id in returned_ids for movie_id in relevant_movie_ids
-            )
+        record["relevant_movie_ids"] = query["relevant_movie_ids"]
     if query_kind == "vector_sparse":
-        target_movie_id = query["target_movie_id"]
-        record["target_movie_id"] = target_movie_id
-        record["target_rank"] = None
-        record["hit_at_k"] = None
-        record["reciprocal_rank"] = None
-        if successful:
-            rank = target_rank(results, target_movie_id)
-            record["target_rank"] = rank
-            record["hit_at_k"] = rank is not None and rank <= query["limit"]
-            record["reciprocal_rank"] = 0.0 if rank is None else 1.0 / rank
+        record["target_movie_id"] = query["target_movie_id"]
 
     return record
-
-
-def build_summary(records: list[dict[str, Any]]) -> dict[str, Any]:
-    relational_records = [
-        record for record in records if record["query_kind"] == "relational"
-    ]
-    dense_records = [
-        record
-        for record in records
-        if record["query_kind"] == "vector_dense" and record["http_status"] == 200
-    ]
-    sparse_records = [
-        record
-        for record in records
-        if record["query_kind"] == "vector_sparse" and record["http_status"] == 200
-    ]
-
-    dense_hit_rate = None
-    if dense_records:
-        dense_hit_rate = sum(record["hit_at_k"] for record in dense_records) / len(
-            dense_records
-        )
-
-    sparse_hit_rate = None
-    mean_reciprocal_rank = None
-    if sparse_records:
-        sparse_hit_rate = sum(record["hit_at_k"] for record in sparse_records) / len(
-            sparse_records
-        )
-        mean_reciprocal_rank = sum(
-            record["reciprocal_rank"] for record in sparse_records
-        ) / len(sparse_records)
-
-    return {
-        "request_count": len(records),
-        "failure_count": sum(record["http_status"] != 200 for record in records),
-        "relational_checks_total": len(relational_records),
-        "relational_checks_passed": sum(
-            record["correct"] is True for record in relational_records
-        ),
-        "dense_successful_runs": len(dense_records),
-        "dense_hit_rate_at_k": dense_hit_rate,
-        "known_item_successful_runs": len(sparse_records),
-        "known_item_hit_rate_at_k": sparse_hit_rate,
-        "known_item_mean_reciprocal_rank": mean_reciprocal_rank,
-    }
 
 
 def load_records(path: Path) -> list[dict[str, Any]]:
@@ -280,19 +222,20 @@ def run_requests(
     send_request: Callable[[str, dict[str, Any], float], dict[str, Any]],
 ) -> int:
     measured_request_count = 0
-    for query_kind, query, configuration_index, configuration in configured_queries(
-        query_document
-    ):
+    for query_kind, query, configuration in configured_queries(query_document):
         request_body = build_request(
             query_kind, query, configuration, representations
         )
 
+        # Warmups exercise the same path without recording timings. This gives
+        # connection pools, database pages, and indexes a chance to become warm
+        # before the measured repetitions for this configuration begin.
         for _warmup in range(warmups):
             outcome = send_request(url, request_body, timeout_seconds)
             if outcome["http_status"] != 200:
                 raise RuntimeError(
-                    f"warmup failed for {query['id']} configuration "
-                    f"{configuration_index}: {outcome['failure']}"
+                    f"warmup failed for {query['id']} with "
+                    f"{configuration}: {outcome['failure']}"
                 )
 
         for repetition in range(1, repetitions + 1):
@@ -300,7 +243,6 @@ def run_requests(
             record = build_record(
                 query_kind,
                 query,
-                configuration_index,
                 configuration,
                 repetition,
                 outcome,
@@ -338,9 +280,10 @@ def main() -> None:
         )
 
     records = load_records(result_path)
-    summary = build_summary(records)
+    summary = BenchmarkMetrics(records).calculate()
     summary_path = arguments.output_directory / "summary.json"
-    summary_path.write_text(json.dumps(summary, indent=2) + "\n", encoding="utf-8")
+    summary_path.write_text(json.dumps(
+        summary, indent=2) + "\n", encoding="utf-8")
     print(json.dumps(summary, indent=2))
     print(f"saved {measured_request_count} measured requests to {result_path}")
 

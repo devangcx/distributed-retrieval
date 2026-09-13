@@ -39,8 +39,8 @@ Create a local Python environment and install the Python dependencies:
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-pip install -r scripts/requirements.txt
-pip install -r scripts/dev-requirements.txt
+pip install -r requirements.txt
+pip install -r requirements-dev.txt
 ```
 
 Install the Diesel CLI used by the relational-schema initialization script:

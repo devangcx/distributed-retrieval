@@ -1,12 +1,40 @@
 name: distributed-retrieval
 
 services:
+  orchestrator:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      POSTGRES_SHARD_A_URL: postgres://retrieval_user:retrieval_password@postgres-shard-a:5432/retrieval
+      POSTGRES_SHARD_B_URL: postgres://retrieval_user:retrieval_password@postgres-shard-b:5432/retrieval
+      QDRANT_SHARD_A_URL: http://qdrant-shard-a:6333
+      QDRANT_SHARD_B_URL: http://qdrant-shard-b:6333
+      ORCHESTRATOR_BIND: 0.0.0.0:3000
+    ports:
+      - "3000:3000"
+    depends_on:
+      postgres-shard-a:
+        condition: service_healthy
+      postgres-shard-b:
+        condition: service_healthy
+      qdrant-shard-a:
+        condition: service_started
+      qdrant-shard-b:
+        condition: service_started
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "http://localhost:3000/health"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
   postgres-shard-a:
     image: postgres:16-alpine
     environment:
       POSTGRES_DB: retrieval
       POSTGRES_USER: retrieval_user
       POSTGRES_PASSWORD: retrieval_password
+    # Published for access from host-side scripts; not required for container-to-container traffic
     ports:
       - "5433:5432"
     volumes:
@@ -23,6 +51,7 @@ services:
       POSTGRES_DB: retrieval
       POSTGRES_USER: retrieval_user
       POSTGRES_PASSWORD: retrieval_password
+    # Published for access from host-side scripts; not required for container-to-container traffic
     ports:
       - "5434:5432"
     volumes:
@@ -35,6 +64,7 @@ services:
 
   qdrant-shard-a:
     image: qdrant/qdrant:v1.13.6
+    # Published for access from host-side scripts; not required for container-to-container traffic
     ports:
       - "6333:6333"
       - "6334:6334"
@@ -43,6 +73,7 @@ services:
 
   qdrant-shard-b:
     image: qdrant/qdrant:v1.13.6
+    # Published for access from host-side scripts; not required for container-to-container traffic
     ports:
       - "6335:6333"
       - "6336:6334"

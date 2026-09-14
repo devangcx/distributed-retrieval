@@ -70,8 +70,7 @@ def configured_queries(
             if "limit" not in query_with_defaults:
                 query_with_defaults["limit"] = default_limit
             for configuration in query["configurations"]:
-                configured.append(
-                    (query_kind, query_with_defaults, configuration))
+                configured.append((query_kind, query_with_defaults, configuration))
     return configured
 
 

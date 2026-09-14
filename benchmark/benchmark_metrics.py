@@ -62,16 +62,13 @@ class BenchmarkMetrics:
         correctness = record["correctness"]
         results = record["relational_results"]
         if correctness["type"] == "sum_field":
-            actual = sum(int(result[correctness["field"]])
-                         for result in results)
+            actual = sum(int(result[correctness["field"]]) for result in results)
             return actual == correctness["expected"]
         if correctness["type"] == "movie_ids":
             actual = sorted(int(result["movie_id"]) for result in results)
-            expected = sorted(int(movie_id)
-                              for movie_id in correctness["expected"])
+            expected = sorted(int(movie_id) for movie_id in correctness["expected"])
             return actual == expected
-        raise ValueError(
-            f"unknown relational correctness type {correctness['type']}")
+        raise ValueError(f"unknown relational correctness type {correctness['type']}")
 
     def target_rank(self, record: dict[str, Any]) -> int | None:
         for result in record["ranking"]:

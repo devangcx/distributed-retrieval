@@ -1,14 +1,31 @@
 """Calculate correctness, retrieval quality, and timing benchmark metrics."""
 
 import math
+import random
 import statistics
+from itertools import combinations
 from typing import Any
+
+
+CONFIDENCE_LEVEL = 0.95
+BOOTSTRAP_RESAMPLES = 10_000
+BOOTSTRAP_SEED = 20260915
+MINIMUM_CONFIDENCE_INTERVAL_SAMPLES = 2
 
 
 class BenchmarkMetrics:
     """Calculate metrics from the completed request records."""
 
-    def __init__(self, records: list[dict[str, Any]]) -> None:
+    def __init__(
+        self,
+        records: list[dict[str, Any]],
+        bootstrap_seed: int = BOOTSTRAP_SEED,
+        bootstrap_resamples: int = BOOTSTRAP_RESAMPLES,
+    ) -> None:
+        if bootstrap_resamples < 1:
+            raise ValueError("bootstrap_resamples must be at least 1")
+        self.bootstrap_seed = bootstrap_seed
+        self.bootstrap_resamples = bootstrap_resamples
         self.records = [self.evaluate_record(record) for record in records]
         self.relational_records = self.records_for_kind("relational")
         self.dense_records = self.successful_records_for_kind("vector_dense")
@@ -134,9 +151,42 @@ class BenchmarkMetrics:
         rank = math.ceil(percentile * len(ordered_values))
         return ordered_values[rank - 1]
 
+    def mean_confidence_interval(
+        self, values: list[float]
+    ) -> dict[str, float | int | str | None]:
+        """Estimate a reproducible percentile-bootstrap interval for the mean."""
+        interval: dict[str, float | int | str | None] = {
+            "confidence_level": CONFIDENCE_LEVEL,
+            "method": "percentile_bootstrap",
+            "resampling_seed": self.bootstrap_seed,
+            "resample_count": self.bootstrap_resamples,
+            "lower": None,
+            "upper": None,
+            "status": "insufficient_samples",
+        }
+        if len(values) < MINIMUM_CONFIDENCE_INTERVAL_SAMPLES:
+            return interval
+
+        random_generator = random.Random(self.bootstrap_seed)
+        sample_size = len(values)
+        bootstrap_means = []
+        for _resample_number in range(self.bootstrap_resamples):
+            resample = random_generator.choices(values, k=sample_size)
+            bootstrap_means.append(statistics.fmean(resample))
+
+        tail_probability = (1.0 - CONFIDENCE_LEVEL) / 2.0
+        interval["lower"] = self.nearest_rank_percentile(
+            bootstrap_means, tail_probability
+        )
+        interval["upper"] = self.nearest_rank_percentile(
+            bootstrap_means, 1.0 - tail_probability
+        )
+        interval["status"] = "available"
+        return interval
+
     def timing_statistics(
         self, records: list[dict[str, Any]], field: str
-    ) -> dict[str, float | int | None]:
+    ) -> dict[str, Any]:
         values = [
             float(record[field])
             for record in records
@@ -147,6 +197,9 @@ class BenchmarkMetrics:
             "mean": self.mean(values),
             "p95": self.nearest_rank_percentile(values, 0.95),
             "p99": self.nearest_rank_percentile(values, 0.99),
+            "mean_95_confidence_interval": self.mean_confidence_interval(
+                values
+            ),
         }
 
     def metric_mean(
@@ -276,6 +329,108 @@ class BenchmarkMetrics:
             key=lambda row: (row["query_kind"], row["strategy"]),
         )
 
+    def per_query_timing_means(
+        self, records: list[dict[str, Any]], field: str
+    ) -> dict[str, float]:
+        """Average repetitions so every logical query has equal weight."""
+        values_by_query: dict[str, list[float]] = {}
+        for record in records:
+            if record["http_status"] != 200 or record.get(field) is None:
+                continue
+            query_id = record["query_id"]
+            if query_id not in values_by_query:
+                values_by_query[query_id] = []
+            values_by_query[query_id].append(float(record[field]))
+        return {
+            query_id: statistics.fmean(values)
+            for query_id, values in values_by_query.items()
+        }
+
+    def strategy_comparison_row(
+        self,
+        first_records: list[dict[str, Any]],
+        second_records: list[dict[str, Any]],
+    ) -> dict[str, Any] | None:
+        """Compare two strategies using only matched logical queries."""
+        first_client = self.per_query_timing_means(
+            first_records, "request_latency_ms"
+        )
+        second_client = self.per_query_timing_means(
+            second_records, "request_latency_ms"
+        )
+        first_orchestrator = self.per_query_timing_means(
+            first_records, "total_ms"
+        )
+        second_orchestrator = self.per_query_timing_means(
+            second_records, "total_ms"
+        )
+        matched_query_ids = sorted(
+            set(first_client)
+            .intersection(second_client)
+            .intersection(first_orchestrator)
+            .intersection(second_orchestrator)
+        )
+        if not matched_query_ids:
+            return None
+
+        client_differences = [
+            second_client[query_id] - first_client[query_id]
+            for query_id in matched_query_ids
+        ]
+        orchestrator_differences = [
+            second_orchestrator[query_id] - first_orchestrator[query_id]
+            for query_id in matched_query_ids
+        ]
+        return {
+            "query_kind": first_records[0]["query_kind"],
+            "strategy_a": self.strategy_name(first_records[0]),
+            "strategy_b": self.strategy_name(second_records[0]),
+            "difference_direction": "strategy_b_minus_strategy_a",
+            "matched_query_count": len(matched_query_ids),
+            "matched_query_ids": matched_query_ids,
+            "client_mean_difference_ms": self.mean(client_differences),
+            "client_mean_difference_95_confidence_interval": (
+                self.mean_confidence_interval(client_differences)
+            ),
+            "orchestrator_mean_difference_ms": self.mean(
+                orchestrator_differences
+            ),
+            "orchestrator_mean_difference_95_confidence_interval": (
+                self.mean_confidence_interval(orchestrator_differences)
+            ),
+            "sampling_unit": "matched logical query",
+            "scope": (
+                "This comparison describes only the selected benchmark "
+                "workload shared by both strategies. Repetitions were averaged "
+                "within each query before comparing strategies."
+            ),
+        }
+
+    def strategy_comparison_rows(self) -> list[dict[str, Any]]:
+        """Build pairwise, matched-query comparisons within each query kind."""
+        groups_by_kind: dict[str, list[list[dict[str, Any]]]] = {}
+        for records in self.group_by_strategy():
+            query_kind = records[0]["query_kind"]
+            if query_kind not in groups_by_kind:
+                groups_by_kind[query_kind] = []
+            groups_by_kind[query_kind].append(records)
+
+        rows = []
+        for query_kind in sorted(groups_by_kind):
+            strategy_groups = sorted(
+                groups_by_kind[query_kind],
+                key=lambda records: self.strategy_name(records[0]),
+            )
+            for first_records, second_records in combinations(
+                strategy_groups, 2
+            ):
+                row = self.strategy_comparison_row(
+                    first_records, second_records
+                )
+                if row is not None:
+                    rows.append(row)
+        return rows
+
     def group_by_configuration(self) -> list[list[dict[str, Any]]]:
         groups: dict[
             tuple[str, str, str, str | None, str | None],
@@ -297,6 +452,22 @@ class BenchmarkMetrics:
     def calculate(self) -> dict[str, Any]:
         """Calculate the complete summary for all measured request records."""
         return {
+            "confidence_intervals": {
+                "confidence_level": CONFIDENCE_LEVEL,
+                "method": "percentile bootstrap of the arithmetic mean",
+                "resampling_seed": self.bootstrap_seed,
+                "resample_count": self.bootstrap_resamples,
+                "minimum_sample_count": MINIMUM_CONFIDENCE_INTERVAL_SAMPLES,
+                "sampling_unit": (
+                    "successful repeated timings within one logical query and "
+                    "configuration"
+                ),
+                "independence_assumption": (
+                    "Repeated timings are treated as independent observations "
+                    "within each query/configuration. They are not treated as "
+                    "distinct logical queries."
+                ),
+            },
             "request_count": len(self.records),
             "failure_count": sum(
                 record["http_status"] != 200 for record in self.records
@@ -329,6 +500,7 @@ class BenchmarkMetrics:
             "known_item_mean_reciprocal_rank": self.metric_mean(
                 self.sparse_records, "reciprocal_rank"
             ),
+            "strategy_comparisons": self.strategy_comparison_rows(),
             "configurations": [
                 self.configuration_summary(group)
                 for group in self.configuration_groups

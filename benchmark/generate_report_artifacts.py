@@ -2,20 +2,26 @@
 
 import argparse
 import csv
-import html
 import json
 from pathlib import Path
 from typing import Any
 
 if __package__:
     from benchmark.benchmark_metrics import BenchmarkMetrics
+    from benchmark.plotly_charts import ChartValue, write_horizontal_bar_png
 else:
     from benchmark_metrics import BenchmarkMetrics
+    from plotly_charts import ChartValue, write_horizontal_bar_png
 
 
 def parse_arguments() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("run_directory", type=Path)
+    parser.add_argument(
+        "--overwrite",
+        action="store_true",
+        help="replace report artifacts already present in the run directory",
+    )
     return parser.parse_args()
 
 
@@ -46,8 +52,16 @@ def configuration_rows(summary: dict[str, Any]) -> list[dict[str, Any]]:
             "enrichment_ms",
         ):
             timing = configuration[timing_name]
+            row[f"{timing_name}_sample_count"] = timing["sample_count"]
             for statistic in ("mean", "p95", "p99"):
                 row[f"{timing_name}_{statistic}"] = timing[statistic]
+            interval = timing["mean_95_confidence_interval"]
+            row[f"{timing_name}_mean_95_ci_lower"] = interval["lower"]
+            row[f"{timing_name}_mean_95_ci_upper"] = interval["upper"]
+            row[f"{timing_name}_mean_95_ci_status"] = interval["status"]
+            row[f"{timing_name}_p99_qualification"] = (
+                p99_qualification(timing["sample_count"])
+            )
         for metric_name in (
             "correct_runs",
             "hit_at_k",
@@ -62,52 +76,124 @@ def configuration_rows(summary: dict[str, Any]) -> list[dict[str, Any]]:
     return rows
 
 
-def write_csv(path: Path, rows: list[dict[str, Any]]) -> None:
+def p99_qualification(sample_count: int) -> str:
+    if sample_count <= 30:
+        return (
+            f"P99 is the maximum or near-maximum of only {sample_count} "
+            "timings; interpret cautiously."
+        )
+    return ""
+
+
+def matched_comparison_rows(metrics: BenchmarkMetrics) -> list[dict[str, Any]]:
+    rows = []
+    for comparison in metrics.strategy_comparison_rows():
+        client_interval = comparison[
+            "client_mean_difference_95_confidence_interval"
+        ]
+        orchestrator_interval = comparison[
+            "orchestrator_mean_difference_95_confidence_interval"
+        ]
+        rows.append({
+            "query_kind": comparison["query_kind"],
+            "strategy_a": comparison["strategy_a"],
+            "strategy_b": comparison["strategy_b"],
+            "difference_direction": comparison["difference_direction"],
+            "matched_query_count": comparison["matched_query_count"],
+            "matched_query_ids": ";".join(comparison["matched_query_ids"]),
+            "client_mean_difference_ms": comparison[
+                "client_mean_difference_ms"
+            ],
+            "client_mean_difference_95_ci_lower": client_interval["lower"],
+            "client_mean_difference_95_ci_upper": client_interval["upper"],
+            "client_mean_difference_95_ci_status": client_interval["status"],
+            "orchestrator_mean_difference_ms": comparison[
+                "orchestrator_mean_difference_ms"
+            ],
+            "orchestrator_mean_difference_95_ci_lower": (
+                orchestrator_interval["lower"]
+            ),
+            "orchestrator_mean_difference_95_ci_upper": (
+                orchestrator_interval["upper"]
+            ),
+            "orchestrator_mean_difference_95_ci_status": (
+                orchestrator_interval["status"]
+            ),
+            "resampling_seed": orchestrator_interval["resampling_seed"],
+            "resample_count": orchestrator_interval["resample_count"],
+            "sampling_unit": comparison["sampling_unit"],
+            "scope": comparison["scope"],
+        })
+    return rows
+
+
+def write_csv(
+    path: Path, rows: list[dict[str, Any]], overwrite: bool = False
+) -> None:
     if not rows:
         raise ValueError("cannot write an empty comparison table")
-    with path.open("x", encoding="utf-8", newline="") as output_file:
+    mode = "w" if overwrite else "x"
+    with path.open(mode, encoding="utf-8", newline="") as output_file:
         writer = csv.DictWriter(output_file, fieldnames=list(rows[0]))
         writer.writeheader()
         writer.writerows(rows)
 
 
-def write_bar_chart(
-    path: Path,
-    title: str,
-    value_label: str,
-    values: list[tuple[str, float]],
-) -> None:
-    width = 1200
-    left_margin = 390
-    right_margin = 50
-    top_margin = 90
-    row_height = 38
-    height = top_margin + row_height * len(values) + 60
-    largest_value = max(value for _, value in values)
-    chart_width = width - left_margin - right_margin
-    svg_lines = [
-        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">',
-        '<rect width="100%" height="100%" fill="white"/>',
-        f'<text x="{width / 2}" y="35" text-anchor="middle" font-family="sans-serif" font-size="22">{html.escape(title)}</text>',
-        f'<text x="{left_margin + chart_width / 2}" y="65" text-anchor="middle" font-family="sans-serif" font-size="14">{html.escape(value_label)}</text>',
+def configuration_latency_chart_values(
+    configurations: list[dict[str, Any]],
+) -> list[ChartValue]:
+    return [
+        (
+            f'{row["query_id"]}: {row["layout"]} / {row["routing"]} / {row["execution_order"]}',
+            row["total_ms_mean"],
+            row["total_ms_mean_95_ci_lower"],
+            row["total_ms_mean_95_ci_upper"],
+        )
+        for row in configurations
+        if row["total_ms_mean"] is not None
     ]
-    for index, (label, value) in enumerate(values):
-        y = top_margin + index * row_height
-        bar_width = 0.0
-        if largest_value > 0.0:
-            bar_width = chart_width * value / largest_value
-        svg_lines.append(
-            f'<text x="{left_margin - 12}" y="{y + 19}" text-anchor="end" font-family="sans-serif" font-size="13">{html.escape(label)}</text>'
+
+
+def retrieval_quality_chart_values(
+    strategies: list[dict[str, Any]],
+) -> list[ChartValue]:
+    values = []
+    for row in strategies:
+        if (
+            row["query_kind"] == "vector_dense"
+            and row["binary_ndcg_at_k"] is not None
+        ):
+            values.append((
+                f'Dense NDCG: {row["strategy"]}',
+                row["binary_ndcg_at_k"],
+                None,
+                None,
+            ))
+        if (
+            row["query_kind"] == "vector_sparse"
+            and row["mean_reciprocal_rank"] is not None
+        ):
+            values.append((
+                f'Sparse MRR: {row["strategy"]}',
+                row["mean_reciprocal_rank"],
+                None,
+                None,
+            ))
+    return values
+
+
+def matched_latency_chart_values(
+    comparisons: list[dict[str, Any]],
+) -> list[ChartValue]:
+    return [
+        (
+            f'{row["query_kind"]}: {row["strategy_a"]} vs {row["strategy_b"]} (n={row["matched_query_count"]})',
+            row["orchestrator_mean_difference_ms"],
+            row["orchestrator_mean_difference_95_ci_lower"],
+            row["orchestrator_mean_difference_95_ci_upper"],
         )
-        svg_lines.append(
-            f'<rect x="{left_margin}" y="{y + 4}" width="{bar_width:.2f}" height="22" fill="#3975a8"/>'
-        )
-        svg_lines.append(
-            f'<text x="{left_margin + bar_width + 8:.2f}" y="{y + 20}" font-family="sans-serif" font-size="13">{value:.3f}</text>'
-        )
-    svg_lines.append("</svg>")
-    with path.open("x", encoding="utf-8") as output_file:
-        output_file.write("\n".join(svg_lines) + "\n")
+        for row in comparisons
+    ]
 
 
 def validate_artifact_paths(
@@ -132,64 +218,74 @@ def validate_artifact_paths(
             f"report artifact already exists: {existing_paths[0]}")
 
 
-def generate_artifacts(run_directory: Path) -> list[Path]:
+def generate_artifacts(
+    run_directory: Path, overwrite: bool = False
+) -> list[Path]:
     requests_path = run_directory / "requests.jsonl"
     summary_path = run_directory / "summary.json"
     strategy_path = run_directory / "strategy_comparison.csv"
+    matched_strategy_path = run_directory / "matched_strategy_comparison.csv"
     configuration_path = run_directory / "configuration_comparison.csv"
-    latency_chart_path = run_directory / "mean_total_latency.svg"
-    quality_chart_path = run_directory / "retrieval_quality.svg"
+    latency_chart_path = run_directory / "mean_total_latency.png"
+    quality_chart_path = run_directory / "retrieval_quality.png"
+    matched_chart_path = run_directory / "matched_latency_difference.png"
 
     input_paths = [requests_path, summary_path]
     output_paths = [
         strategy_path,
+        matched_strategy_path,
         configuration_path,
         latency_chart_path,
         quality_chart_path,
+        matched_chart_path,
     ]
 
-    validate_artifact_paths(run_directory, input_paths, output_paths)
+    paths_to_validate = [] if overwrite else output_paths
+    validate_artifact_paths(run_directory, input_paths, paths_to_validate)
 
     records = load_records(requests_path)
-    summary = json.loads(summary_path.read_text(encoding="utf-8"))
     metrics = BenchmarkMetrics(records)
+    summary = metrics.calculate()
     strategies = metrics.strategy_rows()
+    comparisons = matched_comparison_rows(metrics)
 
-    write_csv(strategy_path, strategies)
-    write_csv(configuration_path, configuration_rows(summary))
-    latency_values = [
-        (f'{row["query_kind"]}: {row["strategy"]}', row["total_mean_ms"])
-        for row in strategies
-        if row["total_mean_ms"] is not None
-    ]
-    write_bar_chart(
+    write_csv(strategy_path, strategies, overwrite)
+    write_csv(matched_strategy_path, comparisons, overwrite)
+    configurations = configuration_rows(summary)
+    write_csv(configuration_path, configurations, overwrite)
+    latency_values = configuration_latency_chart_values(configurations)
+    write_horizontal_bar_png(
         latency_chart_path,
-        "Mean orchestrator latency by retrieval strategy",
-        "Mean total_ms across successful requests (milliseconds)",
+        "Mean orchestrator latency by query and configuration",
+        "Mean total_ms with 95% confidence intervals (milliseconds)",
         latency_values,
+        overwrite=overwrite,
     )
-    quality_values = []
-    for row in strategies:
-        if row["query_kind"] == "vector_dense" and row["binary_ndcg_at_k"] is not None:
-            quality_values.append(
-                (f'Dense NDCG: {row["strategy"]}', row["binary_ndcg_at_k"])
-            )
-        if row["query_kind"] == "vector_sparse" and row["mean_reciprocal_rank"] is not None:
-            quality_values.append(
-                (f'Sparse MRR: {row["strategy"]}', row["mean_reciprocal_rank"])
-            )
-    write_bar_chart(
+    quality_values = retrieval_quality_chart_values(strategies)
+    write_horizontal_bar_png(
         quality_chart_path,
         "Retrieval quality by strategy",
         "Binary NDCG@K for dense; MRR for sparse",
         quality_values,
+        overwrite=overwrite,
+    )
+    matched_values = matched_latency_chart_values(comparisons)
+    write_horizontal_bar_png(
+        matched_chart_path,
+        "Matched-query orchestrator latency differences",
+        "Strategy B minus strategy A (milliseconds); 95% confidence intervals",
+        matched_values,
+        overwrite=overwrite,
+        show_zero_line=True,
     )
     return output_paths
 
 
 def main() -> None:
     arguments = parse_arguments()
-    generated_paths = generate_artifacts(arguments.run_directory)
+    generated_paths = generate_artifacts(
+        arguments.run_directory, overwrite=arguments.overwrite
+    )
     for path in generated_paths:
         print(f"saved {path}")
 

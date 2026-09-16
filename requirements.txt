@@ -1,5 +1,7 @@
 httpx
 dotenv
+plotly
+kaleido
 psycopg[binary]
 openai==3.6.0
 qdrant-client[fastembed]==1.13.3

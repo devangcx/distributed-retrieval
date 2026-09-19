@@ -135,8 +135,66 @@ def test_calculates_mean_and_nearest_rank_latency_percentiles() -> None:
         "mean": 50.5,
         "p95": 95.0,
         "p99": 99.0,
+        "mean_95_confidence_interval": {
+            "confidence_level": 0.95,
+            "method": "percentile_bootstrap",
+            "resampling_seed": 20260915,
+            "resample_count": 10_000,
+            "lower": 44.81,
+            "upper": 56.24,
+            "status": "available",
+        },
     }
     assert p95 == 4.0
+
+
+def test_bootstrap_mean_confidence_interval_is_reproducible() -> None:
+    # Arrange
+    records = [benchmark_record("dense", "vector_dense")]
+    records[0]["relevant_movie_ids"] = [1]
+    metrics = BenchmarkMetrics(
+        records, bootstrap_seed=7, bootstrap_resamples=1_000
+    )
+
+    # Act
+    first_interval = metrics.mean_confidence_interval([1.0, 2.0, 3.0, 4.0])
+    second_interval = metrics.mean_confidence_interval([1.0, 2.0, 3.0, 4.0])
+
+    # Assert
+    assert first_interval == second_interval
+    assert first_interval == {
+        "confidence_level": 0.95,
+        "method": "percentile_bootstrap",
+        "resampling_seed": 7,
+        "resample_count": 1_000,
+        "lower": 1.5,
+        "upper": 3.5,
+        "status": "available",
+    }
+
+
+def test_reports_insufficient_samples_for_mean_confidence_interval() -> None:
+    # Arrange
+    record = benchmark_record("dense", "vector_dense")
+    record["relevant_movie_ids"] = [1]
+    metrics = BenchmarkMetrics([record])
+
+    # Act
+    summary = metrics.calculate()
+    timing = summary["configurations"][0]["request_latency_ms"]
+
+    # Assert
+    assert timing["mean"] == 5.0
+    assert timing["sample_count"] == 1
+    assert timing["mean_95_confidence_interval"]["lower"] is None
+    assert timing["mean_95_confidence_interval"]["upper"] is None
+    assert (
+        timing["mean_95_confidence_interval"]["status"]
+        == "insufficient_samples"
+    )
+    assert "not treated as distinct logical queries" in (
+        summary["confidence_intervals"]["independence_assumption"]
+    )
 
 
 def test_summarizes_records_by_retrieval_strategy() -> None:
@@ -159,3 +217,52 @@ def test_summarizes_records_by_retrieval_strategy() -> None:
     assert rows[0]["request_count"] == 2
     assert rows[0]["total_mean_ms"] == 5.0
     assert rows[0]["hit_rate_at_k"] == 1.0
+
+
+def test_compares_strategies_by_resampling_matched_queries() -> None:
+    # Arrange
+    records = []
+    timings = {
+        "query_one": {"broadcast": [10.0, 14.0], "selective": [7.0, 9.0]},
+        "query_two": {"broadcast": [20.0, 24.0], "selective": [21.0, 23.0]},
+        "unmatched": {"broadcast": [100.0], "selective": []},
+    }
+    for query_id, strategies in timings.items():
+        for routing, values in strategies.items():
+            for value in values:
+                record = benchmark_record(query_id, "relational")
+                record["routing"] = routing
+                record["request_latency_ms"] = value
+                record["total_ms"] = value - 1.0
+                record["correctness"] = {
+                    "type": "movie_ids",
+                    "expected": [1],
+                }
+                record["relational_results"] = [{"movie_id": 1}]
+                records.append(record)
+    metrics = BenchmarkMetrics(
+        records, bootstrap_seed=3, bootstrap_resamples=100
+    )
+
+    # Act
+    rows = metrics.strategy_comparison_rows()
+
+    # Assert
+    assert len(rows) == 1
+    assert rows[0]["strategy_a"] == "hash / broadcast"
+    assert rows[0]["strategy_b"] == "hash / selective"
+    assert rows[0]["matched_query_count"] == 2
+    assert rows[0]["matched_query_ids"] == ["query_one", "query_two"]
+    assert rows[0]["client_mean_difference_ms"] == -2.0
+    assert rows[0]["orchestrator_mean_difference_ms"] == -2.0
+    assert rows[0]["client_mean_difference_95_confidence_interval"] == {
+        "confidence_level": 0.95,
+        "method": "percentile_bootstrap",
+        "resampling_seed": 3,
+        "resample_count": 100,
+        "lower": -4.0,
+        "upper": 0.0,
+        "status": "available",
+    }
+    assert rows[0]["sampling_unit"] == "matched logical query"
+    assert "Repetitions were averaged" in rows[0]["scope"]

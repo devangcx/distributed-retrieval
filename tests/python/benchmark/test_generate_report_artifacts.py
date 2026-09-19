@@ -3,11 +3,41 @@ import json
 
 import pytest
 
-from benchmark.generate_report_artifacts import generate_artifacts
+from benchmark import generate_report_artifacts
+from benchmark.generate_report_artifacts import (
+    configuration_latency_chart_values,
+    generate_artifacts,
+    matched_latency_chart_values,
+)
 
 
-def test_generates_comparison_tables_and_charts(tmp_path) -> None:
+def test_generates_comparison_tables_and_charts(tmp_path, monkeypatch) -> None:
     # Arrange
+    rendered_charts = []
+
+    def write_test_chart(
+        path,
+        title,
+        value_label,
+        values,
+        overwrite=False,
+        show_zero_line=False,
+        show_values=True,
+    ):
+        rendered_charts.append({
+            "title": title,
+            "value_label": value_label,
+            "values": values,
+            "show_zero_line": show_zero_line,
+            "show_values": show_values,
+        })
+        path.write_bytes(b"test png")
+
+    monkeypatch.setattr(
+        generate_report_artifacts,
+        "write_horizontal_bar_png",
+        write_test_chart,
+    )
     record = {
         "query_id": "dense_01",
         "query_kind": "vector_dense",
@@ -24,8 +54,16 @@ def test_generates_comparison_tables_and_charts(tmp_path) -> None:
         "ranking": [{"rank": 1, "movie_id": 20}],
         "relevant_movie_ids": [20],
     }
+    selective_record = dict(record)
+    selective_record["routing"] = "selective"
+    selective_record["shard"] = "a"
+    selective_record["request_latency_ms"] = 4.0
+    selective_record["total_ms"] = 3.0
     requests_path = tmp_path / "requests.jsonl"
-    requests_path.write_text(json.dumps(record) + "\n", encoding="utf-8")
+    requests_path.write_text(
+        json.dumps(record) + "\n" + json.dumps(selective_record) + "\n",
+        encoding="utf-8",
+    )
     summary = {
         "configurations": [
             {
@@ -55,14 +93,42 @@ def test_generates_comparison_tables_and_charts(tmp_path) -> None:
     generated_paths = generate_artifacts(tmp_path)
 
     # Assert
-    assert len(generated_paths) == 4
+    assert len(generated_paths) == 6
     assert all(path.exists() for path in generated_paths)
     with (tmp_path / "strategy_comparison.csv").open(encoding="utf-8") as input_file:
         rows = list(csv.DictReader(input_file))
     assert rows[0]["strategy"] == "hash / broadcast / filter_then_search"
     assert rows[0]["binary_ndcg_at_k"] == "1.0"
-    assert (tmp_path / "mean_total_latency.svg").read_text(encoding="utf-8").startswith("<svg")
-    assert "Dense NDCG" in (tmp_path / "retrieval_quality.svg").read_text(encoding="utf-8")
+    with (tmp_path / "configuration_comparison.csv").open(
+        encoding="utf-8"
+    ) as input_file:
+        configuration_rows = list(csv.DictReader(input_file))
+    assert configuration_rows[0]["total_ms_sample_count"] == "1"
+    assert configuration_rows[0]["total_ms_mean_95_ci_status"] == (
+        "insufficient_samples"
+    )
+    assert "interpret cautiously" in (
+        configuration_rows[0]["total_ms_p99_qualification"]
+    )
+    with (tmp_path / "matched_strategy_comparison.csv").open(
+        encoding="utf-8"
+    ) as input_file:
+        matched_rows = list(csv.DictReader(input_file))
+    assert matched_rows[0]["matched_query_count"] == "1"
+    assert matched_rows[0]["orchestrator_mean_difference_ms"] == "-1.0"
+    assert (tmp_path / "mean_total_latency.png").read_bytes() == b"test png"
+    assert rendered_charts[0]["values"][0] == (
+        "dense_01: hash / broadcast / filter_then_search",
+        4.0,
+        None,
+        None,
+    )
+    assert rendered_charts[2]["show_zero_line"] is True
+    assert rendered_charts[0]["show_values"] is True
+    assert rendered_charts[1]["show_values"] is True
+    assert rendered_charts[2]["show_values"] is True
+    assert (tmp_path / "matched_latency_difference.png").exists()
+    assert rendered_charts[1]["values"][0][0].startswith("Dense NDCG")
 
 
 def test_rejects_a_missing_run_directory_before_processing(tmp_path) -> None:
@@ -83,9 +149,11 @@ def test_reports_all_missing_required_files_before_processing(tmp_path) -> None:
     # Arrange
     expected_output_paths = [
         tmp_path / "strategy_comparison.csv",
+        tmp_path / "matched_strategy_comparison.csv",
         tmp_path / "configuration_comparison.csv",
-        tmp_path / "mean_total_latency.svg",
-        tmp_path / "retrieval_quality.svg",
+        tmp_path / "mean_total_latency.png",
+        tmp_path / "retrieval_quality.png",
+        tmp_path / "matched_latency_difference.png",
     ]
 
     # Act
@@ -97,3 +165,43 @@ def test_reports_all_missing_required_files_before_processing(tmp_path) -> None:
         "required benchmark files are missing: requests.jsonl, summary.json"
     )
     assert all(not path.exists() for path in expected_output_paths)
+
+
+def test_prepares_chart_data_without_plotly_rendering() -> None:
+    # Arrange
+    configurations = [{
+        "query_id": "query_one",
+        "layout": "hash",
+        "routing": "broadcast",
+        "execution_order": None,
+        "total_ms_mean": 12.0,
+        "total_ms_mean_95_ci_lower": 10.0,
+        "total_ms_mean_95_ci_upper": 15.0,
+    }]
+    comparisons = [{
+        "query_kind": "relational",
+        "strategy_a": "hash / broadcast",
+        "strategy_b": "industry / selective",
+        "matched_query_count": 6,
+        "orchestrator_mean_difference_ms": -3.0,
+        "orchestrator_mean_difference_95_ci_lower": -5.0,
+        "orchestrator_mean_difference_95_ci_upper": -1.0,
+    }]
+
+    # Act
+    latency_values = configuration_latency_chart_values(configurations)
+    difference_values = matched_latency_chart_values(comparisons)
+
+    # Assert
+    assert latency_values == [(
+        "query_one: hash / broadcast / None",
+        12.0,
+        10.0,
+        15.0,
+    )]
+    assert difference_values == [(
+        "relational: hash / broadcast vs industry / selective (n=6)",
+        -3.0,
+        -5.0,
+        -1.0,
+    )]

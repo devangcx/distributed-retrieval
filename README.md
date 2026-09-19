@@ -187,6 +187,13 @@ Compile the Rust application and run its tests:
 cargo test
 ```
 
+If you have all the containers up and running locally, run the tests including
+the ignored tests using the following command:
+
+```bash
+cargo test -- --ignored
+```
+
 Confirm the loaded movie counts on PostgreSQL shard A:
 
 ```bash

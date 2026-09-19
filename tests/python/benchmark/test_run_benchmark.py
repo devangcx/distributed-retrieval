@@ -3,6 +3,7 @@ import json
 
 from benchmark.run_benchmark import (
     DEFAULT_QUERY_PATH,
+    build_run_manifest,
     build_request,
     configured_queries,
     load_json,
@@ -151,3 +152,70 @@ def test_applies_the_document_default_limit() -> None:
 
     # Assert
     assert configured[0][1]["limit"] == 10
+
+
+def test_builds_manifest_from_run_inputs_and_selected_settings(
+    tmp_path, monkeypatch
+) -> None:
+    # Arrange
+    query_path = tmp_path / "queries.json"
+    representation_path = tmp_path / "representations.json"
+    query_path.write_bytes(b'{"queries": []}\n')
+    representation_path.write_bytes(b'{"representations": {}}\n')
+    query_document = {
+        "default_limit": 10,
+        "queries": {
+            "vector_dense": [{
+                "id": "dense",
+                "configurations": [
+                    {
+                        "layout": "hash",
+                        "routing": "broadcast",
+                        "execution_order": "filter_then_search",
+                    },
+                    {
+                        "layout": "industry",
+                        "routing": "selective",
+                        "shard": "a",
+                        "execution_order": "search_then_filter",
+                    },
+                ],
+            }],
+        },
+    }
+    monkeypatch.setattr("platform.system", lambda: "TestOS")
+    monkeypatch.setattr("platform.release", lambda: "1.0")
+    monkeypatch.setattr("platform.python_implementation", lambda: "CPython")
+    monkeypatch.setattr("platform.python_version", lambda: "3.12.0")
+
+    # Act
+    manifest = build_run_manifest(
+        query_path,
+        representation_path,
+        query_document,
+        warmups=2,
+        repetitions=30,
+    )
+
+    # Assert
+    assert manifest["inputs"]["queries"]["sha256"] == (
+        "99d9e7655e12570b9f9aeb608530ec4a1976698ce2b940d2a4f072b0c542ca99"
+    )
+    assert manifest["inputs"]["representations"]["sha256"] == (
+        "c23aced79ac684c1b1c441c35fbd3d0b98a97393a0381611b826524c1affbe57"
+    )
+    assert manifest["warmups_per_configuration"] == 2
+    assert manifest["repetitions_per_configuration"] == 30
+    assert manifest["configured_query_count"] == 2
+    assert manifest["selected_configurations"] == [
+        {"layout": "hash", "routing": "broadcast", "shard": None},
+        {"layout": "industry", "routing": "selective", "shard": "a"},
+    ]
+    assert manifest["execution_orders"] == [
+        "filter_then_search",
+        "search_then_filter",
+    ]
+    assert manifest["environment"] == {
+        "operating_system": {"system": "TestOS", "release": "1.0"},
+        "python": {"implementation": "CPython", "version": "3.12.0"},
+    }

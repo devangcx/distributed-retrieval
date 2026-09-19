@@ -40,7 +40,6 @@ DATABASE_INDUSTRIES = {
     "other_or_ambiguous": "other",
 }
 
-
 def database_industry(canonical_industry: str) -> str:
     """Map the canonical industry label to the finalized PostgreSQL enum."""
     return DATABASE_INDUSTRIES[canonical_industry]

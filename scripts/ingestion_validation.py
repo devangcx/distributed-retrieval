@@ -43,14 +43,12 @@ def prepare_shard_load(input_path: Path, manifest_path: Path) -> ShardLoad:
     try:
         input_bytes = input_path.read_bytes()
     except OSError as error:
-        raise ValueError(
-            f"could not read corpus {input_path}: {error}") from error
+        raise ValueError(f"could not read corpus {input_path}: {error}") from error
 
     try:
         movies = json.loads(input_bytes)
     except json.JSONDecodeError as error:
-        raise ValueError(
-            f"could not parse corpus {input_path}: {error}") from error
+        raise ValueError(f"could not parse corpus {input_path}: {error}") from error
     manifest = load_json(manifest_path, "manifest")
 
     if not isinstance(movies, list):
@@ -62,8 +60,7 @@ def prepare_shard_load(input_path: Path, manifest_path: Path) -> ShardLoad:
     validate_manifest(manifest, movies, input_bytes)
 
     movies_by_id = {movie["movie_id"]: movie for movie in movies}
-    selected_movies = [movies_by_id[movie_id]
-                       for movie_id in manifest["movie_ids"]]
+    selected_movies = [movies_by_id[movie_id] for movie_id in manifest["movie_ids"]]
     return ShardLoad(manifest=manifest, movies=selected_movies)
 
 
@@ -82,8 +79,7 @@ def validate_manifest(
 
     expected_checksum = hashlib.sha256(input_bytes).hexdigest()
     if manifest.get("input_checksum") != expected_checksum:
-        raise ValueError(
-            "manifest checksum does not match the canonical corpus")
+        raise ValueError("manifest checksum does not match the canonical corpus")
 
     source_record_count = positive_manifest_count(
         manifest.get("source_record_count"), "source_record_count"
@@ -124,8 +120,7 @@ def validate_movies(movies: list[JsonObject]) -> None:
         if not isinstance(movie_id, int) or isinstance(movie_id, bool):
             raise ValueError(f"movie at index {index} has an invalid movie_id")
         if movie_id in movie_ids:
-            raise ValueError(
-                f"canonical corpus contains duplicate movie ID {movie_id}")
+            raise ValueError(f"canonical corpus contains duplicate movie ID {movie_id}")
         movie_ids.add(movie_id)
 
         for field in ("title", "overview"):
@@ -138,13 +133,11 @@ def validate_movies(movies: list[JsonObject]) -> None:
         cast = movie.get("cast")
         directors = movie.get("directors")
         if not isinstance(cast, list) or len(cast) > 10:
-            raise ValueError(
-                f"movie {movie_id} must have at most ten cast members")
+            raise ValueError(f"movie {movie_id} must have at most ten cast members")
         if not isinstance(directors, list):
             raise ValueError(f"movie {movie_id} directors must be an array")
         for credit in [*directors, *cast]:
-            credit_id = credit.get("credit_id") if isinstance(
-                credit, dict) else None
+            credit_id = credit.get("credit_id") if isinstance(credit, dict) else None
             if not isinstance(credit_id, str) or not credit_id:
                 raise ValueError(f"movie {movie_id} has an invalid credit ID")
             if credit_id in credit_ids:

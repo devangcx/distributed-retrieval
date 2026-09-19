@@ -1,7 +1,9 @@
 """Run the fixed benchmark queries against an already running orchestrator."""
 
 import argparse
+import hashlib
 import json
+import platform
 import time
 import urllib.error
 import urllib.request
@@ -46,6 +48,93 @@ def parse_arguments() -> argparse.Namespace:
 
 def load_json(path: Path) -> dict[str, Any]:
     return json.loads(path.read_text(encoding="utf-8"))
+
+
+def sha256_checksum(path: Path) -> str:
+    checksum = hashlib.sha256()
+    with path.open("rb") as input_file:
+        for block in iter(lambda: input_file.read(65_536), b""):
+            checksum.update(block)
+    return checksum.hexdigest()
+
+
+def available_value(value: str) -> str:
+    return value if value else "unavailable"
+
+
+def selected_configurations(
+    query_document: dict[str, Any],
+) -> list[dict[str, Any]]:
+    """Return the distinct layout, routing, and shard selections."""
+    selections: dict[tuple[str, str, str | None], dict[str, Any]] = {}
+    for _query_kind, _query, configuration in configured_queries(query_document):
+        key = (
+            configuration["layout"],
+            configuration["routing"],
+            configuration.get("shard"),
+        )
+        selections[key] = {
+            "layout": configuration["layout"],
+            "routing": configuration["routing"],
+            "shard": configuration.get("shard"),
+        }
+    return [selections[key] for key in sorted(
+        selections,
+        key=lambda item: (item[0], item[1], item[2] or ""),
+    )]
+
+
+def selected_execution_orders(
+    query_document: dict[str, Any],
+) -> list[str]:
+    orders = {
+        configuration["execution_order"]
+        for _query_kind, _query, configuration in configured_queries(
+            query_document
+        )
+        if configuration.get("execution_order") is not None
+    }
+    return sorted(orders)
+
+
+def build_run_manifest(
+    query_path: Path,
+    representation_path: Path,
+    query_document: dict[str, Any],
+    warmups: int,
+    repetitions: int,
+) -> dict[str, Any]:
+    """Describe the inputs and settings needed to understand one run."""
+    return {
+        "manifest_version": 1,
+        "inputs": {
+            "queries": {
+                "path": str(query_path),
+                "sha256": sha256_checksum(query_path),
+            },
+            "representations": {
+                "path": str(representation_path),
+                "sha256": sha256_checksum(representation_path),
+            },
+        },
+        "warmups_per_configuration": warmups,
+        "repetitions_per_configuration": repetitions,
+        "configured_query_count": len(configured_queries(query_document)),
+        "selected_configurations": selected_configurations(query_document),
+        "execution_orders": selected_execution_orders(query_document),
+        "environment": {
+            "operating_system": {
+                "system": available_value(platform.system()),
+                "release": available_value(platform.release()),
+            },
+            "python": {
+                "implementation": available_value(
+                    platform.python_implementation()
+                ),
+                "version": available_value(platform.python_version()),
+            },
+        },
+    }
 
 
 def configured_queries(
@@ -265,6 +354,18 @@ def main() -> None:
     representations = representation_document["representations"]
 
     arguments.output_directory.mkdir(parents=True, exist_ok=True)
+    manifest = build_run_manifest(
+        arguments.queries,
+        arguments.representations,
+        query_document,
+        arguments.warmups,
+        arguments.repetitions,
+    )
+    manifest_path = arguments.output_directory / "manifest.json"
+    with manifest_path.open("x", encoding="utf-8") as manifest_file:
+        json.dump(manifest, manifest_file, indent=2)
+        manifest_file.write("\n")
+
     result_path = arguments.output_directory / "requests.jsonl"
     with result_path.open("x", encoding="utf-8") as output_file:
         measured_request_count = run_requests(

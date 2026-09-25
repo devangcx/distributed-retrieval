@@ -1,0 +1,34 @@
+{
+  "layout": "industry",
+  "routing": "selective",
+  "results": [
+    {
+      "movie_id": 5,
+      "title": "Four Rooms"
+    },
+    {
+      "movie_id": 6,
+      "title": "Judgment Night"
+    },
+    {
+      "movie_id": 12,
+      "title": "Finding Nemo"
+    },
+    {
+      "movie_id": 13,
+      "title": "Forrest Gump"
+    },
+    {
+      "movie_id": 14,
+      "title": "American Beauty"
+    }
+  ],
+  "shard_stats": [
+    {
+      "shard": "a",
+      "elapsed_ms": 31.799739,
+      "returned_rows": 5
+    }
+  ],
+  "total_ms": 31.820869000000002
+}

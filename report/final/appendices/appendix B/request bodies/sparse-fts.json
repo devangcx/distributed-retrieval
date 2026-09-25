@@ -1,0 +1,28 @@
+{
+  "query_type": "vector_sparse",
+  "layout": "hash",
+  "routing": "broadcast",
+  "execution_order": "filter_then_search",
+  "indices": [
+    430289064,
+    767273821,
+    651466383,
+    537607261,
+    123080854,
+    425774493
+  ],
+  "values": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "filter": {
+    "release_year_from": 1990,
+    "release_year_to": 2020,
+    "industry": "hollywood"
+  },
+  "limit": 5
+}

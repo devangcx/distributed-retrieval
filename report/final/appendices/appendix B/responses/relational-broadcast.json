@@ -1,0 +1,39 @@
+{
+  "layout": "hash",
+  "routing": "broadcast",
+  "results": [
+    {
+      "movie_id": 6,
+      "title": "Judgment Night"
+    },
+    {
+      "movie_id": 12,
+      "title": "Finding Nemo"
+    },
+    {
+      "movie_id": 14,
+      "title": "American Beauty"
+    },
+    {
+      "movie_id": 22,
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl"
+    },
+    {
+      "movie_id": 24,
+      "title": "Kill Bill: Vol. 1"
+    }
+  ],
+  "shard_stats": [
+    {
+      "shard": "a",
+      "elapsed_ms": 21.326344,
+      "returned_rows": 5
+    },
+    {
+      "shard": "b",
+      "elapsed_ms": 20.252556000000002,
+      "returned_rows": 5
+    }
+  ],
+  "total_ms": 21.442013
+}

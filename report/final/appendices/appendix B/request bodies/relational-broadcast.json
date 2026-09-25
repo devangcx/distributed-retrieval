@@ -1,0 +1,7 @@
+{
+  "query_type": "relational",
+  "layout": "hash",
+  "routing": "broadcast",
+  "sql": "SELECT movie_id, title FROM movies ORDER BY movie_id LIMIT 5",
+  "limit": 5
+}

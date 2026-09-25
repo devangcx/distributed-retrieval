@@ -1,0 +1,8 @@
+{
+  "query_type": "relational",
+  "layout": "industry",
+  "routing": "selective",
+  "shard": "a",
+  "sql": "SELECT movie_id, title FROM movies WHERE industry = 'hollywood' ORDER BY movie_id LIMIT 5",
+  "limit": 5
+}

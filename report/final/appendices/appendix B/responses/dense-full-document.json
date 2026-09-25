@@ -1,0 +1,90 @@
+{
+  "layout": "hash",
+  "routing": "broadcast",
+  "execution_order": "filter_then_search",
+  "results": [
+    {
+      "movie_id": 413052,
+      "score": 0.52025485,
+      "shard": "a",
+      "details": {
+        "countries": ["CA", "HK", "KZ", "TH", "US"],
+        "directors": ["Akan Satayev"],
+        "genre_ids": [18, 53, 80],
+        "genres": ["Crime", "Drama", "Thriller"],
+        "industry": "hollywood",
+        "movie_id": 413052,
+        "overview": "Alex, an immigrant from Ukraine comes to Canada and becomes involved with an online criminal organization called Darkweb. What starts off as a way to help his parents financially, soon becomes a personal vendetta against the entire banking system, when his mother is fired from her job at the bank",
+        "release_date": "2016-09-15",
+        "title": "Hacker"
+      }
+    },
+    {
+      "movie_id": 10428,
+      "score": 0.49025622,
+      "shard": "a",
+      "details": {
+        "countries": ["US"],
+        "directors": ["Iain Softley"],
+        "genre_ids": [18, 28, 53, 80],
+        "genres": ["Action", "Crime", "Drama", "Thriller"],
+        "industry": "hollywood",
+        "movie_id": 10428,
+        "overview": "Along with his new friends, a teenager who was arrested by the US Secret Service and banned from using a computer for writing a computer virus discovers a plot by a nefarious hacker, but they must use their computer skills to find the evidence while being pursued by the Secret Service and the evil computer genius behind the virus.",
+        "release_date": "1995-09-14",
+        "title": "Hackers"
+      }
+    },
+    {
+      "movie_id": 174675,
+      "score": 0.46971765,
+      "shard": "b",
+      "details": {
+        "countries": ["GB"],
+        "directors": ["Caradog W. James"],
+        "genre_ids": [53, 878],
+        "genres": ["Science Fiction", "Thriller"],
+        "industry": "other_or_ambiguous",
+        "movie_id": 174675,
+        "overview": "Already deep into a second Cold War, Britain’s Ministry of Defense seeks a game-changing weapon. Programmer Vincent McCarthy unwittingly provides an answer in The Machine, a super-strong human cyborg. When a programming bug causes the prototype to decimate his lab, McCarthy takes his obsessive efforts underground, far away from inquisitive eyes.",
+        "release_date": "2013-04-25",
+        "title": "The Machine"
+      }
+    },
+    {
+      "movie_id": 791469,
+      "score": 0.45499104,
+      "shard": "b",
+      "details": {
+        "countries": ["US"],
+        "directors": ["Alan Ritchson"],
+        "genre_ids": [28, 35, 53],
+        "genres": ["Action", "Comedy", "Thriller"],
+        "industry": "hollywood",
+        "movie_id": 791469,
+        "overview": "Genius hacker Connor discovers Cicada 3301, an online treasure hunt that could be a recruiting tool for a secret society. Soon Conner, art-expert friend Avi, and secretive librarian Gwen are dashing from graffiti sites to ancient libraries to uncover real-world clues. But they must outrun aggressive NSA agents, also hot on the trail of Cicada, who want the glory for themselves.",
+        "release_date": "2021-03-12",
+        "title": "Dark Web: Cicada 3301"
+      }
+    },
+    {
+      "movie_id": 11309,
+      "score": 0.4472382,
+      "shard": "b",
+      "details": {
+        "countries": ["GB", "US"],
+        "directors": ["Richard Stanley"],
+        "genre_ids": [27, 53, 878],
+        "genres": ["Horror", "Science Fiction", "Thriller"],
+        "industry": "hollywood",
+        "movie_id": 11309,
+        "overview": "Mark 13 is a government-built killing machine programmed with artificial intelligence, able to repair and recharge itself from any energy source. Through a series of coincidences, the cyborg's head ends up in the home of a sculptress as a bizarre Christmas present from her boyfriend. Once inside its new home, the cyborg promptly reconstructs the rest of its body using a variety of household utensils and proceeds to go on a murderous rampage.",
+        "release_date": "1990-09-14",
+        "title": "Hardware"
+      }
+    }
+  ],
+  "vector_ms": 105.184697,
+  "enrichment_ms": 60.757295000000006,
+  "total_ms": 165.943657
+}

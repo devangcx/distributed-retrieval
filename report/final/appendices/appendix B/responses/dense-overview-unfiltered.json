@@ -1,0 +1,90 @@
+{
+  "layout": "hash",
+  "routing": "broadcast",
+  "execution_order": "filter_then_search",
+  "results": [
+    {
+      "movie_id": 370097,
+      "score": 0.60878366,
+      "shard": "b",
+      "details": {
+        "countries": ["US"],
+        "directors": ["Nick Lyon"],
+        "genre_ids": [18, 28, 53, 878],
+        "genres": ["Action", "Drama", "Science Fiction", "Thriller"],
+        "industry": "hollywood",
+        "movie_id": 370097,
+        "overview": "What happens when you ask the most powerful computer program, run by the most powerful computers, to follow, listen and predict human behavior? The program learns, becomes sentient and begins to behave like a human. When a master computer program, Echelon, takes over America's entire online system, our country is threatened to be brought to its knees. Hacking into DARPA, Echelon gains the ability to manipulate the weather, create earthquakes, and cause a level of destruction unlike anything the country could ever imagine. But how do you stop a computer program when it has control over any and every defense you have?",
+        "release_date": "2015-11-18",
+        "title": "Stormageddon"
+      }
+    },
+    {
+      "movie_id": 157353,
+      "score": 0.5607361,
+      "shard": "b",
+      "details": {
+        "countries": ["US"],
+        "directors": ["Wally Pfister"],
+        "genre_ids": [18, 53, 878, 9648],
+        "genres": ["Drama", "Mystery", "Science Fiction", "Thriller"],
+        "industry": "hollywood",
+        "movie_id": 157353,
+        "overview": "Two leading computer scientists work toward their goal of Technological Singularity,  as a radical anti-technology organization fights to prevent them from creating a world where computers can transcend the abilities of the human brain.",
+        "release_date": "2014-04-16",
+        "title": "Transcendence"
+      }
+    },
+    {
+      "movie_id": 11525,
+      "score": 0.5496084,
+      "shard": "b",
+      "details": {
+        "countries": ["US"],
+        "directors": ["Farhad Mann"],
+        "genre_ids": [27, 28, 53, 878],
+        "genres": ["Action", "Horror", "Science Fiction", "Thriller"],
+        "industry": "hollywood",
+        "movie_id": 11525,
+        "overview": "Now a shattered mind lurking in cyberspace, Jobe plots a return by hijacking a global VR network and rebuilding himself as something far beyond human. As reality starts to glitch, a small group races to stop a digital god who no longer needs a body.",
+        "release_date": "1996-01-12",
+        "title": "Lawnmower Man 2: Beyond Cyberspace"
+      }
+    },
+    {
+      "movie_id": 10428,
+      "score": 0.5460833,
+      "shard": "a",
+      "details": {
+        "countries": ["US"],
+        "directors": ["Iain Softley"],
+        "genre_ids": [18, 28, 53, 80],
+        "genres": ["Action", "Crime", "Drama", "Thriller"],
+        "industry": "hollywood",
+        "movie_id": 10428,
+        "overview": "Along with his new friends, a teenager who was arrested by the US Secret Service and banned from using a computer for writing a computer virus discovers a plot by a nefarious hacker, but they must use their computer skills to find the evidence while being pursued by the Secret Service and the evil computer genius behind the virus.",
+        "release_date": "1995-09-14",
+        "title": "Hackers"
+      }
+    },
+    {
+      "movie_id": 1275779,
+      "score": 0.5458342,
+      "shard": "b",
+      "details": {
+        "countries": ["US"],
+        "directors": ["Steven Spielberg"],
+        "genre_ids": [53, 878],
+        "genres": ["Science Fiction", "Thriller"],
+        "industry": "hollywood",
+        "movie_id": 1275779,
+        "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+        "release_date": "2026-06-10",
+        "title": "Disclosure Day"
+      }
+    }
+  ],
+  "vector_ms": 34.849337,
+  "enrichment_ms": 7.869803999999999,
+  "total_ms": 42.720437
+}

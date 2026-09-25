@@ -1,0 +1,90 @@
+{
+  "layout": "hash",
+  "routing": "broadcast",
+  "execution_order": "search_then_filter",
+  "results": [
+    {
+      "movie_id": 155,
+      "score": 35.850567,
+      "shard": "b",
+      "details": {
+        "countries": ["GB", "US"],
+        "directors": ["Christopher Nolan"],
+        "genre_ids": [28, 53, 80],
+        "genres": ["Action", "Crime", "Thriller"],
+        "industry": "hollywood",
+        "movie_id": 155,
+        "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+        "release_date": "2008-07-16",
+        "title": "The Dark Knight"
+      }
+    },
+    {
+      "movie_id": 142061,
+      "score": 32.632195,
+      "shard": "b",
+      "details": {
+        "countries": ["US"],
+        "directors": ["Jay Oliva"],
+        "genre_ids": [16, 28, 878, 9648],
+        "genres": ["Action", "Animation", "Mystery", "Science Fiction"],
+        "industry": "hollywood",
+        "movie_id": 142061,
+        "overview": "Batman has stopped the reign of terror that The Mutants had cast upon his city.  Now an old foe wants a reunion and the government wants The Man of Steel to put a stop to Batman.",
+        "release_date": "2013-01-03",
+        "title": "Batman: The Dark Knight Returns, Part 2"
+      }
+    },
+    {
+      "movie_id": 49026,
+      "score": 27.854156,
+      "shard": "a",
+      "details": {
+        "countries": ["GB", "US"],
+        "directors": ["Christopher Nolan"],
+        "genre_ids": [18, 28, 53, 80],
+        "genres": ["Action", "Crime", "Drama", "Thriller"],
+        "industry": "hollywood",
+        "movie_id": 49026,
+        "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+        "release_date": "2012-07-17",
+        "title": "The Dark Knight Rises"
+      }
+    },
+    {
+      "movie_id": 382322,
+      "score": 24.802124,
+      "shard": "a",
+      "details": {
+        "countries": ["US"],
+        "directors": ["Sam Liu"],
+        "genre_ids": [16, 18, 28, 53, 80],
+        "genres": ["Action", "Animation", "Crime", "Drama", "Thriller"],
+        "industry": "hollywood",
+        "movie_id": 382322,
+        "overview": "As Batman hunts for the escaped Joker, the Clown Prince of Crime attacks the Gordon family to prove a diabolical point mirroring his own fall into madness.",
+        "release_date": "2016-07-24",
+        "title": "Batman: The Killing Joke"
+      }
+    },
+    {
+      "movie_id": 123025,
+      "score": 24.535984,
+      "shard": "b",
+      "details": {
+        "countries": ["US"],
+        "directors": ["Jay Oliva"],
+        "genre_ids": [16, 28, 878, 9648],
+        "genres": ["Action", "Animation", "Mystery", "Science Fiction"],
+        "industry": "hollywood",
+        "movie_id": 123025,
+        "overview": "Batman has not been seen for ten years. A new breed of criminal ravages Gotham City, forcing 55-year-old Bruce Wayne back into the cape and cowl. But, does he still have what it takes to fight crime in a new era?",
+        "release_date": "2012-09-25",
+        "title": "Batman: The Dark Knight Returns, Part 1"
+      }
+    }
+  ],
+  "vector_ms": 15.355051,
+  "enrichment_ms": 7.5303949999999995,
+  "total_ms": 22.886546
+}

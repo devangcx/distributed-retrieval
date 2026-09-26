@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="6">
+<mxfile host="app.diagrams.net" pages="10">
   <diagram name="scope" id="vj0ps1KzhQEV_TrZJ7N4">
     <mxGraphModel dx="1571" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -164,7 +164,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="industry-split" id="TFA8vxTQsGNPa51artoD">
-    <mxGraphModel dx="1167" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="MRmhJFxBQCuXGI_wFju3-0" />
         <mxCell id="MRmhJFxBQCuXGI_wFju3-1" parent="MRmhJFxBQCuXGI_wFju3-0" />
@@ -553,8 +553,536 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram name="deployment" id="TiRymejSI6be9QxDfhNW">
+    <mxGraphModel dx="2333" dy="1255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n2" parent="1" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=24;fontColor=#20334A;fontStyle=1;spacing=12;" value="System deployment" vertex="1">
+          <mxGeometry height="34" width="734" x="30" y="18" as="geometry" />
+        </mxCell>
+        <mxCell id="n3" parent="1" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=14;fontColor=#526274;fontStyle=0;spacing=12;" value="UML deployment view · five containers on one host" vertex="1">
+          <mxGeometry height="32" width="734" x="30" y="57" as="geometry" />
+        </mxCell>
+        <mxCell id="n4" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#F6F7F9;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=16;fontColor=#20334A;spacing=10;" value="" vertex="1">
+          <mxGeometry height="865" width="734" x="30" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="n5" parent="1" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=16;fontColor=#20334A;fontStyle=1;spacing=12;" value="«device» Single host" vertex="1">
+          <mxGeometry height="45" width="726" x="34" y="112" as="geometry" />
+        </mxCell>
+        <mxCell id="n6" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=16;fontColor=#20334A;spacing=10;" value="«artifact» Benchmark runner / HTTP client" vertex="1">
+          <mxGeometry height="65" width="594" x="100" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="n7" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=16;fontColor=#20334A;spacing=10;" value="" vertex="1">
+          <mxGeometry height="620" width="684" x="55" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="n8" parent="1" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=16;fontColor=#20334A;fontStyle=1;spacing=12;" value="Docker Compose default network" vertex="1">
+          <mxGeometry height="45" width="676" x="59" y="327" as="geometry" />
+        </mxCell>
+        <mxCell id="n9" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#EAF2FA;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=16;fontColor=#20334A;spacing=10;" value="«executionEnvironment» orchestrator&#xa;Rust · Axum HTTP API · Tokio&#xa;Container port 3000" vertex="1">
+          <mxGeometry height="95" width="494" x="150" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="n10" edge="1" parent="1" source="n6" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="n9" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="397" y="240" as="sourcePoint" />
+            <mxPoint x="397" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n11" parent="1" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=14;fontColor=#20334A;fontStyle=0;spacing=12;" value="HTTP / JSON · host port 3000" vertex="1">
+          <mxGeometry height="50" width="310" x="410" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="n12" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#F6F7F9;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=16;fontColor=#20334A;spacing=10;" value="" vertex="1">
+          <mxGeometry height="165" width="605" x="100" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="n13" parent="1" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=16;fontColor=#20334A;fontStyle=1;spacing=12;" value="Logical shard A" vertex="1">
+          <mxGeometry height="45" width="597" x="104" y="552" as="geometry" />
+        </mxCell>
+        <mxCell id="n14" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#EDF5EF;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=14;fontColor=#20334A;spacing=10;" value="«container» postgres-shard-a&#xa;PostgreSQL 16&#xa;Metadata · TCP 5432" vertex="1">
+          <mxGeometry height="85" width="270" x="120" y="605" as="geometry" />
+        </mxCell>
+        <mxCell id="n15" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#EAF2FA;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=14;fontColor=#20334A;spacing=10;" value="«container» qdrant-shard-a&#xa;Qdrant 1.13.6&#xa;Vectors · HTTP 6333" vertex="1">
+          <mxGeometry height="85" width="270" x="415" y="605" as="geometry" />
+        </mxCell>
+        <mxCell id="n16" edge="1" parent="1" source="n9" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=none;endFill=1;exitX=0;exitY=0.3684210526315789;exitDx=0;exitDy=0;entryX=0;entryY=0.49411764705882355;entryDx=0;entryDy=0;" target="n14" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="425" />
+              <mxPoint x="80" y="647" />
+            </Array>
+            <mxPoint x="150" y="425" as="sourcePoint" />
+            <mxPoint x="120" y="647" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n17" edge="1" parent="1" source="n9" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=none;endFill=1;exitX=1;exitY=0.3684210526315789;exitDx=0;exitDy=0;entryX=1;entryY=0.49411764705882355;entryDx=0;entryDy=0;" target="n15" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="725" y="425" />
+              <mxPoint x="725" y="647" />
+            </Array>
+            <mxPoint x="644" y="425" as="sourcePoint" />
+            <mxPoint x="685" y="647" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n18" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#F6F7F9;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=16;fontColor=#20334A;spacing=10;" value="" vertex="1">
+          <mxGeometry height="165" width="605" x="100" y="745" as="geometry" />
+        </mxCell>
+        <mxCell id="n19" parent="1" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=16;fontColor=#20334A;fontStyle=1;spacing=12;" value="Logical shard B" vertex="1">
+          <mxGeometry height="45" width="597" x="104" y="747" as="geometry" />
+        </mxCell>
+        <mxCell id="n20" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#EDF5EF;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=14;fontColor=#20334A;spacing=10;" value="«container» postgres-shard-b&#xa;PostgreSQL 16&#xa;Metadata · TCP 5432" vertex="1">
+          <mxGeometry height="85" width="270" x="120" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="n21" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#EAF2FA;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=14;fontColor=#20334A;spacing=10;" value="«container» qdrant-shard-b&#xa;Qdrant 1.13.6&#xa;Vectors · HTTP 6333" vertex="1">
+          <mxGeometry height="85" width="270" x="415" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="n22" edge="1" parent="1" source="n9" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=none;endFill=1;exitX=0;exitY=0.6842105263157895;exitDx=0;exitDy=0;entryX=0;entryY=0.49411764705882355;entryDx=0;entryDy=0;" target="n20" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="92" y="455" />
+              <mxPoint x="92" y="842" />
+            </Array>
+            <mxPoint x="150" y="455" as="sourcePoint" />
+            <mxPoint x="120" y="842" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n23" edge="1" parent="1" source="n9" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=none;endFill=1;exitX=1;exitY=0.6842105263157895;exitDx=0;exitDy=0;entryX=1;entryY=0.49411764705882355;entryDx=0;entryDy=0;" target="n21" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="713" y="455" />
+              <mxPoint x="713" y="842" />
+            </Array>
+            <mxPoint x="644" y="455" as="sourcePoint" />
+            <mxPoint x="685" y="842" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n24" parent="1" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=15;fontColor=#20334A;fontStyle=0;spacing=12;" value="Each store has its own persistent volume. Hash and industry layouts&#xa;coexist in the same containers. Shard pairing means aligned movie IDs;&#xa;it does not denote a direct database-to-database connection." vertex="1">
+          <mxGeometry height="85" width="734" x="30" y="995" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="components" id="hg0Rzc3R-bFo9V9JjPQe">
+    <mxGraphModel dx="2000" dy="1076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n2" parent="1" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=24;fontColor=#20334A;fontStyle=1;spacing=12;" value="Orchestrator components" vertex="1">
+          <mxGeometry height="34" width="734" x="30" y="18" as="geometry" />
+        </mxCell>
+        <mxCell id="n3" parent="1" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=14;fontColor=#526274;fontStyle=0;spacing=12;" value="UML component view · logical responsibilities in one Rust service" vertex="1">
+          <mxGeometry height="32" width="734" x="30" y="57" as="geometry" />
+        </mxCell>
+        <mxCell id="n4" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=16;fontColor=#20334A;spacing=10;" value="«component» Caller&#xa;SQL or precomputed dense / sparse query representation" vertex="1">
+          <mxGeometry height="65" width="634" x="80" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="n5" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#F6F7F9;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=16;fontColor=#20334A;spacing=10;" value="" vertex="1">
+          <mxGeometry height="565" width="734" x="30" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="n6" parent="1" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=16;fontColor=#20334A;fontStyle=1;spacing=12;" value="«component» Rust orchestrator" vertex="1">
+          <mxGeometry height="45" width="726" x="34" y="237" as="geometry" />
+        </mxCell>
+        <mxCell id="n7" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#EAF2FA;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=16;fontColor=#20334A;spacing=10;" value="«component» HTTP boundary&#xa;Axum router · tagged request decoding&#xa;POST /query · GET /health" vertex="1">
+          <mxGeometry height="90" width="524" x="135" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="n8" edge="1" parent="1" source="n4" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="n7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="397" y="180" as="sourcePoint" />
+            <mxPoint x="397" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n9" parent="1" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=14;fontColor=#20334A;fontStyle=0;spacing=12;" value="HTTP / JSON" vertex="1">
+          <mxGeometry height="35" width="220" x="410" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="n10" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#EAF2FA;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=16;fontColor=#20334A;spacing=10;" value="«component» Query coordination&#xa;Validate request · select layout and caller-specified routing&#xa;Broadcast: A + B  |  Selective: supplied shard" vertex="1">
+          <mxGeometry height="100" width="604" x="95" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="n11" edge="1" parent="1" source="n7" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="n10" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="397" y="390" as="sourcePoint" />
+            <mxPoint x="397" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n12" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#EDF5EF;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=15;fontColor=#20334A;spacing=10;" value="«component» Relational access&#xa;SQL + metadata enrichment&#xa;Diesel / diesel-async pools" vertex="1">
+          <mxGeometry height="110" width="325" x="55" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="n13" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#EAF2FA;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=15;fontColor=#20334A;spacing=10;" value="«component» Vector execution&#xa;Dense / sparse · concurrent calls&#xa;Merge scores · candidate limit" vertex="1">
+          <mxGeometry height="110" width="325" x="414" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="n14" edge="1" parent="1" source="n10" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=block;endFill=1;exitX=0.24006622516556292;exitY=1;exitDx=0;exitDy=0;entryX=0.49846153846153846;entryY=0;entryDx=0;entryDy=0;" target="n12" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="595" />
+              <mxPoint x="217" y="595" />
+            </Array>
+            <mxPoint x="240" y="550" as="sourcePoint" />
+            <mxPoint x="217" y="645" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n15" edge="1" parent="1" source="n10" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=block;endFill=1;exitX=0.7599337748344371;exitY=1;exitDx=0;exitDy=0;entryX=0.49846153846153846;entryY=0;entryDx=0;entryDy=0;" target="n13" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="554" y="595" />
+              <mxPoint x="576" y="595" />
+            </Array>
+            <mxPoint x="554" y="550" as="sourcePoint" />
+            <mxPoint x="576" y="645" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n16" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#EDF5EF;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=15;fontColor=#20334A;spacing=10;" value="«component» PostgreSQL A / B&#xa;Authoritative movie metadata" vertex="1">
+          <mxGeometry height="80" width="325" x="55" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="n17" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#EAF2FA;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=15;fontColor=#20334A;spacing=10;" value="«component» Qdrant A / B&#xa;Named vectors + filter payloads" vertex="1">
+          <mxGeometry height="80" width="325" x="414" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="n18" edge="1" parent="1" source="n12" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=block;endFill=1;exitX=0.49846153846153846;exitY=1;exitDx=0;exitDy=0;entryX=0.49846153846153846;entryY=0;entryDx=0;entryDy=0;" target="n16" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="217" y="755" as="sourcePoint" />
+            <mxPoint x="217" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n19" edge="1" parent="1" source="n13" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=block;endFill=1;exitX=0.49846153846153846;exitY=1;exitDx=0;exitDy=0;entryX=0.49846153846153846;entryY=0;entryDx=0;entryDy=0;" target="n17" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="576" y="755" as="sourcePoint" />
+            <mxPoint x="576" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n20" parent="1" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=14;fontColor=#20334A;fontStyle=0;spacing=12;" value="SQL · selected schema" vertex="1">
+          <mxGeometry height="30" width="300" x="60" y="822" as="geometry" />
+        </mxCell>
+        <mxCell id="n21" parent="1" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=14;fontColor=#20334A;fontStyle=0;spacing=12;" value="HTTP · selected collection" vertex="1">
+          <mxGeometry height="30" width="310" x="420" y="822" as="geometry" />
+        </mxCell>
+        <mxCell id="n22" parent="1" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=15;fontColor=#20334A;fontStyle=0;spacing=12;" value="Coordination preserves vector rank during enrichment, applies post-search&#xa;filters, and records timings. Arrows show calls; returns are omitted.&#xa;GET /health returns OK without probing the stores." vertex="1">
+          <mxGeometry height="85" width="734" x="30" y="995" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="filter-then-search" id="5ovC9BTIp8oXBaQeMGv3">
+    <mxGraphModel dx="2000" dy="1076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n2" parent="1" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=24;fontColor=#20334A;fontStyle=1;spacing=12;" value="Filter-then-search" vertex="1">
+          <mxGeometry height="34" width="734" x="30" y="18" as="geometry" />
+        </mxCell>
+        <mxCell id="n3" parent="1" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=14;fontColor=#526274;fontStyle=0;spacing=12;" value="UML sequence view · successful filtered dense or sparse request" vertex="1">
+          <mxGeometry height="32" width="734" x="30" y="57" as="geometry" />
+        </mxCell>
+        <mxCell id="n4" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=14;fontColor=#20334A;spacing=10;" value="Caller" vertex="1">
+          <mxGeometry height="65" width="98" x="26" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="n5" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=none;endFill=1;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="75" y="180" as="sourcePoint" />
+            <mxPoint x="75" y="895" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n6" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#EAF2FA;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=14;fontColor=#20334A;spacing=10;" value="API /&#xa;Orchestrator" vertex="1">
+          <mxGeometry height="65" width="98" x="191" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="n7" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=none;endFill=1;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="240" y="180" as="sourcePoint" />
+            <mxPoint x="240" y="895" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n8" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#EAF2FA;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=14;fontColor=#20334A;spacing=10;" value="Qdrant&#xa;Executor" vertex="1">
+          <mxGeometry height="65" width="98" x="356" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="n9" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=none;endFill=1;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="405" y="180" as="sourcePoint" />
+            <mxPoint x="405" y="895" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n10" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#EAF2FA;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=14;fontColor=#20334A;spacing=10;" value="Qdrant&#xa;shards" vertex="1">
+          <mxGeometry height="65" width="98" x="511" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="n11" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=none;endFill=1;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="560" y="180" as="sourcePoint" />
+            <mxPoint x="560" y="895" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n12" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#EDF5EF;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=14;fontColor=#20334A;spacing=10;" value="PostgreSQL&#xa;shards" vertex="1">
+          <mxGeometry height="65" width="98" x="666" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="n13" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=none;endFill=1;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="715" y="180" as="sourcePoint" />
+            <mxPoint x="715" y="895" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n14" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=block;endFill=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="75" y="232" as="sourcePoint" />
+            <mxPoint x="240" y="232" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n15" parent="1" style="text;html=0;fillColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=13;fontColor=#20334A;fontStyle=0;spacing=12;" value="POST /query&#xa;filter + k" vertex="1">
+          <mxGeometry height="40" width="163" x="76" y="188" as="geometry" />
+        </mxCell>
+        <mxCell id="n16" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=13;fontColor=#20334A;spacing=10;" value="Decode and validate request" vertex="1">
+          <mxGeometry height="55" width="260" x="110" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="n17" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=13;fontColor=#20334A;spacing=10;" value="Retain payload filter;&#xa;retain requested limit k" vertex="1">
+          <mxGeometry height="55" width="260" x="110" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="n18" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=block;endFill=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="240" y="435" as="sourcePoint" />
+            <mxPoint x="405" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n19" parent="1" style="text;html=0;fillColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=13;fontColor=#20334A;fontStyle=0;spacing=12;" value="search: filter&#xa;limit = k" vertex="1">
+          <mxGeometry height="40" width="165" x="240" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="n20" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=block;endFill=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="405" y="490" as="sourcePoint" />
+            <mxPoint x="560" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n21" parent="1" style="text;html=0;fillColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=13;fontColor=#20334A;fontStyle=0;spacing=12;" value="Query with filter&#xa;limit = k / shard" vertex="1">
+          <mxGeometry height="40" width="155" x="405" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="n22" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=block;endFill=1;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="560" y="545" as="sourcePoint" />
+            <mxPoint x="405" y="545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n23" parent="1" style="text;html=0;fillColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=13;fontColor=#20334A;fontStyle=0;spacing=12;" value="IDs + scores&#xa;+ source shard" vertex="1">
+          <mxGeometry height="40" width="155" x="405" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="n24" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=13;fontColor=#20334A;spacing=10;" value="Merge by score;&#xa;retain k globally" vertex="1">
+          <mxGeometry height="55" width="260" x="275" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="n25" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=block;endFill=1;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="405" y="665" as="sourcePoint" />
+            <mxPoint x="240" y="665" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n26" parent="1" style="text;html=0;fillColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=13;fontColor=#20334A;fontStyle=0;spacing=12;" value="Ranked candidates" vertex="1">
+          <mxGeometry height="40" width="180" x="235" y="624" as="geometry" />
+        </mxCell>
+        <mxCell id="n27" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=block;endFill=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="240" y="720" as="sourcePoint" />
+            <mxPoint x="715" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n28" parent="1" style="text;html=0;fillColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=13;fontColor=#20334A;fontStyle=0;spacing=12;" value="Fetch metadata by (source shard, movie ID)&#xa;using the selected layout" vertex="1">
+          <mxGeometry height="40" width="440" x="255" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="n29" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=block;endFill=1;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="715" y="775" as="sourcePoint" />
+            <mxPoint x="240" y="775" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n30" parent="1" style="text;html=0;fillColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=13;fontColor=#20334A;fontStyle=0;spacing=12;" value="Authoritative movie details" vertex="1">
+          <mxGeometry height="40" width="360" x="300" y="731" as="geometry" />
+        </mxCell>
+        <mxCell id="n31" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=13;fontColor=#20334A;spacing=10;" value="Enrich in ranked order;&#xa;truncate to final limit k" vertex="1">
+          <mxGeometry height="55" width="290" x="95" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="n32" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=block;endFill=1;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="240" y="895" as="sourcePoint" />
+            <mxPoint x="75" y="895" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n33" parent="1" style="text;html=0;fillColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=13;fontColor=#20334A;fontStyle=0;spacing=12;" value="200 JSON&#xa;results + timings" vertex="1">
+          <mxGeometry height="40" width="165" x="75" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="n34" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#F6F7F9;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=14;fontColor=#20334A;spacing=10;" value="Shard lifelines abbreviate A and B. Broadcast calls both concurrently;&#xa;selective calls the caller-specified shard. Metadata loads run concurrently&#xa;for source shards with candidate IDs; empty ID lists cause no SQL query.&#xa;Qdrant filters; PostgreSQL enriches, without a pre-search ID set.&#xa;Failure paths omitted: a required store failure ends the request in error." vertex="1">
+          <mxGeometry height="145" width="734" x="30" y="940" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="search-then-filter" id="s9CresSg2gvyGCXtpHiV">
+    <mxGraphModel dx="2000" dy="1076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n2" parent="1" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=24;fontColor=#20334A;fontStyle=1;spacing=12;" value="Search-then-filter" vertex="1">
+          <mxGeometry height="34" width="734" x="30" y="18" as="geometry" />
+        </mxCell>
+        <mxCell id="n3" parent="1" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=14;fontColor=#526274;fontStyle=0;spacing=12;" value="UML sequence view · successful filtered dense or sparse request" vertex="1">
+          <mxGeometry height="32" width="734" x="30" y="57" as="geometry" />
+        </mxCell>
+        <mxCell id="n4" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=14;fontColor=#20334A;spacing=10;" value="Caller" vertex="1">
+          <mxGeometry height="65" width="98" x="26" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="n5" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=none;endFill=1;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="75" y="180" as="sourcePoint" />
+            <mxPoint x="75" y="895" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n6" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#EAF2FA;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=14;fontColor=#20334A;spacing=10;" value="API /&#xa;Orchestrator" vertex="1">
+          <mxGeometry height="65" width="98" x="191" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="n7" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=none;endFill=1;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="240" y="180" as="sourcePoint" />
+            <mxPoint x="240" y="895" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n8" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#EAF2FA;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=14;fontColor=#20334A;spacing=10;" value="Qdrant&#xa;Executor" vertex="1">
+          <mxGeometry height="65" width="98" x="356" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="n9" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=none;endFill=1;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="405" y="180" as="sourcePoint" />
+            <mxPoint x="405" y="895" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n10" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#EAF2FA;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=14;fontColor=#20334A;spacing=10;" value="Qdrant&#xa;shards" vertex="1">
+          <mxGeometry height="65" width="98" x="511" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="n11" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=none;endFill=1;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="560" y="180" as="sourcePoint" />
+            <mxPoint x="560" y="895" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n12" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#EDF5EF;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=14;fontColor=#20334A;spacing=10;" value="PostgreSQL&#xa;shards" vertex="1">
+          <mxGeometry height="65" width="98" x="666" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="n13" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=none;endFill=1;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="715" y="180" as="sourcePoint" />
+            <mxPoint x="715" y="895" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n14" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=block;endFill=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="75" y="232" as="sourcePoint" />
+            <mxPoint x="240" y="232" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n15" parent="1" style="text;html=0;fillColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=13;fontColor=#20334A;fontStyle=0;spacing=12;" value="POST /query&#xa;filter + k" vertex="1">
+          <mxGeometry height="40" width="163" x="76" y="188" as="geometry" />
+        </mxCell>
+        <mxCell id="n16" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=13;fontColor=#20334A;spacing=10;" value="Decode and validate request" vertex="1">
+          <mxGeometry height="55" width="260" x="110" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="n17" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=13;fontColor=#20334A;spacing=10;" value="Save filter; clear search filter;&#xa;set candidate limit to 100" vertex="1">
+          <mxGeometry height="55" width="260" x="110" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="n18" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=block;endFill=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="240" y="435" as="sourcePoint" />
+            <mxPoint x="405" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n19" parent="1" style="text;html=0;fillColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=13;fontColor=#20334A;fontStyle=0;spacing=12;" value="search: unfiltered&#xa;limit = 100" vertex="1">
+          <mxGeometry height="40" width="165" x="240" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="n20" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=block;endFill=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="405" y="490" as="sourcePoint" />
+            <mxPoint x="560" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n21" parent="1" style="text;html=0;fillColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=13;fontColor=#20334A;fontStyle=0;spacing=12;" value="Query each shard&#xa;limit = 100" vertex="1">
+          <mxGeometry height="40" width="155" x="405" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="n22" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=block;endFill=1;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="560" y="545" as="sourcePoint" />
+            <mxPoint x="405" y="545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n23" parent="1" style="text;html=0;fillColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=13;fontColor=#20334A;fontStyle=0;spacing=12;" value="IDs + scores&#xa;+ source shard" vertex="1">
+          <mxGeometry height="40" width="155" x="405" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="n24" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=13;fontColor=#20334A;spacing=10;" value="Merge by score;&#xa;retain 100 globally" vertex="1">
+          <mxGeometry height="55" width="260" x="275" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="n25" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=block;endFill=1;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="405" y="665" as="sourcePoint" />
+            <mxPoint x="240" y="665" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n26" parent="1" style="text;html=0;fillColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=13;fontColor=#20334A;fontStyle=0;spacing=12;" value="Ranked candidates" vertex="1">
+          <mxGeometry height="40" width="180" x="235" y="624" as="geometry" />
+        </mxCell>
+        <mxCell id="n27" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=block;endFill=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="240" y="720" as="sourcePoint" />
+            <mxPoint x="715" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n28" parent="1" style="text;html=0;fillColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=13;fontColor=#20334A;fontStyle=0;spacing=12;" value="Fetch metadata by (source shard, movie ID)&#xa;using the selected layout" vertex="1">
+          <mxGeometry height="40" width="440" x="255" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="n29" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=block;endFill=1;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="715" y="775" as="sourcePoint" />
+            <mxPoint x="240" y="775" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n30" parent="1" style="text;html=0;fillColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=13;fontColor=#20334A;fontStyle=0;spacing=12;" value="Authoritative movie details" vertex="1">
+          <mxGeometry height="40" width="360" x="300" y="731" as="geometry" />
+        </mxCell>
+        <mxCell id="n31" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=13;fontColor=#20334A;spacing=10;" value="Preserve rank; apply saved filter;&#xa;truncate to final limit k" vertex="1">
+          <mxGeometry height="55" width="290" x="95" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="n32" edge="1" parent="1" style="html=0;rounded=0;strokeColor=#20334A;strokeWidth=1.5;endArrow=block;endFill=1;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="240" y="895" as="sourcePoint" />
+            <mxPoint x="75" y="895" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n33" parent="1" style="text;html=0;fillColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=13;fontColor=#20334A;fontStyle=0;spacing=12;" value="200 JSON&#xa;results + timings" vertex="1">
+          <mxGeometry height="40" width="165" x="75" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="n34" parent="1" style="rounded=0;html=0;whiteSpace=wrap;fillColor=#F6F7F9;strokeColor=#20334A;strokeWidth=1.5;fontFamily=Arial;fontSize=14;fontColor=#20334A;spacing=10;" value="Shard lifelines abbreviate A and B. Broadcast calls both concurrently;&#xa;selective calls the caller-specified shard. Metadata loads run concurrently&#xa;for source shards with candidate IDs; empty ID lists cause no SQL query.&#xa;Filtering can yield fewer than k results; the pool is not refilled.&#xa;Failure paths omitted: a required store failure ends the request in error." vertex="1">
+          <mxGeometry height="145" width="734" x="30" y="940" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram name="plan" id="qhG5W6Yl5aJUevqpBon9">
-    <mxGraphModel dx="2020" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

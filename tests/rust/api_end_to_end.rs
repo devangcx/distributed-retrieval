@@ -248,3 +248,216 @@ async fn both_orders_use_canonical_other_industry_label() {
         );
     }
 }
+
+// Keep each assertion about a known target's eligibility: the two execution
+// orders have different candidate budgets and need not return identical lists.
+async fn run_target_filter_cases(cases: Vec<(&str, Value, bool)>) -> Vec<(String, bool, bool)> {
+    let target_id = 27205; // Inception: 2010, Action/SF/Adventure, GB/US, Hollywood.
+    let vector = overview_vector_for_movie(target_id);
+    let router = app();
+    let mut outcomes = Vec::new();
+    for layout in ["hash", "industry"] {
+        for order in ["filter_then_search", "search_then_filter"] {
+            // A positive control prevents an absent target from making all
+            // negative filter cases pass vacuously.
+            let (status, body) = post(
+                router.clone(),
+                json!({
+                    "query_type": "vector_dense", "execution_order": order,
+                    "layout": layout, "routing": "broadcast",
+                    "vector_name": "overview_dense", "vector": vector, "limit": 100
+                }),
+            )
+            .await;
+            assert_eq!(status, StatusCode::OK, "{layout}/{order}: {body}");
+            let control_found = contains_movie(&body, target_id);
+            outcomes.push((
+                format!("positive control/{layout}/{order}"),
+                control_found,
+                true,
+            ));
+            for (name, filter, expected) in &cases {
+                let (status, body) = post(
+                    router.clone(),
+                    json!({
+                        "query_type": "vector_dense", "execution_order": order,
+                        "layout": layout, "routing": "broadcast",
+                        "vector_name": "overview_dense", "vector": vector,
+                        "filter": filter, "limit": 100
+                    }),
+                )
+                .await;
+                assert_eq!(status, StatusCode::OK, "{name}/{layout}/{order}: {body}");
+                let found = contains_movie(&body, target_id);
+                outcomes.push((format!("{name}/{layout}/{order}"), found, *expected));
+            }
+        }
+    }
+    outcomes
+}
+
+fn contains_movie(response: &Value, movie_id: u64) -> bool {
+    let results = response["results"]
+        .as_array()
+        .expect("response must contain results");
+    for result in results {
+        if result["movie_id"] == movie_id {
+            return true;
+        }
+    }
+    false
+}
+
+#[tokio::test]
+#[ignore = "requires populated PostgreSQL and Qdrant shards and local .env"]
+async fn both_orders_respect_inclusive_year_boundaries_in_both_layouts() {
+    // Arrange
+    let cases = vec![
+        (
+            "equal bounds",
+            json!({"release_year_from":2010,"release_year_to":2010}),
+            true,
+        ),
+        (
+            "lower endpoint",
+            json!({"release_year_from":2010,"release_year_to":2011}),
+            true,
+        ),
+        (
+            "upper endpoint",
+            json!({"release_year_from":2009,"release_year_to":2010}),
+            true,
+        ),
+        ("below range", json!({"release_year_from":2011}), false),
+        ("above range", json!({"release_year_to":2009}), false),
+        ("open upper bound", json!({"release_year_from":2010}), true),
+        ("open lower bound", json!({"release_year_to":2010}), true),
+    ];
+
+    // Act
+    let outcomes = run_target_filter_cases(cases).await;
+
+    // Assert
+    for (case_name, actual, expected) in outcomes {
+        assert_eq!(actual, expected, "{case_name}");
+    }
+}
+
+#[tokio::test]
+#[ignore = "requires populated PostgreSQL and Qdrant shards and local .env"]
+async fn both_orders_use_or_within_fields_and_and_across_fields() {
+    // Arrange
+    let cases = vec![
+        ("genre alternative", json!({"genre_ids":[-1,28]}), true),
+        (
+            "country alternative",
+            json!({"country_codes":["ZZ","US"]}),
+            true,
+        ),
+        (
+            "all fields match",
+            json!({"release_year_from":2010,"release_year_to":2010,
+            "genre_ids":[-1,878],"country_codes":["ZZ","GB"],"industry":"hollywood"}),
+            true,
+        ),
+        (
+            "year alone fails",
+            json!({"release_year_from":2011,
+            "genre_ids":[28],"country_codes":["US"],"industry":"hollywood"}),
+            false,
+        ),
+        (
+            "genre alone fails",
+            json!({"release_year_from":2010,
+            "genre_ids":[-1],"country_codes":["US"],"industry":"hollywood"}),
+            false,
+        ),
+        (
+            "country alone fails",
+            json!({"release_year_from":2010,
+            "genre_ids":[28],"country_codes":["ZZ"],"industry":"hollywood"}),
+            false,
+        ),
+        (
+            "industry alone fails",
+            json!({"release_year_from":2010,
+            "genre_ids":[28],"country_codes":["US"],"industry":"bollywood"}),
+            false,
+        ),
+    ];
+
+    // Act
+    let outcomes = run_target_filter_cases(cases).await;
+
+    // Assert
+    for (case_name, actual, expected) in outcomes {
+        assert_eq!(actual, expected, "{case_name}");
+    }
+}
+
+#[tokio::test]
+#[ignore = "requires populated PostgreSQL shards and local .env"]
+async fn missing_relational_record_rejects_enrichment_without_partial_results() {
+    // Arrange
+    let real_app = app();
+    for layout in ["hash", "industry"] {
+        // Establish both a real record and an absent ID without changing data.
+        let (status, body) = post(real_app.clone(), json!({
+            "query_type":"relational", "layout":layout, "routing":"selective",
+            "shard":"a", "sql":"SELECT min(movie_id) AS present_id, max(movie_id) + 1 AS absent_id FROM movies",
+            "limit":1
+        })).await;
+        assert_eq!(status, StatusCode::OK, "{body}");
+        let present_id = body["results"][0]["present_id"].as_u64().unwrap();
+        let absent_id = body["results"][0]["absent_id"].as_u64().unwrap();
+        for order in ["filter_then_search", "search_then_filter"] {
+            let points = json!({"result":{"points":[
+                {"id":present_id,"score":0.99}, {"id":absent_id,"score":0.90}
+            ]}});
+            // Axum requires an asynchronous handler. Each request owns a copy
+            // of the fixed response so the handler can serve repeated calls.
+            let fake_qdrant = Router::new().fallback(move || {
+                let body = points.clone();
+                async move { axum::Json(body) }
+            });
+            let listener = tokio::net::TcpListener::bind("127.0.0.1:0").await.unwrap();
+            let url = format!("http://{}", listener.local_addr().unwrap());
+            // Run the fake service concurrently while the application calls it.
+            let server =
+                tokio::spawn(async move { axum::serve(listener, fake_qdrant).await.unwrap() });
+            let router = api::router(
+                Orchestrator::new(
+                    required_variable("POSTGRES_SHARD_A_URL"),
+                    required_variable("POSTGRES_SHARD_B_URL"),
+                    url.clone(),
+                    url,
+                    Duration::from_secs(5),
+                )
+                .unwrap(),
+            );
+            // Act
+            let (status, body) = post(
+                router,
+                json!({
+                    "query_type":"vector_dense", "execution_order":order,
+                    "layout":layout, "routing":"selective", "shard":"a",
+                    "vector_name":"overview_dense", "vector":vec![0.1;1024], "limit":2
+                }),
+            )
+            .await;
+            server.abort();
+            // Assert
+            assert_eq!(status, StatusCode::BAD_REQUEST, "{layout}/{order}: {body}");
+            let error = body["error"].as_str().unwrap();
+            assert!(error.contains("PostgreSQL shard A"), "{error}");
+            assert!(
+                error.contains(&format!("PostgreSQL did not return movie {absent_id}")),
+                "{error}"
+            );
+            assert!(
+                body.get("results").is_none(),
+                "must not silently return the valid hit"
+            );
+        }
+    }
+}

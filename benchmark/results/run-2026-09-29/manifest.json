@@ -1,0 +1,62 @@
+{
+  "manifest_version": 1,
+  "inputs": {
+    "queries": {
+      "path": "C:\\Users\\devan\\Github\\capstone\\distributed-retrieval\\benchmark\\queries.json",
+      "sha256": "d0ba20323afe50356a3da4449d502ca08b70996b5d68719c207f2e5607e66ae3"
+    },
+    "representations": {
+      "path": "C:\\Users\\devan\\Github\\capstone\\distributed-retrieval\\benchmark\\representations.json",
+      "sha256": "b2a3a6d35fc15bbf6fd91cd6cce99048a008e75b013a975896c53cb0084fb71f"
+    }
+  },
+  "warmups_per_configuration": 1,
+  "repetitions_per_configuration": 30,
+  "configured_query_count": 109,
+  "selected_configurations": [
+    {
+      "layout": "hash",
+      "routing": "broadcast",
+      "shard": null
+    },
+    {
+      "layout": "hash",
+      "routing": "selective",
+      "shard": "a"
+    },
+    {
+      "layout": "hash",
+      "routing": "selective",
+      "shard": "b"
+    },
+    {
+      "layout": "industry",
+      "routing": "broadcast",
+      "shard": null
+    },
+    {
+      "layout": "industry",
+      "routing": "selective",
+      "shard": "a"
+    },
+    {
+      "layout": "industry",
+      "routing": "selective",
+      "shard": "b"
+    }
+  ],
+  "execution_orders": [
+    "filter_then_search",
+    "search_then_filter"
+  ],
+  "environment": {
+    "operating_system": {
+      "system": "Windows",
+      "release": "11"
+    },
+    "python": {
+      "implementation": "CPython",
+      "version": "3.12.10"
+    }
+  }
+}

@@ -159,7 +159,8 @@ def configured_queries(
             if "limit" not in query_with_defaults:
                 query_with_defaults["limit"] = default_limit
             for configuration in query["configurations"]:
-                configured.append((query_kind, query_with_defaults, configuration))
+                configured.append(
+                    (query_kind, query_with_defaults, configuration))
     return configured
 
 
@@ -384,7 +385,6 @@ def main() -> None:
     summary_path = arguments.output_directory / "summary.json"
     summary_path.write_text(json.dumps(
         summary, indent=2) + "\n", encoding="utf-8")
-    print(json.dumps(summary, indent=2))
     print(f"saved {measured_request_count} measured requests to {result_path}")
 
 

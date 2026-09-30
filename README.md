@@ -295,6 +295,103 @@ To stop the system later while retaining its data volumes, run:
 docker compose down --remove-orphans
 ```
 
+## Run the Benchmark
+
+Run these commands from the repository root with the project's Python virtual
+environment activated and `requirements.txt` installed. Complete the PostgreSQL
+and Qdrant loading steps above first: both layouts must be populated on both
+shards. The benchmark does not start services or load data.
+
+Start the populated system:
+
+```bash
+docker compose up -d --build
+```
+
+Run the fixed workload with one warmup and 30 measured repetitions per
+query/configuration pair:
+
+```bash
+python benchmark/run_benchmark.py --output-directory benchmark/results/run-2026-09-30 --warmups 1 --repetitions 30
+```
+
+Choose a fresh output directory for each run, replacing `run-2026-09-30` in all
+commands below with your run name. The runner refuses to overwrite an existing
+`manifest.json` or `requests.jsonl`.
+
+The workload comes from `benchmark/queries.json`, with saved query vectors from
+`benchmark/representations.json`. Embedding generation is outside the measured
+run; the runner reuses the saved representations without calling OpenAI.
+
+### Warmups and repetitions
+
+For each query and its listed configuration, the runner sends the warmup requests
+first, then all measured repetitions before moving to the next configuration.
+Requests are sequential and follow the workload file's order. Within an
+individual broadcast request, the orchestrator contacts both shards concurrently.
+
+- **Warmups** send the same request without saving its measurements, giving
+  connection pools and database caches a chance to warm up. The default is one
+  per query/configuration pair; `--warmups 0` disables them. A failed warmup stops
+  the run. Services and caches are not reset between configurations.
+- **Repetitions** are measured executions of that same request. The default of
+  30 provides repeated latency observations for averages, percentiles, and
+  confidence intervals. It is a practical sample-size choice, not a guarantee
+  of statistical precision or 30 independent system runs. P99 estimates from
+  only 30 samples are limited.
+
+The current workload has 36 logical queries: 12 relational, 12 dense, and 12
+sparse. Their listed configurations expand to 109 query/configuration pairs.
+With the settings above, a complete run sends 109 warmups and saves 3,270 measured
+requests, for 3,379 HTTP requests in total.
+
+The default endpoint is `http://localhost:3000/query`, and the client timeout is
+15 seconds. Override these with `--url` and `--timeout-seconds` if needed. Use
+`python benchmark/run_benchmark.py --help` to see all options.
+
+### Saved measurements
+
+The runner writes these files to the output directory:
+
+| File | Contents |
+| --- | --- |
+| `manifest.json` | Input checksums, selected configurations, repetition settings, and basic environment information |
+| `requests.jsonl` | One record per measured request, including timings, rankings, HTTP status, and failures; written incrementally |
+| `summary.json` | Correctness, retrieval quality, latency statistics, and confidence intervals; calculated after the request loop finishes |
+
+Client latency (`request_latency_ms`) includes the HTTP round trip and response
+decoding. Server timings include overall orchestrator work (`total_ms`), vector
+retrieval (`vector_ms`), and PostgreSQL enrichment (`enrichment_ms`). Recognized
+HTTP and connection failures during measured repetitions are recorded without
+automatic retries; failed requests are excluded from latency summaries and
+counted separately.
+
+### Generate comparison tables and charts
+
+After the benchmark completes, generate report artifacts from its saved data:
+
+```bash
+python benchmark/generate_report_artifacts.py benchmark/results/run-2026-09-30
+```
+
+This is offline analysis of the recorded measurements; it does not send queries
+again. It creates these files in the same run directory:
+
+- `configuration_comparison.csv`
+- `strategy_comparison.csv`
+- `matched_strategy_comparison.csv`
+- `mean_total_latency.png`
+- `retrieval_quality.png`
+- `matched_latency_difference.png`
+
+Chart export uses Plotly and Kaleido from `requirements.txt`. To regenerate
+existing tables and charts while preserving the raw request records, add
+`--overwrite`:
+
+```bash
+python benchmark/generate_report_artifacts.py benchmark/results/run-2026-09-30 --overwrite
+```
+
 # Data
 
 ## Canonical Corpus

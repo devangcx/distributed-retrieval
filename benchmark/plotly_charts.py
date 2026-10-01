@@ -1,6 +1,7 @@
 """Render benchmark chart data as static PNG files with Plotly."""
 
 from pathlib import Path
+from textwrap import wrap
 
 import plotly.graph_objects as go
 
@@ -17,6 +18,10 @@ def horizontal_bar_figure(
 ) -> go.Figure:
     """Build a horizontal bar figure with optional confidence intervals."""
     labels = [label for label, _value, _lower, _upper in values]
+    # Wrap display labels without changing the categories used by the bars.
+    label_lines = [wrap(label, width=30) or [""] for label in labels]
+    tick_labels = ["<br>".join(lines) for lines in label_lines]
+    row_height = 24 + 54 * max((len(lines) for lines in label_lines), default=1)
     means = [value for _label, value, _lower, _upper in values]
     upper_errors = [
         0.0 if upper is None else max(0.0, upper - value)
@@ -55,41 +60,51 @@ def horizontal_bar_figure(
                 "array": upper_errors,
                 "arrayminus": lower_errors,
                 "visible": has_intervals,
+                "thickness": 4,
+                "width": 12,
+                "color": "#333333",
             },
             cliponaxis=False,
         )
     )
     figure.update_layout(
-        title={"text": title, "x": 0.5},
+        title={"text": title, "x": 0.5, "font": {"size": 48}},
         template="plotly_white",
+        # At the report's displayed width (~650 px), 44 px becomes ~18 px.
+        font={"family": "Arial, sans-serif", "size": 44},
         width=1600,
-        height=max(500, 150 + 34 * len(values)),
-        margin={"l": 480, "r": 140, "t": 90, "b": 80},
-        xaxis_title=value_label,
-        yaxis={"autorange": "reversed", "automargin": True},
+        height=max(600, 320 + row_height * len(values)),
+        margin={"l": 760, "r": 160, "t": 120, "b": 200},
+        xaxis_title={
+            "text": "<br>".join(wrap(value_label, width=34)),
+            "font": {"size": 44},
+        },
+        yaxis={
+            "autorange": "reversed",
+            "automargin": True,
+            "tickmode": "array",
+            "tickvals": labels,
+            "ticktext": tick_labels,
+            "tickfont": {"size": 44},
+        },
         showlegend=False,
     )
     figure.update_xaxes(
         range=[minimum - range_padding, maximum + range_padding]
     )
     if show_values:
-        for label, value, lower, upper in values:
-            if value < 0.0:
-                interval_edge = value if lower is None else lower
-                annotation_x = interval_edge - annotation_gap
-                anchor = "right"
-            else:
-                interval_edge = value if upper is None else upper
-                annotation_x = interval_edge + annotation_gap
-                anchor = "left"
+        for label, value, _lower, upper in values:
+            # Keep negative-value labels out of the query-label margin too.
+            interval_edge = max(0.0, value, value if upper is None else upper)
+            annotation_x = interval_edge + annotation_gap
             figure.add_annotation(
                 x=annotation_x,
                 y=label,
                 text=f"{value:.3f}",
                 showarrow=False,
-                xanchor=anchor,
+                xanchor="left",
                 yanchor="middle",
-                font={"size": 11, "color": "#333333"},
+                font={"size": 44, "color": "#333333"},
             )
     if show_zero_line:
         figure.add_vline(x=0.0, line_width=1, line_color="#555555")

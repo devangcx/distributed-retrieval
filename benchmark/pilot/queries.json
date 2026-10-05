@@ -1,0 +1,110 @@
+{
+  "schema_version": "pilot-v1",
+  "queries": [
+    {
+      "id": "rel_long_movies_count",
+      "kind": "relational",
+      "description": "Count movies with a runtime of at least three hours.",
+      "sql": "SELECT COUNT(*)::bigint AS movie_count FROM movies WHERE runtime_minutes >= 180",
+      "limit": 2,
+      "correctness": {"type": "sum_field", "field": "movie_count", "expected": 88},
+      "configurations": [
+        {"layout": "hash", "routing": "broadcast"},
+        {"layout": "industry", "routing": "broadcast"}
+      ]
+    },
+    {
+      "id": "rel_high_rated_popular_count",
+      "kind": "relational",
+      "description": "Count highly rated movies with at least one thousand votes.",
+      "sql": "SELECT COUNT(*)::bigint AS movie_count FROM movies WHERE vote_average >= 8.0 AND vote_count >= 1000",
+      "limit": 2,
+      "correctness": {"type": "sum_field", "field": "movie_count", "expected": 122},
+      "configurations": [
+        {"layout": "hash", "routing": "broadcast"},
+        {"layout": "industry", "routing": "broadcast"}
+      ]
+    },
+    {
+      "id": "rel_bollywood_science_fiction_2010s",
+      "kind": "relational",
+      "description": "Find Bollywood science-fiction movies released during the 2010s.",
+      "sql": "SELECT movies.movie_id, movies.title FROM movies WHERE movies.industry = 'bollywood' AND movies.release_date >= DATE '2010-01-01' AND movies.release_date < DATE '2020-01-01' AND EXISTS (SELECT 1 FROM movie_genres WHERE movie_genres.movie_id = movies.movie_id AND movie_genres.genre_id = 878) ORDER BY movies.movie_id",
+      "limit": 10,
+      "correctness": {"type": "movie_ids", "expected": [41517, 49679, 129507, 204435, 297222, 329909, 640421]},
+      "configurations": [
+        {"layout": "hash", "routing": "broadcast"},
+        {"layout": "industry", "routing": "selective", "shard": "b"}
+      ]
+    },
+    {
+      "id": "dense_arrival",
+      "kind": "vector_dense",
+      "query_text": "a linguist tries to communicate with mysterious visitors from another world",
+      "vector_name": "overview_dense",
+      "limit": 10,
+      "relevant_movie_ids": [329865],
+      "configurations": [
+        {"layout": "hash", "routing": "broadcast", "execution_order": "filter_then_search"},
+        {"layout": "industry", "routing": "broadcast", "execution_order": "filter_then_search"}
+      ]
+    },
+    {
+      "id": "dense_edge_of_tomorrow_filtered",
+      "kind": "vector_dense",
+      "query_text": "an inexperienced soldier repeatedly relives the same battle against alien invaders",
+      "vector_name": "overview_dense",
+      "filter": {"release_year_from": 2005, "release_year_to": 2015, "genre_ids": [28, 878]},
+      "limit": 10,
+      "relevant_movie_ids": [137113],
+      "configurations": [
+        {"layout": "hash", "routing": "broadcast", "execution_order": "filter_then_search"},
+        {"layout": "hash", "routing": "broadcast", "execution_order": "search_then_filter"},
+        {"layout": "industry", "routing": "broadcast", "execution_order": "filter_then_search"},
+        {"layout": "industry", "routing": "broadcast", "execution_order": "search_then_filter"}
+      ]
+    },
+    {
+      "id": "dense_finding_nemo_filtered",
+      "kind": "vector_dense",
+      "query_text": "an anxious father crosses the ocean to rescue his captured young son",
+      "vector_name": "overview_dense",
+      "filter": {"industry": "hollywood", "country_codes": ["US"]},
+      "limit": 10,
+      "relevant_movie_ids": [12],
+      "configurations": [
+        {"layout": "hash", "routing": "broadcast", "execution_order": "filter_then_search"},
+        {"layout": "hash", "routing": "broadcast", "execution_order": "search_then_filter"},
+        {"layout": "industry", "routing": "selective", "shard": "a", "execution_order": "filter_then_search"},
+        {"layout": "industry", "routing": "selective", "shard": "a", "execution_order": "search_then_filter"}
+      ]
+    },
+    {
+      "id": "sparse_prestige",
+      "kind": "vector_sparse",
+      "query_text": "The Prestige Christopher Nolan Robert Angier Alfred Borden",
+      "limit": 10,
+      "target_movie_id": 1124,
+      "configurations": [
+        {"layout": "hash", "routing": "broadcast", "execution_order": "filter_then_search"},
+        {"layout": "hash", "routing": "selective", "shard": "a", "execution_order": "filter_then_search"},
+        {"layout": "industry", "routing": "broadcast", "execution_order": "filter_then_search"},
+        {"layout": "industry", "routing": "selective", "shard": "a", "execution_order": "filter_then_search"}
+      ]
+    },
+    {
+      "id": "sparse_pk_filtered",
+      "kind": "vector_sparse",
+      "query_text": "PK Rajkumar Hirani Aamir Khan Jaggu Tapasvi",
+      "filter": {"industry": "bollywood", "country_codes": ["IN"]},
+      "limit": 10,
+      "target_movie_id": 297222,
+      "configurations": [
+        {"layout": "hash", "routing": "broadcast", "execution_order": "filter_then_search"},
+        {"layout": "hash", "routing": "broadcast", "execution_order": "search_then_filter"},
+        {"layout": "industry", "routing": "selective", "shard": "b", "execution_order": "filter_then_search"},
+        {"layout": "industry", "routing": "selective", "shard": "b", "execution_order": "search_then_filter"}
+      ]
+    }
+  ]
+}

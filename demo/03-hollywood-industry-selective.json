@@ -1,0 +1,8 @@
+{
+  "query_type": "relational",
+  "layout": "industry",
+  "routing": "selective",
+  "limit": 2,
+  "shard": "a",
+  "sql": "SELECT COUNT(*)::bigint AS movie_count FROM movies WHERE industry = 'hollywood'"
+}

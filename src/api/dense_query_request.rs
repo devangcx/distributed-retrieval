@@ -19,6 +19,7 @@ pub struct DenseQueryRequest {
 }
 
 impl DenseQueryRequest {
+    /// Move API fields into a dense search request.
     pub fn into_search_request(self) -> VectorSearchRequest {
         VectorSearchRequest {
             layout: self.layout,

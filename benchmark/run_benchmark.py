@@ -87,6 +87,7 @@ def selected_configurations(
 def selected_execution_orders(
     query_document: dict[str, Any],
 ) -> list[str]:
+    """Return sorted distinct execution orders used by vector configurations."""
     orders = {
         configuration["execution_order"]
         for _query_kind, _query, configuration in configured_queries(
@@ -170,6 +171,7 @@ def build_request(
     configuration: dict[str, Any],
     representations: dict[str, Any],
 ) -> dict[str, Any]:
+    """Combine a query and configuration with saved vectors into an API request."""
     request: dict[str, Any] = {
         "query_type": query_kind,
         "layout": configuration["layout"],
@@ -201,6 +203,11 @@ def request_once(
     url: str, request_body: dict[str, Any], timeout_seconds: float
 ) -> dict[str, Any]:
     # Compact JSON reduces the request size, especially for 1,024-value vectors.
+    """Send one request and measure the round trip through response decoding.
+
+    Request encoding is outside the timer. HTTP and connection failures are
+    returned as outcome fields. Invalid JSON in a successful response propagates.
+    """
     encoded_body = json.dumps(
         request_body, separators=(",", ":")).encode("utf-8")
     request = urllib.request.Request(
@@ -248,6 +255,7 @@ def build_record(
     repetition: int,
     outcome: dict[str, Any],
 ) -> dict[str, Any]:
+    """Preserve one outcome with timings, ranking, and expected answers for evaluation."""
     response = outcome["response"]
     if not isinstance(response, dict):
         response = {}
@@ -310,6 +318,14 @@ def run_requests(
     timeout_seconds: float,
     send_request: Callable[[str, dict[str, Any], float], dict[str, Any]],
 ) -> int:
+    """Run each query/configuration sequentially and return the record count.
+
+    Each configuration's warmups precede its measured repetitions. Warmup
+    measurements are discarded, and a non-200 warmup raises RuntimeError.
+    Measured outcomes, including reported failures, are written as JSON lines
+    and flushed individually so completed records survive a later interruption.
+    Exceptions raised by send_request or output writes propagate to the caller.
+    """
     measured_request_count = 0
     for query_kind, query, configuration in configured_queries(query_document):
         request_body = build_request(
@@ -344,6 +360,10 @@ def run_requests(
 
 
 def main() -> None:
+    """Run the fixed workload and save its manifest, records, and metric summary.
+
+    Refuse existing manifest or request files rather than overwrite a prior run.
+    """
     arguments = parse_arguments()
     if arguments.warmups < 0:
         raise ValueError("warmups must be at least 0")

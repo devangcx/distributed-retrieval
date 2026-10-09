@@ -33,6 +33,7 @@ def load_records(path: Path) -> list[dict[str, Any]]:
 
 
 def configuration_rows(summary: dict[str, Any]) -> list[dict[str, Any]]:
+    """Flatten per-configuration metrics and confidence intervals into table rows."""
     rows = []
     for configuration in summary["configurations"]:
         row = {
@@ -77,6 +78,7 @@ def configuration_rows(summary: dict[str, Any]) -> list[dict[str, Any]]:
 
 
 def p99_qualification(sample_count: int) -> str:
+    """Explain the limited precision of P99 when at most 30 timings are available."""
     if sample_count <= 30:
         return (
             f"P99 is the maximum or near-maximum of only {sample_count} "
@@ -86,6 +88,7 @@ def p99_qualification(sample_count: int) -> str:
 
 
 def matched_comparison_rows(metrics: BenchmarkMetrics) -> list[dict[str, Any]]:
+    """Flatten matched-query strategy differences and intervals into table rows."""
     rows = []
     for comparison in metrics.strategy_comparison_rows():
         client_interval = comparison[
@@ -130,6 +133,10 @@ def matched_comparison_rows(metrics: BenchmarkMetrics) -> list[dict[str, Any]]:
 def write_csv(
     path: Path, rows: list[dict[str, Any]], overwrite: bool = False
 ) -> None:
+    """Write a nonempty table using the first row's keys as columns.
+
+    Raise ValueError for empty input. Refuse existing files unless overwrite is set.
+    """
     if not rows:
         raise ValueError("cannot write an empty comparison table")
     mode = "w" if overwrite else "x"
@@ -142,6 +149,7 @@ def write_csv(
 def configuration_latency_chart_values(
     configurations: list[dict[str, Any]],
 ) -> list[ChartValue]:
+    """Extract available orchestrator means and intervals, skipping missing means."""
     return [
         (
             f'{row["query_id"]}: {row["layout"]} / {row["routing"]} / {row["execution_order"]}',
@@ -157,6 +165,7 @@ def configuration_latency_chart_values(
 def retrieval_quality_chart_values(
     strategies: list[dict[str, Any]],
 ) -> list[ChartValue]:
+    """Extract dense ranking quality and sparse reciprocal rank without intervals."""
     values = []
     for row in strategies:
         if (
@@ -185,6 +194,7 @@ def retrieval_quality_chart_values(
 def matched_latency_chart_values(
     comparisons: list[dict[str, Any]],
 ) -> list[ChartValue]:
+    """Extract paired orchestrator differences and intervals, using B minus A."""
     return [
         (
             f'{row["query_kind"]}: {row["strategy_a"]} vs {row["strategy_b"]} (n={row["matched_query_count"]})',
@@ -221,6 +231,11 @@ def validate_artifact_paths(
 def generate_artifacts(
     run_directory: Path, overwrite: bool = False
 ) -> list[Path]:
+    """Recalculate metrics from saved requests and return written table/chart paths.
+
+    Require requests.jsonl and summary.json. Refuse existing outputs unless
+    overwrite is set. Raw requests and the saved summary are left unchanged.
+    """
     requests_path = run_directory / "requests.jsonl"
     summary_path = run_directory / "summary.json"
     strategy_path = run_directory / "strategy_comparison.csv"
@@ -282,6 +297,7 @@ def generate_artifacts(
 
 
 def main() -> None:
+    """Generate report tables and charts from the command-line run directory."""
     arguments = parse_arguments()
     generated_paths = generate_artifacts(
         arguments.run_directory, overwrite=arguments.overwrite

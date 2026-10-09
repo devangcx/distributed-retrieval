@@ -29,6 +29,11 @@ def file_sha256(path: Path) -> str:
 
 
 def generate_representations() -> dict[str, Any]:
+    """Generate paid OpenAI dense vectors and local sparse vectors for fixed queries.
+
+    Return vectors keyed by query ID with model, token-use, and checksum metadata.
+    This performs embedding work only. The caller saves the resulting document.
+    """
     try:
         from fastembed import SparseTextEmbedding
         from openai import OpenAI
@@ -76,6 +81,7 @@ def generate_representations() -> dict[str, Any]:
 
 
 def main() -> None:
+    """Save generated query vectors, refusing an existing artifact without --force."""
     from dotenv import load_dotenv
 
     arguments = parse_arguments()

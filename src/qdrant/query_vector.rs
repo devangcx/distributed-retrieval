@@ -8,6 +8,7 @@ pub enum QueryVector {
 }
 
 impl QueryVector {
+    /// Encode a dense array or sparse index/value object for Qdrant's query field.
     pub(crate) fn json(&self) -> Value {
         match self {
             Self::Dense(values) => json!(values),

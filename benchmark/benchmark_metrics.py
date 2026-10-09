@@ -22,6 +22,10 @@ class BenchmarkMetrics:
         bootstrap_seed: int = BOOTSTRAP_SEED,
         bootstrap_resamples: int = BOOTSTRAP_RESAMPLES,
     ) -> None:
+        """Evaluate copies of request records and group them for summaries.
+
+        Reject a resample count below one. Failed requests retain their original fields.
+        """
         if bootstrap_resamples < 1:
             raise ValueError("bootstrap_resamples must be at least 1")
         self.bootstrap_seed = bootstrap_seed
@@ -33,6 +37,7 @@ class BenchmarkMetrics:
         self.configuration_groups = self.group_by_configuration()
 
     def records_for_kind(self, query_kind: str) -> list[dict[str, Any]]:
+        """Select one query kind, retaining both successful and failed requests."""
         return [
             record
             for record in self.records
@@ -42,6 +47,7 @@ class BenchmarkMetrics:
     def successful_records_for_kind(
         self, query_kind: str
     ) -> list[dict[str, Any]]:
+        """Select only HTTP 200 records for one query kind."""
         return [
             record
             for record in self.records_for_kind(query_kind)
@@ -49,6 +55,7 @@ class BenchmarkMetrics:
         ]
 
     def evaluate_record(self, record: dict[str, Any]) -> dict[str, Any]:
+        """Return a copy with correctness or retrieval metrics for successful requests."""
         evaluated_record = dict(record)
         if record["http_status"] != 200:
             return evaluated_record
@@ -88,6 +95,7 @@ class BenchmarkMetrics:
         raise ValueError(f"unknown relational correctness type {correctness['type']}")
 
     def target_rank(self, record: dict[str, Any]) -> int | None:
+        """Return the saved one-based target rank, or None if the target is absent."""
         for result in record["ranking"]:
             if int(result["movie_id"]) == record["target_movie_id"]:
                 return int(result["rank"])
@@ -137,6 +145,7 @@ class BenchmarkMetrics:
         }
 
     def mean(self, values: list[float]) -> float | None:
+        """Return the arithmetic mean, or None when there are no observations."""
         if not values:
             return None
         return statistics.fmean(values)
@@ -187,6 +196,7 @@ class BenchmarkMetrics:
     def timing_statistics(
         self, records: list[dict[str, Any]], field: str
     ) -> dict[str, Any]:
+        """Summarize available timings from HTTP 200 records, excluding failures."""
         values = [
             float(record[field])
             for record in records
@@ -205,6 +215,7 @@ class BenchmarkMetrics:
     def metric_mean(
         self, records: list[dict[str, Any]], field: str
     ) -> float | None:
+        """Average available metric values from HTTP 200 records, or return None."""
         values = [
             float(record[field])
             for record in records
@@ -215,6 +226,10 @@ class BenchmarkMetrics:
     def configuration_summary(
         self, records: list[dict[str, Any]]
     ) -> dict[str, Any]:
+        """Summarize a nonempty group for one query and configuration.
+
+        Failures contribute to counts but are excluded from timing and retrieval means.
+        """
         first = records[0]
         summary: dict[str, Any] = {
             "query_id": first["query_id"],
@@ -257,12 +272,14 @@ class BenchmarkMetrics:
         return summary
 
     def strategy_name(self, record: dict[str, Any]) -> str:
+        """Label a strategy by layout, routing, and optional execution order."""
         parts = [record["layout"], record["routing"]]
         if record.get("execution_order") is not None:
             parts.append(record["execution_order"])
         return " / ".join(parts)
 
     def group_by_strategy(self) -> list[list[dict[str, Any]]]:
+        """Group by query kind, layout, routing, and execution order across queries."""
         groups: dict[
             tuple[str, str, str, str | None],
             list[dict[str, Any]],
@@ -432,6 +449,7 @@ class BenchmarkMetrics:
         return rows
 
     def group_by_configuration(self) -> list[list[dict[str, Any]]]:
+        """Group repetitions by query ID, layout, routing, shard, and execution order."""
         groups: dict[
             tuple[str, str, str, str | None, str | None],
             list[dict[str, Any]],

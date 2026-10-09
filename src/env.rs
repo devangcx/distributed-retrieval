@@ -7,6 +7,8 @@ pub(crate) struct Env {
 }
 
 impl Env {
+    /// Load optional `.env` settings and require all four database URL variables.
+    /// Default the bind address to `localhost:3000`.
     pub(crate) fn load() -> Result<Self, &'static str> {
         dotenvy::dotenv().ok();
 

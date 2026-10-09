@@ -16,6 +16,8 @@ pub struct VectorSearchRequest {
 }
 
 impl VectorSearchRequest {
+    /// Check vector shape and name, finite values, filter, limit, and routing.
+    /// Return the first validation failure without contacting either store.
     pub fn validate(&self) -> Result<(), &'static str> {
         if !(1..=100).contains(&self.limit) {
             return Err("limit must be between 1 and 100");
@@ -65,6 +67,11 @@ impl VectorSearchRequest {
         }
     }
 
+    /// Return the selected physical shards after successful request validation.
+    ///
+    /// # Panics
+    ///
+    /// Panics if routing is selective and no shard was supplied.
     pub fn shards(&self) -> Vec<Shard> {
         match self.routing {
             Routing::Broadcast => vec![Shard::A, Shard::B],

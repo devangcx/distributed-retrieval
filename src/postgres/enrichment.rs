@@ -8,6 +8,11 @@ use crate::{Layout, Shard};
 
 use super::{ExecuteError, MovieDetails, PgPool, SqlResult, database::classify_query_error};
 
+/// Load authoritative details from one layout and tag them with the supplied shard.
+///
+/// Empty IDs avoid a database call. Results are unordered and may omit missing
+/// movies. The orchestrator restores ranking and checks completeness. Industry
+/// labels are translated back to the canonical values used by vector filters.
 pub(crate) async fn fetch_movie_details(
     pool: &PgPool,
     layout: Layout,

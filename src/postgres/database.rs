@@ -8,6 +8,7 @@ use super::{ExecuteError, SqlResult};
 // Asynchronous PostgreSQL connection pool managed by Deadpool through Diesel Async.
 pub(crate) type PgPool = Pool<AsyncPgConnection>;
 
+/// Build a pool of up to four connections, connecting on demand rather than here.
 pub(crate) fn pool(shard_url: String) -> Result<PgPool, String> {
     let manager = AsyncDieselConnectionManager::<AsyncPgConnection>::new(shard_url);
     let pool_result = Pool::builder(manager).max_size(4).build();
@@ -18,6 +19,11 @@ pub(crate) fn pool(shard_url: String) -> Result<PgPool, String> {
     }
 }
 
+/// Execute caller SQL as JSON rows inside a read-only transaction.
+///
+/// The schema must come from the internal layout mapping. Its search path is
+/// transaction-local so pooled connections cannot carry it into another query.
+/// This function loads all returned rows. The orchestrator applies its limit later.
 pub(crate) async fn execute(
     pool: &PgPool,
     schema: &'static str,
@@ -77,6 +83,7 @@ pub(crate) async fn execute(
         .await
 }
 
+/// Map driver errors to query failures, hiding internal connection error details.
 pub(super) fn classify_query_error(error: diesel::result::Error) -> ExecuteError {
     match error {
         diesel::result::Error::DeserializationError(error) => {

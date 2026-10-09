@@ -19,6 +19,8 @@ pub struct SparseQueryRequest {
 }
 
 impl SparseQueryRequest {
+    /// Build a sparse search request using the fixed `metadata_sparse` vector name.
+    /// Conversion does not validate the supplied indices or values.
     pub fn into_search_request(self) -> VectorSearchRequest {
         VectorSearchRequest {
             layout: self.layout,

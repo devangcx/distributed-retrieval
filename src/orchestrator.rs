@@ -18,6 +18,10 @@ pub struct Orchestrator {
 }
 
 impl Orchestrator {
+    /// Create reusable database pools and a Qdrant client without contacting shards.
+    ///
+    /// Return an error if pool or HTTP client construction fails. The timeout
+    /// applies separately to each shard operation, not to the whole query.
     pub fn new(
         shard_a_url: String,
         shard_b_url: String,
@@ -49,6 +53,14 @@ impl Orchestrator {
         })
     }
 
+    /// Retrieve ranked movies and enrich them with PostgreSQL details.
+    ///
+    /// `FilterThenSearch` applies the filter in Qdrant during retrieval.
+    /// `SearchThenFilter` merges unfiltered shard results into a global pool of
+    /// at most 100 candidates, then filters using their PostgreSQL details.
+    /// This fixed pool makes the strategy reproducible. Rejected candidates are
+    /// not replaced, so fewer movies than requested may be returned.
+    /// The requested response limit is applied after enrichment and filtering.
     pub async fn vector_query(
         &self,
         mut request: VectorSearchRequest,
@@ -118,6 +130,11 @@ impl Orchestrator {
         })
     }
 
+    /// Attach movie details from the matching PostgreSQL shard, preserving rank.
+    ///
+    /// Both stores must use the same layout manifests, so each Qdrant result's
+    /// source shard also identifies its PostgreSQL shard. Missing details or a
+    /// shard lookup failure fail the request rather than return partial results.
     async fn enrich_vector_results(
         &self,
         layout: crate::Layout,
@@ -188,6 +205,8 @@ impl Orchestrator {
         Ok(enriched_results)
     }
 
+    /// Fetch details with a deadline that includes waiting for a pooled connection.
+    /// Database failures and timeouts retain the source shard in the returned error.
     async fn load_details_from_shard(
         &self,
         shard: Shard,
@@ -215,6 +234,13 @@ impl Orchestrator {
         }
     }
 
+    /// Execute a read-only SQL query on the selected shards.
+    ///
+    /// Broadcast queries run concurrently, but their rows are concatenated in
+    /// shard A then shard B order before applying the response limit. No global
+    /// sorting, aggregation, or deduplication is performed. The response limit
+    /// does not limit database work. Callers must include any SQL `LIMIT` needed.
+    /// Failure on any selected shard fails the whole request.
     pub async fn query(&self, request: QueryRequest) -> Result<QueryResponse, QueryError> {
         let started = Instant::now();
 
@@ -267,6 +293,8 @@ impl Orchestrator {
         })
     }
 
+    /// Execute SQL with a per-shard deadline and measure rows before global limiting.
+    /// Elapsed time includes obtaining a connection and reading the query results.
     async fn execute_on_shard(
         &self,
         shard: Shard,
@@ -307,6 +335,7 @@ impl Orchestrator {
     }
 }
 
+/// Attach the physical shard to a database error for the API error response.
 fn query_error_for(shard: Shard, error: ExecuteError) -> QueryError {
     match error {
         ExecuteError::InvalidStatement(message) => QueryError::InvalidSql(shard, message),

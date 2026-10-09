@@ -24,6 +24,8 @@ impl Default for VectorFilter {
 }
 
 impl VectorFilter {
+    /// Match enriched details using inclusive years and AND between filter fields.
+    /// Genre and country lists each require any one match. Missing required details fail.
     pub(crate) fn matches(&self, details: &Value) -> bool {
         // Get release year as four-digit integer from the release date string
         let release_year = details
@@ -86,6 +88,8 @@ impl VectorFilter {
         true
     }
 
+    /// Reject empty filters, reversed year ranges, and blank industry/country values.
+    /// This checks shape only, not whether supplied labels or IDs exist in the corpus.
     pub(crate) fn validate(&self) -> Result<(), &'static str> {
         if self.release_year_from.is_none()
             && self.release_year_to.is_none()
@@ -119,6 +123,7 @@ impl VectorFilter {
         Ok(())
     }
 
+    /// Encode Qdrant payload conditions with the same AND/any-match rules as `matches`.
     pub(crate) fn json(&self) -> Value {
         let mut conditions = Vec::new();
 

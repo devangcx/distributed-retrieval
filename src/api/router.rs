@@ -11,6 +11,7 @@ use axum::{
     routing::{get, post},
 };
 
+/// Register health and query endpoints sharing the supplied orchestrator's clients.
 pub fn router(orchestrator: Orchestrator) -> Router {
     Router::new()
         .route("/health", get(health))
@@ -18,10 +19,12 @@ pub fn router(orchestrator: Orchestrator) -> Router {
         .with_state(orchestrator)
 }
 
+/// Report HTTP process liveness without probing PostgreSQL or Qdrant readiness.
 async fn health() -> &'static str {
     "OK"
 }
 
+/// Dispatch a typed request and convert parsing or execution failures to JSON errors.
 async fn query(
     State(orchestrator): State<Orchestrator>,
     body: Result<Json<ApiQueryRequest>, JsonRejection>,
@@ -53,6 +56,7 @@ async fn query(
     }
 }
 
+/// Map query/result errors to 400, unavailable stores to 503, and timeouts to 504.
 fn relational_error_response(error: QueryError) -> Response {
     match error {
         QueryError::Invalid(message) => {
@@ -81,6 +85,7 @@ fn relational_error_response(error: QueryError) -> Response {
     }
 }
 
+/// Map Qdrant failures to HTTP errors, using 502 for unreadable upstream responses.
 fn qdrant_error_response(error: QdrantError) -> Response {
     match error {
         QdrantError::Invalid(message) => {

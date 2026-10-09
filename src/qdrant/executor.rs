@@ -15,6 +15,8 @@ pub struct QdrantExecutor {
 }
 
 impl QdrantExecutor {
+    /// Build a reusable HTTP client with a timeout for each Qdrant request.
+    /// Return client construction errors without checking shard availability.
     pub fn new(
         shard_a_url: String,
         shard_b_url: String,
@@ -32,6 +34,10 @@ impl QdrantExecutor {
         })
     }
 
+    /// Validate and search selected shards, merging by descending score to the limit.
+    ///
+    /// Any selected shard failure fails the search. This layer applies a supplied
+    /// Qdrant filter directly. Execution-order handling belongs to the orchestrator.
     pub async fn search(
         &self,
         request: VectorSearchRequest,
@@ -71,6 +77,8 @@ impl QdrantExecutor {
         Ok(results)
     }
 
+    /// Query the layout's collection on one shard and tag results with their source.
+    /// Return a shard-specific error for timeout, HTTP failure, or unreadable data.
     async fn search_shard(
         &self,
         shard: Shard,
@@ -119,6 +127,8 @@ impl QdrantExecutor {
     }
 }
 
+/// Read Qdrant points in response order, requiring unsigned numeric IDs and scores.
+/// Reject the whole response if any point is missing a readable ID or score.
 fn parse_results(response: &Value, shard: Shard) -> Result<Vec<VectorSearchResult>, QdrantError> {
     let points = match response.pointer("/result/points").and_then(Value::as_array) {
         Some(points) => points,

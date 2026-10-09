@@ -1,3 +1,8 @@
+# Query Orchestrator
+
+A Rust based deterministic query orchestrator to coordinate relational,
+dense semantic, and sparse lexical retrieval over distributed aligned data.
+
 # Local Setup
 
 Install Git, Docker Desktop, Python 3.12, and the Rust toolchain before starting.
@@ -40,7 +45,7 @@ Create a local Python environment and install the Python dependencies:
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
-pip install -r requirements-dev.txt
+pip install -r dev-requirements.txt
 ```
 
 Install the Diesel CLI used by the relational-schema initialization script:
@@ -126,7 +131,9 @@ docker compose ps -a
 
 The orchestrator is available from the host at `http://localhost:3000`. Inside
 the Compose network it connects to the stores using their service names and
-internal ports. The `.env` database and Qdrant URLs continue to use `localhost`
+internal ports.
+
+The `.env`, database, and Qdrant URLs continue to use `localhost`
 and the published ports because the Python ingestion and benchmark commands run
 directly on the host, not in containers.
 
@@ -289,6 +296,8 @@ separate so each stays below GitHub's individual-file size limit.
 BM25 vectors
 are regenerated locally because they do not incur an API charge.
 
+## Stop the Container
+
 To stop the system later while retaining its data volumes, run:
 
 ```bash
@@ -302,7 +311,7 @@ environment activated and `requirements.txt` installed. Complete the PostgreSQL
 and Qdrant loading steps above first: both layouts must be populated on both
 shards. The benchmark does not start services or load data.
 
-Start the populated system:
+Start the containers if they not already running:
 
 ```bash
 docker compose up -d --build
@@ -353,11 +362,11 @@ The default endpoint is `http://localhost:3000/query`, and the client timeout is
 
 The runner writes these files to the output directory:
 
-| File | Contents |
-| --- | --- |
-| `manifest.json` | Input checksums, selected configurations, repetition settings, and basic environment information |
-| `requests.jsonl` | One record per measured request, including timings, rankings, HTTP status, and failures; written incrementally |
-| `summary.json` | Correctness, retrieval quality, latency statistics, and confidence intervals; calculated after the request loop finishes |
+| File             | Contents                                                                                                                 |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| `manifest.json`  | Input checksums, selected configurations, repetition settings, and basic environment information                         |
+| `requests.jsonl` | One record per measured request, including timings, rankings, HTTP status, and failures; written incrementally           |
+| `summary.json`   | Correctness, retrieval quality, latency statistics, and confidence intervals; calculated after the request loop finishes |
 
 Client latency (`request_latency_ms`) includes the HTTP round trip and response
 decoding. Server timings include overall orchestrator work (`total_ms`), vector
@@ -663,7 +672,7 @@ Primary keys and unique constraints already supply their own indexes.
 - Production companies and TMDB popularity are omitted.
 - Only actor and director credits are modeled.
 
-### Qdrant retrieval model
+### Qdrant model
 
 Each point uses `movie_id` as its point ID and contains three named representations:
 
